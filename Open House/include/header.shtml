@@ -1,0 +1,25 @@
+
+<div id="header">
+		<div id="logo">
+			<a href="http://www.umbc.edu/" target="_blank"><img src="http://www.umbc.edu/images_new/umbc_logo.gif" alt="UMBC Logo" /></a>
+		</div><!--end logo-->
+		<div id="upper_nav">
+			<ul>
+				<li style="font-weight:bold;">UMBC links:&nbsp;</li>
+				<li> <a href="http://www.umbc.edu/siteindex/" class="toplinks" target="_blank"> A-Z Index</a> |&nbsp; 
+					<li> <a href="http://my.umbc.edu" class="toplinks" target="_blank"> myUMBC</a> |&nbsp; 
+				<li> <a href="http://www.umbc.edu/calendar" class="toplinks" target="_blank"> Calendar</a> |&nbsp; 
+				<li> <a href="http://www.umbc.edu/oit" class="toplinks" target="_blank"> Computing</a> |&nbsp; 
+				<li> <a href="http://www.umbc.edu/search/directory" class="toplinks" target="_blank"> Directory</a> |&nbsp; 
+			  <li> <a href="http://www.umbc.edu/aboutumbc/campusmap/" class="toplinks" target="_blank"> Maps</a></li>
+			</ul>
+			<form id="search" action="http://www.umbc.edu/stats/searchthru/" method="get">
+<div><label for="searchtext"><img src="http://www.umbc.edu/images_new/search.gif" alt="Search Listings" width="36" height="9" /></label>
+<input type="text" class="text" size="20" id="searchtext" name="q"/><input type="image" src="http://www.umbc.edu/images_new/go_button.gif" alt="Go" class="btn" /></div>
+<input value="umbc.edu" type="hidden" name="sitesearch" />
+<input value="umbc.edu" type="hidden" name="domains" />
+<input value="umbc" type="hidden" name="sitekey" />
+</form>
+		</div><!--end upper_nav-->
+			
+	</div><!--end header-->

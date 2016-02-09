@@ -1,0 +1,68 @@
+.header .ghost-button, .winter .ghost-button {
+  background-color:rgba(65, 64, 66, 0.75);
+}
+.summer .ghost-button {
+  background-color:rgba(249, 182, 49, 0.8);
+}
+#summer-header{background-color:rgba(249, 182, 49, .8)}
+
+#summer-header:hover,
+#summer-header:active {
+  background-color: #fff;
+  color: rgb(65, 64, 66);
+}
+.ghost-button {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+.ghost-button:hover,
+.ghost-button:active {
+  background-color: #fff;
+  color: rgb(65, 64, 66);
+}
+.ghost-button-rounded-corners {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+.ghost-button-rounded-corners:hover,
+.ghost-button-rounded-corners:active {
+  background-color: #fff;
+  color: #000;
+}
+.ghost-button-transition {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  transition: background-color 0.2s ease-out,
+              color 0.2s ease-out;
+}
+.ghost-button-transition:hover,
+.ghost-button-transition:active {
+  background-color: #fff;
+  color: #000;
+  transition: background-color 0.3s ease-in,
+              color 0.3s ease-in;
+}
+@media all and (max-width: 600px) {
+.ghost-button {
+	margin-bottom:10px;
+	text-align: center;
+}

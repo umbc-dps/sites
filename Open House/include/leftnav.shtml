@@ -1,0 +1,45 @@
+<ul id="nav">
+	<li><a href="index.html" style="font-family:'Arial Black', sans-serif;">Home</a>
+	<li><a href="#" style="font-family:'Arial Black', sans-serif;">Programs</a>
+    	<ul>
+			<li><a href="masters.html">Master's</a></li>
+			<li><a href="certificates.html">Certificates</a>
+            <ul>
+					<li><a href="tuitionandfees.html">Biortechnology Management</a></li>
+					<li><a href="housing.html">Biochemical Regulatory Engineering</a></li>          
+				
+					</ul>
+            
+            </li>
+        </ul>
+        </li>
+	<li><a href="admissions/" style="font-family:'Arial Black', sans-serif;">Admissions</a>
+		<ul>
+			<li><a href="admissions/masters.html">Master's</a></li>
+			<li><a href="admissions/certificates.html" target="_blank">Certificates</a>
+            	
+            </li>
+			<li><a href="admissions/international.html">International</a></li>
+        </ul>
+					
+	</li>
+	<li><a href="program_costs.html" style="font-family:'Arial Black', sans-serif;">Program Costs</a>
+	<li><a href="course_descriptions.html" style="font-family:'Arial Black', sans-serif;">Course Descriptions</a>
+    <li><a href="schedule_classes.html" style="font-family:'Arial Black', sans-serif;">Schedule of Classes</a>
+	<li><a href="newstudentwelcome.html" style="font-family:'Arial Black', sans-serif;">New Student Welcome</a>
+    <li><a href="#" style="font-family:'Arial Black', sans-serif;">Faculty &amp; Staff</a>
+		<ul>
+			<li><a href="tuitionandfees.html">Faculty</a></li>
+			<li><a href="housing.html">Staff</a></li>          
+				
+		</ul>
+	</li>
+	<li><a href="course_descriptions.html" style="font-family:'Arial Black', sans-serif;">Resources</a>
+    <li><a href="schedule_classes.html" style="font-family:'Arial Black', sans-serif;">Advisory Board</a>    
+    
+	
+	<li><a href="importantdates.html" style="font-family:'Arial Black', sans-serif;">Contact Us</a></li>
+    
+</ul>
+
+ 

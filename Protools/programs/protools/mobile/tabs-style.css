@@ -1,0 +1,104 @@
+.tabs-container {
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    min-width: 280px;
+    padding: 0 0 1px;
+    position: relative;
+    display: block;
+    overflow-x: hidden;
+    font-family: "Hevetica Neue",Helvetica,Arial,sans-serif;
+    width: 100%;
+}
+
+ul.tab-list {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+ul.tab-list li {
+    background: url('assets/img/tabbg.png') top center repeat-x;
+    display: block;
+    margin-bottom: 5px;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 49%;
+    float: left;
+    margin-right: 1%;
+}
+
+ul.tab-list li.left-tab {
+    margin-right: 2%;
+}
+
+
+ul.tab-list li p {
+    background: url("assets/img/tab_carrot.png") no-repeat scroll 92% center transparent;
+    color: #252525;
+    display: block;
+    float: left;
+    font-size: 14px;
+    text-decoration: none;
+    width: 100%;
+    margin-bottom: 0;
+    font-family: "Avenir 65", sans-serif;
+    padding: 0 0 0 7px;}
+
+ul.tab-list li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.tab-content {
+    border: 3px solid #666666;
+    clear: both;
+    overflow: hidden;
+    display: none;
+}
+
+.tab-content.default-content {
+    display: block;
+}
+
+.tab-content .row1, .tab-content .row2, .tab-content .row3 {
+    float: left;
+    text-decoration: none;
+    width: 100%;
+}
+
+.tab-content h3 {
+    font-size: 19px;
+    font-family: "Avenir 65", sans-serif;
+    color: #252525;
+    margin: 0 0 17px 30px;
+}
+
+.tab-content .top-header {
+    margin-top: 22px;
+}
+
+.tab-content img {
+    border: 2px solid #666666;
+    padding: 0;
+    height: auto;
+    max-width: 300px;
+    margin: 0 0 0 30px;
+    width: 60%;
+}
+
+.tab-content p {
+    margin: 17px 0 0 0;
+    line-height: 16px;
+}
+
+.tab-content p a {
+    line-height: 16px;
+    font-size: 14px;
+    color: #b41f00;
+    text-decoration: none;
+    font-family: "Helvetica", sans-serif;
+}
+
+.link-list {
+    margin: 0 0 35px 30px;
+}

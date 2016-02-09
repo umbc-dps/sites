@@ -1,0 +1,6 @@
+<nav role="navigation" id="site-menu"><!-- gold toolbar -->
+<ul id="menu-main" class="menu">
+
+<li><a name="yes" style="height:5px;"><img src="images/spacer.gif" width="1099" height="1" /></a></li>
+</ul>      
+</nav> <!-- END gold toolbar -->

@@ -1,0 +1,5 @@
+database_user: web.isdforum
+database_password: XUY5+w6T4fvj9nNR
+database_name: web_isdforum_prod
+database_name: web_isdforum_dev
+database_host: web-db.umbc.edu

@@ -1,0 +1,31 @@
+<header id="umbc-header" style="width:100%;"><!-- umbc header -->
+
+<div id="umbc-logo"><a href="http://umbc.edu" title="UMBC: An Honors University in Maryland"><span>UMBC: An Honors University in Maryland</span></a></div>
+
+<nav role="navigation" id="umbc-nav" >
+<ul id="umbc-nav-items">
+<li id="umbc-nav-azindex"><a href="http://umbc.edu/siteindex">A-Z Index</a></li>
+<li id="umbc-nav-myumbc"><a href="http://my.umbc.edu">myUMBC</a></li>
+<li id="umbc-nav-events"><a href="http://my.umbc.edu/events">Events</a></li>
+<!-- <li id="umbc-nav-computing"><a href="http://umbc.edu/doit">Computing</a></li> -->
+<li id="umbc-nav-directory"><a href="http://umbc.edu/search/directory">Directory</a></li>
+<li id="umbc-nav-maps"><a href="http://about.umbc.edu/visitors-guide/campus-map/">Maps</a></li>
+</ul>
+
+<form role="search" id="umbc-nav-search" action="http://www.umbc.edu/stats/searchthru/" method="get">
+            <div id="umbc-nav-search-input">
+              <label for="umbc-nav-search-query">Search UMBC</label>
+              <input type="hidden" name="cx" value="008589878477221853669:fglxypz-c8m" />
+              <input type="hidden" name="ie" value="UTF-8" />
+              <input id="umbc-nav-search-query" type="text" autocomplete="off" name="q" size="250" maxlength="250">
+              <input id="umbc-nav-search-submit" type="submit" value="">
+            </div>
+          </form>
+          <script type="text/javascript" src="http://www.google.com/cse/brand?form=umbc-nav-search&amp;amp;lang=en"></script>
+
+</nav>
+</header>
+
+
+
+

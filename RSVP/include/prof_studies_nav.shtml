@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>UMBC: Division of Professional Studies</title>
+
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
+
+    <!-- Sets the viewport width to the width of the device, so media queries work -->
+    <!-- NOTE: We're locking the max scale (which prevents zooming) to fix bugs
+         during orientation changes on devices.  Our styles should accomodate this though. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+    <link rel="icon" type="image/png" href="http://sites.umbc.edu/wp-content/themes/umbc/assets/images/icon.png" />
+
+    <!-- Template Styles -->
+  <!-- Template Styles -->
+  <script src="mobile/mdetect.php<?php if (!empty($_GET['mredirect']) && $_GET['mredirect'] == "n") print("?mredirect=n"); ?>" type="text/javascript"></script>
+  <script type="text/javascript" src="js/fade_image.js"> </script>
+
+<link href="css/fade_image.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Site-Specific Customizations -->
+    <?php include("include/dps_html_head.shtml"); ?>
+
+  <link rel="stylesheet" type="text/css" href="css/dps.css" />
+  <link rel="stylesheet" type="text/css" href="css/umbc12.css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+
+<script type="text/javascript" src="js/stu_flyout.js"></script>
+
+  </head>
+
+<body id="home"><div id="container-header-background" style="background-color:#000000;"><div id="skip-content"><a href="#main-content">Skip to Main Content</a></div>
+
+   <div id="container-header"><!-- main container -->
+            <?php include("include/blk_header_2012.shtml"); ?>
+            </div>
+    <!-- END umbc header -->
+    
+     <div id="site-menu-background"> 
+            <?php include("include/nav.shtml"); ?>
+            
+            
+            </div>
+            
+    </div>
+
+
+
+
+
+<section class="page-container layout-home">
+<section class="page-content">
+
+
+<div id="container">
+        <div id="subheaderpic">
+        <div class="blue_overlay">
+          <h1>Professional Studies </h1></div>
+        
+        
+      	  <div id="imageContainer">
+		    <img src="images/pshdr2.jpg"> </div>
+        
+        
+      	</div>
+
+    
+ <div class="breadcrumb">
+<p class="breadcrumb"><a href="http://www.umbc.edu/dps">Division of Professional Studies</a> / Professional Studies</p>
+</div>
+
+<div id="leftnav">
+
+        <?php include("include/leftnav_ps.shtml"); ?>    
+</div> 
+<!-- end Left_container -->
+
+
+<div id="sub_content">
+  <h1>Professional Studies</h1>
+ <h6>UMBC’s Division of Professional Studies offers a broad array of professionally focused master’s degrees,   graduate certificates, individual courses and non-degree training programs. The quality, diversity,   and flexibility of these education and training programs make it possible for students to pursue their   educational goals, whether for professional advancement, personal enrichment, or an academic   credential.</h6>
+ <p><strong><br>
+   Division of Professional Studies programs:</strong></p>
+ <ul><li>Seek the continuous input and counsel of Industrial Advisory Boards to ensure program<br>
+   content meets the demands of the current market and anticipate future opportunities<br></li>
+   <li>Engage top UMBC faculty, industry experts, and distinguished professionals and thought   leaders to teach courses and advise students<br></li>
+  <li> Deliver courses and training in modern, state-of-the-art learning centers with small<br>
+   classrooms, and leading edge technology<br></li>
+   <li>Focus on student success, providing opportunities to participate in research projects<br>
+   and engage in professional internships through The Shriver Center, and to obtain career<br>
+   guidance and support from the UMBC Career Development Center </li></ul>
+ <p>The Division develops and delivers customized, closed-cohort programs on site, including the special<br>
+   Education partnership program for working teachers offered in five area counties. It also offers a select<br>
+   number of online courses and programs, many in a hybrid format that integrate on-line learning with<br>
+   classroom instruction to ensure an optimal balance of learning, personal interaction, quality instruction,<br>
+   and time management.</p>
+ <p>The Division of Professional Studies currently offers programs and courses at 4 locations, including the<br>
+   UMBC campus, BWTech South Campus, Columbia, and the Universities at Shady Grove in suburban<br>
+   Washington, D.C.</p>
+ <p><strong>Just over 10,000 students enroll in Division of Professional Studies and Training Centers' programs each year.</strong></p>
+ <p><br>
+ </p>
+ </div>
+ 
+ <div class="lib" style="clear:right;"></div>
+ <!-- footer start -->
+ <div id="footer">
+ <?php include("include/footer.shtml"); ?> 
+
+</div><!-- end footer -->
+
+
+</div><!-- end container -->
+  </section> 
+</section>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1756263-11']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

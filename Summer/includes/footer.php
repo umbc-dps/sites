@@ -1,0 +1,1 @@
+    <p>© <script>document.write(new Date().getFullYear())</script> Office of Summer, Winter and Special Programs • 410-455-2335 • Sherman Hall East 4th Floor • <a href="mailto:summer@umbc.edu">summer@umbc.edu</a></p>

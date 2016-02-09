@@ -1,0 +1,5 @@
+database_user: web.profpgms
+database_password: LlaHTj5ohtNUtB/2
+database_name: web_profpgms_prod
+database_name: web_profpgms_dev
+database_host: web-db.umbc.edu

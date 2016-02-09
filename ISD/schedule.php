@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Schedule of Classes| Instructional Systems Development at UMBC</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="These programs may be completed completely online and is geared for those who design, deliver, support, and measure training, learning, and performance within organizations." />
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" value="summary">
+<meta name="twitter:site" content="@isdnow">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Schedule of Classes | Instructional Systems Development at UMBC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.umbc.edu/isd/schedule" />
+<meta property="og:image" content="http://umbc.edu/isd/images/current/2.jpg" />
+<meta property="og:description" content="These programs may be completed completely online and is geared for those who design, deliver, support, and measure training, learning, and performance within organizations." />
+
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+  <link href='css/magnific-popup.css' rel='stylesheet'>
+  <link href="css/styles.css" rel="stylesheet">
+
+<script src="js/modernizr.custom.js"></script>
+
+<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+</head>
+<body>
+  <div id="skip-content">
+    <a href="#main-content">Skip to Main Content</a>
+  </div>
+
+<!-- main container -->
+<div id="container-header-background">
+
+<!-- umbc header -->
+<div id="container-header">
+ <?php include("includes/umbc-header.php"); ?>
+</div>
+<!-- END umbc header -->
+
+<!-- gold toolbar -->
+<div id="site-menu-background">
+ <?php include("includes/menu.php"); ?>
+</div>
+<!-- END gold toolbar -->
+
+</div>
+
+<!-- BEGIN MAIN -->
+
+<!-- Page Header -->
+  <div class="container column">
+    <div class="sixteen columns">      
+<a href="index" style="text-decoration:none" id="breadcrumb">
+            <h1 class="home-header" id="dps" style="border:0;"><img alt="Instructional Systems Development" class="scale-with-grid" src="images/logo.png"><div align="center" style="border-top:2px #E9AB13 solid"></div></h1></a>
+    </div>
+<!-- END Page Header -->
+
+  <div class="eleven columns">
+  
+<!-- START Content -->
+
+  <h4>Course Offerings:</h4>
+  <p><em>Asynchronous</em> – eLearning classes that do <u>not</u> require students and instructors to be online at the same time.</p>
+  <p><em>Synchronous</em> – eLearning classes that <u>require</u> students and instructors to be online at the same time.  Students can log in from a PC in any location, as long as it has an internet connection.</p>
+  
+  <p><em>Hybrid</em> - meetings that include a mix of both in-person and online sessions.</p>
+  
+  <h4>Course Locations</h4>
+  <p>In-person courses will be located at the <a href="directions">South Campus location</a>.</p>
+
+
+  <h3>Schedule of Classes Spring 2016</h3>
+  <p><strong>Advance  Graduate Registration Begins:</strong>&nbsp;November 2, 2015<br>
+    <strong>New Graduate Registration Begins:</strong> December 1, 2015<br>
+    <strong>Non-Degree Student Registration Begins:</strong> January 18, 2016<br>
+    <strong>Semester Begins: </strong>Monday,  January 25, 2016<br>
+    <strong>Last  Day of Schedule Adjustment Period:</strong> Wednesday, February 10, 2016<br>
+    <strong>Last  Day of the Semester:</strong>&nbsp;Tuesday, May 10,  2016<br>
+    <strong>Final Exams:</strong> Thursday May 12-18, 2016<br>
+  <strong>Spring 2016 Academic Calendar:</strong> <a href="http://registrar.umbc.edu/files/2015/01/Spring-2016-academic-calendar.pdf">Click Here</a>
+  </p>
+<table id="schedule">
+  <TR>
+  <TD width="25%">Course   &amp;  
+    Class Number</TD>
+  <TD width="25%">Course Title</TD>
+  <TD width="25%">Day/Time</TD>
+  <TD width="15%">Instructor</TD>
+  <TD width="10%">Room</TD>
+</TR>
+  <tr>
+    <td width="64">EDUC 602 –    04 (2878)</td>
+    <td width="64">Instructional Systems Development    I</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Hodell, C. </td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 602 –    05 (2879)</td>
+    <td width="64">Instructional Systems Development    I</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Hodell, C.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 603 –    01 (2027)</td>
+    <td width="64">Instructional Systems Development    II</td>
+    <td width="64">Online Asynchronous </td>
+    <td width="64">Campos, J.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 603 –    02 (2028)</td>
+    <td width="64">Instructional Systems Development    II</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Campos, J.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 605 –    01 (2029)</td>
+    <td width="64">The Adult Learner</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Hodell, C.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 643 –    01 (2033)</td>
+    <td width="64">Principles of Distance Education</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Berge, Z.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 648    – 01 (2035)</td>
+    <td width="64">Consulting</td>
+    <td width="64">Online Asynchronous with some    Synchronous Teleconference sessions</td>
+    <td width="64">Buelow, J.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 671    – 01 (2046)</td>
+    <td width="64">Principles of Training and    Development</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Berge, Z. </td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 681    – 01 (2049)</td>
+    <td width="64">Survey of Instructional Technology    Applications</td>
+    <td width="64">Synchronous Online – Mondays 7:10    – 9:40 p.m.</td>
+    <td width="64">Kellerman, P. </td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 682    – 01 (4686)</td>
+    <td width="64">Instructional Technology Design    and Development</td>
+    <td width="64">Synchronous Online Wednesdays 7:10    – 9:40 p.m.</td>
+    <td width="64">Ira, K.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 683    – 03 (2050)</td>
+    <td width="64">Multi-Media Project Management</td>
+    <td width="64">First Two Thursdays of the    Semester will be Synchronous Online Thursday 7:10 – 9:40 p.m.; remaining    online asynchronous</td>
+    <td width="64">Ahmad, R.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 771 –    01 (2055)</td>
+    <td width="64">Research Designs in Education</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Curran, K.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 792T    – 01 (2058)</td>
+    <td width="64">ISD Internship-Training</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Williams, G.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td width="64">EDUC 794 –    02 (2061)</td>
+    <td width="64">ISD Project Seminar</td>
+    <td width="64">Online Asynchronous</td>
+    <td width="64">Williams, G.</td>
+    <td>n/a</td>
+  </tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<p>*Course held at UMBC BW Tech South (<strong><a href="directions3">Directions</a></strong>)</p>
+
+
+  
+<a id="sequence"></a><h3>Sequence of ISD Courses</h3>
+<p>This schedule is a guide only and is subject to change. While we make every effort to run all classes listed on this chart in the time frames stated, there are some rare instances when we need to reschedule or cancel classes.</p>
+<h5>Note:</h5>
+<ul>
+<li>EDUC 689 Special Topic: Managing Your Career is offered in the winter session. </li>
+</ul>
+<table id="schedule">
+   <tr>
+     <td width="35%">Course</td>
+     <td width="20%">Masters (MA) Required or Elective</td>
+     <td width="15%">   Fall     </td>
+     <td width="15%">  Spring </td>
+     <td width="15%"> Summer</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC602" target="_blank">EDUC 602</a></td>
+     <td>MA Required</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td>Online</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC603" target="_blank">EDUC 603</a></td>
+     <td>MA Required</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td>Online</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC605" target="_blank">EDUC 605</a></td>
+     <td>MA Required</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td>Online</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC641" target="_blank">EDUC 641</a></td>
+     <td>Elective</td>
+     <td></td>
+     <td></td>
+     <td>Online</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC643" target="_blank">EDUC 643</a></td>
+     <td>Elective</td>
+     <td></td>
+     <td>Online</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC647" target="_blank">EDUC 647</a></td>
+     <td>Elective</td>
+     <td>Online</td>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC648" target="_blank">EDUC 648</a></td>
+     <td>Elective</td>
+     <td></td>
+     <td>Online</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC671" target="_blank">EDUC 671</a></td>
+     <td>MA Required</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td>In-Person</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC681" target="_blank">EDUC 681</a></td>
+     <td>Elective</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td>Online</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC682" target="_blank">EDUC 682</a></td>
+     <td>Elective</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC683" target="_blank">EDUC  683</a></td>
+     <td>Elective</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC689-4" target="_blank">EDUC 689: Portfolio    Development and Talent Management</a></td>
+     <td>Elective</td>
+     <td>Online</td>
+     <td></td>
+     <td>Online</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC689" target="_blank">EDUC 689: Connecting    ISD and Human Performance Improvement</a></td>
+     <td>Elective </td>
+     <td>Online</td>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC689-6" target="_blank">EDUC 689: Design for How People Learn</a></td>
+     <td>MA Elective </td>
+     <td>Online</td>
+     <td></td>
+     <td></td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC771" target="_blank">EDUC     771</a></td>
+     <td>MA Required</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC792" target="_blank">EDUC 792T</a><br>
+(not to be taken at the same time as 794)</td>
+     <td>MA Required</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td>Online</td>
+   </tr>
+   <tr>
+     <td><a href="courses#EDUC794" target="_blank">EDUC     794</a> (Should be your last course)</td>
+     <td>MA Required</td>
+     <td>Online</td>
+     <td>Online</td>
+     <td>Online</td>
+   </tr>
+</table>
+   
+<br>
+
+  
+  <!-- END Content -->
+  
+</div>
+  
+<!-- SIDEBAR -->
+ <?php include("includes/sidebar.php"); ?>
+<!-- END SIDEBAR -->
+
+<!-- footer -->
+  <br clear="all">
+    
+<?php include("includes/footer.php"); ?>
+<?php include("includes/tracking.php"); ?>
+
+  <br>
+<!--END footer -->
+</div>
+<!-- container --> 
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="js/scripts.js"></script> 
+<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="js/jquery.magnific-popup.js"></script>
+<script src="js/popup.js"></script>
+
+
+
+</body>
+</html>

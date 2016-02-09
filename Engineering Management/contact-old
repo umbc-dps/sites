@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Contact Us | Engineering Management at UMBC</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Our Engineering program combines a practical business approach with an in-depth technical concentration and emphasizes how to lead people and manage complex projects." />
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" value="summary">
+<meta name="twitter:site" content="@UMBC_DPS">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Contact Us | Engineering Management at UMBC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.umbc.edu/engm/contact" />
+<meta property="og:image" content="http://www.umbc.edu/engm/images/bk.jpg" />
+<meta property="og:description" content="Our Engineering program combines a practical business approach with an in-depth technical concentration and emphasizes how to lead people and manage complex projects." />
+
+
+
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+  <link href='css/magnific-popup.css' rel='stylesheet'>
+  <link href="css/styles.css" rel="stylesheet">
+  <script src="js/modernizr.custom.js"></script>
+  <link href="images/favicon.ico" rel="shortcut icon">
+  <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+  <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+</head>
+
+<body>
+  <div id="skip-content">
+    <a href="#main-content">Skip to Main Content</a>
+  </div>
+  <!-- main container -->
+
+
+  <div id="container-header-background">
+    <!-- umbc header -->
+
+
+    <div id="container-header">
+      <?php include("includes/umbc-header.php"); ?>
+    </div>
+    <!-- END umbc header -->
+    <!-- gold toolbar -->
+
+
+    <div id="site-menu-background">
+      <?php include("includes/menu.php"); ?>
+    </div>
+    <!-- END gold toolbar -->
+  </div>
+  <!-- BEGIN MAIN --><!-- Page Header -->
+
+ <?php include("includes/header.php"); ?>
+ 
+<!-- END Page Header --><div class="eleven columns">
+      <!-- START Content -->
+
+
+      <h3>Contact Us</h3>
+
+
+     <form action="includes/submit.php" id="frmMain" method="post" name="frmMain" onsubmit="return DoValidate()">
+        <p>Thank you for your interest in the UMBC Engineering Management programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
+
+
+        <table border="0" id="contact">
+          <tr>
+            <td colspan="2"><input name="program" type="hidden" value="Engineering Management Contact Us Form">
+            </td>
+          </tr>
+
+
+          <tr>
+            <th width="45%">
+            </th>
+
+            <th width="45%">
+            </th>
+          </tr>
+
+
+          <tr>
+            <td>First Name:*</td>
+
+            <td><input id="firstname" name="firstname" type="text">
+            </td>
+          </tr>
+
+
+          <tr>
+            <td>Last Name:*</td>
+
+            <td><input id="lastname" name="lastname" type="text">
+            </td>
+          </tr>
+
+
+          <tr>
+            <td>Email Address:*</td>
+
+            <td><input id="email" name="email" type="text">
+            </td>
+          </tr>
+
+
+          <tr id="address1">
+            <td>Home Address:</td>
+
+            <td><input id="address" name="address" type="text">
+            </td>
+          </tr>
+
+
+          <tr id="city1">
+            <td>City:</td>
+
+            <td><input id="city" name="city" type="text">
+            </td>
+          </tr>
+
+
+          <tr id="state1">
+            <td>State:</td>
+
+            <td><select id="state" name="state">
+              <option value="AL">
+                AL
+              </option>
+
+              <option value="AK">
+                AK
+              </option>
+
+              <option value="AZ">
+                AZ
+              </option>
+
+              <option value="AR">
+                AR
+              </option>
+
+              <option value="CA">
+                CA
+              </option>
+
+              <option value="CO">
+                CO
+              </option>
+
+              <option value="CT">
+                CT
+              </option>
+
+              <option value="DE">
+                DE
+              </option>
+
+              <option value="DC">
+                DC
+              </option>
+
+              <option value="FL">
+                FL
+              </option>
+
+
+              <option value="GA">
+                GA
+              </option>
+
+              <option value="HI">
+                HI
+              </option>
+
+              <option value="ID">
+                ID
+              </option>
+
+              <option value="IL">
+                IL
+              </option>
+
+              <option value="IN">
+                IN
+              </option>
+
+              <option value="IA">
+                IA
+              </option>
+
+              <option value="KS">
+                KS
+              </option>
+
+              <option value="KY">
+                KY
+              </option>
+
+              <option value="LA">
+                LA
+              </option>
+
+              <option value="ME">
+                ME
+              </option>
+
+              <option selected value="MD">
+                MD
+              </option>
+
+              <option value="MA">
+                MA
+              </option>
+
+              <option value="MI">
+                MI
+              </option>
+
+              <option value="MN">
+                MN
+              </option>
+
+              <option value="MS">
+                MS
+              </option>
+
+              <option value="MO">
+                MO
+              </option>
+
+              <option value="MT">
+                MT
+              </option>
+
+              <option value="NE">
+                NE
+              </option>
+
+              <option value="NV">
+                NV
+              </option>
+
+              <option value="NH">
+                NH
+              </option>
+
+              <option value="NJ">
+                NJ
+              </option>
+
+              <option value="NM">
+                NM
+              </option>
+
+              <option value="NY">
+                NY
+              </option>
+
+              <option value="NC">
+                NC
+              </option>
+
+              <option value="ND">
+                ND
+              </option>
+
+              <option value="OH">
+                OH
+              </option>
+
+              <option value="OK">
+                OK
+              </option>
+
+              <option value="OR">
+                OR
+              </option>
+
+              <option value="PA">
+                PA
+              </option>
+
+              <option value="RI">
+                RI
+              </option>
+
+              <option value="SC">
+                SC
+              </option>
+
+              <option value="SD">
+                SD
+              </option>
+
+              <option value="TN">
+                TN
+              </option>
+
+              <option value="TX">
+                TX
+              </option>
+
+              <option value="UT">
+                UT
+              </option>
+
+              <option value="VT">
+                VT
+              </option>
+
+              <option value="VA">
+                VA
+              </option>
+
+              <option value="WA">
+                WA
+              </option>
+
+              <option value="WV">
+                WV
+              </option>
+
+              <option value="WI">
+                WI
+              </option>
+
+              <option value="WY">
+                WY
+              </option>
+            </select>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td>Postal Code:</td>
+
+            <td><input id="postalcode" maxlength="32" name="postalcode" type="text">
+            </td>
+          </tr>
+
+
+          <tr>
+            <td>Anticipated start date:*</td>
+
+            <td valign="middle"><select id="startdate" name="startdate">
+              <option selected value="">
+                Please Select One
+              </option>
+
+              <option value="Fall 2015">
+                Fall 2015
+              </option>
+
+              <option value="Spring 2016">
+
+                Spring 2016
+              </option>
+
+              <option value="Fall 2016">
+                Fall 2016
+              </option>
+              
+              <option value="Spring 2017">
+                Spring 2017
+              </option>
+
+              <option value="Unknown">
+                Unknown
+              </option>
+            </select>
+            </td>
+          </tr>          <tr>
+            <td>How did you hear about us:*</td>
+
+            <td valign="middle"><select id="howhear" name="howhear">
+              <option selected value="">
+                Please Select One
+              </option>
+
+              <option value="Email">
+                Email
+              </option>
+
+              <option value="Flyer/Poster">
+                Flyer/Poster
+              </option>
+
+              <option value="Friend/Associate">
+                Friend/Associate
+              </option>
+
+              <option value="Individual Visit">
+                Individual Visit
+              </option>
+
+              <option value="Internet Radio">
+                Internet Radio
+              </option>
+              
+              <option value="Internet Search">
+               Internet Search
+              </option>
+              
+              <option value="Publication">
+                Publication
+              </option>
+
+              <option value="Radio">
+                Radio
+              </option>
+
+              <option value="Social Media Networks">
+                Social Media Networks
+              </option>
+
+              <option value="Transfer Day">
+                Transfer Day
+              </option>
+              
+            </select>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td>
+
+            </td>
+          </tr>
+
+
+          <tr>
+            <td colspan="2">Which are of interest to you? Please check all that apply.</td>
+          </tr>
+
+
+          <tr>
+            <td class="checkbox" colspan="2"><input name="course1" type="checkbox" value="Master of Science in Engineering Management"> Master of Science in Engineering Management</td>
+          </tr>
+
+
+          <tr>
+            <td class="checkbox" colspan="2"><input name="course2" type="checkbox" value="Post-Baccalaureate Certificate in Engineering Management">             
+               Graduate Certificate in Engineering Management</td>
+          </tr>
+          
+
+
+          <tr>
+            <td>Questions/Comments:</td>
+          </tr>
+
+
+          <tr>
+            <td colspan="2">
+            <textarea class="formtext2" name="comments" rows="3" style="width:100%">
+</textarea>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td>What is the first letter of the alphabet? (authentication question)*:</td>
+
+            <td class="robot"><input class="input" name="hii" size="5" type="text">
+            </td>
+          </tr>
+
+
+          <tr>
+            <td align="center" colspan="2"><span class="formBot1"><input name="Submit" onmousedown="ga('send', 'event', 'inquiry', 'submit', 'contact_us');" style="width:100px; height:auto" type="submit" value="SUBMIT"></span>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td colspan="2" style="border-bottom: 2px #E9AB13 solid;"><strong>For more information on the program, please contact:</strong>
+            </td>
+          </tr>
+
+
+          <tr>
+            <td align="left" valign="top">
+              <p><strong>Kim Y. Edmonds</strong><br>
+Program Coordinator<br>
+<a href="mailto:kedmonds@umbc.edu" target="_blank">kedmonds@umbc.edu</a><br>
+<a href="tel:410-455-3445" target="_blank">410-455-3445</a></p>
+            </td>
+
+            <td align="left" valign="top">
+              <p><strong>Dr. Thomas Moore</strong><br>
+Graduate Program Director<br>
+<a href="mailto:mooretg@umbc.edu">mooretg@umbc.edu</a></p>
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
+    <!-- SIDEBAR -->
+    <?php include("includes/sidebar.php"); ?><!-- END SIDEBAR -->
+    <!-- footer -->
+    <br clear="all">  <?php include("includes/footer.php"); ?>
+  <?php include("includes/tracking.php"); ?>
+<br>
+    <!--END footer -->
+  </div>
+  <!-- container -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script src="js/scripts.js"></script> 
+<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="js/jquery.magnific-popup.js"></script>
+<script src="js/popup.js"></script>
+
+
+</body>
+</html>

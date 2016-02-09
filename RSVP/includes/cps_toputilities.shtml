@@ -1,0 +1,34 @@
+<link href="cps_style.css" rel="stylesheet" type="text/css" />
+<div id="page">
+   
+<table border="0" cellpadding="0" cellspacing="0" width="880">
+        <tr>
+            <td width="427" rowspan="2"><a href="http://www.umbc.edu"><img src="http://www.umbc.edu/images_new/umbc_logo.gif" border="0" alt="UMBC logo" /></a><a href="http://www.umbc.edu/training_centers/" title="UMBC Homepage"></a></td>
+          <td width="453"> <div id="toplinks" class="toplinks">
+       <span style="font-weight: bold;">UMBC Links: </span><a href="http://www.umbc.edu/siteindex/" class="toplinks">A-Z
+       Index</a> | <a href="http://my.umbc.edu" class="toplinks">myUMBC</a> | <a href="http://www.umbc.edu/" class="toplinks">UMBC
+       Home</a> | <a href="http://www.umbc.edu/edirectory/" class="toplinks">Directory</a> | <a href="http://www.umbc.edu/aboutumbc/campusmap/" class="toplinks">Maps</a></div>            </td>
+     </tr>
+     <tr>
+<td align="right">
+                <table border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                <td valign="left">
+                <form id="umbc-search" action="http://www.umbc.edu/stats/searchthru/" method="get">
+                    <div><label for="umbc-search-query"><img src="http://www.umbc.edu/images/umbc_search.gif" alt="Search" width="36" height="9" /></label></div>
+                    <div><input id="umbc-search-query" name="q" type="text" size="20" maxlength="50"/><input type="image" src="http://www.umbc.edu/images/umbc_search_go.gif" alt="Go" /></div>
+                    <input value="umbc.edu" type="hidden" name="sitesearch" />
+                    <input value="umbc.edu" type="hidden" name="domains" />
+                    <input value="umbc" type="hidden" name="sitekey" />
+                    <?php if (isset($options['searchScope'])) { ?>
+                        <div style="font-size: 11px;"><input type="radio" name="hq" checked="checked" value="site:umbc.edu<?php echo $options['searchScope'] ?>" /> This Site &nbsp;&nbsp; <input type="radio" name="hq" value="" /> All of UMBC</div>
+                    <?php } ?>
+                </form>
+                        
+               </td>
+               </tr>
+               </table>
+          </td>
+        </tr>
+    </table>
+    

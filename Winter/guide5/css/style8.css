@@ -1,0 +1,114 @@
+/* Overlay style */
+.overlay, .overlay2, .overlay3, .overlay4, .overlay5, .overlay6, .overlay7, .overlay8, .overlay9, .overlay10 {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(65, 64, 66,0.95);
+}
+
+/* Overlay closing cross */
+.overlay-close{
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	right: 20px;
+	top: 60px;
+	overflow: hidden;
+	border: none;
+	background: url(../images/cross.png) no-repeat center center;
+	text-indent: 200%;
+	color: transparent;
+	outline: none;
+	z-index: 100;
+}
+
+/* Menu style */
+.overlay nav, .overlay2 nav, .overlay3 nav, .overlay4 nav, .overlay5 nav, .overlay6 nav, .overlay7 nav, .overlay8 nav, .overlay9 nav, .overlay10 nav{
+	text-align: center;
+	position: relative;
+	top: 50%;
+	height: 60%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	overflow-y:auto; 
+}
+
+.overlay ul, .overlay2 ul, .overlay3 ul, .overlay4 ul, .overlay5 ul, .overlay6 ul, .overlay7 ul, .overlay8 ul, .overlay9 ul, .overlay10 ul {
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	display: inline-block;
+	height: 100%;
+	position: relative;
+}
+
+.overlay ul li, .overlay2 ul li, .overlay3 ul li, .overlay4 ul li, .overlay5 ul li, .overlay6 ul li, .overlay7 ul li, .overlay8 ul li, .overlay9 ul li, .overlay10 ul li {
+	display: block;
+	height: 20%;
+	height: calc(100% / 5);
+	min-height: 54px;
+}
+
+.overlay ul li a, .overlay2 ul li a, .overlay3 ul li a, .overlay4 ul li a, .overlay5 ul li a, .overlay6 ul li a, .overlay7 ul li a, .overlay8 ul li a, .overlay9 ul li a, .overlay10 ul li a {
+	font-size: 54px;
+	font-weight: 300;
+	display: block;
+	color: #fff;
+	-webkit-transition: color 0.2s;
+	transition: color 0.2s;
+}
+
+.overlay ul li a:hover, .overlay2 ul li a:hover, .overlay3 ul li a:hover, .overlay4 ul li a:hover, .overlay5 ul li a:hover, .overlay6 ul li a:hover, .overlay7 ul li a:hover, .overlay8 ul li a:hover, .overlay9 ul li a:hover, .overlay10 ul li a:hover, .overlay ul li a:focus, .overlay2 ul li a:focus, .overlay3 ul li a:focus, .overlay4 ul li a:focus, .overlay5 ul li a:focus, .overlay6 ul li a:focus, .overlay7 ul li a:focus, .overlay8 ul li a:focus, .overlay9 ul li a:focus, .overlay10 ul li a:focus{
+	color: #FDB913;
+}
+
+/* Effects */
+
+.container {
+	background: #fff;
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+}
+
+.container.overlay-open {
+	-webkit-transform: scale(0.8);
+	transform: scale(0.8);
+}
+
+.overlay-contentscale {
+	visibility: hidden;
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+	-webkit-transition: -webkit-transform 0.5s, visibility 0s 0.5s;
+	transition: transform 0.5s, visibility 0s 0.5s;
+}
+
+.overlay-contentscale.open {
+	visibility: visible;
+	-webkit-transform: translateY(0%);
+	transform: translateY(0%);
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+}
+
+@media screen and (max-height: 30.5em) {
+.overlay nav, .overlay2 nav, .overlay3 nav, .overlay4 nav, .overlay5 nav, .overlay6 nav, .overlay7 nav, .overlay8 nav, .overlay9 nav, .overlay10 nav {
+		height: 70%;
+		font-size: 34px;
+	}
+.overlay ul li, .overlay2 ul li, .overlay3 ul li, .overlay4 ul li, .overlay5 ul li, .overlay6 ul li, .overlay7 ul li, .overlay8 ul li, .overlay9 ul li, .overlay10 ul li{
+		min-height: 34px;
+	}
+}
+h3{color: #FFF}
+
+@media screen and (max-width: 800px){
+	.overlay-close{width: 25px; height: 25px;} 
+	h3{padding:5%;}
+	}
+	
+@media screen and (max-width: 600px){.meter > span {width:100%!important}}
+	
+body {background:url(../../images/paw-prints-lightest.jpg) bottom right no-repeat fixed;}

@@ -1,0 +1,5 @@
+database_user: web.isdwebinar
+database_password: LF4kINHDOi0mrKnD
+database_name: web_isdwebinar_prod
+database_name: web_isdwebinar_dev
+database_host: web-db.umbc.edu

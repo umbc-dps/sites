@@ -1,0 +1,56 @@
+<ul id="nav">
+	<li><a href="index.html" style="font-family:'Arial Black', sans-serif;">Home</a>
+	<li><a href="programs/" style="font-family:'Arial Black', sans-serif;">Programs</a>
+    	<ul>
+			<li><a href="masters.html">Master's</a></li>
+			<li><a href="certificates.html">Certificates</a>
+            <ul>
+					<li><a href="programs/biotechnologymanagement.html">Biortechnology Management</a></li>
+					<li><a href="programs/biochemicalregulatoryengineering.html">Biochemical Regulatory Engineering</a></li>          
+				
+					</ul>
+            
+            </li>
+        </ul>
+        </li>
+	<li><a href="admissions/" style="font-family:'Arial Black', sans-serif;">Admissions</a>
+		<ul>
+			<li><a href="admissions/masters.html">Master's</a></li>
+			<li><a href="admissions/certificates.html" target="_blank">Certificates</a>
+            </li>
+			<li><a href="admissions/international.html">International</a></li>
+        </ul>
+					
+	</li>
+	<li><a href="programcosts.html" style="font-family:'Arial Black', sans-serif;">Program Costs</a>
+	<li><a href="coursedescriptions.html" style="font-family:'Arial Black', sans-serif;">Course Descriptions</a>
+    <li><a href="scheduleofclasses.html" style="font-family:'Arial Black', sans-serif;">Schedule of Classes</a>
+	<li><a href="newstudentwelcome.html" style="font-family:'Arial Black', sans-serif;">New Student Welcome</a>
+    <li><a href="#" style="font-family:'Arial Black', sans-serif;">Faculty &amp; Staff</a>
+		<ul>
+			<li><a href="faculty.html">Faculty</a>
+            	<ul>
+                <li><a hre="#">Faculty Member</a></li>
+                <li><a hre="#">Faculty Member</a></li>
+                <li><a hre="#">Faculty Member</a></li>
+                </ul>
+            </li>
+			<li><a href="staff.html">Staff</a>
+            	<ul>
+                <li><a hre="#">Staff Member</a></li>
+                <li><a hre="#">Staff Member</a></li>
+                <li><a hre="#">Staff Member</a></li>
+                </ul>
+            </li>          
+				
+		</ul>
+	</li>
+	<li><a href="careerresources.html" style="font-family:'Arial Black', sans-serif;">Resources</a>
+    <li><a href="advisoryboard.html" style="font-family:'Arial Black', sans-serif;">Advisory Board</a>    
+    
+	
+	<li><a href="contact.html" style="font-family:'Arial Black', sans-serif;">Contact Us</a></li>
+    
+</ul>
+
+ 
