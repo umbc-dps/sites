@@ -47,7 +47,7 @@
   <!-- END umbc header -->
   <div id="site-menu-background">
     <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
+      <?php // include("includes/gold-nav.php"); ?>
     <!-- END gold toolbar --> 
   </div>
 </div>
@@ -67,18 +67,20 @@
 
 <li id="slide1">
 
-<a href="importantdates"><img src="images/6.jpg" alt="img03" target="_blank"></a>
+<a href="#"><img src="images/8.png" alt="img03" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Important Dates & Deadlines</h3>
-<small>Winter session ends Friday, January 22.  Final grades posted on myUMBC no later than January 29.</small>
+<h3>Winter 2016 Has Concluded</h3>
+<small>Thank you to all those who attended, and we invite you to join us again for Winter Session 2017!</small>
             
+<!--
 <p><a href="importantdates" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+-->
 
 </div>
 
-<p id="captiontwo"><a href="importantdates" target="_blank">Important Dates & Deadlines</a></p>
+<p id="captiontwo"><a href="#" target="_blank">Winter 2016 Has Concluded</a></p>
           
 </li>
 
@@ -100,18 +102,15 @@
     <div style="display:inline; float:left;"> 
       <!-- NEW ROW -->
  
-      <h2>January 4 – 22</h2>
+      <h2>Winter Session 2017</h2>
       
       <dl class="eleven columns alpha">
-      <h4>Grit Going!</h4>
+      <h4>Winter 2017 is January 3 - 27</h4>
+      <p>Please check back in mid-September for updated information.</p>
 <br>
 
 
-    <ul style="padding-left:40px">
-      <li style="list-style-type:square">Order official UMBC transcripts through <a href="http://registrar.umbc.edu/services/records/" target="_blank">Parchment Inc.</a>, UMBC&rsquo;s online transcript partner.</li>
-      <li style="list-style-type:square">There is a fee associated with ordering an official transcript.</li>
-      <li style="list-style-type:square">You can also download  and print an unofficial transcript through <em>my</em>UMBC.</li>
-    </ul>
+
 
 
  
