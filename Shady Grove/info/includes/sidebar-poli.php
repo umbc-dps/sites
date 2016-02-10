@@ -108,7 +108,7 @@
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
 <select name="entry.865173428" id="entry_865173428" aria-label="Please select Visit with Undergraduate Program Director  " aria-required="true" required>
 <option value=""></option>
-<option value="Political Science - Wednesday, February 10: 12:00pm">Political Science - Wednesday, February 10: 12:00pm</option> 
+<option value="Political Science - Wednesday, February 9: 12:00pm">Political Science - Wednesday, February 9: 12:00pm</option> 
 <option value="Political Science - Wednesday, February 17: 12:00pm">Political Science - Wednesday, February 17: 12:00pm</option>
 <option value="Political Science - Wednesday, February 24: 12:00pm">Political Science - Wednesday, February 24: 12:00pm</option>
 <option value="Political Science - Wednesday, March 2: 12:00pm">Political Science - Wednesday, March 2: 12:00pm</option>
