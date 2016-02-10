@@ -111,7 +111,7 @@
    <li>If paying by check, the check must be drawn on a bank with a U.S. location. The check should be payable to UMBC.</li>
  </ul>
  
- <p><strong>Please note:</strong> All international students are required to submit TOEFL scores unless you attended a university in an English-speaking country or hold an undergraduate degree from a U.S. institution. IELTS are not accepted in substitution for TOEFL scores.</p>
+ <p><strong>Please note:</strong> All international students are required to submit TOEFL scores unless you attended a university in an English-speaking country or hold an undergraduate degree from a U.S. institution. IELTS are accepted in substitution for TOEFL scores.</p>
  
  <h4>Obtaining Immigration Documents</h4>
  <p>If you intend to apply for an F-1 visa and require an I-20 from UMBC, please include the following additional documents with your application.</p>
