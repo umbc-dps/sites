@@ -73,7 +73,7 @@ The Universities at Shady Grove<br>
 
 <div class="ss-required-asterisk" aria-hidden="true">* Required</div></div></div>
 <div class="ss-form">
-<form action="https://docs.google.com/forms/d/1yMnGItWQjPSeKMklmyidmWFLKY2a5jo_3NvzvQj-GUc/formResponse" method="POST" id="ss-form" target="_self" onsubmit="ga('send', 'event', 'lead', 'submit', 'infosession'); trackConversionEvent('0.00','USD');">
+<form action="https://docs.google.com/forms/d/1yMnGItWQjPSeKMklmyidmWFLKY2a5jo_3NvzvQj-GUc/formResponse" method="POST" id="ss-form" target="_self" onsubmit="ga('send', 'event', 'lead', 'submit', 'infosession'); trackConversionEvent('0.00','USD'); fbq('track', 'CompleteRegistration');">
 
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-text">
