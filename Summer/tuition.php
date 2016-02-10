@@ -71,12 +71,23 @@
 <h4> About summer/winter session  tuition and fees</h4>
 
 <ul>
+
+<li>
+Summer 2016 tutition rates have not yet been published - please check back in early March.
+</li>
+
+<li>
+Summer 2015 tuition rates and fees can be <a href="http://sbs.umbc.edu/summer-2015-tuition/" target="_blank">viewed here</a>.</li>
+
+<!--
   <li><a href="http://sbs.umbc.edu/winter-2016-tuition/" target="_blank">View 2016 tuition &amp; fees</a>.</li>
   <li>Summer & winter session tuition is based on UMBC&rsquo;s standard credit hour tuition rate. To calculate the tuition cost of a summer course, multiply the credit hour rate X number of course credits.</li>
 
   <li>Standard summer/winter fees are limited to an auxiliary facilities fee ($22 per credit hour) and a summer/winter session fee ($20).</li>
 
   <li>In addition to the standard tuition and fees, some courses may have additional fees (such as lab or materials fees), which are noted in the <a href="courses">online</a> Schedule of Classes under "Class Attributes."</li>
+-->
+
 </ul>
 <h4> Schedule adjustment</h4>
 
