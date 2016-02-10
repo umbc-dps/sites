@@ -4,18 +4,18 @@
 
 <title>UMBC-Shady Grove Undergraduate | Meet Our Program Director</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Join us for Preview Night to learn important information regarding transfer requirements, application deadlines, scholarships, and financial aid opportunities." />
+<meta name="description" content="During this session, you will engage in discussion and conversation with the Program Director of your undergraduate program of interest." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UatShadyGrove">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="UMBC-Shady Grove | Meet Our Program Director" />
+<meta property="og:title" content="UMBC-Shady Grove Undergraduate | Meet Our Program Director" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/shadygrove/preview2" />
-<meta property="og:image" content="http://umbc.edu/shadygrove/preview2/images/preview-fb.png" />
-<meta property="og:description" content="Join us for Preview Night to learn important information regarding transfer requirements, application deadlines, scholarships, and financial aid opportunities." />
+<meta property="og:url" content="http://www.umbc.edu/shadygrove/info/ugprogramdirectors-socialwork" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/info/images/USG_FA15_SocialWork.png" />
+<meta property="og:description" content="During this session, you will engage in discussion and conversation with the Program Director of your undergraduate program of interest." />
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="../preview/css/styles.css" rel="stylesheet">
