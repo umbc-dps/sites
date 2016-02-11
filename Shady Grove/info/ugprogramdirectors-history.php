@@ -47,6 +47,7 @@
 .accordionbody img { padding: 0px 10px 5px 0px; width: 200px }
 .accordionbody ul{ margin-left:25px; }
 #mobile-site-menu-expander {display:none}
+option[value*="Political Science"], option[value*="Psychology"], option[value*="Social Work"], .poli, .psych, .socialwork  {display:none}
 
 </style>
 </head>
@@ -88,10 +89,7 @@
 <h3><a href="index"><img src="images/USG_FA15_History.png" alt="Meet Our Program Director!" style="width:100%"></a></h3>
 
 <h4>Dates:</h4>
-<h5>
-Wednesday, February 17 - 12:00pm<br>
-Thursday, April 7 - 5:30pm
-</h5>
+<?php include("includes/dates-pd.php"); ?>
 <br>
  
 <p>Please use this form to RSVP for an on-site, program-specific visit with our Undergraduate Program Directors.  A confirmation will appear after you click submit. During this session, you will engage in discussion and conversation with the Program Director of your undergraduate program of interest.</p>
@@ -117,7 +115,7 @@ Thursday, April 7 - 5:30pm
 
 <!-- SIDEBAR -->
 
-<?php include("includes/sidebar-history.php"); ?>
+<?php include("includes/sidebar-pd.php"); ?>
 
 <!-- END SIDEBAR -->
 <!-- footer -->

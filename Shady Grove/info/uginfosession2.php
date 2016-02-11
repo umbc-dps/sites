@@ -146,15 +146,14 @@ Thursday, April 7 - 5:30pm</p>
           
           
           <p><strong>Political Science:</strong><br>
-Wednesday, February 10 - 12:00PM<br>
 Wednesday, February 17 - 12:00PM<br>
 Wednesday, February 24 - 12:00PM <br>
-Wednesday, March 2 - 12:00PM 
+Wednesday, March 2 - 12:00PM <br>
+Wednesday, March 23 - 12:00PM 
           </p>
           
           <p>
         <strong>Psychology:</strong><br>
-Wednesday, February 10 - 12:00PM<br>
 Wednesday, March 9 - 2:00PM<br>
 Thursday, April 7 - 4:00PM
 </p>
