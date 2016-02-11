@@ -64,7 +64,80 @@
   
 <!-- START Content -->
 
+<h3>Summer 2016 Schedule of Classes</h3>
+<p>
+<strong>Registration Begins:</strong>  March 21st<br><br>
 
+
+<strong>Summer Session I</strong><br>
+
+6 weeks – May 31st – July 8th<br>
+12 weeks – May 31st – August 19th<br>
+
+<strong>Last Day to Add/Drop a Class:</strong>  June 3rd
+<br>
+<br>
+
+<strong>Summer Session II</strong><br>
+6 weeks – July 11th – August 19th<br>
+
+<br>
+  <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+<p>There may be more courses announced in the near future.  This list is not final.</p>
+
+<table id="schedule">
+  <tr>
+    <td width="21%">COURSE/CLASS<br>
+      NUMBER</td>
+    <td width="20%">COURSE TITLE </td>
+    <td width="17%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="10%">FORMAT</td>
+    <td width="12%">ROOM</td>
+  </tr>
+ <tr>
+ <td>CYBR 622 (2705)</td>
+ <td>Global Cyber Capabilities and Trends</td>
+ <td>Wednesday<br>
+ 12 weeks</td>
+ <td>7:10 PM - 10:20 PM</td>
+ <td>In Person</td>
+ <td>TBD</td>
+ </tr>
+ <tr>
+ <td>CYBR 650 (2704)</td>
+ <td>Cybersecurity Management</td>
+ <td>Tues/Thurs<br>
+ 6 weeks</td>
+ <td>7:10 PM - 10:20 PM</td>
+ <td>In Person</td>
+ <td>TBD</td>
+ </tr>
+ <tr>
+ <td>CYBR 691 (2703)</td>
+ <td>Special Topics:<br>
+ Cybercrime Investigations</td>
+ <td>Monday<br>
+ 12 weeks </td>
+ <td>7:10 PM - 10:20  PM</td>
+ <td>In Person</td>
+ <td>TBD</td>
+ </tr>
+ <tr>
+ <td>CYBR 691 (2225)</td>
+ <td>Special Topics:<br>
+ Software Security</td>
+ <td>Monday/Wed<br>
+ 6 weeks</td>
+ <td>7:10 PM - 10:20 PM</td>
+ <td>In Person</td>
+ <td>TBD</td>
+ </tr>
+ </table>
+
+<hr>
+  
 
 <h3>Spring 2016 Schedule of Classes </h3>
 

@@ -63,7 +63,80 @@ table#sequence td:first-child { text-align:left }
 <!-- END Page Header --><div class="eleven columns">
   
 <!-- START Content -->
+<h3>Summer 2016 Schedule of Classes</h3>
 
+<p>
+<strong>Registration Begins:</strong>  March 21st<br><br>
+
+
+<strong>Summer Session I</strong><br>
+
+6 weeks – May 31st – July 8th<br>
+12 weeks – May 31st – August 19th<br>
+
+<strong>Last Day to Add/Drop a Class:</strong>  June 3rd
+<br>
+<br>
+
+<strong>Summer Session II</strong><br>
+6 weeks – July 11th – August 19th<br>
+
+<br>
+  <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+<p>There may be more courses announced in the near future.  This list is not final.</p>
+
+<table id="schedule">
+  <tr>
+    <td width="20%">COURSE/CLASS NUMBER</td>
+    <td width="20%">COURSE TITLE </td>
+    <td width="10%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="10%">FORMAT</td>
+    <td width="10%">ROOM</td>
+  </tr>
+   <tr>
+     <td>ENMG 650 (1189) 
+  </td>
+  <td>Project Management</td>
+  <td>Tuesday
+  12 weeks</td>
+  <td>6:00 - 9:10 PM</td>
+  <td>Hybrid</td>
+  <td>TBD</td>
+ </tr>
+ <tr>
+  <td>ENMG 652 (1043) </td>
+  <td>Management Leadership &amp;
+  Communications</td>
+  <td>Monday
+  12 weeks </td>
+  <td>4:30 PM - 7:40 PM</td>
+  <td>Hybrid</td>
+  <td>TBD</td>
+ </tr>
+ <tr>
+  <td>ENMG 652 (2699)</td>
+  <td>Management Leadership &amp;
+  Communications</td>
+  <td>Saturday
+  12 weeks</td>
+  <td>9:00AM - 12:10PM</td>
+  <td>In Person</td>
+  <td>TBD</td>
+ </tr>
+ <tr>
+  <td>ENMG 658 (1484) </td>
+  <td>Financial Management</td>
+  <td>Wednesday
+  12 weeks</td>
+  <td>6:00 PM - 9:10 PM</td>
+  <td>In Person</td>
+  <td>TBD</td>
+   </tr>
+   </table>
+
+<hr>
 
   
 <h3>Spring 2016 Schedule of Classes</h3>
