@@ -72,8 +72,8 @@
 
 	<h5>Summer Session</h5>
 		<ul>
-       		<li>Monday, April 20th is priority deadline for Summer Housing applications.</li> 
-			<li>Click here for more information and to apply for summer housing.</li>
+       		<li>Monday, April 18th is priority deadline for Summer Housing applications.</li> 
+			<li>Additional information and summer summer housing applications will be available March 18.</li>
 		</ul> 
       
        
@@ -89,7 +89,7 @@
 
      <!-- END Content -->
      
-		</div>
+	  </div>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 

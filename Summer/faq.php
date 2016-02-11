@@ -13,7 +13,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="FAQs | Summer Programs at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/excesscredit" />
+<meta property="og:url" content="http://www.umbc.edu/summer/faq" />
 <meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
 <meta property="og:description" content="This UMBC 2016 Summer Session, you can take up to 16 credits each summer session." />
 
@@ -132,7 +132,7 @@
  <div class="accordionbody">
 <ul>
   <li>Students living in continuous occupancy, 9-month housing may remain on campus during January for Winter Session.  </li>
-  <li><a href="housing" target="_blank">Click here</a> for more information.</li>
+  <li><a href="housing" target="_blank">Click here</a> for Summer Session information.</li>
 </ul>
 </div>
 <br>
