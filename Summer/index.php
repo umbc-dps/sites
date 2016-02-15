@@ -195,8 +195,7 @@ March 21. View the schedule of classes. </small>
 
 <br>    
 <h2>Registration Opens March 21</h2>
-<p>Visiting students from other institutions must first apply (and be accepted) before registering for UMBC summer courses.
-The visiting student application will be available beginning on February 15.</p>
+<p>UMBC students currently enrolled in spring 2016 are eligible to register for summer session beginning on March 21. Visiting students from other institutions must first <a href="visitingstudents">apply</a> for summer term admission (and be accepted) before registering for summer courses. </p>
 
 <br>
 	<h3><strong>May 31 – August 19</strong></h3>
