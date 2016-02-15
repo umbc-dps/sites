@@ -103,6 +103,31 @@
  <div class="accordionbody">
   <p>View how to <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=33851010">forward</a> your UMBC e-mails to an already existing e-mail account (Hotmail, Gmail, etc.).</p>
 </div>
+
+<div class="accordionheader">
+  <h4>When will I be billed?  How do I pay my bill?<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+    <ul>
+      <li>Your billing date and due date are determined by your <a href="http://www.umbc.edu/summer/financialdates" target="_blank">registrations date</a>.</li>
+      <li>UMBC bills students electronically - paper bills are not issued.</li>
+      <li>Information on how to view your account (and pay your bill) <a href="http://www.umbc.edu/summer/billing" target="_blank">can be found here</a>.</li>
+    </ul>
+</div>
+
+<div class="accordionheader">
+  <h4>Are scholarships or financial aid available?
+<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+          <ul>
+            <li>A limited number of full and partial <a href="http://www.umbc.edu/summer/scholarships" target="_blank">course scholarships</a> are available to UMBC degree-seeking students.</li>
+            <li><a href="http://www.umbc.edu/summer/financialaid" target="_blank">Financial aid</a> (loans and/or grants) may be available for eligible UMBC students who are making satisfactory academic progress (SAP).</li>
+          </ul>
+</div>
+
 <div class="accordionheader">
   <h4>Where can I eat on campus during summer &amp; winter session?<i class="fa fa-angle-down"></i></h4>
 </div>
