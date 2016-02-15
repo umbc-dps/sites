@@ -223,8 +223,20 @@ You can grant permission to let others see your schedule or grades through &ldqu
         <li>If the class has a waitlist, you will be notified of your position on the waitlist after you have completed registration.</li>
         <li><a href="registrationtips" target="_blank">Click here</a> for more information.</li>
       </ul>
- 
 </div>
+
+
+  <div class="accordionheader">
+  <h4>What accommodations are available?<i class="fa fa-angle-down"></i></h4>
+ </div>
+
+ <div class="accordionbody">
+ <p>
+ The mission of Student Disability Services (SDS) at the University of Maryland, Baltimore County (UMBC), is to provide necessary accommodations to ensure all campus programs and services are accessible to <strong>enrolled</strong> UMBC students with disabilities.
+ </p>
+ 
+ <p>For more information (or to request services) visit the <a href="http://sss.umbc.edu/" target="_blank">SDS website</a>.</p>
+ </div>
  <br>
 
      <!-- END Content -->

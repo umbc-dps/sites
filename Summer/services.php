@@ -204,14 +204,28 @@
    <li>There is a fee associated with ordering an official transcript.</li>
    <li>You can also download&nbsp; and print an unofficial transcript through <em>my</em>UMBC.</li>
   </ul>
- 
  </div>
+ 
 <div class="accordionheader">
   <h4> Help Tickets<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">
   <p>Submit a <a href="https://rt.umbc.edu/UMBC/RequestHelp.html"><em>my</em>UMBC Help Ticket</a> for billing issues, computing/technology support, questions about your class schedule, grades, etc.</p>
+</div>
+
+<div class="accordionheader">
+  <h4>Accomodations<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+
+    <ul>
+      <li>Accommodations are delivered on a case by case basis in order to determine what is appropriate for each student.</li>
+      <li>An individualized in-person intake appointment is offered to all students who submit a SDS registration form with appropriate documentation of disability</li>
+      <li>For more information (or to request services) visit the <a href="http://sss.umbc.edu/" target="_blank">SDS website</a>.</li>
+    </ul>
+
 </div>
 
      <!-- END Content -->
