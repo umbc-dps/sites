@@ -34,7 +34,7 @@
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 </head>
 
-<body>
+<body data-gr-c-s-loaded="true" cz-shortcut-listen="true">
 
 <div id="skip-content">
  <a href="#main-content">Skip to Main Content</a>
@@ -110,9 +110,9 @@
 
  <div class="accordionbody">
     <ul>
-      <li>Your billing date and due date are determined by your <a href="http://www.umbc.edu/summer/financialdates" target="_blank">registrations date</a>.</li>
+      <li>Your billing date and due date are determined by your <a href="financialdates" target="_blank">registrations date</a>.</li>
       <li>UMBC bills students electronically - paper bills are not issued.</li>
-      <li>Information on how to view your account (and pay your bill) <a href="http://www.umbc.edu/summer/billing" target="_blank">can be found here</a>.</li>
+      <li>Information on how to view your account (and pay your bill) <a href="billing" target="_blank">can be found here</a>.</li>
     </ul>
 </div>
 
@@ -123,8 +123,8 @@
 
  <div class="accordionbody">
           <ul>
-            <li>A limited number of full and partial <a href="http://www.umbc.edu/summer/scholarships" target="_blank">course scholarships</a> are available to UMBC degree-seeking students.</li>
-            <li><a href="http://www.umbc.edu/summer/financialaid" target="_blank">Financial aid</a> (loans and/or grants) may be available for eligible UMBC students who are making satisfactory academic progress (SAP).</li>
+            <li>A limited number of full and partial <a href="scholarships" target="_blank">course scholarships</a> are available to UMBC degree-seeking students.</li>
+            <li><a href="financialaid" target="_blank">Financial aid</a> (loans and/or grants) may be available for eligible UMBC students who are making satisfactory academic progress (SAP).</li>
           </ul>
 </div>
 
@@ -146,7 +146,7 @@
 <ul>
 <li>Submit an online <a href="faq"><em>my</em></a> <a href="https://rt.umbc.edu/UMBC/RequestHelp.html">UMBC Help Ticket</a>. Use myUMBC Help Tickets for billing issues, computing/technology support, questions about your class schedule, grades, etc.</li>
 <li>Access the myUMBC Help Ticket site and login with your myUMBC user name and password.</li>
-<li>Additional administrative support information can be found <a href="deptcontact.php">here</a>.</li>
+<li>Additional administrative support information can be found <a href="deptcontact">here</a>.</li>
 </ul>
 </div>   
 
@@ -173,7 +173,19 @@
   <li>Follow the instructions on the <a href="coursesprerequisites">Course Prerequisites</a> page to complete a Prerequisite Override Request.</li>
   </ul>
 </div> 
- 
+
+
+ <div class="accordionheader">
+  <h4>Why can't I use <em>my</em>UMBC to change my schedule?<i class="fa fa-angle-down"></i></h4>
+ </div>
+
+ <div class="accordionbody">
+ 	<ul>
+                                                                     <li>During the <a href="scheduleadjustment" target="_blank">Schedule Adjustment Period</a> students can use <em>my</em>UMBC to add, drop or swap courses.</li>
+                                                                     <li>Schedule changes are limited once the Schedule Adjustment Period ends - please see <a href="importantdates" target="_blank">academic dates/deadlines</a>.</li>
+                                                                     <li>After the Schedule Adjustment Period, students must submit an <a href="http://registrar.umbc.edu/contact/" target="_blank">RT Help Ticket</a> to the Registrar's Office for any schedule change requests.</li>
+                                                                   </ul>
+ </div>
  
  
  
@@ -187,6 +199,8 @@
   <li>Make sure you have taken care of all of your campus information, including - campus ID, E2Campus alerts, parking, regularly check UMBC e-mail, etc. Also, ensure you have reviewed all of the course information, including - blackboard access, textbooks, regularly check UMBC e-mail, etc.</li>
   </ul>
 </div>
+
+
  <div class="accordionheader">
   <h4>What is Blackboard?<i class="fa fa-angle-down"></i></h4>
  </div>
