@@ -81,7 +81,7 @@
 <p>Located in the heart of Tuscany, Siena is a small, peaceful city (somewhat off the beaten path) that provides an authentic Italian daily living experience. Siena also lies within easy distance of most of Italy’s most popular and well-traveled hotspots, such as Florence and Rome, Venice, Milan, and Naples.</p>
 
 <p>Students from all majors are encouraged to apply. </p>
-<p>For detailed information <a href="https://youtu.be/1q7_OXqbGtU" target="_blank">view a brief video</a> or contact Dr.            Forestiere at <a moz-do-not-send="true" href="mailto:forestie@umbc.edu">forestie@umbc.edu</a>.</p>
+<p>For detailed information <a href="https://www.youtube.com/watch?v=1q7_OXqbGtU" class="video">view a brief video</a> or contact Dr. Forestiere at <a href="mailto:forestie@umbc.edu">forestie@umbc.edu</a>.</p>
 <hr>
 
 <h3><strong>Poland Study Abroad: July 11 - August 5</strong></h3>
@@ -95,7 +95,7 @@
 <h4>The Country</h4>
 <p>Poland offers a number of natural attractions, from beaches on the Baltic coast and expansive lakes in the north, to the beautiful Tatry mountains in the south. Students will also have opportunities to travel outside of class.</p>
 <p>Students from all majors are encouraged to apply.</p>
-<p>For detailed information <a href="https://docs.google.com/a/umbc.edu/viewer?a=v&pid=sites&srcid=dW1iYy5lZHV8YnJpYW4tZ3JvZHNreXxneDoxN2MwNjdmYjA2NWVmY2Iy" target="_blank">download the brochure</a>, <a href="https://youtu.be/A1LLWTHjPjE" target="_blank">view a brief video</a>, or contact Dr. Grodsky at <a href="mailto:bgrodsky@umbc.edu">bgrodsky@umbc.edu</a> </p>
+<p>For detailed information <a href="https://docs.google.com/a/umbc.edu/viewer?a=v&pid=sites&srcid=dW1iYy5lZHV8YnJpYW4tZ3JvZHNreXxneDoxN2MwNjdmYjA2NWVmY2Iy" target="_blank">download the brochure</a>, <a href="https://www.youtube.com/watch?v=A1LLWTHjPjE" class="video">view a brief video</a>, or contact Dr. Grodsky at <a href="mailto:bgrodsky@umbc.edu">bgrodsky@umbc.edu</a> </p>
 
 
 <hr>
