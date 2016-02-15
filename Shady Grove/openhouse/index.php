@@ -74,26 +74,25 @@
 
 <h3>
 	<a href="index">
-    	<img src="images/header.png" alt="Regalia" style="width:100%">
+    	<img src="images/header.png" alt="Open House" style="width:100%">
 	</a>
 </h3>
 
-<h5>
-Please follow the following steps to order your regalia and have it delivered to Shady Grove for pick-up.  Order by March 11, 2016 to avoid the $25 late fee.  The ordering site will be shut 
-down on March 14.
-</h5>
+<h4 style="text-align:center">
+The USG Open House is taking place Saturday, <strong>March 5th</strong> from <strong>9:00am-12pm</strong> at The Universities at Shady Grove (USG). Drop-in when you can and leave when you must!
+</h4>
 <br>
- 
-<h3>Step 1 - Ordering</h3>
 
-<p><a href="http://colleges.herffjones.com/college/umbc/" target="_blank">Order your cap and gown online</a> through Herff Jones.</p>
- 
-<h3>Step 2 - Delivery to USG</h3>
-<p>If you would like to pick up your regalia from UMBC-Shady Grove, fill out the <a href="https://docs.google.com/a/umbc.edu/forms/d/1iZU2XINjobsN_gJtl9QA4eVmdSzJ9sw1SfvU94y7nvw/viewform" target="_blank">Regalia Delivery Request Form</a>.
+<p style="text-align:center">
+<a href="https://shadygrove.askadmissions.net/Portal/EI/Registration?gid=6235779e0a29c908b74ca69baef58da998784d" class="btn" target="_blank" style="font-size:150%">RSVP For the General USG Open House</a>
+</p>
 
-<p style="background-color:#ffcc00; padding: 10px;"><strong>Note:</strong> You must order online and submit the information via the google form if you would like your order delivered to USG.  If you adhere to all of the guidelines and deadlines above, you will receive an e-mail when your items are available for pick-up at Shady Grove in December. You will not need to travel to main campus for ordering, nor for pick up.</p>
+<ul>
+  <li>At the USG Open House, students will have an opportunity to meet and discuss next steps in the transfer process with our History, Political Science, Psychology, and Social Work Program Directors.  </li>
+  <li>During the Open House (<span data-term="goog_1370937997" tabindex="0">10:30am-11:30am</span>) students will also have the opportunity to meet with Chelsea Moyer, Program Coordinator, to receive assistance in beginning their Common Application to UMBC-Shady Grove undergraduate programs. (Room TBD - but I should be able to get this info to you shortly.)</li>
+  <li>For those students interested in learning more about the transfer process, application and admission process as well as financial aid and scholarship opportunities, UMBC-Shady Grove will be hosting an Undergraduate Information Session following the Open House from <span data-term="goog_1370937998" tabindex="0">12:30pm-1:30pm</span> in the Camille Kendall Academic Center (Building III), Room 3156. <a href="http://www.umbc.edu/shadygrove/info/uginfosession.php" target="_blank">RSVP to attend</a>.</li>
+</ul>
 
-<p style="text-align:center; font-weight:bold">Visit <a href="http://commencement.umbc.edu/" target="_blank">UMBC's Commencement Page</a>, for more information on Commencement, including directions to the venue and special accommodations for guests.</p>
 
 <!-- END Content -->
 
