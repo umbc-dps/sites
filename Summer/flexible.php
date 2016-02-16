@@ -68,7 +68,7 @@
       
      <!-- Start Content --> 
 
-<h5>So, you know we offer  <a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch">traditional in-person classes</a> at our main Catonsville campus  during the winter, but did you know that we also offer courses fully online, in  a hybrid format and at the Universities at Shady Grove in Rockville, MD?</h5>
+<h5>So, you know we offer  <a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch">traditional in-person classes</a> at our main Catonsville campus  during the summer, but did you know that we also offer courses fully online, in  a hybrid format and at the Universities at Shady Grove in Rockville, MD?</h5>
 
 <p><h5>We  think it's nice to have options. We're sure you do too!</h5></p>
 
@@ -76,7 +76,7 @@
 <ul>
   <li>Hybrid courses blend in-person and online learning.</li>
   <li>Most hybrid courses reduce in-class time and require  more self-directed learning.</li>
-  <li>View summer 2016 <a href="hybridcourses">hybrid  courses offered</a>.</li>
+  <li>View summer 2016 <a href="all-courses#hybrid">hybrid  courses offered</a>.</li>
 </ul>
 
 <h4>Online Courses</h4>
@@ -84,15 +84,19 @@
   <li>Online courses use Blackboard (UMBC's course management  system) and emphasize self-directed student learning.</li>
   <li>Students do not come to campus for class meetings, but  instead manage their own learning online.</li>
   <li>In the Schedule of Classes, &ldquo;Days &amp; Times&rdquo; are  listed as &ldquo;TBA&rdquo; for online courses.</li>
-  <li>View summer 2016 <a href="onlinecourses">online  courses offered</a>.</li>
+  <li>View summer 2016 <a href="all-courses#online">online  courses offered</a>.</li>
 </ul>
 
 <h4>Shady Grove Courses</h4>
 <p>The Universities at Shady Grove (USG) is a University System  of Maryland regional center located in Rockville, MD.</p>
 <ul>
   <li>During summer and winter sessions, USG is open to Main  campus UMBC students, Current UMBC at USG students, Incoming transfer students,  Visiting students from other college and universities.</li>
-  <li>View summer 2016 <a href="shadygrovecourses">courses  offered at UMBC-Shady Grove</a>.</li>
+  <li>View summer 2016 <a href="all-courses#shady grove">courses  offered at UMBC-Shady Grove</a>.</li>
 </ul>
+
+<p style="text-align:center">
+<a href="all-courses" class="button" target="_blank">View all courses</a> <a href="documents/catalog.pdf" class="button" target="_blank">Download the Catalog</a>
+</p>
 
      <!-- END Content -->
      
