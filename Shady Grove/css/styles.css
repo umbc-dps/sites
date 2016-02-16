@@ -136,6 +136,19 @@ aside .btn, input.btn  {
   padding: 5px 10px 5px 10px;
   text-decoration: none;
 }
+.btn2 {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  color: #000 !important;
+  background: #E9AB13!important;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+.btn2:hover {
+  background: #e0c586!important;
+  text-decoration:none;
+}
 aside#four input.btn{
   font-size: 10pt !important;
   border: 0;
