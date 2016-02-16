@@ -147,7 +147,7 @@ aside .btn, input.btn  {
   font-weight:bold;
 }
 .btn2:hover {
-  background: #e0c586!important;
+  color: #FFF !important;
   text-decoration:none;
 }
 aside#four input.btn{
