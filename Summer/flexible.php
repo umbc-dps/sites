@@ -95,7 +95,7 @@
 </ul>
 
 <p style="text-align:center">
-<a href="all-courses" class="button" target="_blank">View all courses</a> <a href="documents/catalog.pdf" class="button" target="_blank">Download the Catalog</a>
+<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" class="button" target="_blank">View all courses</a> <a href="documents/catalog.pdf" class="button" target="_blank">Download the Catalog</a>
 </p>
 
      <!-- END Content -->
