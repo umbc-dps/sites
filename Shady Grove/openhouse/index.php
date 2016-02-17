@@ -96,7 +96,7 @@ Drop-in when you can and leave when you must!</h4>
   <a href="http://www.umbc.edu/shadygrove/info/uginfosession.php" target="_blank" class="btn2">RSVP to Attend the Info Session</a>
   </p>
   
-  <h4 style="text-align:center">We look forward to meeting you soon!</h4>
+  <h5 style="text-align:center">We look forward to meeting you soon!</h5>
 
 
 
