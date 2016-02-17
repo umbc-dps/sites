@@ -13,6 +13,7 @@
         <li><a href="hybrid">Hybrid/Online Courses</a></li>
         <li><a href="shadygrove">Shady Grove Courses</a></li>
         <li><a href="all-courses#evening">Evening Courses</a></li>
+        <li><a href="documents/catalog.pdf">Download Catalog</a></li>
       </ul>
     </li>
     <li><a href="#">Register/Apply</a>
