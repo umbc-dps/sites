@@ -7,7 +7,6 @@ Wednesday, March 23 - 12:00PM
 </h5>
 
 <h5 class="socialwork">
-Tuesday, February 16 - 5:00PM<br>
 Wednesday, March 9 - 12:00PM<br>
 Tuesday, April 12 - 5:00PM
 </h5>

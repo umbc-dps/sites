@@ -33,6 +33,9 @@
 
 <style>
 #mobile-site-menu-expander{display:none}
+
+iframe{width:100%; height:1500px}
+
 </style>
 </head>
 
@@ -73,81 +76,11 @@
 
 <h3>
 	<a href="index">
-    	<img src="images/header.png" alt="Open House" style="width:100%">
+    	<img src="images/header2.png" alt="Open House" style="width:100%">
 	</a>
 </h3>
 <br>
-<div class="seven columns offset-by-one" style="text-align:center">
-	<h4>
-		<strong>
-        	Prospective Undergraduate<br>
-  			In-Person Information Sessions
-  		</strong>
-	</h4>
-
-	<p>
-		Saturday, March 5 - 12:30pm<br>
-  		Thursday, April 14 - 5:30pm<br>
-  		Friday, May 20 - 12:00pm<br>
-    <br>
-  		<a href="rsvp" target="_blank">
-        	<img src="../images/infosession.png">
-		</a>
-	</p>
-
-	<h4>
-    	<strong>Prospective Undergraduate <br>
-  Virtual Information Sessions
-  		</strong>
-	</h4>
-
-	<p>
-Tuesday, February 23 - 12:00pm<br><br>
-		<a href="https://attendee.gotowebinar.com/register/3073992990463994626" target="_blank">
-    		<img src="../images/infosession.png">
-		</a>
-	</p>
-</div>
-
-<div class="seven columns" style="text-align:center; border-left: 2px #000 solid">
-	<h4>
-    	<strong>Visit with Undergraduate<br>
-        Program Directors
-        </strong>
-	</h4>
-
-	<p>
-		<strong>History:</strong><br>
-		Wednesday, February 17 - 12:00pm<br>
-		Thursday, April 7 - 5:30pm
-	</p>
-          
-	<p>
-    	<strong>Political Science:</strong><br>
-		Wednesday, February 17 - 12:00PM<br>
-		Wednesday, February 24 - 12:00PM <br>
-		Wednesday, March 2 - 12:00PM <br>
-		Wednesday, March 23 - 12:00PM 
-	</p>
-          
-	<p>
-        <strong>Psychology:</strong><br>
-		Wednesday, March 9 - 2:00PM<br>
-		Thursday, April 7 - 4:00PM
-	</p>
-
-	<p>
-        <strong>Social Work:</strong><br>
-		Wednesday, March 9 - 12:00PM<br>
-		Tuesday, April 12 - 5:00PM
-	</p>
-
-	<p>
-		<a href="pd" target="_blank">
-			<img src="../images/visitus.png">
-      	</a>
-	</p>
-</div>
+<iframe src="https://docs.google.com/forms/d/1lY86-enrQxgjxPER70wCOvBnt0vlqVHItBM37312F2o/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 <br clear="all">
 
 
