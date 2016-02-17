@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>UMBC-Shady Grove Order Regalia</title>
+<title>UMBC-Shady Grove Open House</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="Please follow the following steps to order your regalia and have it delivered to Shady Grove for pick-up." />
 
@@ -11,7 +11,7 @@
 <meta name="twitter:site" content="@UatShadyGrove">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="UMBC-Shady Grove Order Regalia" />
+<meta property="og:title" content="UMBC-Shady Grove Open House" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/regalia" />
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/commencement.png" />
@@ -78,7 +78,8 @@
 	</a>
 </h3>
 
-<h4 style="text-align:center">The Universities at Shady Grove (USG) Open House is taking place Saturday, <strong>March 5th</strong> from <strong>9:00am-12:00pm</strong> in the Camille Kendall Academic Center (Building III). Drop-in when you can and leave when you must!</h4>
+<h4 style="text-align:center">The Universities at Shady Grove (USG) Open House is taking place <strong>Saturday, March 5th</strong> from <strong>9:00am-12:00pm</strong> in the Camille Kendall Academic Center (Building III).<br>
+Drop-in when you can and leave when you must!</h4>
 
 <br>
 
@@ -88,15 +89,15 @@
 
 <ul>
   <li>Visit with our Program Directors! At the USG Open House, you will have an opportunity to meet and discuss your next steps in the transfer process with our <strong>History, Political Science, Psychology,</strong> and <strong>Social Work Program Directors</strong>.  </li>
-  <li>Interested in applying to one of UMBC-Shady Grove's undergraduate programs for Fall 2016? Meet with Chelsea Moyer, Program Coordinator, from <strong>10:30am-11:30am (Room TBD) </strong>to receive assistance in beginning your Common Application!</li>
+  <li>Interested in applying to one of UMBC-Shady Grove's undergraduate programs for Fall 2016? Meet with Chelsea Moyer, Program Coordinator, from <strong>10:30am-11:30am (Building III, Room 2215) </strong>to receive assistance in beginning your Common Application!</li>
   <li>Additionally, if you would like in-depth, step-by-step information regarding the transfer process, application, and admission process as well as financial aid and scholarship opportunities, UMBC-Shady Grove will be hosting an <strong>Undergraduate Information Session</strong> on March 5th following the Open House from <strong>12:30pm-1:30pm</strong> in the <strong>Camille Kendall Academic Center (Building III), Room 3156</strong>.</li> 
- 
+</ul> 
 <p style="text-align:center"> 
   <a href="http://www.umbc.edu/shadygrove/info/uginfosession.php" target="_blank" class="btn2">RSVP to Attend the Info Session</a>
   </p>
   
-  <li>We look forward to meeting you soon!</li>
-</ul>
+  <h4 style="text-align:center">We look forward to meeting you soon!</h4>
+
 
 
 <!-- END Content -->
