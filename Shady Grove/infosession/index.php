@@ -1,146 +1,200 @@
 <!DOCTYPE html>
-<html lang="en">
-<meta name="description" content="UMBC at The Universities at Shady Grove, Undergraduate">
-<meta name="keywords" content="UMBC, UMBC at The Universities at Shady Grove, Undergraduate">
-<html lang="en">
-<style type="text/css">
-<!--
-.style11 {
-  font-size: 15px;
-  font-weight: bold;
-}
-.style12 {font-size: 15px}
--->
-</style>
+<html>
 <head>
-<meta charset="UTF-8" />
-<title>Upcoming Graduate Information Sessions | UMBC at Shady Grove</title>
 
-<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
-<!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
+<title>UMBC-Shady Grove Order Regalia</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Please follow the following steps to order your regalia and have it delivered to Shady Grove for pick-up." />
 
-<!-- Sets the viewport width to the width of the device, so media queries work -->
-<!-- NOTE: We're locking the max scale (which prevents zooming) to fix bugs
-         during orientation changes on devices.  Our styles should accomodate this though. -->
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+<!-- Twitter Card data -->
+<meta name="twitter:card" value="summary">
+<meta name="twitter:site" content="@UatShadyGrove">
 
-<link rel="icon" type="image/png" href="http://sites.umbc.edu/wp-content/themes/umbc/assets/images/icon.png" />
+<!-- Open Graph data -->
+<meta property="og:title" content="UMBC-Shady Grove Order Regalia" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.umbc.edu/shadygrove/regalia" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/commencement.png" />
+<meta property="og:description" content="Please follow the following steps to order your regalia and have it delivered to Shady Grove for pick-up." />
 
-<!-- Template Styles -->
-  <script src="../../dps/mobile/mdetect.php?mdestination=../../dps/mobile/sg-infosession.php<?php if (!empty($_GET['mredirect']) && $_GET['mredirect'] == "n") print("&mredirect=n"); ?>" type="text/javascript"></script>
-  
-<script type="text/javascript" src="../js/fade_image.js"> </script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+<link href="../css/styles.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
+<link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
-<link href="../css/fade_image.css" rel="stylesheet" type="text/css" media="all">
-
-<!-- Site-Specific Customizations -->
-<?php include("../include/dps_html_head.shtml"); ?>
-
-<link rel="stylesheet" type="text/css" href="../css/undergrad.css" />
-<link rel="stylesheet" type="text/css" href="../css/umbc12.css" />
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-
-<script type="text/javascript" src="../js/stu_flyout.js"></script>
+<script src="../js/modernizr.custom.js"></script>
 
 
 
+<link rel="shortcut icon" href="../images/favicon.ico">
+<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 
+<style>
+#mobile-site-menu-expander{display:none}
+</style>
 </head>
 
-<body id="home"><div id="container-header-background" style="background-color:#000000;"><div id="skip-content"><a href="#main-content">Skip to Main Content</a></div>
 
-  <div id="container-header"><!-- main container -->
-    <?php include("../include/blk_header_2013_dps.shtml"); ?>
-  </div>
-  <!-- END umbc header -->
-    
-  <div id="site-menu-background"> 
-    <?php include("../include/nav.shtml"); ?>
-            
-            
-  </div>
-            
+<body>
+  <div id="skip-content">
+    <a href="#main-content">Skip to Main Content</a>
   </div>
 
+<!-- main container -->
+<div id="container-header-background">
 
+<!-- umbc header -->
+<div id="container-header">
+ <?php include("../includes/umbc-header.php"); ?>
+</div>
+<!-- END umbc header -->
 
+<!-- gold toolbar -->
+<div id="site-menu-background">
 
+</div>
+<!-- END gold toolbar -->
 
-<section class="page-container layout-home">
-<section class="page-content">
+</div>
 
-<div id="container">
-      <div id="subheaderpic">
-        <div id="imageContainer">
-		<img src="http://www.umbc.edu/shadygrove/images/futurefocused_events.png" width="1000" height="270" alt="history" />
-   	    </div>
-            
-   	  </div><!-- end subheaderpic -->
+<!-- BEGIN MAIN -->
 
+<!-- Page Header -->
+  <div class="container column">
+    <div class="sixteen columns">      
 
-<div class="breadcrumb"></div>
+<!-- END Page Header -->
+
+<!-- START Content -->
 <br>
-<div id="sub_content_center" style="width:600px">
-  <h1 align="center" style="font-size:20pt; font-weight:bold">Upcoming Graduate Information Sessions
-  </h1><br>
 
-<div align="center">
-<p>
-  <strong>Date:</strong> Saturday, March 7, 2015</p>
-<p>
-  <strong>Time:</strong> 11:00 a.m. - 12:00 p.m.</p>
-<p>
-  <strong>Location:</strong> UMBC at The Universities at Shady Grove, 9636 Gudelsky Drive, Rockville, MD 20850, Camille Kendall Academic Center (Building III)
-</p>
-<p>
-  <strong>Programs:</strong> Geographic Information Systems, Cybersecurity, Biotechnology <br>
-  (Check back for I/O Psychology sessions) </p>
 
-<p>
-Visit us to learn about our Master's & Certificate Programs. Receive information on admissions, curriculum, job outlook, and meet faculty and staff.
-</p>
+<h3>
+	<a href="index">
+    	<img src="images/header.png" alt="Open House" style="width:100%">
+	</a>
+</h3>
+<br>
+<div class="seven columns offset-by-one" style="text-align:center">
+	<h4>
+		<strong>
+        	Prospective Undergraduate<br>
+  			In-Person Information Sessions
+  		</strong>
+	</h4>
+
+	<p>
+    	Wednesday, February 10 - 1:00pm<br>
+		Saturday, March 5 - 12:30pm<br>
+  		Thursday, April 14 - 5:30pm<br>
+  		Friday, May 20 - 12:00pm<br>
+    <br>
+  		<a href="uginfosession.php" target="_blank">
+        	<img src="../images/infosession.png">
+		</a>
+	</p>
+
+	<h4>
+    	<strong>Prospective Undergraduate <br>
+  Virtual Information Sessions
+  		</strong>
+	</h4>
+
+	<p>
+Tuesday, February 23 - 12:00pm<br><br>
+		<a href="https://attendee.gotowebinar.com/register/3073992990463994626" target="_blank">
+    		<img src="../images/infosession.png">
+		</a>
+	</p>
 </div>
 
-<p align="center"><strong>For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about/visit" target="_blank">here</a>. </strong>If you have questions, please contact: Ashley Waters at 301-738-6081. </strong></p>
+<div class="seven columns" style="text-align:center; border-left: 2px #000 solid">
+	<h4>
+    	<strong>Visit with Undergraduate<br>
+        Program Directors
+        </strong>
+	</h4>
 
+	<p>
+		<strong>History:</strong><br>
+		Wednesday, February 17 - 12:00pm<br>
+		Thursday, April 7 - 5:30pm
+	</p>
+          
+	<p>
+    	<strong>Political Science:</strong><br>
+		Wednesday, February 17 - 12:00PM<br>
+		Wednesday, February 24 - 12:00PM <br>
+		Wednesday, March 2 - 12:00PM <br>
+		Wednesday, March 23 - 12:00PM 
+	</p>
+          
+	<p>
+        <strong>Psychology:</strong><br>
+		Wednesday, March 9 - 2:00PM<br>
+		Thursday, April 7 - 4:00PM
+	</p>
 
-<iframe src="https://docs.google.com/a/umbc.edu/forms/d/1HABz1Fm1a-G4aF8PFjWLNF4YYxfeLRRjfk34z03_rIQ/viewform?embedded=true" width="100%" height="725" frameborder="0" marginheight="0" marginwidth="0" style="background-color:#000">Loading...</iframe>
+	<p>
+        <strong>Social Work:</strong><br>
+		Tuesday, February 16 - 5:00PM<br>
+		Wednesday, March 9 - 12:00PM<br>
+		Tuesday, April 12 - 5:00PM
+	</p>
 
-
+	<p>
+		<a href="ugprogramdirectors.php" target="_blank">
+			<img src="../images/visitus.png">
+      	</a>
+	</p>
 </div>
+<br clear="all">
 
+
+<!-- END Content -->
+
+
+<!-- SIDEBAR -->
+
+
+
+<!-- END SIDEBAR -->
+<!-- footer -->
+<br clear="all">
+    
+<?php include("../includes/footer.php"); ?>
+<?php include("../includes/tracking.php"); ?>
+
+<br>
+    <!--END footer -->
+  </div>
+  <!-- container -->
+  
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
  
- <div id="footer">
-
-<div class="footercontent">
-<p style="margin-bottom: 0">&copy; 2015 UMBC at The Universities at Shady Grove • 9636 Gudelsky Drive, Rockville, MD 20850 • 301-738-6081 • E-mail: <a href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</a><a href="http://www.umbc.edu/ola/nondiscrimination.html" target="_blank"><br>
-UMBC is an Equal Opportunity and Affirmative Action Institution</a> </p>
-</div>
-
-
-</div><!-- end footer -->
-
-
-</div><!-- end container -->
-  </section> 
-</section>
-
-
+<script src="../js/scripts.js"></script> 
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-1756263-20', 'umbc.edu');
-  ga('create', 'UA-1756263-52', 'auto', {'name': 'rollup'});
-  ga('send', 'pageview');
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active:false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+    $('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+</script>   
 
-</script>
 
-
-<!-- Bing Tracking Code -->
-<script>
-(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5013621"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
-</script>
-<noscript><img src="//bat.bing.com/action/0?ti=5013621&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
 </body>
 </html>
