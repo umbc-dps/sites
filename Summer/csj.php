@@ -102,12 +102,26 @@ Tyson King-Meadows</strong></p>
  <div class="accordionbody">
 <p>An introduction to the history, peoples, cultures, languages, and societies of the African continent. While addressing the diversity of African cultural history and development, other themes include the colonial and post-colonial period, African nationalism, neo-colonialism, and African culture and development today.</p>
 
+<p>Also listed as MLL 210.</p>
+
 <p>
 <strong>GEP: (AH) or (C)<br>
 4W1 – Mon/Wed/Fri 9-12:30<br>
 Gloria Chuku</strong></p>
  </div>
  
+
+<div class="accordionheader">
+  <h4>AFST 340:  African Drumming and Dance<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+<p>This hands-on workshop teaches the techniques of West African drumming as well as the cultural and historical significance of the djembe drum. Students will learn using the ensemble approach, will learn specific musical styles and traditions from singing West African songs, and will learn on traditional and contemporary African musical instruments. No prior experience with African drumming, singing, or dancing is necessary.</p>
+
+<p>Also listed as DANC 301 and MUSC 375.</p>
+
+ </div>
+   
   
 <div class="accordionheader">
   <h4>AFST 370: Black Women: Cross-Cultural Perspectives<i class="fa fa-angle-down"></i></h4>
