@@ -62,7 +62,7 @@
 
 
  <div class="sixteen columns">
-  <div class="eleven columns alpha" style="padding-top:1em;">
+  <div class="sixteen columns alpha" style="padding-top:1em;">
   <!-- Page Title -->
     <h2>Culture & Social Justice</h2>
   <!-- END Page Title -->    
@@ -71,7 +71,7 @@
  <div id="accordion">   
    <!-- Start Content --> 
    
-   <p style="text-align:center; margin:-15px!important;"><img src="images/mandela-quote.png" style="width:65%"></p>
+   <p style="text-align:center; margin:-15px!important;"><img src="images/mandela-quote.png" style="width:35%"></p>
  <h5>Social Justice (so·cial jus·tice) noun. 1: a social philosophy advocating the removal of inequalities among people; 2: the idea of acting with equality, fairness and dignity to all human beings.</h5>  <br>
 
    
@@ -320,7 +320,7 @@ Marina Adler
 
 <h3>Summer Service Learning</h3>
    <p style="text-align:center;">
-   	<img src="images/ghandi-quote.png" style="width:45%;">
+   	<img src="images/ghandi-quote.png" style="width:35%;">
    </p>
 <p>You can make a difference!  Summer is a great time to make a meaningful contribution in your community through service learning. UMBC’s Shriver Center coordinates summer service learning placements in a variety of areas, including education, the environment, food and housing access, healthcare and mental health. </p>
 
@@ -336,12 +336,7 @@ Marina Adler
         
     <!-- /eleven columns -->
 	</div>
-    <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
-    </div>
-    <!-- /five columns omega --> 
-    <!-- END TOP SIDEBAR-->
+
   </div>
 <footer id="site-footer" class="clearfix">
     <?php include("includes/footer.php"); ?>
