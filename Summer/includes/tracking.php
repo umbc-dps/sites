@@ -12,6 +12,7 @@
   ga('require', 'linkid', 'linkid.js');
   ga('send', 'pageview');
   ga('rollup.send', 'pageview');
+  ga('umbc.send', 'pageview');
 
 </script>
 
