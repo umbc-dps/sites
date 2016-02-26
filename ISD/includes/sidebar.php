@@ -15,7 +15,10 @@ Tuesday, April 26, 5:30 - 8:00PM<br>
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p>Spring 2016 Master's Application Deadline: November 1st; Spring 2016 Certificate Application Deadline: December 1st
+      <p>Summer 2016 Master's Application<br>
+        Deadline: March 1<br>
+        Summer 2016 Certificate Application <br>
+        Deadline: April 1 <br>
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>

@@ -334,28 +334,27 @@ B.A., M. S., Bloomsburg University</p>
 
 
 <div class="accordionheader">
-  <h4><a href="stuart" id="rafi24"></a>Stuart Weinstein | Practice Director, Instructional Systems at Management Concepts<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="stuart" id="rafi24"></a>Stuart Weinstein | Principal Research Scientist - Instructional and Organizational Development at Kaizen Approach, Inc.</h4>
 </div>
 
 <div class="accordionbody">
-<p>Ph.D., Instructional Systems Design, Florida State University, 1981.<BR>
-  M.Ed., Educational Media, University of Miami, 1976.<BR>
-  B.A., Mass Communications, University of Miami, 1972.</p>
-<p>
-
-  Dr. Weinstein is Practice Leader - Instructional Systems at Management Concepts, Inc. He has over 42 years of professional experience in research, design, and development for instructional and organizational development projects. He specializes in instructional design leading to the development of training programs, media development in all electronic formats and for classroom delivery, focus group facilitation, and organizational development/effectiveness operations. Dr. Weinstein has also been responsible for developing training requirements, analysis, and establishing training program and media customized to fit client needs and technology infrastructure at IBM, Booz Allen Hamilton and Unysis Corporation.</p>
-<p>Over the past 30 years, Dr. Weinstein has been appointed as a member of eight Doctoral Dissertation committees and a Masters Thesis advisory board member in the areas of instructional systems design; dissemination and diffusion of instructional innovations; and educational research/statistics. His leadership in education include:</p>
-<ul>
-  <li>Chair, Montgomery County, Maryland, Advisory Council on Career and Technology Education.</li>
-  <li>Committee Member, Maryland Workforce Development Corporation - Technology Training Initiatives Committee.</li>
-  <li>Committee Chair, Florida State University, Instructional Systems Graduate Program Curriculum Advisory Council.</li>
-  <li>Special Advisor to the Dean, University of Miami School of Education.</li>
-  <li>President, Federal Educational Technology Association.</li>
-  <li>Committee Member, Association for Educational Communications and Technology, Training and Development Division.</li>
-  <li>Author and/or Presenter for 54 articles and conference presentations.</li>
+<p>Ph.D., Instructional Systems Design, Florida State University,  1981.<br>
+M.Ed., Educational Media, University of Miami, 1976.<br>
+B.A., Mass Communications, University of Miami, 1972.<br>
+Dr. Weinstein is Principal Research Scientist – Instructional  and Organizational Development at Kaizen Approach, Inc.   He has  over 43 years of professional experience in research, design, and development  for instructional and organizational development projects. He specializes in  instructional design leading to the development of training programs, media  development in all electronic formats and for classroom delivery, focus group  facilitation, and organizational development/effectiveness operations. Dr.  Weinstein has also been responsible for developing training requirements,  analysis, and establishing training program and media customized to fit client  needs and technology infrastructure at IBM, Booz Allen Hamilton and Unisys  Corporation.<br>
+Over the past 32 years, Dr. Weinstein has been appointed as a  member of eight Doctoral Dissertation committees and a Master&rsquo;s Thesis advisory  board member in the areas of instructional systems design; dissemination and  diffusion of instructional innovations; and educational research/statistics.  His leadership in education include: </p>
+<ul type="square">
+  <li>Chair,       Montgomery County, Maryland, Advisory Council on Career and Technology       Education.</li>
+  <li>Committee       Member, Maryland Workforce Development Corporation - Technology Training       Initiatives Committee.</li>
+  <li>Committee       Chair, Florida State University, Instructional Systems Graduate Program       Curriculum Advisory Council.</li>
+  <li>Special       Advisor to the Dean, University of Miami School of Education. </li>
+  <li>President,       Federal Educational Technology Association.</li>
+  <li>Committee       Member, Association for Educational Communications and Technology,       Training and Development Division.</li>
+  <li>Author       and/or Presenter for 68 articles and conference presentations.</li>
+  <li>Judge       – <em>Chief Learning Officer Magazine &ldquo;</em>Learning       Elite Awards Program.&rdquo;</li>
 </ul>
-<p><strong>Email:</strong> stuarthw@umbc.edu</a></p>
-
+<p><br>
+  <strong>E-mail</strong>: <a href="mailto:stuarthw@umbc.edu">stuarthw@umbc.edu</a></p>
 </div>
           
           <!-- END CONTENT -->

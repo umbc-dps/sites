@@ -67,6 +67,57 @@
   
 <!-- START Content -->
 
+<h3>Summer 2016 Schedule of Classes </h3>
+
+<p><strong>Registration Begins:</strong> March 21st<br>
+  <br>
+  <strong>Summer Session I</strong><br>
+  6 weeks – May 31st – July 8th<br>
+  12 weeks – May 31st – August 19th<br>
+  <strong>Last Day to Add/Drop a Class:</strong> June 3rd <br>
+  <br>
+  <strong>Summer Session II</strong><br>
+  6 weeks – July 11th – August 19th<br>
+  <br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+<p>There may be more courses announced in the near future. This list is not final.</p>
+
+<table id="schedule">
+  <tr>
+    <td width="20%">COURSE/CLASS<br>NUMBER</td>
+    <td width="25%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="20%">FORMAT</td>
+    <td width="20%">ROOM</td>
+    <td width="20%">PROFESSOR</td>
+  </tr>
+  <tr>
+    <td>PSYC 601.1 (2285)</td>
+    <td>Special Topics In Psych: Job Analysis</td>
+    <td>Tues/Thurs<br>
+    6 Weeks (Session I)</td>
+    <td>6:00 PM    - 9:10 PM</td>
+    <td>In Person</td>
+    <td>TBD</td>
+    <td>Lasson,Elliot</td>
+  </tr>
+  <tr>
+    <td>PSYC 601.2 (2286)</td>
+    <td>Special Topics In Psych : Adv Sem in Change Mngmnt.</td>
+    <td>Mon/Wed<br>
+    6 Weeks (Session I)</td>
+    <td>6:00 PM - 9:10 PM</td>
+    <td>In Person</td>
+    <td>TBD</td>
+    <td>Rosen,Theodore </td>
+  </tr>
+</table>
+
+<hr>
+<br>
+<br>
+
 <h3>Spring 2016 Schedule of Classes </h3>
 
 <p><strong>Semester Dates:</strong>  January 25, 2016 – May 10, 2016<br>

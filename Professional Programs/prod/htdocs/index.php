@@ -165,15 +165,15 @@ BEGIN MAIN
 <!-- Slide Two -->        
 <li id="slide2">
 
-<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="img01" src="images/3.jpg"></a>
+<a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank"><img alt="img01" src="images/2.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>Register for Spring 2016</h3>
-<small>Spring 2016 semester begins <br>January 25.</small>  
+<h3>Grit Isn't Just For Students</h3>
+<small>According to the Education Advisory Board, grit can improve adults' work and personal lives. </small>  
           
-<p><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank" class="web-seemore">View Classes</a></p></div>
+<p><a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank" class="web-seemore">Read more</a></p></div>
 
-<p id="captionthree"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">Register for Spring 2016</a></p>
+<p id="captionthree"><a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank">Grit Isn't Just For Students</a></p>
 
 </li>
 

@@ -104,36 +104,54 @@
 !------------------------->
 
 
-<!------- Accordion 3 ------
+<!------- Accordion 3 ------>
 <div class="accordionheader">
 	<h4><a href="#" id="#"></a>
     
-    12/31 - Title
-    
-    <i class="fa fa-angle-down"></i>
+    2/11/2016 - Graduation/Diploma Application Deadlines
     </h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>Dear Students,</strong></p>
+    <p><strong><br>
+    </strong> If you are taking your last course for either the Master&rsquo;s degree or a certificate, this spring semester, you must complete the Graduate School&rsquo;s online graduation application. You may find a link to the Graduate School&rsquo;s online graduation application information at: <a href="http://www.umbc.edu/isd/graduation" target="_blank">http://www.umbc.edu/isd/graduation</a>. The online application deadline is <strong>February 15, 2016.</strong></p>
+    <p>After the online application is submitted, a supplemental application will be sent to your UMBC email account, from the Graduate School. (Please allow a few days to receive this after completing the online application). <strong>(The supplemental application is due <span data-term="goog_1997044754" tabindex="0">March 1, 2016</span>.)</strong><br>
+    </p>
+    <p><br>
+    </p>
+    <p>If you never applied for enrollment into a plan of study you cannot apply for graduation from that plan of study. Please contact us if you think you need to apply for enrollment into a plan of study.</p>
+    <p>If you miss the deadline, you will have to wait to apply for your diploma in a later semester.</p>
 </div>
-!------------------------->
 
 
-<!------- Accordion 4 ------
+
+<!------- Accordion 4 ------>
 <div class="accordionheader">
 	<h4><a href="#" id="#"></a>
     
-    12/31 - Title
-    
-    <i class="fa fa-angle-down"></i>
+    2/9/2016 - Important Reminders Graduation, etc.
     </h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>Tomorrow, February 10, 2016 is the last day to add or drop a spring 2016 course without a grade of &ldquo;W&rdquo;. Other important reminders: <br>
+    </strong></p>
+    <p><strong>Graduation/Diploma Applications:</strong></p>
+    <p>The online graduation/diploma application is due<strong> February 15, 2016</strong>.<strong> You cannot receive a diploma if you do not apply to receive your diploma. (Just finishing courses does not grant you a degree.)</strong> If you are taking the last course(s) for either the Master&rsquo;s degree or a certificate this fall semester you must complete the Graduate School&rsquo;s online application.</p>
+    <p>A few days after completing the online application, you should receive a supplemental application to your UMBC email account from the Graduate School.</p>
+    <p>Additional information may be found here, <a href="http://www.umbc.edu/isd/graduation" target="_blank">http://www.umbc.edu/isd/graduation</a>.</p>
+    <p><strong>Comprehensive Exam:</strong></p>
+    <p>The comprehensive exam is <span data-term="goog_1997044749" tabindex="0">March 4 – 7, 2016</span>. The comprehensive exam is for those who were admitted into the Master&rsquo;s degree prior to fall 2012. It is taken during your last semester,<a href="http://umbc.edu/isd/graduation#exam" target="_blank">http://umbc.edu/isd/graduation#exam</a>. </p>
+    <p><strong>Application Deadlines:</strong></p>
+    <p>If you are a certificate student with three or four courses completed, you should consider applying for the Master&rsquo;s program. The summer 2016 Master&rsquo;s application deadline is <span data-term="goog_1997044750" tabindex="0">March 1, 2016</span>and the fall 2016 Master&rsquo;s application deadline is <span data-term="goog_1997044751" tabindex="0">June 1, 2016</span>. The certificate application deadline for summer 2016 is <span data-term="goog_1997044752" tabindex="0">April 1, 2016</span>, and the fall 2016 certificate application deadline is <span data-term="goog_1997044753" tabindex="0">July 1, 2016</span>. (<a href="http://umbc.edu/isd/programs" target="_blank">http://umbc.edu/isd/programs</a>)</p>
+    <p>Non-degree students are reminded that the ISD program will limit you to one course as a non-degree student. You must then apply for a diploma issuing program.</p>
+    <p><strong>Holds:</strong></p>
+    <p>Make sure you do not have any holds on your student account. Having a hold on your account may prevent you from future registration. More information about holds may be found here,<a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450" target="_blank">https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450</a>.</p>
+    <p>If you encounter difficulties within your course, you should contact your instructor immediately. Most professors have their contact information on their syllabus. DO NOT disappear from the course, your grade will be affected.</p>
+    <p>Please contact me directly if you have any questions/concerns. I can be reached at <a href="mailto:scrosby@umbc.edu" target="_blank">scrosby@umbc.edu</a> OR <a href="tel:410-455-3899" value="+14104553899" target="_blank">410-455-3899</a>.</p>
 </div>
-!------------------------->
+
 
 
 <!------- Accordion 5 ------>

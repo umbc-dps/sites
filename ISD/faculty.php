@@ -75,7 +75,7 @@
 </div>
 
 <div class="accordionbody">
-  <p><img src="images/faculty/Dr-Greg-Williams.jpg" alt="UMBC Faculty Dr. Greg Williams" width="200" height="250" align="left"/>B.A., M.S., C.A.S. State University of New York at Plattsburgh; <BR>
+  <p><img src="images/faculty/Dr-Greg-Williams.jpg" alt="UMBC Faculty Dr. Greg Williams" width="200" height="250" align="left"style="padding:5px;" />B.A., M.S., C.A.S. State University of New York at Plattsburgh; <BR>
    Ed.D. The George Washington University</p>
 
 <p>
@@ -116,7 +116,7 @@
 </div>
 
 <div class="accordionbody">
- <p><img src="images/faculty/Zane-Berge-1.jpg" alt="" width="200" height="250" align="left"/>B.S., Rochester Institute of Technology<BR>
+ <p><img src="images/faculty/Zane-Berge-1.jpg" alt="" width="200" height="250" align="left"style="padding:5px;" />B.S., Rochester Institute of Technology<BR>
    Ph.D., Michigan State University<BR>
    Certification in Distance Education, Pennsylvania State University</p>
  <p> Dr. Berge has been affiliated with the ISD-Training and Development program since 1995. He served as the director for the Training Systems Graduate Programs through 2001. Previously, he directed the Center for Teaching and Technology at Georgetown University, where he also worked as the Assistant Director for the Academic Computer Center. Dr. Berge's chief research interests are related to distance education and online learning. He is a prolific and widely published author of books and journal articles on these topics. Recent publications include Virtual schools: Planning for success. (2005); Sustaining distance training: Integrating learning technologies into the fabric of the enterprise (2001); Wired Together: Computer-Mediated Communication in K-12, Volumes 1-4 (1998); and Distance Training: How Innovative Organizations are Using Technology to Maximize Learning and Meet Business Objectives (1998). </p>
@@ -148,7 +148,7 @@
 
 <div class="accordionbody">
 
- <p><img src="images/faculty/Jeannette-Campos.jpg" alt="" width="200" height="250" align="left"/>B.A., University of Pittsburg<BR>
+ <p><img src="images/faculty/Jeannette-Campos.jpg" alt="" width="200" height="250" align="left"style="padding:5px;" />B.A., University of Pittsburg<BR>
    M.A., University of Maryland, Baltimore County</p>
  <p>Jeannette  is a lifelong instructional systems designer (ISD) who has provided  consultative services in the design, development, and delivery of creative  learning and performance improvement solutions to clients in the government,  non-profit, academic, and commercial markets.&nbsp; She passionately believes  that the intersection of learning and performance is the best possible, and  most rewarding, place to have built a career.&nbsp; Jeannette&nbsp;recently  published, The Learner-Centered Classroom through ATD Press, and is ranked in  the top 100 most active voice in workplace learning, according to Centre for  Learning &amp;Performance Technologies.</p>
  <p>She holds a&nbsp;<em>summa cum laude</em>&nbsp;Bachelor's of Arts degree in  Anthropology from the University of Pittsburgh and Master of Arts degree in ISD  from the University of Maryland, Baltimore County.&nbsp; Prior to her currently  position as a Senior Performance Consultant at Sodexo, she was Project Manager  and a Communications Officer at the Central Intelligence Agency.</p>
@@ -161,7 +161,7 @@
 </div>
 
 <div class="accordionbody">
- <p><img src="images/faculty/Keith-Curran-1.jpg" alt="UMBC Keith Curran" width="200" height="250" align="left"/>B.S., U. S. Coast Guard Academy<BR>
+ <p><img src="images/faculty/Keith-Curran-1.jpg" alt="UMBC Keith Curran" width="200" height="250" align="left"style="padding:5px;" />B.S., U. S. Coast Guard Academy<BR>
    MALD, Fletcher School of Law and Diplomacy, Tufts University<BR>
    M. A., University of Maryland Baltimore County (UMBC) </p>
  <p>Mr. Curran currently serves as the Chief Operating Officer for Harkcon, Inc., a training and human performance improvement company providing comprehensive organizational and workforce performance analysis, training development & delivery, and comprehensive performance support with a variety of customized, innovative solutions in the public and private sectors. He has been affiliated with UMBC's ISD -Training Systems program since 1999 when he began work on his Master's. He has taught at the undergraduate level at the U.S. Coast Guard Academy from 1989-1993 and at UMBC from 2001 to 2003. He has been a lecturer in the ISD - Training Systems program since 2004. He is a retired Coast Guard Officer, primarily serving underway on ships and in performance improvement and training jobs when ashore.</p>
@@ -174,7 +174,7 @@
 
 <div class="accordionbody">
 
- <p><img src="images/faculty/Chuck-Hodell.jpg" alt="UMBC Chuck Hodell" width="200" height="250" align="left"/>B.A., Antioch University<br>
+ <p><img src="images/faculty/Chuck-Hodell.jpg" alt="UMBC Chuck Hodell" width="200" height="250" align="left"style="padding:5px;" />B.A., Antioch University<br>
    M.A., University of Maryland Baltimore County<br>
    Ph.D., University of Maryland Baltimore County</p>
 
@@ -245,7 +245,7 @@ M.A., University of Maryland, Baltimore County <BR>
 </div>
 
 <div class="accordionbody">
-  <p><img src="images/faculty/Rick-Sullivan-1.jpg" alt="UMBC Rick Sullivan" width="200" height="250" align="left"/>B.S.  Ohio University <br>
+  <p><img src="images/faculty/Rick-Sullivan-1.jpg" alt="UMBC Rick Sullivan" width="200" height="250" align="left"style="padding:5px;" />B.S.  Ohio University <br>
    M.S  Purdue University<br>
    Ph.D.  Ohio State University</p>
  <p>Dr.  Rick Sullivan has 40 years of experience in the design, delivery and evaluation  of education and training interventions to improve worker performance. He has written  a number of books and articles and has presented at many national and  international conferences. Rick has conducted education and training courses in  more than 25 countries and is known for his energetic and interactive  presentation style. Rick was on the faculty of the University of Central  Oklahoma for many years where he was responsible for the training and  development and the technical teacher education degree programs. He also served  as the Director of Training for Jhpiego at Johns Hopkins as well as the  Director of Education and Training for IMPACT with the Ironworkers. Rick  received his Bachelor of  Science from Ohio University, Master of Science from Purdue University and his  Ph.D. from The Ohio State University.</p>
@@ -256,22 +256,27 @@ M.A., University of Maryland, Baltimore County <BR>
 </div>
 
 <div class="accordionbody">
-  <p>Ph.D., Instructional Systems Design, Florida State University, 1981.<BR>
-   M.Ed., Educational Media, University of Miami, 1976.<BR>
-   B.A., Mass Communications, University of Miami, 1972.</p>
- <p>Dr. Weinstein is Practice Leader - Instructional Systems at Management Concepts, Inc.   He has over 42 years of professional experience in research, design, and development for instructional and organizational development projects. He specializes in instructional design leading to the development of training programs, media development in all electronic formats and for classroom delivery, focus group facilitation, and organizational development/effectiveness operations. Dr. Weinstein has also been responsible for developing training requirements, analysis, and establishing training program and media customized to fit client needs and technology infrastructure at IBM, Booz Allen Hamilton and Unysis Corporation.</p>
- <p>Over the past 30 years, Dr. Weinstein has been appointed as a member of eight Doctoral Dissertation committees and a Masters Thesis advisory board member in the areas of instructional systems design; dissemination and diffusion of instructional innovations; and educational research/statistics. His leadership in education include: </p>
- <UL>
-   <LI>Chair, Montgomery County, Maryland, Advisory Council on Career and Technology Education.</LI>
-   <LI>Committee Member, Maryland Workforce Development Corporation - Technology Training Initiatives Committee.</LI>
-   <LI>Committee Chair, Florida State University, Instructional Systems Graduate Program Curriculum Advisory Council.</LI>
-   <LI>Special Advisor to the Dean, University of Miami School of Education. </LI>
-   <LI>President, Federal Educational Technology Association.</LI>
-   <LI>Committee Member, Association for Educational Communications and Technology, Training and Development Division.</LI>
-   <LI>Author and/or Presenter for 54 articles and conference presentations.</LI>
- </UL>
- <p><STRONG>E-mail</STRONG>: <A href="mailto:stuarthw@umbc.edu">stuarthw@umbc.edu</A><BR>
- </p></div>
+  <p><img src="images/faculty/stuart-weinstein.jpg" alt="" width="200" height="250" align="left"style="padding:5px;" />Ph.D., Instructional Systems Design, Florida State University,  1981.<br>
+M.Ed., Educational Media, University of Miami, 1976.<br>
+B.A., Mass Communications, University of Miami, 1972.</p>
+  <p><br>
+    Dr. Weinstein is Principal Research Scientist – Instructional  and Organizational Development at Kaizen Approach, Inc.   He has  over 43 years of professional experience in research, design, and development  for instructional and organizational development projects. He specializes in  instructional design leading to the development of training programs, media  development in all electronic formats and for classroom delivery, focus group  facilitation, and organizational development/effectiveness operations. Dr.  Weinstein has also been responsible for developing training requirements,  analysis, and establishing training program and media customized to fit client  needs and technology infrastructure at IBM, Booz Allen Hamilton and Unisys  Corporation.<br>
+    Over the past 32 years, Dr. Weinstein has been appointed as a  member of eight Doctoral Dissertation committees and a Master&rsquo;s Thesis advisory  board member in the areas of instructional systems design; dissemination and  diffusion of instructional innovations; and educational research/statistics.  His leadership in education include: </p>
+  <ul type="square">
+    <li>Chair,       Montgomery County, Maryland, Advisory Council on Career and Technology       Education.</li>
+    <li>Committee       Member, Maryland Workforce Development Corporation - Technology Training       Initiatives Committee.</li>
+    <li>Committee       Chair, Florida State University, Instructional Systems Graduate Program       Curriculum Advisory Council.</li>
+    <li>Special       Advisor to the Dean, University of Miami School of Education. </li>
+    <li>President,       Federal Educational Technology Association.</li>
+    <li>Committee       Member, Association for Educational Communications and Technology,       Training and Development Division.</li>
+    <li>Author       and/or Presenter for 68 articles and conference presentations.</li>
+    <li>Judge       – <em>Chief Learning Officer Magazine &ldquo;</em>Learning       Elite Awards Program.&rdquo;</li>
+  </ul>
+  <p><strong>Phone: </strong> 202-262-6421<br>
+    <strong>E-mail</strong>: <a href="mailto:stuarthw@umbc.edu">stuarthw@umbc.edu</a></p>
+  <p><BR>
+  </p>
+</div>
    
  <div class="accordionheader">
   <h4><a href="Zaranis" id="a15"></a>Catherine Zaranis <i class="fa fa-angle-down"></i>| Adjunct Instructor</h4>
