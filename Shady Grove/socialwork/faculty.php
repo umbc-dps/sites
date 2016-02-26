@@ -143,10 +143,6 @@
 <p style="margin-top: 0; margin-bottom: 0;"><strong>Courses:&nbsp; </strong><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">SOWK 480 (Field 1);  SOWK 482 (Field 2)</span><br />
 </p>
 <p><img src="../images/LineV1.gif" alt="line" width="482" height="2" /></p>
-<p style="margin-top: 0; margin-bottom: 0;"><strong>Makon, Josi</strong></p>
-<p><strong>Courses: </strong>SOWK 389: Human Behavior II</p>
-<p><strong>Research/Clinical Areas:</strong> Mental health, Substance abuse, Trauma and Vulnerable populations</p>
-<p><img src="../images/LineV1.gif" alt="line" width="482" height="2" /></p>
     <p><strong><a href="mailto:jokund1@umbc.edu">Okundaye, Dr. Joshua</a><br />
 </strong></p>
     <p><img src="../images/LineV1.gif" alt="line" width="482" height="2" /></p>
