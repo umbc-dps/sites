@@ -167,11 +167,11 @@ out-of-state tuition charges.</li>
                   <strong>Spring 2016</strong> credits = a minimum of 23 credits (as indicated on
     your UMBC transcript).</li>
                 <li>Applicants must have a <strong>CURRENT</strong> UMBC cumulative grade point average of 3.200 or higher, as indicated on their UMBC transcript. </li>
-                <li>Applicants must have a 2015/2016 FAFSA form on file with the UMBC Office of Financial Aid (or provide a written documentation as to why they do not). </li>
+                <li>Applicants must have a 2015/2016 FAFSA form on file with the UMBC Office of Financial Aid (or provide written documentation as to why they do not). </li>
               </ul>
             </div>
             <div class="accordionheader">
-              <h4>Application deadline<i class="fa fa-angle-down"></i></h4>
+              <h4>Application deadline/important information<i class="fa fa-angle-down"></i></h4>
             </div>
             <div class="accordionbody">
               <ul>
@@ -179,6 +179,13 @@ out-of-state tuition charges.</li>
                 <li class="remove">The Scholarship Review Committee will meet in late April, and decisions will be e-mailed to the students who applied.</li>
                 <li class="remove">Applications that do not meet the minimum qualifications and requirements (listed above) will not be considered by the Scholarship Review Committee.</li>
                 <li class="remove">All decisions by the Scholarship Review Committee are final.</li>
+              </ul>
+            </div>
+                        <div class="accordionheader">
+              <h4>Apply<i class="fa fa-angle-down"></i></h4>
+            </div>
+            <div class="accordionbody">
+              <ul>
                 <li class="remove"><a href="scholarshipapplication.php">Apply now</a>.</li>
               </ul>
             </div>

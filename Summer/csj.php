@@ -70,6 +70,8 @@
   <div class="narrowchart">
  <div id="accordion">   
    <!-- Start Content --> 
+   
+   <p style="text-align:center; margin:-15px!important;"><img src="images/mandela-quote.png" style="width:65%"></p>
  <h5>Social Justice (so·cial jus·tice) noun. 1: a social philosophy advocating the removal of inequalities among people; 2: the idea of acting with equality, fairness and dignity to all human beings.</h5>  <br>
 
    
@@ -303,6 +305,7 @@ Marina Adler
 <hr>
 
 <h3>Summer Service Learning</h3>
+   <p style="text-align:center; margin:-15px!important;"><img src="images/ghandi-quote.png" style="width:45%;"></p>
 <p>You can make a difference!  Summer is a great time to make a meaningful contribution in your community through service learning. UMBC’s Shriver Center coordinates summer service learning placements in a variety of areas, including education, the environment, food and housing access, healthcare and mental health. </p>
 
 <p>Develop leadership skills, build self-confidence, and help create a better future. Change begins with you!</p>

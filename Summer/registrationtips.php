@@ -75,7 +75,7 @@
 
 
 <ul>
-  <li>Use your smart phone, mobile device, or computer to register through <a href="https://highpoint-prd.ps.umbc.edu/public_page.php" target="_blank"><em>my</em>UMBC</a>.</li>
+  <li>Use your smart phone, mobile device, or computer to register through <a href="http://my.umbc.edu/topics/classes-and-grades" target="_blank"><em>my</em>UMBC</a>.</li>
 
   <li>Courses with <a href="coursesprerequisites">prerequisites</a> may require permission to register.
   </li>
@@ -89,8 +89,8 @@
 <div class="accordionbody">
 <p>During the <a href="scheduleadjustment">Schedule Adjustment Period</a> (the first four days of Session I and II), you can add, drop or swap courses (for same number of credits) with no academic or financial penalty.</p>
 
-  <li>Use <em><a href="http://my.umbc.edu/topics/classes-and-grades" target=
-  "_blank">my</em>UMBC</a> to add or drop summer courses through June 3 for Session I and July 14 for Session II with no academic or financial penalty.
+  <li>Use <a href="http://my.umbc.edu/topics/classes-and-grades" target=
+  "_blank"><em>my</em>UMBC</a> to add or drop summer courses through June 3 for Session I and July 14 for Session II with no academic or financial penalty.
   </li>
 
   <li>After June 3 and July 15, please be aware of the <a href="scheduleadjustment">schedule adjustment period</a>.
@@ -194,15 +194,11 @@
   at another institution) in which the student has received a grade or an
   official withdrawal noted on the transcript. More information on Repeating
   Courses is detailed in the <a href=
-  "http://www.umbc.edu/catalog/2014/pages/requirements.html" target=
+  "http://catalog.umbc.edu/content.php?catoid=3&navoid=106" target=
   "_blank">Undergraduate Catalog (under Repeating Courses)</a>.
   </li>
 
-  <li>
-    <a href=
-    "http://www.umbc.edu/undergrad_ed/ai/documents/courseRepeat_StudentChecklist.pdf"
-    target="_blank">View a Course Repeat Petition-Student Checklist</a>
-  </li>
+  <li><a href="http://academicpolicy.umbc.edu/home/undergraduate-petitions/" target="_blank">Course        Petition Student Checklist</a></li>
 </ul></div>
 
 

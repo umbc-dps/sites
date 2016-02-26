@@ -212,7 +212,7 @@ table#sequence td:first-child { text-align:left }
      <td>Michael    Oliver
        Rick Wilson</td>
      <td>In    Person</td>
-     <td>ENMG    336</td>
+     <td>Prof. Studies Building U572</td>
    </tr>
    <tr>
      <td>ENMG 658 (4570)</td>

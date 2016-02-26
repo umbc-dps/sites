@@ -129,6 +129,19 @@
 </div>
 
 <div class="accordionheader">
+  <h4>How do I get a parking permit?
+<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+          <ul>
+            <li>Current UMBC students must display a valid permit.</li>
+            <li>New or visiting students must <a moz-do-not-send="true" href="http://www.umbc.edu/summer/parking">request a permit</a> to park on the UMBC campus in non-metered lots or on roadways <br>
+              from 7:00 am until 7:00 p.m. (Monday through Thursday) and            from 7:00 am until 3:30 p.m. on Friday. </li>
+          </ul>
+ </div>
+
+<div class="accordionheader">
   <h4>Where can I eat on campus during summer &amp; winter session?<i class="fa fa-angle-down"></i></h4>
 </div>
 
@@ -184,7 +197,7 @@
                                                                      <li>During the <a href="scheduleadjustment" target="_blank">Schedule Adjustment Period</a> students can use <em>my</em>UMBC to add, drop or swap courses.</li>
                                                                      <li>Schedule changes are limited once the Schedule Adjustment Period ends - please see <a href="importantdates" target="_blank">academic dates/deadlines</a>.</li>
                                                                      <li>After the Schedule Adjustment Period, students must submit an <a href="http://registrar.umbc.edu/contact/" target="_blank">RT Help Ticket</a> to the Registrar's Office for any schedule change requests.</li>
-                                                                   </ul>
+              </ul>
  </div>
  
  

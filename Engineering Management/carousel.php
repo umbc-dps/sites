@@ -77,15 +77,15 @@
 <!-- SLIDE ONE -->
 <li id="slide1">
 
-<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="img01" src="images/6.png"></a>
+<a href="https://www.youtube.com/watch?v=gi6pwPFS7EQ" class="video"><img alt="img01" src="images/d-taylor1.png"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>Register for Spring 2016</h3>
-<small>Spring 2016 semester begins <br>January 25.</small>  
+<h3>Engineer Week 2016</h3>
+<small>Dick Taylor, Adjunct Instructor with UMBC's Systems Engineering Graduate Programs explains the challenges a systems architect must overcome for a successful system.</small>  
           
-<p><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank" class="web-seemore">View Classes</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=gi6pwPFS7EQ" class="web-seemore video">Watch the video</a></p></div>
 
-<p id="captionthree"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">Register for Spring 2016</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=gi6pwPFS7EQ" class="video">Engineer Week 2016</a></p>
 
 </li>
 <!-- END SLIDE ONE -->
