@@ -82,12 +82,11 @@ src="https://www.facebook.com/tr?id=474030342731967&ev=PageView&noscript=1"
 <!-- End Facebook Pixel Code -->
 
 
-<!--- Twitter Code for Remarketing Tag ---> 
-<script src="//platform.twitter.com/oct.js" type="text/javascript"></script> 
-<script type="text/javascript">
-twttr.conversion.trackPid('l4uyz');
-</script>
+<!-- Twitter single-event website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('l5nzw', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
 <noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4uyz&p_id=Twitter" /> <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4uyz&p_id=Twitter" />
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l5nzw&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l5nzw&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 </noscript>
-<!---------------------------------------->
+<!-- End Twitter single-event website tag code -->
