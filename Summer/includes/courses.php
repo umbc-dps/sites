@@ -17,7 +17,9 @@
   <td>Instructor</td>
   <td>Prerequisite</td>
   <td>Has Pre-Req</td>
-  <td dir="LTR" width="724">Has    GEP</td>
+  <td>Has    GEP</td>
+  <td>STEM</td>
+  <td>*Subject</td>
    </tr>
    <tr>
   <td>AFST</td>
@@ -37,7 +39,9 @@
   <td>King-Meadows, Tyson</td>
   <td></td>
   <td>No    Prerequisite</td>
-  <td dir="LTR" width="724">Has    GEP</td>
+  <td>Has    GEP</td>
+  <td width="34"></td>
+  <td width="34">*AFST</td>
    </tr>
    <tr>
   <td>AFST</td>
@@ -57,7 +61,9 @@
   <td>Chuku, Gloria Ifeoma</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AFST</td>
    </tr>
    <tr>
   <td>AFST</td>
@@ -77,7 +83,9 @@
   <td>Ansah-Brew, Kwame</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*AFST</td>
    </tr>
    <tr>
   <td>AFST</td>
@@ -97,7 +105,9 @@
   <td>Henderson, Tammy Sanders</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AFST</td>
    </tr>
    <tr>
   <td>AGNG</td>
@@ -117,7 +127,9 @@
   <td>Majeski, Robin A.</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AGNG</td>
    </tr>
    <tr>
   <td>AGNG</td>
@@ -137,7 +149,9 @@
   <td>Madjaroff, Galina</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AGNG</td>
    </tr>
    <tr>
   <td>AMST</td>
@@ -157,7 +171,9 @@
   <td>Drabinski, Kathryn Summer</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AMST</td>
    </tr>
    <tr>
   <td>AMST</td>
@@ -177,7 +193,9 @@
   <td>Drabinski, Kathryn Summer</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AMST</td>
    </tr>
    <tr>
   <td>AMST</td>
@@ -197,7 +215,9 @@
   <td>Hummel, Michael J</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AMST</td>
    </tr>
    <tr>
   <td>AMST</td>
@@ -217,7 +237,9 @@
   <td>Taylor, Dabrina</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AMST</td>
    </tr>
    <tr>
   <td>AMST</td>
@@ -237,7 +259,9 @@
   <td>Singhal, Neha</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AMST</td>
    </tr>
    <tr>
   <td>AMST</td>
@@ -257,7 +281,9 @@
   <td>Gorman, Ellen</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*AMST</td>
    </tr>
    <tr>
   <td>ANCS</td>
@@ -277,7 +303,9 @@
   <td>Webber, Robert P</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ANCS</td>
    </tr>
    <tr>
   <td>ANCS</td>
@@ -297,7 +325,9 @@
   <td>Webber, Robert P</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ANCS</td>
    </tr>
    <tr>
   <td>ANCS</td>
@@ -317,7 +347,9 @@
   <td>Phin, Timothy J</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ANCS</td>
    </tr>
    <tr>
   <td>ANCS</td>
@@ -337,7 +369,9 @@
   <td>Phin, Timothy J</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ANCS</td>
    </tr>
    <tr>
   <td>ANCS</td>
@@ -357,7 +391,9 @@
   <td>Read, Esther D</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ANCS</td>
    </tr>
    <tr>
   <td>ANCS</td>
@@ -377,7 +413,9 @@
   <td>Jones-Lewis, Molly Ayn</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ANCS</td>
    </tr>
    <tr>
   <td>ANTH</td>
@@ -397,7 +435,9 @@
   <td>Chard, Sarah E</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ANTH</td>
    </tr>
    <tr>
   <td>ANTH</td>
@@ -417,7 +457,9 @@
   <td>Chapin, Bambi L</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ANTH</td>
    </tr>
    <tr>
   <td>ANTH</td>
@@ -437,7 +479,9 @@
   <td>Knisley, Margaret Ellen Grieves</td>
   <td>You must complete SOCY 101 or ANTH 211 with a &quot;C&quot;    or higher.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ANTH</td>
    </tr>
    <tr>
   <td>ARBC</td>
@@ -457,7 +501,9 @@
   <td>El Omari, Samir</td>
   <td>You must have completed ARBC 102 with C or better before    taking this class or have completed 3 years of high school Arabic.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ARBC</td>
    </tr>
    <tr>
   <td>ART</td>
@@ -477,7 +523,9 @@
   <td>Reinsel, Joseph</td>
   <td>You must have achieved admission through portfolio review    process (VA Milestone) and completed ART 210 and 211 with a grade of    &quot;C&quot; or better to take this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ART</td>
    </tr>
    <tr>
   <td>ART</td>
@@ -497,7 +545,9 @@
   <td>Valiente, Christian</td>
   <td>You must have achieved admission through portfolio review    process (VA Milestone) and completed ART 210 and 211 with a grade of    &quot;C&quot; or better to take this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ART</td>
    </tr>
    <tr>
   <td>ART</td>
@@ -517,7 +567,9 @@
   <td>Gardner, Symmes</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ART</td>
    </tr>
    <tr>
   <td>ART</td>
@@ -537,7 +589,9 @@
   <td>Durant, Mark R</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ART</td>
    </tr>
    <tr>
   <td>ART</td>
@@ -557,7 +611,9 @@
   <td>Gardner, Symmes</td>
   <td>You must have completed ART 210 and 214 with a grade of    &quot;C&quot; or better and completed the Visual Arts Milestone (portfolio    review process) before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ART</td>
    </tr>
    <tr>
   <td>ART</td>
@@ -577,7 +633,9 @@
   <td>Custen, Calvin R.</td>
   <td>You must complete ART 210 with a grade of &quot;C&quot; or    better and have completed the Visual Arts Milestone (portfolio review    process) before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ART</td>
    </tr>
    <tr>
   <td>ART</td>
@@ -597,7 +655,9 @@
   <td>Pawloski, Robert N</td>
   <td>You must complete one 200-level Arts and Humanities course    with a minimum grade of C.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ART</td>
    </tr>
    <tr>
   <td>ART</td>
@@ -617,7 +677,9 @@
   <td>Peregoy, Christopher A</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ART</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -637,7 +699,9 @@
   <td>Hughes, Jennifer Marie</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -657,7 +721,9 @@
   <td>Long, Tiha M.</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -677,7 +743,9 @@
   <td>Caruso, Steven M</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -698,7 +766,9 @@
   <td>You must have completed MATH 150 or MATH 151 or MATH 155 or    equivalent with a `C'<br>
     or better, or have Math test placement into MATH 151.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -718,7 +788,9 @@
   <td>Smith, Tracy A</td>
   <td>You must complete BIOL141 and either MATH150 or MATH151 or    MATH155 or equivalent with a C or better or have MATH test placement into    MATH151.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -738,7 +810,9 @@
   <td>Smith, Tracy A</td>
   <td>You must complete BIOL141 and either MATH150 or MATH151 or    MATH155 or equivalent with a C or better or have MATH test placement into    MATH151.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -758,7 +832,9 @@
   <td>Smith, Tracy A</td>
   <td>You must complete BIOL141 and either MATH150 or MATH151 or    MATH155 or equivalent with a C or better or have MATH test placement into    MATH151.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -778,7 +854,9 @@
   <td>Hughes, Jennifer Marie</td>
   <td>You must complete BIOL 101 or BIOL141 or BIOL141H and    CHEM102 or CHEM102H or CHEM 124 all of which has to have a grade of C or    better</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -798,7 +876,9 @@
   <td>Hughes, Jennifer Marie</td>
   <td>You must complete BIOL 251 and CHEM124L or CHEM102L with a    grade of `C¿ or better. BIOL 251 can be taken concurrently with BIOL251L</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -818,7 +898,9 @@
   <td>Hughes, Jennifer Marie</td>
   <td>You must complete BIOL 251 and CHEM124L or CHEM102L with a    grade of `C¿ or better. BIOL 251 can be taken concurrently with BIOL251L</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -838,7 +920,9 @@
   <td>Fleischmann, Esther M</td>
   <td>You must have completed BIOL 251 with a grade of C or    better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -859,7 +943,9 @@
   <td>You must have completed BIOL 251L with a grade of C or    better and be<br>
     enrolled in or have successfully completed 252 with a  C or better</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -880,7 +966,9 @@
   <td>You must have completed BIOL 251L with a grade of C or    better and be<br>
     enrolled in or have successfully completed 252 with a  C or better</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -901,7 +989,9 @@
   <td>You must have completed BIOL 251L with a grade of C or    better and be<br>
     enrolled in or have successfully completed 252 with a  C or better</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -922,7 +1012,9 @@
   <td>You must have completed BIOL 251L with a grade of C or    better and be<br>
     enrolled in or have successfully completed 252 with a  C or better</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -942,7 +1034,9 @@
   <td>Schreier, Susan B</td>
   <td>You must complete BIOL 100 or BIOL 100H or BIOL 101 or BIOL    141 or BIOL 141H with a &quot;C&quot; or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -962,7 +1056,9 @@
   <td>Schreier, Susan B</td>
   <td>You must have completed BIOL275 with a &quot;C&quot; or be    concurrently enrolled in BIOL275.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -982,7 +1078,9 @@
   <td>Schreier, Susan B</td>
   <td>You must have completed BIOL275 with a &quot;C&quot; or be    concurrently enrolled in BIOL275.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1002,7 +1100,9 @@
   <td>Whitworth, Karen P</td>
   <td>You must have completed CHEM102 or CHEM102H, and CHEM 102L,    and BIOL 302. You must have completed either MATH 150 or MATH 151 or MATH    155, or have equivalent AP credit, or have Math test placement into MATH 151.    All prerequisites must have a C or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1022,7 +1122,9 @@
   <td>Whitworth, Karen P</td>
   <td>You must have completed CHEM102 or CHEM102H, and CHEM 102L,    and BIOL 302. You must have completed either MATH 150 or MATH 151 or MATH    155, or have equivalent AP credit, or have Math test placement into MATH 151.    All prerequisites must have a C or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1042,7 +1144,9 @@
   <td>Caruso, Steven M</td>
   <td>You must complete BIOL100 /100H or BIOL141/141H; and    BIOL142/142H; and MATH150 or 151 or 155, or have equivalent AP credit or MATH    placement into MATH 151. You must complete or concurrently enrolled in    CHEM102, CHEM102H or CHEM124. All with a C or better</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1062,7 +1166,9 @@
   <td>Feeser, Elizabeth A.</td>
   <td>You must complete BIOL302 &amp; CHEM102 &amp;(MATH150 or151    or 155)or have equivalent AP credit, or have Math test placement into MATH    151. All prerequisites must be completed with a &quot;C&quot; or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1082,7 +1188,9 @@
   <td>Whitworth, Karen P</td>
   <td>You must complete BIOL300L and BIOL302 and BIOL303 with a C    or better. BIOL303 can be taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1102,7 +1210,9 @@
   <td>Whitworth, Karen P</td>
   <td>You must complete BIOL300L and BIOL302 and BIOL303 with a C    or better. BIOL303 can be taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1122,7 +1232,9 @@
   <td>Whitworth, Karen P</td>
   <td>You must complete BIOL300L and BIOL302 and BIOL303 with a C    or better. BIOL303 can be taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1142,7 +1254,9 @@
   <td>Whitworth, Karen P</td>
   <td>You must complete BIOL300L and BIOL302 and BIOL303 with a C    or better. BIOL303 can be taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1162,7 +1276,9 @@
   <td>Leupen, Sarah Margaret</td>
   <td>You must complete BIOL 305 or BIOL 307 and  BIOL 300L all with a grade of C or better.    BIOL 305 or BIOL 307 can be taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1182,7 +1298,9 @@
   <td>Leupen, Sarah Margaret</td>
   <td>You must have completed BIOL 303 with a grade of 'C' or    better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1202,7 +1320,9 @@
   <td>Bustos, Mauricio</td>
   <td>You must complete BIOL303 and CHEM351 with a C or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1222,7 +1342,9 @@
   <td>Williams, Tory H.</td>
   <td>You must have completed BIOL 305 with a grade of C or    better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1242,7 +1364,9 @@
   <td>Smith, Tracy A</td>
   <td>You must complete STAT350 and BIOL142 and BIOL302 with a C    or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1262,7 +1386,9 @@
   <td>Smith, Tracy A</td>
   <td>You must complete STAT350 and BIOL142 and BIOL302 with a C    or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1282,7 +1408,9 @@
   <td>Odom, Karan J</td>
   <td>You must complete BIOL 142. with a grade of 'C' or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BIOL</td>
@@ -1302,7 +1430,9 @@
   <td>Markovic, Olivera T</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*BIOL</td>
    </tr>
    <tr>
   <td>BTEC</td>
@@ -1322,7 +1452,9 @@
   <td>Bustos, Mauricio</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*BTEC</td>
    </tr>
    <tr>
   <td>BTEC</td>
@@ -1342,7 +1474,9 @@
   <td>Gouker, Toby R</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*BTEC</td>
    </tr>
    <tr>
   <td>BTEC</td>
@@ -1362,7 +1496,9 @@
   <td></td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*BTEC</td>
    </tr>
    <tr>
   <td>BTEC</td>
@@ -1382,7 +1518,9 @@
   <td>Jones, Michelle Lynn</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*BTEC</td>
    </tr>
    <tr>
   <td>BTEC</td>
@@ -1402,7 +1540,9 @@
   <td>Ray, Jeffrey S</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*BTEC</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1422,7 +1562,9 @@
   <td>Carpenter, Tara S.</td>
   <td>You must complete MATH 106 or MATH 106Y or MATH 150 or MATH    151 or MATH 155 with a C or better or have AP credit for MATH 150 or MATH 151    or have a MATH placement score of 4 or 5.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1442,7 +1584,9 @@
   <td>Hamilton, Diana S</td>
   <td>You must complete MATH 106 or MATH 106Y or MATH 150 or MATH    151 or MATH 155 with a C or better or have AP credit for MATH 150 or MATH 151    or have a MATH placement score of 4 or 5.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1462,7 +1606,9 @@
   <td>Olson, Wendy J</td>
   <td>You must complete MATH 106 or MATH 106Y or MATH 150 or MATH    151 or MATH 155 with a C or better or have AP credit for MATH 150 or MATH 151    or have a MATH placement score of 4 or 5.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1482,7 +1628,9 @@
   <td>Carpenter, Tara S.</td>
   <td>You must have completed CHEM101 or CHEM101H with a grade of    &quot;C&quot; or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1502,7 +1650,9 @@
   <td>Hamilton, Diana S</td>
   <td>You must have completed CHEM101 or CHEM101H with a grade of    &quot;C&quot; or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1522,7 +1672,9 @@
   <td>Olson, Wendy J</td>
   <td>You must have completed CHEM101 or CHEM101H with a grade of    &quot;C&quot; or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1542,7 +1694,9 @@
   <td>Kohler, Sarah E</td>
   <td>You must complete CHEM101 or CHEM101H and CHEM102 or    CHEM102H all with a C or better. CHEM102 or CHEM102H can be completed or    taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1562,7 +1716,9 @@
   <td>Tracy, Allison M</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1582,7 +1738,9 @@
   <td>Tracy, Allison M</td>
   <td>You must complete CHEM123 with a C or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1602,7 +1760,9 @@
   <td>Tyminski, Frank S</td>
   <td>You must have completed CHEM123 and CHEM124 both with a C    or better. CHEM124 can be taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1622,7 +1782,9 @@
   <td>Mang, Stephen A.</td>
   <td>You must have completed CHEM102 or 102H and CHEM 102L with    a grade of &quot;C&quot; or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1642,7 +1804,9 @@
   <td>Gierasch, Tiffany</td>
   <td>You must have completed CHEM102  or CHEM102H with a C or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1662,7 +1826,9 @@
   <td>Tyminski, Frank S</td>
   <td>You must have completed CHEM102  or CHEM102H with a C or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1682,7 +1848,9 @@
   <td>Perks, Harry M</td>
   <td>You must complete CHEM102 or CHEM102H and CHEM102L and CHEM    351 all with a C or better. CHEM351 can be taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1702,7 +1870,9 @@
   <td>Smith, Paul J</td>
   <td>You must complete CHEM102 or CHEM102H and CHEM351 with a C    or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CHEM</td>
@@ -1722,7 +1892,9 @@
   <td>Smith, Paul J</td>
   <td>You must complete CHEM102L and CHEM351 and CHEM351L and    CHEM352 all with a C or better. CHEM 352 can be taken concurrently..</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*CHEM</td>
    </tr>
    <tr>
   <td>CYBR</td>
@@ -1742,7 +1914,9 @@
   <td>Kinney, Albert C</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*CYBR</td>
    </tr>
    <tr>
   <td>CYBR</td>
@@ -1762,7 +1936,9 @@
   <td></td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*CYBR</td>
    </tr>
    <tr>
   <td>CYBR</td>
@@ -1782,7 +1958,9 @@
   <td>Hasib, Mansurul</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*CYBR</td>
    </tr>
    <tr>
   <td>CYBR</td>
@@ -1802,7 +1980,9 @@
   <td></td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*CYBR</td>
    </tr>
    <tr>
   <td>CYBR</td>
@@ -1822,7 +2002,9 @@
   <td>Coman, Daniela</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*CYBR</td>
    </tr>
    <tr>
   <td>DANC</td>
@@ -1842,7 +2024,9 @@
   <td>Ansah-Brew, Kwame</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*DANC</td>
    </tr>
    <tr>
   <td>ECAC</td>
@@ -1862,7 +2046,9 @@
   <td>Hardy, Timothy W.</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECAC</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -1882,7 +2068,9 @@
   <td>Ma, Bing</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -1902,7 +2090,9 @@
   <td>Baier, Kevin P</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -1922,7 +2112,9 @@
   <td>Yuan, Chunming</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -1942,7 +2134,9 @@
   <td>Farahati, Farah</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -1962,7 +2156,9 @@
   <td>Medicus, Suzann D</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -1982,7 +2178,9 @@
   <td>Antlitz, Ronald E</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2002,7 +2200,9 @@
   <td>Hardy, Timothy W.</td>
   <td>You must have completed ECON121 with a grade of C or better    to take this course.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2022,7 +2222,9 @@
   <td>Medicus, Suzann D</td>
   <td>You must have completed ECON121 with a grade of C or better    to take this course.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2042,7 +2244,9 @@
   <td>McBride, Charles P.</td>
   <td>You must have completed ECON 122 with a &quot;C' or better    to take this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2062,7 +2266,9 @@
   <td>McBride, Charles P.</td>
   <td>You must have completed ECON 301 with a grade of    &quot;C&quot; or better to take this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2082,7 +2288,9 @@
   <td>Schwarzmann, Danielle N</td>
   <td>You must have completed ECON101 or ECON101H and MATH 151 or    MATH151H or MATH 155 with a grade of C or better before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2102,7 +2310,9 @@
   <td>Thomas, Mark</td>
   <td>You must have completed ECON101 or ECON101H and ECON 102 or    ECON 102H and either MATH151 or MATH151H or MATH 155 all with a C or better    before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2122,7 +2332,9 @@
   <td>Tang, Alex P.</td>
   <td>You must have completed ECON 101 and ECON102 and ECON121    and ECON 122 and either STAT350 or STAT351 or STAT355 with a grade of    &quot;C&quot; or better before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2142,7 +2354,9 @@
   <td>Dasgupta, Nandita</td>
   <td>You must have completed ECON 311 with a grade of    &quot;C&quot; or better before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2162,7 +2376,9 @@
   <td>Ma, Bing</td>
   <td>You must have completed ECON 311 and ECON 312 and STAT 351    with a grade of &quot;C&quot; or better before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2182,7 +2398,9 @@
   <td>Lamdin, Douglas J</td>
   <td>You must have taken ECON 374 and ECON 311 and received a    grade of &quot;C&quot; or better before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2202,7 +2420,9 @@
   <td>Yuan, Chunming</td>
   <td>You must have completed ECON 312 with a grade of    &quot;C&quot; or better before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2222,7 +2442,9 @@
   <td>Thomas, Mark</td>
   <td>You must have completed ECON 311 with a grade of    &quot;C&quot; or better before taking this class.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>ECON</td>
@@ -2242,7 +2464,9 @@
   <td>Lamdin, Douglas J</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*ECON</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2262,7 +2486,9 @@
   <td>Else-Quest, Nicole Meredith</td>
   <td>You must have completed PSYC 100 with a C or better before    you can enroll in this course.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2282,7 +2508,9 @@
   <td>Berge, Nancy B</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2302,7 +2530,9 @@
   <td>North, Cheryl Marie</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2322,7 +2552,9 @@
   <td>Williams, Vickie G</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2342,7 +2574,9 @@
   <td>Oliva, Linda M</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2363,7 +2597,9 @@
   <td>Williams, Vickie G</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2383,7 +2619,9 @@
   <td>Williams, Vickie G</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2403,7 +2641,9 @@
   <td>Tabaa, Mary</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2423,7 +2663,9 @@
   <td>Hodell, Charles K</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2443,7 +2685,9 @@
   <td>Campos, Jeannette S</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2463,7 +2707,9 @@
   <td>Hodell, Charles K</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2483,7 +2729,9 @@
   <td>Berge, Zane L</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2503,7 +2751,9 @@
   <td>Young, Patricia A.</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2523,7 +2773,9 @@
   <td>North, Cheryl Marie</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2543,7 +2795,9 @@
   <td>Medina, Adriana</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2563,7 +2817,9 @@
   <td>Weinstein, Stuart Harris</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2583,7 +2839,9 @@
   <td>Berge, Nancy B</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2603,7 +2861,9 @@
   <td>Kellerman, Paul</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2623,7 +2883,9 @@
   <td>England, Yuliya A</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2643,7 +2905,9 @@
   <td>Glennon, Michael P</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2663,7 +2927,9 @@
   <td>Terhorst II, Raymond</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2684,7 +2950,9 @@
   <td>Williams, Gregory R.</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2704,7 +2972,9 @@
   <td>Williams, Gregory R.</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EDUC</td>
@@ -2724,7 +2994,9 @@
   <td>Williams, Gregory R.</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EDUC</td>
    </tr>
    <tr>
   <td>EHS</td>
@@ -2744,7 +3016,9 @@
   <td>Williams Jr., Gary B</td>
   <td>You must have completed     ENGL100 or ENGL 100Y with a C or better. Students can also take this    course if they have LRC placement for ENGL100/100Y .</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EHS</td>
    </tr>
    <tr>
   <td>EHS</td>
@@ -2764,7 +3038,9 @@
   <td>Flint, Diane C</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*EHS</td>
    </tr>
    <tr>
   <td>EHS</td>
@@ -2784,7 +3060,9 @@
   <td>Williams Jr., Gary B</td>
   <td>You must have completed EHS 200 with a C or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EHS</td>
    </tr>
    <tr>
   <td>EHS</td>
@@ -2804,7 +3082,9 @@
   <td>Williams Jr., Gary B</td>
   <td>You must complete EHS202 with a C or better.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td>*EHS</td>
    </tr>
    <tr>
   <td>ENCH</td>
@@ -2824,7 +3104,9 @@
   <td></td>
   <td>Must have completed ENES101 or ENES101H or ENES101Y and    CHEM102 or CHEM102H with a C or better in both.  Can be taken concurrently.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>STEM</td>
+  <td>*ENCH</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -2844,7 +3126,9 @@
   <td>Mabe, Mitzi</td>
   <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -2864,7 +3148,9 @@
   <td>Fitzpatrick, Carolyn H</td>
   <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -2884,7 +3170,9 @@
   <td>Dunnigan, Brian</td>
   <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -2904,7 +3192,9 @@
   <td>Dunnigan, Brian</td>
   <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -2924,7 +3214,9 @@
   <td>Dunnigan, Brian</td>
   <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -2944,7 +3236,9 @@
   <td>Dunnigan, Brian</td>
   <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -2964,7 +3258,9 @@
   <td>Field, Thomas T</td>
   <td></td>
   <td>No Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -2984,7 +3280,9 @@
   <td>Shivnan, Sally A</td>
   <td>You must have completed ENGL 100 or ENGL 100 equivalent    with a grade of C or better to take this course.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
    <tr>
   <td>ENGL</td>
@@ -3004,7 +3302,9 @@
   <td>Carillo, John P</td>
   <td>You must have completed ENGL 100 or ENGL 100 equivalent    with a grade of C or better to take this course.</td>
   <td>Has Prerequisite</td>
-  <td dir="LTR" width="724">Has GEP</td>
+  <td>Has GEP</td>
+  <td></td>
+  <td>*ENGL</td>
    </tr>
 
   <tr>
@@ -3025,7 +3325,9 @@
     <td>Hurley, Jeanine</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*ENGL</td>
   </tr>
   <tr>
     <td>ENGL</td>
@@ -3045,7 +3347,9 @@
     <td>Nelson, Timothy J</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*ENGL</td>
   </tr>
   <tr>
     <td>ENGL</td>
@@ -3065,7 +3369,9 @@
     <td>MacDougall, Elaine M</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*ENGL</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3085,7 +3391,9 @@
     <td>Edelen, Mark R</td>
     <td>You must have completed PHYS121 with a grade of &quot;C' or    better or be concurrently enrolled in PHYS121 and you must have completed    MATH151with a &quot;C&quot; or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3105,7 +3413,9 @@
     <td>Schubbe, Joel J</td>
     <td>You must have completed ENME110 and MATH152 and PHYS121 all    with a grade of &quot;C&quot; or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3125,7 +3435,9 @@
     <td></td>
     <td>You must have completed ENME220 and ENME221 and ENME303 and    MATH225 all with a grade of &quot;C&quot; or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3145,7 +3457,9 @@
     <td>Piper, George E</td>
     <td>You must have completed ENME 360 and either CMPE306 or ENEE    302with a grade of &quot;C&quot;or better before you can take this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3165,7 +3479,9 @@
     <td></td>
     <td>You must have completed ENME360 and ENME403 both with a    grade of &quot;C&quot; or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3185,7 +3501,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3205,7 +3523,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3225,7 +3545,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENME</td>
@@ -3245,7 +3567,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*ENME</td>
   </tr>
   <tr>
     <td>ENMG</td>
@@ -3265,7 +3589,9 @@
     <td>Ray, Jeffrey S</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*ENMG</td>
   </tr>
   <tr>
     <td>ENMG</td>
@@ -3285,7 +3611,9 @@
     <td>Gouker, Toby R</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*ENMG</td>
   </tr>
   <tr>
     <td>ENMG</td>
@@ -3305,7 +3633,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*ENMG</td>
   </tr>
   <tr>
     <td>ENMG</td>
@@ -3325,7 +3655,9 @@
     <td>Jones, Michelle Lynn</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*ENMG</td>
   </tr>
   <tr>
     <td>ENTR</td>
@@ -3345,7 +3677,9 @@
     <td>Mason, Gilbert A</td>
     <td>You must have completed ENTR200 and (ENTR201or AMST205 or    SOCY205 or POLI205)</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*ENTR</td>
   </tr>
   <tr>
     <td>FREN</td>
@@ -3365,7 +3699,9 @@
     <td>Digeon, Landry D</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*FREN</td>
   </tr>
   <tr>
     <td>FREN</td>
@@ -3385,7 +3721,9 @@
     <td>Mushayuma, Georges M.</td>
     <td>You must have completed FREN 101 with a C or better before    taking this class or have completed 2 years of high school French.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*FREN</td>
   </tr>
   <tr>
     <td>FREN</td>
@@ -3405,7 +3743,9 @@
     <td>Didich, Amina</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*FREN</td>
   </tr>
   <tr>
     <td>FREN</td>
@@ -3425,7 +3765,9 @@
     <td>Fatih, Zakaria</td>
     <td>You must complete FREN 102     or FREN 103 with a grade of C or better or have completed 3 years of    high school French.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*FREN</td>
   </tr>
   <tr>
     <td>FYE</td>
@@ -3446,7 +3788,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*FYE</td>
   </tr>
   <tr>
     <td>FYS</td>
@@ -3466,7 +3810,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*FYS</td>
   </tr>
   <tr>
     <td>GERM</td>
@@ -3486,7 +3832,9 @@
     <td>Wolff, Xenia Y.</td>
     <td>You must complete GERM 102 or GERM 103 with a grade of C or    better before taking this class or have completed 3 years of High School    German.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*GERM</td>
   </tr>
   <tr>
     <td>GES</td>
@@ -3506,7 +3854,9 @@
     <td>Neff, Robert</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*GES</td>
   </tr>
   <tr>
     <td>GES</td>
@@ -3526,7 +3876,9 @@
     <td>Halverson, Jeffrey B</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*GES</td>
   </tr>
   <tr>
     <td>GES</td>
@@ -3546,7 +3898,9 @@
     <td>School, Joseph</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*GES</td>
   </tr>
   <tr>
     <td>GES</td>
@@ -3566,7 +3920,9 @@
     <td>Halverson, Jeffrey B</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*GES</td>
   </tr>
   <tr>
     <td>GES</td>
@@ -3586,7 +3942,9 @@
     <td>Yang, Xiuzhu</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*GES</td>
   </tr>
   <tr>
     <td>GWST</td>
@@ -3606,7 +3964,9 @@
     <td>Drabinski, Kathryn Summer</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*GWST</td>
   </tr>
   <tr>
     <td>GWST</td>
@@ -3627,7 +3987,9 @@
     <td>Cleaver, Kerry A</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*GWST</td>
   </tr>
   <tr>
     <td>GWST</td>
@@ -3647,7 +4009,9 @@
     <td>Drabinski, Kathryn Summer</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*GWST</td>
   </tr>
   <tr>
     <td>GWST</td>
@@ -3668,7 +4032,9 @@
     <td>McCully, Susan</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*GWST</td>
   </tr>
   <tr>
     <td>GWST</td>
@@ -3688,7 +4054,9 @@
     <td>Kent, Jennifer L.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*GWST</td>
   </tr>
   <tr>
     <td>GWST</td>
@@ -3708,7 +4076,9 @@
     <td>Damasiewicz, Meryl S.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*GWST</td>
   </tr>
   <tr>
     <td>GWST</td>
@@ -3729,7 +4099,9 @@
     <td>Salisbury, Elizabeth</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*GWST</td>
   </tr>
   <tr>
     <td>GWST</td>
@@ -3749,7 +4121,9 @@
     <td>Henderson, Tammy Sanders</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*GWST</td>
   </tr>
   <tr>
     <td>HAPP</td>
@@ -3769,7 +4143,9 @@
     <td>Cange, Charles W.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*HAPP</td>
   </tr>
   <tr>
     <td>HAPP</td>
@@ -3789,7 +4165,9 @@
     <td>Coakley, Paul E</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*HAPP</td>
   </tr>
   <tr>
     <td>HAPP</td>
@@ -3809,7 +4187,9 @@
     <td>Coakley, Paul E</td>
     <td>You must have completed HAPP 100 with a grade of C or    better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*HAPP</td>
   </tr>
   <tr>
     <td>HIST</td>
@@ -3829,7 +4209,9 @@
     <td>Oakes, Julie Christ</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*HIST</td>
   </tr>
   <tr>
     <td>HIST</td>
@@ -3849,7 +4231,9 @@
     <td>Laurents, Mary K</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*HIST</td>
   </tr>
   <tr>
     <td>HIST</td>
@@ -3869,7 +4253,9 @@
     <td>Read, Esther D</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*HIST</td>
   </tr>
   <tr>
     <td>HIST</td>
@@ -3890,7 +4276,9 @@
     <td>Smead Jr., Edwin Howard</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*HIST</td>
   </tr>
   <tr>
     <td>HIST</td>
@@ -3910,7 +4298,9 @@
     <td>Birkenmeier, John W</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*HIST</td>
   </tr>
   <tr>
     <td>HIST</td>
@@ -3931,7 +4321,9 @@
     <td>Vaporis, Constantine N</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*HIST</td>
   </tr>
   <tr>
     <td>HIST</td>
@@ -3951,7 +4343,9 @@
     <td>Oakes, Julie Christ</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*HIST</td>
   </tr>
   <tr>
     <td>HIST</td>
@@ -3971,7 +4365,9 @@
     <td>Birkenmeier, John W</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*HIST</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -3991,7 +4387,9 @@
     <td>Redding, Tate O</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -4011,7 +4409,9 @@
     <td>Sponaugle, Richard G</td>
     <td>You must complete IS 101 or IS 101H or IS 101Y or COMP 101    with a C or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -4031,7 +4431,9 @@
     <td>Smith, Dana H</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -4051,7 +4453,9 @@
     <td>Smith, Dana H</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -4071,7 +4475,9 @@
     <td>Sponaugle, Richard G</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -4091,7 +4497,9 @@
     <td>Sponaugle, Richard G</td>
     <td>You must have completed any 300 level IS course with a    grade of C or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -4112,7 +4520,9 @@
     <td>You must complete IS125 or IS147, or    CMSC104orCMSC201and<br>
       eitherMATH151orMATH155 all with a C or better</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -4132,7 +4542,9 @@
     <td>Martens, Jeffrey</td>
     <td>You must complete MATH215 or MATH221 with a C or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>IS</td>
@@ -4152,7 +4564,9 @@
     <td>Canfield, Gerald C</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
   </tr>
   <tr>
     <td>JDST</td>
@@ -4172,7 +4586,9 @@
     <td>Guinn-Villareal, Erin L.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*JDST</td>
   </tr>
   <tr>
     <td>JDST</td>
@@ -4192,7 +4608,9 @@
     <td>Hurley, Jeanine</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*JDST</td>
   </tr>
   <tr>
     <td>LING</td>
@@ -4212,7 +4630,9 @@
     <td>Field, Thomas T</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*LING</td>
   </tr>
   <tr>
     <td>LLC</td>
@@ -4232,7 +4652,9 @@
     <td>Adler, Marina A</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*LLC</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4252,7 +4674,9 @@
     <td>Slowikowski, William</td>
     <td>You must have scored a 3, 4 or 5 on the LRC MATH placement    exam or passed MATH 106 with a grade of 'C' or better to enroll in this    course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4272,7 +4696,9 @@
     <td>Webb, Deborah P.</td>
     <td>You must score a 2 or 3 on the LRC placement exam or have    completed LRC 99 with a grade of 'C' or better to enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4292,7 +4718,9 @@
     <td>Riley, Sam J</td>
     <td>You must score a 2 or 3 on the LRC placement exam or have    completed LRC 99 with a grade of 'C' or better to enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4312,7 +4740,9 @@
     <td>Riley, Sam J</td>
     <td>You must score a 2 or 3 on the LRC placement exam or have    completed LRC 99 with a grade of 'C' or better to enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4332,7 +4762,9 @@
     <td>Baradwaj, Rajalakshm J</td>
     <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4352,7 +4784,9 @@
     <td>Tay-Stamoulas, Serap</td>
     <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4372,7 +4806,9 @@
     <td></td>
     <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4392,7 +4828,9 @@
     <td>Tay-Stamoulas, Serap</td>
     <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4412,7 +4850,9 @@
     <td>Barouti, Maria</td>
     <td>You must have completed MATH 150 with a grade of    &quot;C&quot; or better or scored a 5 on the LRC MATH placement exam to    enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4432,7 +4872,9 @@
     <td></td>
     <td>You must have completed MATH 150 with a grade of    &quot;C&quot; or better or scored a 5 on the LRC MATH placement exam to    enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4452,7 +4894,9 @@
     <td>Tighe, Bonny J</td>
     <td>You must complete MATH 151 or MATH 151H  or MATH 141 or MATH 155B  with a grade of C or better before taking    this class.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4472,7 +4916,9 @@
     <td>Carey, Bryce Mackey-Williams</td>
     <td>You must complete MATH 151 or MATH 151H  or MATH 141 or MATH 155B  with a grade of C or better before taking    this class.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4492,7 +4938,9 @@
     <td>Boukouvalas, Zois</td>
     <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4512,7 +4960,9 @@
     <td>Muscedere, Michael</td>
     <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4532,7 +4982,9 @@
     <td>Muscedere, Michael</td>
     <td>You must have completed MATH 155 with a grade of    &quot;C&quot; or better before you can take this class.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4552,7 +5004,9 @@
     <td>Hajghassem, Mona S.</td>
     <td>You must have completed MATH 141 or MATH151 or MATH155 or    MATH380 with a grade of  'C' or better    or scored a 5 on the MATH placement exam before you can enroll in this    course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4572,7 +5026,9 @@
     <td>Slowikowski, William</td>
     <td>You must have completed MATH 141 or MATH151 or MATH155 or    MATH380 with a grade of  'C' or better    or scored a 5 on the MATH placement exam before you can enroll in this    course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4592,7 +5048,9 @@
     <td>Guler, Osman</td>
     <td>You must complete MATH141 or MATH151 or MATH380 with a    grade of C or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4612,7 +5070,9 @@
     <td>Thompson, Stephen G.</td>
     <td>You must complete MATH141 or MATH151 or MATH380 with a    grade of C or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4632,7 +5092,9 @@
     <td>Thompson, Stephen G.</td>
     <td>You must have completed MATH 142 or MATH 152 with a grade    of &quot;C&quot; or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4652,7 +5114,9 @@
     <td>Dean, Brian J</td>
     <td>You must have completed MATH 142 or MATH 152 with a grade    of &quot;C&quot; or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4672,7 +5136,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4692,7 +5158,9 @@
     <td>Kang, Weining</td>
     <td>You must have completed MATH 142 or MATH 152 in addition to    MATH 221 with a grade of &quot;C&quot; or better before you can take this    course.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4712,7 +5180,9 @@
     <td>Guler, Osman</td>
     <td>You must have completed MATH 301 with a grade of C or    better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4732,7 +5202,9 @@
     <td>Kang, Weining</td>
     <td>You must have completed MATH225 or  MATH355 with a C or better</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MATH</td>
@@ -4752,7 +5224,9 @@
     <td>Graf, Jonathan Shaffer</td>
     <td>You must have completed MATH 152 or MATH221 and CMSC 201    with a C or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*MATH</td>
   </tr>
   <tr>
     <td>MCS</td>
@@ -4772,7 +5246,9 @@
     <td>Snyder, Donald I</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MCS</td>
   </tr>
   <tr>
     <td>MCS</td>
@@ -4792,7 +5268,9 @@
     <td>Berry, Erin L</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MCS</td>
   </tr>
   <tr>
     <td>MCS</td>
@@ -4812,7 +5290,9 @@
     <td>Snyder, Donald I</td>
     <td>You nust complete MCS 101 or MCS 222 with  a C or better.</td>
     <td>Has Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MCS</td>
   </tr>
   <tr>
     <td>MCS</td>
@@ -4833,7 +5313,9 @@
     <td>Salisbury, Elizabeth</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*MCS</td>
   </tr>
   <tr>
     <td>MGMT</td>
@@ -4853,7 +5335,9 @@
     <td>Frock, Suzanne D.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*MGMT</td>
   </tr>
   <tr>
     <td>MLL</td>
@@ -4873,7 +5357,9 @@
     <td>Field, Thomas T</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MLL</td>
   </tr>
   <tr>
     <td>MLL</td>
@@ -4893,7 +5379,9 @@
     <td>Chuku, Gloria Ifeoma</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MLL</td>
   </tr>
   <tr>
     <td>MLL</td>
@@ -4913,7 +5401,9 @@
     <td>Brown, William I</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MLL</td>
   </tr>
   <tr>
     <td>MLL</td>
@@ -4933,7 +5423,9 @@
     <td>Fatih, Zakaria</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MLL</td>
   </tr>
   <tr>
     <td>MLL</td>
@@ -4953,7 +5445,9 @@
     <td>Medina, Adriana</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MLL</td>
   </tr>
   <tr>
     <td>MLL</td>
@@ -4973,7 +5467,9 @@
     <td>Yoon, Kyung-Eun</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MLL</td>
   </tr>
   <tr>
     <td>MUSC</td>
@@ -4994,7 +5490,9 @@
     <td>Rubin, Anna I</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MUSC</td>
   </tr>
   <tr>
     <td>MUSC</td>
@@ -5015,7 +5513,9 @@
     <td>Belzer, Matthew P.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MUSC</td>
   </tr>
   <tr>
     <td>MUSC</td>
@@ -5036,7 +5536,9 @@
     <td>Belzer, Matthew P.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MUSC</td>
   </tr>
   <tr>
     <td>MUSC</td>
@@ -5056,7 +5558,9 @@
     <td>Beck, Gina C</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*MUSC</td>
   </tr>
   <tr>
     <td>MUSC</td>
@@ -5076,7 +5580,9 @@
     <td>Belzer, Matthew P.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*MUSC</td>
   </tr>
   <tr>
     <td>MUSC</td>
@@ -5096,7 +5602,9 @@
     <td></td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*MUSC</td>
   </tr>
   <tr>
     <td>PHED</td>
@@ -5116,7 +5624,9 @@
     <td>Lloyd, Erica</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*PHED</td>
   </tr>
   <tr>
     <td>PHED</td>
@@ -5136,7 +5646,9 @@
     <td>Jancuska JR, John A</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*PHED</td>
   </tr>
   <tr>
     <td>PHED</td>
@@ -5156,7 +5668,9 @@
     <td>Gibeau, Christopher</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*PHED</td>
   </tr>
   <tr>
     <td>PHED</td>
@@ -5176,7 +5690,9 @@
     <td>Nigro, Brandt T.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*PHED</td>
   </tr>
   <tr>
     <td>PHED</td>
@@ -5196,7 +5712,9 @@
     <td>Bobb, David O</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*PHED</td>
   </tr>
   <tr>
     <td>PHED</td>
@@ -5216,7 +5734,9 @@
     <td>Adams, Anthony M</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*PHED</td>
   </tr>
   <tr>
     <td>PHED</td>
@@ -5236,7 +5756,9 @@
     <td>Amenta, Brian</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">Has GEP</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*PHED</td>
   </tr>
   <tr>
     <td>PHED</td>
@@ -5255,7 +5777,9 @@
     <td>Watson, Katherine E.</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td dir="LTR" width="724">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>*PHED</td>
     </tr>
      <tr>
        <td>PHED</td>
@@ -5275,7 +5799,9 @@
        <td>D'Archangelo, Michael</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5295,7 +5821,9 @@
        <td>Panzau, Katelyn</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5315,7 +5843,9 @@
        <td>Johnson, Cathy</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5335,7 +5865,9 @@
        <td>Johnson, Cathy</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5355,7 +5887,9 @@
        <td>Alexander, Kristen</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5375,7 +5909,9 @@
        <td>Nagle, Seth</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5395,7 +5931,9 @@
        <td>Nagle, Seth</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5415,7 +5953,9 @@
        <td>D'Archangelo, Michael</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5435,7 +5975,9 @@
        <td>Culotta, Julia</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5455,7 +5997,9 @@
        <td>Alvis, Larry</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5475,7 +6019,9 @@
        <td></td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5495,7 +6041,9 @@
        <td></td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5515,7 +6063,9 @@
        <td></td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5535,7 +6085,9 @@
        <td></td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5555,7 +6107,9 @@
        <td>French, Joseph S</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5575,7 +6129,9 @@
        <td>Bowen, Liam Jackson</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5595,7 +6151,9 @@
        <td>Gibbons-O'Neill, Bernard Kevin</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5615,7 +6173,9 @@
        <td>Nicht, Sandra K.</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5635,7 +6195,9 @@
        <td>Nicht, Sandra K.</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5655,7 +6217,9 @@
        <td>Birger, Catherine K</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5675,7 +6239,9 @@
        <td>Smith, Whitney</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5695,7 +6261,9 @@
        <td>Cradock, Chad G</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5715,7 +6283,9 @@
        <td>Levy, Stephen L</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5735,7 +6305,9 @@
        <td>Smith, Whitney</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5755,7 +6327,9 @@
        <td>Maier, Thomas J</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5775,7 +6349,9 @@
        <td>Griggs, Sara Anita</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5795,7 +6371,9 @@
        <td>Sullivan, Meghan E</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5815,7 +6393,9 @@
        <td>Sirkis, Sharon</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHED</td>
@@ -5835,7 +6415,9 @@
        <td>Sirkis, Sharon</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHED</td>
      </tr>
      <tr>
        <td>PHIL</td>
@@ -5855,7 +6437,9 @@
        <td>Thomas, James G</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHIL</td>
      </tr>
      <tr>
        <td>PHIL</td>
@@ -5875,7 +6459,9 @@
        <td>Jenkins, Daniel G</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHIL</td>
      </tr>
      <tr>
        <td>PHIL</td>
@@ -5895,7 +6481,9 @@
        <td>Jenkins, Daniel G</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHIL</td>
      </tr>
      <tr>
        <td>PHIL</td>
@@ -5915,7 +6503,9 @@
        <td>Thomas, James G</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHIL</td>
      </tr>
      <tr>
        <td>PHIL</td>
@@ -5935,7 +6525,9 @@
        <td>Ealick, Greg</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHIL</td>
      </tr>
      <tr>
        <td>PHIL</td>
@@ -5955,7 +6547,9 @@
        <td>Ealick, Greg</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHIL</td>
      </tr>
      <tr>
        <td>PHIL</td>
@@ -5975,7 +6569,9 @@
        <td>Wood, Mary Christina</td>
        <td>You must have taken (1) PHIL course and received a grade of    &quot;C&quot; or better before taking this course.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHIL</td>
      </tr>
      <tr>
        <td>PHIL</td>
@@ -5995,7 +6591,9 @@
        <td>Jenkins, Daniel G</td>
        <td>You must have taken (1) PHIL course and received a grade of    &quot;C&quot; or better before taking this course.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PHIL</td>
      </tr>
      <tr>
        <td>PHYS</td>
@@ -6015,7 +6613,9 @@
        <td>Worchesky, Terrance L</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*PHYS</td>
      </tr>
      <tr>
        <td>PHYS</td>
@@ -6035,7 +6635,9 @@
        <td></td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*PHYS</td>
      </tr>
      <tr>
        <td>PHYS</td>
@@ -6055,7 +6657,9 @@
        <td>Sen, Naresh</td>
        <td>You must complete PHYS111     with a C or better..</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*PHYS</td>
      </tr>
      <tr>
        <td>PHYS</td>
@@ -6075,7 +6679,9 @@
        <td>Sen, Naresh</td>
        <td>You must complete PHYS111     with a C or better..</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*PHYS</td>
      </tr>
      <tr>
        <td>PHYS</td>
@@ -6095,7 +6701,9 @@
        <td>Cui, Lili</td>
        <td>You must complete MATH 151 or MATH 151H with a    &quot;C&quot; or higher or be concurrently enrolled in MATH 151 or MATH 151H.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*PHYS</td>
      </tr>
      <tr>
        <td>PHYS</td>
@@ -6115,7 +6723,9 @@
        <td>Cui, Lili</td>
        <td>You must complete (MATH152 or MATH152H) and (PHYS121 or    PHYS121H) both with a grade of C or better. MATH152 or MATH152H can be taken    concurrently.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*PHYS</td>
      </tr>
      <tr>
        <td>PHYS</td>
@@ -6135,7 +6745,9 @@
        <td>Takacs, Laszlo</td>
        <td>You must complete PHYS 122 or PHYS 122H with a grade of C    or higher or be concurrently enrolled in PHYS 122 or PHYS 122H.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*PHYS</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6156,7 +6768,9 @@
        <td>King-Meadows, Tyson</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6177,7 +6791,9 @@
        <td>Davis, Jeffrey</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6198,7 +6814,9 @@
        <td>Dasgupta, Sunil</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6218,7 +6836,9 @@
        <td>Grodsky, Brian</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6238,7 +6858,9 @@
        <td>Kent, Jennifer L.</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6258,7 +6880,9 @@
        <td>Forestiere, Carolyn</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6279,7 +6903,9 @@
        <td>Dasgupta, Sunil</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6299,7 +6925,9 @@
        <td>Starkey, Brigid</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6320,7 +6948,9 @@
        <td>Hussey, Laura S.</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6340,7 +6970,9 @@
        <td>Forestiere, Carolyn</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6361,7 +6993,9 @@
        <td>Grodsky, Brian</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>POLI</td>
@@ -6382,7 +7016,9 @@
        <td>Davis, Jeffrey</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*POLI</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6402,7 +7038,9 @@
        <td>O'Brien, Eileen L</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6422,7 +7060,9 @@
        <td>Borrero, John C</td>
        <td>You must have completed PSYC 100 with a C or better before    you can enroll in this course.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6442,7 +7082,9 @@
        <td>Taylor, Antione D</td>
        <td>You must complete PSYC 100 and ENGL 100 with C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6462,7 +7104,9 @@
        <td>Rose, Laura E.</td>
        <td>You must complete PSYC 100 and ENGL 100 with C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6483,7 +7127,9 @@
        <td>Knight, Donald E</td>
        <td>You must have completed PSYC 100 with a C or better before    you can enroll in this course.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6503,7 +7149,9 @@
        <td>Murphy, Julie</td>
        <td>You must have completed PSYC 100 with a C or better before    you can enroll in this course.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6523,7 +7171,9 @@
        <td>O'Brien, Eileen L</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6543,7 +7193,9 @@
        <td>Else-Quest, Nicole Meredith</td>
        <td>You must have completed PSYC 100 with a C or better before    you can enroll in this course.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6563,7 +7215,9 @@
        <td>Pitts, Steven C</td>
        <td>You must complete PSYC211 and either (STAT121 or STAT350 or    STAT351 or STAT355 or STAT451) both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6583,7 +7237,9 @@
        <td>Pitts, Steven C</td>
        <td>You must complete PSYC211 and either (STAT121 or STAT350 or    STAT351 or STAT355 or STAT451) both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6603,7 +7259,9 @@
        <td>Tarner, Nina L.</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6623,7 +7281,9 @@
        <td>Groninger, Lowell D</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6643,7 +7303,9 @@
        <td>Murphy, Julie</td>
        <td>You must have completed or PSYC 100 and STAT 121 or PSYC    331 with a grade of 'C' or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6663,7 +7325,9 @@
        <td>Quiton, Raimi L</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6683,7 +7347,9 @@
        <td>Tarner, Nina L.</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6703,7 +7369,9 @@
        <td>Resta, S P</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6723,7 +7391,9 @@
        <td>Watkins-Lewis, Karen Michelle</td>
        <td>You must have completed PSYC 100 and PSYC 200 or PSYC 285    both with a grade of 'C' or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6743,7 +7413,9 @@
        <td>Schultz, David A</td>
        <td>You must have completed PSYC 100 and PSYC 200 or PSYC 285    both with a grade of 'C' or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6763,7 +7435,9 @@
        <td>Rudow, Edward</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6783,7 +7457,9 @@
        <td>Rudow, Edward</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6803,7 +7479,9 @@
        <td>Quiton, Raimi L</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6823,7 +7501,9 @@
        <td>Provine, Robert R</td>
        <td>You must have completed PSYC 100 or BIOL 101 or BIOL 106 or    BIOL 141 with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6843,7 +7523,9 @@
        <td>Anderson, Robert W</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6863,7 +7545,9 @@
        <td>Anderson, Robert W</td>
        <td>You must have completed PSYC 100 and one other PSYC course    both with a C or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6883,7 +7567,9 @@
        <td>Lynch, Minda R</td>
        <td>You must have completed PSYC 100 and PSYC 210 or PSYC 285    or  PSYC 335 both with a grade of 'C'    or better.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6903,7 +7589,9 @@
        <td>Borrero, John C</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6923,7 +7611,9 @@
        <td>Sonnenschein, Susan</td>
        <td>You must complete PSYC200 and either PSYC311 or    PSYC332  all with a grade of    &quot;C&quot; or better to take this class.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6943,7 +7633,9 @@
        <td>Goldstein, Robin</td>
        <td>You must complete PSYC200 and either PSYC311 or    PSYC332  all with a grade of    &quot;C&quot; or better to take this class.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6963,7 +7655,9 @@
        <td>Lasson, Elliot D</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>PSYC</td>
@@ -6983,7 +7677,9 @@
        <td>Rosen, Theodore H</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
      </tr>
      <tr>
        <td>RLST</td>
@@ -7003,7 +7699,9 @@
        <td>Phin, Timothy J</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*RLST</td>
      </tr>
      <tr>
        <td>RLST</td>
@@ -7023,7 +7721,9 @@
        <td>Phin, Timothy J</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*RLST</td>
      </tr>
      <tr>
        <td>RUSS</td>
@@ -7043,7 +7743,9 @@
        <td>Zhdanovych, Vira</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*RUSS</td>
      </tr>
      <tr>
        <td>RUSS</td>
@@ -7063,7 +7765,9 @@
        <td>Zhdanovych, Vira</td>
        <td>You must complete RUSS 101 with a C or better before taking    this class or have completed 2 years of high school  Russian.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*RUSS</td>
      </tr>
      <tr>
        <td>SCI</td>
@@ -7083,7 +7787,9 @@
        <td>Borowy, Dorothy A.</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*SCI</td>
      </tr>
      <tr>
        <td>SCI</td>
@@ -7103,7 +7809,9 @@
        <td>Swan, Christopher M</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*SCI</td>
      </tr>
      <tr>
        <td>SCI</td>
@@ -7123,7 +7831,9 @@
        <td>Swan, Christopher M</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*SCI</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7144,7 +7854,9 @@
        <td>Damasiewicz, Meryl S.</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7165,7 +7877,9 @@
        <td>Knisley, Margaret Ellen Grieves</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7185,7 +7899,9 @@
        <td>Phillips, Karon</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7205,7 +7921,9 @@
        <td>Schumacher, John G</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7225,7 +7943,9 @@
        <td>Damasiewicz, Meryl S.</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7246,7 +7966,9 @@
        <td>Salisbury, Elizabeth</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7266,7 +7988,9 @@
        <td>Archibald, Sarah N</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7286,7 +8010,9 @@
        <td>DeMichele, Kimberly A</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7307,7 +8033,9 @@
        <td>Archibald, Sarah N</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOCY</td>
@@ -7327,7 +8055,9 @@
        <td>Adler, Marina A</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SOCY</td>
      </tr>
      <tr>
        <td>SOWK</td>
@@ -7347,7 +8077,9 @@
        <td>Kusmaul, Nancy S.</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SOWK</td>
      </tr>
      <tr>
        <td>SOWK</td>
@@ -7367,7 +8099,9 @@
        <td>Okundaye, Joshua N</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SOWK</td>
      </tr>
      <tr>
        <td>SOWK</td>
@@ -7387,7 +8121,9 @@
        <td>Hoover, Jeanette L</td>
        <td>You must complete 6 credits in Social Science.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SOWK</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7407,7 +8143,9 @@
        <td>Gomez-Rubio, Maria G</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7427,7 +8165,9 @@
        <td>Arevalo-Guerrero, Elisabeth</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7447,7 +8187,9 @@
        <td>Clay, Alexandria L</td>
        <td>You must complete SPAN 101 with a grade of C or better    before taking this class or have completed 2 years of High School Spanish.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7467,7 +8209,9 @@
        <td></td>
        <td>You must complete SPAN 101 with a grade of C or better    before taking this class or have completed 2 years of High School Spanish.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7487,7 +8231,9 @@
        <td>Manni, Maria M</td>
        <td>You must complete SPAN 101 with a grade of C or better    before taking this class or have completed 2 years of High School Spanish.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7507,7 +8253,9 @@
        <td>Gomez Garcia, Jose Antonio</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7527,7 +8275,9 @@
        <td>Munoz, Thania</td>
        <td>You must complete SPAN 102 or SPAN 103 with a grade of C or    better before taking this class or have completed 3 years of High School    Spanish.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7547,7 +8297,9 @@
        <td>Carmody, Sean P</td>
        <td>You must complete SPAN 102 or SPAN 103 with a grade of C or    better before taking this class or have completed 3 years of High School    Spanish.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7567,7 +8319,9 @@
        <td>Burgos, Felix A</td>
        <td>You must complete SPAN 102 or SPAN 103 with a grade of C or    better before taking this class or have completed 3 years of High School    Spanish.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7587,7 +8341,9 @@
        <td>Hernandez, Milvia</td>
        <td>You must complete SPAN 102 or SPAN 103 with a grade of C or    better before taking this class or have completed 3 years of High School    Spanish.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>SPAN</td>
@@ -7607,7 +8363,9 @@
        <td>Schwartz, Ana M</td>
        <td>You must have completed SPAN 302 or SPAN 305 with a grade    of C or better before taking this class.</td>
        <td>Has Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*SPAN</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7627,7 +8385,9 @@
        <td>Kegan, Bonnie E</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7647,7 +8407,9 @@
        <td>Kegan, Bonnie E</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7667,7 +8429,9 @@
        <td>Flouri, Marilena</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7687,7 +8451,9 @@
        <td>Huang, Yi</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7707,7 +8473,9 @@
        <td>Dasgupta, Nandita</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7727,7 +8495,9 @@
        <td>Stanwyck, Elizabeth</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">Has GEP</td>
+       <td>Has GEP</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7747,7 +8517,9 @@
        <td>Hosseini, Mina</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7767,7 +8539,9 @@
        <td>Feng, Zhou</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7787,7 +8561,9 @@
        <td>Neerchal, Nagaraj K</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7807,7 +8583,9 @@
        <td>Henegar, Brittney M</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
      <tr>
        <td>STAT</td>
@@ -7827,6 +8605,8 @@
        <td>Stanwyck, Elizabeth</td>
        <td></td>
        <td>No Prerequisite</td>
-       <td dir="LTR" width="724">&nbsp;</td>
+       <td>&nbsp;</td>
+       <td>STEM</td>
+       <td>*STAT</td>
      </tr>
    </table>

@@ -19,62 +19,52 @@
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
-<link href="css/font-awesome.min.css" rel="stylesheet">
-<link href="css/styles.css" rel="stylesheet">
-<link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="../css/font-awesome.min.css" rel="stylesheet">
+<link href="../css/styles.css" rel="stylesheet">
+<link href="../css/magnetic-popup.css" rel="stylesheet">
 
 <!-- Javascript -->
 <script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
-<link rel="shortcut icon" href="images/favicon.ico">
-<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+<link rel="shortcut icon" href="../images/favicon.ico">
+<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 </head>
 
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+<a href="../#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
   <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
+      <?php include("../includes/umbc-header.php"); ?>
   <!-- END umbc header -->
   <div id="site-menu-background">
     <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
+      <?php include("../includes/gold-nav.php"); ?>
     <!-- END gold toolbar --> 
   </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main" style="background:#FFF">  <div  id="summer-heading">
-    <a href="index">
-    <h1 class="remove-bottom">
-    <img src="images/summer-heading.png" style="width:100%">
-    </h1>
-    </a>
-  </div>
+<div class="container column" id="main" style="background:#FFF">  
+	<div id="summer-heading" style="background-color:#FFF">
+    	<a href="../index">
+    		<h1 class="remove-bottom">
+    			<img src="../images/stem.jpg" style="width:100%">
+    		</h1>
+    	</a>
+	</div>
 
-
-  <div class="sixteen columns">
- <br>
+<div class="sixteen columns">
+	<br>
  
 <h2>Summer 2016 Courses</h2>
 <p>Click on the "More Details" links to provide additional information related to your current search (which is shown in the "Search" box).</p>
 <p>You can switch your current search criteria by clicking on the links to the right of any of the following options: Format &amp; Location, Dates &amp; Times, GEPs, or Prerequisites.</p>
-
-<div class="stem">
-<h4>The 2016 list of Summer STEM courses includes previous course syllabi and 2016 course start dates.</h4>
-
-<p>The <strong>course syllabi</strong> are based on prior semesters and should be used as a planning tool. Current course syllabi are distributed by course instructions at the beginning of each course. <em>Please note that there may not be a course syllabus for every listed course.</em></p>
-
-<p>The <strong>Session Start Dates</strong> provide a quick reference to assist in creating a course schedule. The specific meeting schedule and locations are available via the course catalog or course schedule.</p>
-
-<p>Many summer session courses have <strong>limited seats</strong>. Enroll <strong>early</strong> to secure your seat in the class. To check how many seats are available in a specific course, click on Course Title. This takes you to the schedule of classes. Click on "View Section" to open the "Class Details" screen. See "Class   Availability" to view the number of open seats, as well as the wait list for closed courses.</p>
-</div>
 
 <p style="font-size:125%; line-height:125%">
 <strong>Search:</strong> <input type="text" id="search" placeholder="Type to search" height="30px">
@@ -153,13 +143,13 @@
 
 </p>
 
-<?php include("includes/courses.php"); ?>
+<?php include("../includes/courses.php"); ?>
 
   </div>
 <br clear="all"><br>
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
-    <?php include("includes/tracking.php"); ?>
+    <?php include("../includes/footer.php"); ?>
+    <?php include("../includes/tracking.php"); ?>
   </footer>
 </div>
 <!-- container --> 
@@ -167,9 +157,9 @@
 <script src="//code.jquery.com/jquery-1.12.0.js"></script> 
 <script src="//code.jquery.com/jquery-migrate-1.3.0.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<script src="js/scripts.js"></script> 
-<script src="js/jquery.magnific-popup.js"></script>
-<script src="js/popup.js"></script>  
+<script src="../js/scripts.js"></script> 
+<script src="../js/jquery.magnific-popup.js"></script>
+<script src="../js/popup.js"></script>  
   
 <script>
 var $rows = $('#table tr:not(:first)');
