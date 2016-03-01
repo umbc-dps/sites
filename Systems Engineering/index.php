@@ -70,15 +70,15 @@
 <!-- SLIDE ONE -->
 <li id="slide1">
 
-<a href="http://www.umbc.edu/se/programcert.php" target="_blank"><img alt="img01" src="images/2.jpg"></a>
+<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="img01" src="images/2.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>Post-Baccalaureate Certificate in Systems Engineering</h3>
-<small>A 15-credit program designed to accelerate the development of systems engineers. Finish in as little as 1 year. </small>  
+<h3>Register for Spring 2016</h3>
+<small>Spring 2016 semester begins <br>January 25.</small>  
           
-<p><a href="http://www.umbc.edu/se/programcert.php" target="_blank" class="web-seemore">Learn More</a></p></div>
+<p><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank" class="web-seemore">View Classes</a></p></div>
 
-<p id="captionthree"><a href="http://www.umbc.edu/se/programcert.php" target="_blank">Learn More</a></p>
+<p id="captionthree"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">Register for Spring 2016</a></p>
 
 </li>
 <!-- END SLIDE ONE -->
@@ -107,16 +107,16 @@
 
 <li id="slide3">
 
-<a href="https://www.youtube.com/watch?v=WMZc_D1tKME" class="video" target=”_blank”><img alt="img01" src="images/f-highland.jpg"></a>
+<a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank"><img alt="img01" src="images/1.png"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>Engineers Week 2016</h3>
-<small>Fred Highland, Adjunct Instructor for Systems Engineering Graduate Programs, provides a glimpse into the career of a systems engineer. </small>
+<h3>New Program Director, Tom Moore</h3>
+<small>Dr. Moore has worked over 25 years in industry designing, developing, and testing products. </small>
 
-<p><a href="https://www.youtube.com/watch?v=WMZc_D1tKME" class="web-seemore video" target="_blank">Watch Video</a></p></div>
+<p><a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" class="web-seemore" target="_blank">Read More</a></p></div>
 
 <p id="captionthree">
-<a href="https://www.youtube.com/watch?v=WMZc_D1tKME" class="video" target=”_blank”>Engineers Week 2016</a>
+<a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank">New Program Director, Tom Moore</a>
 </p>
 
 </li>
@@ -128,14 +128,14 @@
 
 <li id="slide4">
 
-<a href="https://www.youtube.com/watch?v=LMi3qZ8oJns" class="video" target=”_blank”><img alt="img01" src="images/r-taylor.jpg"></a>
-<div class="carousel-caption-right wordwrap">
-<h3>Dick Taylor on Systems Engineering</h3>
-<small>Dick Taylor, a professor at UMBC since 2006, discusses how to build a successful system.</small>
+<a href="programcert"><img src="images/3.jpg" alt="certificate"/></a>
+<div class="carousel-caption wordwrap">
+<h3>Post-Baccalaureate Certificate in Systems Engineering</h3>
+<small>A 15-credit program designed to accelerate the development of systems engineers. Finish in as little as 1 year.</small>
 
-<p><a href="https://www.youtube.com/watch?v=LMi3qZ8oJns" class="web-seemore video" target="_blank">Watch Video</a></p></div>
+<p><a href="programcert" class="web-seemore">Learn More</a></p></div>
 
-<p id="captionthree"><a href=<a href="https://www.youtube.com/watch?v=LMi3qZ8oJns" class="video" target=”_blank”>Dick Taylor on Systems Engineering</a>
+<p id="captionthree"><a href="programcert">Post-Baccalaureate Certificate in Systems Engineering</a></p>
 
 </li>
 
@@ -218,10 +218,8 @@ $( function() {
         mouseenter: function() { isPaused = true; },
         mouseleave: function() { isPaused = false; }
                         });
-
     setInterval(function() {
         if (isPaused) return; // do nothing when paused
-
         if(jQuery('.cbp-fwnext').css('display') != 'none')
             jQuery('.cbp-fwnext').click();
         else
@@ -258,7 +256,6 @@ $('#slide4').on('click', function() {
   var slideURL = slideLink.href;
   ga('send', 'event', 'slider', 'slide4', slideURL);
 });
-
 $(".cbp-fwnext").on('hover', function() {
   ga('send', 'event', 'slider', 'button', 'next');
 });
@@ -274,4 +271,3 @@ $(".cbp-fwdots").on('hover', function() {
   
 </body>
 </html>
-
