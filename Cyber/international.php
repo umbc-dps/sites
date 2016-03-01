@@ -94,8 +94,8 @@
        <li>Complete residency information to be reviewed for in-state tuition rates</li>
      </ul>
    </li>
-   <li style="list-style-type:decimal">Request official transcripts from all post-secondary institutions to be sent to UMBC Graduate School, 1000 Hilltop Circle, Baltimore, MD 21250 or emailed to <a href="mailto:umbcgrad@umbc.edu">umbcgrad@umbc.edu</a>.</li>
-   <li style="list-style-type:decimal">Submit resume to <a href="mailto:umbcgrad@umbc.edu">umbcgrad@umbc.edu</a> or <a href="mailto:gambino@umbc.edu">gambino@umbc.edu</a>.</li>
+   <li style="list-style-type:decimal">Request official transcripts from all post-secondary institutions to be sent to UMBC Graduate School, 1000 Hilltop Circle, Baltimore, MD 21250 or emailed to <a href="mailto:gradschool@umbc.edu">gradschool@umbc.edu</a>.</li>
+   <li style="list-style-type:decimal">Submit resume to <a href="mailto:gradschool@umbc.edu">gradschool@umbc.edu</a> or <a href="mailto:gambino@umbc.edu">gambino@umbc.edu</a>.</li>
    <li style="list-style-type:decimal;">Request for test  scores to be sent by ETS to UMBC (code 5835)</li>
  </ul>
  

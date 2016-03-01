@@ -97,8 +97,8 @@ Spring 2016 Classes Start: <strong>August 31, 2016</strong></p>
        <li>Recommendations are optional. Please put N/A in these fields if you choose not to enter names of references.</li>
        <li>Complete residency information to be reviewed for in-state tuition rates</li>
        </ul>
-   <li style="list-style-type:decimal">Request unofficial transcripts from all post-secondary institutions to be sent to UMBC Graduate School, 1000 Hilltop Circle, Baltimore, MD 21250 or emailed to <a href="mailto:umbcgrad@umbc.edu">umbcgrad@umbc.edu</a>.</li>
-   <li style="list-style-type:decimal">Submit resume to <a href="mailto:umbcgrad@umbc.edu">umbcgrad@umbc.edu</a> or <a href="mailto:gambino@umbc.edu">gambino@umbc.edu</a>.</li>
+   <li style="list-style-type:decimal">Request unofficial transcripts from all post-secondary institutions to be sent to UMBC Graduate School, 1000 Hilltop Circle, Baltimore, MD 21250 or emailed to <a href="mailto:gradschool@umbc.edu">gradschool@umbc.edu</a>.</li>
+   <li style="list-style-type:decimal">Submit resume to <a href="mailto:gradschool@umbc.edu">gradschool@umbc.edu</a> or <a href="mailto:gambino@umbc.edu">gambino@umbc.edu</a>.</li>
    </ol>
 
 

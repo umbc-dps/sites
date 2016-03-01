@@ -95,7 +95,7 @@ Spring 2016 Classes Start: <strong>August 31, 2016</strong></p>
        <li>Complete residency information to be reviewed for tuition classification</li>
      </ul>
    </li>
-   <li style="list-style-type:decimal">Submit unofficial transcripts from all post-secondary institutions to UMBC Graduate School, 1000 Hilltop Circle, Baltimore, MD 21250 or email to <a href="mailto:umbcgrad@umbc.edu">umbcgrad@umbc.edu</a>.</li>
+   <li style="list-style-type:decimal">Submit unofficial transcripts from all post-secondary institutions to UMBC Graduate School, 1000 Hilltop Circle, Baltimore, MD 21250 or email to <a href="mailto:gradschool@umbc.edu">gradschool@umbc.edu</a>.</li>
  </ul>
  <p><strong>The following information is required to process your application:</strong></p>
  <ul>
