@@ -68,25 +68,6 @@
 
 <li id="slide1">
 
-<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="img01" src="images/5.png"></a>
-
-<div class="carousel-caption-right wordwrap">
-<h3>Register for Spring 2016</h3>
-<small>Spring 2016 semester begins <br>January 25.</small>  
-          
-<p><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank" class="web-seemore">View Classes</a></p></div>
-
-<p id="captionthree"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">Register for Spring 2016</a></p>
-
-</li>
-
-<!---- END SLIDE ONE ---->
-
-
-<!-- SLIDE TWO (HIDE) --
-
-<li id="slide2">
-
 <a href="https://www.youtube.com/watch?v=DcLtcXd_86k" class="video"><img src="images/7.jpg" alt="Enroll Now"/></a>
 
 <div class="carousel-caption-right wordwrap">
@@ -98,11 +79,32 @@
 <p id="captionthree"><a href="https://www.youtube.com/watch?v=DcLtcXd_86k" class="video">Webinar: Chinese Cyber Power</a></p>
 
 </li>
--- END SLIDE TWO --> 
 
-<!-- Slide Two -->              
+<!---- END SLIDE ONE ---->
+
+
+<!-- Slide Two -->
 
 <li id="slide2">
+
+<a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/"><img alt="img01" src="images/cybersecurity.jpg"></a>
+
+<div class="carousel-caption wordwrap">
+<h3>UMBC's Rick Forno on the BBC</h3>
+<small>Forno, director of the UMBC graduate program in cybersecurity, comments on the Deptartment of Justice's order for Apple to unlock an iPhone that may contain information about the San Bernardino shooting.</small>
+
+<p><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/" role="button" class="web-seemore">Read more</a></p></div>
+
+<p id="captionthree"><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/" class="web-seemore">UMBC's Rick Forno on the BBC</a></p>
+
+</li>
+
+<!-- END SLIDE TWO --> 
+
+
+<!-- Slide Three -->              
+
+<li id="slide3">
 
 <a href="../openhouse" target="blank"><img src="images/10.jpg" alt="Open House"/></a>
 
@@ -116,10 +118,11 @@
 
 </li>
 
-<!-- END Slide Two -->  
+<!-- END Slide Three -->  
 
-<!-- SLIDE THREE --> 
-<li id="slide3">
+
+<!-- SLIDE FOUR --> 
+<li id="slide4">
       
 <a href="programcert#new"><img alt="img02" src="images/umbc_cyber5.png"></a>
 
@@ -132,12 +135,13 @@
 <p id="captiontwo"><a href="programcert#new">New Cybersecurity Operations Certificate</a></p>
 
 </li>
-<!-- END SLIDE THREE --> 
+
+<!-- END SLIDE FOUR --> 
 
 
-<!-- SLIDE FOUR --> 
+<!-- SLIDE FIVE --> 
 
-<li id="slide4">
+<li id="slide5">
 
 <a href="alumni" target="_blank"><img alt="img04" src="images/umbc_cyber4.png"></a>
 
@@ -151,7 +155,7 @@
  
 </li>
 
-<!-- END SLIDE FOUR --> 
+<!-- END SLIDE FIVE --> 
       
     </ul>
 
