@@ -716,23 +716,19 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://www.umbc.edu/shadygrove/io/masters.php" target="_blank">
-<img src="images/USG_Grad_JuneInfoSession.jpg" class="main" border="0"></a>
-<h3 style="line-height:normal; font-size:18pt">
-
-Apply to UMBC's MPS in I/O Psychology Program by March 1!</h3>
+<a href="http://www.umbc.edu/shadygrove/io/masters.php" target="_blank"><img src="images/USG_UG_Apply_spring2016.jpg" alt=""/></a>
+<h3 style="line-height:normal; font-size:18pt">Get Priority at UMBC-Shady Grove:  Apply by March 1!</h3>
 
 
 <div class="boxleft" style="width:60%">
-  <h6 style="font-size:12pt; margin:0px; line-height:14pt">
-UMBC's I/O Psych Graduate Program is currently accepting applications for our Fall 2016 Cohort. This M.P.S. provides graduate training focused on developing skills that are relevant in today's industry.</h6>
+  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Apply to UMBC-Shady Grove's Undergraduate Programs in History, Political   Science, Psychology and/or Social Work by March 1st to receive priority   consideration for Fall 2016.</h6>
   </div><!-- end boxleft nested div -->
 
 
 
 	<div class="boxright">
 <div class="button" style="height:auto; line-height:16pt; vertical-align:middle;">
-<a href="http://www.umbc.edu/shadygrove/io/masters.php" target="_blank">
+<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
 
 
 Apply<br>
@@ -752,7 +748,7 @@ Today!
 
 
 
-<div class="formbox"><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('APPLY','','images/apply_over_rev.png',1)"><img src="images/apply_rev.png" alt="APPLY" usemap="#APPLYMap" id="APPLY" border="0"><map name="APPLYMap"><area shape="rect" coords="100,54,195,69" href="http://www.umbc.edu/undergraduate/apply/shadygrove.html" target="blank" alt="Undergrad Apply"><area shape="rect" coords="101,75,194,88" href="http://gradschool.umbc.edu/admissions/apply/" target="blank" alt="Grad Apply"></map></a><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('VISIT','','images/visit_over_rev.png',1)"><img src="images/visit_rev.png" alt="VISIT" usemap="#VISITMap" id="VISIT" border="0"><map name="VISITMap"><area shape="rect" coords="98,55,199,71" href="info/uginfosession2.php" target="_parent" alt="Undergrad Apply"><area shape="rect" coords="97,74,199,88" href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_parent" alt="Grad Apply"></map></a><a href="info/contact.php" target="_parent" onMouseOver="MM_swapImage('INFO','','images/info_over_rev.png',1)" onMouseOut="MM_swapImgRestore()"><img id="INFO" src="images/info_rev.png" alt="REQUEST INFO"></a></div>
+<div class="formbox"><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('APPLY','','images/apply_over_rev.png',1)"><img src="images/apply_rev.png" alt="APPLY" usemap="#APPLYMap" id="APPLY" border="0"><map name="APPLYMap"><area shape="rect" coords="100,54,195,69" href="http://www.umbc.edu/undergraduate/apply/shadygrove.html" target="blank" alt="Undergrad Apply"><area shape="rect" coords="101,75,194,88" href="http://gradschool.umbc.edu/admissions/apply/" target="blank" alt="Grad Apply"></map></a><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('VISIT','','images/visit_over_rev.png',1)"><img src="images/visit_rev.png" alt="VISIT" usemap="#VISITMap" id="VISIT" border="0"><map name="VISITMap"><area shape="rect" coords="98,55,199,71" href="infosession" target="_parent" alt="Undergrad Apply"><area shape="rect" coords="97,74,199,88" href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_parent" alt="Grad Apply"></map></a><a href="info/contact.php" target="_parent" onMouseOver="MM_swapImage('INFO','','images/info_over_rev.png',1)" onMouseOut="MM_swapImgRestore()"><img id="INFO" src="images/info_rev.png" alt="REQUEST INFO"></a></div>
 
 <!-- END FIRST ROW OF CONTENT SHADOW BOXES -->
 

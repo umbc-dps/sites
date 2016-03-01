@@ -33,6 +33,10 @@
 
 <style>
 #mobile-site-menu-expander{display:none}
+
+@media (max-width: 800px) {
+	.seven{border:0px!important;}
+}
 </style>
 </head>
 
@@ -109,7 +113,7 @@ Tuesday, February 23 - 12:00pm<br><br>
 	</p>
 </div>
 
-<div class="seven columns" style="text-align:center; border-left: 2px #000 solid">
+<div class="seven columns" style="text-align:center; border-left: 2px #929292 solid">
 	<h4>
     	<strong>Visit with Undergraduate<br>
         Program Directors
@@ -118,16 +122,17 @@ Tuesday, February 23 - 12:00pm<br><br>
 
 	<p>
 		<strong>History:</strong><br>
-		Wednesday, February 17 - 12:00pm<br>
 		Thursday, April 7 - 5:30pm
 	</p>
           
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, February 17 - 12:00PM<br>
 		Wednesday, February 24 - 12:00PM <br>
 		Wednesday, March 2 - 12:00PM <br>
-		Wednesday, March 23 - 12:00PM 
+		Wednesday, March 9 - 12:00PM <br>
+		Wednesday, March 23 - 12:00PM <br>
+        Wednesday, April 6 - 12:00PM <br>
+		Wednesday, April 13 - 12:00PM
 	</p>
           
 	<p>
