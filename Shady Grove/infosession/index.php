@@ -98,19 +98,6 @@
         	<img src="../images/infosession.png">
 		</a>
 	</p>
-
-	<h4>
-    	<strong>Prospective Undergraduate <br>
-  Virtual Information Sessions
-  		</strong>
-	</h4>
-
-	<p>
-Tuesday, February 23 - 12:00pm<br><br>
-		<a href="https://attendee.gotowebinar.com/register/3073992990463994626" target="_blank">
-    		<img src="../images/infosession.png">
-		</a>
-	</p>
 </div>
 
 <div class="seven columns" style="text-align:center; border-left: 2px #929292 solid">
@@ -127,7 +114,6 @@ Tuesday, February 23 - 12:00pm<br><br>
           
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, February 24 - 12:00PM <br>
 		Wednesday, March 2 - 12:00PM <br>
 		Wednesday, March 9 - 12:00PM <br>
 		Wednesday, March 23 - 12:00PM <br>
