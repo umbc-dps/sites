@@ -88,7 +88,7 @@
 </li>
 <!-- END SLIDE ONE -->
 
-<!-- SLIDE TWO -->    
+<!-- SLIDE TWO --    
 <li id="slide2">
 
 <a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="img01" src="images/5.png"></a>
@@ -102,12 +102,12 @@
 <p id="captionthree"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">Register for Spring 2016</a></p>
 
 </li>
-<!-- END SLIDE TWO -->
+-- END SLIDE TWO -->
 
 
 <!-- Slide Three -->              
 
-<li id="slide3">
+<li id="slide2">
 
 <a href="../openhouse" target="blank"><img src="images/6.png" alt="Open House"/></a>
 

@@ -322,8 +322,9 @@ The program also   regularly receives employment notifications from area busines
 
 <!-- END container -->
 
-      <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script><script src="js/scripts.js"></script> 
-<script src="js/popup.js"></script>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>

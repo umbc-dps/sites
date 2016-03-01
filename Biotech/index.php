@@ -61,7 +61,7 @@
     <div class="cbp-fwslider" id="cbp-fwslider">
       <ul>
 
-<!-- SLIDE ONE -->
+<!-- SLIDE ONE --
 
 <li id="slide1">
 
@@ -77,12 +77,12 @@
 
 </li>
 
-<!---- END SLIDE ONE ---->
+---- END SLIDE ONE ---->
 
 
-<!-- Slide Two -->              
+<!-- SLIDE ONE -->              
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="../openhouse" target="blank"><img src="images/10.jpg" alt="Open House"/></a>
 
@@ -96,12 +96,12 @@
 
 </li>
 
-<!-- END Slide Two -->   
+<!-- END SLIDE ONE -->   
 
 
-<!-- SLIDE THREE -->
+<!-- SLIDE TWO -->
 
-<li id="slide3">
+<li id="slide2">
 <a href="programcert2" target="_blank"><img alt="img03" src="images/4.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
@@ -113,7 +113,7 @@
 <p id="captionthree"><a href="programcert2">Biochemical Regulatory Engineering</a></p>
 </li>
                
-<!-- END SLIDE THREE -->
+<!-- END SLIDE TWO -->
 
 
 </ul>

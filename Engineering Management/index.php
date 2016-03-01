@@ -74,7 +74,7 @@
   <div class="cbp-fwslider" id="cbp-fwslider">
     <ul>
 
-<!-- SLIDE ONE -->
+<!-- SLIDE ONE --
 <li id="slide1">
 
 <a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="img01" src="images/6.png"></a>
@@ -88,11 +88,11 @@
 <p id="captionthree"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">Register for Spring 2016</a></p>
 
 </li>
-<!-- END SLIDE ONE -->
+-- END SLIDE ONE -->
 
 
 <!-- SLIDE TWO --> 
-<li id="slide2">
+<li id="slide1">
 
 <a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="video"><img alt="img01" src="images/4.png"></a>
 
@@ -111,7 +111,7 @@
 
 
 <!-- SLIDE THREE --> 
-<li id="slide3">
+<li id="slide2">
 
 <a href="../openhouse" target="blank"><img src="images/8.png" alt="Open House"/></a>
 
