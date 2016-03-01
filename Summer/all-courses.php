@@ -50,10 +50,11 @@
   </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main" style="background:#FFF">  <div  id="summer-heading">
-    <a href="index">
+<div class="container column" id="main" style="background:#FFF">  
+	<div id="summer-heading">
+    <a href="index" class="head-link">
     <h1 class="remove-bottom">
-    <img src="images/summer-heading.png" style="width:100%">
+    <img src="images/summer-heading.png" style="width:100%" id="head-image">
     </h1>
     </a>
   </div>
@@ -62,8 +63,8 @@
   <div class="sixteen columns">
  <br>
  
-<h2>Summer 2016 Courses</h2>
-<p>Click on the "More Details" links to provide additional information related to your current search (which is shown in the "Search" box).</p>
+<h2 class="page-title">Summer 2016 Courses</h2>
+<p>Click on the "More Details" links to provide additional information related to your current search<span class="hide-stem"> (which is shown in the "Search" box)</span>.</p>
 <p>You can switch your current search criteria by clicking on the links to the right of any of the following options: Format &amp; Location, Dates &amp; Times, GEPs, or Prerequisites.</p>
 
 <div class="stem">
@@ -76,7 +77,7 @@
 <p>Many summer session courses have <strong>limited seats</strong>. Enroll <strong>early</strong> to secure your seat in the class. To check how many seats are available in a specific course, click on Course Title. This takes you to the schedule of classes. Click on "View Section" to open the "Class Details" screen. See "Class   Availability" to view the number of open seats, as well as the wait list for closed courses.</p>
 </div>
 
-<p style="font-size:125%; line-height:125%">
+<p style="font-size:125%; line-height:125%" class="searchbox">
 <strong>Search:</strong> <input type="text" id="search" placeholder="Type to search" height="30px">
 </p>
 
@@ -131,16 +132,17 @@
 
 <span class="stem">
 <strong>Subjects:</strong> 
-<a href="#" class="category">*BIOL</a> 
-<a href="#" class="category">*CHEM</a> 
-<a href="#" class="category">*ENCH</a> 
-<a href="#" class="category">*ENME</a>
-<a href="#" class="category">*IS</a>
-<a href="#" class="category">*MATH</a> 
-<a href="#" class="category">*PHIL</a>
-<a href="#" class="category">*PHYS</a>
-<a href="#" class="category">*SCI</a> 
-<a href="#" class="category last">*STAT</a> <br> 
+<a href="#" class="category-stem" name="*BIOL">Biology</a> 
+<a href="#" class="category-stem" name="*CHEM">Chemistry</a> 
+<a href="#" class="category-stem" name="*ENCH">Chemical Engineering</a> 
+<a href="#" class="category-stem" name="*EHS">Emergency Health Services</a>
+<a href="#" class="category-stem" name="*ENME">Mechanical Engineering</a>
+<a href="#" class="category-stem" name="*GES">Geography and Environmental Systems</a> 
+<a href="#" class="category-stem" name="*IS">Information Systems</a>
+<a href="#" class="category-stem" name="*MATH">Mathematics</a> 
+<a href="#" class="category-stem" name="*PHYS">Physics</a>
+<a href="#" class="category-stem" name="*SCI">Science</a>
+<a href="#" class="category-stem last" name="*STAT">Statistics</a> <br> 
 </span>
 
 
@@ -186,19 +188,20 @@ $('#search').keyup(function() {
 $(function(){
     $('.category').live('click', function() {
         $("#search").val($(this).html());
-				$("#search").trigger(e);
-				
+		$("#search").trigger(e);				
     });
 });
 
+$(function(){
+    $('.category-stem').live('click', function() {
+        $("#search").val($(this).attr('name'));
+		$("#search").trigger(e);				
+    });
+});
 
 var e = jQuery.Event("keyup");
 e.which = 13; // # Some key code value
 
-
-/*
-$( "tr:contains('AFST')" ).css( "background-color", "#FCECCF" );
-*/
 
 $('td:nth-child(3)').hide();
 $('td:nth-child(5)').hide();
@@ -269,6 +272,7 @@ $( '.no-prereq' ).live( 'click', function() {
 });
 
 $('a.category').not('a.last').after( ' | ' );
+$('a.category-stem').not('a.last').after( ' | ' );
 
     var hash = window.location.hash.substring(1);
 	$( document ).ready(function() {
@@ -305,9 +309,16 @@ $('a.category').not('a.last').after( ' | ' );
 			$(".geps").hide();
 			$(".prereq1").hide();
 			$(".date-times").hide();
-			$(".location").hide()
+			$(".location").hide();
+			$('#head-image').attr('src','images/stem.jpg');
+			$('#summer-heading .remove-bottom').css('background-color', '#FFF');
+			$('.head-link').attr('href', 'stem');
+			$(".page-title:contains('Summer 2016 Courses')").html("Summer STEM 2016 Courses");
+			$('.searchbox').hide();
+			$('.hide-stem').hide();
 	}});
 	
+	/* Creates HighPoint Links*/
 	$('.course-link').each(function() {
 	var courseURL = $(this).text();
 	var title = $(this).closest('td').siblings(':nth-child(3)').text();
@@ -317,24 +328,13 @@ $('a.category').not('a.last').after( ' | ' );
 	$(this).attr("target", "_blank");
 });
 
+/* Sends More Details to Google Analytics*/
 $('.details').click(function() {
 	var detailsText = $(this).text();
 	ga('send', 'event',  'search', 'details', detailsText);
 });
 
 </script>
-
-<!--
-	$('.number').each(function() {
-	var courseURL = $(this).text();
-	var courseFullURL = 'https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2166/' + courseURL;
-
-	$('a.course-link').each(function(){
-	$(this).attr("href", courseFullURL);
-});
-
-});
--->
 
 </body>
 </html>
