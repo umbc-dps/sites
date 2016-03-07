@@ -736,8 +736,8 @@ ART</td>
   <td>12:10PM</td>
   <td>Morning</td>
   <td>Peregoy, Christopher A</td>
-  <td></td>
-  <td>No Prerequisite</td>
+  <td>ART361 with grade B or better and Visual Arts Milestone.</td>
+  <td>Has Prerequisite</td>
   <td>&nbsp;</td>
   <td></td>
   <td>*ART</td>
@@ -3671,8 +3671,8 @@ ENGL</td>
     <td>4:10PM</td>
     <td>Afternoon</td>
     <td>MacDougall, Elaine M</td>
-    <td></td>
-    <td>No Prerequisite</td>
+    <td>You must have completed ENGL100 or equivalent or ENGL391 with a grade of C or better.</td>
+    <td>Has Prerequisite</td>
     <td>Has GEP</td>
     <td></td>
     <td>*ENGL</td>
@@ -4829,8 +4829,8 @@ IS</td>
     <td>12:10PM</td>
     <td>Morning</td>
     <td>Smith, Dana H</td>
-    <td></td>
-    <td>No Prerequisite</td>
+    <td>You must have completed IS 147 or CMSC 201 with a grade of C or better.</td>
+    <td>Has Prerequisite</td>
     <td>&nbsp;</td>
     <td>STEM</td>
     <td>*IS</td>
@@ -8273,8 +8273,8 @@ PSYC</td>
        <td>4:10PM</td>
        <td>Afternoon</td>
        <td>Borrero, John C</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed PSYC 100 and one other PSYC course both with a C or better.</td>
+       <td>Has Prerequisite</td>
        <td>&nbsp;</td>
        <td></td>
        <td>*PSYC</td>
@@ -9141,8 +9141,8 @@ STAT</td>
        <td></td>
        <td></td>
        <td>Kegan, Bonnie E</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have scored a 3, 4 or 5 on the LRC MATH placement exam or passed MATH 106 with a grade of 'C' or better to enroll in this course.</td>
+       <td>Has Prerequisite</td>
        <td>Has GEP</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9165,8 +9165,8 @@ STAT</td>
        <td></td>
        <td></td>
        <td>Kegan, Bonnie E</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have scored a 3, 4 or 5 on the LRC MATH placement exam or passed MATH 106 with a grade of 'C' or better to enroll in this course.</td>
+       <td>Has Prerequisite</td>
        <td>Has GEP</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9189,8 +9189,8 @@ STAT</td>
        <td>3:05PM</td>
        <td>Afternoon</td>
        <td>Flouri, Marilena</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed one of the following with a grade of 'C' or better MATH 150 or MATH151 or MATH152 or MATH155 or MATH225 or MATH251 or have placed into MATH 151 through the LRC Math exam.</td>
+       <td>Has Prerequisite</td>
        <td>Has GEP</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9213,8 +9213,8 @@ STAT</td>
        <td></td>
        <td></td>
        <td>Huang, Yi</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed one of the following with a grade of 'C' or better MATH 150 or MATH151 or MATH152 or MATH155 or MATH225 or MATH251 or have placed into MATH 151 through the LRC Math exam.</td>
+       <td>Has Prerequisite</td>
        <td>Has GEP</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9237,8 +9237,8 @@ STAT</td>
        <td>3:05PM</td>
        <td>Afternoon</td>
        <td>Dasgupta, Nandita</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed one of the following with a grade of 'C' or better MATH 150 or MATH151 or MATH152 or MATH155 or MATH225 or MATH251 or have placed into MATH 151 through the LRC Math exam.</td>
+       <td>Has Prerequisite</td>
        <td>Has GEP</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9261,8 +9261,8 @@ STAT</td>
        <td></td>
        <td></td>
        <td>Stanwyck, Elizabeth</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed one of the following with a grade of 'C' or better MATH 150 or MATH151 or MATH152 or MATH155 or MATH225 or MATH251 or have placed into MATH 151 through the LRC Math exam.</td>
+       <td>Has Prerequisite</td>
        <td>Has GEP</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9285,8 +9285,8 @@ STAT</td>
        <td>3:05PM</td>
        <td>Afternoon</td>
        <td>Hosseini, Mina</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed MATH 142 or MATH152 or MATH225 or MATH251 with a grade of 'C' or better.</td>
+       <td>Has Prerequisite</td>
        <td>&nbsp;</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9309,8 +9309,8 @@ STAT</td>
        <td>8:05PM</td>
        <td>Evening</td>
        <td>Feng, Zhou</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed MATH 142 or MATH152 or MATH225 or MATH251 with a grade of 'C' or better.</td>
+       <td>Has Prerequisite</td>
        <td>&nbsp;</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9333,8 +9333,8 @@ STAT</td>
        <td>3:05PM</td>
        <td>Afternoon</td>
        <td>Neerchal, Nagaraj K</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed STAT 350 or STAT 351 or STAT 355 or STAT 451 with a grade of C or better.</td>
+       <td>Has Prerequisite</td>
        <td>&nbsp;</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9357,8 +9357,8 @@ STAT</td>
        <td>910PM</td>
        <td>Evening</td>
        <td>Henegar, Brittney M</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed STAT 350 or STAT 351 or STAT 355 or STAT 453 with a grade of C or better.</td>
+       <td>Has Prerequisite</td>
        <td>&nbsp;</td>
        <td>STEM</td>
        <td>*STAT</td>
@@ -9381,8 +9381,8 @@ STAT</td>
        <td>4:05PM</td>
        <td>Afternoon</td>
        <td>Stanwyck, Elizabeth</td>
-       <td></td>
-       <td>No Prerequisite</td>
+       <td>You must have completed MATH 251 with a grade of &quot;C&quot; or better before you can take this course.</td>
+       <td>Has Prerequisite</td>
        <td>&nbsp;</td>
        <td>STEM</td>
        <td>*STAT</td>
