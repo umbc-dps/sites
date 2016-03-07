@@ -56,7 +56,7 @@
         <h2>Summer STEM Courses</h2>
     <!-- END Page Title -->       
       <div class="content">
-      <h4>The 2016 list of Summer STEM courses includes previous course syllabi and 2016 course start dates.</h4>
+      <h4>This course list is currently being updated.</h4>
 
 <p>The <strong>course syllabi</strong> are based on prior semesters and should be used as a planning tool. Current course syllabi are distributed by course instructions at the beginning of each course. <em>Please note that there may not be a course syllabus for every listed course.</em></p>
 

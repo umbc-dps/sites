@@ -162,6 +162,7 @@
   <footer id="site-footer" class="clearfix">
     <?php include("includes/footer.php"); ?>
     <?php include("includes/tracking.php"); ?>
+    <?php include("includes/syllabi-list.php"); ?>
   </footer>
 </div>
 <!-- container --> 
@@ -217,6 +218,7 @@ $('td:nth-child(17)').hide();
 $('td:nth-child(18)').hide();
 $('td:nth-child(19)').hide();
 $('td:nth-child(20)').hide();
+$('td:nth-child(21)').hide();
 $('.stem').hide();
 
 $( '.instructors' ).live( 'click', function() {
@@ -302,6 +304,7 @@ $('a.category-stem').not('a.last').after( ' | ' );
         if (hash == 'STEM') {
 			$('td:nth-child(5)').show();
 			$('td:nth-child(6)').show();
+			$('td:nth-child(21)').show();
 			$('a.sessions').toggle();
 			$('.stem').show();
 			$("#search").val('STEM');
@@ -328,6 +331,22 @@ $('a.category-stem').not('a.last').after( ' | ' );
 	$(this).attr("target", "_blank");
 });
 
+	/* Creates Syllabus Links*/
+	$('.syllabus-link').each(function() {
+	var courseSubject = $(this).closest('td').siblings(':nth-child(1)').text();
+	var courseNumber = $(this).closest('td').siblings(':nth-child(2)').text();
+	var courseFull = courseSubject + courseNumber;
+	var courseSyllabusURL = 'http://umbc.edu/summer/documents/' + courseFull + '.pdf';
+	var regexCourseFull = new RegExp(courseFull);
+	$(this).attr("href", courseSyllabusURL);
+	$(this).text("Download");
+	$(this).attr("target", "_blank");
+	if($('.syllabi-list').text().match(regexCourseFull)){
+		$(this).show();
+	}
+	else $(this).hide();
+});
+
 /* Sends More Details to Google Analytics*/
 $('.details').click(function() {
 	var detailsText = $(this).text();
@@ -335,6 +354,8 @@ $('.details').click(function() {
 });
 
 </script>
+
+
 
 </body>
 </html>

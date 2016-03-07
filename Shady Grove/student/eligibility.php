@@ -112,7 +112,7 @@
     <li>Individualized developmental instruction from staff specialists in study  skills, communication skills, math/science and writing<br>
     </li>
   </ul>
-  <p>Shady Grove students should contact the UMBC-Shady Grove  on-site representative with any questions or concerns: Ashley Waters  (301-738-6081 or awaters@umbc.edu).</p>
+  <p>Shady Grove students should contact the UMBC-Shady Grove  on-site representative with any questions or concerns: Ashley Waters  (301-738-6175 or awaters@umbc.edu).</p>
 <p>&nbsp;</p>
 </div>
  <div class="lib" style="clear:right;"></div>

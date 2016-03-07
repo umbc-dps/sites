@@ -10,10 +10,10 @@
 <file name="deptcontact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935302815596" remote="130989936000000000" Dst="1" />
 <file name="events.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935303445659" remote="130989936000000000" Dst="1" />
 <file name="excesscredit.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935304135728" remote="130989936000000000" Dst="1" />
-<file name="faq.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131002918590000000" remote="131002918590000000" Dst="1" />
+<file name="faq.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131015963584302231" remote="131015963590000000" Dst="1" />
 <file name="financialaid.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935307196034" remote="130989936030000000" Dst="1" />
 <file name="financialdates.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935307656080" remote="130989936030000000" Dst="1" />
-<file name="flexible.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131001167230617946" remote="131001167240000000" Dst="1" />
+<file name="flexible.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131014119396221572" remote="131014119420000000" Dst="1" />
 <file name="gep.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935308696184" remote="130989936040000000" Dst="1" />
 <file name="grades.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935309466261" remote="130989936040000000" Dst="1" />
 <file name="housing.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130996777494561275" remote="130996777500000000" Dst="1" />
@@ -31,14 +31,13 @@
 <file name="textbooks.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935316536968" remote="130989936080000000" Dst="1" />
 <file name="tuition.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130996078350716807" remote="130996078360000000" Dst="1" />
 <file name="umbcstudents.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935317537068" remote="130989936080000000" Dst="1" />
-<file name="visitingstudents.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935318087123" remote="130989936080000000" Dst="1" />
-<file name="all-courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131013160193138433" remote="131013160210000000" Dst="1" />
+<file name="all-courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131015932329205051" remote="131015932350000000" Dst="1" />
 <file name="shadygrove.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989935315246839" remote="130989936080000000" Dst="1" />
 <file name="table.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130985679488143297" remote="130989936080000000" Dst="1" />
 <file name="registrationtips.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131007973840000000" remote="131007973840000000" Dst="1" />
 <file name="csj.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131009729087719623" remote="131009729110000000" Dst="1" />
 <file name="scholarshipapplication.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130997634000000000" remote="130997634000000000" Dst="1" />
-<file name="academicsupport.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131000166142883775" remote="131000168780000000" Dst="1" />
+<file name="academicsupport.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131015949743566313" remote="131015949750000000" Dst="1" />
 <file name="accordion-template.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918440000000" remote="130988918440000000" Dst="1" />
 <file name="address.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918440000000" remote="130988918440000000" Dst="1" />
 <file name="checklist.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918450000000" remote="130988918450000000" Dst="1" />
@@ -52,7 +51,7 @@
 <file name="gepcourses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918470000000" remote="130988918470000000" Dst="1" />
 <file name="hybridcourses-1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918480000000" remote="130988918480000000" Dst="1" />
 <file name="hybridcourses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918480000000" remote="130988918480000000" Dst="1" />
-<file name="index1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918610000000" remote="130988918610000000" Dst="1" />
+<file name="index1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131015918124044442" remote="131015918140000000" Dst="1" />
 <file name="mobileregistration.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918610000000" remote="130988918610000000" Dst="1" />
 <file name="onlinecourses-1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918620000000" remote="130988918620000000" Dst="1" />
 <file name="onlinecourses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918620000000" remote="130988918620000000" Dst="1" />
@@ -71,4 +70,5 @@
 <file name="summer-page.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130984854920000000" remote="130984854920000000" Dst="1" />
 <file name="welcome-may19.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918660000000" remote="130988918660000000" Dst="1" />
 <file name="welcome.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918660000000" remote="130988918660000000" Dst="1" />
+<file name="visitingstudents1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131018398253189032" remote="131018398260000000" Dst="1" />
 </dwsync>

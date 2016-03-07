@@ -96,7 +96,7 @@
   <h1>Student Resources</h1>
   <p>&nbsp;</p>
   <p>As a current student at UMBC-Shady Grove, you have the services of UMBC and The Universities at Shady Grove at your disposal. Please see the information on the left for more details on such services, including student organizations active here at UMBC-Shady Grove, advising and accommodation information, events and opportunities to expand your horizons as a student, and more!</p>
-  <p style="margin-bottom: 0;">Please contact Ashley Waters at <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a> or 301-738-6081 for more information.</p>
+  <p style="margin-bottom: 0;">Please contact Ashley Waters at <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a> or 301-738-6175 for more information.</p>
 </div>
  <div class="lib" style="clear:right;"></div>
  

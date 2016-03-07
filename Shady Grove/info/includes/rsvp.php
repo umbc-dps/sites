@@ -52,7 +52,7 @@
 
 <p>Visit us to learn about our Master's and Graduate Certificate programs offered in Rockville, MD. Receive information on admissions, curriculum, job outlook, and meet faculty and staff. <strong>For events noted as drop ins, please drop in at your convenience during those events.</strong></p>
 
-<p>For a campus map, directions and parking information, visit: <a href="http://www.google.com/url?q=http%3A%2F%2Fshadygrove.umd.edu%2Fabout%2Fvisit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFxaz9DkkGkHqQNSMKStqTJTwbocg" target="_blank">http://shadygrove.umd.edu/about/visit</a>.  Details regarding the exact location will be emailed to registered attendees prior to the event. If you have questions, please contact: Ashley Waters at <a href="tel:301-738-6081" value="+13017386081" target="_blank">301-738-6081</a>.</p>
+<p>For a campus map, directions and parking information, visit: <a href="http://www.google.com/url?q=http%3A%2F%2Fshadygrove.umd.edu%2Fabout%2Fvisit&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFxaz9DkkGkHqQNSMKStqTJTwbocg" target="_blank">http://shadygrove.umd.edu/about/visit</a>.  Details regarding the exact location will be emailed to registered attendees prior to the event. If you have questions, please contact: Ashley Waters at <a href="tel:301-738-6175" value="+3017386175" target="_blank">301-738-6175</a>.</p>
 
 </div>
 
@@ -116,7 +116,7 @@
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.6" id="entry_6" aria-label="Choose a Session  " aria-required="true" required=""><option value=""></option>
+<select name="entry.6" id="entry_6" aria-label="Choose a Session  " aria-required="true" required><option value=""></option>
 <option value="Cybersecurity Drop-In Session - October 19, 2015 11:30AM-1:30PM">Cybersecurity Drop-In Session - October 19, 2015 11:30AM-1:30PM</option> <option value="Cybersecurity&nbsp;Drop-In Session - October 22, 2015 6-8PM">Cybersecurity Drop-In Session - October 22, 2015 6-8PM</option> <option value="GIS Drop-In Session - October 28, 2015 6-8PM">GIS Drop-In Session - October 28, 2015 6-8PM</option> <option value="GIS Drop-In Session - October 29, 2015 6-8PM">GIS Drop-In Session - October 29, 2015 6-8PM</option></select>
 </div></div></div>
 

@@ -17,12 +17,16 @@
       </aside>
       </a> 
       
-                        <aside class="five columns">
-      <a href="http://gritgoing.umbc.edu" class="button">Visit Our Blog</a>
+      <aside class="five columns">
+      	<a href="visitingstudents" class="button" style="background-color:#E9AB13">Pre-College Students</a>
       </aside>
       
-            <aside class="five columns add-bottom">      
-      <a href="contact" class="button">Contact Us</a>
+      <aside class="five columns">
+      	<a href="http://gritgoing.umbc.edu" class="button">Visit Our Blog</a>
+      </aside>
+      
+      <aside class="five columns add-bottom">      
+      	<a href="contact" class="button">Contact Us</a>
       </aside>
       
 

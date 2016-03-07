@@ -97,7 +97,7 @@
   <h1 align="center">Upcoming Graduate Information Sessions<br>
   </h1>
   <p align="center"></p>
-<p align="center" style="margin-bottom: 0;">All in-person sessions will be held in the Camille Kendall Academic Center (Building III).<strong> For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about/visit" target="_blank">here</a>. </strong>If you have questions, please contact: Ashley Waters at 301-738-6081. </strong></span></p>
+<p align="center" style="margin-bottom: 0;">All in-person sessions will be held in the Camille Kendall Academic Center (Building III).<strong> For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about/visit" target="_blank">here</a>. </strong>If you have questions, please contact: Ashley Waters at 301-738-6175. </strong></span></p>
 
 <table width="537" border="0" align="center" cellpadding="1" cellspacing="1">
   <tr>

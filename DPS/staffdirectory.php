@@ -395,26 +395,26 @@ BEGIN MAIN
     </tr>
     <tr>
     
-      <td valign="top"  bgcolor="#CCCCCC"><p><strong>Murray, Dawuad </strong><br>
-          <strong>Title</strong>: Account Clerk III<br>
-          <strong>Unit</strong>: Finance and Administration<br>
-          <strong>Location</strong>: Sherman Hall 457<br>
-          <strong>Phone</strong>: 51782<br>
-          <strong>E-Mail</strong>: <a href="mailto:dmurr@umbc.edu">dmurr@umbc.edu</a></p></td>
-    
-      <td bgcolor="#CCCCCC"><p><strong>Northrop, James </strong><br>
+      <td valign="top"  bgcolor="#CCCCCC"><p><strong>Northrop, James </strong><br>
           <strong>Title</strong>: IT Programmer Analyst&nbsp;<br>
           <strong>Unit</strong>: IT<br>
           <strong>Location</strong>: Sherman Hall 473<br>
           <strong>Phone</strong>: 52953<br>
           <strong>E-Mail</strong>: <a href="mailto:northrop@umbc.edu">northrop@umbc.edu</a></p></td>
-          
+    
       <td bgcolor="#CCCCCC"><p><strong>Osazuwa, Christine</strong><br>
           <strong>Title</strong>: Web/Social Media Coordinator<br>
           <strong>Unit</strong>: Marketing <br>
           <strong>Location</strong>: Sherman Hall 479<br>
           <strong>Phone</strong>: 55609<br>
           <strong>E-Mail</strong>: <a href="mailto:co7@umbc.edu">co7@umbc.edu</a></p></td>
+          
+      <td bgcolor="#CCCCCC"><p><strong>Penn, Josephine </strong><br>
+          <strong>Title</strong>: Program Management Specialist<br>
+          <strong>Unit</strong>: ELI<br>
+          <strong>Location</strong>: UC 207<br>
+          <strong>Phone</strong>: 52831<br>
+          <strong>E-Mail</strong>: <a href="mailto:jpenn@umbc.edu">jpenn@umbc.edu</a></p></td>
           
             </tr>
     <tr>
@@ -424,19 +424,14 @@ BEGIN MAIN
     </tr>
     <tr>  
           
-      <td><p><strong>Penn, Josephine </strong><br>
-          <strong>Title</strong>: Program Management Specialist<br>
-          <strong>Unit</strong>: ELI<br>
-          <strong>Location</strong>: UC 207<br>
-          <strong>Phone</strong>: 52831<br>
-          <strong>E-Mail</strong>: <a href="mailto:jpenn@umbc.edu">jpenn@umbc.edu</a></p></td>
-
-      <td valign="top"><p><strong>Randles, Scott</strong><br>
+      <td><p><strong>Randles, Scott</strong><br>
           <strong>Title</strong>: Director <br>
           <strong>Unit</strong>: Finance and Administration <br>
           <strong>Location</strong>: Sherman Hall 456<br>
           <strong>Phone</strong>: 52747 <br>
           <strong>E-Mail</strong>: <a href="mailto:randles@umbc.edu">randles@umbc.edu</a></p></td>
+
+      <td valign="top"><p>&nbsp;</p></td>
           
       <td valign="top"><p>&nbsp;</p></td>
       <td valign="top"><p>&nbsp;</p></td>
@@ -492,7 +487,7 @@ BEGIN MAIN
           <strong>Title</strong>: Associate Director<br>
           <strong>Unit</strong>: Shady Grove Programs <br>
           <strong>Location</strong>: Shady Grove  Rm.4159<br>
-          <strong>Phone</strong>: 301-738-6081<br>
+          <strong>Phone</strong>: 301-738-6175<br>
           <strong>E-Mail</strong>: <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a></p></td>
       <td bgcolor="#CCCCCC"><p><strong>Weese, Vanessa</strong><br>
           <strong>Title</strong>: Program Manager<br>

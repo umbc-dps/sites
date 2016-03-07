@@ -151,7 +151,7 @@ Office: III-4155</strong></p>
 <img src="../images/FacultyImages2013/AshleyWaters.gif" alt="Ashley Waters"/>
 <br>
 <p><strong>Associate Director</strong><br>
-<a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a> / 301-738-6081<br>
+<a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a> / 301-738-6175<br>
 Office: III-4135</strong></p>
 
 <p>Ashley is your primary resource for: </p>

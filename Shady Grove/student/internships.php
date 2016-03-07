@@ -89,7 +89,7 @@
   <p>&nbsp;</p>
   <p>UMBC students have the opportunity to step outside the  boundaries of the classroom and experience the real world through internships.  In addition to gaining valuable work experience, many students may also be  eligible to receive upper-level credits in their major.  Internships allow students to network with  professionals in their field, which helps in the job search process after  graduation.</p>
   <p><strong>Undergraduate Students:</strong>&nbsp; To schedule an appointment for assistance with resumes, cover letters, mock interviews, internship placements, and more, contact the USG Career &amp; Internship Services Center at 301-738-6338 or via <a href="mailto:usgcareerservices@umd.edu">e-mail</a>.</p>
-<p><strong>Graduate Students:</strong>&nbsp; To schedule an appointment for assistance with resumes, cover letters, mock interviews, internship placements, and more, contact Ms. Ashley Waters at 301-738-6081  or via <a href="mailto:awaters@umbc.edu">e-mail</a>.</p>
+<p><strong>Graduate Students:</strong>&nbsp; To schedule an appointment for assistance with resumes, cover letters, mock interviews, internship placements, and more, contact Ms. Ashley Waters at 301-738-6175  or via <a href="mailto:awaters@umbc.edu">e-mail</a>.</p>
 <p>&nbsp;</p>
 <p><strong>Resources: </strong></p>
   <p><a href="documents/PoliciesofProfessionalConductforStudentsasof2014.08.26.pdf" target="_blank">Policies of Professional Conduct for Students</a><br>

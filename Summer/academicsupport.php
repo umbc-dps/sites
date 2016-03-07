@@ -107,16 +107,6 @@
   <h3>Location</h3>
   <p> First floor of the Albin O. Kuhn library, behind the Reference Desk</p>
 </div>
-        <div class="accordionheader">
-    <h4><a href="#mathgym" id="mathgym"></a>The Math Gym<i class="fa fa-angle-down"></i></h4></div>
-
-  <div class="accordionbody">
-    <p><strong><a href="http://mathgym.umbc.edu" target="_blank">The Math Gym</a></strong> is an exciting new place at UMBC to "exercise" your math muscles. The Math Gym provides personal trainers to help you build up   your foundational math physique and all mathematical skills necessary for success in your courses. Come join us  and see the results!</p>
-<h3>Courses</h3>
-    <p>Please check back later for specific course information and hours.</p>
-    <h3>Location</h3>
-    <p>Sondheim Hall (SOND) 109</p>
-  </div>
     
       <div class="accordionheader">
     <h4><a href="#ctc" id="ctc"></a>The Chemistry Tutorial Center<i class="fa fa-angle-down"></i></h4>
