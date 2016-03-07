@@ -1547,7 +1547,7 @@ BIOL</td>
   <td class="course-title">Adv Tutorial Projects</td>
   <td class="number"><a href="" class="course-link">2204</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Shady Grove</td>
@@ -1595,7 +1595,7 @@ BTEC</td>
   <td class="course-title">Mgmt. Leadership &amp; Comm.</td>
   <td class="number"><a href="" class="course-link">1042</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Main Campus</td>
@@ -1619,7 +1619,7 @@ BTEC</td>
   <td class="course-title">Mgmt. Leadership &amp; Comm.</td>
   <td class="number"><a href="" class="course-link">2700</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Main Campus</td>
@@ -1643,7 +1643,7 @@ BTEC</td>
   <td class="course-title">Financial Management</td>
   <td class="number"><a href="" class="course-link">1481</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Main Campus</td>
@@ -1667,7 +1667,7 @@ BTEC</td>
   <td class="course-title">Proj. Man. Fundamentals</td>
   <td class="number"><a href="" class="course-link">2075</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Main Campus</td>
@@ -2075,7 +2075,7 @@ CYBR</td>
   <td class="course-title">Global Cyber Trends</td>
   <td class="number"><a href="" class="course-link">2705</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -2147,7 +2147,7 @@ CYBR</td>
   <td class="course-title">Spec. Topics in Cybersecurity : ST in Cybercrime Investigation</td>
   <td class="number"><a href="" class="course-link">2703</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -2723,7 +2723,7 @@ EDUC</td>
   <td class="course-title">Inclusion &amp; Instruction</td>
   <td class="number"><a href="" class="course-link">1163</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Main Campus</td>
@@ -2868,7 +2868,7 @@ EDUC</td>
   <td class="course-title">Instructional Sys Dev I</td>
   <td class="number"><a href="" class="course-link">1945</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -2892,7 +2892,7 @@ EDUC</td>
   <td class="course-title">Instructional Sys Dev I</td>
   <td class="number"><a href="" class="course-link">2509</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -2916,7 +2916,7 @@ EDUC</td>
   <td class="course-title">Instr Sys Dev II</td>
   <td class="number"><a href="" class="course-link">1052</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -2940,7 +2940,7 @@ EDUC</td>
   <td class="course-title">The Adult Learner</td>
   <td class="number"><a href="" class="course-link">1053</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -2964,7 +2964,7 @@ EDUC</td>
   <td class="course-title">Online Classroom</td>
   <td class="number"><a href="" class="course-link">1054</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -3060,7 +3060,7 @@ EDUC</td>
   <td class="course-title">Prin Of Trng And Dev</td>
   <td class="number"><a href="" class="course-link">1055</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Main Campus</td>
@@ -3084,7 +3084,7 @@ EDUC</td>
   <td class="course-title">Inst Strat/Div Needs</td>
   <td class="number"><a href="" class="course-link">2035</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Main Campus</td>
@@ -3108,7 +3108,7 @@ EDUC</td>
   <td class="course-title">Surv Of Instr Tech App</td>
   <td class="number"><a href="" class="course-link">1066</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -3132,7 +3132,7 @@ EDUC</td>
   <td class="course-title">Adv Spec Top In Educ : Adv Spec Topics In Educ</td>
   <td class="number"><a href="" class="course-link">1461</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -3156,7 +3156,7 @@ EDUC</td>
   <td class="course-title">Adv Spec Top In Educ : Portfolio Devel &amp; Talent Mgmt</td>
   <td class="number"><a href="" class="course-link">2291</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -3180,7 +3180,7 @@ EDUC</td>
   <td class="course-title">Adv Spec Top In Educ : Ed Tech For Esol Teacher</td>
   <td class="number"><a href="" class="course-link">2511</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -3204,7 +3204,7 @@ EDUC</td>
   <td class="course-title">Adv Spec Top In Educ : Ed Tech For Esol Teacher</td>
   <td class="number"><a href="" class="course-link">2511</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -3229,7 +3229,7 @@ EDUC</td>
   <td class="course-title">ISD Internship-Training : ISD Internship</td>
   <td class="number"><a href="" class="course-link">1056</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -3253,7 +3253,7 @@ EDUC</td>
   <td class="course-title">ISD Project Seminar : ISD Project Seminar</td>
   <td class="number"><a href="" class="course-link">1161</a></td>
   <td>12 Week</td>
-  <td>Sessions 1 and 2</td>  
+  <td>12 Week Courses</td>  
     <td></td>
     <td></td>
   <td>Off Campus</td>
@@ -3901,7 +3901,7 @@ ENMG</td>
     <td class="course-title">Proj. Man. Fundamentals</td>
     <td class="number"><a href="" class="course-link">1189</a></td>
     <td>12 Week</td>
-    <td>Sessions 1 and 2</td>  
+    <td>12 Week Courses</td>  
     <td></td>
     <td></td>
     <td>Main Campus</td>
@@ -3925,7 +3925,7 @@ ENMG</td>
     <td class="course-title">Mgmt,Leadership And Com</td>
     <td class="number"><a href="" class="course-link">1043</a></td>
     <td>12 Week</td>
-    <td>Sessions 1 and 2</td>  
+    <td>12 Week Courses</td>  
     <td></td>
     <td></td>
     <td>Main Campus</td>
@@ -3949,7 +3949,7 @@ ENMG</td>
     <td class="course-title">Mgmt,Leadership And Com</td>
     <td class="number"><a href="" class="course-link">2699</a></td>
     <td>12 Week</td>
-    <td>Sessions 1 and 2</td>  
+    <td>12 Week Courses</td>  
     <td></td>
     <td></td>
     <td>Main Campus</td>
@@ -3973,7 +3973,7 @@ ENMG</td>
     <td class="course-title">Financial Management</td>
     <td class="number"><a href="" class="course-link">1484</a></td>
     <td>12 Week</td>
-    <td>Sessions 1 and 2</td>  
+    <td>12 Week Courses</td>  
     <td></td>
     <td></td>
     <td>Main Campus</td>
@@ -4286,7 +4286,7 @@ GES</td>
     <td class="course-title">Spec Topics in Enterprise GIS : Geospatial Appl Dev Python</td>
     <td class="number"><a href="" class="course-link">2431</a></td>
     <td>12 Week</td>
-    <td>Sessions 1 and 2</td>  
+    <td>12 Week Courses</td>  
     <td></td>
     <td></td>
     <td>Shady Grove</td>
@@ -4383,7 +4383,7 @@ GWST</td>
     <td class="course-title">Gender and Sitcoms</td>
     <td class="number"><a href="" class="course-link">1570</a></td>
     <td>12 Week</td>
-    <td>Sessions 1 and 2</td>  
+    <td>12 Week Courses</td>  
     <td></td>
     <td></td>
     <td>Off Campus </td>

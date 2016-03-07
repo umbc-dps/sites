@@ -114,7 +114,7 @@
 <a href="#" class="category">Evening</a> 
 <a href="#" class="category">Session 1</a> 
 <a href="#" class="category">Session 2</a> 
-<a href="#" class="category last">Sessions 1 and 2</a>
+<a href="#" class="category last">12 Week Courses</a>
 </span>
 <br>
 
