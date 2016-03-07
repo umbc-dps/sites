@@ -51,7 +51,7 @@
   <!-- END umbc header -->
   <div id="site-menu-background">
     <!-- gold toolbar -->
-	  <?php include("../includes/stem-gold-nav.php"); ?>
+	  <?php include("../includes/gold-nav.php"); ?>
     <!-- END gold toolbar --> 
   </div>
 </div>

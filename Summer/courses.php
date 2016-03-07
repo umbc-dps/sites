@@ -6,7 +6,7 @@
 
 
     
-<title>Courses by Subject | UMBC Winter Session</title>
+<title>Courses by Subject | UMBC Summer Session</title>
 
 </head>
 

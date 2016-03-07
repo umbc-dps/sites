@@ -5,7 +5,7 @@
       </a>
 
 
-      <a href="courses" class="studenttype">
+      <a href="../all-courses#STEM" class="studenttype" target="_blank">
       <aside class="five columns add-bottom" id="four">
         <h3 class="students">STEM Courses</h3>
       </aside>
@@ -43,5 +43,6 @@
       <a href="https://www.youtube.com/playlist?list=PLFBB091265A8E67A9" target="_blank"><img src="http://umbc.edu/summer/images/youtube.png" alt="YouTube"  width="30" height="30"></a>  
       
       </aside>
+      
       
       </div>

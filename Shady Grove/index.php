@@ -716,7 +716,7 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://www.umbc.edu/shadygrove/io/masters.php" target="_blank"><img src="images/USG_UG_Apply_spring2016.jpg" alt=""/></a>
+<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank"><img src="images/USG_UG_Apply_spring2016.jpg" alt=""/></a>
 <h3 style="line-height:normal; font-size:18pt">Get Priority at UMBC-Shady Grove:  Apply by March 1!</h3>
 
 

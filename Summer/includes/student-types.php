@@ -30,12 +30,6 @@
       </aside>
       
 
-      
-
-      
-      
-      
-
      <center>
       <aside class="five columns add-bottom" style="width:320px;">
     
@@ -49,5 +43,12 @@
  
       </aside>
       </center>
+      
+      
+      <aside class="five columns add-bottom">
+      	<center>
+        	<a href="stem"><img src="images/stemlogo.gif" style="width:50%"></a>
+        </center>
+      </aside>
       
       </div>
