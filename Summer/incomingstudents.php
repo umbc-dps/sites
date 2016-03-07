@@ -68,7 +68,7 @@
       
      <!-- Start Content --> 
 
-<h4>Students  already admitted for Fall 2016 are eligible to attend summer session.</h4>
+<p><strong>Students already admitted for Fall 2016 are eligible to attend summer session.</strong></p>
 
 <p>
   Summer session gives incoming freshmen and transfer students the opportunity to  get familiar with the campus, learn from top-rated faculty, adapt to college  life and meet new people.</p>
@@ -84,16 +84,31 @@
   <li>Advising is recommended, but not required.</li>
   <li>Registration begins <a href="importantdates">March 21</a>.</li>
 </ul>
+<br>
 
 
+<h3><strong>Summer Bridge for New Freshman</strong></h3>
+<p>Your path to graduation begins this summer!</p>
 
-     <!-- END Content -->
-     
-		</div>
-    <!-- /eleven columns -->
-	</div>
-    <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
+<p>Start your college experience with a solid foundation in mathematics and writing, as well as an interactive seminar to help ease the transition to college.</p>
+
+<ul>
+	<li>Earn academic credit for required courses</li>
+	<li>Learn your way around campus</li>
+	<li>Connect with faculty and staff</li>
+	<li> Meet new friends</li>
+	<li>Receive a fall scholarship equal to one credit of tuition</li>
+	<li> Learn more about UMBC's six-week <a href="http://fye.umbc.edu/programs/csi/" target="_blank">Summer Bridge Program</a></li>
+</ul>
+	  
+	  <!-- END Content -->
+	  
+	  </div>
+	  <!-- /eleven columns -->
+	  </div>
+	  <!-- SIDEBAR --> 
+    </li>
+	<div class="five columns omega" style="float:right;"> 
       <?php include("includes/student-types.php"); ?>
     </div>
     <!-- /five columns omega --> 

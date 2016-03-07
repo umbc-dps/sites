@@ -80,10 +80,10 @@
 </div>
 
  <div class="accordionbody">
-<p>
+
 <h4>Apply as a visiting  <a href="applyundergraduate">undergraduate student</a></h4>
 <h4>Apply as a visiting  <a href="applygraduate">graduate  student</a></h4>
-</p>
+
 </div>
 
 <div class="accordionheader">
