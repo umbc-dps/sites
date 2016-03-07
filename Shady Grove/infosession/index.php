@@ -90,7 +90,6 @@
 	</h4>
 
 	<p>
-		Saturday, March 5 - 12:30pm<br>
   		Thursday, April 14 - 5:30pm<br>
   		Friday, May 20 - 12:00pm<br>
     <br>
@@ -114,7 +113,6 @@
           
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, March 2 - 12:00PM <br>
 		Wednesday, March 9 - 12:00PM <br>
 		Wednesday, March 23 - 12:00PM <br>
         Wednesday, April 6 - 12:00PM <br>

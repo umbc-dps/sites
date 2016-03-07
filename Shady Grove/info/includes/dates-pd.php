@@ -1,5 +1,4 @@
 <h5 class="poli">
-Wednesday, March 2 - 12:00PM<br>
 Wednesday, March 9 - 12:00PM<br>
 Wednesday, March 23 - 12:00PM<br>
 Wednesday, April 6 - 12:00PM<br> 
