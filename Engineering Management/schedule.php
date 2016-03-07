@@ -103,7 +103,7 @@ table#sequence td:first-child { text-align:left }
   12 weeks</td>
   <td>6:00 - 9:10 PM</td>
   <td>Hybrid</td>
-  <td>TBD</td>
+  <td>ITE 227</td>
  </tr>
  <tr>
   <td>ENMG 652 (1043) </td>
@@ -113,7 +113,7 @@ table#sequence td:first-child { text-align:left }
   12 weeks </td>
   <td>4:30 PM - 7:40 PM</td>
   <td>Hybrid</td>
-  <td>TBD</td>
+  <td>ITE 227</td>
  </tr>
  <tr>
   <td>ENMG 652 (2699)</td>
@@ -123,7 +123,7 @@ table#sequence td:first-child { text-align:left }
   12 weeks</td>
   <td>9:00AM - 12:10PM</td>
   <td>In Person</td>
-  <td>TBD</td>
+  <td>ITE 227</td>
  </tr>
  <tr>
   <td>ENMG 658 (1484) </td>
@@ -132,20 +132,19 @@ table#sequence td:first-child { text-align:left }
   12 weeks</td>
   <td>6:00 PM - 9:10 PM</td>
   <td>In Person</td>
-  <td>TBD</td>
+  <td>ITE 227</td>
    </tr>
    </table>
 
 <hr>
 
   
-<h3>Spring 2016 Schedule of Classes</h3>
+<h3>Fall 2016 Schedule of Classes</h3>
 
-<p><strong>Semester Dates:</strong>  January 25, 2016 – May 10, 2016<br>
-  <strong>Advanced Registration Begins:</strong> November 2, 2015 (for students currently enrolled in Fall 2015)<br>
-  <strong>Registration For Newly Admitted Students:</strong>  December 1, 2015<br>
-  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2016<br>
-  <strong>Spring Break:</strong>  March 13, 2016 – March 20, 2016 <br>
+<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
+  <strong>Advanced Registration Begins:</strong> April 25, 2016</span> (for students currently enrolled in spring 2016) <br>
+  <strong>Registration for Newly Admitted Students:</strong>  June 6, 2016</span><br>
+  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016</span><br>
   <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
 <p>There may be more courses announced in the near future.  This list is not final.</p>
@@ -156,129 +155,84 @@ table#sequence td:first-child { text-align:left }
     <td width="20%">COURSE TITLE </td>
     <td width="10%">DAY</td>
     <td width="20%">TIME</td>
-    <td width="10%">INSTRUCTOR</td>
     <td width="10%">FORMAT</td>
     <td width="10%">ROOM</td>
   </tr>
    <tr>
-     <td>ENMG 650    (4569)</td>
-     <td>Project    Management</td>
+     <td>ENMG 650 (2861)</td>
+     <td>Project Management</td>
      <td>Tuesday</td>
-     <td>
-       6:00 - 8:45 PM</td>
-     <td>Keith Kirkwood</td>
-     <td>Hybrid</td>
-     <td>ITE 229</td>
+     <td>4:30 – 7:00 PM</td>
+     <td>In Person</td>
+     <td>TBD</td>
    </tr>
    <tr>
-     <td>ENMG 650 (7206)</td>
-     <td>Project    Management</td>
-     <td>Wednesday</td>
-     <td>
-       4:30 - 7:00 PM</td>
-     <td>Sam    Negahban</td>
+     <td>ENMG 652 (2862)</td>
+     <td>Mgmt., Leadership and Communication</td>
+     <td>Thursday</td>
+     <td>4:30 - 7:00 PM</td>
      <td>Hybrid</td>
-     <td>ITE    239</td>
+     <td>TBD</td>
    </tr>
    <tr>
-     <td>ENMG 652 (4596)</td>
-     <td>Mgmt,    Leadership and Communication</td>
+     <td>ENMG 652 (4393)</td>
+     <td>Mgmt., Leadership and Communication</td>
      <td>Monday</td>
-     <td>
-       4:30 - 7:00 PM</td>
-     <td>
-       Toby Gouker</td>
+     <td>7:10 – 9:40 PM</td>
      <td>Hybrid</td>
-     <td>ITE    231</td>
+     <td>TBD</td>
    </tr>
    <tr>
-     <td>ENMG 652 (5593)</td>
-     <td>Mgmt,    Leadership and Communication</td>
+     <td>ENMG 656 2777)</td>
+     <td>Engineering Law &amp; Ethics</td>
+     <td>Wednesday</td>
+     <td>6:00 - 8:45 PM</td>
+     <td>Hybrid</td>
+     <td>TBD</td>
+   </tr>
+   <tr>
+     <td>ENMG 658 (2875)</td>
+     <td>Financial Management</td>
+     <td>Wednesday</td>
+     <td>7:10 – 9:40 PM</td>
+     <td>In Person</td>
+     <td>TBD</td>
+   </tr>
+   <tr>
+     <td>ENMG 658 (5324)</td>
+     <td>Financial Management</td>
+     <td>Monday</td>
+     <td>6:00 - 8:45 PM</td>
+     <td>In Person</td>
+     <td>TBD</td>
+   </tr>
+   <tr>
+     <td>ENMG 659 (6845)</td>
+     <td>Strategic Management</td>
      <td>Tuesday</td>
-     <td>
-       4:30 - 7:00 PM</td>
-     <td>
-       Toby Gouker</td>
+     <td>4:30 – 7:00 PM</td>
+     <td>In Person</td>
+     <td>TBD</td>
+   </tr>
+   <tr>
+     <td>ENMG 663 (6118)</td>
+     <td>Advanced Project Management Applications</td>
+     <td>Wednesday</td>
+     <td>4:30 - 7:00 PM</td>
      <td>Hybrid</td>
-     <td>ITE    231</td>
-   </tr>
-
-   <tr>
-     <td>ENMG 656 (8025)</td>
-     <td>Engineering    Law &amp; Ethics</td>
-     <td>Wednesday</td>
-     <td>
-       6:00 - 8:45 PM</td>
-     <td>Michael    Oliver
-       Rick Wilson</td>
-     <td>In    Person</td>
-     <td>Prof. Studies Building U572</td>
+     <td>TBD</td>
    </tr>
    <tr>
-     <td>ENMG 658 (4570)</td>
-     <td>Financial    Management</td>
-     <td>Monday</td>
-     <td>
-       6:00 - 8:45 PM</td>
-     <td>
-       Jim Ziegler</td>
-     <td>In    Person</td>
-     <td>ITE    233</td>
-   </tr>
-   <tr>
-     <td>ENMG 658 (5399)</td>
-     <td>Financial    Management</td>
-     <td>Wednesday</td>
-     <td>
-       6:00 - 8:45 PM</td>
-     <td>
-       Michelle Jones</td>
-     <td>In    Person</td>
-     <td>ITE    229</td>
-   </tr>
-   <tr>
-     <td>ENMG 661 (6989)</td>
-     <td>Leading    Virtual/Global Teams</td>
+     <td>ENMG 668 (6510)</td>
+     <td>Project and SE Management</td>
      <td>Thursday</td>
-     <td>
-       7:10 - 9:40 PM</td>
-     <td>George    Ray</td>
-     <td>In    Person</td>
-     <td>ITE    227</td>
-   </tr>
-   <tr>
-     <td>ENMG 668 (5332)</td>
-     <td>Project    and System Engineering Management</td>
-     <td>Monday</td>
-     <td>
-       4:30 - 7:00 PM</td>
-     <td>Jeff    Ray</td>
-     <td>In    Person</td>
-     <td>ITE    229</td>
-   </tr>
-   <tr>
-     <td>ENMG 691 (8020)</td>
-     <td>Special    Topics
-       International Project Management</td>
-     <td>Thursday</td>
-     <td>
-       4:30 - 7:00 PM</td>
-     <td>Jeff    Ray</td>
-     <td>In    Person</td>
-     <td>3.014 Tech Center</td>
-   </tr>
-   <tr>
-     <td>ENMG 692 (7176)</td>
-     <td>Principles    of Organizational Learning</td>
-     <td>Monday</td>
-     <td>
-       7:10 - 9:40 PM</td>
-     <td>Jeff    Ray</td>
-     <td>In    Person</td>
-     <td>ITE    229</td>
+     <td>7:10 – 9:40 PM</td>
+     <td>Hybrid</td>
+     <td>TBD</td>
    </tr>
    </table>
 <br>
+<hr>
 
 <h3>Sequence of Engineering Management Courses</h3>
 <table id="sequence">
@@ -390,7 +344,8 @@ table#sequence td:first-child { text-align:left }
 <!-- END SIDEBAR -->
 
 <!-- footer -->
-  <br clear="all">  <?php include("includes/footer.php"); ?>
+  <br clear="all">
+  <?php include("includes/footer.php"); ?>
   <?php include("includes/tracking.php"); ?>
 
   <br>

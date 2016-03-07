@@ -70,13 +70,12 @@ table#sequence td:first-child { text-align:left }
   
 <!-- START Content -->
 
-<h3>Spring 2016 Schedule of Classes</h3>
+<h3>Fall 2016 Schedule of Classes</h3>
 
-<p><strong>Semester Dates:</strong>  January 25, 2016 – May 10, 2016<br>
-  <strong>Advanced Registration Begins:</strong> November 2, 2015 (for students currently enrolled in Fall 2015)<br>
-  <strong>Registration For Newly Admitted Students: </strong> Decemeber 1, 2015<br>
-  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2016<br>
-  <strong>Spring Break:</strong>  March 13, 2016 – March 20, 2016<br>
+<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
+  <strong>Advanced Registration Begins:</strong> April 25, 2016</span> (for students currently enrolled in spring 2016) <br>
+  <strong>Registration for Newly Admitted Students:</strong>  June 6, 2016</span><br>
+  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016</span><br>
 	<strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
   <table id="schedule">
@@ -90,105 +89,42 @@ table#sequence td:first-child { text-align:left }
   <TD width="10%">Room</TD>
 </TR>
   <tr>
-    <td>ENEE 660    (7770)</td>
-    <td>Introduction to    Systems Engineering</td>
-    <td>Tuesday</td>
-    <td><br>
-      4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE 233</td>
-  </tr>
-  <tr>
-    <td>ENEE 661    (1135)</td>
-    <td>Systems    Architecture &amp; Design</td>
-    <td>Tuesday</td>
-    <td><br>
-      4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE    239</td>
-  </tr>
-  <tr>
-    <td>ENEE 661 (7332)</td>
-    <td>Systems    Architecture &amp; Design</td>
-    <td>Wednesday</td>
-    <td><br>
-      4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE    231</td>
-  </tr>
-  <tr>
-    <td>ENEE 662    (6562)</td>
-    <td>System    Modeling, Simulation &amp; Analysis</td>
+    <td>ENEE 660 (5385)</td>
+    <td>Systems Engineering Principles</td>
     <td>Thursday</td>
-    <td><br>
-      4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE    229</td>
-  </tr>
-  <tr>
-    <td>ENEE 667    (6647)</td>
-    <td>Advanced    System Engineering Processes</td>
-    <td>Monday</td>
-    <td><br>
-      4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE    239</td>
-  </tr>
-  <tr>
-    <td><br>
-      CYBR 620 (4993)</td>
-    <td>Introduction to    Cybersecurity</td>
-    <td>Tuesday</td>
-    <td><br>
-      6:00 - 8:45 PM</td>
-    <td>In Person</td>
-    <td>ITE 237</td>
-  </tr>
-  <tr>
-    <td>CYBR 620 (5400)</td>
-    <td>Introduction    to Cybersecurity</td>
-    <td>Tuesday</td>
-    <td><br>
-      6:00 - 8:45 PM</td>
-    <td>In Person</td>
-    <td>3.014<br>
-      Tech Center</td>
-  </tr>
-  <tr>
-    <td>CYBR 621 (6128)</td>
-    <td>Cyber    Warfare</td>
-    <td>Wednesday</td>
-    <td><br>
-      4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>3.013<br>
-      Tech Center</td>
-  </tr>
-  <tr>
-    <td>CYBR 622    (4994)</td>
-    <td>Global    Cyber Capabilities and Trends</td>
-    <td>Wednesday</td>
-    <td><br>
-      7:10 - 9:40 PM</td>
+    <td>4:30 - 7:00 PM</td>
     <td>Hybrid</td>
-    <td>3.013<br>
-      Tech Center</td>
+    <td>TBD</td>
   </tr>
   <tr>
-    <td>CYBR 623    (4995)</td>
-    <td>Cybersecurity    Law &amp; Policy</td>
+    <td>ENEE 663 (6056)</td>
+    <td>System Implementation, Integration and Tests</td>
     <td>Monday</td>
-    <td><br>
-      4:30 - 7:00 PM</td>
+    <td>4:30 - 7:00 PM</td>
     <td>In Person</td>
-    <td>3.013<br>
-      Tech Center</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>ENEE 664 (7686)</td>
+    <td>Advanced Systems Architecture</td>
+    <td>Tuesday</td>
+    <td>4:30 - 7:00 PM</td>
+    <td>In Person</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>ENEE 669 (6066)</td>
+    <td>Math and MATLAB</td>
+    <td>Wednesday</td>
+    <td>4:30 - 7:00 PM</td>
+    <td>Hybrid</td>
+    <td>TBD</td>
   </tr>
   </table>
   
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions.php">Directions</a></strong>)</p>
 <br>
-
+<hr>
   
 <h3><a id="sequence"></a>Sequence of System Engineering Courses</h3>
 
