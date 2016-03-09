@@ -116,7 +116,9 @@
 		Wednesday, March 9 - 12:00PM <br>
 		Wednesday, March 23 - 12:00PM <br>
         Wednesday, April 6 - 12:00PM <br>
-		Wednesday, April 13 - 12:00PM
+		Wednesday, April 13 - 12:00PM<br>
+		Wednesday, April 27 - 12:00PM<br>
+		Wednesday, May 4 - 12:00PM
 	</p>
           
 	<p>
