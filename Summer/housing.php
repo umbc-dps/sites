@@ -72,7 +72,7 @@
 
 	<h5>Summer Session</h5>
 		<ul>
-       		<li>Monday, April 18th is priority deadline for Summer Housing applications.</li> 
+       		<li>Monday, May 2nd is the priority deadline for Summer Housing applications.</li> 
 			<li>Additional information and summer summer housing applications will be available March 18.</li>
 		</ul> 
       
@@ -84,7 +84,7 @@
        </ul>
        
         
-	<p>For questions about summer &amp; winter session housing, contact the Residential Life Operations Team at <a href="tel:410-455-8832" target="_blank">410-455-8832</a> or feel free to submit a <a href="https://rt.umbc.edu/UMBC/RequestHelp.html" target="_blank">myUMBC Help Ticket</a>.</p>
+	<p>For information about summer &amp; winter session housing, visit the Residential Life <a href="http://www.umbc.edu/reslife/apply/summer.html" target="_blank">website</a>, contact the Residential Life Operations Team at <a href="tel:410-455-8832" target="_blank">410-455-8832,</a> or submit a <a href="https://rt.umbc.edu/UMBC/RequestHelp.html" target="_blank">myUMBC Help Ticket</a>.</p>
        
 
      <!-- END Content -->
