@@ -68,44 +68,36 @@
       
      <!-- Start Content --> 
 
-<p><strong>Students already admitted for Fall 2016 are eligible to attend summer session.</strong></p>
-
-<p>
-  Summer session gives incoming freshmen and transfer students the opportunity to  get familiar with the campus, learn from top-rated faculty, adapt to college  life and meet new people.</p>
-  
-<ul>
-
-        <li>Earn up 16 credits during summer session.</li>
-        <li>To register for more than 16 credits during summer session, <a href="http://umbc.edu/dpsstage1/excesscredit" target="_blank">approval is needed</a>.</li>
-
-
-  <li>No additional application is necessary.</li>
-  <li><a href="http://www.umbc.edu/undergraduate/quicklinks/contact.html">Contact</a> the Office of Undergraduate Admissions  to change your semester start date to summer 2016.</li>
-  <li>Advising is recommended, but not required.</li>
-  <li>Registration begins <a href="importantdates">March 21</a>.</li>
+     <h4><strong>Students already admitted for  fall 2016 are eligible to attend summer session.</strong><strong></strong></h4>
+     <p>Summer session is a great time for incoming freshmen and  transfer students to <em>grit going</em> at  UMBC. Lighten your fall class load, take required prerequisite courses, and get  acclimated to the campus by taking 4, 6, 8, or 12 week summer session courses.  Smaller classes and dedicated faculty will give you a jump start on the busy fall  semester and help keep you on track to graduate in four years.<br>
+       <br>
+       <strong>Start Your Path to Graduation this Summer</strong><br>
+     </p>
+<ul type="disc">
+  <li>No       additional summer application is necessary.</li>
+  <li><a href="http://www.umbc.edu/undergraduate/quicklinks/contact.html">Contact</a> the Office of Undergraduate Admissions to change your semester start date from       fall to summer 2016.</li>
+  <li>Advising       is highly recommended, but not required.</li>
+  <li>Earn       up 16 credits (8 credits per session) during summer session.  Advising Office <u>pre-approval</u> is       required to enroll in more than 16 credits.</li>
 </ul>
-<br>
-
-
-<h3><strong>Summer Bridge for New Freshman</strong></h3>
-<p>Your path to graduation begins this summer!</p>
-
-<p>Start your college experience with a solid foundation in mathematics and writing, as well as an interactive seminar to help ease the transition to college.</p>
-
-<ul>
-	<li>Earn academic credit for required courses</li>
-	<li>Learn your way around campus</li>
-	<li>Connect with faculty and staff</li>
-	<li> Meet new friends</li>
-	<li>Receive a fall scholarship equal to one credit of tuition</li>
-	<li> Learn more about UMBC's six-week <a href="http://fye.umbc.edu/programs/csi/" target="_blank">Summer Bridge Program</a></li>
-</ul>
+<h4><strong>Summer Bridge Program for New  Freshmen</strong><br>
+</h4>
+<p><strong>All incoming freshmen must complete a math and English  course during their first year at UMBC.</strong><strong>  </strong><br>
+  <br>
+  Your four year path to graduation begins this summer!  Get the academic foundation you need to  succeed in college.<br>
+  <br>
+  UMBC&rsquo;s six-week Summer Bridge Program offers required math  and writing courses along with an interactive seminar that helps ease the  transition from high school to college. <br>
+  <br>
+  Outside of class, dedicated Summer Bridge staff coordinate  tutoring and study groups, offer individual advising support, and organize  special summer events for new students. Residential and commuter options are  available.<br>
+  <br>
+  The Summer Bridge Program is a great way to build a strong  academic foundation at UMBC while earning 4 to 8 required credits. Students who  successfully complete the program will also receive a scholarship equal to one  credit of fall tuition.<br>
+  <br>
+  Learn more about UMBC's <a href="http://fye.umbc.edu/programs/csi/" target="_blank">Summer Bridge Program</a>.</p>
 	  
-	  <!-- END Content -->
+<!-- END Content -->
 	  
 	  </div>
 	  <!-- /eleven columns -->
-	  </div>
+    </div>
 	  <!-- SIDEBAR --> 
     </li>
 	<div class="five columns omega" style="float:right;"> 
@@ -113,7 +105,7 @@
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
-  </div>
+</div>
 
   <footer id="site-footer" class="clearfix">
     <?php include("includes/footer.php"); ?>

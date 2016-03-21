@@ -70,11 +70,11 @@
 <div class="stem">
 <h4>The 2016 list of Summer STEM courses includes previous course syllabi and 2016 course start dates.</h4>
 
-<p>The <strong>course syllabi</strong> are based on prior semesters and should be used as a planning tool. Current course syllabi are distributed by course instructions at the beginning of each course. <em>Please note that there may not be a course syllabus for every listed course.</em></p>
-
-<p>The <strong>Session Start Dates</strong> provide a quick reference to assist in creating a course schedule. The specific meeting schedule and locations are available via the course catalog or course schedule.</p>
-
-<p>Many summer session courses have <strong>limited seats</strong>. Enroll <strong>early</strong> to secure your seat in the class. To check how many seats are available in a specific course, click on Course Title. This takes you to the schedule of classes. Click on "View Section" to open the "Class Details" screen. See "Class   Availability" to view the number of open seats, as well as the wait list for closed courses.</p>
+<p>The <strong>course syllabi</strong> are based on prior semesters and  should be used as a planning tool. Current course syllabi are distributed by  course instructions at the beginning of each course. <em>Please note that there  may not be a course syllabus for every listed course.</em><br>
+  </p>
+<p>The <strong>Session Start Dates</strong> provide a quick reference to  assist in creating a course schedule. The specific meeting schedule and  locations are available via the course catalog or course schedule.<br>
+  </p>
+<p>Many summer session courses have <strong>limited seats</strong>.  Enroll <strong>early</strong> to secure your seat in the class. To check how many seats  are available in a specific course, click on Course Title. This takes you to  the schedule of classes. Click on &quot;View Section&quot; to open the  &quot;Class Details&quot; screen.&nbsp;See &quot;Class Availability&quot; to  view the number of open seats, as well as the wait list for closed courses.</p>
 </div>
 
 <p style="font-size:125%; line-height:125%" class="searchbox">

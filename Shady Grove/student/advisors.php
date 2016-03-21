@@ -105,10 +105,9 @@
         <h3><strong>Psychology</strong></h3>
         <p> Dr. Diane Alonso, <a href="mailto:dalonso@umbc.edu">dalonso@umbc.edu</a> (Program  Director)</p>
         <p>Dr. Donald Knight, <a href="mailto:dknigh1@umbc.edu">dknigh1@umbc.edu</a>   </p>
-        <p>Ms. Jennifer Luo, <a href="mailto:yowning1@umbc.edu">yowning1@umbc.edu</a>        
-        </p>
-        <p style="margin-top: 0; margin-bottom: 0;">Dr. Ted Rosen, <a href="mailto: throsen@umbc.edu"> throsen@umbc.edu</a></p>
-        <p>Dr. Karen Watkins-Lewis, <a href="mailto:kwatkin1@umbc.edu">kwatkin1@umbc.edu</a>        </p>
+        <p>Dr. Karen Watkins-Lewis, <a href="mailto:kwatkin1@umbc.edu">kwatkin1@umbc.edu<br>
+        </a></p>
+        <p>Mr. Caleb Grabowski, <a href="mailto:cgrab1@umbc.edu" target="_blank">cgrab1@umbc.edu</a>  </p>
 
 
         <h3><strong>Social Work</strong></h3>

@@ -89,9 +89,9 @@
 
 <div id="sub_content">
 <h1><strong>The Big Event  </strong></h1>
-  <h3>WEDNESDAY, APRIL 22, 2015 11:00 AM - 3:00 PM | 
+  <h3>THURSDAY, APRIL 14, 2016 11:00 AM - 3:00 PM | 
 USG II - Multi-purpose Room</h3>
-  <p style="font-size:12pt!important; line-height:normal!important">Share in this unique community service event as we join together to make an impact with local organizations including Family Services, Inc. and our local police and fire stations.</p>
+  <p style="font-size:12pt!important; line-height:normal!important">Share in this unique community service event as we join together to make an impact with local organizations including Family Services, Inc., Community Ministries of Rockville, and local community shelters.</p>
   <iframe src="https://docs.google.com/forms/d/16xGStGrEXQIdte4Fv3wmg7Xk1KQ37Y5jtlLscrFzeXQ/viewform?embedded=true" width="750" height="930" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
  <div class="lib" style="clear:right;"></div>
@@ -99,7 +99,7 @@ USG II - Multi-purpose Room</h3>
  <div id="footer">
 
 <div class="footercontent">
-<p style="margin-bottom: 0">&copy; 2015 UMBC at The Universities at Shady Grove • 9636 Gudelsky Drive, Rockville, MD 20850 • 301-738-6081 • E-mail: <a href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</a><a href="http://www.umbc.edu/ola/nondiscrimination.html" target="_blank"><br>
+<p style="margin-bottom: 0">&copy; 2016 UMBC at The Universities at Shady Grove • 9636 Gudelsky Drive, Rockville, MD 20850 • 301-738-6081 • E-mail: <a href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</a><a href="http://www.umbc.edu/ola/nondiscrimination.html" target="_blank"><br>
 UMBC is an Equal Opportunity and Affirmative Action Institution</a> </p>
 </div>
 

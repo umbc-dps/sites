@@ -64,15 +64,16 @@
  <div class="sixteen columns">
   <div class="sixteen columns alpha" style="padding-top:1em;">
   <!-- Page Title -->
-    <h2>Culture & Social Justice</h2>
+    <h2 align="center"><img src="images/DPS2016-006_logo_vF-color.png" alt="CSJ Logo" style="width:65%"/></h2>
+    <img align="left" alt="Nelson Mandela Quote" src="images/mandela-quote.png" style="width:40%"> 
   <!-- END Page Title -->    
    <div class="content">
   <div class="narrowchart">
  <div id="accordion">   
    <!-- Start Content --> 
    
-   <p style="text-align:center; margin:-15px!important;"><img src="images/mandela-quote.png" style="width:35%"></p>
- <h5>Social Justice (so·cial jus·tice) noun. 1: a social philosophy advocating the removal of inequalities among people; 2: the idea of acting with equality, fairness and dignity to all human beings.</h5>  <br>
+   <p style="text-align:center; margin:-15px!important;">&nbsp;</p>
+   <h5>Social Justice (so·cial jus·tice) noun. 1: a social philosophy advocating the removal of inequalities among people; 2: the idea of acting with equality, fairness and dignity to all human beings.</h5>  <br>
 
    
  <p>This summer, interdisciplinary departments in UMBC’s College of Arts, Humanities, and Social Sciences will offer general education courses focused on topics in culture and social justice.</p>
@@ -319,10 +320,7 @@ Marina Adler
 <hr>
 
 <h3>Summer Service Learning</h3>
-   <p style="text-align:center;">
-   	<img src="images/ghandi-quote.png" style="width:35%;">
-   </p>
-<p>You can make a difference!  Summer is a great time to make a meaningful contribution in your community through service learning. UMBC’s Shriver Center coordinates summer service learning placements in a variety of areas, including education, the environment, food and housing access, healthcare and mental health. </p>
+<p><img align="right" src="images/ghandi-quote.png" style="width:40%">You can make a difference!  Summer is a great time to make a meaningful contribution in your community through service learning. UMBC’s Shriver Center coordinates summer service learning placements in a variety of areas, including education, the environment, food and housing access, healthcare and mental health. </p>
 
 <p>Develop leadership skills, build self-confidence, and help create a better future. Change begins with you!</p>
 

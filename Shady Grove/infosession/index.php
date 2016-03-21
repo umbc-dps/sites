@@ -90,13 +90,15 @@
 	</h4>
 
 	<p>
-  		Thursday, April 14 - 5:30pm<br>
-  		Friday, May 20 - 12:00pm<br>
-    <br>
-  		<a href="rsvp" target="_blank">
-        	<img src="../images/infosession.png">
-		</a>
-	</p>
+  		Thursday, April 14 - 5:30 PM<br>
+	Friday, May 20 - 12:00 PM<br>
+	Thursday, June 16 - 5:30 PM  <br>
+	Saturday, July 16 - 12:30 PM  <br>
+	Tuesday, August 9 - 12:00 PM <br>
+	  <br>
+	  <a href="rsvp" target="_blank">
+	    <img src="../images/infosession.png">
+      </a>    </p>
 </div>
 
 <div class="seven columns" style="text-align:center; border-left: 2px #929292 solid">
@@ -108,29 +110,26 @@
 
 	<p>
 		<strong>History:</strong><br>
-		Thursday, April 7 - 5:30pm
+		Thursday, April 7 - 5:30 PM
 	</p>
           
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, March 9 - 12:00PM <br>
-		Wednesday, March 23 - 12:00PM <br>
-        Wednesday, April 6 - 12:00PM <br>
-		Wednesday, April 13 - 12:00PM<br>
-		Wednesday, April 27 - 12:00PM<br>
-		Wednesday, May 4 - 12:00PM
+		Wednesday, March 23 - 12:00 PM <br>
+        Wednesday, April 6 - 12:00 PM <br>
+		Wednesday, April 13 - 12:00 PM<br>
+		Wednesday, April 27 - 12:00 PM<br>
+		Wednesday, May 4 - 12:00 PM
 	</p>
           
 	<p>
         <strong>Psychology:</strong><br>
-		Wednesday, March 9 - 2:00PM<br>
-		Thursday, April 7 - 4:00PM
+		Thursday, April 7 - 4:00 PM
 	</p>
 
 	<p>
         <strong>Social Work:</strong><br>
-		Wednesday, March 9 - 12:00PM<br>
-		Tuesday, April 12 - 5:00PM
+		Tuesday, April 12 - 5:00 PM
 	</p>
 
 	<p>

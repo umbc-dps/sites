@@ -111,7 +111,7 @@
       <!-- NEW ROW -->
 <dl class="eleven columns alpha">
 <h3><strong>What Is Summer STEM?</strong></h3>
-<h6>Summer STEM at UMBC promotes academic success in science, technology, engineering and mathematics by providing high-quality, introductory STEM courses, academic support, and professional development activities during UMBC's summer sessions. Summer STEM at UMBC offers the required courses STEM majors need to graduate on time and is open to visiting students, incoming new students, and current UMBC students.  </h6>
+<h6>Summer STEM at UMBC promotes academic success in science, technology, engineering and mathematics by providing high-quality, introductory STEM courses and academic support during UMBC's summer sessions. Summer STEM at UMBC offers the required courses STEM majors need to graduate on time and is open to visiting students, incoming new students, and current UMBC students.</h6>
 </dl>
 
 <br clear="all">
@@ -139,7 +139,7 @@
 <dl class="ten columns" style="text-align:center">
 <!-- <h4>Learn more about <a href="http://umbc.edu/summer" target="_blank">Summer Session 2016</a>, including how to apply and register.</h4> -->
 <br>
-<p style="font-size:7pt">Summer STEM at UMBC is a collaborative effort between the <a href="http://www.umbc.edu/CNMS/" target="_blank">College of Natural and Mathematical Sciences</a> and the <a href="http://www.umbc.edu/summer/" target="_blank">Office of Summer, Winter &amp; Special Programs</a>.</p>
+<p style="font-size:7pt">Summer STEM at UMBC is a collaborative effort between the <a href="http://www.umbc.edu/CNMS/" target="_blank">College of Natural and Mathematical Sciences</a>,<br> and the <a href="http://www.umbc.edu/summer/" target="_blank">Office of Summer, Winter &amp; Special Programs</a>.</p>
 </dl>
 
   </div>

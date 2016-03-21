@@ -93,18 +93,18 @@ March 21. View the schedule of classes. </small>
  
  <li id="slide2">
 
-<a href="studyabroad"><img src="images/9.png" alt="Italy" target="_blank"></a>
+<a href="csj.php"><img src="images/CSJ Web Carousel 2.png" alt="Culture & Social Justice" target="_blank"></a>
 
-<div class="carousel-caption wordwrap">
+<!--<div class="carousel-caption-right wordwrap">
     
-<h3>UMBC Summer Study Abroad</h3>
-<small>Study Abroad courses offered to Italy & Poland. Earn credits and expand your horizons. Applications due by March 10.</small>
+<h3>Culture & Social Justice</h3>
+<small></small>
             
-<p><a href="studyabroad" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="csj.php" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
-</div>
+</div>-->
 
-<p id="captiontwo"><a href="studyabroad" target="_blank">UMBC Summer Study Abroad</a></p>
+<p id="captiontwo"><a href="csj.php" target="_blank">Culture & Social Justice</a></p>
           
 </li>
           

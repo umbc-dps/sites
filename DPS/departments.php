@@ -102,8 +102,8 @@ BEGIN MAIN
 <br>
 
 <h4>Administrative Team</h4>
-<ul><li><a href="dpsorders.php" target="_blank">Click here to go to the DPS Orders Page</a></li>
-<li><a href="http://www.umbc.edu/dps/cpsorders/tonerorders.php" target="_blank">Click here to go to the Toner Orders Page</a></li></ul>
+<ul><li><a href="http://www.umbc.edu/dps/dpsorders/" target="_blank">Click here to go to the DPS Orders Page</a></li>
+<li></li></ul>
 <h4>Information Technology Team</h4>
 <ul><li><a href="http://dpsit.umbc.edu/" target="_blank">Click here to go to the DPS Service Site</a></li></ul>
 

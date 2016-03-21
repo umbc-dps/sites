@@ -3463,77 +3463,53 @@ ENGL</td>
   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
    </tr>
  <tr>
-  <td class="subject">
-ENGL</td>
-  <td class="classNumber">100</td>
-  <td class="course-title">Composition</td>
-  <td class="number"><a href="" class="course-link">2701</a></td>
-  <td>6 Week</td>
-  <td>Session 2</td>  
-    <td></td>
-    <td></td>
-  <td>Main Campus</td>
-  <td>In Person</td>
-  <td>TuTh</td>
-  <td>2:00PM</td>
-  <td>5:00PM</td>
-  <td>Afternoon</td>
-  <td>Dunnigan, Brian</td>
-  <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
-  <td>Has Prerequisite</td>
-  <td>Has GEP</td>
-  <td></td>
-  <td>*ENGL</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    ENGL</td>
+   <td class="classNumber">100</td>
+   <td class="course-title">Composition</td>
+   <td class="number"><a href="" class="course-link">2701</a></td>
+   <td>6 Week</td>
+   <td>Session 2</td>  
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>TuTh</td>
+   <td>2:00PM</td>
+   <td>5:00PM</td>
+   <td>Afternoon</td>
+   <td>Dunnigan, Brian</td>
+   <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
+   <td>Has Prerequisite</td>
+   <td>Has GEP</td>
+   <td></td>
+   <td>*ENGL</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
-  <td class="subject">
-ENGL</td>
-  <td class="classNumber">100Y</td>
-  <td class="course-title">Composition</td>
-  <td class="number"><a href="" class="course-link">1936</a></td>
-  <td>6 Week</td>
-  <td>Session 2</td>  
-    <td></td>
-    <td></td>
-  <td>Main Campus</td>
-  <td>In Person</td>
-  <td>TuTh</td>
-  <td>9:00AM</td>
-  <td>12:00PM</td>
-  <td>Morning</td>
-  <td>Dunnigan, Brian</td>
-  <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
-  <td>Has Prerequisite</td>
-  <td>Has GEP</td>
-  <td></td>
-  <td>*ENGL</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-ENGL</td>
-  <td class="classNumber">100Y</td>
-  <td class="course-title">Composition</td>
-  <td class="number"><a href="" class="course-link">2081</a></td>
-  <td>6 Week</td>
-  <td>Session 2</td>  
-    <td></td>
-    <td></td>
-  <td>Main Campus</td>
-  <td>In Person</td>
-  <td>TuTh</td>
-  <td>2:00PM</td>
-  <td>5:00PM</td>
-  <td>Afternoon</td>
-  <td>Dunnigan, Brian</td>
-  <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
-  <td>Has Prerequisite</td>
-  <td>Has GEP</td>
-  <td></td>
-  <td>*ENGL</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    ENGL</td>
+   <td class="classNumber">100Y</td>
+   <td class="course-title">Composition</td>
+   <td class="number"><a href="" class="course-link">2081</a></td>
+   <td>6 Week</td>
+   <td>Session 2</td>  
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>TuTh</td>
+   <td>2:00PM</td>
+   <td>5:00PM</td>
+   <td>Afternoon</td>
+   <td>Dunnigan, Brian</td>
+   <td>Must have scored 3, 4, 5, 6 or 7 on LRC English placement    test to enroll in ENGL 100 or 100Y.</td>
+   <td>Has Prerequisite</td>
+   <td>Has GEP</td>
+   <td></td>
+   <td>*ENGL</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
   <td class="subject">
 ENGL</td>
@@ -3775,149 +3751,77 @@ ENME</td>
   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
    </tr>
  <tr>
-  <td class="subject">
-ENME</td>
-    <td class="classNumber">482L</td>
-    <td class="course-title">Controls/Vib Lab</td>
-    <td class="number"><a href="" class="course-link">1196</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MW</td>
-    <td>4:30PM</td>
-    <td>5:20PM</td>
-    <td>Evening</td>
-    <td></td>
-    <td>You must have completed ENME360 and ENME403 both with a    grade of &quot;C&quot; or better.</td>
-    <td>Has Prerequisite</td>
-    <td>&nbsp;</td>
-    <td>STEM</td>
-    <td>*ENME</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    ENME</td>
+   <td class="classNumber">482L</td>
+   <td class="course-title">Controls/Vib Lab</td>
+   <td class="number"><a href="" class="course-link">1196</a></td>
+   <td>6 Week</td>
+   <td>Session 2</td>  
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>MW</td>
+   <td>4:30PM</td>
+   <td>5:20PM</td>
+   <td>Evening</td>
+   <td></td>
+   <td>You must have completed ENME360 and ENME403 both with a    grade of &quot;C&quot; or better.</td>
+   <td>Has Prerequisite</td>
+   <td>&nbsp;</td>
+   <td>STEM</td>
+   <td>*ENME</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
-  <td class="subject">
-ENME</td>
-    <td class="classNumber">501</td>
-    <td class="course-title">Principles of Engineering</td>
-    <td class="number"><a href="" class="course-link">1555</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>None</td>  
-  <td>12:00AM</td>
-  <td>12:00AM</td>  
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td>STEM</td>
-    <td>*ENME</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    ENME</td>
+   <td class="classNumber">502</td>
+   <td class="course-title">Intro to Engineering Design</td>
+   <td class="number"><a href="" class="course-link">1556</a></td>
+   <td>6 Week</td>
+   <td>Session 2</td>  
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>None</td>  
+   <td>12:00AM</td>
+   <td>12:00AM</td>  
+   <td></td>
+   <td></td>
+   <td></td>
+   <td>No Prerequisite</td>
+   <td>&nbsp;</td>
+   <td>STEM</td>
+   <td>*ENME</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
-  <td class="subject">
-ENME</td>
-    <td class="classNumber">502</td>
-    <td class="course-title">Intro to Engineering Design</td>
-    <td class="number"><a href="" class="course-link">2302</a></td>
-    <td>6 Week</td>
-    <td>Session 1</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>None</td>  
-  <td>12:00AM</td>
-  <td>12:00AM</td>  
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td>STEM</td>
-    <td>*ENME</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-ENME</td>
-    <td class="classNumber">502</td>
-    <td class="course-title">Intro to Engineering Design</td>
-    <td class="number"><a href="" class="course-link">1556</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>None</td>  
-  <td>12:00AM</td>
-  <td>12:00AM</td>  
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td>STEM</td>
-    <td>*ENME</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-ENME</td>
-    <td class="classNumber">503</td>
-    <td class="course-title">Digital Electronics</td>
-    <td class="number"><a href="" class="course-link">1557</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>None</td>  
-  <td>12:00AM</td>
-  <td>12:00AM</td>  
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td>STEM</td>
-    <td>*ENME</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-ENMG</td>
-    <td class="classNumber">650</td>
-    <td class="course-title">Proj. Man. Fundamentals</td>
-    <td class="number"><a href="" class="course-link">1189</a></td>
-    <td>12 Week</td>
-    <td>12 Week Courses</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>Hybrid</td>
-    <td>Tu</td>
-    <td>4:00PM</td>
-    <td>910PM</td>
-    <td>Evening</td>
-    <td>Ray, Jeffrey S</td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td></td>
-    <td>*ENMG</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    ENMG</td>
+   <td class="classNumber">650</td>
+   <td class="course-title">Proj. Man. Fundamentals</td>
+   <td class="number"><a href="" class="course-link">1189</a></td>
+   <td>12 Week</td>
+   <td>12 Week Courses</td>  
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>Hybrid</td>
+   <td>Tu</td>
+   <td>4:00PM</td>
+   <td>910PM</td>
+   <td>Evening</td>
+   <td>Ray, Jeffrey S</td>
+   <td></td>
+   <td>No Prerequisite</td>
+   <td>&nbsp;</td>
+   <td></td>
+   <td>*ENMG</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
   <td class="subject">
 ENMG</td>
@@ -4087,102 +3991,53 @@ FREN</td>
   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
    </tr>
  <tr>
-  <td class="subject">
-FREN</td>
-    <td class="classNumber">201</td>
-    <td class="course-title">Intermediate French I</td>
-    <td class="number"><a href="" class="course-link">2433</a></td>
-    <td>4 Week</td>
-    <td>Session 1</td>
-    <td>Language</td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MTuWTh</td>
-    <td>1:00PM</td>
-    <td>4:10PM</td>
-    <td>Afternoon</td>
-    <td>Fatih, Zakaria</td>
-    <td>You must complete FREN 102     or FREN 103 with a grade of C or better or have completed 3 years of    high school French.</td>
-    <td>Has Prerequisite</td>
-    <td>Has GEP</td>
-    <td></td>
-    <td>*FREN</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    FREN</td>
+   <td class="classNumber">201</td>
+   <td class="course-title">Intermediate French I</td>
+   <td class="number"><a href="" class="course-link">2433</a></td>
+   <td>4 Week</td>
+   <td>Session 1</td>
+   <td>Language</td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>MTuWTh</td>
+   <td>1:00PM</td>
+   <td>4:10PM</td>
+   <td>Afternoon</td>
+   <td>Fatih, Zakaria</td>
+   <td>You must complete FREN 102     or FREN 103 with a grade of C or better or have completed 3 years of    high school French.</td>
+   <td>Has Prerequisite</td>
+   <td>Has GEP</td>
+   <td></td>
+   <td>*FREN</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
-  <td class="subject">
-FYE</td>
-    <td class="classNumber">101</td>
-    <td class="course-title">Introduction to an Honors Univ</td>
-    <td class="number"><a href="" class="course-link">1429</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>  
-    
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MW</td>
-    <td>1:00PM</td>
-    <td>3:30PM</td>
-    <td>Afternoon</td>
-    <td></td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td></td>
-    <td>*FYE</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-FYS</td>
-    <td class="classNumber">102</td>
-    <td class="course-title">First Year Seminar (SS) : Race, Science, and Society</td>
-    <td class="number"><a href="" class="course-link">2290</a></td>
-    <td>8 Week</td>
-    <td>Session 1</td>
-    <td>Social Science (SS)</td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MWF</td>
-    <td>8:00AM</td>
-    <td class="classNumber">10:20AM</td>
-    <td>Morning</td>
-    <td></td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>Has GEP</td>
-    <td></td>
-    <td>*FYS</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-GERM</td>
-    <td class="classNumber">201</td>
-    <td class="course-title">Intermediate German I</td>
-    <td class="number"><a href="" class="course-link">2475</a></td>
-    <td>6 Week</td>
-    <td>Session 1</td>
-    <td>Language</td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MWF</td>
-    <td>9:00AM</td>
-    <td class="classNumber">11:50AM</td>
-    <td>Morning</td>
-    <td>Wolff, Xenia Y.</td>
-    <td>You must complete GERM 102 or GERM 103 with a grade of C or    better before taking this class or have completed 3 years of High School    German.</td>
-    <td>Has Prerequisite</td>
-    <td>Has GEP</td>
-    <td></td>
-    <td>*GERM</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    GERM</td>
+   <td class="classNumber">201</td>
+   <td class="course-title">Intermediate German I</td>
+   <td class="number"><a href="" class="course-link">2475</a></td>
+   <td>6 Week</td>
+   <td>Session 1</td>
+   <td>Language</td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>MWF</td>
+   <td>9:00AM</td>
+   <td class="classNumber">11:50AM</td>
+   <td>Morning</td>
+   <td>Wolff, Xenia Y.</td>
+   <td>You must complete GERM 102 or GERM 103 with a grade of C or    better before taking this class or have completed 3 years of High School    German.</td>
+   <td>Has Prerequisite</td>
+   <td>Has GEP</td>
+   <td></td>
+   <td>*GERM</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
   <td class="subject">
 GES</td>
@@ -5174,77 +5029,53 @@ MATH</td>
   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
    </tr>
  <tr>
-  <td class="subject">
-MATH</td>
-    <td class="classNumber">150</td>
-    <td class="course-title">Precalculus Mathematics</td>
-    <td class="number"><a href="" class="course-link">1004</a></td>
-    <td>6 Week</td>
-    <td>Session 1</td>
-    <td>Math</td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MWTh</td>
-    <td>1:00PM</td>
-    <td>3:05PM</td>
-    <td>Afternoon</td>
-    <td>Baradwaj, Rajalakshm J</td>
-    <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
-    <td>Has Prerequisite</td>
-    <td>Has GEP</td>
-    <td>STEM</td>
-    <td>*MATH</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    MATH</td>
+   <td class="classNumber">150</td>
+   <td class="course-title">Precalculus Mathematics</td>
+   <td class="number"><a href="" class="course-link">1004</a></td>
+   <td>6 Week</td>
+   <td>Session 1</td>
+   <td>Math</td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>MWTh</td>
+   <td>1:00PM</td>
+   <td>3:05PM</td>
+   <td>Afternoon</td>
+   <td>Baradwaj, Rajalakshm J</td>
+   <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
+   <td>Has Prerequisite</td>
+   <td>Has GEP</td>
+   <td>STEM</td>
+   <td>*MATH</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
-  <td class="subject">
-MATH</td>
-    <td class="classNumber">150</td>
-    <td class="course-title">Precalculus Mathematics</td>
-    <td class="number"><a href="" class="course-link">1137</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>
-    <td>Math</td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MWTh</td>
-    <td>9:00AM</td>
-    <td class="classNumber">11:05AM</td>
-    <td>Morning</td>
-    <td>Tay-Stamoulas, Serap</td>
-    <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
-    <td>Has Prerequisite</td>
-    <td>Has GEP</td>
-    <td>STEM</td>
-    <td>*MATH</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-MATH</td>
-    <td class="classNumber">150</td>
-    <td class="course-title">Precalculus Mathematics</td>
-    <td class="number"><a href="" class="course-link">1360</a></td>
-    <td>8 Week</td>
-    <td>Session 1</td>
-    <td>Math</td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MWF</td>
-    <td>1:00PM</td>
-    <td>3:50PM</td>
-    <td>Afternoon</td>
-    <td></td>
-    <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
-    <td>Has Prerequisite</td>
-    <td>Has GEP</td>
-    <td>STEM</td>
-    <td>*MATH</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    MATH</td>
+   <td class="classNumber">150</td>
+   <td class="course-title">Precalculus Mathematics</td>
+   <td class="number"><a href="" class="course-link">1360</a></td>
+   <td>8 Week</td>
+   <td>Session 1</td>
+   <td>Math</td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>MWF</td>
+   <td>1:00PM</td>
+   <td>3:50PM</td>
+   <td>Afternoon</td>
+   <td></td>
+   <td>You must have completed MATH 106 or 106Y with a grade of    &quot;C&quot; or better or scored a 4 or 5 on the LRC MATH placement exam to    enroll in this course.</td>
+   <td>Has Prerequisite</td>
+   <td>Has GEP</td>
+   <td>STEM</td>
+   <td>*MATH</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
   <td class="subject">
 MATH</td>
@@ -5558,77 +5389,53 @@ MATH</td>
   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
    </tr>
  <tr>
-  <td class="subject">
-MATH</td>
-    <td class="classNumber">251</td>
-    <td class="course-title">Multivariable Calculus</td>
-    <td class="number"><a href="" class="course-link">1131</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MTuTh</td>
-    <td>9:00AM</td>
-    <td class="classNumber">11:05AM</td>
-    <td>Morning</td>
-    <td>Dean, Brian J</td>
-    <td>You must have completed MATH 142 or MATH 152 with a grade    of &quot;C&quot; or better.</td>
-    <td>Has Prerequisite</td>
-    <td>&nbsp;</td>
-    <td>STEM</td>
-    <td>*MATH</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    MATH</td>
+   <td class="classNumber">251</td>
+   <td class="course-title">Multivariable Calculus</td>
+   <td class="number"><a href="" class="course-link">1131</a></td>
+   <td>6 Week</td>
+   <td>Session 2</td>  
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>MTuTh</td>
+   <td>9:00AM</td>
+   <td class="classNumber">11:05AM</td>
+   <td>Morning</td>
+   <td>Dean, Brian J</td>
+   <td>You must have completed MATH 142 or MATH 152 with a grade    of &quot;C&quot; or better.</td>
+   <td>Has Prerequisite</td>
+   <td>&nbsp;</td>
+   <td>STEM</td>
+   <td>*MATH</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
-  <td class="subject">
-MATH</td>
-    <td class="classNumber">290</td>
-    <td class="course-title">Special Topics In Math : Special Topics In Math</td>
-    <td class="number"><a href="" class="course-link">1361</a></td>
-    <td>8 Week</td>
-    <td>Session 1</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MWF</td>
-    <td>1:00PM</td>
-    <td>3:50PM</td>
-    <td>Afternoon</td>
-    <td></td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td>STEM</td>
-    <td>*MATH</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-MATH</td>
-    <td class="classNumber">301</td>
-    <td class="course-title">Intro to Mathematic Analysis I</td>
-    <td class="number"><a href="" class="course-link">2097</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>MWTh</td>
-    <td>9:00AM</td>
-    <td class="classNumber">11:50AM</td>
-    <td>Morning</td>
-    <td>Kang, Weining</td>
-    <td>You must have completed MATH 142 or MATH 152 in addition to    MATH 221 with a grade of &quot;C&quot; or better before you can take this    course.</td>
-    <td>Has Prerequisite</td>
-    <td>&nbsp;</td>
-    <td>STEM</td>
-    <td>*MATH</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    MATH</td>
+   <td class="classNumber">301</td>
+   <td class="course-title">Intro to Mathematic Analysis I</td>
+   <td class="number"><a href="" class="course-link">2097</a></td>
+   <td>6 Week</td>
+   <td>Session 2</td>  
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>MWTh</td>
+   <td>9:00AM</td>
+   <td class="classNumber">11:50AM</td>
+   <td>Morning</td>
+   <td>Kang, Weining</td>
+   <td>You must have completed MATH 142 or MATH 152 in addition to    MATH 221 with a grade of &quot;C&quot; or better before you can take this    course.</td>
+   <td>Has Prerequisite</td>
+   <td>&nbsp;</td>
+   <td>STEM</td>
+   <td>*MATH</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
   <td class="subject">
 MATH</td>
@@ -6066,77 +5873,53 @@ MUSC</td>
   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
    </tr>
  <tr>
-  <td class="subject">
-MUSC</td>
-    <td class="classNumber">333</td>
-    <td class="course-title">Race and Jazz</td>
-    <td class="number"><a href="" class="course-link">2692</a></td>
-    <td>6 Week</td>
-    <td>Session 1</td>  
-    <td></td>
-    <td></td>
-    <td>Off Campus </td>
-    <td>Online</td>
-    <td>None</td>  
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Belzer, Matthew P.</td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td></td>
-    <td>*MUSC</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    MUSC</td>
+   <td class="classNumber">333</td>
+   <td class="course-title">Race and Jazz</td>
+   <td class="number"><a href="" class="course-link">2692</a></td>
+   <td>6 Week</td>
+   <td>Session 1</td>  
+   <td></td>
+   <td></td>
+   <td>Off Campus </td>
+   <td>Online</td>
+   <td>None</td>  
+   <td></td>
+   <td></td>
+   <td></td>
+   <td>Belzer, Matthew P.</td>
+   <td></td>
+   <td>No Prerequisite</td>
+   <td>&nbsp;</td>
+   <td></td>
+   <td>*MUSC</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
-  <td class="subject">
-MUSC</td>
-    <td class="classNumber">613</td>
-    <td class="course-title">BSO Academy Instrumental</td>
-    <td class="number"><a href="" class="course-link">2389</a></td>
-    <td>6 Week</td>
-    <td>Session 1</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>None</td>  
-  <td>12:00AM</td>
-  <td>12:00AM</td>  
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>&nbsp;</td>
-    <td></td>
-    <td>*MUSC</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-PHED</td>
-    <td class="classNumber">111</td>
-    <td class="course-title">Cardio Fitness</td>
-    <td class="number"><a href="" class="course-link">1094</a></td>
-    <td>6 Week</td>
-    <td>Session 2</td>  
-    <td></td>
-    <td></td>
-    <td>Main Campus</td>
-    <td>In Person</td>
-    <td>TuTh</td>
-    <td>4:00PM</td>
-    <td>8:05PM</td>
-    <td>Evening</td>
-    <td>Lloyd, Erica</td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td>Has GEP</td>
-    <td></td>
-    <td>*PHED</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    PHED</td>
+   <td class="classNumber">111</td>
+   <td class="course-title">Cardio Fitness</td>
+   <td class="number"><a href="" class="course-link">1094</a></td>
+   <td>6 Week</td>
+   <td>Session 2</td>  
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>TuTh</td>
+   <td>4:00PM</td>
+   <td>8:05PM</td>
+   <td>Evening</td>
+   <td>Lloyd, Erica</td>
+   <td></td>
+   <td>No Prerequisite</td>
+   <td>Has GEP</td>
+   <td></td>
+   <td>*PHED</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
   <td class="subject">
 PHED</td>
@@ -7411,78 +7194,54 @@ POLI</td>
   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
    </tr>
  <tr>
-  <td class="subject">
-POLI</td>
-       <td class="classNumber">270</td>
-       <td class="course-title">Culture and Politics</td>
-       <td class="number"><a href="" class="course-link">1938</a></td>
-       <td>4 Week</td>
-       <td>Session 2</td>
-       <td>Culture</td>
-       <td>Social Science (SS)</td>
-       <td>Off Campus </td>
-       <td>Online</td>
-       <td>None</td>        
-        <td>12:00AM</td>
-        <td>12:00AM</td>
-        <td></td>
-
-       <td>Dasgupta, Sunil</td>
-       <td></td>
-       <td>No Prerequisite</td>
-       <td>Has GEP</td>
-       <td></td>
-       <td>*POLI</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    POLI</td>
+   <td class="classNumber">270</td>
+   <td class="course-title">Culture and Politics</td>
+   <td class="number"><a href="" class="course-link">1938</a></td>
+   <td>4 Week</td>
+   <td>Session 2</td>
+   <td>Culture</td>
+   <td>Social Science (SS)</td>
+   <td>Off Campus </td>
+   <td>Online</td>
+   <td>None</td>        
+   <td>12:00AM</td>
+   <td>12:00AM</td>
+   <td></td>
+   
+   <td>Dasgupta, Sunil</td>
+   <td></td>
+   <td>No Prerequisite</td>
+   <td>Has GEP</td>
+   <td></td>
+   <td>*POLI</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
-  <td class="subject">
-POLI</td>
-       <td class="classNumber">309</td>
-       <td class="course-title">Selected Topics In Poli : Transitioning Nations</td>
-       <td class="number"><a href="" class="course-link">2695</a></td>
-       <td>4 Week</td>
-       <td>Session 2</td>        
-       <td></td>
-       <td></td>
-       <td>Off Campus </td>
-       <td>In Person</td>
-       <td>None</td>        
-       <td></td>
-       <td></td>
-       <td></td>
-       <td>Grodsky, Brian</td>
-       <td></td>
-       <td>No Prerequisite</td>
-       <td>&nbsp;</td>
-       <td></td>
-       <td>*POLI</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
- <tr>
-  <td class="subject">
-POLI</td>
-       <td class="classNumber">338</td>
-       <td class="course-title">Women, Gender &amp; Law</td>
-       <td class="number"><a href="" class="course-link">2497</a></td>
-       <td>6 Week</td>
-       <td>Session 2</td>
-       <td>Social Science (SS)</td>
-       <td></td>
-       <td>Main Campus</td>
-       <td>In Person</td>
-       <td>MW</td>
-       <td>4:30PM</td>
-       <td>940PM</td>
-       <td>Evening</td>
-       <td>Kent, Jennifer L.</td>
-       <td></td>
-       <td>No Prerequisite</td>
-       <td>Has GEP</td>
-       <td></td>
-       <td>*POLI</td>
-  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-   </tr>
+   <td class="subject">
+    POLI</td>
+   <td class="classNumber">338</td>
+   <td class="course-title">Women, Gender &amp; Law</td>
+   <td class="number"><a href="" class="course-link">2497</a></td>
+   <td>6 Week</td>
+   <td>Session 2</td>
+   <td>Social Science (SS)</td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>MW</td>
+   <td>4:30PM</td>
+   <td>940PM</td>
+   <td>Evening</td>
+   <td>Kent, Jennifer L.</td>
+   <td></td>
+   <td>No Prerequisite</td>
+   <td>Has GEP</td>
+   <td></td>
+   <td>*POLI</td>
+   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+ </tr>
  <tr>
   <td class="subject">
 POLI</td>

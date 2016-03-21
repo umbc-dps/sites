@@ -16,7 +16,7 @@
 <file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130985472669849840" remote="130985473010000000" Dst="1" />
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130984854394514122" remote="130984855070000000" Dst="1" />
 <file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130985472670179873" remote="130985473010000000" Dst="1" />
-<file name="international.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130996080875131589" remote="130996080970000000" Dst="1" />
+<file name="international.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130996044970000000" remote="130996044970000000" Dst="2" />
 <file name="masters.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130990022693544353" remote="130990022700000000" Dst="1" />
 <file name="nmittal.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130984854395874258" remote="130984855070000000" Dst="1" />
 <file name="orientation.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130984854396034274" remote="130984855070000000" Dst="1" />
@@ -24,6 +24,6 @@
 <file name="programcert.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130985472670969952" remote="130985473020000000" Dst="1" />
 <file name="programmaster.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130984854396794350" remote="130984855060000000" Dst="1" />
 <file name="rsvp.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130984854397174388" remote="130984855060000000" Dst="1" />
-<file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131009890550000000" remote="131009890550000000" Dst="1" />
+<file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131009854550000000" remote="131009854550000000" Dst="2" />
 <file name="vjohnsonjr.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130984854397704441" remote="130984855060000000" Dst="1" />
 </dwsync>

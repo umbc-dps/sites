@@ -164,13 +164,13 @@
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Hasib" id="Hasib"></a>Mansur Hasib, D.Sc., CISSP, PMP, CPMS, NET+, SEC+ | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#Hasib" id="Hasib"></a>Mansur Hasib, D.Sc., CISSP, PMP, CPHIMS, NET+, SEC+ | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
   <p><img align="left" src="images/faculty/umbc-faculty-Mansur-Hasib.jpg">Mansur Hasib is an interdisciplinary information technology and cybersecurity strategist. Bringing over 25 years of experience managing information technology in both public and private sectors into the classroom, Dr. Hasib is currently an Information Technology and Security Consultant through Tomorrow&rsquo;s Strategy Today. Previously, Dr. Hasib served 12 years as Chief Information Officers (CIO) in healthcare, biotechnology and educational industries, including the Baltimore City Health Department and the University System of Maryland, where he developed enterprise information technology and information security governance frameworks for several organizations.</p>
 
-  <p>Dr. Hasib earned his Doctor of Science in Information Assurance from Capitol College, a Master of Arts in Political Science from Emory University and a Bachelor of Arts in Economics from Brandeis University. His industry certifications include CISSP, PMP and CPHIMS.  Dr. Hasib also teaches Enterprise Security Governance: Building the Human Firewall at Carnegie Mellon University. Dr. Hasib is a frequent speaker at local, national, and international conferences and has authored the following two books:</p>
+  <p>Dr. Hasib earned his Doctor of Science in Information Assurance from Capitol College, a Master of Arts in Political Science from Emory University and a Bachelor of Arts in Economics from Brandeis University. His industry certifications include CISSP, PMP and CPHIMS.   Dr. Hasib is a frequent speaker at local, national, and international conferences and has authored the following two books:</p>
 
   <ul>
     <li><em><a href="http://www.amazon.com/Cybersecurity-Leadership-Powering-Modern-Organization/dp/1496199278">Cybersecurity Leadership: Powering the Modern Organization (2014)<br></a></em></li>

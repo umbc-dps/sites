@@ -116,13 +116,16 @@
 </div>
 
 <div class="accordionheader">
-  <h4>Opportunities for high school and middle school students<i class="fa fa-angle-down"></i></h4>
+  <h4>Pre-College Students<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">
   <ul type="disc">
-    <li>Highly       motivated/academically advanced high school student, who want to earn       college credits this summer, can apply for <a href="http://www.umbc.edu/undergraduate/apply/early_enroll.html">early       admission</a> or <a href="http://undergraduate.umbc.edu/apply/early-enrollment.php">concurrent       enrollment</a> through the UMBC Undergraduate Office.</li>
-    <li>UMBC       Summer Enrichment Experience (<a href="http://see.umbc.edu/">SEE</a>) is a       commuter day program that brings the college experience to middle and high       school students through exciting one – and two –week non-credit academic       activities in STEM and the Arts &amp; Humanities.</li>
+    <li>UMBC offers both&nbsp;<strong>credit&nbsp;</strong>and&nbsp;<strong>non-credit</strong>&nbsp;options  for pre-college students.<br>
+    </li>
+    <li>Qualified high school students can get a jump  start on college by enrolling in summer courses at UMBC. Most credits earned  can be applied to degree programs at UMBC or are transferable to other colleges  and universities. High school students must meet&nbsp;<a href="http://www.umbc.edu/undergraduate/apply/early_enroll.html" target="_blank">early  admission</a>&nbsp;requirements to enroll in credit courses at UMBC.<br>
+    </li>
+    <li>Non-credit programs are also available for  middle and high school students through UMBC&rsquo;s&nbsp;<a href="http://see.umbc.edu/" target="_blank">Summer Enrichment Experience (SEE)</a>.&nbsp;  A variety of one or two week programs in science, engineering, technology, arts  and humanities are offered.</li>
   </ul>
  </div>
  <br>

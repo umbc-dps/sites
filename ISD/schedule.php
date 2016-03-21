@@ -75,7 +75,90 @@
   
   <h4>Course Locations</h4>
   <p>In-person courses will be located at the <a href="directions">South Campus location</a>.</p>
+<h3>Schedule of Classes Summer 2016</h3>
+  <p><strong>Registration Begins:</strong>&nbsp;March 21, 2016<br>
+    <strong>Non-Degree Student Registration  Begins:</strong>&nbsp;May 24, 2016<br>
+    <strong>Twelve Week Session Dates:&nbsp;</strong>May 31 – August 19, 2016<br>
+    <strong>Last Day of Schedule Adjustment  Period:</strong>&nbsp; June 3, 2016<br>
+    <strong>Summer 2016 Academic Calendar:</strong>&nbsp;<a href="http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf ">Click Here</a><br> 
+    All courses are in the  twelve week session unless noted.</p>
+<table id="schedule">
+  <TR>
+    <TD width="64">Course   &amp;  
+      Class Number</TD>
+    <TD width="64">Course Title</TD>
+    <TD width="64">Day/Time</TD>
+    <TD width="64">Instructor</TD>
+    <TD width="10%">Room</TD>
+</TR>
+  <tr>
+    <td>EDUC 602    – 02 (1945)</td>
+    <td>Instructional Systems Development    I</td>
+    <td>Online Asynchronous</td>
+    <td>Hodell, C.&nbsp;</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>EDUC 603    – 01 (1052)</td>
+    <td>Instructional Systems Development    II</td>
+    <td>Online Asynchronous&nbsp;</td>
+    <td>Campos, J.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>EDUC 605    – 01 (1053)</td>
+    <td>The Adult Learner</td>
+    <td>Online Asynchronous</td>
+    <td>Hodell, C.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>EDUC 641    – 01 (1054)</td>
+    <td>The Online Classroom</td>
+    <td>Online Asynchronous</td>
+    <td>Berge, Z.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>EDUC 671    – 01 (1055)</td>
+    <td>Principles of Training and    Development</td>
+    <td>In-Person South Campus* Tuesdays 6    – 9:10 p.m.</td>
+    <td>Weinstein, S.</td>
+    <td>U638</td>
+  </tr>
+  <tr>
+    <td>EDUC 681    – 01 (1066)</td>
+    <td>Survey of Instructional Technology    Applications</td>
+    <td>Synchronous Online – Mondays 6 –    9:10 p.m.</td>
+    <td>Kellerman, P.&nbsp;</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>EDUC    689 – 04 (2291)</td>
+    <td>Advance Special Topics in    Education: Portfolio Development &amp; Talent Management</td>
+    <td>Online Asynchronous</td>
+    <td>Williams, G.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>EDUC 792T    – 01 (1056)</td>
+    <td>ISD Internship-Training</td>
+    <td>Online Asynchronous</td>
+    <td>Williams, G.</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>EDUC 794    – 01 (1161)</td>
+    <td>ISD Project Seminar</td>
+    <td>Online Asynchronous</td>
+    <td>Williams, G.</td>
+    <td>n/a</td>
+  </tr>
+</table>
 
+<p>*Course held at UMBC BW Tech South (<strong><a href="directions3">Directions</a></strong>)</p>
+
+<hr>
 
   <h3>Schedule of Classes Spring 2016</h3>
   <p><strong>Advance  Graduate Registration Begins:</strong>&nbsp;November 2, 2015<br>
@@ -196,10 +279,7 @@
   </tr>
 </table>
 
-<br>
-<br>
-<br>
-<br>
+
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions3">Directions</a></strong>)</p>
 
 

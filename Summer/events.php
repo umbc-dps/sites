@@ -74,7 +74,8 @@
 <p>UMBC's <a href="http://my.umbc.edu/groups/seb/events" target="_blank">Student Events Board (seb)</a> hosts regular events on-campus during summer session, as well as various bus trips.</p>
 
 <h4>Retriever Activity Center (RAC)</h4>
-<h5>Winter Semester Hours of Operation</h5><br>
+<h5>Summer Semester Hours of Operation</h5>
+<br>
 
 
   <ul>
