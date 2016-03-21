@@ -68,16 +68,12 @@
       
      <!-- Start Content --> 
      
-<h4> About summer/winter session  tuition and fees</h4>
+
 
 <ul>
-
-<li>
-Summer 2016 tutition rates have not yet been published - please check back in early March.
-</li>
-
-<li>
-Summer 2015 tuition rates and fees can be <a href="http://sbs.umbc.edu/summer-2015-tuition/" target="_blank">viewed here</a>.</li>
+	<li>View Summer 2016 <a href="http://sbs.umbc.edu/summer-2016-tuition/" target="_blank">tuition rates</a>.
+	</li>
+</ul>
 
 <!--
   <li><a href="http://sbs.umbc.edu/winter-2016-tuition/" target="_blank">View 2016 tuition &amp; fees</a>.</li>
@@ -88,7 +84,7 @@ Summer 2015 tuition rates and fees can be <a href="http://sbs.umbc.edu/summer-20
   <li>In addition to the standard tuition and fees, some courses may have additional fees (such as lab or materials fees), which are noted in the <a href="courses">online</a> Schedule of Classes under "Class Attributes."</li>
 -->
 
-</ul>
+
 <h4> Schedule adjustment</h4>
 
 <ul>
@@ -105,23 +101,29 @@ Summer 2015 tuition rates and fees can be <a href="http://sbs.umbc.edu/summer-20
 </ul>
 
 <h4>Refund schedule</h4>
-<ul>
-  <li>Tuition and auxiliary fees are fully refunded through the <a href=
-  "financialdates">first day of the session</a>.
-  </li>
 
-  <li>After the first day of the session, refunds are
-    pro-rated based on the date the course was dropped.</li>
-    
-    <li>View <a href="financialdates">Refund</a> Schedule</li>
-  </ul>
+
+      <ul>
+        <li>Tuition and auxiliary fees are fully refunded through the <a href="http://umbc.edu/summer/financialdates" target="_blank">first day of the session</a>.</li>
+        <li>After the first day of the session, refunds are pro-rated based on the date the course was dropped.</li>
+        <li>View summer 2016 <a href="http://umbc.edu/summer/financialdates" target="_blank">refund schedule</a>.</li>
+      </ul>
+
 
 <h4>Financial Aid</h4>
-<p>Financial aid may be available to Pell Grant eligible UMBC students who are making satisfactory academic progress (SAP). Contact the <a href="http://financialaid.umbc.edu" target="_blank">Office of Financial Aid and Scholarships</a> at 410-455-2387 for more information.</p>
+
+  <ul>
+    <li>Financial aid may be available to Pell Grant eligible UMBC students who are making satisfactory academic progress (SAP).</li>
+    <li><strong>Priority Deadline:</strong> April 15, 2016</li>
+    <li><strong>Final Deadline:</strong> June 24, 2016</li>
+    <li>Contact the Office of Financial Aid and Scholarships for <a href="http://financialaid.umbc.edu/summer-winter-aid/summer-aid-application/" target="_blank">more information</a>.</li>
+  </ul>
+
+<p>&nbsp;</p>
 
      <!-- END Content -->
      
-		</div>
+	  </div>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
