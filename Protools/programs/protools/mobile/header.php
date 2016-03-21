@@ -64,7 +64,7 @@ $(document).ready(function() {
   </head>
 
   <body>
-    <div class="wrap">
+    <div class="wrap"> 
       <a class="top" name="top"></a>
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">

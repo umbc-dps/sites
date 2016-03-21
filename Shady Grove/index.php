@@ -716,23 +716,23 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank"><img src="images/USG_UG_Apply_spring2016.jpg" alt=""/></a>
-<h3 style="line-height:normal; font-size:18pt">Get Priority at UMBC-Shady Grove:  Apply by March 1!</h3>
+<a href="http://www.umbc.edu/shadygrove/student/advisors.php" target="_blank"><img src="images/classroom.png" alt=""/></a>
+<h3 style="line-height:normal; font-size:18pt"><br>
+Fall 2016 Registration Starts Soon!</h3>
 
 
 <div class="boxleft" style="width:60%">
-  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Apply to UMBC-Shady Grove's Undergraduate Programs in History, Political   Science, Psychology and/or Social Work by March 1st to receive priority   consideration for Fall 2016.</h6>
+  <h6 style="font-size:12pt; margin:0px; line-height:16pt">Now's the time to review your degree audit and transfer credit report so you can prepare for your advising meeting! Learn who your advisors are now!</h6>
   </div><!-- end boxleft nested div -->
 
 
 
 	<div class="boxright">
 <div class="button" style="height:auto; line-height:16pt; vertical-align:middle;">
-<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
+<a href="http://www.umbc.edu/shadygrove/student/advisors.php" target="_blank">
 
 
-Apply<br>
-Today!
+Get<br>Advised!
 
 
 </a>
