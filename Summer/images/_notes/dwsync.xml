@@ -4,11 +4,11 @@
 <file name="3.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936040000000" Dst="1" />
 <file name="1.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936040000000" Dst="1" />
 <file name="2.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936040000000" Dst="1" />
-<file name="apple-touch-icon-114x114.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936040000000" Dst="1" />
-<file name="apple-touch-icon-72x72.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936040000000" Dst="1" />
-<file name="apple-touch-icon.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936040000000" Dst="1" />
+<file name="apple-touch-icon-114x114.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989900040000000" Dst="2" />
+<file name="apple-touch-icon-72x72.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989900040000000" Dst="2" />
+<file name="apple-touch-icon.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989900040000000" Dst="2" />
 <file name="facebook.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936040000000" Dst="1" />
-<file name="favicon.ico" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936040000000" Dst="1" />
+<file name="favicon.ico" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989900040000000" Dst="2" />
 <file name="myUMBC.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936050000000" Dst="1" />
 <file name="twitter.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936050000000" Dst="1" />
 <file name="youtube.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130868122200000000" remote="130989936050000000" Dst="1" />
@@ -22,15 +22,15 @@
 <file name="6.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130972706560000000" remote="130989936040000000" Dst="1" />
 <file name="7.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130900879800000000" remote="130989936040000000" Dst="1" />
 <file name="8.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989069460742798" remote="130989936040000000" Dst="1" />
-<file name="8.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989069856432363" remote="130989936040000000" Dst="1" />
+<file name="8.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989069856432363" remote="130989900040000000" Dst="2" />
 <file name="current-310.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130972688460000000" remote="130989936040000000" Dst="1" />
 <file name="food.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130972685980000000" remote="130989936050000000" Dst="1" />
 <file name="incoming-310.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130972689420000000" remote="130989936050000000" Dst="1" />
 <file name="italy.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989848865600212" remote="130989936050000000" Dst="1" />
 <file name="paw-prints-16.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130972666060000000" remote="130989936050000000" Dst="1" />
 <file name="poland.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130989849152408890" remote="130989936050000000" Dst="1" />
-<file name="summer-heading.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130985578639456304" remote="130989936050000000" Dst="1" />
-<file name="survivalguide.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130972684260000000" remote="130989936050000000" Dst="1" />
+<file name="summer-heading.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130985578639456304" remote="130989900050000000" Dst="2" />
+<file name="survivalguide.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130972684260000000" remote="130989900050000000" Dst="2" />
 <file name="visiting-310.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130972687700000000" remote="130989936050000000" Dst="1" />
 <file name="9.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130995213618828682" remote="130995213840000000" Dst="1" />
 <file name="mandela-quote.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131013167011838433" remote="131018461010000000" Dst="1" />
@@ -76,4 +76,5 @@
 <file name="stemlogo.gif" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130135355440000000" remote="131018462750000000" Dst="1" />
 <file name="DPS2016-006_logo_vF-color.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131021951920000000" remote="131021951920000000" Dst="2" />
 <file name="CSJ Web Carousel 2.png" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131022123400000000" remote="131022123400000000" Dst="2" />
+<file name="payment.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131030561390000000" remote="131030561390000000" Dst="2" />
 </dwsync>

@@ -76,8 +76,7 @@
 <div class="carousel-caption wordwrap">
     
 <h3>Start Planning Your Schedule Now!</h3>
-<small>Summer session registration opens 
-March 21. View the schedule of classes. </small>
+<small>Summer session registration is open now! View the schedule of classes. </small>
             
 <p><a href="courses" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
@@ -93,18 +92,18 @@ March 21. View the schedule of classes. </small>
  
  <li id="slide2">
 
-<a href="studyabroad"><img src="images/9.png" alt="Italy" target="_blank"></a>
+<a href="csj.php"><img src="images/CSJ Web Carousel 2.png" alt="Culture & Social Justice" target="_blank"></a>
 
-<div class="carousel-caption wordwrap">
+<!--<div class="carousel-caption-right wordwrap">
     
-<h3>UMBC Summer Study Abroad</h3>
-<small>Study Abroad courses offered to Italy & Poland. Earn credits and expand your horizons. Applications due by March 10.</small>
+<h3>Culture & Social Justice</h3>
+<small></small>
             
-<p><a href="studyabroad" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="csj.php" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
-</div>
+</div>-->
 
-<p id="captiontwo"><a href="studyabroad" target="_blank">UMBC Summer Study Abroad</a></p>
+<p id="captiontwo"><a href="csj.php" target="_blank">Culture & Social Justice</a></p>
           
 </li>
           
@@ -159,18 +158,18 @@ March 21. View the schedule of classes. </small>
 
 <li id="slide4">
 
-<a href="importantdates"><img src="images/6.jpg" alt="img03" target="_blank"></a>
+<a href="http://sbs.umbc.edu/summer-2016-payment-plan/"><img src="images/payment.jpg" alt="img03" target="_blank"></a>
 
-<div class="carousel-caption wordwrap">
+<div class="carousel-caption-right wordwrap">
     
-<h3>Important Dates & Deadlines</h3>
-<small>View important dates &amp; deadlines for Summer Session 2016.</small>
+<h3>Summer 2016 Payment Plan</h3>
+<small>Pay your Summer tuition in three easy payments! Enrollment begins March 25, 2016.</small>
             
-<p><a href="importantdates" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="importantdates" target="_blank">Important Dates & Deadlines</a></p>
+<p id="captiontwo"><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" target="_blank">Summer 2016 Payment Plan</a></p>
           
 </li>
           

@@ -75,11 +75,10 @@
 
 <div class="carousel-caption wordwrap">
     
-<h3>Start Planning Your Schedule Now!</h3>
-<small>Summer session registration opens 
-March 21. View the schedule of classes. </small>
+<h3>Registration Open Now</h3>
+<small>Summer session starts May 31. UMBC students currently enrolled in spring 2016 are now eligible to register.</small>
             
-<p><a href="courses" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="courses" role="button" class="web-seemore" target="_blank">View the Schedule</a></p>
 
 </div>
 
@@ -159,22 +158,22 @@ March 21. View the schedule of classes. </small>
 
 <li id="slide4">
 
-<a href="importantdates"><img src="images/6.jpg" alt="img03" target="_blank"></a>
+<a href="http://sbs.umbc.edu/summer-2016-payment-plan/"><img src="images/payment.jpg" alt="img03" target="_blank"></a>
 
-<div class="carousel-caption wordwrap">
+<div class="carousel-caption-right wordwrap">
     
-<h3>Important Dates & Deadlines</h3>
-<small>View important dates &amp; deadlines for Summer Session 2016.</small>
+<h3>Summer 2016 Payment Plan</h3>
+<small>Pay your Summer tuition in three easy payments! Enrollment begins March 25, 2016.</small>
             
-<p><a href="importantdates" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="importantdates" target="_blank">Important Dates & Deadlines</a></p>
+<p id="captiontwo"><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" target="_blank">Summer 2016 Payment Plan</a></p>
           
 </li>
           
-<!-- END Slide Three -->   
+<!-- END Slide Four -->     
          
           
 </ul>
