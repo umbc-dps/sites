@@ -94,7 +94,7 @@ table#sequence td:first-child { text-align:left }
     <td>Thursday</td>
     <td>4:30 - 7:00 PM</td>
     <td>Hybrid</td>
-    <td>TBD</td>
+    <td>ITE 231</td>
   </tr>
   <tr>
     <td>ENEE 663 (6056)</td>
@@ -102,15 +102,15 @@ table#sequence td:first-child { text-align:left }
     <td>Monday</td>
     <td>4:30 - 7:00 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
+    <td>ITE 231</td>
   </tr>
   <tr>
     <td>ENEE 664 (7686)</td>
-    <td>Advanced Systems Architecture</td>
+    <td>Advanced Systems Architecture </td>
     <td>Tuesday</td>
     <td>4:30 - 7:00 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
+    <td>ITE 239</td>
   </tr>
   <tr>
     <td>ENEE 669 (6066)</td>
@@ -118,7 +118,23 @@ table#sequence td:first-child { text-align:left }
     <td>Wednesday</td>
     <td>4:30 - 7:00 PM</td>
     <td>Hybrid</td>
-    <td>TBD</td>
+    <td>ITE 233</td>
+  </tr>
+  <tr>
+    <td>ENEE 670 (2873)</td>
+    <td>Systems Engineering Project</td>
+    <td>Thursday </td>
+    <td>4:30 - 7:00 PM</td>
+    <td>In Person</td>
+    <td>ITE 229</td>
+  </tr>
+  <tr>
+    <td>ENEE 672 (6880)</td>
+    <td>Decision Analysis</td>
+    <td>Wednesday</td>
+    <td>4:30-7:00 PM</td>
+    <td>In-Person</td>
+    <td>ITE 229</td>
   </tr>
   </table>
   
