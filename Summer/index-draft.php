@@ -75,10 +75,10 @@
 
 <div class="carousel-caption wordwrap">
     
-<h3>Start Planning Your Schedule Now!</h3>
-<small>Summer session registration is open now! View the schedule of classes. </small>
+<h3>Registration Open Now</h3>
+<small>Summer session starts May 31. UMBC students currently enrolled in spring 2016 are now eligible to register.</small>
             
-<p><a href="courses" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="courses" role="button" class="web-seemore" target="_blank">View the Schedule</a></p>
 
 </div>
 
@@ -87,7 +87,7 @@
 </li>
 
           
-<!-- END Slide Two -->
+<!-- END Slide One -->
  
  
  <li id="slide2">
@@ -107,34 +107,34 @@
           
 </li>
           
-<!-- END Slide Two --> 
- 
+<!-- END Slide Two -->
 
-<!-- Slide Two (Featured Course) --
-
-<li id="slide2">
-
-<a href="guide" target="_blank"><img src="images/survivalguide.jpg" alt="img03"></a>
-
-<div class="carousel-caption wordwrap">
-
-<h3>Summer Survival Guide</h3>
-<small>The UMBC Summer Survival Guide is your go-to source for insider UMBC information from UMBC students you won’t find anywhere else about the best food, study spots, and more during Summer Session.</small>
-            
-<p><a href="guide" role="button" class="web-seemore" target="_blank">Learn More</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="guide" target="_blank">Summer Survival Guide</a></p>
-          
-</li>
-          
-<!-- END Slide Two -->  
 
 <!-- Slide Three (Featured Course) -->
 
-
 <li id="slide3">
+
+<a href="http://gritgoing.umbc.edu/?p=647" target="_blank"><img src="images/featured/ENGL271.jpg"></a>
+
+<div class="carousel-caption wordwrap">
+
+<h3>Featured Course: Scriptwriting</h3>
+<small>Write the next blockbuster film this summer with ENGL 272!</small>
+            
+<p><a href="http://gritgoing.umbc.edu/?p=647" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=647" target="_blank">Featured Course: Scriptwriting</a></p>
+          
+</li>
+          
+<!-- END Slide Three -->   
+
+
+<!-- Slide Four -->
+
+<li id="slide4">
 
 <a href="https://apps.my.umbc.edu/pathways/" target="_blank"><img src="images/8.png" alt="img03"></a>
 
@@ -151,12 +151,12 @@
           
 </li>
           
-<!-- END Slide Three -->        
+<!-- END Slide Four -->        
         
         
-<!-- Slide Four -->
+<!-- Slide Five -->
 
-<li id="slide4">
+<li id="slide5">
 
 <a href="http://sbs.umbc.edu/summer-2016-payment-plan/"><img src="images/payment.jpg" alt="img03" target="_blank"></a>
 
@@ -173,7 +173,51 @@
           
 </li>
           
-<!-- END Slide Three -->   
+<!-- END Slide Five -->
+
+
+<!-- Slide Five (Featured Course) -->
+
+<li id="slide5">
+
+<a href="#" target="_blank"><img src="images/featured/ENTR340.jpg"></a>
+
+<div class="carousel-caption wordwrap">
+
+<h3>Featured Course: Socialpreneur</h3>
+<small>Help solve real issues for a local organization that needs your problem solving skills this summer with Gib Mason! </small>
+            
+<p><a href="#" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="#" target="_blank">Featured Course: Socialpreneur</a></p>
+          
+</li>
+          
+<!-- END Slide Five -->       
+
+
+<!-- Slide Seven (Featured Course) -->
+
+<li id="slide7">
+
+<a href="#" target="_blank"><img src="images/featured/ANCS201.jpg"></a>
+
+<div class="carousel-caption wordwrap">
+
+<h3>Featured Course: Ancient Greeks</h3>
+<small>Explore the Aegean Bronze Age and learn, Alexander the Great, and learn about Greek Mythology!</small>
+            
+<p><a href="#" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="#" target="_blank">Featured Course: Ancient Greeks</a></p>
+          
+</li>
+          
+<!-- END Slide Seven -->   
          
           
 </ul>
