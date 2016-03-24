@@ -103,7 +103,7 @@ table#sequence td:first-child { text-align:left }
   12 weeks</td>
   <td>6:00 - 9:10 PM</td>
   <td>Hybrid</td>
-  <td>ITE 227</td>
+  <td>PAHB 132</td>
  </tr>
  <tr>
   <td>ENMG 652 (1043) </td>
@@ -113,7 +113,7 @@ table#sequence td:first-child { text-align:left }
   12 weeks </td>
   <td>4:30 PM - 7:40 PM</td>
   <td>Hybrid</td>
-  <td>ITE 227</td>
+  <td>ITE 233</td>
  </tr>
  <tr>
   <td>ENMG 652 (2699)</td>
@@ -123,7 +123,7 @@ table#sequence td:first-child { text-align:left }
   12 weeks</td>
   <td>9:00AM - 12:10PM</td>
   <td>In Person</td>
-  <td>ITE 227</td>
+  <td>ITE 233</td>
  </tr>
  <tr>
   <td>ENMG 658 (1484) </td>
@@ -132,7 +132,7 @@ table#sequence td:first-child { text-align:left }
   12 weeks</td>
   <td>6:00 PM - 9:10 PM</td>
   <td>In Person</td>
-  <td>ITE 227</td>
+  <td>ITE 233</td>
    </tr>
    </table>
 
