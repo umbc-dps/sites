@@ -28,7 +28,7 @@
 <file name="leftnav_shared.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130365124080000000" remote="130365160080000000" Dst="1" />
 <file name="leftnav_sowk.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130796383611143067" remote="130796419650000000" Dst="1" />
 <file name="leftnav_undergrad.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130365124090000000" remote="130365160090000000" Dst="1" />
-<file name="pat.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130851762885339808" remote="130851798900000000" Dst="1" />
+<file name="pat.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131033018875993837" remote="131033018870000000" Dst="2" />
 <file name="requirements.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130736635730000000" remote="130736671730000000" Dst="1" />
 <file name="rivera_bio.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130703862900000000" remote="130703898900000000" Dst="1" />
 <file name="timeline.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130747924880000000" remote="130747960880000000" Dst="1" />
@@ -55,4 +55,7 @@
 <file name="manugh_bio.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130703859630000000" remote="130703895630000000" Dst="1" />
 <file name="sorto_bio.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130704750510000000" remote="130704786510000000" Dst="1" />
 <file name="minorrequirements.shtml" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130736691650000000" remote="130736727650000000" Dst="1" />
+<file name="pat-draft.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131033011680369902" remote="131033011680000000" Dst="2" />
+<file name="pat-bios.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131033015195523743" remote="131033015190000000" Dst="2" />
+<file name="pat-list.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131033021065255488" remote="131033021060000000" Dst="2" />
 </dwsync>
