@@ -67,7 +67,7 @@
         
  
  
- <!-- Slide One  -->
+<!-- Slide One  -->
 
 <li id="slide1">
 
@@ -87,7 +87,7 @@
 </li>
 
           
-<!-- END Slide Two -->
+<!-- END Slide One -->
  
  
  <li id="slide2">
@@ -107,34 +107,35 @@
           
 </li>
           
-<!-- END Slide Two --> 
- 
+<!-- END Slide Two -->
 
-<!-- Slide Two (Featured Course) --
-
-<li id="slide2">
-
-<a href="guide" target="_blank"><img src="images/survivalguide.jpg" alt="img03"></a>
-
-<div class="carousel-caption wordwrap">
-
-<h3>Summer Survival Guide</h3>
-<small>The UMBC Summer Survival Guide is your go-to source for insider UMBC information from UMBC students you won’t find anywhere else about the best food, study spots, and more during Summer Session.</small>
-            
-<p><a href="guide" role="button" class="web-seemore" target="_blank">Learn More</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="guide" target="_blank">Summer Survival Guide</a></p>
-          
-</li>
-          
-<!-- END Slide Two -->  
 
 <!-- Slide Three (Featured Course) -->
 
-
 <li id="slide3">
+
+<a href="http://gritgoing.umbc.edu/?p=647" target="_blank"><img src="images/featured/ENGL271.jpg"></a>
+
+<div class="carousel-caption wordwrap">
+
+<h3>Featured Course: Scriptwriting 
+(ENGL 272)</h3>
+<small>Craft your own screenplay.</small>
+            
+<p><a href="http://gritgoing.umbc.edu/?p=647" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=647" target="_blank">Featured Course: Scriptwriting</a></p>
+          
+</li>
+          
+<!-- END Slide Three -->   
+
+
+<!-- Slide Four -->
+
+<li id="slide4">
 
 <a href="https://apps.my.umbc.edu/pathways/" target="_blank"><img src="images/8.png" alt="img03"></a>
 
@@ -151,12 +152,12 @@
           
 </li>
           
-<!-- END Slide Three -->        
+<!-- END Slide Four -->        
         
         
-<!-- Slide Four -->
+<!-- Slide Five -->
 
-<li id="slide4">
+<li id="slide5">
 
 <a href="http://sbs.umbc.edu/summer-2016-payment-plan/"><img src="images/payment.jpg" alt="img03" target="_blank"></a>
 
@@ -173,7 +174,7 @@
           
 </li>
           
-<!-- END Slide Four -->     
+<!-- END Slide Five -->  
          
           
 </ul>

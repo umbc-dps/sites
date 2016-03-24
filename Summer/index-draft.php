@@ -118,8 +118,8 @@
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Scriptwriting</h3>
-<small>Write the next blockbuster film this summer with ENGL 272!</small>
+<h3>Featured Course: Scriptwriting (ENGL 272)</h3>
+<small>Craft your own screenplay.</small>
             
 <p><a href="http://gritgoing.umbc.edu/?p=647" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
@@ -184,8 +184,8 @@
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Socialpreneur</h3>
-<small>Help solve real issues for a local organization that needs your problem solving skills this summer with Gib Mason! </small>
+<h3>Featured Course: Socialpreneur (ENTRE 340)</h3>
+<small>Develop solutions to real-world problems.</small>
             
 <p><a href="#" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
@@ -206,8 +206,8 @@
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Ancient Greeks</h3>
-<small>Explore the Aegean Bronze Age and learn, Alexander the Great, and learn about Greek Mythology!</small>
+<h3>Featured Course: Ancient Greeks (ANCS 201)</h3>
+<small>Explore Greek mythology and the world of Alexander the Great.</small>
             
 <p><a href="#" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
