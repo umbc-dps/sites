@@ -716,27 +716,31 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://www.umbc.edu/shadygrove/student/advisors.php" target="_blank"><img src="images/classroom.png" alt=""/></a>
-<h3 style="line-height:normal; font-size:18pt"><br>
-Fall 2016 Registration Starts Soon!</h3>
+<a href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_blank"><img src="images/UMBC_ShadyGrove_VirtualInfoSession.jpg" alt=""/></a>
+<h3 style="line-height:normal; font-size:18pt">
+Professional Graduate Info Session</h3>
 
 
 <div class="boxleft" style="width:60%">
-  <h6 style="font-size:12pt; margin:0px; line-height:16pt">Now's the time to review your degree audit and transfer credit report so you can prepare for your advising meeting! Learn who your advisors are now!</h6>
+  <h6 style="font-size:12pt; margin:0px; line-height:16pt">Come join our Program Directors for an Information Session to learn about UMBC's Graduate Programs in Cybersecurity and Geographic Information Systems on Wednesday, March 30 at 6 PM. </h6>
   </div><!-- end boxleft nested div -->
 
 
 
 	<div class="boxright">
+<a href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_blank" style="text-decoration:none">
 <div class="button" style="height:auto; line-height:16pt; vertical-align:middle;">
-<a href="http://www.umbc.edu/shadygrove/student/advisors.php" target="_blank">
 
 
-Get<br>Advised!
+<br>
+
+RSVP
+<br>
+
+<br>
 
 
-</a>
-</div>
+</div></a>
 
   	</div>
 
