@@ -3776,30 +3776,6 @@ ENME</td>
  </tr>
  <tr>
    <td class="subject">
-    ENME</td>
-   <td class="classNumber">502</td>
-   <td class="course-title">Intro to Engineering Design</td>
-   <td class="number"><a href="" class="course-link">1556</a></td>
-   <td>6 Week</td>
-   <td>Session 2</td>  
-   <td></td>
-   <td></td>
-   <td>Main Campus</td>
-   <td>In Person</td>
-   <td>None</td>  
-   <td>12:00AM</td>
-   <td>12:00AM</td>  
-   <td></td>
-   <td></td>
-   <td></td>
-   <td>No Prerequisite</td>
-   <td>&nbsp;</td>
-   <td>STEM</td>
-   <td>*ENME</td>
-   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
- </tr>
- <tr>
-   <td class="subject">
     ENMG</td>
    <td class="classNumber">650</td>
    <td class="course-title">Proj. Man. Fundamentals</td>
@@ -4622,6 +4598,30 @@ HIST</td>
  <tr>
   <td class="subject">
 IS</td>
+    <td class="classNumber">101</td>
+    <td class="course-title">Intro To Comp Based Sys</td>
+    <td class="number"><a href="" class="course-link">2731</a></td>
+    <td>6 Week</td>
+    <td>Session 2</td>  
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>TuTh</td>
+    <td>9:00AM</td>
+    <td>12:10PM</td>
+    <td>Morning</td>
+    <td>Smith, Dana H</td>
+    <td></td>
+    <td>No Prerequisite</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
+  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+   </tr>
+    <tr>
+  <td class="subject">
+IS</td>
     <td class="classNumber">147</td>
     <td class="course-title">Intro Comp Programming</td>
     <td class="number"><a href="" class="course-link">2693</a></td>
@@ -4780,9 +4780,56 @@ IS</td>
     <td>12:10PM</td>
     <td>Morning</td>
     <td>Redding, Tate O</td>
-    <td>You must complete IS125 or IS147, or    CMSC104orCMSC201and<br>
-      eitherMATH151orMATH155 all with a C or better</td>
+    <td>You must complete IS125 or IS147, or CMSC104 or CMSC201 and either MATH151 or MATH155 all with a C or better.</td>
     <td>Has Prerequisite</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
+  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+   </tr>
+  <tr>
+  <td class="subject">
+IS</td>
+    <td class="classNumber">325</td>
+    <td class="course-title">Intro To Management Sci</td>
+    <td class="number"><a href="" class="course-link">2724</a></td>
+    <td>6 Week</td>
+    <td>Session 1</td>  
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>MW</td>
+    <td>1:00PM</td>
+    <td>4:10PM</td>
+    <td>Afternoon</td>
+    <td>Martens, Jeffrey</td>
+    <td>You must have completed IS 300 and either MATH 151 or MATH 155 with a grade of C or better.</td>
+    <td>Has Prerequisite</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
+  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+   </tr>
+     <tr>
+  <td class="subject">
+IS</td>
+    <td class="classNumber">410</td>
+    <td class="course-title">Intro To Database Design</td>
+    <td class="number"><a href="" class="course-link">2747</a></td>
+    <td>6 Week</td>
+    <td>Session 2</td>  
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>MW</td>
+    <td>6:10PM</td>
+    <td>9:10PM</td>
+    <td>Evening</td>
+    <td>Fayyaz, Kamran</td>
+    <td></td>
+    <td>No Prerequisite</td>
     <td>&nbsp;</td>
     <td>STEM</td>
     <td>*IS</td>
@@ -4807,6 +4854,30 @@ IS</td>
     <td>Martens, Jeffrey</td>
     <td>You must complete MATH215 or MATH221 with a C or better.</td>
     <td>Has Prerequisite</td>
+    <td>&nbsp;</td>
+    <td>STEM</td>
+    <td>*IS</td>
+  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+   </tr>
+     <tr>
+  <td class="subject">
+IS</td>
+    <td class="classNumber">451</td>
+    <td class="course-title">Network Design & Mgmt</td>
+    <td class="number"><a href="" class="course-link">2745</a></td>
+    <td>4 Week</td>
+    <td>Session 2</td>  
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>TuWTh</td>
+    <td>6:00PM</td>
+    <td>9:10PM</td>
+    <td>Evening</td>
+    <td>Fiedelholtz, Glenn Barry</td>
+    <td>You must have completed IS 450 with a grade of C or better.</td>
+    <td>Has Prerequsite</td>
     <td>&nbsp;</td>
     <td>STEM</td>
     <td>*IS</td>
@@ -8032,6 +8103,30 @@ PSYC</td>
        <td>4:10PM</td>
        <td>Afternoon</td>
        <td>Borrero, John C</td>
+       <td>You must have completed PSYC 100 and one other PSYC course both with a C or better.</td>
+       <td>Has Prerequisite</td>
+       <td>&nbsp;</td>
+       <td></td>
+       <td>*PSYC</td>
+  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+   </tr>
+    <tr>
+  <td class="subject">
+PSYC</td>
+       <td class="classNumber">393</td>
+       <td class="course-title">Special Topics In Psych : Groupwork</td>
+       <td class="number"><a href="" class="course-link">2725</a></td>
+       <td>6 Week</td>
+       <td>Session 1</td>        
+       <td></td>
+       <td></td>
+       <td>Shady Grove</td>
+       <td>Hybrid</td>
+       <td>W</td>
+       <td>10:00AM</td>
+       <td>1:10PM</td>
+       <td>Morning</td>
+       <td>Alonso, Diane L</td>
        <td>You must have completed PSYC 100 and one other PSYC course both with a C or better.</td>
        <td>Has Prerequisite</td>
        <td>&nbsp;</td>
