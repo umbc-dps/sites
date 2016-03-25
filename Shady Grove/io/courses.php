@@ -275,6 +275,18 @@ the development of performance management and employee selection system. </p>
 <p><strong>Prerequisite:</strong>  EDUC 602 and consent of ISD department.</p>
 </div>
 
+
+<div class="accordionheader">
+  <h4><a href="#advanced-statistics" id="advanced-statistics"></a>Advanced Statistics<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p> This course is designed to provide knowledge base of higher-level statistics in research and practice.  The course assumes that the learner has a solid knowledge base of the theory behind and SPSS application of basic inferential statistics. The procedures covered will provide the student with a portfolio of references and examples to guide them through future analytic questions in the applied setting. </p>
+
+<p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in IO Psychology course. </p>
+  </div>
+
+
 <div class="accordionheader" style="background-color:#E0C586">
   <h4>Capstone Course (3 credit hours)</h4>
 </div>
@@ -289,6 +301,9 @@ the development of performance management and employee selection system. </p>
 
 <p><strong>Prerequisite:</strong>  Consent of instructor. </p>
 </div>
+
+
+
 
         <br>
         <!-- END Content -->

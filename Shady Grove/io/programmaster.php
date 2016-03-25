@@ -98,6 +98,7 @@
    <li><a href="courses#human-factors" target="_blank">Human Factors</a></li>
    <li><a href="courses#ISD1" target="_blank">EDUC 602: Instructional Systems Design</a></li>
    <li><a href="courses#principles-in-training-and-development" target="_blank">EDUC 671: Principles in Training and Development</a></li>
+   <li><a href="courses#advanced-statistics" target="_blank">Advanced Statistics</a></li>
   <li>Other relevant graduate course(s) approved by  the I/O Psychology Graduate Program Director</li>
 </ul>
 
