@@ -276,7 +276,8 @@ $( '.no-prereq' ).live( 'click', function() {
 $('a.category').not('a.last').after( ' | ' );
 $('a.category-stem').not('a.last').after( ' | ' );
 
-    var hash = window.location.hash.substring(1);
+/* Creates Hash Functionality */
+    var hash = window.location.hash.substring(1).replace('%20',' ');
 	$( document ).ready(function() {
         $("#search").val(hash);
 		$("#search").trigger(e);
@@ -299,7 +300,8 @@ $('a.category-stem').not('a.last').after( ' | ' );
 			$("#search").val('Has GEP');
 			$("#search").trigger(e);
 	}});
-	
+
+/* Creates Special STEM page.*/
 	$( document ).ready(function() {
         if (hash == 'STEM') {
 			$('td:nth-child(5)').show();
