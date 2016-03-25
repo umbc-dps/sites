@@ -87,15 +87,15 @@
 
 <li id="slide2">
 
-<a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/"><img alt="img01" src="images/cybersecurity.jpg"></a>
+<a href="http://publicpolicy.umbc.edu/forums/" target="_blank"><img alt="img01" src="images/forum.jpg"></a>
 
 <div class="carousel-caption wordwrap">
-<h3>UMBC's Rick Forno on the BBC</h3>
-<small>Forno, director of the UMBC graduate program in cybersecurity, comments on the Deptartment of Justice's order for Apple to unlock an iPhone that may contain information about the San Bernardino shooting.</small>
+<h3>Public Policy Forum: Cybersecurity Concerns</h3>
+<small>Join researchers and practitioners on Friday, April 15, for a discussion of cybersecurity initiatives in local governments in Maryland, and the public policy implications of these initiatives.</small>
 
-<p><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/" role="button" class="web-seemore">Read more</a></p></div>
+<p><a href="http://publicpolicy.umbc.edu/forums/" role="button" class="web-seemore">Read more</a></p></div>
 
-<p id="captionthree"><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/" class="web-seemore">UMBC's Rick Forno on the BBC</a></p>
+<p id="captionthree"><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/" target="_blank">Public Policy Forum: Cybersecurity Concerns</a></p>
 
 </li>
 
