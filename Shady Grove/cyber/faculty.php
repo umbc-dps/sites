@@ -105,19 +105,6 @@
 
 
 <div class="accordionheader">
-  <h4>William Pickard | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p><img src="images/faculty/umbc-faculty-William-Pickard.png" align="left">William Pickard has been teaching with UMBC since 2012. As a Principal at Booz Allen Hamilton, Inc., Mr. Pickard&rsquo;s current business focus is providing Cyber expertise to the Department of Defense (DOD) His primary clients are the United States Cyber Command (USCC), the Navy&rsquo;s U.S. Fleet Cyber Command/U.S. Tenth Fleet which includes Marine Forces Cyber Command (MARFORCYBER), and the Army&rsquo;s ARCYBER/2nd Army.  Previously, he was a Special Technical Operations Planner in support of the Joint Task Force for Computer Network Defense (JTF-CND) at the Defense Information Systems Agency (DISA) and assigned to the Information Operations Technology Center (IOTC) at Fort Meade. Mr. Pickard also has over 22 years of operational experience in the United States Army.</p>
-
-  <p>Mr. Pickard holds a Master of Science in Information and Telecommunications Systems from Johns Hopkins University and a Bachelor of Arts in International Politics from The Pennsylvania State University. He has taught at Loyola College and conducted training seminars with NSA and Booz Allen.</p>
-
-  <p>You can view Mr. Pickard&rsquo;s public LinkedIn Profile <a href="http://www.linkedin.com/pub/bill-pickard/1/62/677" target="_blank">here</a>.</p>
-</div>
-
-
-<div class="accordionheader">
   <h4>Robert R. Romano, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
