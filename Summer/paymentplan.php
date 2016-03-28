@@ -2,4 +2,4 @@
 <head>
 <title>Payment Plan | Summer Programs at UMBC</title>
 
-<META http-equiv="refresh" content="1;URL=http://sbs.umbc.edu/summer-2015-payment-plan/">
+<META http-equiv="refresh" content="1;URL=http://sbs.umbc.edu/summer-2016-payment-plan/">

@@ -55,7 +55,7 @@
 <file name="mobileregistration.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918610000000" remote="130988918610000000" Dst="1" />
 <file name="onlinecourses-1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918620000000" remote="130988918620000000" Dst="1" />
 <file name="onlinecourses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918620000000" remote="130988918620000000" Dst="1" />
-<file name="paymentplan.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130785896570000000" remote="130785896570000000" Dst="1" />
+<file name="paymentplan.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131036500125461462" remote="131036500140000000" Dst="2" />
 <file name="precollege.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918620000000" remote="130988918620000000" Dst="1" />
 <file name="prerequisitecourses-1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918620000000" remote="130988918620000000" Dst="1" />
 <file name="prerequisitecourses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918620000000" remote="130988918620000000" Dst="1" />
@@ -72,4 +72,5 @@
 <file name="welcome.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="130988918660000000" remote="130988918660000000" Dst="1" />
 <file name="visitingstudents.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131021037370000000" remote="131021037370000000" Dst="2" />
 <file name="index-draft.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131032974209537652" remote="131032974220000000" Dst="2" />
+<file name="tuition-chart.php" server="gl.umbc.edu//afs/umbc.edu/public/www/summer/" local="131034092708490686" remote="131034092740000000" Dst="2" />
 </dwsync>
