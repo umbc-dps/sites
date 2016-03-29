@@ -9,15 +9,6 @@ Tuesday, April 26, 5:30 - 8:00PM<br>
       <a class="btn" href="http://www.umbc.edu/openhouse/" target="_blank">RSVP</a>
 	</p>
 
-
-<hr>
-      
-      <p style="font-style:italic; text-align:center; margin-top:-15px;">
-      <strong>Drop in and chat with the Program Director on 
-		3/24 from 7:15-8:15.</strong><br />
-Email <a href="mailto:kedmonds@umbc.edu?subject=3/24 Engineering Management Drop-In Session&body=Please, sign me up to attend the Engineering Management drop-in session." target="_blank" onMouseDown="ga('send', 'event', 'lead', 'submit', '3-24-dropin-session');">kedmonds@umbc.edu</a> to sign up!</a></p> 
-
-
     </aside>
 
 
