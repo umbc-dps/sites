@@ -6,7 +6,7 @@
 <file name="certificate.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131013269540335925" remote="131013270340000000" Dst="1" />
 <file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854360880759" remote="130984855380000000" Dst="1" />
 <file name="costs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854361070778" remote="130984855380000000" Dst="1" />
-<file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130985473674600305" remote="130985473810000000" Dst="1" />
+<file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131037490394637477" remote="131037490410000000" Dst="2" />
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854361550826" remote="130984855370000000" Dst="1" />
 <file name="directions2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854361700841" remote="130984855370000000" Dst="1" />
 <file name="directions3.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854362120883" remote="130984855370000000" Dst="1" />
@@ -15,10 +15,10 @@
 <file name="infosession.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854362920963" remote="130984855370000000" Dst="1" />
 <file name="international.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131013269540945986" remote="131013270350000000" Dst="1" />
 <file name="locations.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854363230994" remote="130984855370000000" Dst="1" />
-<file name="masters.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131013269541146006" remote="131013270350000000" Dst="1" />
+<file name="masters.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131037493272865271" remote="131037493290000000" Dst="2" />
 <file name="pmstudents.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854363661037" remote="130984855360000000" Dst="1" />
 <file name="programcert.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854363811052" remote="130984855360000000" Dst="1" />
-<file name="programmaster.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854364141085" remote="130984855360000000" Dst="1" />
+<file name="programmaster.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131037491623500351" remote="131037491640000000" Dst="2" />
 <file name="resources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854364331104" remote="130984855360000000" Dst="1" />
 <file name="rsvp.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130984854364501121" remote="130984855360000000" Dst="1" />
 <file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131033025713096455" remote="131033025710000000" Dst="2" />

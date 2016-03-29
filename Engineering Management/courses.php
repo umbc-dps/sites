@@ -277,7 +277,7 @@
             <p>This is the   capstone experience for graduate students in the M.P.S. Cybersecurity program.   The Cybersecurity Project provides an opportunity for students to carry out an   individual piece of research on a specified topic in the cybersecurity or cyber   operations domain. This research should make an original contribution to the   body of knowledge in the area of study or otherwise demonstrate the student&rsquo;s   comprehensive knowledge of cybersecurity or cyber operations.</p>
  <p><strong>Prerequisite:</strong> Completion of   cybersecurity breadth courses.</p>
  </div>		  <div class="accordionheader subject">
-            <h4><a href="#bi" id="bi"></a>Engineering &amp; IT Courses: Chemical &amp; Biochemical Engineering</h4>
+            <h4><a href="#bi" id="bi"></a>Engineering, Computer Science &amp; IT Courses: Chemical &amp; Biochemical Engineering</h4>
           </div>
           <div></div>
 
@@ -318,7 +318,7 @@
  <p>Presents an in-depth discussion of the engineering design of a biotech facility under GMP compliance. Topics covered include bulk plant design, process equipment design, utilities, instrumentation, controls and computerization, facility and software validation.</p>
  <p>*A student who completes the chemical/biochemical regulatory engineering concentration will earn the post-baccalaureate certificate in that area. The individual departments offering these courses may be consulted for further information.</p>
  </div>		  <div class="accordionheader subject">
-            <h4><a href="#ch" id="ch"></a>Engineering &amp; IT Courses: Chemical Engineering</h4>
+            <h4><a href="#ch" id="ch"></a>Engineering, Computer Science &amp; IT Courses: Chemical Engineering</h4>
           </div>
           <div></div>
           
@@ -358,7 +358,7 @@
           <div class="accordionbody">
  <p>Introduction to biochemical and microbiological applications for commercial and engineering processes, including industrial fermentation, enzymology, ultrafiltration, food and pharmaceutical processing and resulting waste treatment. Enzyme kinetics, cell growth, energetics and mass transfer.<strong> Prerequisite:</strong> ENCH 427 and ENCH 440.</p>
 </div>		  <div class="accordionheader subject">
-            <h4><a href="#ce" id="ce"></a>Engineering &amp; IT Courses: Computer Engineering</h4>
+            <h4><a href="#ce" id="ce"></a>Engineering, Computer Science &amp; IT Courses: Computer Engineering</h4>
           </div>
           <div></div>
           
@@ -416,7 +416,7 @@
           <div class="accordionbody">
  <p> Introduction to wireless communication systems, the cellular concept, mobile radio propagation, large-scale path loss and small-scale fading, multi-path modulation techniques, equalization, diversity, compression, multi-access techniques, wireless networking and wireless systems and standards.<strong> Prerequisite:</strong> Consent of instructor. </p>
 </div>		  <div class="accordionheader subject">
-            <h4><a href="#cs" id="cs"></a>Engineering &amp; IT Courses: Computer Science</h4>
+            <h4><a href="#cs" id="cs"></a>Engineering, Computer Science &amp; IT Courses: Computer Science</h4>
           </div>
           <div></div>
 
@@ -491,7 +491,7 @@
           <div class="accordionbody">
  <p>In-depth coverage of fundamental and advanced concepts in computer networking: protocol design, verification and testing; medium access protocols for next-generation networks; error detection and correction schemes; distributed routing algorithms concepts and mathematical analysis; switching architectures, quality-of-service architectures; admission control and scheduling algorithms; flow and congestion control; multi-cast architectures and protocols; network security; and data compression. <strong>Prerequisite:</strong> CMSC 481 or approval of instructor.</p>
 </div>		  <div class="accordionheader subject">
-            <h4><a href="#cy" id="cy"></a>Engineering &amp; IT Courses: Cybersecurity <i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#cy" id="cy"></a>Engineering, Computer Science &amp; IT Courses: Cybersecurity <i class="fa fa-angle-down"></i></h4>
           </div>
           
           <div class="accordionbody">
@@ -637,7 +637,7 @@
           <div class="accordionbody">
  <p>This course will cover the core aspects of the incident response, the legal issues of computer forensics, file system analysis, network-based artifact examination and malware examinations. The course objective is to provide the student with the essential knowledge required to complete a computer forensic exam or incident report in the field.</p>
 </div>		  <div class="accordionheader subject">
-            <h4><a href="#ee" id="ee"></a>Engineering &amp; IT Courses: Electrical Engineering</h4>
+            <h4><a href="#ee" id="ee"></a>Engineering, Computer Science &amp; IT Courses: Electrical Engineering</h4>
           </div><div></div>
 
 
@@ -712,7 +712,7 @@
           <div class="accordionbody">
  <p>Introduction to basic theory of lasers: introduction to quantum mechanics and timedependent perturbation theory, interaction of radiation and matter, stimulated and spontaneous emissions, rate equations, laser amplification and oscillation, noise in lasers and laser amplifiers, semi-conductor lasers. <strong>Prerequisite:</strong> ENEE 680 or consent of instructor.</p>
 </div>		  <div class="accordionheader subject">
-            <h4><a href="#en" id="en"></a>Engineering &amp; IT Courses: Environmental Engineering</h4>
+            <h4><a href="#en" id="en"></a>Engineering, Computer Science &amp; IT Courses: Environmental Engineering</h4>
           </div>
           <div>
           </div>
@@ -746,7 +746,7 @@
  <p>The purpose of this course is to provide students with the fundamental and design aspects of biological processes. The course focuses on engineered biological treatment for both municipal wastewater systems and contaminated soils and sediments. An understanding of biological treatment operations requires knowledge in the fundamental areas of biochemistry, mass transport, microbiology, reaction kinetics and reactor engineering.</p>
  <p>One ENCE elective approved by Civil Engineering Department Chair</p>
 </div>		  <div class="accordionheader subject">
-            <h4><a href="#hc" id="hc"></a>Engineering &amp; IT Courses: Human Centered Computing</h4>
+            <h4><a href="#hc" id="hc"></a>Engineering, Computer Science &amp; IT Courses: Human Centered Computing</h4>
           </div><div></div>
 
 
@@ -839,7 +839,7 @@
           <div class="accordionbody">
  <p>This course addresses the impact of information systems on individuals, groups, organizations, and societies. Topics will include studying the effects of information systems on phenomena such as human-centered computing, learning, development, cognition, personality, social interactions, problem solving, task performance, organizational effectiveness, consumer behavior, process control, and decision making. The information systems under investigation and analysis will encompass the full range of interrelated components from graphical user interfaces to global enterprise systems, as those factors relate to a system’s use and consequence. The course is structured as a reading and writing seminar having the objective of teaching students the process of developing a publishable article and making a professional presentation of their work. Content mastery is to be understood as a by-product of developing general problem-solving and scholarship skills. </p>
 </div>		  <div class="accordionheader subject">
-            <h4><a href="#is" id="is"></a>Engineering &amp; IT Courses: Information Systems</h4>
+            <h4><a href="#is" id="is"></a>Engineering, Computer Science &amp; IT Courses: Information Systems</h4>
           </div><div></div>
 
           <div class="accordionheader">
@@ -953,14 +953,6 @@
  <p>Social interaction via the Internet is becoming increasingly important. People are gathering in online communities of interest and communities of practice to discuss health, hobbies, games, education, politics and professional issues. In this class, students will analyze the technology and social support needed to make these social interactions successful. They also will discuss and debate current research in this field and either develop an online community or carry out a small research project.</p>
 </div>
 
- <div class="accordionheader">
-            <h4><a name="IS731" id="IS731"></a>IS 731: Electronic Commerce [3]<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
- <p>This course will analyze how organizations are using electronic commerce to streamline operations, reach customers and increase profitability. The technologies involved in electronic commerce will be examined. The organizational, behavioral, social, legal, security and international aspects of e-commerce will be discussed. The primary emphasis will be on Web-based technologies and issues. This course will reflect the most current research and applications.</p>
-</div>
 
  <div class="accordionheader">
             <h4><a name="IS765" id="IS765"></a>IS 765: Project Management [3]<i class="fa fa-angle-down"></i></h4>
@@ -972,7 +964,7 @@
 </div>
 
 <div class="accordionheader subject">
-            <h4><a href="#me" id="me"></a>Engineering &amp; IT Courses: Mechanical Engineering</h4>
+            <h4><a href="#me" id="me"></a>Engineering, Computer Science &amp; IT Courses: Mechanical Engineering</h4>
           </div><div></div>
           
 <div class="accordionheader">
@@ -1086,7 +1078,7 @@
 
 
 <div class="accordionheader subject">
-            <h4><a href="#sy" id="sy"></a>Engineering &amp; IT Courses: Systems Engineering</h4>
+            <h4><a href="#sy" id="sy"></a>Engineering, Computer Science &amp; IT Courses: Systems Engineering</h4>
           </div><div></div>
 
 <div class="accordionheader">
@@ -1152,51 +1144,6 @@
 
           <div class="accordionbody">
  <p>This course provides an overview of decision and risk analysis techniques.  It focuses on how to make rational decisions in the presence of uncertainty and  conflicting objectives. It covers modeling uncertainty, the principles of  rational decision-making, representing and solving decision problems using  influence diagrams and decision trees, sensitivity analysis, Bayesian decision  analysis, deductive and inductive reasoning, objective and subjective  probabilities, probability distributions, regression analysis, defining and  calculating the value of information, modeling risk attitudes and utility  functions. Concepts will be illustrated through case studies and practiced by  students through homework. </p>
-</div>
-
- <div class="accordionheader">
-            <h4><a name="CYBER620" id="CYBER620"></a>CYBR 620:&nbsp; Introduction to Cybersecurity [3]<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
- <p>This course surveys the topic of  Cybersecurity, examining aspects of information, people and technology, the  evolution of information security to Cybersecurity, and its technical, legal,  and impact perspectives.   Students will learn how to apply the  Cybersecurity concepts of protection and response to government, critical infrastructure,  commercial, and individual situations; analyzing the threats and risks of those  environments in light of information processing objectives and threats; and  applying an appropriate strategy to build and operate appropriate defenses to  mitigate potential impacts upon processing systems. </p>
-</div>
-
- <div class="accordionheader">
-            <h4><a name="CMPE684" id="ENEE4"></a>CMPE 684: Wireless Sensor Networks [3]<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
- <p>A wide range of applications such as disaster management, military and  security have fueled the interest in sensor networks during the past few years.  Sensors are typically capable of wireless communication and are significantly  constrained in the amount of available resources such as energy, storage and  computation. Such constraints make the design and operation of sensor networks  considerably different from contemporary wireless networks, and necessitate the  development of resource conscious protocols and management techniques. This  course provides a broad coverage of challenges and latest research results  related to the design and management of wireless sensor networks. Covered topics  include network architectures, node discovery and localization, deployment  strategies, node coverage, routing protocols, medium access arbitration,  fault-tolerance, and network security.</p>
-</div>
-
- <div class="accordionheader">
-            <h4><a name="CMPE685" id="ENEE5"></a>CMPE 685:&nbsp;Principles of Communications Networks [3]<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
- <p>This course provides an overview of  network communications terms, concepts, architectures, protocols, and  technologies. Upon completion of the course, students will be able to  construct, and assess the completeness of architectures for simple LAN and WAN  communications networks. Topics include wire/fiber and wireless WANs and LANs,  the OSI and TCP/IP models, propagation media, analog and digital data and  signals, error detection, error correction, data link layer protocols, multiple  access techniques, medium access control, circuit and packet switching, X.25,  TCP/IP, ATM, Ethernet, switches, routers, routing techniques, congestion  control, queuing theory, quality of service (QoS) metrics, network  architectures, and network security. </p>
-</div>
-
- <div class="accordionheader">
-            <h4><a name="CMSC626" id="ENEE6"></a>CMSC 626:&nbsp; Principles of Computer Security [3]<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
- <p>This course will provide an introduction to computer security with a  specific focus on the computing aspects. Topics covered include: basics of  computer security, including an overview of threat, attack and adversary  models; social engineering; essentials of cryptography; traditional computing  security models; malicious software; secure programming; operating system  security in practice; trusted operating system design; public policy issues,  including legal, privacy and ethical issues; network and database security  overview. </p>
-</div>
-
- <div class="accordionheader">
-            <h4><a href="#ENMG664" id="ENEE7"></a>ENMG 664:&nbsp; Quality Engineering &amp; Management [3]<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
- <p>This course provides an overview of the basic  principles and tools of quality and their applications from an engineering  perspective. The primary quality schools of thought or methodologies, including  Total Quality Management, Six Sigma and Lean Six Sigma, and quality approaches  from key figures in the development and application of quality as a business  practice, including W. Edwards Deming and Joseph M. Juran will be analyzed.  Some of the key mathematical tools used in quality systems will be discussed,  including Pareto charts, measurement systems analysis, design of experiments,  response surface methodology, and statistical process control. Students will  apply these techniques to solve engineering problems using the R software.  Reading assignments, homework, exams, and the project will emphasize quality  approaches, techniques, and problem solving.</p>
 </div>
 
           <br>

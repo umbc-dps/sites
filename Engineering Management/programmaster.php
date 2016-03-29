@@ -108,7 +108,7 @@
   <li><a href="courses.php#ENMG672">ENMG 672: Decision and Risk Analysis</a> *</li>
   <li><a href="courses.php#ENMG690">ENMG 690: Innovation and Technology Entrepreneurship</a></li>
   <li><a href="courses.php#ENMG692">ENMG 692: Principles of Organization Learning</a></li>
-  <li><a href="courses.php#CYBR620">CYBR 620: Introduction to Cybersecurity</a></li>
+  <li><a href="courses.php#CYBR620">CYBR 620: Introduction to Cybersecurity</a> *</li> 
   <li><a href="courses.php#CYBR621">CYBR 621: Cyber Warfare</a></li>
   <li><a href="courses.php#CYBR622">CYBR 622: Global Cyber Capabilities and Trends</a></li>
   <li><a href="courses.php#CYBR623">CYBR 623: Cybersecurity Law and Policy</a></li>

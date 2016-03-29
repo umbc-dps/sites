@@ -70,8 +70,8 @@ Spring 2016 Classes Start: <strong>August 31, 2016</strong></p>
  <h4>Admissions Requirements </h4>
  <ul>
       <li>A bachelor’s degree in Engineering, Computer Science or Information Systems.</li>
-      <li>Minimum undergraduate GPA of 3.0 on a 4.0 scale       (Students with a GPA less than 3.0 may be admitted to the MS program       provisionally or to the Post-Baccalaureate program.)</li>
-      <li>GREs and letters of       recommendation are&nbsp;<strong>not</strong>&nbsp;required       if you earned an undergraduate degree from an accredited U.S. university. </li></ul>
+      <li>Minimum undergraduate GPA of 3.0 on a 4.0 scale</li>
+      <li>GREs and letters of       recommendation are <strong>not</strong>&nbsp;required       if you earned an undergraduate degree from an accredited U.S. university. </li></ul>
 
  
  <h4>Application Process</h4>
