@@ -4,18 +4,18 @@
 
 <title>UMBC-Shady Grove Info Session</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Please follow the following steps to order your regalia and have it delivered to Shady Grove for pick-up." />
+<meta name="description" content=" During this Information Session you will be provided important information regarding admissions, financial aid and transfer of previous credits earned." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UatShadyGrove">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="UMBC-Shady Grove Order Regalia" />
+<meta property="og:title" content="UMBC-Shady Grove Info Session" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/shadygrove/regalia" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/commencement.png" />
-<meta property="og:description" content="Please follow the following steps to order your regalia and have it delivered to Shady Grove for pick-up." />
+<meta property="og:url" content="http://www.umbc.edu/shadygrove/infosession/rsvp" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/UMBC_ShadyGrove_GetPriority.jpg" />
+<meta property="og:description" content=" During this Information Session you will be provided important information regarding admissions, financial aid and transfer of previous credits earned." />
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="../css/styles.css" rel="stylesheet">
