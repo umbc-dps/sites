@@ -4877,7 +4877,7 @@ IS</td>
     <td>Evening</td>
     <td>Fiedelholtz, Glenn Barry</td>
     <td>You must have completed IS 450 with a grade of C or better.</td>
-    <td>Has Prerequsite</td>
+    <td>Has Prerequisite</td>
     <td>&nbsp;</td>
     <td>STEM</td>
     <td>*IS</td>

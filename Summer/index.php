@@ -114,19 +114,18 @@
 
 <li id="slide3">
 
-<a href="http://gritgoing.umbc.edu/?p=647" target="_blank"><img src="images/featured/ENGL271.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=645" target="_blank"><img src="images/featured/ENTR340.jpg"></a>
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Scriptwriting 
-(ENGL 272)</h3>
-<small>Craft your own screenplay.</small>
+<h3>Featured Course: Socialpreneur (ENTRE 340)</h3>
+<small>Develop solutions to real-world problems.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=647" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=645" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=647" target="_blank">Featured Course: Scriptwriting</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=645" target="_blank">Featured Course: Socialpreneur</a></p>
           
 </li>
           
