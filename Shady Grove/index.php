@@ -716,19 +716,22 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_blank"><img src="images/UMBC_ShadyGrove_VirtualInfoSession.jpg" alt=""/></a>
-<h3 style="line-height:normal; font-size:18pt">
-Professional Graduate Info Session</h3>
+<a href="http://www.umbc.edu/shadygrove/info/uginfosession.php" target="_blank"><img src="images/classroom.png" alt=""/></a>
+<h3 style="line-height:normal; font-size:15pt">
+<br>
+Attend an Upcoming Undergraduate Info Session!</h3>
 
 
 <div class="boxleft" style="width:60%">
-  <h6 style="font-size:12pt; margin:0px; line-height:16pt">Come join our Program Directors for an Information Session to learn about UMBC's Graduate Programs in Cybersecurity and Geographic Information Systems on Wednesday, March 30 at 6 PM. </h6>
+
+  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Learn about the admissions process and transfer requirements for UMBC-Shady Grove's undergraduate programs in History, Political Science, Psychology, and Social Work.  A tour of campus will also be provided.</h6>
   </div><!-- end boxleft nested div -->
 
 
+<br>
 
 	<div class="boxright">
-<a href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_blank" style="text-decoration:none">
+<a href="http://www.umbc.edu/shadygrove/info/uginfosession.php" target="_blank" style="text-decoration:none">
 <div class="button" style="height:auto; line-height:16pt; vertical-align:middle;">
 
 
