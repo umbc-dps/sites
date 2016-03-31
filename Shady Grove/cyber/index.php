@@ -103,7 +103,7 @@
 -- END SLIDE TWO --> 
 
 
-<!-- SLIDE TWO --> 
+<!-- SLIDE TWO --
 <li id="slide2">
 
 <a href="infosession" target="_blank"><img alt="img04" src="images/umbc_cyber3.png"></a>
@@ -117,11 +117,11 @@
 <p id="captionthree"><a href="infosession">3/30 Info Session</a></p>
  
 </li>
-<!-- END SLIDE TWO --> 
+-- END SLIDE TWO --> 
 
 
 <!-- SLIDE THREE --> 
-<li id="slide3">
+<li id="slide2">
 
 <a href="alumni" target="_blank"><img alt="img04" src="images/umbc_cyber4.png"></a>
 
@@ -139,7 +139,7 @@
 
 <!-- SLIDE FOUR -->
 
-<li id="slide4">
+<li id="slide3">
 
 <a href="https://nccoe.nist.gov/projects/use_cases/financial_services_sector/it_asset_management
 " target="_blank"><img src="images/5.jpg" alt="Enroll Now"/></a> 

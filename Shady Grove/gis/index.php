@@ -67,17 +67,17 @@
 
 
 <!-- SLIDE ONE -->
-<li id="slide3">
+<li id="slide1">
 
-<a href="infosession" target="_blank"><img alt="img03" src="images/2.jpg"></a>
+<a href="http://gradschool.umbc.edu/admissions/apply" target="_blank"><img alt="img03" src="images/2.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>In-Person Information Session</h3>
-<small>Join us for an in-person information session in March to hear about our GIS Graduate Programs</small>  
+<h3>Apply for Fall 2016</h3>
+<small>Apply by August 1 to start in Fall 2016.</small>  
           
-<p><a href="infosession" target="_blank" class="web-seemore">Register Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank" class="web-seemore">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="infosession" target="_blank">In-Person Information Session</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply by August 1 for Fall</a></p>
 
 </li>
 <!-- END SLIDE ONE --> 

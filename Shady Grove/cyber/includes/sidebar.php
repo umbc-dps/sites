@@ -1,17 +1,8 @@
 <div class="five columns">
     <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
-
-
-      <p style="text-align:center">
-      <strong>Cybersecurity Information Session</strong><br>
-      <small> Wednesday, March 30, 2016 6:00 - 7:30pm</small><br>
-<a href="http://umbc.edu/shadygrove/cyber/infosession" class="btn">RSVP</a>
-      </p>
       
-      <hr>
-      
-      <p style="text-align:center;margin-top:-15px">
+      <p style="text-align:center;">
       <strong>Fall 2016 Orientation</strong><br>
       <small> Thursday, August 18, 2016 6:00 - 7:30pm</small><br>
 <a href="http://www.umbc.edu/shadygrove/student/grad-orientation" class="btn">RSVP</a>
