@@ -379,7 +379,7 @@
 
 
 <a id="khan"><h1>Liana Khan</h1></a>
-<!--<img src="" align="left" class="pat-team">-->
+<img src="../images/PAT/liana-khan.jpg" align="left" class="pat-team">
     
 <p>
     <strong>An interesting personal fact…</strong><br>

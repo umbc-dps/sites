@@ -15,14 +15,14 @@
   <a href="#gutierrez">Gloria Gutierrez</a>, Psychology<br>
   <a href="#kamei">Nyenpu "Faith" Kamei</a>, Psychology and Social Work<br>
   <a href="#kareem">Haminat Kareem</a>, Political Science<br>
-  <a href="#khan">Liana Khan</a>, Psychology<br>
+  <a href="#khan">Liana Khan</a>, Social Work<br>
   <a href="#manugh">Mariam Manugh-Khaloyan</a>, Psychology<br>
   <a href="#martin">Isabella Martin</a>, Social Work <br>
   <a href="#membreno">Adriana Membreno</a>, Social Work<br>
   <a href="#morales">Lorena Morales</a>, Social Work<br>
   <a href="#noy">Ashley Noy</a>, Psychology<br>
   <a href="#reyes">Cindy Reyes</a>, Social Work<br>
-  <a href="#runnings">Alexandra "Alex" Runnings</a>, Political Science<br>
+  <a href="#runnings">Alexandra "Alex" Runnings</a>, History<br>
   <a href="#sasu">Samuel Sasu</a>, Political Science<br>
   <a href="#sorto">Katy Sorto</a>, Social Work<br>
   <a href="#tshimuna">Beya "Benny" Tshimuna</a>, Political Science<br>
