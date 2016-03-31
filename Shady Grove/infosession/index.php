@@ -115,7 +115,6 @@
           
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, March 23 - 12:00 PM <br>
         Wednesday, April 6 - 12:00 PM <br>
 		Wednesday, April 13 - 12:00 PM<br>
 		Wednesday, April 27 - 12:00 PM<br>
