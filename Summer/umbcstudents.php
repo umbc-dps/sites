@@ -72,7 +72,7 @@
 
       <ul>
         <li>Earn up to 16 credits during summer session.</li>
-        <li>To register for more than 16 credits during summer session, <a href="http://umbc.edu/dpsstage1/excesscredit" target="_blank">approval is needed</a>.</li>
+        <li>To register for more than 16 credits during summer session, <a href="excesscredit" target="_blank">approval is needed</a>.</li>
 
   <li>Currently enrolled UMBC students are eligible to register. No additional application is necessary.</li>
   <li>Advising is recommended, but not required.</li>
@@ -84,9 +84,7 @@
 <h4>Four Year Guide to Graduation</h4>
 <p>Review UMBC’s <a href="https://apps.my.umbc.edu/pathways/" target="_blank">academic pathways</a> to see what courses are required for each major. Many general education and required courses are offered in the summer and winter sessions to help you stay on track and graduate on time.</p>
 <h4>Summer session scholarships</h4>
-<ul>
-  <li>A limited number of full and partial tuition  <a href="scholarships">scholarships are available</a>.</li>
-</ul>
+<p>A limited number of full and partial tuition  <a href="scholarships">scholarships are available</a>.</p>
 
      <!-- END Content -->
      
