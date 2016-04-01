@@ -76,8 +76,13 @@
 
   <li>Currently enrolled UMBC students are eligible to register. No additional application is necessary.</li>
   <li>Advising is recommended, but not required.</li>
-  <li>Registration begins <a href="importantdates">March 21</a>.</li>
 </ul>
+<h4>Spring 2016 Graduation/Summer Registration</h4>
+<p>If you have applied to graduate in spring 2016, you will be blocked from registering in future terms. To register in summer session, you must first submit an <a href="http://registrar.umbc.edu/contact/" target="_blank">RT ticket</a> to the Registrar’s Office to request permission to enroll.</p>
+<h4>Session II Courses with Session I Prerequisites</h4>
+<p>You will need to request a <a href="http://umbc.edu/summer/coursesprerequisites" target="_blank">prerequisite course override</a> for Session II courses if registered for the prerequisite course in Session I (example: CHEM 101 in Session I and CHEM 102 in Session II). You will also be required to drop your Session II course(s) if you do not earn the required prerequisite grade in Session I.</p>
+<h4>Four Year Guide to Graduation</h4>
+<p>Review UMBC’s <a href="https://apps.my.umbc.edu/pathways/" target="_blank">academic pathways</a> to see what courses are required for each major. Many general education and required courses are offered in the summer and winter sessions to help you stay on track and graduate on time.</p>
 <h4>Summer session scholarships</h4>
 <ul>
   <li>A limited number of full and partial tuition  <a href="scholarships">scholarships are available</a>.</li>

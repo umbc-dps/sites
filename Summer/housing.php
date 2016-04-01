@@ -71,25 +71,27 @@
        <p><strong>On-campus housing is offered during summer &amp; winter session.</strong></p>
 
 	<h5>Summer Session</h5>
-		<ul>
-       		<li>Monday, May 2nd is the priority deadline for Summer Housing applications.</li> 
-			<li>Additional information and summer summer housing applications will be available March 18.</li>
-		</ul> 
-      
+	<p><a href="http://www.umbc.edu/reslife/apply/summer.html" target="_blank">Summer 2016 housing</a> is available in Hillside and Terrace Apartments. Each apartment has four single occupancy bedrooms, a bathroom, a dining room/living room area and a kitchen.</p>
+	<p><strong>Eligibility</strong></p>
+	<p>To be eligible for on campus summer housing, you must be:</p>
+	<ul>
+	  <li>enrolled in at least one summer course or academic internship</li>
+	  <li>employed full-time by UMBC</li>
+	  <li>participating in a UMBC sponsored program during your entire stay on campus</li>
+	  </ul>
+	<p><strong>Apply</strong></p>
+	<ul>
+	  <li>Current UMBC students can <a href="http://www.umbc.edu/reslife/apply/summer.html" target="_blank">apply now</a> for summer housing.</li>
+	  <li>Visiting students must first apply for summer admission and register for classes before applying for summer housing.</li>
+	  <li>The priority deadline to apply for summer housing is May 2, 2016.       </li>
+	</ul>
+	<h5>Winter Session</h5>
+    <p>During winter session, students living in continuous occupancy, 9-month housing may remain on campus during January.  Potomac Hall, several floors in Harbor Hall, and the apartments (including Walker Avenue) are available to UMBC students who already have 9-month housing.</p>
+	<h5>Questions?</h5>
+	<p>Contact the Residential Life Operations Team at <strong>410-455-8832</strong> (8:30 am – 4:30 pm).  Current UMBC students may submit a <a href="https://rt.umbc.edu/UMBC/RequestHelp.html" target="_blank"><i>my</i>UMBC Help Ticket</a>.	
        
-       <h5>Winter Session</h5>
-       <ul>
-       	 <li>During Winter session, students living in continuous occupancy, 9-month housing may remain on campus during January.</li>
-         <li>Potomac Hall, several floors in Harbor Hall, and the apartments (including Walker Avenue) are available to UMBC students who already have 9-month housing.</li>
-       </ul>
-       
-        
-	<p>For information about summer &amp; winter session housing, visit the Residential Life <a href="http://www.umbc.edu/reslife/apply/summer.html" target="_blank">website</a>, contact the Residential Life Operations Team at <a href="tel:410-455-8832" target="_blank">410-455-8832,</a> or submit a <a href="https://rt.umbc.edu/UMBC/RequestHelp.html" target="_blank">myUMBC Help Ticket</a>.</p>
-       
-
-     <!-- END Content -->
-     
-	  </div>
+     <!-- END Content -->	  </p>
+      </div>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 

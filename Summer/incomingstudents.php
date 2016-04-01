@@ -89,10 +89,15 @@
   <br>
   Outside of class, dedicated Summer Bridge staff coordinate  tutoring and study groups, offer individual advising support, and organize  special summer events for new students. Residential and commuter options are  available.<br>
   <br>
-  The Summer Bridge Program is a great way to build a strong  academic foundation at UMBC while earning 4 to 8 required credits. Students who  successfully complete the program will also receive a scholarship equal to one  credit of fall tuition.<br>
-  <br>
-  Learn more about UMBC's <a href="http://fye.umbc.edu/programs/csi/" target="_blank">Summer Bridge Program</a>.</p>
-	  
+  The Summer Bridge Program is a great way to build a strong  academic foundation at UMBC while earning 4 to 8 required credits. Students who  successfully complete the program will also receive a scholarship equal to one  credit of fall tuition.</p>
+<p>The program begins July 10, and space is limited.</p>
+<p>Learn more about UMBC's <a href="http://fye.umbc.edu/programs/csi/" target="_blank">Summer Bridge Program</a> or contact Laila Shishineh at lailams@umbc.edu or (410) 455-3737.</p>
+<h4><strong>Other Resources for New Incoming Freshmen</strong><br>
+</h4>
+<p>Check out “<a href="https://apps.my.umbc.edu/pathways/" target="_blank">Academic Pathways</a>,” a four-year guide to degree planning that includes course requirements by major. </p>
+<p>Download UMBC’s <a href="http://fye.umbc.edu/files/2016/03/mathPathHandoutFINAL.pdf" target="_blank">MATH PATH</a> which illustrates introductory math course requirements for incoming STEM and non-STEM majors.</p>
+<p>&nbsp;</p>
+
 <!-- END Content -->
 	  
 	  </div>
