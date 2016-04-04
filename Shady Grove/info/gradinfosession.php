@@ -100,62 +100,67 @@
 <p align="center" style="margin-bottom: 0;">All in-person sessions will be held in the Camille Kendall Academic Center (Building III).<strong> For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about/visit" target="_blank">here</a>. </strong>If you have questions, please contact: Ashley Waters at 301-738-6175. </strong></span></p>
 
 <table width="537" border="0" align="center" cellpadding="1" cellspacing="1">
-  <tr>
-      <td width="263" align="center" valign="top"><p><a href="http://umbc.edu/shadygrove/io/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://umbc.edu/shadygrove/io/infosession');"><img src="../images/IOPsychology.jpg" alt="IO" width="162" height="118" border="0"></a></p></td>
-      <td width="267" align="center" valign="top"><p><a href="http://umbc.edu/shadygrove/gis/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://umbc.edu/shadygrove/gis/infosession');"><img src="../images/GIS_001.jpg" alt="GIS" width="162" height="118" border="0" align="absmiddle"></a></p></td>
-    </tr>
-    
-    <tr>
-      <tD align="center" valign="top">
-      
-      <h3><a href="http://umbc.edu/shadygrove/io/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://umbc.edu/shadygrove/io/infosession');">
-      
+   <tr>
+       <td width="263" align="center" valign="top"><p><a href="http://umbc.edu/shadygrove/io/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://umbc.edu/shadygrove/io/infosession');"><img src="../images/IOPsychology.jpg" alt="IO" width="162" height="118" border="0"></a></p></td>
+       <td width="267" align="center" valign="top"><p><a href="http://umbc.edu/shadygrove/gis/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://umbc.edu/shadygrove/gis/infosession');"><img src="../images/GIS_001.jpg" alt="GIS" width="162" height="118" border="0" align="absmiddle"></a></p></td>
+     </tr>
      
-      Industrial/Organizational<br>
-        Psychology</a><br>
+     <tr>
+       <tD align="center" valign="top">
+       
+       <h3><a href="http://umbc.edu/shadygrove/io/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://umbc.edu/shadygrove/io/infosession');">
+       
       
-      </h3> <ol id="training-times">
-<li>Check back soon for more info session opportunities.
-            </li>
-      </ol>
-      <br></tD>
-          
-      <td align="center" valign="top"><h3><a href="http://umbc.edu/shadygrove/gis/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://umbc.edu/shadygrove/gis/infosession');">Geographic Information <br>
-        Systems</a><br>
-      </h3>
-        <ol id="training-times3">
-          <li>Check back soon for more info session opportunities. </li>
-        </ol></td>
-    </tr>
-    
-    
-    <tr>
+       Industrial/Organizational<br>
+         Psychology</a><br>
+       
+       </h3> <ol id="training-times">
+ <li>Check back soon for more info session opportunities.
+             </li>
+       </ol>
+       <br></tD>
+           
+       <td align="center" valign="top"><h3><a href="http://umbc.edu/shadygrove/gis/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://umbc.edu/shadygrove/gis/infosession');">Geographic Information <br>
+         Systems</a><br>
+       </h3>
+         <ol id="training-times3">
+           <li>Tuesday, June 14, 2016<br>
+             6:00 PM - 7:30 PM </li>
+         </ol></td>
+     </tr>
      
-      <td align="center"><p></p></td>
-    </tr>
-    <tr>
-      <th align="center" valign="top"><p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/shadygrove/cyber/infosession');"><img src="../images/Cybersecurity_000.jpg" alt="CYBER" width="162" height="118" border="0"></a></p></th>
+     
+     <tr>
       
-      <td align="center" valign="top"><p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.umbc.edu/biotech" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/biotech');"><img src="../images/Biotechnology_000.jpg" alt="BIO" width="162" height="118" border="0"></a></p></td>
-    </tr>
-    
-      <td align="center" valign="top"><h3><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/shadygrove/cyber/infosession');">Cybersecurity</a><br>
-      </h3>
-          <ol id="training-times">
-            <li>Check back soon for more info session opportunities.
-            </li>
-          </ol></td>
-      
-      <td align="center" valign="top">
-      <h3><a href="http://www.umbc.edu/biotech" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/biotech');">Biotechnology</a></h3>
-        
-<ol id="training-times">
-            <li>Check back soon for more info session opportunities.
-            </li>
-          </ol>
-          </td>
-    </tr>
-</table>
+       <td align="center"><p></p></td>
+     </tr>
+     <tr>
+       <th align="center" valign="top"><p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/shadygrove/cyber/infosession');"><img src="../images/Cybersecurity_000.jpg" alt="CYBER" width="162" height="118" border="0"></a></p></th>
+       
+       <td align="center" valign="top"><p style="margin-top: 0; margin-bottom: 0;"><a href="http://www.umbc.edu/biotech" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/biotech');"><img src="../images/Biotechnology_000.jpg" alt="BIO" width="162" height="118" border="0"></a></p></td>
+     </tr>
+     
+       <td align="center" valign="top"><h3><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/shadygrove/cyber/infosession');">Cybersecurity</a><br>
+       </h3>
+           <ol id="training-times">
+             <li>
+             Tuesday, June 14, 2016
+               <br>
+               6:00 PM - 7:30 PM <br>
+               <br>
+             </li>
+           </ol></td>
+       
+       <td align="center" valign="top">
+       <h3><a href="http://www.umbc.edu/biotech" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/biotech');">Biotechnology</a></h3>
+         
+ <ol id="training-times">
+             <li>Check back soon for more info session opportunities.
+             </li>
+           </ol>
+           </td>
+     </tr>
+ </table>
 
 
 </div>

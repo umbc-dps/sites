@@ -883,8 +883,13 @@ RSVP
     <td valign="top">
 <br>
 
-<small>Check back for new Graduate<br>
-events soon.</small>
+<a href="http://www.umbc.edu/shadygrove/cyber/infosession">Cybersecurity Info Session</a><br>
+<small>June 14, 2016, 
+6:00 - 7:30 p.m. </small>
+<br><br>
+<a href="http://www.umbc.edu/shadygrove/gis/infosession">Geographic Information Systems Info Session</a><br>
+<small>June 14, 2016, 
+6:00 - 7:30 p.m. </small>
 </td>
     <td valign="top">
     
