@@ -52,7 +52,7 @@
         <dd>Rockville</dd>
 
 
-        <dt>Programs Offered</dt>
+        <dt>Program Offered</dt>
 
 
         <dd>Master’s in Professional Studies: I/O Psychology</dd>

@@ -201,7 +201,7 @@
             <div class="clearfix">
                 <span>Where can a Master's of Professional Studies Degree or Graduate Certificate in I/O Psychology take you?
 <br>
-<br>Join us for the session to learn about the UMBC's I/O Psychology programs at UMBC's Main Campus and UMBC-Shady Grove in Rockville, MD. The session will provide an overview of our innovative curriculum, practice-oriented instruction and flexible class schedules, which are designed for working professionals. 
+<br>Join us for the session to learn about the UMBC's I/O Psychology program at UMBC-Shady Grove in Rockville, MD. The session will provide an overview of our innovative curriculum, practice-oriented instruction and flexible class schedules, which are designed for working professionals. 
 <br>
 <br>Learn about admissions, curriculum, class format and the I/O Psychology career outlook.</span>
         </div>

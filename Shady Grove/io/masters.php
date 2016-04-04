@@ -72,7 +72,7 @@
  <p>The application deadline for Fall 2016 is <strong>March 1</strong>.  <br>
    Fall semester begins: August 31, 2016</p>
  <h4>Admissions Requirements:</h4>
- <p>Admissions decisions are based on a match of the applicant's interests, work experience, academic background, scholarship and personal goals for the programs. Minimum admission requirements are listed below.</p>
+ <p>Admissions decisions are based on a match of the applicant's interests, work experience, academic background, scholarship and personal goals for the program. Minimum admission requirements are listed below.</p>
  <ul>
    <li>GRE scores are not required for admission</li>
    <li>B.A. or B.S. in Psychology or a bachelor&rsquo;s degree in a related field with required prerequisite coursework, which included an introductory psychology course and a research methods or statistics course.</li>                
