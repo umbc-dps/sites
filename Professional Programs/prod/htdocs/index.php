@@ -187,12 +187,12 @@ BEGIN MAIN
 <a href="http://umbc.edu/openhouse" target="blank"><img src="images/6.jpg" alt="Open House"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs' Program Exploration Night</h3>
+<h3>Professional Programs Exploration Night</h3>
 <small>Join us on Tuesday, April 26 to hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
 
 <p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="http://umbc.edu/openhouse" class="video" target="blank">Professional Programs' Program Exploration Night</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse" target="blank">Professional Programs Exploration Night</a></p>
 
 </li>
 <!-- END Slide Three -->
