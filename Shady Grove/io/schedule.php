@@ -114,9 +114,8 @@
   </tr>
 </table>
 
+<br>
 <hr>
-<br>
-<br>
 
 <h3>Spring 2016 Schedule of Classes </h3>
 

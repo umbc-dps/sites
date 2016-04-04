@@ -115,6 +115,7 @@
 
 <a href="csj.php"><img src="images/CSJ Web Carousel 2.png" alt="Culture & Social Justice" target="_blank"></a>
 
+<!--
 <div class="carousel-caption-right wordwrap">
     
 <h3>Culture & Social Justice</h3>
@@ -123,6 +124,7 @@
 <p><a href="csj.php" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
+-->
 
 <p id="captiontwo"><a href="csj.php" target="_blank">Culture & Social Justice</a></p>
           

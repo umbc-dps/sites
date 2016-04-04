@@ -82,7 +82,7 @@
   <li>No additional summer application is necessary.</li>
   <li><a href="http://www.umbc.edu/undergraduate/quicklinks/contact.html">Contact</a> the Office of Undergraduate Admissions to change your semester start date from       fall to summer 2016.</li>
   <li>Advising       is highly recommended, but not required.</li>
-  <li>Earn       up 16 credits (8 credits per session) during summer session.  Advising Office <u>pre-approval</u> is       required to enroll in more than 16 credits.</li>
+  <li>Earn       up 16 credits (8 credits per session) during summer session.  Advising Office <a href="excesscredit">pre-approval</a> is       required to enroll in more than 16 credits.</li>
 </ul>
 </div>
 
