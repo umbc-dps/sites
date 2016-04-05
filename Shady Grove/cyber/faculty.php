@@ -90,6 +90,20 @@
 </div>
 
 <div class="accordionheader">
+  <h4>Laura Casulli | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p>L.L.M. with a Certificate in National Security Law, Georgetown University Law Center<br>
+  L.L.M., Military Law, The Judge Advocate General's Legal Center, United States Army<br>
+  J.D., New York Law School<br>
+  B.A., University of Delaware</p>
+
+  <p>Laura Casulli is an accomplished attorney with over 20 years of experience advising leaders at all levels within the Department of Defense (DoD) on a multitude of legal issues. Ms. Casulli was instrumental in identifying and resolving legal issues related to the merger of DoD’s Joint Functional Component Command—Network Warfare with Joint Task Force Global Network Operations to establish United States Cyber Command. She was the command’s legal advisor for its DoD network defense mission and military cyber operations, and assisted in creating policies and doctrine for the new command’s cyber mission. Prior to that position, she was a legal advisor to the Secretary of Defense and Undersecretary of Defense for Policy on matters related to the International Criminal Court, international agreements, and detainee issues, and represented the United States as part of a delegation to the ICRC International Conference on International Humanitarian Law. Ms. Casulli is currently an attorney/advisor with the National Security Agency where she provides legal and policy advice on cyber and intelligence operations to a client set of thousands. Additionally, she represents the Office of General Counsel at cyber exercises and collaborates with other national level agencies on intelligence operations matters. She has been an adjunct instructor with UMBC since 2014.</p>
+  <p>Ms. Casulli received her LL.M in National Security Law from Georgetown University Law Center, an LL.M in Military Law from the Judge Advocate General’s Legal Center and School, and her J.D. from New York Law School. She is a member of the New York Bar, New Jersey Bar, and the Bar of the Supreme Court of the United States. She received numerous military awards over a distinguished 20 year career as a Judge Advocate, and has taught as an adjunct instructor for the Defense Institute of International Legal Studies.</p>
+</div>
+
+<div class="accordionheader">
   <h4>Robert W. Clark, J.D | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 

@@ -62,41 +62,6 @@
 </p>
 
 <hr>
-
-
-
-<a id="sandoval"><h1>Camilla Azucena Sandoval</h1></a>
-<img src="../images/PAT/camilla-azucena-sandoval.jpg" align="left" class="pat-team">
-    
-<p>
-    <strong>An interesting personal fact…</strong><br>
-    I am a lifelong Red Sox fan!
-</p>
-
-<p>
-    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I chose UMBC-Shady Grove because of the location and the small class sizes. With its location in Rockville, Maryland, UMBC-Shady Grove allows me to have a manageable commute and stay close to home. Additionally, the small class sizes that you get at UMBC-Shady Grove are great in that they give you the opportunity to make relationships with students and professors. 
-</p>
-
-<p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    Through one of my history professors, I was able to obtain an internship at the Universities at Shady Grove (USG) Priddy Library. Through this internship, I am able to gain experience by working with librarians on conducting research for exhibits as well as setting exhibits to be displayed throughout the semester. 
-</p>
-
-<p>
-    <strong>What are your plans following graduation?</strong><br>
-    Following graduation, I plan to look for jobs where I can use the knowledge and skills that my history degree will provide me.  I also plan to spend time seriously considering graduate school. 
-</p>
-
-<p>
-    <strong>What is your advice for prospective students?</strong><br>
-    My advice to prospective students is to never underestimate yourself and to not be afraid of getting out of your comfort zone.
-</p>
-
-<hr>
-
-
-
 <a id="bronstein"><h1>Marina Bronstein</h1></a>
 <img src="../images/PAT/marina-bronstein.jpg" align="left" class="pat-team">
     
@@ -645,7 +610,20 @@ As for extracurricular activities, I would have to say joining the Peer Advisory
 
 <hr>
 
-
+<a id="sandoval"><h1>Camilla  Sandoval</h1></a>
+<img src="../images/PAT/camilla-azucena-sandoval.jpg" align="left" class="pat-team">
+<p> <strong>An interesting personal fact…</strong><br>
+I am a lifelong Red Sox fan! </p>
+<p> <strong>Why did you choose UMBC-Shady Grove?</strong><br>
+  I chose UMBC-Shady Grove because of the location and the small class sizes. With its location in Rockville, Maryland, UMBC-Shady Grove allows me to have a manageable commute and stay close to home. Additionally, the small class sizes that you get at UMBC-Shady Grove are great in that they give you the opportunity to make relationships with students and professors. </p>
+<p> <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
+  Through one of my history professors, I was able to obtain an internship at the Universities at Shady Grove (USG) Priddy Library. Through this internship, I am able to gain experience by working with librarians on conducting research for exhibits as well as setting exhibits to be displayed throughout the semester. </p>
+<p> <strong>What are your plans following graduation?</strong><br>
+  Following graduation, I plan to look for jobs where I can use the knowledge and skills that my history degree will provide me.  I also plan to spend time seriously considering graduate school. </p>
+<p> <strong>What is your advice for prospective students?</strong><br>
+  My advice to prospective students is to never underestimate yourself and to not be afraid of getting out of your comfort zone. </p>
+  
+<hr>
 
 <a id="sasu"><h1>Samuel Sasu</h1></a>
 <img src="../images/PAT/samuel-sasu.JPG" align="left" class="pat-team">
