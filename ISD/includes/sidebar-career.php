@@ -1,3 +1,4 @@
+<div class="five columns">
     <aside class="five columns add-bottom" id="one" style="display:none">
       <h3 style="color:#fff;">Upcoming Events</h3>
 
@@ -61,4 +62,4 @@
       </center>     
    </div>   
       </aside>
-      
+</div>   
