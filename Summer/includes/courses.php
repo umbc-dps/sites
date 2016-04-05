@@ -7387,6 +7387,29 @@ POLI</td>
   <td class="syllabus"><a href="" class="syllabus-link"></a></td>
    </tr>
  <tr>
+   <td class="subject">POLI</td>
+   <td class="classNumber">432</td>
+   <td class="course-title">Civil Rights</td>
+   <td class="number"><a href="" class="course-link">2736</a></td>
+   <td>4 Week</td>
+   <td>Session 1</td>
+   <td></td>
+   <td></td>
+   <td>Main Campus</td>
+   <td>In Person</td>
+   <td>TuThF</td>
+   <td>1:00PM</td>
+   <td>4:10PM</td>
+   <td>Afternoon</td>
+   <td>Blake, William</td>
+   <td></td>
+   <td>No Prerequisite</td>
+   <td>&nbsp;</td>
+   <td></td>
+   <td>*POLI</td>
+   <td class="syllabus">&nbsp;</td>
+ </tr>
+ <tr>
   <td class="subject">
 POLI</td>
        <td class="classNumber">448</td>

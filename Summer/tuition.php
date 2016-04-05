@@ -22,6 +22,7 @@
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
 <script src="js/modernizr.custom.js"></script>
@@ -64,16 +65,19 @@
     <!-- Page Title -->
         <h2>Tuition & Fees</h2>
     <!-- END Page Title -->       
-      <div class="content">
+   <div class="content">
+  <div class="narrowchart">
+ <div id="accordion">  
       
      <!-- Start Content --> 
      
+<p>Summer session tuition is based on UMBC’s standard part-time credit rate for Maryland residents and non-residents.  Only two mandatory fees – an auxiliary facilities fee and a flat $20 summer session fee – are charged in summer session – a substantial cost savings for summer students. </p>
 
+<p class="tuition-links"><strong>See Costs For:</strong> <a href="#" class="tuition-link-md">Maryland Resident</a> | <a href="#" class="tuition-link-non">Non-Maryland Resident</a></p>
 
-<ul>
-	<li>View Summer 2016 <a href="http://sbs.umbc.edu/summer-2016-tuition/" target="_blank">tuition rates</a>.
-	</li>
-</ul>
+<?php include("includes/tuition-charts.php"); ?>
+
+<p>For more information about UMBC tuition and fees, visit the Student Business Services <a href="http://sbs.umbc.edu" target="_blank">website</a>.  </p>
 
 <!--
   <li><a href="http://sbs.umbc.edu/winter-2016-tuition/" target="_blank">View 2016 tuition &amp; fees</a>.</li>
@@ -84,9 +88,11 @@
   <li>In addition to the standard tuition and fees, some courses may have additional fees (such as lab or materials fees), which are noted in the <a href="courses">online</a> Schedule of Classes under "Class Attributes."</li>
 -->
 
+<div class="accordionheader">
+	<h4>Schedule adjustment<i class="fa fa-angle-down"></i></h4>
+</div>
 
-<h4> Schedule adjustment</h4>
-
+<div class="accordionbody">
 <ul>
   <li>During <a href="scheduleadjustment">schedule adjustment period</a> use the &quot;swap&quot; option to
   simultaneously add and drop a class (with the same number of credits) without
@@ -99,31 +105,39 @@
     fee</a> will be charged.
   </li>
 </ul>
+</div>
 
-<h4>Refund schedule</h4>
+<div class="accordionheader">
+	<h4>Refund schedule<i class="fa fa-angle-down"></i></h4>
+</div>
 
-
+<div class="accordionbody">
       <ul>
         <li>Tuition and auxiliary fees are fully refunded through the <a href="http://umbc.edu/summer/financialdates" target="_blank">first day of the session</a>.</li>
         <li>After the first day of the session, refunds are pro-rated based on the date the course was dropped.</li>
         <li>View summer 2016 <a href="http://umbc.edu/summer/financialdates" target="_blank">refund schedule</a>.</li>
       </ul>
+</div>
 
+<div class="accordionheader">
+	<h4>Financial Aid<i class="fa fa-angle-down"></i></h4>
+</div>
 
-<h4>Financial Aid</h4>
-
+<div class="accordionbody">
   <ul>
     <li>Financial aid may be available to Pell Grant eligible UMBC students who are making satisfactory academic progress (SAP).</li>
     <li><strong>Priority Deadline:</strong> April 15, 2016</li>
     <li><strong>Final Deadline:</strong> June 24, 2016</li>
     <li>Contact the Office of Financial Aid and Scholarships for <a href="http://financialaid.umbc.edu/summer-winter-aid/summer-aid-application/" target="_blank">more information</a>.</li>
   </ul>
+</div>
 
-<p>&nbsp;</p>
 
-     <!-- END Content -->
+
+      <!-- END Content -->
      
-	  </div>
+	</div></div></div>
+        
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
@@ -147,7 +161,39 @@
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-  
+  <script>
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+$('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+$( document ).ready(function() {
+	$('.resident').show();
+	$('.non-resident').hide();
+});
+$('.tuition-link-non').click(function() {
+	$('.non-resident').show();
+	$('.resident').hide();
+});
+$('.tuition-link-md').click(function() {
+	$('.non-resident').hide();
+	$('.resident').show();
+});
+$('.tuition-links a').click(function() {
+	var mdText = $(this).text();
+	ga('send', 'event',  'details', 'click', mdText);
+});
+</script> 
   
 </body>
 </html>
