@@ -716,28 +716,28 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://www.umbc.edu/shadygrove/info/uginfosession.php" target="_blank"><img src="images/classroom.png" alt=""/></a>
+<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank"><img src="images/pat.png" alt=""/></a>
 <h3 style="line-height:normal; font-size:15pt">
 <br>
-Attend an Upcoming Undergraduate Info Session!</h3>
+Fall 2016 Registration Begins this Week! </h3>
 
 
 <div class="boxleft" style="width:60%">
 
-  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Learn about the admissions process and transfer requirements for UMBC-Shady Grove's undergraduate programs in History, Political Science, Psychology, and Social Work.  A tour of campus will also be provided.</h6>
+  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Fall 2016 registration has begun! If you haven't already, meet with your advisor for registration clearance. Also, check the calendar for your registration appointment so you can beat the rush!</h6>
   </div><!-- end boxleft nested div -->
 
 
 <br>
 
 	<div class="boxright">
-<a href="http://www.umbc.edu/shadygrove/info/uginfosession.php" target="_blank" style="text-decoration:none">
+<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank" style="text-decoration:none">
 <div class="button" style="height:auto; line-height:16pt; vertical-align:middle;">
 
 
 <br>
 
-RSVP
+Register!
 <br>
 
 <br>
