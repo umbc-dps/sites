@@ -361,8 +361,8 @@ As  a student at UMBC-Shady Grove I have become involved in three extracurricula
 
 
 
-<a id="khan"><h1>Liana Khan</h1></a>
-<img src="../images/PAT/liana-khan.jpg" align="left" class="pat-team">
+<a id="Kahn"><h1>Liana Kahn</h1></a>
+<img src="../images/PAT/liana-kahn.jpg" align="left" class="pat-team">
     
 <p>
     <strong>An interesting personal fact…</strong><br>

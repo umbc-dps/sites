@@ -14,7 +14,7 @@
   <a href="#gutierrez">Gloria Gutierrez</a>, Psychology<br>
   <a href="#kamei">Nyenpu "Faith" Kamei</a>, Psychology and Social Work<br>
   <a href="#kareem">Haminat Kareem</a>, Political Science<br>
-  <a href="#khan">Liana Khan</a>, Social Work<br>
+  <a href="#Kahn">Liana Kahn</a>, Social Work<br>
   <a href="#manugh">Mariam Manugh-Khaloyan</a>, Psychology<br>
   <a href="#martin">Isabella Martin</a>, Social Work <br>
   <a href="#membreno">Adriana Membreno</a>, Social Work<br>
