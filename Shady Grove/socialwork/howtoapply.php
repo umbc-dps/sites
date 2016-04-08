@@ -86,7 +86,7 @@
 
 <div id="sub_content"><div id="rightsidebar"><br>
 
-  <strong>Learn about the application, admissions, and transfer process to UMBC-Shady Grove through our virtual Undergraduate Information Session below.</strong><br><br><a href="https://www.youtube.com/watch?v=O7ir8tZv-no" target="_blank"><img src="../images/howtoapply.jpg" alt="" width="173" height="99"></a><br><br>
+  <strong>Learn about the application, admissions, and transfer process to UMBC-Shady Grove through our virtual Undergraduate Information Session below.</strong><br><br><a href="https://youtu.be/uikJ142gRvk" target="_blank"><img src="../images/howtoapply.jpg" alt="" width="173" height="99"></a><br><br>
   </div>
 <?php include("../include/howtoapply.shtml"); ?>
 </div>
