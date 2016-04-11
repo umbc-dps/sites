@@ -90,26 +90,30 @@
 <!-- END Slide One -->
  
  
+<!-- Slide Two (Featured Course) -->
+ 
  <li id="slide2">
 
-<a href="http://gritgoing.umbc.edu/?p=645" target="_blank"><img src="images/featured/ENTR340.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=658" target="_blank"><img src="images/featured/ANCS201.jpg"></a>
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Socialpreneur (ENTRE 340)</h3>
-<small>Develop solutions to real-world problems.</small>
+<h3>Featured Course: Ancient Greeks (ANCS 201)</h3>
+<small>Explore Greek mythology and the world of Alexander the Great.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=645" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=658" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=645" target="_blank">Featured Course: Socialpreneur</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=658" target="_blank">Featured Course: Ancient Greeks</a></p>
+          
+</li>
           
           
 <!-- END Slide Two -->
 
 
-<!-- Slide Three (Featured Course) -->
+<!-- Slide Three -->
 
 <li id="slide3">
 
