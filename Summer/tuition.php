@@ -132,6 +132,30 @@
   </ul>
 </div>
 
+<div class="accordionheader">
+	<h4>Tuition Cost Calculators<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p>Use the appropriate cost calculator to estimate UMBC charges, financial aid, and out-of-pocket expenses for the Summer 2016 semester.</p>
+      <ul>
+        <li><a href="http://financialaid.umbc.edu/cost-calculators/summer-2016-undergraduate/" target="_blank">Undergraduate Cost Calculator</a></li>
+        <li><a href="http://financialaid.umbc.edu/cost-calculators/summer-2016-graduate/" target="_blank">Graduate Cost Calculator</a></li>
+      </ul>
+</div>
+
+
+<div class="accordionheader">
+	<h4>Pay Your Bill<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <ul>
+    <li>Pay your bill in installments with the optional <a href="http://sbs.umbc.edu/summer-2016-payment-plan/" target="_blank">Summer Payment Plan</a></li>
+    <li>Additional billing information can be <a href="billing">found here</a></li>
+  </ul>
+</div>
+
 
 
       <!-- END Content -->

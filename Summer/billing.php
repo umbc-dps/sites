@@ -22,6 +22,7 @@
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
 <script src="js/modernizr.custom.js"></script>
@@ -64,32 +65,38 @@
     <!-- Page Title -->
         <h2>Billing</h2>
     <!-- END Page Title -->       
-      <div class="content">
+   <div class="content">
+  <div class="narrowchart">
+ <div id="accordion">  
       
-     <!-- Start Content --> 
-<h4> Billing details</h4>      
+     <!-- Start Content -->
+<div class="accordionheader"> 
+  <h4>Billing details<i class="fa fa-angle-down"></i></h4>  
+</div>
+  
+<div class="accordionbody">  
 <ul>
-  <li>UMBC bills students electronically - paper bills are not issued for
-  <a href="tuition">tuition and fees</a>.
-  </li>
+  <li>UMBC bills students electronically - paper bills are not issued for <a href="tuition">tuition and fees</a>.</li>
 
   <li>E-bills are available monthly, the first business day of each month.</li>
 
   <li>E-bills are due on the 20th of each month.</li>
 
   <li>Late fees are assessed on the 25th of each month.</li>
-<li>
+  
+  <li>View <a href="http://sbs.umbc.edu/billing/e-billing-schedule/" target=
+    "_blank">billing schedule</a>.</li>
+</ul>
+</div>
 
-    View <a href="http://sbs.umbc.edu/billing/e-billing-schedule/" target=
-    "_blank">billing schedule</a>.</li></ul>
-<h4>View your account</h4>
-
+<div class="accordionheader"> 
+  <h4>View your account<i class="fa fa-angle-down"></i></h4>
+</div>
+  
+<div class="accordionbody"> 
 <ul>
   <li>
-    <a href="http://my.umbc.edu/" target="_blank">Log-in</a> to <em>my</em>UMBC
-    to access your most current account information through Account
-    Inquiry.&nbsp;
-  </li>
+    <a href="http://my.umbc.edu/" target="_blank">Log-in</a> to <em>my</em>UMBC to access your most current account information through Account Inquiry.</li>
 
   <li>Highlight the &quot;Topics&quot; menu.</li>
 
@@ -97,14 +104,15 @@
 
   <li>Select &quot;Account Inquiry.&quot;</li>
 
-  <li>
-    View
-    additional <a href="http://sbs.umbc.edu/billing/account-inquiry/" target="_blank">&quot;Account Inquiry&quot; information</a>.</li>
+  <li>View additional <a href="http://sbs.umbc.edu/billing/account-inquiry/" target="_blank">&quot;Account Inquiry&quot; information</a>.</li>
 </ul>
+</div>
 
-
-<h4>Pay your bill</h4>
-
+<div class="accordionheader"> 
+  <h4>Pay your bill<i class="fa fa-angle-down"></i></h4>
+</div>
+  
+<div class="accordionbody"> 
 <ul>
   <li>
     <a href="http://my.umbc.edu/" target="_new">Log-in</a> to <em>my</em>UMBC
@@ -121,10 +129,26 @@
     View additional
     <a href="http://sbs.umbc.edu/payments/" target="_blank">&quot;Payments &amp; Billing&quot; information</a>.</li>
 </ul>
+</div>
+
+<div class="accordionheader"> 
+  <h4>Optional Payment Plan<i class="fa fa-angle-down"></i></h4>
+</div>
+  
+<div class="accordionbody"> 
+<ul>
+  <li>Pay your tuition on an installment plan with no interest charged.</li>
+  <li>Enroll by 04/19/2016 to spread your bill over 3 payment dates:  4/20/16, 5/19/16, and 6/20/16</li>
+  <li>Enroll by 5/19/16 to spread your bill over 2 payment dates: 5/20/16 and 6/20/16</li>
+  <li>Visit <a href="http://sbs.umbc.edu/summer-2016-payment-plan/" target="_blank">Student Business Services</a> for more information and to enroll.</li>
+</ul>
+</div>
+
 
      <!-- END Content -->
      
-		</div>
+	</div></div></div>
+    
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
@@ -148,7 +172,23 @@
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-  
+<script>
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+$('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+</script>
   
 </body>
 </html>
