@@ -8,9 +8,8 @@ table {	border-collapse: collapse;	border-spacing: 0 }
 li { list-style:square }
 .fine { font-size: 8pt; line-height: 11pt; margin-bottom: 10px }
 ul.fine li { margin-bottom: 0pt }
+
 .hide{display:none!important}
-
-
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 13px;
