@@ -110,25 +110,23 @@
 
 	<p>
 		<strong>History:</strong><br>
-		Thursday, April 7 - 5:30 PM
+		Check back soon for additional opportunities.
 	</p>
           
 	<p>
     	<strong>Political Science:</strong><br>
-        Wednesday, April 6 - 12:00 PM <br>
-		Wednesday, April 13 - 12:00 PM<br>
 		Wednesday, April 27 - 12:00 PM<br>
 		Wednesday, May 4 - 12:00 PM
 	</p>
           
 	<p>
         <strong>Psychology:</strong><br>
-		Thursday, April 7 - 4:00 PM
+		Check back soon for additional opportunities.
 	</p>
 
 	<p>
         <strong>Social Work:</strong><br>
-		Tuesday, April 12 - 5:00 PM
+		Check back soon for additional opportunities.
 	</p>
 
 	<p>
