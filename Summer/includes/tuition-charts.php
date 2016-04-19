@@ -1,4 +1,4 @@
-<h3 class="resident">Maryland Resident</h3>
+<h3 class="resident">Maryland Resident - Undergraduate</h3>
 <table class="courses resident">
 <tr>
   <td width="25%">Total Credits</td>
@@ -100,7 +100,7 @@
 </tr>
 </table>
 
-<h3 class="non-resident">Non-Maryland Resident</h3>
+<h3 class="non-resident">Non-Maryland Resident - Undergraduate</h3>
 <table class="courses non-resident">
 <tr>
   <td width="25%">Total Credits</td>

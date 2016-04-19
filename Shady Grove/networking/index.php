@@ -2,20 +2,20 @@
 <html>
 <head>
 
-<title>UMBC-Shady Grove Undergraduate Preview Night</title>
+<title>UMBC Alumni Networking Reception</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Join us for Preview Night to learn important information regarding transfer requirements, application deadlines, scholarships, and financial aid opportunities." />
+<meta name="description" content="We invite you to join us for a UMBC alumni networking reception celebrating the grit and greatness of UMBC graduates living in Montgomery County, Maryland." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UatShadyGrove">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="UMBC-Shady Grove Undergraduate Preview Night" />
+<meta property="og:title" content="UMBC Alumni Networking Reception" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/shadygrove/preview" />
-<meta property="og:image" content="http://umbc.edu/shadygrove/preview/images/preview-fb.png" />
-<meta property="og:description" content="Join us for Preview Night to learn important information regarding transfer requirements, application deadlines, scholarships, and financial aid opportunities." />
+<meta property="og:url" content="http://www.umbc.edu/shadygrove/networking/" />
+<meta property="og:image" content="http://umbc.edu/shadygrove/networking/images/networking-fb.png" />
+<meta property="og:description" content="We invite you to join us for a UMBC alumni networking reception celebrating the grit and greatness of UMBC graduates living in Montgomery County, Maryland." />
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
@@ -88,30 +88,19 @@
   
 <!-- START Content -->
 <h3>
-<strong>Special Event for Prospective Students:</strong>
-</h3>
-<h3><a href="index"><img src="images/PreviewNight_Header2.png" alt="Shady Grove Preview Night" style="width:100%"></a></h3>
+<strong>UMBC Alumni Networking Reception</strong></h3>
+<h3><a href="index"><img src="images/sg50.jpg" alt="UMBC Alumni Newtworking Reception" style="width:100%"></a></h3>
 
 <h5>
-<strong>WHEN:</strong> Thursday, October 8, 6:30 - 8:00 PM<br>
-<strong>WHERE:</strong> <a href="http://www.shadygrove.umd.edu/about/visit" target="_blank">The Universities at Shady Grove</a>, Building II - Multipurpose Room
+<strong>WHEN:</strong> Thursday, June 9, 6-8 PM<br>
+<strong>WHERE:</strong> <a href="http://www.shadygrove.umd.edu/about/visit" target="_blank">The Universities at Shady Grove</a>
 </h5>
 <br>
- 
-<p>GRIT. It&rsquo;s an attitude, defined by courage, resolve, and strength of character, which embodies the indomitable spirit of UMBC. That essence is felt here at UMBC-Shady Grove too. Earning your bachelor&rsquo;s degree takes perseverance. It takes grit.</p>
 
-<p>  If you&rsquo;re ready to work hard for your bachelor's degree and make some great connections along the way, you&rsquo;ll fit right in here at UMBC-Shady Grove.</p>
- 
-<h4><strong>Here's What You Missed During Preview Night:</strong></h4>
-  <ul><li>Hear first-hand from members of the UMBC-Shady Grove <strong><a href="pat">Peer Advisory Team</a></strong></li>
-    <li>Learn about our programs in <strong><a href="http://umbc.edu/shadygrove/history" target="_blank">History</a></strong>, <strong><a href="http://umbc.edu/shadygrove/politicalscience" target="_blank">Political Science</a></strong>, <strong><a href="http://umbc.edu/shadygrove/psychology" target="_blank">Psychology</a></strong>, and <strong><a href="http://umbc.edu/shadygrove/socialwork" target="_blank">Social Work</a></strong></li>
-    <li> Meet and connect with UMBC faculty and staff</li>
-    <li>Receive important information regarding transfer requirements, application deadlines, scholarships, and financial aid opportunities</li>
-    <li>Meet UMBC's mascot, True Grit!</li>
-    </ul>
-  
+<p>We invite you to join us for a UMBC alumni networking reception celebrating 50 years of grit and greatness with UMBC graduates living in Montgomery County, Maryland.</p>
+
 <p id="photos">
-<img src="images/photos.PNG">
+  <img src="images/event.png">
 </p>
 
 <!-- END Content -->
@@ -119,14 +108,14 @@
 
 <!-- SIDEBAR -->
 
-<?php include("includes/sidebar.php"); ?>
+<?php include("includes/sidebar-forum.php"); ?>
 
 <!-- END SIDEBAR -->
 <!-- footer -->
 <br clear="all">
     
 <?php include("includes/footer.php"); ?>
-<?php // include("includes/tracking.php"); ?>
+<?php include("includes/tracking.php"); ?>
 
 <br>
     <!--END footer -->
@@ -134,8 +123,6 @@
   <!-- container -->
   
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
 <script src="js/scripts.js"></script> 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>

@@ -73,11 +73,11 @@
      
 <p>Summer session tuition is based on UMBC’s standard part-time credit rate for Maryland residents and non-residents.  Only two mandatory fees – an auxiliary facilities fee and a flat $20 summer session fee – are charged in summer session – a substantial cost savings for summer students. </p>
 
-<p class="tuition-links"><strong>See Costs For:</strong> <a href="#" class="tuition-link-md">Maryland Resident</a> | <a href="#" class="tuition-link-non">Non-Maryland Resident</a></p>
+<p class="tuition-links"><strong>See Costs For:</strong> <a href="#" class="tuition-link-md">Maryland Resident - Undergraduate</a> | <a href="#" class="tuition-link-non">Non-Maryland Resident - Undergraduate</a></p>
 
 <?php include("includes/tuition-charts.php"); ?>
 
-<p>For more information about UMBC tuition and fees, visit the Student Business Services <a href="http://sbs.umbc.edu" target="_blank">website</a>.  </p>
+<p>For graduate tuition rates, or more information about UMBC tuition and fees, visit the Student Business Services <a href="http://sbs.umbc.edu" target="_blank">website</a>.  </p>
 
 <!--
   <li><a href="http://sbs.umbc.edu/winter-2016-tuition/" target="_blank">View 2016 tuition &amp; fees</a>.</li>
@@ -174,7 +174,7 @@
 
   <footer id="site-footer" class="clearfix">
     <?php include("includes/footer.php"); ?>
-    <?php include("includes/tracking.php"); ?>
+    <?php // include("includes/tracking.php"); ?>
   </footer>
 </div>
 <!-- container --> 

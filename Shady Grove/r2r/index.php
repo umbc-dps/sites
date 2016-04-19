@@ -19,7 +19,7 @@
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href="css/accordion.css" rel="stylesheet">
+<link href="../css/accordion.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script src="../js/modernizr.custom.js"></script>
@@ -33,6 +33,11 @@
 
 <style>
 #mobile-site-menu-expander{display:none}
+.accordionheader{background-color: transparent!important; margin-top:8px; margin-left:20px; margin-right:40px;}
+.accordionbody{margin-left:60px; margin-right: 40px;}
+.accordionheader h4{font-weight:normal}
+i, .ui-state-active i{float:left!important; margin-right:15px}
+
 </style>
 </head>
 
@@ -71,12 +76,16 @@
   
 <!-- START Content -->
 <br>
+<br>
 
-<h3>
+<h3 style="text-align:center">
 	<a href="index">
-    	<img src="images/header.png" alt="Open House" style="width:100%">
+    	<img src="images/header.jpg" alt="Open House" style="width:60%;">
 	</a>
 </h3>
+<br>
+
+<hr>
 
 <h3>Program Description</h3>
 <p>
@@ -110,12 +119,20 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 
 <p><em><strong>Note:</strong> Students must adhere to all UMBC admissions procedures and UMBC-Shady Grove program specific requirements.</em></p>
 
-
+<div id="accordion">
 <h3>Frequently Asked Question</h3>
-<h4>Who is eligible for R2R?</h4>
-<p>Any MC student who has earned between 12-36 credits and is interested in one of UMBC’s four undergraduate programs offered at USG: history, political science, psychology, and/or social work.</p>
 
-<h4>What are the requirements for successful completion of R2R?</h4>
+<div class="accordionheader">
+<h4>Who is eligible for R2R?<i class="fa fa-angle-down"></i></h4></div>
+
+<div class="accordionbody">
+<p>Any MC student who has earned between 12-36 credits and is interested in one of UMBC’s four undergraduate programs offered at USG: history, political science, psychology, and/or social work.</p>
+</div>
+
+<div class="accordionheader">
+<h4>What are the requirements for successful completion of R2R?<i class="fa fa-angle-down"></i></h4></div>
+
+<div class="accordionbody">
 <ul>
 	<li>Signed and completed student-specific Success Agreement (SA)</li>
 	<li>Completion of required modules, events, and trainings</li>
@@ -126,8 +143,12 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 		</ul>
 	<li> Completion of an Associate Degree from MC with a minimum cumulative GPA of 2.0</li>
 </ul>
+</div>
 
-<h4>How do I get more information about UMBC-Shady Grove undergraduate programs?</h4>
+<div class="accordionheader">
+<h4>How do I get more information about UMBC-Shady Grove undergraduate programs?<i class="fa fa-angle-down"></i></h4></div>
+
+<div class="accordionbody">
 <ul>
 	<li>
 	<a href="../history">History</a> - 
@@ -156,10 +177,16 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 <p align="center">
 <a href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank" class="btn2">RSVP to Meet a Program Director</a>
 </p>
+</div>
 
-<h4>How do you apply?</h4>
+<div class="accordionheader">
+<h4>How do you apply?<i class="fa fa-angle-down"></i></h4></div>
+
+<div class="accordionbody">
 <p>Submit the <a href="https://docs.google.com/forms/d/1PSRkMHXm5dVisMvNxJICeX_xsAYV-ZhJFyvCcLCwtHs/viewform?c=0&w=1&usp=mail_form_link" target="_blank">R2R application</a> November 15 (spring semester) for priority consideration.
 </p>
+</div>
+<br>
 
 <h3>Contact Us/Request Info</h3>
 
