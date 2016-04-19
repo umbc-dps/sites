@@ -716,31 +716,27 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank"><img src="images/pat.png" alt=""/></a>
+<a href="images/gradweek.jpg" target="_blank"><img src="images/career.png" alt=""/></a>
+
+<br><br>
 <h3 style="line-height:normal; font-size:15pt">
-<br>
-Fall 2016 Registration Begins this Week! </h3>
+  Thinking about Grad School? Attend Grad School Prep Week at UMBC-Shady Grove</h3>
 
 
 <div class="boxleft" style="width:60%">
 
-  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Fall 2016 registration has begun! If you haven't already, meet with your advisor for registration clearance. Also, check the calendar for your registration appointment so you can beat the rush!</h6>
+  <h6 style="font-size:12pt; margin:0px; line-height:14pt"><br>Sessions running daily 4/18 to 4/22.</h6>
   </div><!-- end boxleft nested div -->
 
 
 <br>
 
 	<div class="boxright">
-<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank" style="text-decoration:none">
+<a href="images/gradweek.jpg" target="_blank" style="text-decoration:none">
 <div class="button" style="height:auto; line-height:16pt; vertical-align:middle;">
 
 
-<br>
-
-Register!
-<br>
-
-<br>
+View Programs
 
 
 </div></a>
