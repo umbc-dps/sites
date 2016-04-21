@@ -14,9 +14,11 @@
 <file name="menu.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130825785138495720" remote="130825785150000000" Dst="2" />
 <file name="rsvp-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130863864543094549" remote="130863864560000000" Dst="2" />
 <file name="sidebar.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131042667658959750" remote="131042667830000000" Dst="2" />
-<file name="submit.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130798105241431592" remote="130945906690000000" Dst="1" />
-<file name="umbc-header.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130978728424067500" remote="130978728860000000" Dst="1" />
-<file name="tracking.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130927657641410818" remote="130927657650000000" Dst="1" />
+<file name="submit.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130798105241431592" remote="130945870690000000" Dst="2" />
+<file name="umbc-header.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130978728424067500" remote="130978692860000000" Dst="2" />
+<file name="tracking.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130927657641410818" remote="130927621650000000" Dst="2" />
 <file name="webinar-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130876726780000000" remote="130876726780000000" Dst="2" />
-<file name="sidebar-old" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130946869480000000" remote="130946869480000000" Dst="1" />
+<file name="sidebar-old" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130946869480000000" remote="130946833480000000" Dst="2" />
+<file name="program-info.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131057289312567650" remote="131057289320000000" Dst="2" />
+<file name="contact-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131057298735409840" remote="131057298730000000" Dst="2" />
 </dwsync>
