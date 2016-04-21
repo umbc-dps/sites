@@ -66,7 +66,7 @@
 
 <h3>Admissions: Post-Baccalaureate Certificate </h3>
 <h4>Application Dates</h4> <p>The application deadline for Fall 2016 is <strong>August 1</strong><br>
-Spring 2016 Classes Start: <strong>August 31, 2016</strong></p>
+Fall 2016 Classes Start: <strong>August 31, 2016</strong></p>
  <h4>Admissions Requirements </h4>
  <ul>
       <li>A bachelor’s degree in Engineering, Computer Science or Information Systems.</li>

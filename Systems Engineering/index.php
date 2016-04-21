@@ -102,31 +102,10 @@
 
 <!-- END SLIDE TWO --> 
 
-
-<!-- SLIDE THREE --> 
+      
+<!-- Slide TWO -->    
 
 <li id="slide2">
-
-<a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank"><img alt="img01" src="images/1.png"></a>
-
-<div class="carousel-caption-right wordwrap">
-<h3>New Program Director, Tom Moore</h3>
-<small>Dr. Moore has worked over 25 years in industry designing, developing, and testing products. </small>
-
-<p><a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" class="web-seemore" target="_blank">Read More</a></p></div>
-
-<p id="captionthree">
-<a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank">New Program Director, Tom Moore</a>
-</p>
-
-</li>
-
-<!-- END SLIDE THREE --> 
-      
-      
-<!-- Slide FOUR -->    
-
-<li id="slide3">
 
 <a href="programcert"><img src="images/3.jpg" alt="certificate"/></a>
 <div class="carousel-caption wordwrap">
@@ -139,7 +118,7 @@
 
 </li>
 
-<!-- END SLIDE FOUR -->
+<!-- END SLIDE TWO -->
 
 </ul>
 

@@ -4,18 +4,18 @@
 <meta charset="UTF-8">
 <title>All Courses | Summer Programs at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Billing information for students looking to take UMBC's summer 2016 courses." />
+<meta name="description" content="Filter & search through all courses offered this Summer." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Billing | Summer Programs at UMBC" />
+<meta property="og:title" content="All Courses | Summer Programs at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/billing" />
+<meta property="og:url" content="http://www.umbc.edu/summer/all-courses" />
 <meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="Billing information for students looking to take UMBC's summer 2016 courses." />
+<meta property="og:description" content="Filter & search through all courses offered this Summer." />
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>

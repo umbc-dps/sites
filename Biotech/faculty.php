@@ -216,30 +216,6 @@ B.S., Case Western Reserve University</p>
             <p>You can view Dr. Gouker&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/pub/toby-gouker-phd/1/590/528" target="_blank">here</a>.<br></p>
           </div>
 
-
-          <div class="accordionheader">
-            <h4><a id="a6" href="#griner"></a>Anita Griner<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
-            <p><strong>Graduate Faculty</strong><br>
-<img align="left" alt="UMBC Faculty Anita Griner" src="images/faculty/umbc-faculty-Anita%20Griner.gif"></p>
-            <p>
-            B.A., Organizational/Personnel Psychology, UMBC<br>
-            M.B.A., University of Baltimore<br>
-</p>
-<p>
-            Anita Griner has been with UMBC since 2007. Specializing in project management consultation and instruction, Ms. Griner currently serves as the Deputy Director for the Data Sharing &amp; Partnership Group at the Center for Program Integrity at the Centers for Medicare and Medicaid Services. Her current programs include the ACA 6002 National Physician Payment Reporting Program: OPENPAYMENTS and the Healthcare Fraud Prevention Partnership (HFPP). She previously was a Project Manager at Maricom Systems, IBM, and Applied Digital Solutions where she has trained and consulted with private, State and Federal government clients. Ms. Griner is Project Management Professional (PMP) certified through the national Project Management Institute.
-</p>
-
-            <p>Ms. Griner received her B.A. from UMBC in Organizational/Personnel Psychology and her M.B.A. from the University of Baltimore. She is a member of the Project Management Institute and actively serves on various project management focus groups and practice teams to develop and implement project management guidelines and standards. She has been named the HHS Secretary&rsquo;s Award for Distinguished Service and the CMS CIO&rsquo;s Citation Award for Project Management.</p>
-
-
-            <p>You can view Ms. Griner&rsquo;s public LinkedIn profile here <a href="http://www.linkedin.com/in/anitagriner" target="_blank">here</a>.</p>
-          </div>
-
-
           <div class="accordionheader">
             <h4><a id="maccarthy2" href="#mjones"></a>Michelle Jones<i class="fa fa-angle-down"></i></h4>
           </div>

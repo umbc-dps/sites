@@ -65,7 +65,7 @@
 <h3>Admissions: Post-Baccalaureate Certificate </h3>
 <h4>Application Dates</h4>
 <p>The application deadline for Fall 2016 is <strong>August 1</strong><br>
-Spring 2016 Classes Start: <strong>August 31, 2016</strong></p>
+Fall 2016 Classes Start: <strong>August 31, 2016</strong></p>
 
    <p>
    Students may begin the Biotechnology Management certificate in the fall, spring, and summer. Students may begin the Biochemical Regulatory Engineering certificate in the fall and spring.  Any student interested in applying after the posted deadlines should contact <a href="mailto:nancyc@umbc.edu" target="_blank">Nancy Clements</a>.</p>
@@ -86,7 +86,7 @@ Spring 2016 Classes Start: <strong>August 31, 2016</strong></p>
 
  
  <h4>Application Process</h4>
- <p>Applications for the Biotechnology Strategy and Policy Post-Baccalaureate Certificate are accepted for the Fall &amp; Spring semesters. To apply for the Biotechnology Post-Baccalaureate Certificates, complete a UMBC Graduate Application for Post-Baccalaureate Certificate Programs and use: Biotechnology Certificate – PSBT </p>
+ <p> To apply for the Biotechnology Post-Baccalaureate Certificates, complete a UMBC Graduate Application for Post-Baccalaureate Certificate Programs:</p>
  <ul>
    <li style="list-style-type:decimal"><a href="http://gradschool.umbc.edu/admissions/apply" target="_new">Apply online</a>
      <ul>
