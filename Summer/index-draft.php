@@ -67,96 +67,9 @@
         
  
  
- <!-- Slide One  -->
+<!-- Slide One  -->
 
 <li id="slide1">
-
-<a href="courses"><img src="images/survivalguide.jpg" alt="img03" target="_blank"></a>
-
-<div class="carousel-caption wordwrap">
-    
-<h3>Registration Open Now</h3>
-<small>Summer session starts May 31. UMBC students currently enrolled in spring 2016 are now eligible to register.</small>
-            
-<p><a href="courses" role="button" class="web-seemore" target="_blank">View the Schedule</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="courses" target="_blank">View Schedule of Classes</a></p>
-          
-</li>
-
-          
-<!-- END Slide One -->
- 
- 
- <li id="slide2">
-
-<a href="csj.php"><img src="images/CSJ Web Carousel 2.png" alt="Culture & Social Justice" target="_blank"></a>
-
-<!--<div class="carousel-caption-right wordwrap">
-    
-<h3>Culture & Social Justice</h3>
-<small></small>
-            
-<p><a href="csj.php" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>-->
-
-<p id="captiontwo"><a href="csj.php" target="_blank">Culture & Social Justice</a></p>
-          
-</li>
-          
-<!-- END Slide Two -->
-
-
-<!-- Slide Three (Featured Course) -->
-
-<li id="slide3">
-
-<a href="http://gritgoing.umbc.edu/?p=647" target="_blank"><img src="images/featured/ENGL271.jpg"></a>
-
-<div class="carousel-caption wordwrap">
-
-<h3>Featured Course: Scriptwriting (ENGL 272)</h3>
-<small>Craft your own screenplay.</small>
-            
-<p><a href="http://gritgoing.umbc.edu/?p=647" role="button" class="web-seemore" target="_blank">Learn More</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=647" target="_blank">Featured Course: Scriptwriting</a></p>
-          
-</li>
-          
-<!-- END Slide Three -->   
-
-
-<!-- Slide Four -->
-
-<li id="slide4">
-
-<a href="https://apps.my.umbc.edu/pathways/" target="_blank"><img src="images/8.png" alt="img03"></a>
-
-<div class="carousel-caption-right wordwrap">
-
-<h3>Academic Pathways</h3>
-<small>Stay on track to graduate on time!  View sample 4-year academic pathways for each UMBC degree program.</small>
-            
-<p><a href="https://apps.my.umbc.edu/pathways/" role="button" class="web-seemore" target="_blank">Learn More</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="https://apps.my.umbc.edu/pathways/" target="_blank">Academic Pathways</a></p>
-          
-</li>
-          
-<!-- END Slide Four -->        
-        
-        
-<!-- Slide Five -->
-
-<li id="slide5">
 
 <a href="http://sbs.umbc.edu/summer-2016-payment-plan/"><img src="images/payment.jpg" alt="img03" target="_blank"></a>
 
@@ -172,54 +85,59 @@
 <p id="captiontwo"><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" target="_blank">Summer 2016 Payment Plan</a></p>
           
 </li>
+
           
-<!-- END Slide Five -->
+<!-- END Slide One -->
+ 
+ 
+<!-- Slide Two (Featured Course) -->
+ 
+ <li id="slide2">
 
-
-<!-- Slide Five (Featured Course) -->
-
-<li id="slide5">
-
-<a href="#" target="_blank"><img src="images/featured/ENTR340.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=753" target="_blank"><img src="images/featured/GWST210.jpg"></a>
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Socialpreneur (ENTRE 340)</h3>
-<small>Develop solutions to real-world problems.</small>
+<h3>Featured Course: Critical Sexuality Studies
+(GWST 210)</h3>
+<small>Discuss our nation's important conversations and earn a GEP credit this summer.</small>
             
-<p><a href="#" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=753" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="#" target="_blank">Featured Course: Socialpreneur</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=753" target="_blank">Featured Course: Critical Sexuality Studies</a></p>
           
 </li>
           
-<!-- END Slide Five -->       
+          
+<!-- END Slide Two -->
 
 
-<!-- Slide Seven (Featured Course) -->
+<!-- Slide Three -->
 
-<li id="slide7">
+<li id="slide3">
 
-<a href="#" target="_blank"><img src="images/featured/ANCS201.jpg"></a>
+<a href="csj.php"><img src="images/CSJ Web Carousel 2.png" alt="Culture & Social Justice" target="_blank"></a>
 
-<div class="carousel-caption wordwrap">
-
-<h3>Featured Course: Ancient Greeks (ANCS 201)</h3>
-<small>Explore Greek mythology and the world of Alexander the Great.</small>
+<!--
+<div class="carousel-caption-right wordwrap">
+    
+<h3>Culture & Social Justice</h3>
+<small></small>
             
-<p><a href="#" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="csj.php" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
+-->
 
-<p id="captiontwo"><a href="#" target="_blank">Featured Course: Ancient Greeks</a></p>
+<p id="captiontwo"><a href="csj.php" target="_blank">Culture & Social Justice</a></p>
           
 </li>
           
-<!-- END Slide Seven -->   
-         
-          
+<!-- END Slide Three -->   
+
+
 </ul>
 
 	<div id="dotcontainer"></div>
@@ -237,7 +155,7 @@
 	<dl class="eleven columns alpha">
 
 <br>    
-<h2>Registration Opens March 21</h2>
+<h2>Register Now</h2>
 <p>UMBC students currently enrolled in spring 2016 are eligible to register for summer session beginning on March 21. Visiting students from other institutions must first <a href="http://www.umbc.edu/summer/visitingstudents">apply</a> for summer term admission (and be accepted) before registering for summer courses.</p>
 
 <br>

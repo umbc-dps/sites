@@ -150,6 +150,21 @@ aside .btn, input.btn  {
   color: #FFF !important;
   text-decoration:none;
 }
+.btn3 {
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  color: #000 !important;
+  background: #FFCC33!important;
+  padding: 15px 20px 15px 20px;
+  text-size: 25px
+  text-decoration: none;
+  font-weight:bold;
+}
+.btn3:hover {
+  color: #FFF !important;
+  text-decoration: none;
+}
 aside#four input.btn{
   font-size: 10pt !important;
   border: 0;

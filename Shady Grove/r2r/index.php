@@ -37,7 +37,7 @@
 .accordionbody{margin-left:60px; margin-right: 40px;}
 .accordionheader h4{font-weight:normal}
 i, .ui-state-active i{float:left!important; margin-right:15px}
-
+.benefits{background-color:rgba(255, 194, 15, .5); padding: 15px}
 </style>
 </head>
 
@@ -80,31 +80,18 @@ i, .ui-state-active i{float:left!important; margin-right:15px}
 
 <h3 style="text-align:center">
 	<a href="index">
-    	<img src="images/header.jpg" alt="Open House" style="width:60%;">
+    	<img src="images/r2r.png" alt="Open House" style="width:100%;">
 	</a>
 </h3>
 <br>
 
 <hr>
 
-<h3>Program Description</h3>
 <p>
 Raptor to Retriever (R2R) is a transfer access program designed to streamline the transfer process between MC and UMBC-Shady Grove.  The program offers students a structured pathway for attaining an associate degree and a baccalaureate degree.
 </p>
 
-<h3>Admission Requirements</h3>
-<ul>
-	<li>Completed Application (Fall deadline: June 15; Spring deadline: November 15)</li>
-	<li>Minimum 2.0 MC GPA with an indicated interest in one of UMBC’s four undergraduate programs offered at USG: history, political science, psychology, and/or social work</li>
-	<li> Earned 12-36 credits by the end of the semester of application</li>
-	<li>Additional selection criteria (i.e. level of commitment to program and professional/academic/co-curricular involvement) will be used and garnered through the application process</li>
-</ul>  
-
-<p align="center">
-<a href="https://docs.google.com/forms/d/1PSRkMHXm5dVisMvNxJICeX_xsAYV-ZhJFyvCcLCwtHs/viewform?c=0&w=1&usp=mail_form_link" target="_blank" class="btn2">Fill Out Raptor to Retriever (R2R) Application</a>
-</p>
-
-
+<div class="benefits">
 <h3>Program Benefits</h3>
 <p>Upon acceptance into one of UMBC's programs at USG, students who complete all program requirements will receive the following benefits:</p>
 
@@ -118,94 +105,40 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 </ul>
 
 <p><em><strong>Note:</strong> Students must adhere to all UMBC admissions procedures and UMBC-Shady Grove program specific requirements.</em></p>
-
-<div id="accordion">
-<h3>Frequently Asked Question</h3>
-
-<div class="accordionheader">
-<h4>Who is eligible for R2R?<i class="fa fa-angle-down"></i></h4></div>
-
-<div class="accordionbody">
-<p>Any MC student who has earned between 12-36 credits and is interested in one of UMBC’s four undergraduate programs offered at USG: history, political science, psychology, and/or social work.</p>
 </div>
 
-<div class="accordionheader">
-<h4>What are the requirements for successful completion of R2R?<i class="fa fa-angle-down"></i></h4></div>
+<hr>
 
-<div class="accordionbody">
+<h3>Admission Requirements</h3>
 <ul>
-	<li>Signed and completed student-specific Success Agreement (SA)</li>
-	<li>Completion of required modules, events, and trainings</li>
-		<ul>
-	  		<li>Semesterly advising sessions with MC and UMBC representatives</li>
-	  		<li>Fall Retreat</li>
-	  		<li>Three workshops (at least one must be USG-offered)</li>
-		</ul>
-	<li> Completion of an Associate Degree from MC with a minimum cumulative GPA of 2.0</li>
-</ul>
-</div>
-
-<div class="accordionheader">
-<h4>How do I get more information about UMBC-Shady Grove undergraduate programs?<i class="fa fa-angle-down"></i></h4></div>
-
-<div class="accordionbody">
-<ul>
-	<li>
-	<a href="../history">History</a> - 
-	Dr. Andrew Nolan, History Program Director, <a href="mailto:nolan@umbc.edu">nolan@umbc.edu</a>
-	</li>    	    
-	   
-	<li>
-	<a href="../politicalscience">Political Science</a> - 
-	Dr. Sunil Dasgupta, Political Science Program Director, <a href="mailto:sunil@umbc.edu">sunil@umbc.edu</a>
-	</li>
-	    
-	<li>
-	<a href="../psychology">Psychology</a> - 
-	Dr. Diane Alonso, Psychology Program Director, <a href="mailto:dalonso@umbc.edu">dalonso@umbc.edu</a> 
-	</li>	    
-
-	<li>
-	<a href="../socialwork">Social Work</a> - 
-	Mrs. Katie Morris, LCSW-C, Social Work Program Director, <a href="mailto:kath@umbc.edu">kath@umbc.edu</a>
-	</li>
-</ul>
-
-<p>If you would like to visit with a program director and/or gain general information about UMBC-Shady Grove, consider attending an on-campus event!
-</p>
+	<li>Completed Application (Fall deadline: June 15; Spring deadline: November 15)</li>
+	<li>Minimum 2.0 MC GPA with an indicated interest in one of UMBC’s four undergraduate programs offered at USG: <a href="http://www.umbc.edu/shadygrove/history/index.php" target="_blank">History</a>, <a href="http://www.umbc.edu/shadygrove/politicalscience/index.php" target="_blank">Political Science</a>, <a href="http://www.umbc.edu/shadygrove/psychology/index.php" target="_blank">Psychology</a>, and/or <a href="http://www.umbc.edu/shadygrove/socialwork/index.php" target="_blank">Social Work</a></li>
+	<li> Earned 12-36 credits by the end of the semester of application</li>
+	<li>Additional selection criteria (i.e. level of commitment to program and professional/academic/co-curricular involvement) will be used and garnered through the application process</li>
+</ul>  
 
 <p align="center">
-<a href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank" class="btn2">RSVP to Meet a Program Director</a>
+<a href="https://docs.google.com/forms/d/1PSRkMHXm5dVisMvNxJICeX_xsAYV-ZhJFyvCcLCwtHs/viewform?c=0&w=1&usp=mail_form_link" target="_blank" class="btn3">APPLY TO R2R HERE!</a>
 </p>
-</div>
 
-<div class="accordionheader">
-<h4>How do you apply?<i class="fa fa-angle-down"></i></h4></div>
+<hr>
 
-<div class="accordionbody">
-<p>Submit the <a href="https://docs.google.com/forms/d/1PSRkMHXm5dVisMvNxJICeX_xsAYV-ZhJFyvCcLCwtHs/viewform?c=0&w=1&usp=mail_form_link" target="_blank">R2R application</a> November 15 (spring semester) for priority consideration.
-</p>
-</div>
-<br>
+<h3>Program Requirements</h3>
+<ul>
+  <li>Signed and completed student-specific Success Agreement (SA)</li>
+	  <li>Completion of required modules, events, and  trainings</li>
+      <li>Semesterly advising sessions with MC and UMBC  representatives</li>
+      <li>Fall Retreat</li>
+      <li>Three workshops (at least one must be  USG-offered)</li>
+      <li>Completion of an Associate Degree from MC with a  minimum cumulative GPA of 2.0</li>
+</ul>
+
+<hr>
 
 <h3>Contact Us/Request Info</h3>
 
 <ul>
-	<li>Chelsea S. Moyer - 
-  Undergraduate Program Coordinator, 
-  UMBC at The Universities at Shady Grove | 301-738-6184 - <a href="mailto:csmoyer@umbc.edu">csmoyer@umbc.edu</a>
-	</li>
-
-	<li>Tim H. Cox - Assistant Director of Advising and Student Success, UMBC at The Universities at Shady Grove | 
-  301-738-6281 - <a href="mailto:thcox@umbc.edu">thcox@umbc.edu</a>
-	</li>
-
-<li>Justin Edgar - Assistant Director of Transfer Access Programs, Universities at Shady Grove | 301-738-6071 - 
-  <a href="mailtp:jedgar@umd.edu">jedgar@umd.edu</a>
-</li>
-
-<li>Seth Marc Kamen, MBA - Articulation, Transfer and Academic Services Manager, Montgomery College | 240-567-4255 - <a href="mailto:seth.kamen@montgomerycollege.edu">seth.kamen@montgomerycollege.edu</a>
-</li>
+	<li>Contact  Us/Request Info: <a href="mailto:R2R@umbc.edu">R2R@umbc.edu</a></li>
 </ul>
 
 	    
@@ -226,7 +159,7 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 
 <br>
     <!--END footer -->
-  </div>
+</div>
   <!-- container -->
   
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>

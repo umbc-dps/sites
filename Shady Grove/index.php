@@ -716,27 +716,30 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="images/gradweek.jpg" target="_blank"><img src="images/career.png" alt=""/></a>
+<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank"><img src="images/RegisteredRetriever_FBPost.JPG" alt=""/></a>
 
-<br><br>
+
 <h3 style="line-height:normal; font-size:15pt">
-  Thinking about Grad School? Attend Grad School Prep Week at UMBC-Shady Grove</h3>
+ Fall 2016 - Become a #RegisteredRetriever</h3>
 
 
 <div class="boxleft" style="width:60%">
 
-  <h6 style="font-size:12pt; margin:0px; line-height:14pt"><br>Sessions running daily 4/18 to 4/22.</h6>
+  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Classes are filling up quickly! Choosing your classes early will allow you to have the schedule that fits your needs! </h6>
   </div><!-- end boxleft nested div -->
 
 
-<br>
+
 
 	<div class="boxright">
-<a href="images/gradweek.jpg" target="_blank" style="text-decoration:none">
-<div class="button" style="height:auto; line-height:16pt; vertical-align:middle;">
+<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank" style="text-decoration:none">
+<div class="button" style="height:auto; line-height:10pt; vertical-align:middle;">
 
+<br>
 
-View Programs
+Register
+<br><br>
+
 
 
 </div></a>
@@ -891,12 +894,11 @@ View Programs
     
     <a href="http://www.umbc.edu/shadygrove/info/uginfosession.php"><br>
       Undergraduate Info Session</a><br> 
-<small>Jan. 7, 2016 - May 20, 2016<br>
+<small>May 20, 2016 - Aug. 9, 2016<br>
 (Various Dates)</small><br>
 <br>
 <a href="http://www.umbc.edu/shadygrove/info/ugprogramdirectors.php">Visit with Undergraduate Program Directors</a><br>
-<small>Feb. 3, 2016 - May 1, 2016<br>
-(Various Dates)</small> </td>
+<small>Check back soon for additional opportunities.</small> </td>
   </tr>
   </table>
 </div>

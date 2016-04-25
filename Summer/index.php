@@ -94,18 +94,19 @@
  
  <li id="slide2">
 
-<a href="http://gritgoing.umbc.edu/?p=658" target="_blank"><img src="images/featured/ANCS201.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=753" target="_blank"><img src="images/featured/GWST210.jpg"></a>
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Ancient Greeks (ANCS 201)</h3>
-<small>Explore Greek mythology and the world of Alexander the Great.</small>
+<h3>Featured Course: Critical Sexuality Studies
+(GWST 210)</h3>
+<small>Discuss our nation's important conversations and earn a GEP credit this summer.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=658" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=753" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=658" target="_blank">Featured Course: Ancient Greeks</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=753" target="_blank">Featured Course: Critical Sexuality Studies</a></p>
           
 </li>
           
