@@ -116,18 +116,13 @@
 BEGIN MAIN
 -->
 <div class="container column" id="main">
-  <div  id="pp-heading"><br><br>
-
-
-    <a href="http://professionalprograms.umbc.edu"><img src="images/office-logo.png" alt="Office of Professional Programs" class="scale-with-grid first-child last-child alpha offset-by-two" style="margin-top:10px;"></a>
-     </div>
   <div class="sixteen columns">
     <div class="twelve columns alpha offset-by-two" style="padding-top:1em;">
     
-    <h3><a href="index"><img src="http://www.umbc.edu/openhouse/images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
+    <h3><a href="index"><img src="http://www.umbc.edu/rsvp/images/header2.png" alt="UMBC Professional Programs Information Session" style="width:100%"></a></h3>
     
     <h5 style="font-weight:bold">Date:</h5>
-<h6>Tuesday, April 26, 5:30-8:00PM</h5>
+<h6>Saturday, June 4, 2016 | 10:30AM - 12:00PM</h5>
 <br>
 
 <h5 style="font-weight:bold">Location:</h5>
@@ -138,21 +133,21 @@ BEGIN MAIN
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">11/4/2015 6:00 PM</span>
-    <span class="end">11/4/2015 8:30 PM</span>
+    <span class="start">6/4/2016 10:30 AM</span>
+    <span class="end">6/4/2016 12:00 PM</span>
     <span class="timezone">America/New_York</span>
-    <span class="title">ISD Now Forum</span>
-    <span class="description">Join us for the ISD Now Forum and hear from a panel of successful consultants who will discuss the competencies necessary in an ever-changing environment.</span>
-    <span class="location">University Center, Halethorpe, MD 21227</span>
-    <span class="organizer">UMBC Instructional Systems Development</span>
-    <span class="organizer_email">reisen@umbc.edu</span>
+    <span class="title">UMBC Professional Programs Information Session</span>
+    <span class="description">Come and chat on Saturday, June 4 with program directors and staff to find out "Why UMBC" is a fit for you.</span>
+    <span class="location">1450 S Rolling Rd, Halethorpe, MD 21227</span>
+    <span class="organizer">UMBC Professional Programs</span>
+    <span class="organizer_email">dps@umbc.edu</span>
     <span class="all_day_event">false</span>
     <span class="date_format">MM/DD/YYYY</span>
 </div>
 </center>
  
  <h3 style="font-weight:bold">Thank you!</h3>
- <p>Thank you for registering for the UMBC Professional Programs Open House. Your submission is confirmed and we look forward to seeing you at the event. A reminder email with more details on directions and the session will be sent to you two weeks prior to the Open House. To learn more about our programs in the meantime, visit: <a href="http://professionalprograms.umbc.edu">umbc.edu/professionalprograms</a>.</p>
+ <p>Thank you for registering for the UMBC Professional Programs Information Session. Your submission is confirmed and we look forward to seeing you at the event. A reminder email with more details on directions and the session will be sent to you two weeks prior to the Open House. To learn more about our programs in the meantime, visit: <a href="http://professionalprograms.umbc.edu">umbc.edu/professionalprograms</a>.</p>
 
 <h4>Additional questions?</h4>
 Contact Lisa Gambio, <a href="mailto:gambino@umbc.edu">gambino@umbc.edu</a> for Cybersecurity or Health IT<br>

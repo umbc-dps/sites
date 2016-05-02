@@ -117,11 +117,11 @@ style="display:none;" onload="if(submitted)
 <div class="required-message"></div>
 </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-select"><div class="ss-form-entry">
-<label class="ss-q-item-label" for="entry_1364888174"><div class="ss-q-title">How did you find out about the Open House?
+<label class="ss-q-item-label" for="entry_1364888174"><div class="ss-q-title">How did you find out about the Information Session?
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.1364888174" id="entry_1364888174" aria-label="How did you find out about the Open House?  " aria-required="true" required=""><option value=""></option>
+<select name="entry.1364888174" id="entry_1364888174" aria-label="How did you find out about the Information Session?  " aria-required="true" required><option value=""></option>
 <option value="Web search">Web search</option> <option value="Email">Email</option> <option value="Facebook">Facebook</option> <option value="LinkedIn">LinkedIn</option> <option value="Twitter">Twitter</option> <option value="Pandora Radio Ad">Pandora Radio Ad</option> <option value="Other Radio Ad">Other Radio Ad</option> <option value="Friend/Colleague">Friend/Colleague</option> <option value="Postcard">Postcard</option></select>
 <div class="required-message"></div>
 

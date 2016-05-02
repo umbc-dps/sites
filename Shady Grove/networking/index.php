@@ -62,7 +62,7 @@
 
 <!-- umbc header -->
 <div id="container-header">
- <?php include("includes/umbc-header.php"); ?>
+ <?php include("../includes/umbc-header.php"); ?>
 </div>
 <!-- END umbc header -->
 

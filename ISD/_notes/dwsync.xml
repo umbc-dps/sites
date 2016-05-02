@@ -44,4 +44,7 @@
 <file name="forumdirections2015.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130985472656388494" remote="130985473000000000" Dst="1" />
 <file name="forumthankyou2015.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130985472656988554" remote="130985473000000000" Dst="1" />
 <file name="policies.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130985489661568842" remote="130985489660000000" Dst="1" />
+<file name="contact2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131061523519398618" remote="131061523520000000" Dst="2" />
+<file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130996104770000000" remote="131061523430000000" Dst="2" />
+<file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131057265417927392" remote="131061523430000000" Dst="2" />
 </dwsync>

@@ -4,7 +4,7 @@
 <file name="advisoryboard.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130984854435438214" remote="130984854890000000" Dst="1" />
 <file name="bsms.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130995061253622443" remote="130995061260000000" Dst="1" />
 <file name="certificate.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="131057397502765917" remote="131057397620000000" Dst="2" />
-<file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130984854436328303" remote="130984854890000000" Dst="1" />
+<file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="131061545560132565" remote="131061545570000000" Dst="2" />
 <file name="costs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130984854436488319" remote="130984854890000000" Dst="1" />
 <file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130985473713914236" remote="130985473870000000" Dst="1" />
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130984854436848355" remote="130984854880000000" Dst="1" />
@@ -32,4 +32,7 @@
 <file name="faculty.html" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130790215832686771" remote="130790215840000000" Dst="2" />
 <file name="confirm.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130984854436108281" remote="130984854890000000" Dst="1" />
 <file name="orientation.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130984854438878558" remote="130984854870000000" Dst="1" />
+<file name="contact2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="131061545436940247" remote="131061545440000000" Dst="2" />
+<file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="130996104770000000" remote="131061544610000000" Dst="2" />
+<file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/se/" local="131057265417927392" remote="131061544610000000" Dst="2" />
 </dwsync>

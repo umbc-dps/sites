@@ -3,7 +3,8 @@
 require_once __DIR__ . '/autoload.php';
 $siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
 $secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en'; ?>
+$lang = 'en';
+?>
 
 <!DOCTYPE html>
 <html>
@@ -90,15 +91,31 @@ form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
       <h3>Contact Us</h3>
 
 
-<form action="process.php" method="post" id="dpsform">
+		<form action="process.php" method="post" id="dpsform">
 
 
         <p>Thank you for your interest in the UMBC Cybersecurity programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
 
+		<div id="form">
+         
+		</div>
+        
+        <table id="contact2">
+          <tr>
+           <td colspan="2" align="center">
+           <div class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
+           <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=<?php echo $lang; ?>">
+           </script>
+           <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha" required>
+           </td>
+          </tr>
 
-         <?php include("includes/contact-form.php"); ?>
-
-
+          <tr>
+            <td align="center" colspan="2">
+            	<input type="submit" name="submit" value="Submit" style="width:100px; height:auto">
+            </td>
+          </tr>
+          
           <tr>
             <td colspan="2" style="border-bottom: 2px #E9AB13 solid;"><strong>For more information on the program, please contact:</strong>
             </td>
@@ -121,20 +138,21 @@ form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
           </tr>
         </table>
       </form>
+
     
-    <div style="display:none">  
-    	<?php include("includes/program-info.php"); ?>  
+    <div id="contents" style="display:none">  
+    	  
     </div>
     
     </div>
     <!-- SIDEBAR -->
-    <?php include("includes/sidebar.php"); ?>
+    	<?php include("includes/sidebar.php"); ?>
 <!-- END SIDEBAR -->
     <!-- footer -->
     <br clear="all">
-    <?php include("includes/footer.php"); ?>
-<?php // include("includes/tracking.php"); ?>
-<br>
+		<?php include("includes/footer.php"); ?>
+        <?php // include("includes/tracking.php"); ?>
+	<br>
     <!--END footer -->
   </div>
   <!-- container -->
@@ -145,14 +163,18 @@ form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script src="js/email.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
 <!--Remove Comment for Programs without Program Guides--
 <script>$('#programguide').val(''); $('#planningform').val('');</script>
 -->
-<script src="js/sendtogoogle.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 </body>
 </html>

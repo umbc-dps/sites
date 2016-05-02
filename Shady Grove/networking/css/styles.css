@@ -267,17 +267,17 @@ a.web-seemore { color: #FFF !important}
 	text-align: left;
 	width: 15%
 }
-#umbc-nav-azindex {
-	width: 18%
+#umbc-nav-apply {
+	width: 12%
+}
+#umbc-nav-contact {
+	width: 24%
 }
 #umbc-nav-myumbc {
-	width: 19%
-}
-#umbc-nav-events {
-	width: 14%
+	width: 18%
 }
 #umbc-nav-directory {
-	width: 19%
+	width: 18%
 }
 li#umbc-nav-maps {
 	border-right: 0;

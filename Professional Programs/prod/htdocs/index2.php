@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,6 +81,9 @@
 	width: 100%;
 	height: 100%;
 }
+select#program[hidden]{display:block}
+.programlabel{display:block}
+select#program option.not-pro, select#program option.usg{display:none}
 </style>
 </head>
 
@@ -265,7 +276,7 @@ BEGIN MAIN
 <!--- SIDEBAR --->
 
 <div>
-<?php include("includes/sidebar.php"); ?>      
+<?php include("includes/sidebar2.php"); ?>      
 </div>
   
 <!--- END SIDEBAR --->
@@ -289,14 +300,26 @@ BEGIN MAIN
   </footer>
 </div></div>
 <!-- container --> 
+<script>
+	var programname = "pro";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
+
+<!-- Because of subdirectory, Professional Programs cannot reference DPS -->
+<script>$( "#form" ).load( "includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "includes/contact-form.php .mini-form" );</script>
+<script>$( "#contents" ).load( "includes/program-info.php" );</script>
+
 <script src="includes/scripts.js"></script> 
-<?php include("includes/tracking.php"); ?>
-<script src="includes/jquery.cbpFWSlider.js"></script> 
+<script src="includes/jquery.cbpFWSlider.js"></script>
 <script src="includes/jquery.magnific-popup.js"></script>
-<script src="includes/popup.js"></script> 
+<script src="includes/popup.js"></script>
+
+<script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 <script>
 $( function() {
     var isPaused = false;

@@ -17,4 +17,7 @@
 <file name="resources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130985472679150770" remote="130985473030000000" Dst="1" />
 <file name="rsvp.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130984854408255496" remote="130984855020000000" Dst="1" />
 <file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131042548444947575" remote="131042548450000000" Dst="2" />
+<file name="contact2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131061577347721164" remote="131061577350000000" Dst="2" />
+<file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130996104770000000" remote="131061576880000000" Dst="2" />
+<file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131057265417927392" remote="131061576880000000" Dst="2" />
 </dwsync>

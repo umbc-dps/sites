@@ -37,7 +37,7 @@
 .accordionbody{margin-left:60px; margin-right: 40px;}
 .accordionheader h4{font-weight:normal}
 i, .ui-state-active i{float:left!important; margin-right:15px}
-.benefits{background-color:rgba(255, 194, 15, .5); padding: 15px}
+.benefits{background-color:#FAC02C; padding: 15px}
 </style>
 </head>
 
@@ -107,7 +107,8 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 <p><em><strong>Note:</strong> Students must adhere to all UMBC admissions procedures and UMBC-Shady Grove program specific requirements.</em></p>
 </div>
 
-<hr>
+<br>
+<hr style="height:4px;border:none;color:#333;background-color:#333;" />
 
 <h3>Admission Requirements</h3>
 <ul>
@@ -121,7 +122,8 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 <a href="https://docs.google.com/forms/d/1PSRkMHXm5dVisMvNxJICeX_xsAYV-ZhJFyvCcLCwtHs/viewform?c=0&w=1&usp=mail_form_link" target="_blank" class="btn3">APPLY TO R2R HERE!</a>
 </p>
 
-<hr>
+<br>
+<hr style="height:4px;border:none;color:#333;background-color:#333;" />
 
 <h3>Program Requirements</h3>
 <ul>
@@ -133,13 +135,13 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
       <li>Completion of an Associate Degree from MC with a  minimum cumulative GPA of 2.0</li>
 </ul>
 
-<hr>
+<br>
+<hr style="height:4px;border:none;color:#333;background-color:#333;" />
 
-<h3>Contact Us/Request Info</h3>
-
-<ul>
-	<li>Contact  Us/Request Info: <a href="mailto:R2R@umbc.edu">R2R@umbc.edu</a></li>
-</ul>
+<br>
+<p align="center">
+<a href="mailto:R2R@umbc.edu" target="_blank" class="btn3">Contact Us: R2R@umbc.edu</a>
+</p>
 
 	    
       <!-- END Content -->

@@ -20,10 +20,14 @@
 <file name="modernizr.custom.js" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130030639700000000" remote="130785916280000000" Dst="2" />
 <file name="scripts.js" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130601237300000000" remote="130785916280000000" Dst="2" />
 <file name="styles-partially-minified.css" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130590666320000000" remote="130785916280000000" Dst="2" />
-<file name="styles-with-Skeleton-grid.css" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130978726692382615" remote="130978726920000000" Dst="1" />
-<file name="styles.css" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130978726692782615" remote="130978726920000000" Dst="1" />
-<file name="submit.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130782452220623898" remote="130785958570000000" Dst="1" />
-<file name="tracking.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130927667380194919" remote="130927667390000000" Dst="1" />
-<file name="sidebar.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130916553153585608" remote="130916553170000000" Dst="1" />
+<file name="styles-with-Skeleton-grid.css" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130978726692382615" remote="130978690920000000" Dst="2" />
+<file name="styles.css" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130978726692782615" remote="130978690920000000" Dst="2" />
+<file name="submit.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130782452220623898" remote="131060815290000000" Dst="2" />
+<file name="tracking.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130927667380194919" remote="130927631390000000" Dst="2" />
+<file name="sidebar.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130916553153585608" remote="130916517170000000" Dst="2" />
 <file name="popup.js" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130812745657118905" remote="130812745680000000" Dst="2" />
+<file name="program-info.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131062435449437222" remote="131062435450000000" Dst="2" />
+<file name="contact-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131062441609086124" remote="131062441620000000" Dst="2" />
+<file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131060815290000000" remote="131060815290000000" Dst="2" />
+<file name="event-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131066653407782913" remote="131066653410000000" Dst="2" />
 </dwsync>

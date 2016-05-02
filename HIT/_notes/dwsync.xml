@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131042665702531114" remote="131042665820000000" Dst="2" />
-<file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130984854367801451" remote="130984855330000000" Dst="1" />
+<file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131061518495186247" remote="131061518500000000" Dst="2" />
 <file name="costs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130984854367951466" remote="130984855330000000" Dst="1" />
 <file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130985473679110756" remote="130985473820000000" Dst="1" />
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130984854368271498" remote="130984855330000000" Dst="1" />
@@ -22,4 +22,7 @@
 <file name="webinar.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130880168989199980" remote="130880170230000000" Dst="2" />
 <file name="faculty.html" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130790216303876544" remote="130790252320000000" Dst="1" />
 <file name="confirm.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130984854367591430" remote="130984855330000000" Dst="1" />
+<file name="contact2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131061518560192747" remote="131061518570000000" Dst="2" />
+<file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131057265417927392" remote="131061518690000000" Dst="2" />
+<file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130996104770000000" remote="131061518730000000" Dst="2" />
 </dwsync>

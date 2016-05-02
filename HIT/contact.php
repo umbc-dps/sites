@@ -119,7 +119,7 @@ style="display:none;" onload="if(submitted)
 <form action="https://docs.google.com/forms/d/1bJlEgWtbP8RgiyFn6d7tpNamF-0JxflvMRj1ASvvK2c/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'contact_us'); trackConversionEvent('0.00','USD');">
 
 
-        <p>Thank you for your interest in the UMBC Cybersecurity programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
+        <p>Thank you for your interest in the UMBC Health IT programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
 
 
         <table border="0" id="contact">

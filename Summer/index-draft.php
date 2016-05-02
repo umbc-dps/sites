@@ -94,48 +94,66 @@
  
  <li id="slide2">
 
-<a href="http://gritgoing.umbc.edu/?p=753" target="_blank"><img src="images/featured/GWST210.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=756" target="_blank"><img src="images/featured/art325.jpg"></a>
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Critical Sexuality Studies
-(GWST 210)</h3>
-<small>Discuss our nation's important conversations and earn a GEP credit this summer.</small>
+<h3>Featured Course: History of Film
+(ART 325)</h3>
+<small>This summer, explore the fascinating world of cinema.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=753" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=756" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=753" target="_blank">Featured Course: Critical Sexuality Studies</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=756" target="_blank">Featured Course: History of Film</a></p>
           
 </li>
           
           
 <!-- END Slide Two -->
 
-
 <!-- Slide Three -->
 
 <li id="slide3">
 
-<a href="csj.php"><img src="images/CSJ Web Carousel 2.png" alt="Culture & Social Justice" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=655"><img src="images/featured/amst352.png" alt="Featured Course: American Culture in Global Perspective" target="_blank"></a>
 
-<!--
-<div class="carousel-caption-right wordwrap">
+<div class="carousel-caption wordwrap">
     
-<h3>Culture & Social Justice</h3>
-<small></small>
+<h3>Featured Course: American Culture in Global Perspective (AMST 352)</h3>
+<small>See America from a global perspective this summer!</small>
             
-<p><a href="csj.php" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=655" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
--->
 
-<p id="captiontwo"><a href="csj.php" target="_blank">Culture & Social Justice</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=655" target="_blank">Featured Course: American Culture in Global Perspective</a></p>
           
 </li>
           
-<!-- END Slide Three -->   
+<!-- END Slide Three --> 
+
+<!-- Slide Four -->
+
+<li id="slide3">
+
+<a href="http://gritgoing.umbc.edu/?p=652"><img src="images/featured/afst100.png" alt="Featured Course: Introduction to The Black Experience" target="_blank"></a>
+
+<div class="carousel-caption wordwrap">
+    
+<h3>Featured Course: Introduction to The Black Experience (AFST 100)</h3>
+<small>Earn GEP credits and gain insight into the black experience in the African diaspora.</small>
+            
+<p><a href="http://gritgoing.umbc.edu/?p=652" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=652" target="_blank">Featured Course: Introduction to The Black Experience</a></p>
+          
+</li>
+          
+<!-- END Slide Four --> 
 
 
 </ul>
@@ -177,7 +195,7 @@
 
   <footer id="site-footer" class="clearfix">
     <?php include("includes/footer.php"); ?>
-    <?php include("includes/tracking.php"); ?>
+    <?php //include("includes/tracking.php"); ?>
   </footer>
 <!-- container --> 
 

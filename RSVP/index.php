@@ -151,10 +151,10 @@ aside p, aside dl {
 	  <div class="ten columns">
   
 <!-- START Content -->
-<h3><a href="index"><img src="http://www.umbc.edu/openhouse/images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
+<h3><a href="index"><img src="http://www.umbc.edu/rsvp/images/header2.png" alt="UMBC Professional Programs Information Session" style="width:100%"></a></h3>
 
 <h4 style="font-weight:bold">Why UMBC?</h4>
-<h6>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</h6>
+<h6>Come and chat on Saturday, June 4 with program directors and staff to find out "Why UMBC" is a fit for you. </h6>
 <br>
 
 <h6>Learn about UMBC Graduate Programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology and Systems Engineering.</h6>
@@ -162,7 +162,7 @@ aside p, aside dl {
 
 
 <h4 style="font-weight:bold">Date:</h4>
-<h5>Tuesday, April 26, 5:30-8:00PM</h5>
+<h5>Saturday, June 4, 2016 | 10:30AM - 12:00PM</h5>
 <br>
 
 <h4 style="font-weight:bold">Location:</h4>
@@ -180,7 +180,7 @@ aside p, aside dl {
 </div>
 
 <!-- SIDEBAR -->
-<aside class="six columns add-bottom">
+<aside class="six columns add-bottom" id="event-form">
 <?php include("includes/sidebar.php"); ?>
 </aside>
 
@@ -214,6 +214,7 @@ aside p, aside dl {
 <script src="includes/jquery.cbpFWSlider.js"></script> 
 <script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script> 
+<script>$( "#event-form" ).load( "../rsvp/includes/sidebar.php" );</script>
 
 <script>
 var vars = [], hash;

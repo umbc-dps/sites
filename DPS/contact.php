@@ -1,7 +1,7 @@
 <style>
 form{
 	font-family: Arial,"Helvetica Neue", Helvetica,  sans-serif;
-	font-size: 13px; 
+	font-size: 13pt; 
 	color:#FFF;
 	}
 form ul{list-style-type:none;}
