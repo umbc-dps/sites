@@ -13,7 +13,7 @@
 		var questions = $("#questions").val();
 
 		$.ajax({
-			url: "https://docs.google.com/forms/d/1DPjabB7V6eZ17qqWk-GFXSsG_EKIcH9kW2-1366OIB4/formResponse",
+			url: "https://docs.google.com/forms/d/1bJlEgWtbP8RgiyFn6d7tpNamF-0JxflvMRj1ASvvK2c/formResponse",
 			data: {
 				"entry.2043034092": firstname, 
 				"entry.1555015214": lastname, 

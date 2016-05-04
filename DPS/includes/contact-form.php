@@ -307,7 +307,7 @@
            <option value="Cybersecurity (Main)" id="cyber" class="pp">Cybersecurity (Catonsville)</option> 
            <option value="Cybersecurity (Shady Grove)" id="cyber-sg" class="usg-grad">Cybersecurity (Shady Grove)</option> 
            <option value="Health Information Technology (Main)" id="hit" class="pp">Health Information Technology</option> 
-           <option value="Engineering Management (Main)" id="engm" class="pp">Engineering Management</option> 
+           <option value="Engineering Management (Main)" id="engm" class="pp">Engineering Management</option> 
            <option value="Systems Engineering (Main)" id="se" class="pp">Systems Engineering</option> 
            <option value="Geographic Information Systems (Shady Grove)" id="gis" class="usg-grad">Geographic Information Systems</option> 
            <option value="Industrial & Organizational Psychology (Shady Grove)" id="io" class="usg-grad">Industrial & Organizational Psychology</option> 
@@ -339,15 +339,15 @@
             </tr>
 			<tr class="sidebar-form mini-form">
 			  <td>
-                <input type="text" name="programtitle" id="programtitle">
-                <input type="text" name="pc" id="pc">
-                <input type="text" name="cc" id="cc">
-                <input type="text" name="url" id="url">
-                <input type="text" name="pctitle" id="pctitle">
-                <input type="text" name="infosession" id="infosession">
-                <input type="text" name="programguide" id="programguide">
-                <input type="text" name="planningform" id="planningform">
-                <textarea name="body" id="body"></textarea>
+                <input type="text" name="programtitle" id="programtitle" hidden>
+                <input type="text" name="pc" id="pc" hidden>
+                <input type="text" name="cc" id="cc" hidden>
+                <input type="text" name="url" id="url" hidden>
+                <input type="text" name="pctitle" id="pctitle" hidden>
+                <input type="text" name="infosession" id="infosession" hidden>
+                <input type="text" name="programguide" id="programguide" hidden>
+                <input type="text" name="planningform" id="planningform" hidden>
+                <textarea name="body" id="body" hidden></textarea>
               </td>
 			</tr>
             

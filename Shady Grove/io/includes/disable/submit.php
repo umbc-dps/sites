@@ -25,7 +25,7 @@ $MsgBody .= "$Divider\n" . $_SERVER["HTTP_USER_AGENT"] . "\n";
 $MsgBody = htmlspecialchars($MsgBody);  //make content safe
 
 // Build Message Body from Web Form Input
-$MsgBody2 = "Thank you for your interest in UMBC's I/O Psychology program.
+$MsgBody2 = "Thank you for your interest in UMBC's I/O Psychology programs.
 
 We will address your inquiry shortly. In the meantime, please feel free to browse our website and learn more about our program offerings, curriculum, and experienced faculty.
 

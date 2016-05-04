@@ -3,12 +3,11 @@
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Upcoming Event</h3>
       <p style="text-align:center">
-<strong>Professional Programs Exploration Night</strong><br />
-Tuesday, April 26, 5:30 - 8:00PM<br>
+<strong>Professional Programs Info Session</strong><br />
+Saturday June 4, 10:30AM - 12:00PM<br>
 
-      <a class="btn" href="http://www.umbc.edu/openhouse/" target="_blank">RSVP</a>
+      <a class="btn" href="http://www.umbc.edu/rsvp" target="_blank">RSVP</a>
 	</p>
-
     </aside>
 
 

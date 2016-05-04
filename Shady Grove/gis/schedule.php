@@ -66,6 +66,86 @@
   
 <!-- START Content -->
 
+
+
+<h3>Fall 2016 Schedule of Classes </h3>
+
+<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
+  <strong>Advanced Registration Begins:</strong> April 4, 2016 (for students currently enrolled in spring 2016) <br>
+  <strong>Registration for Newly Admitted Students:</strong>  June 6, 2016<br>
+  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+<p>There may be more courses announced in the near future.  This list is not final.</p>
+
+<table id="schedule">
+  <tr>
+    <td width="20%">COURSE/CLASS<br>NUMBER</td>
+    <td width="25%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="20%">PROFESSOR</td>
+  </tr>
+  <tr>
+    <td>GES 670.01 (5027)</td>
+    <td>Advanced Seminar in GIS</td>
+    <td>Monday</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Erwin Villiger</td>
+  </tr>
+  <tr>
+    <td>GES 671.01 (5021)</td>
+    <td>Spatial Database and Systems Design</td>
+    <td>Tuesday</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Luis Bermudez</td>
+  </tr>
+  <tr>
+    <td>GES 678.01 (6184)</td>
+    <td>Project Management of the Enterprise GIS</td>
+    <td>Wednesday</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>John Schlee</td>
+  </tr>
+  <tr>
+    <td>GES 679.01 (6647)</td>
+    <td>Professional Seminar in Geospatial Technologies</td>
+    <td>Tuesday</td>
+    <td>6:15 PM - 8:00 PM</td>
+    <td>Nate Smith</td>
+  </tr>
+  <tr>
+    <td>GES 679.02 (7984)</td>
+    <td>Professional Seminar in Geospatial Technologies </td>
+    <td>Wednesday</td>
+    <td>6:15 PM - 8:00 PM</td>
+    <td>Soumya Sengupta</td>
+  </tr>
+  <tr>
+    <td>GES 770.01 (7986)</td>
+    <td>Special Topics: Remote Sensing</td>
+    <td>Saturday</td>
+    <td>9:00 AM - 12:00 PM</td>
+    <td>Qassim Abdullah/Nora May</td>
+  </tr>
+  <tr>
+    <td>GES 774.01 (7985)</td>
+    <td>Spatial Statistics</td>
+    <td>Thursday</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Ron Wilson</td>
+  </tr>
+   <tr>
+    <td>GES 775.01 (7988)</td>
+    <td>Advanced GIS Application Development</td>
+    <td>Monday</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Xiuzhu Yang</td>
+  </tr>
+  </table>
+  
+<hr>
+
 <h3>Summer 2016 Schedule of Classes </h3>
 
 <p><strong>Registration Begins:</strong> March 21st<br>
@@ -96,7 +176,6 @@
     <td>Professional Seminar: Spatial Interpolation</td>
     <td>Thursday<br>
     6 Weeks (Session I)</td>
-	</td>
     <td>6:30 PM - 9:30 PM</td>
 	<td>In Person</td>
     <td>TBD</td>
@@ -114,82 +193,6 @@
   </tr>
 </table>
 <br>
-
-<hr>
-
-
-<h3>Spring 2016 Schedule of Classes </h3>
-
-<p><strong>Semester Dates:</strong>  January 25, 2016 – May 10, 2016<br>
-  <strong>Advanced Registration Begins:</strong> November 2, 2015 (for students currently enrolled in Fall 2015)<br>
-  <strong>Registration For Newly Admitted Students:</strong>  December 21, 2015<br>
-  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2016<br>
-  <strong>Spring Break:</strong>  March 13, 2016 – March 20, 2016 <br>
-  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-
-<p>There may be more courses announced in the near future.  This list is not final.</p>
-
-<table id="schedule">
-  <tr>
-    <td width="20%">COURSE/CLASS<br>NUMBER</td>
-    <td width="25%">COURSE TITLE </td>
-    <td width="15%">DAY</td>
-    <td width="20%">TIME</td>
-    <td width="20%">PROFESSOR</td>
-  </tr>
-  <tr>
-    <td>GES 670.1 (3057)</td>
-    <td>Advanced Seminar in GIS (3)</td>
-    <td>Tuesday</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Erwin Villiger</td>
-  </tr>
-  <tr>
-    <td>GES 673.1 (7327)</td>
-    <td>Geoprocessing and Spatial Analysis (3)</td>
-    <td>Thursday</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Ronald Wilson</td>
-  </tr>
-  <tr>
-    <td>GES 675.1 (7328)</td>
-    <td>GIS Application Development (3)</td>
-    <td>Monday</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Xiuzhu Yang</td>
-  </tr>
-  <tr>
-    <td>GES 679.1 (3059)</td>
-    <td>Professional Seminar: Geospatial Intelligence (1)</td>
-    <td>Thursday</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Sue Kalweit</td>
-  </tr>
-  <tr>
-    <td>GES 679.2 (3060)</td>
-    <td>Professional Seminar: UAV Imaging Practicum (1)</td>
-    <td>Saturday</td>
-    <td>9:00 AM - 12:00 PM</td>
-    <td>Sean Kelly, David Firman</td>
-  </tr>
-  <tr>
-    <td>GES 771.1 (3058)</td>
-    <td>Advanced Spatial Data Management (3)</td>
-    <td>Tuesday</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Luis Bermudez</td>
-  </tr>
-  <tr>
-    <td>GES 773.1 (7958)</td>
-    <td>GIS Modeling Techniques (3)</td>
-    <td>Wednesday</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Luis Bermudez, Ronald Wilson, Joshua     Lieberman </td>
-  </tr>
-  </table>
-
-<br>
-
 
 <!-- END Content -->
 

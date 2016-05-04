@@ -89,8 +89,7 @@
   		</strong>
 	</h4>
 
-	<p>
-  		Thursday, April 14 - 5:30 PM<br>
+	<p><br>
 	Friday, May 20 - 12:00 PM<br>
 	Thursday, June 16 - 5:30 PM  <br>
 	Saturday, July 16 - 12:30 PM  <br>

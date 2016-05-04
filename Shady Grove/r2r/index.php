@@ -80,16 +80,16 @@ i, .ui-state-active i{float:left!important; margin-right:15px}
 
 <h3 style="text-align:center">
 	<a href="index">
-    	<img src="images/r2r.png" alt="Open House" style="width:100%;">
+    	<img src="images/header3.png" alt="Open House" style="width:100%;">
 	</a>
 </h3>
 <br>
 
 <hr>
 
-<p>
+<p><strong>
 Raptor to Retriever (R2R) is a transfer access program designed to streamline the transfer process between MC and UMBC-Shady Grove.  The program offers students a structured pathway for attaining an associate degree and a baccalaureate degree.
-</p>
+</strong></p>
 
 <div class="benefits">
 <h3>Program Benefits</h3>
@@ -118,6 +118,7 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 	<li>Additional selection criteria (i.e. level of commitment to program and professional/academic/co-curricular involvement) will be used and garnered through the application process</li>
 </ul>  
 
+<br>
 <p align="center">
 <a href="https://docs.google.com/forms/d/1PSRkMHXm5dVisMvNxJICeX_xsAYV-ZhJFyvCcLCwtHs/viewform?c=0&w=1&usp=mail_form_link" target="_blank" class="btn3">APPLY TO R2R HERE!</a>
 </p>
@@ -127,7 +128,7 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 
 <h3>Program Requirements</h3>
 <ul>
-  <li>Signed and completed student-specific Success Agreement (SA)</li>
+  <li>Signed and completed individualized Success Agreement (SA)</li>
 	  <li>Completion of required modules, events, and  trainings</li>
       <li>Semesterly advising sessions with MC and UMBC  representatives</li>
       <li>Fall Retreat</li>
@@ -140,7 +141,7 @@ Raptor to Retriever (R2R) is a transfer access program designed to streamline th
 
 <br>
 <p align="center">
-<a href="mailto:R2R@umbc.edu" target="_blank" class="btn3">Contact Us: R2R@umbc.edu</a>
+<a href="mailto:R2R@umbc.edu" class="btn4">Contact Us: R2R@umbc.edu</a>
 </p>
 
 	    

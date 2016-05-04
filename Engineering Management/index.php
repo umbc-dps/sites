@@ -92,7 +92,27 @@
 
 
 <!-- SLIDE TWO --> 
+
 <li id="slide1">
+
+<a href="../rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
+
+<div class="carousel-caption wordwrap">
+<h3>Professional Programs Info Session</h3>
+<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
+
+<p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+
+<p id="captionthree"><a href="../rsvp" target="blank">Professional Programs Info Session</a></p>
+
+</li>
+
+<!-- END SLIDE TWO --> 
+
+
+<!-- SLIDE THREE --> 
+
+<li id="slide2">
 
 <a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="video"><img alt="img01" src="images/4.png"></a>
 
@@ -107,23 +127,7 @@
 <a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="video">Featured Course: Adv. Project Management</a></p>
 
 </li>
-<!-- END SLIDE TWO --> 
 
-
-<!-- SLIDE THREE --> 
-<li id="slide2">
-
-<a href="../openhouse" target="blank"><img src="images/8.png" alt="Open House"/></a>
-
-<div class="carousel-caption wordwrap">
-<h3>Professional Programs Exploration Night</h3>
-<small>Join us on Tuesday, April 26 to hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
-
-<p><a href="../openhouse" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
-
-<p id="captionthree"><a href="../openhouse" target="blank">Professional Programs Exploration Night</a></p>
-
-</li>
 <!-- END SLIDE THREE --> 
       
     </ul>

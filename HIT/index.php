@@ -72,20 +72,22 @@
     <ul>
     
 
-<!-- SLIDE ONE -->    
+<!-- SLIDE ONE --> 
+
 <li id="slide1">
 
-<a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank"><img alt="img01" src="images/1.png"></a>
+<a href="../rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
 
-<div class="carousel-caption-right wordwrap">
-<h3>New Program Director, Krystl Haerian</h3>
-<small>Dr. Haerian has over 12 years of medical, informatics, and public health experience in both academia and government and is a UMBC alumni.</small>
+<div class="carousel-caption wordwrap">
+<h3>Professional Programs Info Session</h3>
+<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
 
-<p><a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" class="web-seemore" target="_blank">Read More</a></p></div>
+<p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionone"><a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank">New Program Director, Krystl Haerian</a></p>
+<p id="captionthree"><a href="../rsvp" target="blank">Professional Programs Info Session</a></p>
 
 </li>
+   
 <!-- END SLIDE ONE -->
 
 <!-- SLIDE TWO --    
@@ -109,15 +111,15 @@
 
 <li id="slide2">
 
-<a href="../openhouse" target="blank"><img src="images/6.png" alt="Open House"/></a>
+<a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank"><img alt="img01" src="images/1.png"></a>
 
-<div class="carousel-caption wordwrap">
-<h3>Professional Programs Exploration Night</h3>
-<small>Join us on Tuesday, April 26 to hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<div class="carousel-caption-right wordwrap">
+<h3>New Program Director, Krystl Haerian</h3>
+<small>Dr. Haerian has over 12 years of medical, informatics, and public health experience in both academia and government and is a UMBC alumni.</small>
 
-<p><a href="../openhouse" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" class="web-seemore" target="_blank">Read More</a></p></div>
 
-<p id="captionthree"><a href="../openhouse" target="blank">Professional Programs Exploration Night</a></p>
+<p id="captionone"><a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank">New Program Director, Krystl Haerian</a></p>
 
 </li>
 

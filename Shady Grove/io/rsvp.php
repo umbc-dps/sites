@@ -78,7 +78,7 @@
 </p>
 
  <p>
-Join our Professional Programs Open House to meet the I/O Psychology Program Director and learn more about the UMBC Graduate Program in I/O Psychology.  Representatives from Financial Aid, Veteran Affairs, Graduate School, and others will be on hand to answer your questions. </p>
+Join our Professional Programs Open House to meet the I/O Psychology Program Director and learn more about UMBC Graduate Programs in I/O Psychology.  Representatives from Financial Aid, Veteran Affairs, Graduate School, and others will be on hand to answer your questions. </p>
 <p>
 <strong>Use the form below to RSVP:</strong>
 </p> 

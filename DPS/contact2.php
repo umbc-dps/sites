@@ -21,6 +21,7 @@ form li{ padding: 10px;}
 h3.title{font-family: Arial,"Helvetica Neue", Helvetica,  sans-serif; font-size: 24px; color:#FFF}
 select#program[hidden]{display:block}
 .programlabel{display:block}
+td{padding:8px}
 </style>
 	</head>
     <body>

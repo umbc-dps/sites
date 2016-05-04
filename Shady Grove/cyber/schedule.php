@@ -62,6 +62,75 @@
   
 <!-- START Content -->
 
+<h3>Fall 2016 Schedule of Classes </h3>
+<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
+  <strong>Advanced Registration Begins:</strong> April 4, 2016 (for students currently enrolled in spring 2016) <br>
+  <strong>Registration for Newly Admitted Students:</strong>  June 6, 2016<br>
+  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+<p>There may be more courses announced in the near future.  This list is not final.</p>
+<table id="schedule">
+  <tr>
+    <td width="20%">COURSE/CLASS<br>
+      NUMBER</td>
+    <td width="25%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="20%">PROFESSOR</td>
+  </tr>
+  <tr>
+    <td>CYBR 620.04 (7845)</td>
+    <td>Introduction to Cybersecurity</td>
+    <td>Monday</td>
+    <td>5:30 PM - 8:10 PM</td>
+    <td>Don Tobin</td>
+  </tr>
+  <tr>
+    <td>CYBR 622.02 (6913)</td>
+    <td>Cyber capabilities and trends</td>
+    <td>Wednesday</td>
+    <td>6:00 PM - 8:40 PM</td>
+    <td>Laura Casulli</td>
+  </tr>
+  <tr>
+    <td>CYBR 623.04 (7846)</td>
+    <td>Cybersecurity Law &amp; Policy</td>
+    <td>Thursday</td>
+    <td>6:00 PM - 8:40 PM</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td>CYBR 624.02 (6917)</td>
+    <td>Cybersecurity Project</td>
+    <td>Monday</td>
+    <td>5:30 PM - 8:10 PM</td>
+    <td>Behnam Shariati</td>
+  </tr>
+  <tr>
+    <td>CYBR 650.03 (7847)</td>
+    <td>Cybersecurity Management</td>
+    <td>Tuesday</td>
+    <td>5:30 PM - 8:10 PM</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td>CYBR 658.02 (6916)</td>
+    <td>Risk Analysis &amp; Compliance</td>
+    <td>Saturday</td>
+    <td>9:30 AM - 12:00 PM</td>
+    <td>Behnam Shariati</td>
+  </tr>
+  <tr>
+    <td>CYBR 691.02 (7848)</td>
+    <td>Special Topics in Cybersecurity: (Enterprise Security)</td>
+    <td>Tuesday</td>
+    <td>5:30 PM - 8:10 PM</td>
+    <td>Michael Stone</td>
+  </tr>
+</table>
+
+<hr>
+
 <h3>Summer 2016 Schedule of Classes </h3>
 
 <p><strong>Registration Begins:</strong> March 21st<br>
@@ -100,85 +169,10 @@
   </tr>
 </table>
 <br>
-
-<hr>
-
-<h3>Spring 2016 Schedule of Classes </h3>
-
-<p><strong>Semester Dates:</strong>  January 25, 2016 – May 10, 2016<br>
-  <strong>Advanced Registration Begins:</strong> November 2, 2015 (for students currently enrolled in Fall 2015)<br>
-  <strong>Registration For Newly Admitted Students:</strong>  December 21, 2015<br>
-  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2016<br>
-  <strong>Spring Break:</strong>  March 13, 2016 – March 20, 2016 <br>
-  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-
-<p>There may be more courses announced in the near future.  This list is not final.</p>
-
-<table id="schedule">
-  <tr>
-    <td width="20%">COURSE/CLASS<br>NUMBER</td>
-    <td width="25%">COURSE TITLE </td>
-    <td width="15%">DAY</td>
-    <td width="20%">TIME</td>
-    <td width="20%">PROFESSOR</td>
-  </tr>
-  <tr>
-    <td>CYBR 620.3 (6564)</td>
-    <td>Introduction to Cybersecurity (3)</td>
-    <td>Monday</td>
-    <td>5:30 PM - 8:10 PM</td>
-    <td>Don Tobin</td>
-  </tr>
-  <tr>
-    <td>CYBR 621.2 (7204)</td>
-    <td>Cyber Warfare  (3)</td>
-    <td>Thursday</td>
-    <td>6:00 PM - 8:40 PM</td>
-    <td>Bill Pickard</td>
-  </tr>
-  <tr>
-    <td>CYBR 623.2 (5887)</td>
-    <td>Cybersecurity Law &amp; Policy (3)</td>
-    <td>Wednesday</td>
-    <td>6:00 PM - 8:40 PM</td>
-    <td>Laura Casulli</td>
-  </tr>
-  <tr>
-    <td>CYBR 624.2 (7153)</td>
-    <td>Cybersecurity Project  (3)</td>
-    <td>Monday</td>
-    <td>5:30 PM - 8:10 PM</td>
-    <td>Behnam Shariati</td>
-  </tr>
-  <tr>
-    <td>CYBR 650.2 (6566)</td>
-    <td>Cybersecurity Management  (3)</td>
-    <td>Tuesday</td>
-    <td>5:30 PM - 8:10 PM</td>
-    <td>Robert Romano</td>
-  </tr>
-  <tr>
-    <td>CYBR 658.3 (7765)</td>
-    <td>Risk Analysis &amp; Compliance (3)</td>
-    <td>Saturday</td>
-    <td>9:30 AM - 12:00 PM</td>
-    <td>Behnam Shariati</td>
-  </tr>
-  <tr>
-    <td>CYBR 691.5 (8008)</td>
-    <td>Special Topics in Cybersecurity: Mobile Security (3)</td>
-    <td>Tuesday</td>
-    <td>5:30 PM - 8:10 PM</td>
-    <td>Michael Stone</td>
-  </tr>
-  </table>
-
 <br>
 
 
-<!-- END Content -->
-
-</div>
+<!-- END Content -->  </div>
   
 <!-- SIDEBAR -->
  <?php include("includes/sidebar.php"); ?>

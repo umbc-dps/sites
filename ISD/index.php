@@ -74,7 +74,27 @@
     
     
 <!-- SLIDE ONE -->    
-      <li id="slide1">
+
+<li id="slide1">
+
+<a href="../rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
+
+<div class="carousel-caption wordwrap">
+<h3>Professional Programs Info Session</h3>
+<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
+
+<p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+
+<p id="captionthree"><a href="../rsvp" target="blank">Professional Programs Info Session</a></p>
+
+</li>
+      
+<!-- END SLIDE ONE -->
+      
+
+<!-- Slide Two -->  
+            
+      <li id="slide2">
      
                 <a href="forum"><img alt="img02" src="images/current/2.jpg"></a>
 
@@ -89,25 +109,7 @@
           <a href="forum">ISD Now Forums</a>
         </p>
       </li>
-<!-- END SLIDE ONE -->
-      
-
-<!-- Slide Two -->              
-
-<li id="slide2">
-
-<a href="../openhouse" target="blank"><img src="images/6.png" alt="Open House"/></a>
-
-<div class="carousel-caption wordwrap">
-<h3>Professional Programs Exploration Night</h3>
-<small>Join us on Tuesday, April 26 to hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
-
-<p><a href="../openhouse" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
-
-<p id="captionthree"><a href="../openhouse" target="blank">Professional Programs Exploration Night</a></p>
-
-</li>
-
+ 
 <!-- END Slide Two -->  
 
 
@@ -149,18 +151,20 @@
 
 <!-- SLIDE FOUR --> 
       <li id="slide4">
-        <a href="https://www.youtube.com/watch?v=Ih3I9m22eMM" class="video" target="_blank"><img alt="img03" src="images/3.jpg"></a>
+        <a href=
+"https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" target="_blank"><img alt="img03" src="images/TD-Magazine.jpg"></a>
 
         <div class="carousel-caption wordwrap">
-          <h3>Dr. Cook, Founder of UMBC's ISD Program</h3>
-          <small>Dr. J. Marvin Cook discusses the origins of the UMBC graduate program in Instructional Systems Development.</small>
+          <h3>Creating a Career Portfolio</h3>
+          <small>In the April 2016 issue of TD at Work, ISD Graduate Program Director, Dr. Greg Williams shares why portfolios are essential for career development.</small>
           <p>
-          <a href="https://www.youtube.com/watch?v=Ih3I9m22eMM" class="video btn" target="_blank">Learn More</a>
+          <a href=
+"https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" class="btn" target="_blank">Read Article</a>
           </p>
         </div>
 
         <p id="captionthree">
-          <a href="https://www.youtube.com/watch?v=Ih3I9m22eMM" class="video" target="_blank">Founder of UMBC's ISD Program</a>
+          <a href="https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" target="_blank">Creating a Career Portfolio</a>
         </p>
       </li>
 <!-- END SLIDE FOUR --> 

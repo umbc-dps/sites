@@ -91,11 +91,10 @@ form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
       <h3>Contact Us</h3>
 
 
-		<form action="process.php" method="post" id="dpsform">
-
-
         <p>Thank you for your interest in the UMBC Cybersecurity programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
-
+  
+	<form action="process.php" method="post" id="dpsform">        
+        
 		<div id="form">
          
 		</div>

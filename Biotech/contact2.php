@@ -82,8 +82,8 @@ $lang = 'en';
 
         <p>Thank you for your interest in the UMBC Cybersecurity programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
 
-	<form action="process.php" method="post" id="dpsform">
-
+	<form action="process.php" method="post" id="dpsform">        
+        
 		<div id="form">
          
 		</div>
@@ -112,17 +112,16 @@ $lang = 'en';
 
           <tr>
             <td align="left" valign="top">
-              <p><strong>Nancy Clements</strong><br>
-                Contact for Admissions Related Questions<br>
-                <a href="mailto:nancyc@umbc.edu">nancyc@umbc.edu</a><br>
-              410-455-5536</p>
+              <p><strong>Lisa Gambino</strong><br>
+              Contact for Admissions Related Questions<br>
+              <a href="mailto:Gambino@umbc.edu">gambino@umbc.edu</a><br>
+              410-455-3034</p>
             </td>
 
             <td align="left" valign="top">
-              <p><strong>Dr. Stephen Miller</strong><br>
-                Graduate Program Director<br>
-              <a href="mailto:stmiller@umbc.edu">stmiller@umbc.edu</a><br>
-410-455-3482</p>
+              <p><strong>Dr. Richard Forno</strong><br>
+              Graduate Program Director<br>
+              <a href="mailto:Richard.forno@umbc.edu">richard.forno@umbc.edu</a></p>
             </td>
           </tr>
         </table>

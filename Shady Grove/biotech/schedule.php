@@ -67,13 +67,12 @@
 
 
 
-<h3>Spring 2016 Schedule of Classes </h3>
+<h3>Fall 2016 Schedule of Classes </h3>
 
-<p><strong>Semester Dates:</strong>  January 25, 2016 – May 10, 2016<br>
-  <strong>Advanced Registration Begins:</strong> November 2, 2015 (for students currently enrolled in Fall 2015)<br>
-  <strong>Registration For Newly Admitted Students:</strong>  December 21, 2015<br>
-  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2016<br>
-  <strong>Spring Break:</strong>  March 13, 2016 – March 20, 2016 <br>
+<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
+  <strong>Advanced Registration Begins:</strong> April 4, 2016 (for students currently enrolled in spring 2016) <br>
+  <strong>Registration for Newly Admitted Students:</strong>  June 6, 2016<br>
+  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016<br>
   <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
 <p>There may be more courses announced in the near future.  This list is not final.</p>
@@ -87,25 +86,11 @@
     <td width="20%">PROFESSOR</td>
   </tr>
   <tr>
-    <td>BTEC 654.2 (7106)</td>
-    <td>Emerging Topics in Biotechnology (3)</td>
-    <td>Wednesday</td>
-    <td>6:00 PM - 8:45 PM</td>
-    <td>Olivera Markovic</td>
-  </tr>
-  <tr>
-    <td>BTEC 670.2 (6634)</td>
-    <td>Legal &amp; Ethical Issues in the Science Professions (3)</td>
+    <td>BTEC 681.01 (8061)</td>
+    <td>Discovery and Development of Medical Devices</td>
     <td>Monday</td>
-    <td>6:00 PM - 8:45 PM</td>
-    <td>Carol Spiegel</td>
-  </tr>
-  <tr>
-    <td>BTEC 685.3 (7850)</td>
-    <td>Project Management Fundamentals (3)</td>
-    <td>Tuesday</td>
-    <td>7:10 PM - 9:40 PM</td>
-    <td>Jonathan Powell</td>
+    <td>6:00 PM - 8:50 PM</td>
+    <td>Olivera Markovic</td>
   </tr>
   </table>
 

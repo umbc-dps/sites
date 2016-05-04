@@ -100,7 +100,7 @@
 
 <h3>Featured Course: History of Film
 (ART 325)</h3>
-<small>This summer, explore the fascinating world of cinema.</small>
+<small>This summer, earn GEP as you explore the fascinating world of cinema.</small>
             
 <p><a href="http://gritgoing.umbc.edu/?p=756" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
@@ -122,7 +122,7 @@
 <div class="carousel-caption wordwrap">
     
 <h3>Featured Course: American Culture in Global Perspective (AMST 352)</h3>
-<small>See America from a global perspective this summer!</small>
+<small>See America from a global perspective (and earn GEP) this summer!</small>
             
 <p><a href="http://gritgoing.umbc.edu/?p=655" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 

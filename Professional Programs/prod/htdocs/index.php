@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,7 +81,16 @@
 	width: 100%;
 	height: 100%;
 }
+select#program[hidden]{display:block}
+.programlabel{display:block}
+select#program option.not-pro, select#program option.usg{display:none}
+.five td { padding-bottom:10px; }
+.five td select, .five td input, .five td textarea {width:90%!important}
+.five iframe{transform:scale(0.90);-webkit-transform:scale(0.90);transform-origin:0 0;-webkit-transform-origin:0 0;}
+.five label{font-weight:bold}
+.five td input[type=submit]{width:50%!important; text-align:center!important}
 </style>
+
 </head>
 
 <body>
@@ -192,7 +209,7 @@ BEGIN MAIN
 
 <p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="http://umbc.edu/openhouse" target="blank">Professional Programs Exploration Night</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse" class="video" target="blank">Professional Programs Exploration Night</a></p>
 
 </li>
 <!-- END Slide Three -->
@@ -201,15 +218,15 @@ BEGIN MAIN
 <!-- Slide Four -->              
 <li id="slide4">
       
-<a href="http://umbc.edu/cyber/programcert#new"><img alt="img02" src="images/umbc_cyber5.png"></a>
+<a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/"><img alt="img02" src="images/cybersecurity.jpg"></a>
 
 <div class="carousel-caption wordwrap">
-<h3>New Cybersecurity Operations Certificate</h3>
-<small>This four-course graduate certificate is oriented towards students seeking broad exposure to cybersecurity principles and best practices, and technologies, and can be completed in a year.</small>
+<h3>UMBC's Rick Forno on the BBC</h3>
+<small>Forno, director of the UMBC graduate program in cybersecurity, comments on the Deptartment of Justice's order for Apple to unlock an iPhone that may contain information about the San Bernardino shooting.</small>
 
-<p><a href="programcert#new" class="web-seemore">Learn More</a></p></div>
+<p><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/" class="web-seemore">Learn More</a></p></div>
 
-<p id="captiontwo"><a href="programcert#new">New Cybersecurity Operations Certificate</a></p>
+<p id="captiontwo"><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/">UMBC's Rick Forno on the BBC</a></p>
 
 </li>
 <!-- END Slide Four -->        
@@ -289,14 +306,27 @@ BEGIN MAIN
   </footer>
 </div></div>
 <!-- container --> 
+<script>
+	var programname = "pro";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
-<script src="includes/scripts.js"></script> 
-<?php include("includes/tracking.php"); ?>
-<script src="includes/jquery.cbpFWSlider.js"></script> 
+
+<!-- Because of subdirectory, Professional Programs cannot reference DPS -->
+<script>$( "#form" ).load( "includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "includes/contact-form.php .mini-form" );</script>
+<script>$( "#contents" ).load( "includes/program-info.php" );</script>
+
+<script src="includes/scripts.js"></script>
+<?php include("includes/tracking.php"); ?> 
+<script src="includes/jquery.cbpFWSlider.js"></script>
 <script src="includes/jquery.magnific-popup.js"></script>
-<script src="includes/popup.js"></script> 
+<script src="includes/popup.js"></script>
+
+<script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 <script>
 $( function() {
     var isPaused = false;

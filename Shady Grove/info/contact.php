@@ -35,7 +35,22 @@ table#contact td {
 	}
 table#contact td.checkbox input { text-align: left; width:auto; margin-left:20px; height:auto; }	
 table#contact td.checkbox { font-weight:normal }
-table#contact td.robot input { width:auto; height:auto;}	
+table#contact td.robot input { width:auto; height:auto;}
+
+/* #Contact2
+=================================================== */
+table#contact2{ width: 90% }
+table#contact2 p { font-weight: normal; font-size: 10pt}
+#contact2 input, #contact2 select { width: 95%; height:20px; font-size:12pt}
+table#contact2 td {
+	padding: 10px 0px 5px 0px; 
+	font-weight: bold; 
+	font-size:12pt
+	}
+table#contact2 td.checkbox input { text-align: left; width:auto; margin-left:20px; height:auto; }	
+table#contact2 td.checkbox { font-weight:normal }
+table#contact2 td.robot input { width:auto; height:auto;}	
+	
 
   </style>
 <head>

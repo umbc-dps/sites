@@ -84,7 +84,13 @@ $lang = 'en';
 select#program[hidden]{display:block}
 .programlabel{display:block}
 select#program option.not-pro, select#program option.usg{display:none}
+.five td { padding-bottom:10px; }
+.five td select, .five td input, .five td textarea {width:90%!important}
+.five iframe{transform:scale(0.90);-webkit-transform:scale(0.90);transform-origin:0 0;-webkit-transform-origin:0 0;}
+.five label{font-weight:bold}
+.five td input[type=submit]{width:50%!important; text-align:center!important}
 </style>
+
 </head>
 
 <body>

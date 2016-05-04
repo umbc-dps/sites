@@ -63,7 +63,7 @@ Watch our past virtual information sessions:</p>
 
       <aside class="five columns add-bottom">
       <h3 class="home-heading">Contact Us</h3>
-<p>
+	<p>
      	<form action="process.php" method="post" id="dpsform">
  		<div id="sidebar-contact"></div>
         

@@ -106,7 +106,7 @@
 
 <!-- START Content -->
 
-<h3>UMBC I/O Psychology Graduate Program</h3>
+<h3>UMBC I/O Psychology Graduate Programs</h3>
 
       <p>The Industrial/Organizational Psychology program at UMBC-Shady Grove in Rockville, MD offers a Master of Professional Studies in I/O Psychology. UMBC&rsquo;s program is a unique, highly applied program, providing graduate training focused on developing skills that are relevant in today's job market, exploring and integrating important topics including organizational behavioral management, human factors, and professional human resources practice, and helping students develop a professional portfolio while building strong relationships with faculty practitioners and industry professionals.</p>
       

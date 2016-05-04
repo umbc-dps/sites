@@ -92,7 +92,7 @@
   <li><a href="http://shadygrove.umd.edu/about/visit/parking">Parking information</a></li>
 </ul>
 
-                                                                  <p><em>During summer and winter sessions, classes at the <a href="http://umbc.edu/shadygrove" target="_blank">Universities at Shady Grove</a> are open to <strong>all</strong>UMBC students. It&rsquo;s a convenient way for students living in Montgomery County and surrounding areas to take UMBC classes without driving to the main campus. </em></p>
+                                                                  <p><em>During summer and winter sessions, classes at the <a href="http://umbc.edu/shadygrove" target="_blank">Universities at Shady Grove</a> are open to <strong>all</strong> UMBC students. It&rsquo;s a convenient way for students living in Montgomery County and surrounding areas to take UMBC classes without driving to the main campus. </em></p>
                                                                     <p><em>During the fall/spring semesters, only those students admitted to a designated USG degree program may attend classes at USG.</em></p>
                                                            
 

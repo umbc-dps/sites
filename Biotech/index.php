@@ -84,15 +84,15 @@
 
 <li id="slide1">
 
-<a href="../openhouse" target="blank"><img src="images/10.jpg" alt="Open House"/></a>
+<a href="../rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Exploration Night</h3>
-<small>Join us on Tuesday, April 26 to hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Professional Programs Info Session</h3>
+<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
 
-<p><a href="../openhouse" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="../openhouse" target="blank">Professional Programs Exploration Night</a></p>
+<p id="captionthree"><a href="../rsvp" target="blank">Professional Programs Info Session</a></p>
 
 </li>
 
