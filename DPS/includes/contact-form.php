@@ -123,7 +123,7 @@
                 ME
               </option>
 
-              <option selected value="MD">
+              <option value="MD">
                 MD
               </option>
 

@@ -11,7 +11,7 @@
 <meta name="twitter:site" content="@UatShadyGrove">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="UMBC-Shady Grove Order Regalia" />
+<meta property="og:title" content="UMBC-Shady Grove Info Session" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/regalia" />
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/commencement.png" />

@@ -123,7 +123,7 @@
                 ME
               </option>
 
-              <option selected value="MD">
+              <option value="MD">
                 MD
               </option>
 
@@ -300,7 +300,7 @@
           <tr class="sidebar-form mini-form">
            <td><label for="program" hidden class="programlabel">Which Program are you interested in?:*</label></td>
            <td valign="middle">
-           <select name="program" id="program" required hidden>
+           <select name="program" id="program" required >
            <option value=""></option>
            <option value="Biotechnology (Main)" id="bio" class="pp">Biotechnology (Catonsville)</option> 
            <option value="Biotechnology (Shady Grove)" id="bio-sg" class="usg-grad">Biotechnology (Shady Grove)</option> 

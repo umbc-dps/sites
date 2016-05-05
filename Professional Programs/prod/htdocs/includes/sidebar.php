@@ -78,8 +78,8 @@ Watch our past virtual information sessions:</p>
           </tr>
 
           <tr>
-            <td align="center" colspan="2">
-            	<input type="submit" name="submit" value="Submit" style="width:100px; height:auto">
+            <td colspan="2">
+            	<input type="submit" name="submit" value="Submit" style="height:auto">
             </td>
           </tr>
         </table>
