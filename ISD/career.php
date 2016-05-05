@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -135,6 +143,26 @@ div.subject{background-color:#E0C586;}
         </p>
       </li>
 <!-- END SLIDE THREE --> 
+
+<!-- SLIDE FOUR --> 
+      <li id="slide4">
+        <a href=
+"https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" target="_blank"><img alt="img03" src="images/TD-Magazine.jpg"></a>
+
+        <div class="carousel-caption wordwrap">
+          <h3>Creating a Career Portfolio</h3>
+          <small>In the April 2016 issue of TD at Work, ISD Graduate Program Director, Dr. Greg Williams shares why portfolios are essential for career development.</small>
+          <p>
+          <a href=
+"https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" class="btn" target="_blank">Read Article</a>
+          </p>
+        </div>
+
+        <p id="captionthree">
+          <a href="https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" target="_blank">Creating a Career Portfolio</a>
+        </p>
+      </li>
+<!-- END SLIDE FOUR --> 
 
 
 
@@ -283,7 +311,11 @@ The program also   regularly receives employment notifications from area busines
           </div>
 <br>
 
-<!-- END Content --> 
+<div id="contents" style="display:none"></div>
+
+<!-- END Content -->
+
+ 
  </div></div></div>
  
   
@@ -322,12 +354,26 @@ The program also   regularly receives employment notifications from area busines
 
 <!-- END container -->
 
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+      <script>
+	var programname = "isd";
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 <script>
 $( function() {

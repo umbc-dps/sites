@@ -91,19 +91,19 @@ style="display:none;" onload="if(submitted)
 <label class="ss-q-item-label" for="entry_267174737"><div class="ss-q-title">Program of Interest
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
-<div class="ss-q-help ss-secondary-text" dir="auto">Choose all that apply</div></label>
+</label>
 
-<ul class="ss-choices ss-choices-required" role="group" aria-label="Program of Interest Choose all that apply "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Biotechnology" id="group_940734412_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<ul class="ss-choices ss-choices-required" role="group" aria-label="Program of Interest Choose all that apply "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.940734412" value="Biotechnology" id="group_940734412_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Biotechnology</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Cybersecurity" id="group_940734412_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.940734412" value="Cybersecurity" id="group_940734412_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Cybersecurity</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Engineering Management" id="group_940734412_3" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.940734412" value="Engineering Management" id="group_940734412_3" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Engineering Management</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Health Information Technology" id="group_940734412_4" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.940734412" value="Health Information Technology" id="group_940734412_4" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Health Information Technology</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Systems Engineering" id="group_940734412_5" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.940734412" value="Systems Engineering" id="group_940734412_5" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Systems Engineering</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Instructional Systems Development" id="group_940734412_6" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.940734412" value="Instructional Systems Development" id="group_940734412_6" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Instructional Systems Development</span>
 </label></li></ul>
 <div class="error-message" id="267174737_errorMessage"></div>

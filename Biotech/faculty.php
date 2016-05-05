@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 
 <html lang="en">
@@ -285,6 +293,40 @@ B.S., Case Western Reserve University</p>
             <p>You can view Dr. Moreira&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/pub/antonio-moreira-phd/0/387/ab" target="_blank">here</a>.</p>
           </div>
 
+      <div class="accordionheader">
+            <h4><a id="a9" href="#powell"></a>Jonathan Powell<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+
+          <div class="accordionbody">
+                        <p><strong>Graduate Faculty</strong><br>
+<img alt="Jonathan Powell" src="images/faculty/umbc-faculty-Jonathan-Powell.jpg" align="left">MBA, University of Maryland<br>
+B.S., Systems Engineering, U.S. Naval Academy<br>
+            <br>
+            Jonathan Powell, a Senior Program Manager for CACI, has over two decades of leadership experience both in industry and through service in the U.S. Navy. In his current position, he leads large complex software development efforts for the U.S. Army. Previously, Mr. Powell was a Project Executive for IBM&rsquo;s Corporate Global Pandemic Strategy Task Force.  His other assignments at IBM included leadership roles on software implementations for various Federal Civilian and Classified organizations.  During this time he also achieved IBM certifications as a Senior Project Manager and Java Platform Enterprise Edition (J2EE) Designer.  As an officer in the Navy, Mr. Powell was a Submariner as well as a Regional Director for Admissions at the U.S. Naval Academy.</p>
+                        <p>Mr. Powell received his Bachelor of Science in Systems Engineering from the U.S. Naval Academy and his M.B.A. from the University of Maryland. He also holds several advanced certificates, including a Master&rsquo;s Certificate in Project Management from George Washington University, Project Management Professional (PMP), Certified Government Financial Manager (CGFM), and the Cyber Security credential Security+.  Mr. Powell&rsquo;s written work has been featured in numerous publications, including the magazines <em>PM Network</em> and <em>Contract Management</em>, respectively, as well as the journal <em>CrossTalk</em>. </p>
+                        <p>In 2015, Mr. Powell was appointed to the Maryland Cybersecurity Council by the State Attorney General.</p>
+                        <p>You can view Mr. Powell&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/in/gonavy" target="_blank">here</a>. </p>
+
+          </div>
+
+          <div class="accordionheader">
+            <h4><a id="a9" href="#ramos"></a>Irina Ramos<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+
+          <div class="accordionbody">
+                        <p><strong>Graduate Faculty</strong><br>
+<img alt="Irina Ramos" src="images/faculty/faculty-ramos.png" align="left">B.S., Chemical Engineering, University of Oporto<br>
+       Ph.D., Chemical and Biochemical Engineering, University of Maryland, Baltimore County <br>
+            <br>
+            Irina Ramos has over 7 years of experience in Biopharmaceutical Downstream Processing Development. As Scientist in MedImmune’s Purification Process Sciences department in Gaithersburg, MD, she manages downstream process development and optimization, scale up, technology transfer activities into cGMP manufacturing to supply clinical trials and contributes to regulatory submissions.</p>
+
+            <p>Dr. Ramos received her B.S. in Chemical Engineering from the University of Oporto, School of Engineering and her Ph.D. in Chemical and Biochemical Engineering from UMBC. She primarily teaches BTEC 653.</p>
+
+            <p>You can view  Dr. Ramos LinkedIn profile <a href="https://www.linkedin.com/in/irinaramos">here</a>.</p>
+
+</div>
 
           <div class="accordionheader">
             <h4><a id="a9" href="#wood"></a>Timothy Wood<i class="fa fa-angle-down"></i></h4>
@@ -323,7 +365,9 @@ B.S., Case Western Reserve University</p>
 
             <p>Mr. Ziegler holds a B.S. in Accounting from Towson University and a M.B.A. with a Finance Concentration from Loyola College. He is also a Certified Public Accountant (CPA).&nbsp;</p>
           </div>
-          <!-- END CONTENT -->
+           <!-- END Content -->
+
+  <div id="contents" style="display:none"></div>
         </div>
       </div>
     </div>
@@ -339,12 +383,26 @@ B.S., Case Western Reserve University</p>
   </div>
   <!-- container -->
 
+<script>
+	var programname = "bio";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",

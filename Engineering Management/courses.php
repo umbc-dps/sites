@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,7 +80,7 @@
           <h3>Course Descriptions</h3>
 
 
-          <p><strong>Note:</strong> Not all courses are offered every semester, and new courses may be added at any time. Check the <a href="schedule">schedule of classes</a>, for the latest offerings. All courses are 3 credits unless otherwise noted.</p>		  <div class="accordionheader subject">
+          <p><strong>Note:</strong> Not all courses are offered every semester, and new courses may be added at any time. Check the <a href="schedule">schedule of classes</a>, for the latest offerings. All courses are 3 credits unless otherwise noted. Please consult the <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=163" target="_blank">Graduate Catalog</a> and departmental website for each specialization for most up-to-date course descriptions.</p>		  <div class="accordionheader subject">
             <h4>General</h4>
           </div>
           <div></div>
@@ -1147,7 +1155,10 @@
 </div>
 
           <br>
-          <!-- END Content -->
+          
+<div id="contents" style="display:none"></div>
+<!-- END CONTENT -->
+
         </div>
       </div>
     </div>
@@ -1161,12 +1172,26 @@
   </div>
   <!-- container -->
 
+<script>
+	var programname = "engm";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
-<script src="js/popup.js"></script> <script>
+<script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script> <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",
       active: false,

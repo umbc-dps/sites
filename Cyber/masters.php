@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -106,11 +114,12 @@ Fall 2016 Classes Start: <strong>August 31, 2016</strong></p>
 UMBC Graduate School, MPS: Cybersecurity <br>
    1000 Hilltop Circle<br>
    Baltimore, MD 21250</p>
- <p>If you require further assistance, please contact <a href="mailto:gambino@umbc.edu">Lisa Gambino </a> or call 410-455-3034. </p>
+ <p>If you require further assistance, please contact <a href="mailto:gambino@umbc.edu">Lisa Gambino </a> or call 410-455-3034. </p>    
+<div id="contents" style="display:none"> </div>
 
-<!-- END Content -->
- 
 </div>
+<!-- END Content -->
+    
   
 <!-- SIDEBAR -->
  <?php include("includes/sidebar.php"); ?>
@@ -128,13 +137,26 @@ UMBC Graduate School, MPS: Cybersecurity <br>
 <!-- container --> 
 
 
+<script>
+	var programname = "cyber";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
 </body>

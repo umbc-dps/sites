@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -77,8 +85,8 @@ table#schedule td:last-child{text-align:left;}
 <p>
 Please refer to the list provided for required course texts, by semester. If your course   is not listed, then the course instructor has either not provided text   information or there is not a required text for your course. Order books through   the UMBC Bookstore in-person at the bookstore located in The Commons or online   at <a title="http://bookstore.umbc.edu" href="http://bookstore.umbc.edu" target="_blank">http://bookstore.umbc.edu/</a>. If you decide to drop a course   and need to return your textbooks, check the bookstore at <a title="http://bookstore.umbc.edu" href="http://bookstore.umbc.edu" target="_blank">http://bookstore.umbc.edu/</a> for the last date you can return   books. All textbook returns require the original purchase receipt and your UMBC   student ID card.  
 </p>
-  
-<h4>List of Textbooks for Spring 2016:</h4>
+
+<h4>List of Textbooks for Summer 2016:</h4>
 <table id="schedule">
   <tr>
  <td width="30%">Course Name/Section</td>
@@ -86,105 +94,199 @@ Please refer to the list provided for required course texts, by semester. If you
  <td width="55%" style="text-align:center">Textbooks and Materials</td>
   </tr>
   <tr>
- <td>EDUC 602 sections 04 &amp; 05: <br>
-   Instructional Systems Development I (#2878, #2879)</td>
+ <td>EDUC 602 sections 02 &amp;  03:&nbsp;<br>
+Instructional Systems Development I (#1945, #1946)</td>
  <td>Hodell, C.</td>
  <td><strong>Required:</strong><br>
-   Hodell, C. (2011).  <em>ISD From the Ground Up</em>, (3rd ed.).  American Society for Training &amp; Development Press.  <br>
-   ISBN:  978-1562867430<br>
-   <strong>Students may also purchase the 4th edition (ISBN 978-1562869984) instead of the 3rd when it becomes available.</strong></td>
+Hodell, C. (2015).&nbsp;<em>ISD From the Ground Up</em>,  (4th ed.).&nbsp; ATD Press.&nbsp;<br>
+ISBN:&nbsp; 978-1562869984</td>
   </tr>
   <tr>
- <td>EDUC 603 section 01 &amp; 02: Instructional Systems Development II (#2027 &amp; 2028)</td>
+ <td>EDUC 603 section 01:  Instructional Systems Development II (#1052)</td>
  <td>Campos, J.</td>
  <td><strong>None</strong></td>
   </tr>
   <tr>
- <td>EDUC 605 section 01: The Adult Learner (#2029)</td>
+ <td>EDUC 605 section 01: The  Adult Learner (#1053)</td>
  <td>Hodell, C.</td>
  <td><strong>Required:</strong><br>
-   Galbraith, M. (2004).  <em>Adult Learning Methods</em> (3rd ed.).  Malabar, FL: Kreiger Publishing Co.<br>
-   ISBN:  978-1575242323<br>
-   <br>
-   Knowles, M. (2012) <em>The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development</em>, (7th ed.). Taylor.<br>
-   ISBN:  978-1856178112</td>
+Galbraith, M. (2004).&nbsp;<em>Adult Learning Methods</em>&nbsp;(3rd  ed.). Malabar, FL: Krieger Publishing Co.<br>
+ISBN:&nbsp; 978-1575242323<br>
+<br>
+Knowles, M. (2012)&nbsp;<em>The Adult Learner: The  Definitive Classic in Adult Education and Human Resource Development</em>,  (7th ed.). Taylor.<br>
+ISBN:&nbsp; 978-1856178112</td>
   </tr>
   <tr>
- <td>EDUC 643 section 01:  Principles of Distance Education (#2033)</td>
+ <td>EDUC 641 section 01:&nbsp; The  Online Classroom (#1054)</td>
  <td>Berge, Z.</td>
- <td><strong>Required:</strong><br>
-   Moore, M.G. &amp; Kearsley, G. (2012). <em>Distance Education: A Systems View on Online Learning </em>(3rd ed.) Wadsworth Cengage Learning.<br>
-   ISBN: 978-1111520991</td>
+ <td><p><strong>Required:</strong><br>
+   Salmon, G. (2011) <em>E-Moderating: The Key  to Online Teaching and Learning (3rd ed.)</em>. New York: Routledge</p>
+ISBN: 978-0415881746</td>
   </tr>
   <tr>
- <td>EDUC 648 section 01:  Consulting (#2035)</td>
- <td>Buelow, J.</td>
- <td><strong>Required:</strong><br>
-   Block, P. (2011). Flawless Consulting. Pfeiffer<br>
-   ISBN: 13-978-0470620748<br>
-   <strong>Students may also purchase previous version of this textbook.</strong></td>
+ <td>EDUC 671 section 01:  Principles of Training &amp; Development&nbsp; (#1055)</td>
+ <td>Weinstein, S.</td>
+ <td><p><strong>Required:</strong> <br>
+Biech, E. (Ed.)  (2014).&nbsp;<em>ASTD Handbook The Definitive Reference for Training and  Development</em>&nbsp;(2nd ed.).ASTD.<br>
+ISBN: 978-1562869137<br>
+<br>
+Pollock, V.  (2014). <em>The Field Guide to the 6Ds: How  to Use the Six Disciplines to Transform Learning into Business Results.</em> (1st  ed.) Pfeiffer</p>
+ISBN: 978-1118648131</td>
   </tr>
   <tr>
- <td>EDUC 671 section 01: Principles of Training &amp; Development  (#2046)</td>
- <td>Berge, Z.</td>
- <td><strong>Required:</strong><br>
-   Biech, E. (Ed.) (2014). <em>ASTD Handbook The Definitive Reference for Training and Development</em> (2nd ed.).ASTD.<br>
-   ISBN: 978-1562869137</td>
-  </tr>
-  <tr>
- <td>EDUC 681 section 01: Survey of Instructional Technology Applications (#2049)</td>
+ <td>EDUC 681 section 01: Survey  of Instructional Technology Applications (#1066)</td>
  <td>Kellerman, P.</td>
  <td><strong>Required:</strong><br>
-   Software: <strong><u>Adobe Captivate 9</u></strong><br>
-   <br>
-   Siegel, K. (2015). <em>Adobe Captivate 9: The Essentials Workbook</em>. IconLogic, Inc.<br>
-   ISBN: 978-1932733841</td>
+Software:&nbsp;<strong><u>Adobe Captivate 9</u></strong><br>
+<br>
+Siegel, K. (2015).&nbsp;<em>Adobe Captivate 9: The  Essentials Workbook</em>. IconLogic, Inc.<br>
+ISBN: 978-1932733846</td>
   </tr>
   <tr>
- <td>EDUC 682 section 01: Instructional Technology Design and Development (#4686)</td>
- <td>Ira, K.</td>
- <td><strong>Required:</strong><br>
-   Software: <strong><u>Adobe Captivate 8</u></strong><br>
-   Siegel, K. (2014).  <em>Adobe Captivate 8: Beyond the Essentials</em>. IconLogic, Inc.<br>
-   ISBN: 978-1932733728</td>
-  </tr>
-  <tr>
- <td>EDUC 683 section 01:  Multi-Media Project Management (#2050)</td>
- <td>Ahmad, R.</td>
- <td><strong>Required:</strong><br>
-   Software: <strong><u>Adobe Captivate</u></strong><br>
-   Clark, R., &amp; Mayer, R. (2011).<em> e-Learning and the Science of Instruction</em> (3rd ed.). Pfeiffer <br>
-   ISBN: 978-0470874301</td>
-  </tr>
-  <tr>
- <td>EDUC 771 section 01:  Research Designs in Education (#2055)</td>
- <td>Curran, K.</td>
- <td><strong>Required:</strong><br>
-   Clardy, A. (1997) <em>Studying your workforce: Applied Research Methods and Tools for the Training and Development Practitioner</em>. Thousand Oaks, CA. Sage Publications.<br>
-   ISBN: 978-0803973220<br>
-   <br>
-   Fowler, F. J.  (1995). <em>Improving survey questions:  design and evaluation</em>. Thousand Oaks, CA.  Sage Publications.<br>
-   ISBN:  978-0803945838.<br>
-   <br>
-   Krueger, R. (2014).<em> Focus Groups:  A Practical Guide for Applied Research</em>, (5th ed.) Sage Publications. <br>
-   ISBN: 978-1483365244<br>
-   <br>
-   Rubin, H. (2011).  <em>Qualitative Interviewing:  the art of hearing data</em>. (3rd ed.) Thousand Oaks, CA.  Sage Publications.<br>
-   ISBN:  978-1412978378.</td>
-  </tr>
-  <tr>
- <td>EDUC 792T section 01: ISD Internship-Training (#2058)</td>
+ <td>EDUC 689 section 04: Advance  Special Topics: Portfolio Development and Talent Management (#2291)</td>
  <td>Williams, G.</td>
  <td><strong>None</strong></td>
   </tr>
   <tr>
- <td>EDUC 794 section 02: ISD Project Seminar (#2061)</td>
+ <td>EDUC 682 section 01:  Instructional Technology Design and Development (#2157)</td>
+ <td>Williams, G..</td>
+ <td><strong>None</strong></td>
+  </tr>
+  <tr>
+    <td>EDUC 683 section 01:&nbsp;  Multi-Media Project Management (#4783)</td>
+    <td>Williams, G..</td>
+    <td><strong>None</strong></td>
+  </tr>
+  </table>
+ 
+<br>
+<hr>
+<h4>List of Textbooks for Fall 2016:</h4>
+<table id="schedule">
+  <tr>
+ <td width="30%">Course Name/Section</td>
+ <td width="15%">Instructor</td>
+ <td width="55%" style="text-align:center">Textbooks and Materials</td>
+  </tr>
+  <tr>
+ <td>EDUC 602 sections 04 &amp;  05:&nbsp;<br>
+Instructional Systems Development I (#2150, #2151)</td>
+ <td>Hodell, C.</td>
+ <td><strong>Required:</strong><br>
+Hodell, C. (2015).&nbsp;<em>ISD From the Ground Up</em>,  (4th ed.).&nbsp; ATD Press.&nbsp;<br>
+ISBN:&nbsp; 978-1562869984</td>
+  </tr>
+  <tr>
+ <td>EDUC 603 section 01:  Instructional Systems Development II (#2152)</td>
+ <td>Campos, J.</td>
+ <td><strong>None</strong></td>
+  </tr>
+  <tr>
+ <td>EDUC 605 section 02: The  Adult Learner (#2153)</td>
+ <td>Hodell, C.</td>
+ <td><strong>Required:</strong><br>
+Galbraith, M. (2004).&nbsp;<em>Adult Learning Methods</em>&nbsp;(3rd  ed.). Malabar, FL: Kreiger Publishing Co.<br>
+ISBN:&nbsp; 978-1575242323<br>
+<br>
+Knowles, M. (2012)&nbsp;<em>The Adult Learner: The  Definitive Classic in Adult Education and Human Resource Development</em>,  (7th ed.). Taylor.<br>
+ISBN:&nbsp; 978-1856178112</td>
+  </tr>
+  <tr>
+ <td>EDUC 605 section 03: The  Adult Learner (#4733)</td>
+ <td>Sullivan, R. </td>
+ <td><strong>Required:</strong><br>
+Knowles, M. (2015)&nbsp;<em>The Adult Learner: The  Definitive Classic in Adult Education and Human Resource Development</em>,  (8th ed.). Routledge.<br>
+ISBN:&nbsp; 978-0415739023</td>
+  </tr>
+  <tr>
+ <td>EDUC 647 section 01:&nbsp; Distance  Training (#2158)</td>
+ <td>Weinstein, S.</td>
+ <td><p><strong>Required:</strong><br>
+   Meister, J. (2010). <em>The 2020 Workplace:  How Innovative Companies Attract, Develop and Keep Tomorrow&rsquo;s Employees Today.</em> Harper Business.<br>
+   ISBN  978-0061763274</p>
+   <p>Veletsianos, G.  (2010). <em>Emergining Technologies in  Distance Education (Issues in Distance Education).</em> UBC Press. <br>
+     ISBN:  978-1897425763<br>
+     *There is a  free PDF version available at: <a href="http://www.aupress.ca/index.php/books/120177">http://www.aupress.ca/index.php/books/120177</a></p>
+   <p>Zawacki-Richter,  O. (Ed.) (2014). <em>Online Distance  Education Towards a Research Agenda.</em> University of Washington Press. <br>
+     ISBN  978-1927356623<br>
+     *There is a  free PDF version available at: <a href="http://www.aupress.ca/index.php/books/120233">http://www.aupress.ca/index.php/books/120233</a></p></td>
+  </tr>
+  <tr>
+ <td>EDUC 671 section 01 &amp;  02: Principles of Training &amp; Development&nbsp; (#2154 &amp; 2155)</td>
+ <td>Berge, Z.</td>
+ <td><strong>Required:</strong><br>
+Biech, E. (Ed.) (2014).&nbsp;<em>ASTD Handbook The Definitive  Reference for Training and Development</em>&nbsp;(2nd ed.).ASTD.<br>
+ISBN: 978-1562869137</td>
+  </tr>
+  <tr>
+ <td>EDUC 681 section 01: Survey  of Instructional Technology Applications (#2156)</td>
+ <td>Kellerman, P.</td>
+ <td><strong>Required:</strong><br>
+Software:&nbsp;<strong><u>Adobe Captivate 9</u></strong><br>
+<br>
+Siegel, K. (2015).&nbsp;<em>Adobe Captivate 9: The  Essentials Workbook</em>. IconLogic, Inc.<br>
+ISBN: 978-1932733846</td>
+  </tr>
+  <tr>
+ <td>EDUC 682 section 01:  Instructional Technology Design and Development (#2157)</td>
+ <td>Ira, K.</td>
+ <td><strong>Required:</strong><br>
+Software:&nbsp;<strong><u>Adobe Captivate 9</u></strong><br>
+<br>
+Siegel, K. (2015).&nbsp;<em>Adobe Captivate 9: Beyond the  Essentials</em>. IconLogic, Inc.<br>
+ISBN: 1932733876</td>
+  </tr>
+  <tr>
+ <td>EDUC 683 section 01:&nbsp;  Multi-Media Project Management (#4783)</td>
+ <td>Ahmad, R.</td>
+ <td><strong>Required:</strong><br>
+Software:&nbsp;<strong><u>Adobe Captivate</u></strong><br>
+Clark, R., &amp; Mayer, R. (2016).<em>&nbsp;e-Learning and the  Science of Instruction</em>&nbsp;(4th ed.). Wiley&nbsp;<br>
+ISBN: 978-1119158660</td>
+  </tr>
+  <tr>
+ <td>EDUC 689 section 01:  Advance Special Topics – Portfolio Development &amp; Talent Management (#6567</td>
+ <td>Williams, G.</td>
+ <td><strong>None</strong></td>
+  </tr>
+  <tr>
+ <td>EDUC 689 section 03:  Advance Special Topics – Design for How People Learn (#2233)</td>
+ <td>Campos, J.</td>
+ <td><strong>Review Syllabus</strong></td>
+  </tr>
+  <tr>
+    <td>EDUC 771 section 03:&nbsp;  Research Designs in Education (#2258)</td>
+    <td>Curran, K.</td>
+    <td><strong>Required:</strong><br>
+Clardy, A. (1997)&nbsp;<em>Studying your workforce: Applied Research  Methods and Tools for the Training and Development Practitioner</em>.  Thousand Oaks, CA. Sage Publications.<br>
+ISBN: 978-0803973220<br>
+<br>
+Fowler, F. J. (1995).&nbsp;<em>Improving survey questions:  design and evaluation</em>. Thousand Oaks, CA. Sage Publications.<br>
+ISBN: 978-080394583.<br>
+<br>
+Krueger, R. (2014).<em>&nbsp;Focus Groups: A Practical Guide for  Applied Research</em>, (5th ed.) Sage Publications.&nbsp;<br>
+ISBN: 978-1483365244<br>
+<br>
+Rubin, H. (2011).&nbsp;<em>Qualitative Interviewing: the art of hearing  data</em>. (3rd ed.) Thousand Oaks, CA. Sage Publications.<br>
+ISBN: 978-1412978378.</td>
+  </tr>
+  <tr>
+    <td>EDUC 792T section 01: ISD  Internship-Training (#2255)</td>
+    <td>Williams, G.</td>
+    <td><strong>None</strong></td>
+  </tr>
+  <tr>
+ <td>EDUC 794 section 02: ISD  Project Seminar (#5089)</td>
  <td>Williams, G.</td>
  <td><strong>None</strong></td>
   </tr>
   </table>
 <br>
+<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
+
+
 
 </div>
   
@@ -204,13 +306,26 @@ Please refer to the list provided for required course texts, by semester. If you
 <!-- container --> 
 
 
+<script>
+	var programname = "isd";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
 

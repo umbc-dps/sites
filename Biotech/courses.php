@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -174,7 +182,9 @@
 
           <div class="accordionbody"><p>This course offers an overview of innovation and its role in entrepreneurial ventures, both in new companies and within existing corporations. The basics of entrepreneurship with specific emphasis on technology-based business start-up are investigated. For the purposes of this course, technologies include IT, engineering and biotech. The course covers where to find innovative ideas and how to determine if a business idea is feasible along with an overview of the critical success factors in a new venture start-up.</p></div>
           <br>
-          <!-- END Content -->
+           <!-- END Content -->
+
+  <div id="contents" style="display:none"></div>
         </div>
       </div>
     </div>
@@ -189,12 +199,26 @@
   </div>
   <!-- container -->
 
+<script>
+	var programname = "bio";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
   <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",

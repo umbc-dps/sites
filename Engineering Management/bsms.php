@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -69,13 +77,16 @@
  <h4>Application Process:</h4>
  <ul>
    <li>Contact <a href="mailto:mooretg@umbc.edu">Dr. Thomas Moore</a>, Graduate Program Director to discuss interest and plan of study.</li>
-   <li>Complete the <a href="https://www.applyweb.com/umbcg/" target="_blank">Accelerated Bachelor's/Master's Application Form</a>.</li>
+   <li>Complete the <a href="http://gradschool.umbc.edu/files/2015/10/accelerated_BA_MA_application_form.pdf" target="_blank">Accelerated Bachelor's/Master's Application Form</a>.</li>
    <li>Submit copy of undergraduate transcripts to Graduate School.</li>
    <li>One semester prior to completion of bachelor's degree, submit an <a href="https://www.applyweb.com/umbcg" target="_blank">application</a> for the Master's in Engineering Management program to the Graduate School. The graduate school application fee is waived ($50 online/$70 paper).</li>
    <li>Once admitted, complete transfer of credits <a href="http://gradschool.umbc.edu/files/2015/10/request_transfer_credit_REV_MAR_12_2013.pdf" target="_blank">form</a> to Graduate School for nine credits.</li>
  </ul>
 
-<!-- END Content -->
+
+<div id="contents" style="display:none"></div>
+<!-- END CONTENT -->
+
  
 </div>
   
@@ -93,13 +104,26 @@
 <!-- container --> 
 
 
+<script>
+	var programname = "engm";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
 </body>

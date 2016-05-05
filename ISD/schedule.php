@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -95,91 +103,91 @@
     <TD width="10%">Room</TD>
 </TR>
   <tr>
-    <td>EDUC 602    – 04 (2150)</td>
+    <td>EDUC 602 – 04 (2150)</td>
     <td>Instructional Systems Development    I</td>
     <td>Online Asynchronous</td>
     <td>Hodell, C.&nbsp;</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 602    – 05 (2151)</td>
+    <td>EDUC 602 – 05 (2151)</td>
     <td>Instructional Systems Development    I</td>
     <td>Online Asynchronous</td>
     <td>Hodell, C.&nbsp;</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 603    – 01 (2152)</td>
+    <td>EDUC 603 – 01 (2152)</td>
     <td>Instructional Systems Development    II</td>
     <td>Online Asynchronous&nbsp;</td>
     <td>Campos, J.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 605    – 02 (2153)</td>
+    <td>EDUC 605 – 02 (2153)</td>
     <td>The Adult Learner</td>
     <td>Online Asynchronous</td>
     <td>Hodell, C.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 605    – 03 (4733)</td>
+    <td>EDUC 605 – 03 (4733)</td>
     <td>The Adult Learner</td>
     <td>Online Asynchronous</td>
     <td>Sullivan, R.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 647    – 01 (2158)</td>
+    <td>EDUC 647 – 01 (2158)</td>
     <td>Distance Training</td>
-    <td>Online Asynchronous with synchronous  sessions on 8/25, 9/14, 10/11, 11/10, and one on either 11/29, 11/30, or 12/1</td>
+    <td>Online Asynchronous with synchronous sessions on 8/25, 9/14, 10/11, 11/10, and one on either 11/29, 11/30, or 12/1</td>
     <td>Weinstein, S.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 671    – 01 (2154)</td>
-    <td>Principles of Training and    Development</td>
+    <td>EDUC 671 – 01 (2154)</td>
+    <td>Principles of Training and Development</td>
     <td>Online Asynchronous</td>
     <td>Berge, Z.</td>
     <td>n/a</td>
   </tr>
    <tr>
-    <td>EDUC 671    – 01 (2155)</td>
-    <td>Principles of Training and    Development</td>
+    <td>EDUC 671 – 01 (2155)</td>
+    <td>Principles of Training and Development</td>
     <td>Online Asynchronous</td>
     <td>Berge, Z.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 681    – 01 (2156)</td>
-    <td>Survey of Instructional Technology    Applications</td>
+    <td>EDUC 681 – 01 (2156)</td>
+    <td>Survey of Instructional Technology Applications</td>
     <td>Synchronous Online – Mondays 7:10 – 9:40 p.m.</td>
     <td>Kellerman, P.</td>
     <td>n/a</td>
   </tr>
    <tr>
-    <td>EDUC 682    – 01 (2157)</td>
-    <td>Survey of Instructional Technology    Applications</td>
+    <td>EDUC 682 – 01 (2157)</td>
+    <td>Survey of Instructional Technology Applications</td>
     <td>Synchronous Online – Mondays 7:10 – 9:40 p.m.</td>
     <td>Ira, K.</td>
     <td>n/a</td>
   </tr>
    <tr>
-    <td>EDUC 683    – 01 (4783)</td>
+    <td>EDUC 683 – 01 (4783)</td>
     <td>Multi-Media Project Management</td>
     <td>First Two Thursdays will be Synchronous Online 7:10 – 9:40 p.m.; remaining course will be online asynchronous</td>
     <td>Ahmad, R.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC    689 – 01 (6567)</td>
+    <td>EDUC 689 – 01 (6567)</td>
     <td>Advance Special Topics in Education: Portfolio Development & Talent Management</td>
     <td>Online Asynchronous</td>
     <td>Williams, G.</td>
     <td>n/a</td>
   </tr>
    <tr>
-    <td>EDUC    689 – 03 (2233)</td>
+    <td>EDUC 689 – 03 (2233)</td>
     <td>Advance Special Topics in Education: Design for How People Learn</td>
     <td>Online Asynchronous</td>
     <td>Campos, J.</td>
@@ -200,16 +208,15 @@
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 794    – 02 (5089)</td>
+    <td>EDUC 794 – 02 (5089)</td>
     <td>ISD Project Seminar</td>
     <td>Online Asynchronous</td>
     <td>Williams, G.</td>
     <td>n/a</td>
   </tr>
 </table>
-
+<br>
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions3">Directions</a></strong>)</p>
-
 <hr>
 
   <h3>Schedule of Classes Summer 2016</h3>
@@ -292,9 +299,10 @@
         <td>n/a</td>
       </tr>
   </table>
-  <p>*Course held at UMBC BW Tech South (<strong><a href="http://www.umbc.edu/isd/directions3">Directions</a></strong>)</p>
   <br>
-<hr>
+  <p>*Course held at UMBC BW Tech South (<strong><a href="http://www.umbc.edu/isd/directions3">Directions</a></strong>)<br>
+</p>
+  <hr>
   
 <a id="sequence"></a><h3>Sequence of ISD Courses</h3>
 <p>This schedule is a guide only and is subject to change. While we make every effort to run all classes listed on this chart in the time frames stated, there are some rare instances when we need to reschedule or cancel classes.</p>
@@ -435,7 +443,11 @@
 <br>
 
   
-  <!-- END Content -->
+  <div id="contents" style="display:none"></div>
+
+<!-- END Content -->
+
+
   
 </div>
   
@@ -455,12 +467,26 @@
 <!-- container --> 
 
 
+<script>
+	var programname = "isd";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
 

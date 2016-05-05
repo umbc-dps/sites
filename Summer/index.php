@@ -94,19 +94,19 @@
  
  <li id="slide2">
 
-<a href="http://gritgoing.umbc.edu/?p=753" target="_blank"><img src="images/featured/GWST210.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=756" target="_blank"><img src="images/featured/art325.jpg"></a>
 
 <div class="carousel-caption wordwrap">
 
-<h3>Featured Course: Critical Sexuality Studies
-(GWST 210)</h3>
-<small>Discuss our nation's important conversations and earn a GEP credit this summer.</small>
+<h3>Featured Course: History of Film
+(ART 325)</h3>
+<small>This summer, earn GEP as you explore the fascinating world of cinema.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=753" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=756" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=753" target="_blank">Featured Course: Critical Sexuality Studies</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=756" target="_blank">Featured Course: History of Film</a></p>
           
 </li>
           

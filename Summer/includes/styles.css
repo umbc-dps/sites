@@ -776,7 +776,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 	text-align: center;
 }
 
-	/* Fix for odd Mozilla border & padding issues */
+/* #Sidebar Contact Form
+================================================== */
+.five td { padding-bottom:10px; padding-left: 10px }
+.five td select, .five td input, .five td textarea {width:90%!important}
+.five iframe{transform:scale(0.90);-webkit-transform:scale(0.90);transform-origin:0 0;-webkit-transform-origin:0 0; text-align:center; margin-left:5px}
+.five label{font-weight:bold}
+.five input[type=submit]{width:50%!important; margin-left: 25%;}
+
+
+/* Fix for odd Mozilla border & padding issues */
 	button::-moz-focus-inner,  input::-moz-focus-inner {
  border: 0;
  padding: 0;

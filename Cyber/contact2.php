@@ -164,6 +164,7 @@ form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
 <script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
 <script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="js/scripts.js"></script> 

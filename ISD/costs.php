@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -71,7 +79,7 @@
       <h3>Program Costs</h3>
 
 
-      <h4>Tuition and Fees for 2015 - 2016 Academic Year</h4>
+      <h4>Tuition and Fees for the Fall 2016 Academic Term</h4>
 
 
       <p>Here is a breakdown of typical costs for a student taking one (three-credit) <strong>in-person</strong> course:</p>
@@ -89,21 +97,21 @@
 
         <tr>
           <td>Tuition<br>
-          <span class="extra">MD resident: $585 per credit<br>
-          Non-resident: $968 per credit</span></td>
+          <span class="extra">MD resident: $603 per credit<br>
+          Non-resident: $997 per credit</span></td>
 
-          <td>$1,755</td>
+          <td>$1,809</td>
 
-          <td>$2,904</td>
+          <td>$2,991</td>
         </tr>
 
 
         <tr>
-          <td>Athletics Fee <span class="extra">($27 per credit)</span></td>
+          <td>Athletics Fee <span class="extra">($28 per credit)</span></td>
 
-          <td>$81</td>
+          <td>$84</td>
 
-          <td>$81</td>
+          <td>$84</td>
         </tr>
 
 
@@ -126,20 +134,20 @@
 
 
         <tr>
-          <td>Auxiliary Facilities Fee <span class="extra">($22 per credit)</span></td>
+          <td>Auxiliary Facilities Fee <span class="extra">($23 per credit)</span></td>
 
-          <td>$66</td>
+          <td>$69</td>
 
-          <td>$66</td>
+          <td>$69</td>
         </tr>
 
 
         <tr>
-          <td>Graduate Program Fee <span class="extra">($14 per credit)</span></td>
+          <td>Graduate Program Fee <span class="extra">($16 per credit)</span></td>
 
-          <td>$42</td>
+          <td>$48</td>
 
-          <td>$42</td>
+          <td>$48</td>
         </tr>
 
 
@@ -155,9 +163,9 @@
         <tr>
           <td>TOTAL:</td>
 
-          <td>$2,133</td>
+          <td>$2,199</td>
 
-          <td>$3,282</td>
+          <td>$3,381</td>
         </tr>
 
 
@@ -179,12 +187,12 @@
 
         <tr>
           <td>Tuition<br>
-          <span class="extra">MD resident: $585 per credit<br>
-          Non-resident: $968 per credit</span></td>
+          <span class="extra">MD resident: $603 per credit<br>
+          Non-resident: $997 per credit</span></td>
 
-          <td>$1,755</td>
+          <td>$1,809</td>
 
-          <td>$2,904</td>
+          <td>$2,991</td>
         </tr>
 
 
@@ -200,9 +208,9 @@
         <tr>
           <td>TOTAL:</td>
 
-          <td>$1,797</td>
+          <td>$1,851</td>
 
-          <td>$2,946</td>
+          <td>$3,033</td>
         </tr>
 
 
@@ -248,7 +256,11 @@
 	  </ul>
 
 
-      <!-- END Content -->
+      <div id="contents" style="display:none"></div>
+
+<!-- END Content -->
+
+
     </div>
     <!-- SIDEBAR -->
     <?php include("includes/sidebar.php"); ?><!-- END SIDEBAR -->
@@ -260,8 +272,25 @@
 <br>
     <!--END footer -->
   </div>
-  <!-- container --><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!-- container -->
+<script>
+	var programname = "isd";
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- <script src="js/scripts.js"></script>
-</body>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
+<script src="js/scripts.js"></script> 
+<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="js/jquery.magnific-popup.js"></script>
+<script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 </html>

@@ -300,7 +300,7 @@
           <tr class="sidebar-form mini-form">
            <td><label for="program" hidden class="programlabel">Which Program are you interested in?:*</label></td>
            <td valign="middle">
-           <select name="program" id="program" required hidden>
+           <select name="program" id="program" hidden required>
            <option value=""></option>
            <option value="Biotechnology (Main)" id="bio" class="pp">Biotechnology (Catonsville)</option> 
            <option value="Biotechnology (Shady Grove)" id="bio-sg" class="usg-grad">Biotechnology (Shady Grove)</option> 
@@ -308,15 +308,15 @@
            <option value="Cybersecurity (Shady Grove)" id="cyber-sg" class="usg-grad">Cybersecurity (Shady Grove)</option> 
            <option value="Health Information Technology (Main)" id="hit" class="pp">Health Information Technology</option> 
            <option value="Engineering Management (Main)" id="engm" class="pp">Engineering Management</option> 
-           <option value="Systems Engineering (Main)" id="se" class="pp">Systems Engineering</option> 
-           <option value="Geographic Information Systems (Shady Grove)" id="gis" class="usg-grad">Geographic Information Systems</option> 
+           <option value="Systems Engineering (Main)" id="se" class="pp">Systems Engineering</option> 
+           <option value="Geographic Information Systems (Shady Grove)" id="gis" class="usg-grad">Geographic Information Systems</option> 
            <option value="Industrial & Organizational Psychology (Shady Grove)" id="io" class="usg-grad">Industrial & Organizational Psychology</option> 
            <option value="Instructional Systems Development (Main)" id="isd" class="pp">Instructional Systems Development</option> 
-           <option value="English Language Institute (Main)" id="eli" class="not-pro">English Language Institute</option> 
-           <option value="Music Entrepreneurship (Main)" id="music" class="music not-pro">Music Entrepreneurship</option> 
-           <option value="Professional Training (Main)" id="pro" class="not-pro">Professional Training</option> 
+           <option value="English Language Institute (Main)" id="eli" class="not-pro">English Language Institute</option> 
+           <option value="Music Entrepreneurship (Main)" id="music" class="music not-pro">Music Entrepreneurship</option> 
+           <option value="Professional Training (Main)" id="pro" class="not-pro">Professional Training</option> 
            <option value="Summer/Winter (Main)" id="sw" class="not-pro">Summer/Winter</option> 
-           <option value="Teaching English to Speakers of Other Languages (Main)" id="esol" class="not-pro">Teaching English to Speakers of Other Languages</option>
+           <option value="Teaching English to Speakers of Other Languages (Main)" id="esol" class="not-pro">Teaching English to Speakers of Other Languages</option>
            <option value="Division of Professional Studies (Main)" id="dps" class="not-pro">Division of Professional Studies</option>
            <option value="Nonprofit Sector (Main)" id="nonprofit" class="not-pro">Nonprofit Sector</option>
            <option value="History (Shady Grove)" id="history" class="usg">History</option>

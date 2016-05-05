@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -337,11 +345,12 @@
   <p>TCecure’s Founder and President, Tina C. Williams – Esq., CISSP, PMP, is a long-time participant in, and advocate of, the security and intelligence industry. Ms. Williams has worked for multiple Federal contract companies, including Lockheed Martin, Unisys, Dependable Global Solutions Inc. (DGS), and now TCecure.  Throughout her career, Ms. Williams has provided project management; security architecture, engineering, testing, training, and assessments; risk management; and other related services to clients. </p>
   <p>Ms. Williams is a Certified Information Systems Security Professional (CISSP), and a Project Management Professional (PMP). She was a Meyerhoff Scholar and a University Scholar at the University of Maryland Baltimore County (UMBC), receiving a B.S. in Computer Science, and also holds a M.S. in Management from Rensselaer Polytechnic Institute, and a J.D. from the University of Maryland Francis King Carey School of Law. During her tenure as a part-time law student, and full-time employee of Unisys and DGS, Ms. Williams also worked as a legal extern supporting the Maryland Department of Business and Economic Development (DBED) and as a research assistant for the Maryland Center for Health and Homeland Security (MD CHHS).</p>
   <p>Ms. Williams is a member of the Maryland Bar, and a member of the NICE365 Industry Advisory Board.</p>
+</div>    
+<div id="contents" style="display:none"> </div>
+
 </div>
- 
+<!-- END Content -->
     
-<!-- END CONTENT -->
-</div>
 </div>
 </div>
   
@@ -360,12 +369,26 @@
 </div>
 <!-- container --> 
 
+<script>
+	var programname = "cyber";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",

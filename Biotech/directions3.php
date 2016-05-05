@@ -8,7 +8,7 @@ $lang = 'en';
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
 <title>Directions | Biotechnology at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="The Master’s in Professional Studies in Biotechnology prepares science professionals to fill management and leadership roles." />
@@ -84,20 +84,19 @@ Rockville, MD 20850
  <br>
  <br>
 
- <!-- END Content -->
-
-  <div id="contents" style="display:none"></div>
+  <!-- END Content -->
+    <div id="contents" style="display:none"></div>
   
   </div>
   
 <!-- SIDEBAR -->
- <?php include("includes/sidebar2.php"); ?>
+ <?php include("includes/sidebar.php"); ?>
 <!-- END SIDEBAR -->
 
 <!-- footer -->
   <br clear="all">
     <?php include("includes/footer.php"); ?>
-<?php include("includes/tracking.php"); ?>
+	<?php include("includes/tracking.php"); ?>
 
   <br>
 <!--END footer -->

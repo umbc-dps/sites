@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -117,31 +125,6 @@
   <p>Dr. Gouker's additionally has served as the Provost at Lyman Spalding  Institute, where led the effort to build a global continuing education program  for scientists and engineers to ensure pharmaceutical workforce capacity, the  Vice President of University Affairs at American Graduate University, where he  functioned as the lead academic and operating officer and Executive Director at  Laureate Education, Inc. where he led National Technological University through  its merger with Walden University. </p>
 <p>Dr. Gouker received his Ph.D. in Applied Management and Decision Sciences  from Walden University, his M.B.A. at the University of Houston, and a B.S. in  Chemical Engineering at Worcester Polytechnic Institute. Dr. Gouker is also an  Graduate Faculty member at American Graduate University and DeVry University.</p>
 <p>You can view Dr. Gouker&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/pub/toby-gouker-phd/1/590/528" target="_blank">here</a>.</p>
-</div>
-
-<div class="accordionheader">
-  <h4> <a href="#griner" id="griner"></a>Anita Griner | Graduate Faculty  <i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p><img src="images/faculty/umbc-faculty-Anita-Griner.gif" alt="UMBC Faculty Anita Griner" align="left">B.A., Organizational/Personnel Psychology, UMBC<BR>
-  M.B.A., University of   Baltimore<BR>
-  </p>
-  <p>
-  Specializing in project management  consultation and instruction, Ms. Griner currently serves as Chief of Staff and  Chief Performance Officer at Cognosante, a mid-size Health IT company.  Prior to this position she served as the Deputy Director for the Data Sharing &amp; Partnership  Group at the Center for Program Integrity at the Centers for Medicare and  Medicaid Services. Her programs included the ACA 6002 National Physician  Payment Reporting Program: OPENPAYMENTS and the Healthcare Fraud Prevention  Partnership (HFPP). She previously was a Project Manager at Maricom Systems,  IBM, and Applied Digital Solutions where she trained and consulted with  private, State and Federal government clients. Ms. Griner is Project Management  Professional (PMP) certified through the national Project Management Institute.</p>
-<p>Ms. Griner received her B.A. from  UMBC in Organizational/Personnel Psychology and her M.B.A. from the University  of Baltimore. She is a member of the Project Management Institute and actively  serves on various project management focus groups and practice teams to develop  and implement project management guidelines and standards. She has been named  the HHS Secretary&rsquo;s Award for Distinguished Service and the CMS CIO&rsquo;s Citation  Award for Project Management.</p>
-<p>You can view Ms. Griner&rsquo;s public LinkedIn profile  <a href="http://www.linkedin.com/in/anitagriner" target="_blank">here</a>.</p>
-</div>
-
-<div class="accordionheader">
-  <h4>
- <a href="#herring" id="izenberg2"></a>Josh Herring | Graduate Faculty <i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p><img src="images/faculty/umbc-faculty-Josh-Herring.gif" alt="Josh Herring" align="left" /> Joshua Herring, recently joining UMBC faculty in 2012, is currently the  Program Management Lead at the Centers for Medicare and Medicaid Services (CMS)  Center for Program Integrity. Through this position, Mr. Herring leads all  aspects of program management for the successful implementation of the  Physician Payment Sunshine Act, a major component of the Affordable Care Act,  requiring public disclosure of $1.6B of payments and other transfers of value  between drug and device manufacturers and over one million physicians and  teaching hospitals. He has previously worked in the CMS Innovation Center and  Office of Information Services. Prior to joining CMS, Mr. Herring was a  Software Development Deputy Manager and Strategic Planning Analyst with  Northrop Grumman. </p>
-<p>Mr. Herring is a UMBC alumnus with a B.S. in Mechanical Engineering and  M.S. in Engineering Management. Additionally, he is a PMI certified Project  Management Professional (PMP)® and Scheduling Professional (PMI-SP)®, drawing  on a breadth of project management, process improvement, strategic planning and  portfolio analysis experience in the defense and federal sectors. He is a  recognized expert in project planning tools &amp; techniques.</p>
-<p>You can view Mr. Herring&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/in/joshuarherring" target="_blank">here</a>.</p>
 </div>
 
 <div class="accordionheader">
@@ -316,7 +299,10 @@ M.B.A., Loyola College</p>
 
 
     
+
+<div id="contents" style="display:none"></div>
 <!-- END CONTENT -->
+
 </div>
 </div>
 </div>
@@ -334,12 +320,26 @@ M.B.A., Loyola College</p>
 </div>
 <!-- container --> 
 
+<script>
+	var programname = "engm";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",

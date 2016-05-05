@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -115,10 +123,12 @@ Contact <a href="mailto:gambino@umbc.edu">Lisa Gambino</a></p>
  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://umbc.edu/cyber/webinar&title=UMBC%20Cybersecurity%20Webinar%3A%20Chinese%20Cyber%20Power%20&summary=Dr.%20Terry%20Thompson%2C%20of%20the%20UMBC%20Cybersecurity%20Graduate%20Program%20faculty%2C%20will%20present%20on%20the%20political%2C%20economic%2C%20military%2C%20and%20foreign%20policy%20dimensions%20of%20China%27s%20cyber%20strategy%20and%20operations.%20" onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
  return false;" onMouseDown="ga('send', 'event', 'share', 'click', 'linkedin');"><img src="images/linkedin.png" width="20"></a></h4>
 </center>
-</p>
-<!-- END Content -->
+</p>    
+<div id="contents" style="display:none"> </div>
 
 </div>
+<!-- END Content -->
+    
   
 <!-- SIDEBAR -->
  <?php include("includes/sidebar.php"); ?>
@@ -134,13 +144,26 @@ Contact <a href="mailto:gambino@umbc.edu">Lisa Gambino</a></p>
 </div>
 <!-- container --> 
 
+<script>
+	var programname = "cyber";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 </body>
 </html>

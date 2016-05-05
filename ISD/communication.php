@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -199,36 +207,71 @@
 !------------------------->
 
 
-<!------- Accordion 9 ------
+<!------- Accordion 9 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    4/29/2016 - Summer Session Begins in One Month
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p>The twelve week summer  2016 session begins May 31, 2016. Be sure to request authorization and register  online before it is too late.</p>
+    <p><strong>Summer Academic Calendar:</strong> <a href="http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf">http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf</a><br>
+      Last Day to Add a  Course: June 3, 2016<br>
+      Last day to drop a course  with grade of &ldquo;W&rdquo; on transcript: July 28, 2016<br>
+      Last day for &ldquo;complete  withdrawal&rdquo; from session: August 16, 2016<br>
+      Session Ends: August  19, 2016<br>
+  <strong>Summer Financial Dates: </strong><a href="http://umbc.edu/summer/financialdates">http://umbc.edu/summer/financialdates</a></p>
+    <p><strong>E-Billing:</strong> If you registered for a summer course by April 30th  your e-bill date would be May 1st with a due date of May 20th.  Learn about e-billing, late fees and view the schedule here, <a href="http://sbs.umbc.edu/billing/">http://sbs.umbc.edu/billing/</a>.</p>
+    <p><strong>Payments</strong>: Learn about making online payments here, <a href="http://sbs.umbc.edu/payments/">http://sbs.umbc.edu/payments/</a>.</p>
+    <p><strong>Payment Plan:</strong> Learn about the payment plan option here, <a href="http://sbs.umbc.edu/payment-plan/">http://sbs.umbc.edu/payment-plan/</a>. </p>
+    <p><strong>Summer Online Graduation Applications:</strong> If you are finishing your  plan of study during the summer 2016 session you need to apply online for  graduation/diplomas. <a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a> (The fall online graduation application does not open until July 1st).</p>
+    <p><strong>Textbooks:</strong> Summer and fall textbooks have been listed on our  website. Be sure you are reviewing the correct semester here, <a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a>.</p>
+    <p><strong>Fall Master&rsquo;s Application Deadline:</strong> Any current certificate  students interested in applying for the Master&rsquo;s program should be aware that  the deadline is June 1st. </p>
+    <p>Our program is  committed to your success. Communication from the program will be sent to a  student&rsquo;s UMBC email address. You may view past ISD Current Student Emails  here, <a href="http://umbc.edu/isd/communication">http://umbc.edu/isd/communication</a>.</p>
 </div>
-!------------------------->
 
 
-<!------- Accordion 10 ------
+
+<!------- Accordion 10 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    4/8/2016 - Fall Registration Instructions
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
-</div>
-!------------------------->
+    <p><strong><u>Pre-Advising  Instructions</u></strong><strong>:</strong> <br>
+      <strong>Courses by Semester:</strong> Look for tentative long range schedule  options, <a href="http://www.umbc.edu/isd/schedule#sequence">http://www.umbc.edu/isd/schedule#sequence</a> <br>
+      <strong>Course Descriptions  and Prerequisites:</strong> <a href="http://www.umbc.edu/isd/courses">http://www.umbc.edu/isd/courses</a> <br>
+      <strong>Advising Form and  Process: </strong><a href="http://www.umbc.edu/isd/advising">http://www.umbc.edu/isd/advising</a> Be sure your form is completely and  correctly filled out. Blank and incomplete forms have been sent in the past,  delaying advising. <br>
+      <strong>Applying for  Graduation, Comprehensive Exam Dates and Portfolio Information: </strong><a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a> <br>
+      <strong>Holds: </strong>Make sure you do not have any holds on  your account. A hold will prevent you from registering. <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450">https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450</a></p>
+    <p><strong>Review the Schedule Prior to Sending  Authorization Requests. </strong>(Multiple semesters may be listed, make  sure you are viewing the correct semester). <a href="http://www.umbc.edu/isd/schedule">http://www.umbc.edu/isd/schedule</a></p>
+    <p><strong>Fall 2016 Registration Instructions:</strong> <br>
+      (Registration is a  three step process) </p>
+    <ol start="1" type="1">
+      <li><strong>Advising:</strong> All students must contact Dr. Hodell, <a href="mailto:hodell@umbc.edu">hodell@umbc.edu</a>, to receive academic advising, every       semester. Advising should be completed through email. Please allow Dr.       Hodell 7 - 10 days to review and approve your course selections. Be sure       to send your finalized form only. Requesting changes after submitting your       advising form will move your request to the end of the list. (See link       above for advising form and instructions).<strong></strong></li>
+      <li><strong>Authorization:</strong> After Dr. Hodell approves your course       selection your authorization will be entered into the registration system.       You will be able to register after the dates shown below. More       authorizations than total number of spaces in a course may be entered.<strong></strong></li>
+      <li><strong>Online       Registration:</strong> After students are authorized, they may register online via myUMBC       according to the dates below. Authorization does not guarantee a seat in a       course. You must register online and are advised to do so as soon as       possible. Instructions for how to register online may be found here: <a href="http://registrar.umbc.edu/services/registration/Information-About-Registration/">http://registrar.umbc.edu/services/registration/Information-About-Registration/</a><strong> </strong></li>
+    </ol>
+    <p><strong>Registration  Schedule:</strong> <br>
+      <strong>April 4, 2016: </strong>Registration begins for current  Graduate Students (The ISD program will not begin to enter authorizations until  April 11, 2016)<br>
+      <strong>June 6, 2016: </strong>New Graduate Student Registration Begins <br>
+      <strong>August 24, 2016:</strong> Non-Degree Student Registration Begins </p>
+    <p><strong>Wait List:</strong> ISD courses automatically have the  Student Administration (SA) System hold any wait lists. The ISD department  cannot prioritize the wait list, nor can we override the wait list. Read the  &ldquo;Student Frequently Asked Questions&rdquo; about waitlists prior to placing yourself  on one, <a href="https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists">https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists</a>. </p>
+    <p><strong>Authorization  Information and Notes:</strong> <br>
+      The ISD Department  will give authorizations to student who request them and are approved. This  will result in some courses having more authorizations issued than available  seats in a course. We will also continue to give authorization to courses that  are full. <br>
+      Authorization does  not guarantee a student a seat in the course. Students must register online  through their myUMBC account to have a space in the course. If you opt to put  yourself on the waitlist for a course that is full be sure to read about wait  lists in the link above. </p>
+    <p><u>Put your legal name  and campus ID in the body of the email with your authorization request.</u> It is harder to enter an authorization  for the correct individual if we cannot look you up. </p>
+Students interested in EDUC 792T and EDUC 794 should contact Dr.  Williams directly at <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a> prior to requesting  authorization to discuss their internship or final project. You must include in  your email to Dr. Hodell that you have spoken to Dr. Williams before Dr. Hodell  will approve.</div>
+
 
 
 <!------- Accordion 11 ------>
@@ -525,7 +568,11 @@ If you are looking to  receive authorization to take a course at another institu
 
 
 
-<!-- END CONTENT -->
+<div id="contents" style="display:none"></div>
+
+<!-- END Content -->
+
+
 </div>
 </div>
 </div>
@@ -546,12 +593,26 @@ If you are looking to  receive authorization to take a course at another institu
 <!-- container --> 
 
 
+<script>
+	var programname = "isd";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 <script>
 $( "#accordion" ).accordion({

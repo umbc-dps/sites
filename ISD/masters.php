@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -84,7 +92,7 @@
   
 
   <h4>Optional Interview:</h4>
-  <p>An in-person or a phone interview is not required, but prospective students may have questions concerning the program. The purpose of the interview is to address any questions or concerns that you may have. It also is an opportunity to discuss your career plans, and to see how the program can help you reach your goals. Dr. Chuck Hodell, Associate Graduate Program Director, is available to talk with prospective students. Dr. Chuck Hodell can be reached at <a href="mailto:hodell@umbc.edu">hodell@umbc.edu</a>.</p>
+  <p>An in-person or a phone interview is not required, but prospective students may have questions concerning the program. The purpose of the interview is to address any questions or concerns that you may have. It also is an opportunity to discuss your career plans, and to see how the program can help you reach your goals. Dr. Greg Williams, Graduate Program Director, is available to talk with prospective students. Dr. Greg Williams can be reached at <a href="mailto:gregw@umbc.edu" target="_blank">gregw@umbc.edu</a>.</p>
   
   
   <h4>Application Process:</h4>
@@ -117,7 +125,11 @@ Graduate School, ISD Graduate Program<br>
 1000 Hilltop Circle<br>
 Baltimore, MD 21250</p>
  <p>&nbsp;</p>
+<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
+
+
   </div>
   
 <!-- SIDEBAR -->
@@ -136,12 +148,26 @@ Baltimore, MD 21250</p>
 <!-- container --> 
 
 
+<script>
+	var programname = "isd";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
 </body>

@@ -91,7 +91,7 @@ Fall 2016 Application Deadline: August 1
 		</script>
         <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha" required>
     <br>
-		<input type="submit" name="submit" value="Submit" style="height:auto">
+		<input type="submit" name="submit" value="Submit" style="height:auto;">
       </form>
     </p>   
    </aside>  

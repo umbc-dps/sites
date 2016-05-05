@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -116,7 +124,7 @@
 <p style="font-style:italic">* Courses marked with an asterisk can be counted as either a management elective or technical elective.</p>
 
  <h4>Courses for Engineering and Information Technology Specializations</h4>
- <p>Before enrolling in any courses in the Engineering or Information Technology specialization, students should ensure that they meet the prerequisites for the course or receive permission from the course instructor. Prerequisites are detailed in the Graduate School Catalog. Some of the courses in the specializations listed below are offered on a two-year rotation.</p>
+ <p>Before enrolling in any courses in  Engineering, Computer Science, or Information Technology specializations, students should ensure that they meet the prerequisites for the course or receive permission from the course instructor. In addition, students should consult with the Engineering Management Graduate Program Director to ensure selected courses meet  program requirements.</p>
 
 <p>To achieve technical depth in a discipline, students are encouraged to take <strong>four</strong> courses from one of the following specializations. However, students may take courses from multiple specializations.</p>
  
@@ -135,7 +143,10 @@
    <li><a href="courses.php#sy" target="_blank">Systems Engineering</a></li>
  </ul>
 
-<!-- END Content -->
+
+<div id="contents" style="display:none"></div>
+<!-- END CONTENT -->
+
 
 </div>
   
@@ -153,13 +164,26 @@
 <!-- container --> 
 
 
+<script>
+	var programname = "engm";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
 </body>

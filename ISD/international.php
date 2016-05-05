@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -115,7 +123,11 @@ Baltimore, MD 21250</p>
    
 <h4>Obtaining Immigration Documents</h4>
 <p>Our program is offered online. U.S. Department of Education regulations require students with F-1 visas take a minimum number of in-person courses every semester. The ISD graduate program does not offer enough in-person courses to comply with that regulation. As a result, no I-20's for F-1 visas will be issued by UMBC for this program. However, international students have the option of taking the program online in their home country, since they would not have to obtain a visa.</p>
+<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
+
+
   </div>
   
 <!-- SIDEBAR -->
@@ -134,12 +146,26 @@ Baltimore, MD 21250</p>
 <!-- container --> 
 
 
+<script>
+	var programname = "isd";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
 

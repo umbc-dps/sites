@@ -161,9 +161,28 @@ BEGIN MAIN
     <div class="eleven columns alpha" style="padding-top:1em;">
       <div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
-        
-<!-- Slide One -->        
+
+<!-- SLIDE ONE -->
+
 <li id="slide1">
+
+<a href="http://umbc.edu/rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/7.png" alt="Professional Programs Info Session"/></a>
+
+<div class="carousel-caption wordwrap">
+<h3>Professional Programs Info Session</h3>
+<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
+
+<p><a href="http://umbc.edu/rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+
+<p id="captionthree"><a href="http://umbc.edu/rsvp" target="blank">Professional Programs Info Session</a></p>
+
+</li>
+
+<!---- END SLIDE ONE ---->
+
+        
+<!-- Slide Two -->        
+<li id="slide2">
 
 <a href="https://www.youtube.com/watch?v=eDLz0pDpHvU" class="video"><img src="images/president.png" alt="President Hrabowski"/></a>
 
@@ -176,11 +195,11 @@ BEGIN MAIN
 <p id="captiontwo"><a href="https://www.youtube.com/watch?v=eDLz0pDpHvU" class="video">Why Professional Programs?</a></p>
 
 </li>
-<!-- END Slide One -->        
+<!-- END Slide Two -->        
 
 
-<!-- Slide Two -->        
-<li id="slide2">
+<!-- Slide Three -->        
+<li id="slide3">
 
 <a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank"><img alt="img01" src="images/2.jpg"></a>
 
@@ -194,26 +213,8 @@ BEGIN MAIN
 
 </li>
 
-<!-- END Slide Two -->  
+<!-- END Slide Three -->  
      
-
-<!-- Slide Three -->           
-
-<li id="slide3">
-
-<a href="http://umbc.edu/openhouse" target="blank"><img src="images/6.jpg" alt="Open House"/></a>
-
-<div class="carousel-caption wordwrap">
-<h3>Professional Programs Exploration Night</h3>
-<small>Join us on Tuesday, April 26 to hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
-
-<p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
-
-<p id="captionthree"><a href="http://umbc.edu/openhouse" class="video" target="blank">Professional Programs Exploration Night</a></p>
-
-</li>
-<!-- END Slide Three -->
-
          
 <!-- Slide Four -->              
 <li id="slide4">
