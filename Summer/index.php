@@ -94,19 +94,18 @@
  
  <li id="slide2">
 
-<a href="http://gritgoing.umbc.edu/?p=756" target="_blank"><img src="images/featured/art325.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=655"><img src="images/featured/amst352.png" alt="Featured Course: American Culture in Global Perspective" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
-
-<h3>Featured Course: History of Film
-(ART 325)</h3>
-<small>This summer, earn GEP as you explore the fascinating world of cinema.</small>
+    
+<h3>Featured Course: American Culture in Global Perspective (AMST 352)</h3>
+<small>See America from a global perspective (and earn GEP) this summer!</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=756" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=655" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=756" target="_blank">Featured Course: History of Film</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=655" target="_blank">Featured Course: American Culture in Global Perspective</a></p>
           
 </li>
           

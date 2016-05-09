@@ -716,28 +716,29 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank"><img src="images/RegisteredRetriever_FBPost.JPG" alt=""/></a>
+<a href="https://schedule.sgrove.usmd.edu/VirtualEMS/BrowseEvents.aspx" target="_blank"><img src="images/testtakingimage2.png" alt=""/></a>
 
 
 <h3 style="line-height:normal; font-size:15pt">
- Fall 2016 - Become a #RegisteredRetriever</h3>
+<br>
+ It's Time for Final Exams</h3>
 
 
 <div class="boxleft" style="width:60%">
 
-  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Classes are filling up quickly! Choosing your classes early will allow you to have the schedule that fits your needs! </h6>
+  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Prepare for your final exams - be sure to confirm the time and location for each class here! </h6>
   </div><!-- end boxleft nested div -->
 
 
 
 
 	<div class="boxright">
-<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank" style="text-decoration:none">
+<a href="https://schedule.sgrove.usmd.edu/VirtualEMS/BrowseEvents.aspx" target="_blank" style="text-decoration:none">
 <div class="button" style="height:auto; line-height:10pt; vertical-align:middle;">
 
 <br>
 
-Register
+View Schedule
 <br><br>
 
 
