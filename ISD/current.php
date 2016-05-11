@@ -92,7 +92,25 @@ div.subject{background-color:#E0C586;}
   <div class="cbp-fwslider" id="cbp-fwslider">
     <ul>
 
-<!-- SLIDE ONE -->    
+<!-- SLIDE ONE --> 
+      <li id="slide3">
+        <a href="https://youtu.be/WG1dLa91zzU"><img alt="img03" src="images/5.jpg"></a>
+
+        <div class="carousel-caption wordwrap">
+          <h3>EDUC 689 - Portfolio Development</h3>
+ 			<small>Associate Professor Gregory Williams discusses EDUC 689 - Portfolio Development, an ISD elective course which will be offered this summer.</small>          
+            <p>
+          <a href="https://youtu.be/WG1dLa91zzU" class="btn">Watch Video</a>
+          </p>
+        </div>
+
+        <p id="captionthree">
+         <a href="https://youtu.be/WG1dLa91zzU">Watch Video</a>
+        </p>
+      </li>
+<!-- END SLIDE ONE --> 
+
+<!-- SLIDE TWO -->    
       <li id="slide1">
      
                 <a href="forum"><img alt="img02" src="images/current/2.jpg"></a>
@@ -108,11 +126,9 @@ div.subject{background-color:#E0C586;}
           <a href="forum">ISD Now Forums</a>
         </p>
       </li>
-<!-- END SLIDE ONE -->
+<!-- END SLIDE TWO -->
       
-
-
-<!-- SLIDE TWO --> 
+<!-- SLIDE THREE --> 
       <li id="slide2">
         <a href="studentawards"><img alt="img01" src="images/current/1.jpg"></a>
 
@@ -127,10 +143,10 @@ div.subject{background-color:#E0C586;}
          <a href="studentawards">The Dr. J. Marvin Cook Student Award</a>
         </p>
       </li>
-<!-- END SLIDE TWO --> 
+<!-- END SLIDE THREE --> 
 
 
-<!-- SLIDE THREE --> 
+<!-- SLIDE FOUR --> 
       <li id="slide3">
         <a href="webinars"><img alt="img03" src="images/current/3.jpg"></a>
 
@@ -146,7 +162,8 @@ div.subject{background-color:#E0C586;}
          <a href="webinars">ISD Webinars</a>
         </p>
       </li>
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE FOUR --> 
+
       
     </ul>
 

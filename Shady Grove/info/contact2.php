@@ -151,7 +151,7 @@ select#program[hidden]{display:block}
   <p align="center" class="style1" style="margin-bottom: 0;">Phone: 301-738-6081<br>
     E-mail: <A href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</A>  </p>
   <p>&nbsp;</p>
-	<form action="process.php" method="post" id="dpsform">
+	<form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'contact_us');">
 
 		<div id="form">
          

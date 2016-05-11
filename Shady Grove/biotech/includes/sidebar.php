@@ -59,7 +59,7 @@
 
   <p>
     
-    <form action="process.php" method="post" id="dpsform">
+    <form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'contact_us');">
     
     <div id="sidebar-contact">
     </div>
