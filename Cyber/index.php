@@ -97,15 +97,15 @@ $lang = 'en';
 
 <li id="slide2">
 
-<a href="http://publicpolicy.umbc.edu/forums/" target="_blank"><img alt="img01" src="images/forum.jpg"></a>
+<a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank"><img alt="img01" src="images/cyber-art.jpg"></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Public Policy Forum: Cybersecurity Concerns</h3>
-<small>Join researchers and practitioners on Friday, April 15, for a discussion of cybersecurity initiatives in local governments in Maryland, and the public policy implications of these initiatives.</small>
+<h3>America is ‘dropping cyberbombs’ – but how do they work?</h3>
+<small>UMBC's Richard Forno and Anupam Joshi discuss what cyberbombs are and how the U.S. uses them.</small>
 
-<p><a href="http://publicpolicy.umbc.edu/forums/" role="button" class="web-seemore">Read more</a></p></div>
+<p><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" role="button" class="web-seemore">Read more</a></p></div>
 
-<p id="captionthree"><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/" target="_blank">Public Policy Forum: Cybersecurity Concerns</a></p>
+<p id="captionthree"><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank">America is ‘dropping cyberbombs’ – but how do they work?</a></p>
 
 </li>
 
@@ -166,6 +166,24 @@ $lang = 'en';
 </li>
 
 <!-- END SLIDE FIVE --> 
+
+<!-- SLIDE SIX --> 
+
+<li id="slide6">
+
+<a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
+
+<div class="carousel-caption wordwrap">
+<h3>UMBC Class of 2016 Profile: Arti Deore Choudhary</h3>
+<small>CYBR MPS student Arti Deore Choudhary is heading to Amazon — she thanks cybersecurity faculty for honing her leadership skills.</small>
+
+<p><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" class="web-seemore">Read More</a></p></div>
+
+<p id="captionthree"><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/">UMBC Class of 2016 Profile: Arti Deore Choudhary</a></p>
+ 
+</li>
+
+<!-- END SLIDE SIX --> 
       
     </ul>
 
@@ -306,6 +324,18 @@ $('#slide4').on('click', function() {
   var slideLink = slideID.getElementsByTagName('a')[0];
   var slideURL = slideLink.href;
   ga('send', 'event', 'slider', 'slide4', slideURL);
+});
+$('#slide5').on('click', function() {
+  var slideID = document.getElementById('slide5');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide5', slideURL);
+});
+$('#slide6').on('click', function() {
+  var slideID = document.getElementById('slide6');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide6', slideURL);
 });
 
 $(".cbp-fwnext").on('hover', function() {

@@ -105,7 +105,7 @@ $lang = 'en';
     <td>Cybersecurity Law &amp; Policy</td>
     <td>Thursday</td>
     <td>6:00 PM - 8:40 PM</td>
-    <td>TBA</td>
+    <td>Armin Tadayon</td>
   </tr>
   <tr>
     <td>CYBR 624.02 (6917)</td>
@@ -119,7 +119,7 @@ $lang = 'en';
     <td>Cybersecurity Management</td>
     <td>Tuesday</td>
     <td>5:30 PM - 8:10 PM</td>
-    <td>TBA</td>
+    <td>Mallik Rao</td>
   </tr>
   <tr>
     <td>CYBR 658.02 (6916)</td>
@@ -160,21 +160,24 @@ $lang = 'en';
     <td width="25%">COURSE TITLE </td>
     <td width="15%">DAY</td>
     <td width="20%">TIME</td>
-    <td width="20%">FORMAT</td>
-    <td width="20%">ROOM</td>
     <td width="20%">PROFESSOR</td>
   </tr>
-  <tr>
-    <td>CYBR 623 (2706)</td>
-    <td>Cybersecurity Law &amp; Policy</td>
+    <td>CYBR    623.01   <br>
+      (2706)</td>
+    <td>Cyber Law &amp;    Policy</td>
     <td>Tues/Thurs<br>
-    6 weeks (Session 2)</td>
-</td>
-    <td>5:30 PM -    6:45 PM</td>
-    <td>In Person</td>
-    <td>TBD</td>
-    <td>TBD</td>
+      6 weeks (2)</td>
+    <td>5:30 PM - 8:10PM</td>
+    <td>Armin Tadayon</td>
   </tr>
+    <td>CYBR    691.01 <br>
+      (2726)</td>
+    <td>Special Topics: <br>
+      Enterprise Security</td>
+    <td>Mon/Wed<br>
+      6 Weeks (1)</td>
+    <td>5:30 PM - 8:40PM</td>
+    <td>Behnam Shariati</td>
 </table>
 <br>
 <br>

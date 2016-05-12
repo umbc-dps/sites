@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!doctype html>
 <html>
 <head>
@@ -31,6 +39,14 @@
 	width: 100%;
 	height: 100%;
 }
+select#program[hidden]{display:block}
+.programlabel{display:block}
+select#program option.not-pro, select#program option.usg{display:none}
+.five td { padding-bottom:10px;}
+.five td select, .five td input, .five td textarea {width:90%!important}
+.five iframe{transform:scale(0.85);-webkit-transform:scale(0.85);transform-origin:0 0;-webkit-transform-origin:0 0;}
+.five label{font-weight:bold}
+.five td input[type=submit]{margin-left:15%}
 @media screen and (max-width:799px) {
 .videoWrapper2 iframe {height: 275%}
 .videoWrapper2 {margin-bottom: 275%}
@@ -145,20 +161,26 @@ BEGIN MAIN
 
   </footer>
 </div></div>
-<!-- container --> 
+
+<div id="contents" style="display:none"></div>
+ 
+<!-- end container -->
+<script>
+	var programname = "pro";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
+
+<script>$( "#form" ).load( "includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "includes/contact-form.php .mini-form" );</script>
+<script>$( "#contents" ).load( "includes/program-info.php" );</script>
+
 <script src="includes/scripts.js"></script> 
-<?php include("includes/tracking.php"); ?>
-<script src="includes/jquery.cbpFWSlider.js"></script> 
+<script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script> 
-<script> 
-$( function() {
-$( '#cbp-fwslider' ).cbpFWSlider();
-$( '#cbp-fwslider' ).cbpFWSlider('interval');
- 
-} ); 
-</script>
+
+<script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 </body>
 </html>

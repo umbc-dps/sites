@@ -93,25 +93,25 @@ div.subject{background-color:#E0C586;}
     <ul>
 
 <!-- SLIDE ONE --> 
-      <li id="slide3">
-        <a href="https://youtu.be/WG1dLa91zzU"><img alt="img03" src="images/5.jpg"></a>
+      <li id="slide1">
+        <a href="https://www.youtube.com/watch?v=WG1dLa91zzU" class="video"><img alt="img03" src="images/5.jpg"></a>
 
         <div class="carousel-caption wordwrap">
           <h3>EDUC 689 - Portfolio Development</h3>
  			<small>Associate Professor Gregory Williams discusses EDUC 689 - Portfolio Development, an ISD elective course which will be offered this summer.</small>          
             <p>
-          <a href="https://youtu.be/WG1dLa91zzU" class="btn">Watch Video</a>
+          <a href="https://www.youtube.com/watch?v=WG1dLa91zzU" class="btn video">Watch Video</a>
           </p>
-        </div>
 
         <p id="captionthree">
-         <a href="https://youtu.be/WG1dLa91zzU">Watch Video</a>
+         <a href="https://www.youtube.com/watch?v=WG1dLa91zzU" class="video">Watch Video</a>
+         </div>
         </p>
       </li>
 <!-- END SLIDE ONE --> 
 
 <!-- SLIDE TWO -->    
-      <li id="slide1">
+      <li id="slide2">
      
                 <a href="forum"><img alt="img02" src="images/current/2.jpg"></a>
 
@@ -129,7 +129,7 @@ div.subject{background-color:#E0C586;}
 <!-- END SLIDE TWO -->
       
 <!-- SLIDE THREE --> 
-      <li id="slide2">
+      <li id="slide3">
         <a href="studentawards"><img alt="img01" src="images/current/1.jpg"></a>
 
         <div class="carousel-caption-right wordwrap">
@@ -147,7 +147,7 @@ div.subject{background-color:#E0C586;}
 
 
 <!-- SLIDE FOUR --> 
-      <li id="slide3">
+      <li id="slide4">
         <a href="webinars"><img alt="img03" src="images/current/3.jpg"></a>
 
         <div class="carousel-caption wordwrap">
@@ -333,6 +333,20 @@ $('#slide4').on('click', function() {
   var slideLink = slideID.getElementsByTagName('a')[0];
   var slideURL = slideLink.href;
   ga('send', 'event', 'slider', 'slide4', slideURL);
+});
+
+$('#slide5').on('click', function() {
+  var slideID = document.getElementById('slide5');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide5', slideURL);
+});
+
+$('#slide6').on('click', function() {
+  var slideID = document.getElementById('slide6');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide6', slideURL);
 });
 
 $(".cbp-fwnext").on('hover', function() {

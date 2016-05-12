@@ -273,6 +273,27 @@ $('#slide3').on('click', function() {
   ga('send', 'event', 'slider', 'slide3', slideURL);
 });
 
+$('#slide4').on('click', function() {
+  var slideID = document.getElementById('slide4');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide4', slideURL);
+});
+
+$('#slide5').on('click', function() {
+  var slideID = document.getElementById('slide5');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide5', slideURL);
+});
+
+$('#slide6').on('click', function() {
+  var slideID = document.getElementById('slide6');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide6', slideURL);
+});
+
 $(".cbp-fwnext").on('hover', function() {
   ga('send', 'event', 'slider', 'button', 'next');
 });

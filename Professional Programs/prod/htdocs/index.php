@@ -215,26 +215,8 @@ BEGIN MAIN
 
 <!-- END Slide Three -->  
      
-         
 <!-- Slide Four -->              
 <li id="slide4">
-      
-<a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/"><img alt="img02" src="images/cybersecurity.jpg"></a>
-
-<div class="carousel-caption wordwrap">
-<h3>UMBC's Rick Forno on the BBC</h3>
-<small>Forno, director of the UMBC graduate program in cybersecurity, comments on the Deptartment of Justice's order for Apple to unlock an iPhone that may contain information about the San Bernardino shooting.</small>
-
-<p><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/" class="web-seemore">Learn More</a></p></div>
-
-<p id="captiontwo"><a href="http://news.umbc.edu/cybersecurity-expert-rick-forno-comments-on-dept-of-justice-order-for-apple-to-unlock-cell-phone/">UMBC's Rick Forno on the BBC</a></p>
-
-</li>
-<!-- END Slide Four -->        
-          
-
-<!-- Slide Five -->              
-<li id="slide5">
 
 <a href="http://www.umbc.edu/cyber/faculty#Williams"><img src="images/tinawilliams.png" alt="faculty"/></a> 
 
@@ -247,7 +229,7 @@ BEGIN MAIN
 <p id="captionone"><a href="http://www.umbc.edu/cyber/faculty#Williams">Meet Our Faculty: Tina Williams</a></p>
             
 </li>
-<!-- END Slide Five -->
+<!-- END Slide Four -->
   
         </ul>
         <div id="dotcontainer"></div>

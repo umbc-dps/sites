@@ -149,22 +149,38 @@ $lang = 'en';
 
 <li id="slide3">
 
-<a href="https://nccoe.nist.gov/projects/use_cases/financial_services_sector/it_asset_management
-" target="_blank"><img src="images/5.jpg" alt="Enroll Now"/></a> 
+<a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank"><img src="images/cyber-art.jpg" alt="Read more"/></a> 
 
 <div class="carousel-caption wordwrap">
-<h3>Cybersecurity for the Financial Sector</h3>
-<small>Assistant Graduate Program Director, Ben Shariati, is an expert contributor to the NIST’s National Cybersecurity Center of Excellence's Best Practices in Cybersecurity for the Financial Sector publication.</small>
+<h3>America is ‘dropping cyberbombs’ – but how do they work?</h3>
+<small>UMBC's Richard Forno and Anupam Joshi discuss what cyberbombs are and how the U.S. uses them.</small>
 
-<p><a href="https://nccoe.nist.gov/projects/use_cases/financial_services_sector/it_asset_management
+<p><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476
 " role="button" class="web-seemore" target="_blank">Read More</a></p></div>
 
-<p id="captionthree"><a href="https://nccoe.nist.gov/projects/use_cases/financial_services_sector/it_asset_management
-" target="_blank">Ben Shariati Contributes to NCCOE Publication</a></p>
+<p id="captionthree"><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476
+" target="_blank">America is ‘dropping cyberbombs’ – but how do they work?</a></p>
 
 </li>
 <!-- END SLIDE FOUR --> 
 
+<!-- SLIDE FIVE --> 
+
+<li id="slide5">
+
+<a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
+
+<div class="carousel-caption wordwrap">
+<h3>UMBC Class of 2016 Profile: Arti Deore Choudhary</h3>
+<small>CYBR MPS student Arti Deore Choudhary is heading to Amazon — she thanks cybersecurity faculty for honing her leadership skills.</small>
+
+<p><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" class="web-seemore">Read More</a></p></div>
+
+<p id="captionthree"><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/">UMBC Class of 2016 Profile: Arti Deore Choudhary</a></p>
+ 
+</li>
+
+<!-- END SLIDE FIVE --> 
 
       
     </ul>
@@ -306,6 +322,20 @@ $('#slide4').on('click', function() {
   var slideLink = slideID.getElementsByTagName('a')[0];
   var slideURL = slideLink.href;
   ga('send', 'event', 'slider', 'slide4', slideURL);
+});
+
+$('#slide5').on('click', function() {
+  var slideID = document.getElementById('slide5');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide5', slideURL);
+});
+
+$('#slide6').on('click', function() {
+  var slideID = document.getElementById('slide6');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide6', slideURL);
 });
 
 $(".cbp-fwnext").on('hover', function() {

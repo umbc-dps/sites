@@ -87,7 +87,7 @@ $lang = 'en';
         <p>Thank you for your interest in the UMBC Instructional Systems Development programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
 
 
-	<form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'contact_us');">
+	<form action="process.php" method="post" id="dpsform">
 
 		<div id="form">
          
