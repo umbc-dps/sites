@@ -9,6 +9,12 @@
   .style11 {color: #660000;
   font-weight: bold;
 }
+.pat-team{padding-right: 15px; padding-bottom: 15px;}
+.pat-list{font-weight:bold;}
+#bios p{padding:0px;}
+#bios h1{padding-bottom:4px;}
+#bios hr{margin-bottom:20px;}
+#bios a:hover{text-decoration:none}
   </style>
 <head>
     <meta charset="UTF-8" />
@@ -80,40 +86,21 @@
 
 <p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
 <div class="breadcrumb">
-<p class="breadcrumb" style="margin-bottom: 0"><a href="../index.php">UMBC at The Universities at Shady Grove</a> / Undergraduate / Psychology / Peer Advisory Team</p><div id="leftnav">
+<p class="breadcrumb" style="margin-bottom: 0"><a href="../index.php">UMBC at The Universities at Shady Grove</a> / Peer Advisory Team</p><div id="leftnav">
 
- <?php include("../include/leftnav_psych.shtml"); ?> 
+
+ <?php include("../include/leftnav_student.shtml"); ?> 
             
 </div> 
 <!-- end Left_container -->
 
 <div id="sub_content">
-<?php include("../include/pat.shtml"); ?>
+<?php include("../include/pat-list.php"); ?>
 <hr><br>
 <div id="bios">
-<a id="abongnelah"></a><?php include("../include/abongnelah_bio.shtml"); ?><hr><br>
-<a id="adinkrah"></a><?php include("../include/adinkrah_bio.shtml"); ?><hr><br>
-
-<a id="asongwed"></a><?php include("../include/asongwed_bio.shtml"); ?><hr><br>
-<a id="bronstein"></a><?php include("../include/bronstein_bio.shtml"); ?><hr><br>
-<a id="cruz"></a><?php include("../include/cruz_bio.shtml"); ?><hr><br>
-<a id="cuanias"></a><?php include("../include/cuanias_bio.shtml"); ?><hr><br>
-
-
-<a id="giacolone"></a><?php include("../include/giacolone_bio.shtml"); ?><hr><br>
-<a id="kamei"></a><?php include("../include/kamei_bio.shtml"); ?><hr><br>
-<a id="manugh"></a><?php include("../include/manugh_bio.shtml"); ?><hr><br>
-<a id="nashwinter"></a><?php include("../include/nashwinter_bio.shtml"); ?><hr><br>
-
-<a id="sorto"></a><?php include("../include/sorto_bio.shtml"); ?><hr><br>
-<a id="tshimuna"></a><?php include("../include/tshimuna_bio.shtml"); ?><hr><br>
-<a id="turek"></a><?php include("../include/turek_bio.shtml"); ?><hr><br>
+<?php include("../include/pat-bios.php"); ?>
 </div>
 </div>
-
-    
-
-
  
  <div id="footer">
 <div class="footercontent">

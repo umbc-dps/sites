@@ -66,95 +66,95 @@
         <ul>
         
  
- 
-<!-- Slide One  -->
 
-<li id="slide1">
 
-<a href="http://sbs.umbc.edu/summer-2016-payment-plan/"><img src="images/payment.jpg" alt="img03" target="_blank"></a>
 
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Summer 2016 Payment Plan</h3>
-<small>Pay your Summer tuition in three easy payments! Enrollment begins March 25, 2016.</small>
-            
-<p><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<!-- Slide Two -->
 
-</div>
+<li id="slide2">
 
-<p id="captiontwo"><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" target="_blank">Summer 2016 Payment Plan</a></p>
-          
-</li>
-
-          
-<!-- END Slide One -->
- 
- 
-<!-- Slide Two (Featured Course) -->
- 
- <li id="slide2">
-
-<a href="http://gritgoing.umbc.edu/?p=756" target="_blank"><img src="images/featured/art325.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=843"><img src="images/featured/SOCY321.jpg" alt="Featured Course: Race and Ethnic Relations" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
-
-<h3>Featured Course: History of Film
-(ART 325)</h3>
-<small>This summer, earn GEP as you explore the fascinating world of cinema.</small>
+    
+<h3>Featured Course: Race and Ethnic Relations 
+(SOCY 321)</h3>
+<small>This summer, earn GEP credits while examining race and ethnic inequalities from a sociological perspective.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=756" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=843" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=756" target="_blank">Featured Course: History of Film</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=843" target="_blank">Featured Course: Race and Ethnic Relations</a></p>
           
 </li>
           
-          
-<!-- END Slide Two -->
+<!-- END Slide Two --> 
 
 <!-- Slide Three -->
 
 <li id="slide3">
 
-<a href="http://gritgoing.umbc.edu/?p=655"><img src="images/featured/amst352.png" alt="Featured Course: American Culture in Global Perspective" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=660"><img src="images/featured/ANTH211.jpg" alt="Featured Course: Cultural Anthropology" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: American Culture in Global Perspective (AMST 352)</h3>
-<small>See America from a global perspective (and earn GEP) this summer!</small>
+<h3>Featured Course: Cultural Anthropology 
+(ANTH 211)</h3>
+<small>Spend the summer learning about what culture is and why different aspects of it exist!</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=655" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=660" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=655" target="_blank">Featured Course: American Culture in Global Perspective</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=660" target="_blank">Featured Course: Cultural Anthropology</a></p>
           
 </li>
           
 <!-- END Slide Three --> 
 
-<!-- Slide Four -->
+<!-- Slide Four (Featured Course) -->
 
-<li id="slide3">
+<li id="slide4">
 
-<a href="http://gritgoing.umbc.edu/?p=652"><img src="images/featured/afst100.png" alt="Featured Course: Introduction to The Black Experience" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=882"><img src="images/featured/JDST320.jpg" alt="Featured Course: Holocaust Literature" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: Introduction to The Black Experience (AFST 100)</h3>
-<small>Earn GEP credits and gain insight into the black experience in the African diaspora.</small>
+<h3>Featured Course: Holocaust Literature 
+(JDST 320)</h3>
+<small>This summer, through mediums such as poetry, drama, and novels, grasp and understand the realities of the Holocaust.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=652" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=882" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=652" target="_blank">Featured Course: Introduction to The Black Experience</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=882" target="_blank">Featured Course: Holocaust Literature</a></p>
           
 </li>
-          
+
 <!-- END Slide Four --> 
 
+<!-- Slide Five (Featured Course) -->
+
+<li id="slide5">
+
+<a href="http://gritgoing.umbc.edu/?p=825"><img src="images/featured/GibMason.png" alt="Featured Faculty: Gib Mason" target="_blank"></a>
+
+<div class="carousel-caption-right wordwrap">
+    
+<h3>Featured Faculty: Gib Mason</h3>
+<small>Gib’s teaching style is unique. It’s powerful, captivating, and engaging. He'll be teaching ENTR 340 this summer.</small>
+            
+<p><a href="http://gritgoing.umbc.edu/?p=825" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=825" target="_blank">Featured Faculty: Gib Mason</a></p>
+          
+</li>
+
+<!-- END Slide Five --> 
 
 </ul>
 

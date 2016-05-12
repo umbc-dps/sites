@@ -89,28 +89,29 @@
           
 <!-- END Slide One -->
  
- 
-<!-- Slide Two (Featured Course) -->
- 
- <li id="slide2">
 
-<a href="http://gritgoing.umbc.edu/?p=655"><img src="images/featured/amst352.png" alt="Featured Course: American Culture in Global Perspective" target="_blank"></a>
+<!-- Slide Two (Featured Course) -->
+
+<li id="slide2">
+
+<a href="http://gritgoing.umbc.edu/?p=889"><img src="images/featured/MLL315.jpg" alt="Featured Course: Korean Films" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: American Culture in Global Perspective (AMST 352)</h3>
-<small>See America from a global perspective (and earn GEP) this summer!</small>
+<h3>Featured Course: Korean Films 
+(MLL 315)</h3>
+<small>This summer, earn GEP credits while learning about Korean culture and society through film!</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=655" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=889" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=655" target="_blank">Featured Course: American Culture in Global Perspective</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=889" target="_blank">Featured Course: Korean Films</a></p>
           
 </li>
+
           
-          
-<!-- END Slide Two -->
+<!-- END Slide Two --> 
 
 
 <!-- Slide Three -->
@@ -136,6 +137,26 @@
           
 <!-- END Slide Three -->   
 
+<!-- END Slide Four -->   
+
+<li id="slide4">
+
+<a href="http://gritgoing.umbc.edu/?p=825"><img src="images/featured/GibMason.png" alt="Featured Faculty: Gib Mason" target="_blank"></a>
+
+<div class="carousel-caption-right wordwrap">
+    
+<h3>Featured Faculty: Gib Mason</h3>
+<small>Gib’s teaching style is unique. It’s powerful, captivating, and engaging. He'll be teaching ENTR 340 this summer.</small>
+            
+<p><a href="http://gritgoing.umbc.edu/?p=825" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=825" target="_blank">Featured Faculty: Gib Mason</a></p>
+          
+</li>
+
+<!-- END Slide Four -->   
 
 </ul>
 
