@@ -117,7 +117,7 @@ function sanitizeString($var)
 					
 					
             } else { 
-              echo '<script>alert("Please complete the CAPTCHA."); window.location.replace("contact2.php");</script>';
+              echo '<script>alert("Please complete the CAPTCHA."); window.location.replace("contact.php");</script>';
             } // if ($resp->isSuccess()){
 			 
 			}  // post

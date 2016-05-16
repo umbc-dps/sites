@@ -73,7 +73,7 @@ $lang = 'en';
 <h3>Fall 2016 Schedule of Classes </h3>
 <p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
   <strong>Advanced Registration Begins:</strong> April 4, 2016 (for students currently enrolled in spring 2016) <br>
-  <strong>Registration for Newly Admitted Students:</strong>  June 6, 2016<br>
+  <strong>Registration for Newly Admitted Students:</strong>  June 1, 2016<br>
   <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016<br>
   <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 <p>There may be more courses announced in the near future.  This list is not final.</p>

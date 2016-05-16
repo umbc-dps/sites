@@ -85,7 +85,7 @@ $lang = 'en';
   <p>In-person courses will be located at the <a href="directions">South Campus location</a>.</p>
 <h3>Schedule of Classes Fall 2016</h3>
   <p><strong>Current Student Registration Begins:</strong>&nbsp;April 4, 2016<br>
-  	<strong>New Master/Certificate Student Registration Begins:</strong>&nbsp;June 6, 2016<br>
+  	<strong>New Master/Certificate Student Registration Begins:</strong>&nbsp;June 1, 2016<br>
     <strong>Non-Degree Student Registration  Begins:</strong>&nbsp;August 24, 2016<br>
     <strong>Semester Begins:&nbsp;</strong>August 31, 2016<br>
     <strong>Last Day of Schedule Adjustment  Period:</strong>&nbsp;September 14, 2016<br>

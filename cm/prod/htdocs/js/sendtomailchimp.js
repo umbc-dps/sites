@@ -6,6 +6,7 @@
 		var startdate = $("#entry_180196229").val();
 		var track = $("#entry_567277966").val();
 		var questions = $("#entry_1460748176").val();
+		var college = $("#entry_380502110").val();
 
 		$.ajax({
 			url: "http://umbc.us8.list-manage2.com/subscribe/post",
@@ -17,7 +18,8 @@
 				"MERGE0": email, 
 				"MERGE3": instrument,
 				"MERGE4": startdate,
-				"MERGE5": track
+				"MERGE5": track,
+				"MERGE6": college
 				},
 			type: "POST",
 			dataType: "xml",

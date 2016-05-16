@@ -76,7 +76,7 @@
 <div class="carousel-caption-right wordwrap">
     
 <h3>Summer 2016 Payment Plan</h3>
-<small>Pay your Summer tuition in three easy payments! Enrollment begins March 25, 2016.</small>
+<small>Pay your Summer tuition in three easy payments! Enrollment ends May 19, 2016.</small>
             
 <p><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 

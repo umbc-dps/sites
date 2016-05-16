@@ -263,7 +263,7 @@ $lang = 'en';
     </ol>
     <p><strong>Registration  Schedule:</strong> <br>
       <strong>April 4, 2016: </strong>Registration begins for current  Graduate Students (The ISD program will not begin to enter authorizations until  April 11, 2016)<br>
-      <strong>June 6, 2016: </strong>New Graduate Student Registration Begins <br>
+      <strong>June 1, 2016: </strong>New Graduate Student Registration Begins <br>
       <strong>August 24, 2016:</strong> Non-Degree Student Registration Begins </p>
     <p><strong>Wait List:</strong> ISD courses automatically have the  Student Administration (SA) System hold any wait lists. The ISD department  cannot prioritize the wait list, nor can we override the wait list. Read the  &ldquo;Student Frequently Asked Questions&rdquo; about waitlists prior to placing yourself  on one, <a href="https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists">https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists</a>. </p>
     <p><strong>Authorization  Information and Notes:</strong> <br>
