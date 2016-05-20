@@ -54,9 +54,9 @@
 
 <h4>Dates</h4>
 <ul>
-<li class="io"><strong>I/O Psych Information Session</strong> | Tuesday, January 19, 2016 6:00PM - 7:30PM</li>
-<li class="gis"><strong>GIS  Information Session</strong> | Tuesday, June 14, 2016 6:00PM - 7:30PM</li>
-<li class="cyber"><strong>Cybersecurity Information Session </strong>| Tuesday, June 14, 2016 6:00PM - 7:30PM </li>
+<li class="io"><strong>I/O Psych Information Session</strong> | Tuesday, January 19, 2016 6:00PM - 7:15PM</li>
+<li class="gis"><strong>GIS  Information Session</strong> | Tuesday, June 14, 2016 6:00PM - 7:15PM</li>
+<li class="cyber"><strong>Cybersecurity Information Session </strong>| Tuesday, June 14, 2016 6:00PM - 7:15PM </li>
 </ul>
 
 <h4>Location</h4>
@@ -134,8 +134,8 @@ The Universities at Shady Grove<br>
 <select name="entry.6" id="entry_6" aria-label="Choose a Session  " aria-required="true" required>
 <option value=""></option>
 <option class="io" value="I/O Psychology Information Session - January 19, 2016, 6 - 7:30PM">I/O Psychology Information Session - January 19, 2016, 6 - 7:30PM</option> 
-<option  class="cyber" value="Cybersecurity Information Session - June 14, 2016 6:00PM - 7:30PM">Cybersecurity Information Session - June 14, 2016 6:00PM - 7:30PM</option> 
-<option  class="gis" value="GIS Information Session - June 14, 2016 6:00PM - 7:30PM">GIS Information Session - June 14, 2016 6:00PM - 7:30PM</option></select>
+<option  class="cyber" value="Cybersecurity Information Session - June 14, 2016 6:00PM - 7:15PM">Cybersecurity Information Session - June 14, 2016 6:00PM - 7:15PM</option> 
+<option  class="gis" value="GIS Information Session - June 14, 2016 6:00PM - 7:15PM">GIS Information Session - June 14, 2016 6:00PM - 7:15PM</option></select>
 </div></div></div>
 
 <input type="hidden" name="draftResponse" value="[,,&quot;1125396641394831692&quot;]

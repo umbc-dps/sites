@@ -175,11 +175,16 @@
 	<dl class="eleven columns alpha">
 
 <br>    
-<h2>Register Now</h2>
-<p>UMBC students currently enrolled in spring 2016 are eligible to register for summer session beginning on March 21. Visiting students from other institutions must first <a href="http://www.umbc.edu/summer/visitingstudents">apply</a> for summer term admission (and be accepted) before registering for summer courses.</p>
+<h3><strong>Summer Session I Starts Soon!</strong></h3>
+<p>Summer Session I begins on <a href="importantdates" target="_blank">Tuesday, May 31</a>.  <br><br>
+  <strong>Current UMBC students</strong>: <a href="registrationtips" target="_blank">register today</a> and stay on track to graduate on time!</p>
+  
+  <p>
+  <strong>Visiting students:</strong> <a href="applyundergraduate" target="_blank">apply</a> for Session I admission by <strong>May 25</strong>.<br>
+  <em>The last day visiting students can apply for Summer Session I admission is <strong>Wednesday, May 25</strong>.  The visiting student summer application is closed May 26 through June 1. <a href="visitingstudents" target="_blank">Visiting students</a> can apply for Session II admission June 2 through July 6.</em></p>
 
-<br>
-	<h3><strong>May 31 – August 19</strong></h3>
+
+	<h4><strong>May 31 – August 19</strong></h4>
       <dl class="four columns alpha">
         <dt>Summer Session I</dt>
         <dd> 4 week: May 31 — June 24 </dd>

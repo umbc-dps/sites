@@ -214,7 +214,8 @@ aside p, aside dl {
 <script src="includes/jquery.cbpFWSlider.js"></script> 
 <script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script> 
-<script>$( "#event-form" ).load( "../rsvp/includes/sidebar.php" );</script>
+<script src="includes/popup.js"></script> 
+
 
 <script>
 var vars = [], hash;

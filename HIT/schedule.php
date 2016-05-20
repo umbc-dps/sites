@@ -76,19 +76,22 @@ $lang = 'en';
   
 <!-- START Content -->
 
-<h3>Spring 2016 Schedule of Classes</h3>
+<h3>Summer 2016 Schedule of Classes</h3>
 
-<p><strong>Semester Dates:  </strong>January 25, 2016 - May 10, 2016<br>
-  <strong>Advanced Registration Begins</strong>: November 2, 2015 (for students currently enrolled in Fall 2015)<br>
-  <strong>Registration For Newly Admitted Students:</strong>  Decemeber 1, 2015<br>
-  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2016<br>
-  <strong>Spring Break:</strong>  March 13, 2016 - March 20, 2016  <br>
+<p align="left"><strong>Registration Begins:</strong> March 21st<br>
+  <br>
+  <strong>Summer Session I</strong><br>
+  6 weeks – May 31st – July 8th<br>
+  12 weeks – May 31st – August 19th<br>
+  <strong>Last Day to Add/Drop a Class:</strong> June 3rd <br>
+  <br>
+  <strong>Summer Session II</strong><br>
+  6 weeks – July 11th – August 19th<br>
+  <br>
   <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
-<p>There may be more courses announced in the near future.  This list is not final.</p>
-
 <table id="schedule">
- <tr>
+  <tr>
    <td width="15%">COURSE/CLASS<br>NUMBER</td>
    <td width="20%">COURSE TITLE </td>
    <td width="15%">DAY</td>
@@ -97,70 +100,93 @@ $lang = 'en';
    <td width="15%">ROOM</td>
  </tr>
  <tr>
-   <td><br>
-     HIT 640 (7873)</td>
-   <td>Health IT Text    Processing</td>
-   <td>N/A</td>
-   <td>N/A</td>
-   <td>Online</td>
-   <td>WEB</td>
- </tr>
- <tr>
-   <td><br>
-     HIT 658 (7276)</td>
-   <td>Health    Informatics I</td>
+   <td valign="bottom">HIT 760 (2769)</td>
+   <td>Health Informatics Capstone</td>
    <td>Wednesday</td>
-   <td>6:00    - 8:45 PM</td>
+   <td>4:30 PM - 7:40 PM</td>
    <td>In Person</td>
-   <td>PSYS    107</td>
- </tr>
- <tr>
-   <td><br>
-     HIT 664 (7872)</td>
-   <td>Health    IT Law and Ethics</td>
-   <td>Tuesday</td>
-   <td>6:00    - 8:45 PM</td>
-   <td>In Person</td>
-   <td>ITE    241</td>
- </tr>
- <tr>
-   <td><br>
-     HIT 674 (7279)</td>
-   <td>Process    &amp; Quality Improvement<br>
-     with Health IT </td>
-   <td>Monday</td>
-   <td>7:10    - 9:40 PM</td>
-   <td>In Person</td>
-   <td>ITE    227</td>
- </tr>
- <tr>
-   <td>HIT 723 (8066)</td>
-   <td>Public    Health Informatics</td>
-   <td>Thursday</td>
-   <td>6:00    - 8:45 PM</td>
-   <td>In Person</td>
-   <td>ITE    231</td>
- </tr>
- <tr>
-   <td>HIT 724 (8069)</td>
-   <td>Educational    Technologies in Healthcare</td>
-   <td>Monday</td>
-   <td>6:00    - 8:45 PM</td>
-   <td>In Person</td>
-   <td>Sondheim    103</td>
- </tr>
- <tr>
-   <td>HIT 759 (8070)</td>
-   <td>Health    Informatics II</td>
-   <td>Wednesday</td>
-   <td>6:00    - 8:45 PM</td>
-   <td>Hybrid</td>
-   <td>Sondheim    114</td>
+   <td>SHERMAN 464</td>
  </tr>
  </table>
 
-<p>*Course held at UMBC BWI Tech South (<strong><a href="directions.php">Directions</a></strong>)</p>
+<hr>
+<h3>Fall 2016 Schedule of Classes</h3>
+<p align="left"><strong>Semester Dates:</strong>&nbsp;August 31,  2016&nbsp;– December 13, 2016<strong><br>
+Advanced Registration Begins:</strong> April 4, 2016&nbsp;(for students currently  enrolled in spring 2016)&nbsp;<strong><br>
+Registration For Newly Admitted Students:</strong>&nbsp;June 6, 2016<br>
+<strong>Last Day to Add/Drop a Class:</strong> September 14, 2016<br>
+  <br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+<br>
 
+<table id="schedule">
+  <tr>
+    <td width="15%">COURSE/CLASS<br>NUMBER</td>
+    <td width="20%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="15%">FORMAT</td>
+    <td width="15%">ROOM</td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>HIT 640 (7221)</p></td>
+    <td valign="bottom"><p>Health IT Text Processing</p></td>
+    <td valign="bottom"><p>N/A</p></td>
+    <td valign="bottom"><p>N/A</p></td>
+    <td valign="bottom"><p>Online</p></td>
+    <td valign="bottom"><p>N/A</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>HIT 658 (6651)</p></td>
+    <td valign="bottom"><p>Health Informatics I</p></td>
+    <td valign="bottom"><p>Wednesday</p></td>
+    <td valign="bottom"><p>6:00 - 8:45 PM</p></td>
+    <td valign="bottom"><p>In Person</p></td>
+    <td valign="bottom"><p>MEYER 012</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>HIT 663 (8038)</p></td>
+    <td valign="bottom"><p>Health IT Policy &amp; Administration</p></td>
+    <td valign="bottom"><p>Tuesday</p></td>
+    <td valign="bottom"><p>7:10 - 9:40 PM</p></td>
+    <td valign="bottom"><p>In Person</p></td>
+    <td valign="bottom"><p>ITE 227</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>HIT 723 (7222)</p></td>
+    <td valign="bottom"><p>Public Health Informatics</p></td>
+    <td><p>Thursday</p></td>
+    <td valign="bottom"><p>4:30 - 7:00 PM</p></td>
+    <td valign="bottom"><p>In Person</p></td>
+    <td valign="bottom"><p>ITE 237</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>HIT 724 (8037)</p></td>
+    <td valign="bottom"><p>Educational Technologies in Healthcare</p></td>
+    <td><p>Monday</p></td>
+    <td valign="bottom"><p>6:00 - 8:45 PM</p></td>
+    <td valign="bottom"><p>In Person</p></td>
+    <td valign="bottom"><p>MEYER 256</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>HIT 750 (7223)</p></td>
+    <td valign="bottom"><p>Data Analytics</p></td>
+    <td><p>Monday</p></td>
+    <td valign="bottom"><p>4:30 - 7:00 PM</p></td>
+    <td valign="bottom"><p>In Person</p></td>
+    <td valign="bottom"><p>ITE 459</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>HIT 759 (7224)</p></td>
+    <td valign="bottom"><p>Health Informatics II</p></td>
+    <td><p>Thursday</p></td>
+    <td valign="bottom"><p>4:30 - 7:00 PM</p></td>
+    <td valign="bottom"><p>In Person</p></td>
+    <td valign="bottom"><p>SHER 015</p></td>
+  </tr>
+ </table>
+
+<p>&nbsp;</p>
 <div id="contents" style="display:none"></div>
 <!-- END Content -->
 

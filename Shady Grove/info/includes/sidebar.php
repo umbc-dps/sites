@@ -5,7 +5,7 @@
       <p style="text-align:center">
 <strong>New Student Orientation</strong><br />
 
-<small>Wednesday, August 19, 6:00pm - 7:30pm</small>
+<small>Wednesday, August 19, 6:00PM - 7:15PM</small>
 <br />
         <a class="btn" href="http://www.umbc.edu/dps/orientation" target="_blank">RSVP</a>
       </p>
