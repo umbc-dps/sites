@@ -67,51 +67,51 @@
         
  
  
-<!-- Slide One  -->
+<!-- Slide One -->
 
 <li id="slide1">
 
-<a href="http://sbs.umbc.edu/summer-2016-payment-plan/"><img src="images/payment.jpg" alt="img03" target="_blank"></a>
-
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Summer 2016 Payment Plan</h3>
-<small>Pay your Summer tuition in three easy payments! Enrollment ends May 19, 2016.</small>
-            
-<p><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="http://sbs.umbc.edu/summer-2016-payment-plan/" target="_blank">Summer 2016 Payment Plan</a></p>
-          
-</li>
-
-          
-<!-- END Slide One -->
- 
-
-<!-- Slide Two (Featured Course) -->
-
-<li id="slide2">
-
-<a href="http://gritgoing.umbc.edu/?p=889"><img src="images/featured/MLL315.jpg" alt="Featured Course: Korean Films" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=843"><img src="images/featured/SOCY321.jpg" alt="Featured Course: Race and Ethnic Relations" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: Korean Films 
-(MLL 315)</h3>
-<small>This summer, earn GEP credits while learning about Korean culture and society through film!</small>
+<h3>Featured Course: Race and Ethnic Relations 
+(SOCY 321)</h3>
+<small>This summer, earn GEP credits while examining race and ethnic inequalities from a sociological perspective.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=889" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=843" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=889" target="_blank">Featured Course: Korean Films</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=843" target="_blank">Featured Course: Race and Ethnic Relations</a></p>
           
 </li>
-
           
-<!-- END Slide Two --> 
+<!-- END Slide One --> 
+ 
+
+<!-- Slide Two (Featured Course) -->
+ 
+ <li id="slide2">
+
+<a href="http://gritgoing.umbc.edu/?p=753" target="_blank"><img src="images/featured/GWST210.jpg"></a>
+
+<div class="carousel-caption wordwrap">
+
+<h3>Featured Course: Critical Sexuality Studies
+(GWST 210)</h3>
+<small>Discuss our nation's important conversations and earn a GEP credit this summer.</small>
+            
+<p><a href="http://gritgoing.umbc.edu/?p=753" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=753" target="_blank">Featured Course: Critical Sexuality Studies</a></p>
+          
+</li>
+          
+          
+<!-- END Slide Two -->
 
 
 <!-- Slide Three -->
@@ -141,21 +141,21 @@
 
 <li id="slide4">
 
-<a href="http://gritgoing.umbc.edu/?p=825"><img src="images/featured/GibMason.png" alt="Featured Faculty: Gib Mason" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=647" target="_blank"><img src="images/featured/ENGL271.jpg"></a>
 
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Featured Faculty: Gib Mason</h3>
-<small>Gib’s teaching style is unique. It’s powerful, captivating, and engaging. He'll be teaching ENTR 340 this summer.</small>
+<div class="carousel-caption wordwrap">
+
+<h3>Featured Course: Scriptwriting 
+(ENGL 272)</h3>
+<small>Craft your own screenplay.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=825" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=647" role="button" class="web-seemore" target="_blank">Learn More</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=825" target="_blank">Featured Faculty: Gib Mason</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=647" target="_blank">Featured Course: Scriptwriting</a></p>
           
 </li>
-
 <!-- END Slide Four -->   
 
 </ul>
@@ -176,11 +176,12 @@
 
 <br>    
 <h3><strong>Summer Session I Starts Soon!</strong></h3>
-<p>Summer Session I begins on <a href="importantdates" target="_blank">Tuesday, May 31</a>.  <br><br>
-  <strong>Current UMBC students</strong>: <a href="registrationtips" target="_blank">register today</a> and stay on track to graduate on time!</p>
+<p>Summer Session I begins on <a href="importantdates" target="_blank">Tuesday, May 31</a>.<br><br>
+
+<strong>Current UMBC students</strong>: <a href="registrationtips" target="_blank">register today</a> and stay on track to graduate on time!</p>
   
-  <p>
-  <strong>Visiting students:</strong> <a href="applyundergraduate" target="_blank">apply</a> for Session I admission by <strong>May 25</strong>.<br>
+  <p><strong>Visiting students:</strong> <a href="applyundergraduate" target="_blank">apply</a> for Session I admission by <strong>May 25</strong>.<br>
+  
   <em>The last day visiting students can apply for Summer Session I admission is <strong>Wednesday, May 25</strong>.  The visiting student summer application is closed May 26 through June 1. <a href="visitingstudents" target="_blank">Visiting students</a> can apply for Session II admission June 2 through July 6.</em></p>
 
 
