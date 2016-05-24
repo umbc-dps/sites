@@ -94,19 +94,19 @@
  
  <li id="slide2">
 
-<a href="http://gritgoing.umbc.edu/?p=753" target="_blank"><img src="images/featured/GWST210.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=660"><img src="images/featured/ANTH211.jpg" alt="Featured Course: Cultural Anthropology" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
-
-<h3>Featured Course: Critical Sexuality Studies
-(GWST 210)</h3>
-<small>Discuss our nation's important conversations and earn a GEP credit this summer.</small>
+    
+<h3>Featured Course: Cultural Anthropology 
+(ANTH 211)</h3>
+<small>Spend the summer learning about what culture is and why different aspects of it exist!</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=753" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=660" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=753" target="_blank">Featured Course: Critical Sexuality Studies</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=660" target="_blank">Featured Course: Cultural Anthropology</a></p>
           
 </li>
           
@@ -141,21 +141,22 @@
 
 <li id="slide4">
 
-<a href="http://gritgoing.umbc.edu/?p=647" target="_blank"><img src="images/featured/ENGL271.jpg"></a>
+<a href="http://gritgoing.umbc.edu/?p=882"><img src="images/featured/JDST320.jpg" alt="Featured Course: Holocaust Literature" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
-
-<h3>Featured Course: Scriptwriting 
-(ENGL 272)</h3>
-<small>Craft your own screenplay.</small>
+    
+<h3>Featured Course: Holocaust Literature 
+(JDST 320)</h3>
+<small>This summer, through mediums such as poetry, drama, and novels, grasp and understand the realities of the Holocaust.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=647" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=882" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=647" target="_blank">Featured Course: Scriptwriting</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=882" target="_blank">Featured Course: Holocaust Literature</a></p>
           
 </li>
+
 <!-- END Slide Four -->   
 
 </ul>

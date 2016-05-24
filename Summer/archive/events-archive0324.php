@@ -2,22 +2,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>GEC | Summer Programs at UMBC</title>
+<title>Summer Programs at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="UMBC undergraduate students are required to complete a series of general education courses.  Check out what the requirements are here." />
-
-<!-- Twitter Card data -->
-<meta name="twitter:card" value="summary">
-<meta name="twitter:site" content="@UMBCSummer">
-
-<!-- Open Graph data -->
-<meta property="og:title" content="GEC | Summer Programs at UMBC" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/gec/" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
-<meta property="og:description" content="UMBC undergraduate students are required to complete a series of general education courses.  Check out what the requirements are here." />
-
-
 <link href="includes/styles.css" rel="stylesheet">
 <script src="includes/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -40,35 +26,36 @@
 <!-- BEGIN MAIN -->
 <div class="container column" id="main">
   <div  id="summer-heading">
-    <a href="index.php"><h1 class="remove-bottom">Summer Session 2015</h1></a>
+    <a href="index"><h1 class="remove-bottom">Summer Session 2016</h1></a>
   </div>
   <div class="sixteen columns">
     <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
-        <h2>General Education Program (GEP) Courses</h2>
+        <h2>Events</h2>
     <!-- END Page Title -->       
       <div class="content">
       
      <!-- Start Content --> 
-    
-<ul><li>UMBC undergraduate students are required to complete a series of
-general education courses as part of the foundation of a liberal arts
-education.</li>
-  <li>General Education Programs (GEP) applies to students who began their
-  higher education (after high school graduation) in the fall 2007 semester or
-  later.</li>
+<p>There's more to summer than what happens in the classroom. Have fun, and be part of a dynamic learning community while you discover what it takes to be a successful  professional. <br>
+<em>Check back soon for details on Summer Session 2015 events. </em></p>
+<h3><img src="images/summer-stem-logo-1.PNG" style="height:20px"> Summer STEM Events </h3>
+<p><em>Summer STEM at UMBC hosts regular events, including workshops, seminars, and social events. </em></p>
 
-  <li>Consult the UMBC Undergraduate Catalog for full descriptions of
-    <a href="http://catalog.umbc.edu/content.php?catoid=6&navoid=233#General_Education_Program__GEP_" target="_blank">GEP requirements</a>. </li>
+<p><strong>August 5</strong> - The eighteenth annual <a href="http://surf.umbc.edu" target="_blank">UMBC Summer Undergraduate Research Festival</a> showcases undergraduate student research in many STEM disciplines and promotes future student research.</p>
+<p>&nbsp;</p>
 
-  <li>Students who began their higher education between the summer 1996 and
-  spring 2007 semesters should complete the General Foundation Requirements
-  (GFR).
-  </li> <li> View summer 2015 <a href="gepcourses" target="_blank">courses offering GEP credit</a>. </li>
-</ul>
-<!-- END Content -->
-            
-        <div id="dotcontainer"></div>
+<h3>Student Events Board Events</h3>
+UMBC's <a href="http://seb.umbc.edu/">Student Events Board (seb)</a> hosts regular events on-campus during summer session, as well as various bus trips.
+</h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+  
+  
+  <!-- END Content -->
+  
+
+<div id="dotcontainer"></div>
       </div>
       <!-- /cbp-fwslider --></div>
     <!-- /eleven columns -->
@@ -90,6 +77,25 @@ education.</li>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
  
 <script src="includes/scripts.js"></script> 
+
+<script src="../includes/scripts.js"></script> <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script>
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+$('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+</script>
  
 </body>
 

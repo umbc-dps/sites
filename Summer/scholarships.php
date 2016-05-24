@@ -186,7 +186,7 @@ out-of-state tuition charges.</li>
             </div>
             <div class="accordionbody">
               <ul>
-                <li class="remove"><a href="scholarshipapplication.php">Apply now</a>.</li>
+                <li class="remove">The application deadline has passed.</li>
               </ul>
             </div>
             <div class="accordionbody">

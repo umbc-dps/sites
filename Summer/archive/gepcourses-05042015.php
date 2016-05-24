@@ -2,20 +2,20 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>GEP Courses | Summer Programs at UMBC</title>
+<title>Summer Programs at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="GEP Courses are offered this UMBC 2015 Summer Session. Check out what is offered here!" />
+<meta name="description" content="Page description. No longer than 155 characters." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Programs at UMBC" />
+<meta property="og:title" content="Title Here" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/gepcourses" />
+<meta property="og:url" content="http://www.example.com/" />
 <meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
-<meta property="og:description" content="GEP Courses are offered this UMBC 2015 Summer Session. Check out what is offered here!" />
+<meta property="og:description" content="Description Here" />
 
 
 <link href="includes/styles.css" rel="stylesheet">

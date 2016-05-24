@@ -40,7 +40,7 @@
 <!-- BEGIN MAIN -->
 <div class="container column" id="main">
   <div  id="summer-heading">
-    <a href="index.php"><h1 class="remove-bottom">Summer Session 2015</h1></a>
+    <a href="index"><h1 class="remove-bottom">Summer Session 2016</h1></a>
   </div>
   <div class="sixteen columns">
     <div class="eleven columns alpha" style="padding-top:1em;">

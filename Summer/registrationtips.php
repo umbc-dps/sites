@@ -148,6 +148,21 @@
 
 
   <div class="accordionheader">
+    <h4>Multiple component courses<i class="fa fa-angle-down"></i></h4>
+  </div>
+
+<div class="accordionbody">
+
+<ul>
+  <li>Multiple component courses are those courses  that incorporate two or more formats (e.g. lecture and discussion, or lecture and  lab). </li>
+  <li>STEM courses are often offered as multiple  component courses.</li>
+  <li>If you are registering for a multiple component  course, you must enroll in <strong>all  components</strong> of that course. </li>
+  <li>Components for a course are listed under &ldquo;Class  Details&rdquo; in the online schedule of classes.</li>
+</ul>
+</div>
+
+
+  <div class="accordionheader">
     <h4>Credit limits and excess credit approval<i class="fa fa-angle-down"></i></h4>
   </div>
 

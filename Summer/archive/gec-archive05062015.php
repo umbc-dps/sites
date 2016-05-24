@@ -2,20 +2,20 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>RSVP | Summer Programs at UMBC</title>
+<title>GEC | Summer Programs at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="RSVP for UMBC Summer Session Workshops" />
+<meta name="description" content="UMBC undergraduate students are required to complete a series of general education courses.  Check out what the requirements are here." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="RSVP | Summer Programs at UMBC" />
+<meta property="og:title" content="GEC | Summer Programs at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/rsvp-workshop2/" />
+<meta property="og:url" content="http://www.umbc.edu/summer/gec/" />
 <meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
-<meta property="og:description" content="RSVP for UMBC Summer Session Workshops" />
+<meta property="og:description" content="UMBC undergraduate students are required to complete a series of general education courses.  Check out what the requirements are here." />
 
 
 <link href="includes/styles.css" rel="stylesheet">
@@ -45,16 +45,27 @@
   <div class="sixteen columns">
     <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
-        <h2>Event RSVP</h2>
+        <h2>General Education Program (GEP) Courses</h2>
     <!-- END Page Title -->       
       <div class="content">
       
-     <!-- Start Content -->
-     
-<script type="text/javascript" src="https://secure.jotformpro.com/jsform/51406159428961"></script>    
+     <!-- Start Content --> 
+    
+<ul><li>UMBC undergraduate students are required to complete a series of
+general education courses as part of the foundation of a liberal arts
+education.</li>
+  <li>General Education Programs (GEP) applies to students who began their
+  higher education (after high school graduation) in the fall 2007 semester or
+  later.</li>
 
-<p>Return to <a href="events">Summer Session Events</a></p>
+  <li>Consult the UMBC Undergraduate Catalog for full descriptions of
+    <a href="http://catalog.umbc.edu/content.php?catoid=6&navoid=233#General_Education_Program__GEP_" target="_blank">GEP requirements</a>. </li>
 
+  <li>Students who began their higher education between the summer 1996 and
+  spring 2007 semesters should complete the General Foundation Requirements
+  (GFR).
+  </li> <li> View summer 2015 <a href="gepcourses" target="_blank">courses offering GEP credit</a>. </li>
+</ul>
 <!-- END Content -->
             
         <div id="dotcontainer"></div>
@@ -68,7 +79,6 @@
     <!-- END TOP SIDEBAR-->
    
    
-    </div>
   </div>
 </div>
   <footer id="site-footer" class="clearfix">

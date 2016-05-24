@@ -98,7 +98,8 @@
 <p>Outside of class, dedicated Summer Bridge staff coordinate  tutoring and study groups, offer individual advising support, and organize  special summer events for new students. Residential and commuter options are  available.</p>
 <p>The Summer Bridge Program is a great way to build a strong  academic foundation at UMBC while earning 4 to 8 required credits. Students who  successfully complete the program will also receive a scholarship equal to one  credit of fall tuition.</p>
 <p>The program begins July 10, and space is limited.</p>
-<p>Learn more about UMBC's <a href="http://fye.umbc.edu/programs/csi/" target="_blank">Summer Bridge Program</a> or contact Laila Shishineh at lailams@umbc.edu or (410) 455-3737.</p>
+<p>Learn more about UMBC's <a href="http://fye.umbc.edu/programs/csi/" target="_blank">Summer Bridge Program</a> or contact Laila Shishineh at lailams@umbc.edu <br>
+  or (410) 455-3737.</p>
 </div>
 
 <div class="accordionheader">

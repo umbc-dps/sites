@@ -65,9 +65,6 @@
       <div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
         
- 
-
-
 
 <!-- Slide Two -->
 
@@ -135,7 +132,7 @@
 
 <!-- END Slide Four --> 
 
-<!-- Slide Five (Featured Course) -->
+<!-- Slide Five (Featured Faculty) -->
 
 <li id="slide5">
 
