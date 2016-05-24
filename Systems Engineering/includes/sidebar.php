@@ -65,9 +65,9 @@ Graduate Certificate: Systems Engineering
 
 
         <dt>Tuition &amp; Fees (MD Resident)</dt>
-        <dd>$711 per credit</dd>
+        <dd>$733 per credit</dd>
         <dt>Tuition &amp; Fees (Non-MD Resident)</dt>
-        <dd>$1094 per credit</dd>
+        <dd>$1127 per credit</dd>
 
 
         <dt>Start Date</dt>

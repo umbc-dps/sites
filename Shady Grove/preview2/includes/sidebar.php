@@ -47,9 +47,9 @@
 
 
         <dt>Tuition (MD Resident)</dt>
-        <dd>$585 per credit</dd>
+        <dd>$603 per credit</dd>
         <dt>Tuition (Non-MD Resident)</dt>
-        <dd>$968 per credit</dd>
+        <dd>$997 per credit</dd>
 
 
         <dt>Start Date</dt>

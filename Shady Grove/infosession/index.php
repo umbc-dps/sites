@@ -90,7 +90,6 @@
 	</h4>
 
 	<p><br>
-	Friday, May 20 - 12:00 PM<br>
 	Thursday, June 16 - 5:30 PM  <br>
 	Saturday, July 16 - 12:30 PM  <br>
 	Tuesday, August 9 - 12:00 PM <br>
