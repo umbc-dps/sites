@@ -209,7 +209,7 @@ PMP, Project Management Professional
 
 
 <div class="accordionheader">  
-<h4>Terry Tsai, MSPH, PhD | Graduate Faculty <i class="fa fa-angle-down"></i></h4>
+<h4><a href="#tsai" id="tsai"></a>Terry Tsai, MSPH, PhD | Graduate Faculty <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">

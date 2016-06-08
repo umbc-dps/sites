@@ -64,94 +64,155 @@
     <div class="eleven columns alpha" style="padding-top:1em;">
       <div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
-        
+
+<!-- Slide One -->
+
+<li id="slide1">
+
+<a href="http://gritgoing.umbc.edu/?p=922"><img src="images/featured/MLL220.jpg" alt="Featured Course: Film and Society in China" target="_blank"></a>
+
+<div class="carousel-caption wordwrap">
+    
+<h3>Featured Course: Film and Society in China (MLL 220)</h3>
+<small>Earn Culture GEP as you embark on a cinematic survey of China's last 100 years.</small>
+            
+<p><a href="http://gritgoing.umbc.edu/?p=922" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=922" target="_blank">Featured Course: Film and Society in China</a></p>
+          
+</li>
+
+<!-- END Slide One --> 
 
 <!-- Slide Two -->
 
 <li id="slide2">
 
-<a href="http://gritgoing.umbc.edu/?p=843"><img src="images/featured/SOCY321.jpg" alt="Featured Course: Race and Ethnic Relations" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=924"><img src="images/featured/PHIL350.jpg" alt="Featured Course: Ethical Theory" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: Race and Ethnic Relations 
-(SOCY 321)</h3>
-<small>This summer, earn GEP credits while examining race and ethnic inequalities from a sociological perspective.</small>
+<h3>Featured Course: Ethical Theory (PHIL 350)</h3>
+<small>Satisfy Arts & Humanities GEP credit as you explore answers to the questions "what is the good life?" and “what ought I to do?".</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=843" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=924" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=843" target="_blank">Featured Course: Race and Ethnic Relations</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=924" target="_blank">Featured Course: Ethical Theory</a></p>
           
 </li>
-          
+
 <!-- END Slide Two --> 
 
 <!-- Slide Three -->
 
 <li id="slide3">
 
-<a href="http://gritgoing.umbc.edu/?p=660"><img src="images/featured/ANTH211.jpg" alt="Featured Course: Cultural Anthropology" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=943"><img src="images/featured/gwst338.jpg" alt="Featured Course: Women, Gender, and Law" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: Cultural Anthropology 
-(ANTH 211)</h3>
-<small>Spend the summer learning about what culture is and why different aspects of it exist!</small>
+<h3>Featured Course: Women, Gender, and Law 
+(GWST 338)</h3>
+<small>Explore the ways in which gender affects rights within the American civil and criminal legal systems (Social Science GEP credit).</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=660" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=943" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=660" target="_blank">Featured Course: Cultural Anthropology</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=943" target="_blank">Featured Course: Women, Gender, and Law</a></p>
           
 </li>
-          
+
 <!-- END Slide Three --> 
 
-<!-- Slide Four (Featured Course) -->
+<!-- Slide Four -->
 
 <li id="slide4">
 
-<a href="http://gritgoing.umbc.edu/?p=882"><img src="images/featured/JDST320.jpg" alt="Featured Course: Holocaust Literature" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=913"><img src="images/featured/biol106.jpg" alt="Featured Course: The Human Organism" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: Holocaust Literature 
-(JDST 320)</h3>
-<small>This summer, through mediums such as poetry, drama, and novels, grasp and understand the realities of the Holocaust.</small>
+<h3>Featured Course: The Human Organism 
+(BIOL 106)</h3>
+<small>Learn about healthy practices this summer and fulfill the Science non-lab GEP.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=882" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=913" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=882" target="_blank">Featured Course: Holocaust Literature</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=913" target="_blank">Featured Course: The Human Organism</a></p>
           
 </li>
 
 <!-- END Slide Four --> 
 
-<!-- Slide Five (Featured Faculty) -->
+<!-- Slide Five -->
 
 <li id="slide5">
 
-<a href="http://gritgoing.umbc.edu/?p=825"><img src="images/featured/GibMason.png" alt="Featured Faculty: Gib Mason" target="_blank"></a>
+<a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus"><img src="images/food.jpg" alt="Where to Eat?" target="_blank"></a>
 
 <div class="carousel-caption-right wordwrap">
     
-<h3>Featured Faculty: Gib Mason</h3>
-<small>Gib’s teaching style is unique. It’s powerful, captivating, and engaging. He'll be teaching ENTR 340 this summer.</small>
+<h3>Summer Dining Guide</h3>
+<small>Time for a break? Find our where and when to dine on campus this summer.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=825" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=825" target="_blank">Featured Faculty: Gib Mason</a></p>
+<p id="captiontwo"><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" target="_blank">Where to Eat?</a></p>
           
 </li>
 
 <!-- END Slide Five --> 
+
+<!-- Slide Six -->
+
+<li id="slide6">
+
+<a href="/summer/events"><img src="images/events.jpg" alt="Summer Events" target="_blank"></a>
+
+<div class="carousel-caption-right wordwrap">
+    
+<h3>Summer Events</h3>
+<small>There's more to summer at UMBC than what happens in the classroom. Have fun, and be part of a dynamic learning community while you learn.</small>
+            
+<p><a href="/summer/events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="/summer/events" target="_blank">Summer Events</a></p>
+          
+</li>
+
+<!-- END Slide Six --> 
+
+<!-- Slide Seven -->
+
+<li id="slide7">
+
+<a href="/summer/tutoring"><img src="images/tutoring.jpg" alt="Summer Tutoring" target="_blank"></a>
+
+<div class="carousel-caption-right wordwrap">
+    
+<h3>Summer Tutoring</h3>
+<small>The LRC will be offering tutoring for most Science and Math courses as well as for any Written Paper.</small>
+            
+<p><a href="/summer/tutoring" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="/summer/tutoring" target="_blank">Summer Tutoring</a></p>
+          
+</li>
+
+<!-- END Slide Seven --> 
 
 </ul>
 

@@ -26,7 +26,7 @@ Saturday June 4, 10:30AM - 12:00PM<br>
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>      <p style="text-align:center">
 Fall 2016 Application Deadline: August 1
-        <a class="btn" href="https://www.applyweb.com/umbcg/" target="_blank">Apply Now</a>
+        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
       </p>
 </aside>
 

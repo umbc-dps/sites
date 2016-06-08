@@ -100,7 +100,7 @@ out-of-state tuition charges.</li>
                     </tr>
                     <tr>
                       <td>3 credit course:  $1,005</td>
-                      <td>3 credit course:  $1,755</td>
+                      <td>3 credit course:  $1,809</td>
                     </tr>
                     <tr>
                       <td>2 credit course:  $670</td>

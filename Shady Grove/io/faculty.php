@@ -84,7 +84,7 @@ $lang = 'en';
 <h3>Faculty</h3>
 
 <div class="accordionheader">
-  <h4>Theodore Rosen, Ph.D. | Program Director <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="rosen" href="#rosen"></a>Theodore Rosen, Ph.D. | Program Director <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -102,7 +102,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 </div>
 
 <div class="accordionheader">
-  <h4>Rana Balci-Sinha, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="sinha" href="#sinha"></a>Rana Balci-Sinha, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -113,7 +113,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 
 
 <div class="accordionheader">
-  <h4>Sharrón Dean, CCP, MOM, PHR | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="dean" href="#dean"></a>Sharrón Dean, CCP, MOM, PHR | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -124,7 +124,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 
 
 <div class="accordionheader">
-  <h4>Melissa Fein, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="fein" href="#fein"></a>Melissa Fein, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -137,7 +137,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 </div>
 
 <div class="accordionheader">
-  <h4>Elliot Lasson, Ph.D. | Adjunct Instructor</h4>
+  <h4><a id="lasson" href="#lasson"></a>Elliot Lasson, Ph.D. | Adjunct Instructor</h4>
 </div>
 
 <div class="accordionbody">
@@ -152,7 +152,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 
 
 <div class="accordionheader">
-  <h4>John Milatzo, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="milatzo" href="#milatzo"></a>John Milatzo, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -163,7 +163,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 
 
 <div class="accordionheader">
-  <h4>Lesley Perkins, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="perkins" href="#perkins"></a>Lesley Perkins, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -175,7 +175,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 
 
 <div class="accordionheader">
-  <h4>Edward Rudow | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="rudow" href="#rudow"></a>Edward Rudow | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -186,7 +186,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 
 
 <div class="accordionheader">
-  <h4>Kayo Sady, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="ksady" href="#ksady"></a>Kayo Sady, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -198,7 +198,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 
 
 <div class="accordionheader">
-  <h4>Maegan Sady, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="msady" href="#msady"></a>Maegan Sady, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -209,7 +209,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
  
 
 <div class="accordionheader">
-  <h4>Ethan Sanders, M.S. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="sanders" href="#sanders"></a>Ethan Sanders, M.S. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -220,7 +220,7 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 
 
 <div class="accordionheader">
-  <h4>Richard Tonowski, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="tonowski" href="#tonowski"></a>Richard Tonowski, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">

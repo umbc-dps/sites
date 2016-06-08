@@ -125,18 +125,36 @@ $lang = 'en';
 <a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="video"><img alt="img01" src="images/4.png"></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Advanced Project Management </h3>
-<small>Steve Edwards, CEO of Edwards Project Solutions, talks about how the course ties academic learning with practical real-world experience.</small>
+<h3>Our Approach: Classes that Provide Practical Skills</h3>
+<small>Steve Edwards, CEO of Edwards Project Solutions talks about Advance Project Management.</small>
 
-<p><a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="web-seemore video">Watch the Video</a></p>
+<p><a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="web-seemore video">Watch Now</a></p>
 </div>
 
 <p id="captionone">
-<a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="video">Featured Course: Adv. Project Management</a></p>
+<a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="video">Our Approach: Classes that provide practical skills</a></p>
 
 </li>
 
 <!-- END SLIDE THREE --> 
+
+<!-- SLIDE FOUR --> 
+
+<li id="slide3">
+
+<a href="faculty#mjones"><img src="images/jones.jpg" alt="Meet Our Faculty: Michelle Jones"/></a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>Meet Our Faculty: Michelle Jones</h3>
+<small>Jones has over 20 years of experience in various accounting management positions and is a Certified Public Accountant.</small>
+
+<p><a href="faculty#mjones" role="button" class="web-seemore">Read More</a></p></div>
+
+<p id="captionthree"><a href="faculty#mjones">Meet Our Faculty: Michelle Jones</a></p>
+
+</li>
+
+<!-- END SLIDE FOUR --> 
       
     </ul>
 

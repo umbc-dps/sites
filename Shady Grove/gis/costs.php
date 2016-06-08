@@ -101,40 +101,33 @@ $lang = 'en';
 
 
         <tr>
-          <td>Tuition<br>
-          <span class="extra">MD resident: $603 per credit<br>
-          Non-resident: $997 per credit</span></td>
-
-          <td>$1,755</td>
-
-          <td>$2,904</td>
+          <td><strong>Tuition</strong><br>
+            MD resident: $603 per credit<br>
+            Non-Maryland resident: $997 per credit</td>
+          <td>$1,821 </td>
+          <td>$2,991 </td>
         </tr>
-
-
         <tr>
-          <td>Shady Grove Auxiliary Facilities Fee <span class="extra">($56 per semester)</span></td>
-
-          <td>$56</td>
-
-          <td>$56</td>
+          <td><strong>Mandatory    Fees:</strong></td>
+          <td><strong>Full-Time<br>
+            Student</strong></td>
+          <td><strong>Part-Time <br>
+            Student:</strong></td>
         </tr>
-
-
         <tr>
-          <td>Technology Fee <span class="extra">($14 per credit)</span></td>
-
-          <td>$42</td>
-
-          <td>$42</td>
+          <td>Shady Grove    Auxiliary Facilities Fee</td>
+          <td>$366 Flat fee</td>
+          <td>$20 per credit hour</td>
         </tr>
-
-
         <tr>
-          <td>TOTAL:</td>
-
-          <td>$1,853</td>
-
-          <td>$3,002</td>
+          <td>Facilities    Flat fee</td>
+          <td>$40 </td>
+          <td>$20 </td>
+        </tr>
+        <tr>
+          <td>Technology Fee</td>
+          <td>$14 per credit</td>
+          <td>$14 per credit</td>
         </tr>
 
 

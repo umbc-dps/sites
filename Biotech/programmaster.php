@@ -99,12 +99,17 @@ $lang = 'en';
    <li>Communicate ideas effectively and persuasively in writing and oral presentations</li>
    <li>Analyze and use company financial information to make effective budgetary and resource allocation decisions</li>
    <li>Describe and apply sound legal and ethical standards, reasoning, and tools in a biotechnology context</li>
+   <li>Give the student  a stronger understanding of the relationship between science and business and  the process by which bioscience products are designed, developed and brought to  market;</li>
+   <li>Practiced  experience in researching, analyzing and communicating the primary and current  literature; and,</li>
+   <li>Formal training  in experimental design, a fundamental skill required of all life science  professionals.</li>
  </ul>
 
- <h4>Program Curriculum:</h4>
+ <h4>Program Curriculum: </h4>
+ <p><a href="programmaster" target="_blank">Newly Designed Biotechnology Core - Fall 2016</a></p>
  <p>The M.P.S. Biotechnology is designed as an applied, terminal masters degree that incorporates science, regulatory and management courses. The M.P.S. curriculum includes 10 courses (30 credits) in three areas: Life Sciences, Bioregulatory Affairs, and Management. Both the science and the business courses must be taken in the sequences shown in the generic course schedule table below.</p>
 
-   <h5>Life Sciences: 5 courses [15 credits]</h5>
+ <h4>Newly designed Biotechnology core - Fall 2016   </h4>
+ <h5>Life Sciences: 5 courses [15 credits]</h5>
    <ul>
      <li>BTEC 650: <a href="courses.php#650">Applied Biochemistry</a> [3]</li>
      <li>BTEC 651: <a href="courses.php#651">Molecular and Cell Biology</a> [3]</li>
@@ -120,7 +125,9 @@ $lang = 'en';
      <li>BTEC 660: <a href="courses.php#660">Regulatory Issues in Biotechnology</a> [3]</li>
      <li>BTEC 665: <a href="courses.php#665">Management, Leadership and Communication</a> [3]</li>
      <li>BTEC 670: <a href="courses.php#670">Legal &amp; Ethical Issues in the Science Professions</a> [3]</li>
-     <li>BTEC 680: <a href="courses.php#680">Financial Management</a> [3] <br>
+     <li>BTEC 680: <a href="courses.php#680">Financial Management</a> [3] <br><br>
+
+     <em>* <a href="programmaster2">New core and track options</a> starting Fall 2016</em>.
      </li>
    </ul>
    
@@ -133,7 +140,7 @@ $lang = 'en';
  </li>
  </ul>
  
- <!-- END Content -->
+<!-- END Content -->
 
   <div id="contents" style="display:none"></div>
 

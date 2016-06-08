@@ -93,12 +93,12 @@ $lang = 'en';
 
         <tr>
           <td>Tuition<br>
-          <span class="extra">MD resident: $585 per credit<br>
-          Non-resident: $968 per credit</span></td>
+          <span class="extra">MD resident: $603 per credit<br>
+          Non-resident: $997 per credit</span></td>
 
-          <td>$1,755</td>
+          <td>$1,809</td>
 
-          <td>$2,904</td>
+          <td>$2,991</td>
         </tr>
 
 
@@ -159,9 +159,9 @@ $lang = 'en';
         <tr>
           <td>TOTAL:</td>
 
-          <td>$2,133</td>
+          <td>$2,187</td>
 
-          <td>$3,216</td>
+          <td>$3,282</td>
         </tr>
 
 

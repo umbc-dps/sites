@@ -716,29 +716,29 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="https://schedule.sgrove.usmd.edu/VirtualEMS/BrowseEvents.aspx" target="_blank"><img src="images/testtakingimage2.png" alt=""/></a>
+<a href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_blank"><img src="images/why.png" alt=""/></a>
 
 
-<h3 style="line-height:normal; font-size:15pt">
-<br>
- It's Time for Final Exams</h3>
+<h3 style="line-height:normal; font-size:17pt">
+Programs focused on the future for professionals focused on theirs!
+</h3>
 
 
 <div class="boxleft" style="width:60%">
 
-  <h6 style="font-size:12pt; margin:0px; line-height:14pt">Prepare for your final exams - be sure to confirm the time and location for each class here! </h6>
+  <h6 style="font-size:14pt; margin:0px; line-height:17pt">Learn more about our Cybersecurity and GIS programs at our Summer Information Sessions! </h6>
   </div><!-- end boxleft nested div -->
 
 
 
 
 	<div class="boxright">
-<a href="https://schedule.sgrove.usmd.edu/VirtualEMS/BrowseEvents.aspx" target="_blank" style="text-decoration:none">
+<a href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_blank" style="text-decoration:none">
 <div class="button" style="height:auto; line-height:10pt; vertical-align:middle;">
 
 <br>
 
-View Schedule
+RSVP
 <br><br>
 
 
@@ -908,7 +908,7 @@ View Schedule
 <a href="http://my.umbc.edu" target="_blank"><img src="images/myumbc_trans.gif" class="myumbc" alt="myUMBC" width="125" height="30" border="0" style="margin-left:-25px;"></a> <br>
 <a href="https://www.facebook.com/UMBCatShadyGrove?ref=hl" target="_blank"><img src="images/facebook.png" class="btn" alt="facebook" style="margin-left:5px;"></a>
 <a href="https://twitter.com/uatshadygrove" target="_blank"><img src="images/twitter.png" class="btn" alt="twitter"></a>
-<a href="http://www.youtube.com/user/UMBCtube" target="_blank"><img src="images/youtube.png" class="btn" alt="YouTube"></a>
+<a href="https://www.youtube.com/channel/UCLVsMMEHLDtrRaDaZrkiSNA" target="_blank"><img src="images/youtube.png" class="btn" alt="YouTube"></a>
 </div>
 </div>
 

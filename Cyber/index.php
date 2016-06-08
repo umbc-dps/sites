@@ -103,36 +103,16 @@ $lang = 'en';
 <h3>America is ‘dropping cyberbombs’ – but how do they work?</h3>
 <small>UMBC's Richard Forno and Anupam Joshi discuss what cyberbombs are and how the U.S. uses them.</small>
 
-<p><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" role="button" class="web-seemore">Read more</a></p></div>
+<p><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank" role="button" class="web-seemore">Listen to the Story</a></p></div>
 
 <p id="captionthree"><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank">America is ‘dropping cyberbombs’ – but how do they work?</a></p>
 
 </li>
 
-<!-- END SLIDE TWO --> 
+<!-- END SLIDE TWO -->  
 
-
-<!-- Slide Three -->              
-
+<!-- SLIDE THREE --> 
 <li id="slide3">
-
-<a href="https://www.youtube.com/watch?v=DcLtcXd_86k" class="video"><img src="images/7.jpg" alt="Enroll Now"/></a>
-
-<div class="carousel-caption-right wordwrap">
-<h3>Webinar: Chinese Cyber Power</h3>
-<small>Dr. Terry Thompson, of the UMBC Cybersecurity Graduate Program faculty, presented on the political, economic, military, and foreign policy dimensions of China's cyber strategy and operations.</small>
-
-<p><a href="https://www.youtube.com/watch?v=DcLtcXd_86k" role="button" class="web-seemore video">Watch the Webinar</a></p></div>
-
-<p id="captionthree"><a href="https://www.youtube.com/watch?v=DcLtcXd_86k" class="video">Webinar: Chinese Cyber Power</a></p>
-
-</li>
-
-<!-- END Slide Three -->  
-
-
-<!-- SLIDE FOUR --> 
-<li id="slide4">
       
 <a href="programcert#new"><img alt="img02" src="images/umbc_cyber5.png"></a>
 
@@ -146,30 +126,11 @@ $lang = 'en';
 
 </li>
 
-<!-- END SLIDE FOUR --> 
+<!-- END SLIDE THREE --> 
 
+<!-- SLIDE FOUR --> 
 
-<!-- SLIDE FIVE --> 
-
-<li id="slide5">
-
-<a href="alumni" target="_blank"><img alt="img04" src="images/umbc_cyber4.png"></a>
-
-<div class="carousel-caption-right wordwrap">
-<h3>Meet Our Alumni</h3>
-<small>Meet three alumni from UMBC&rsquo;s Cybersecurity Graduate Programs.</small>
-
-<p><a href="alumni" class="web-seemore">Learn More</a></p></div>
-
-<p id="captionthree"><a href="alumni">Meet Our Alumni</a></p>
- 
-</li>
-
-<!-- END SLIDE FIVE --> 
-
-<!-- SLIDE SIX --> 
-
-<li id="slide6">
+<li id="slide4">
 
 <a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
 
@@ -177,13 +138,13 @@ $lang = 'en';
 <h3>UMBC Class of 2016 Profile: Arti Deore Choudhary</h3>
 <small>CYBR MPS student Arti Deore Choudhary is heading to Amazon — she thanks cybersecurity faculty for honing her leadership skills.</small>
 
-<p><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" class="web-seemore">Read More</a></p></div>
+<p><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" class="web-seemore" target="_blank">Read More</a></p></div>
 
-<p id="captionthree"><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/">UMBC Class of 2016 Profile: Arti Deore Choudhary</a></p>
+<p id="captionthree"><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank">UMBC Class of 2016 Profile: Arti Deore Choudhary</a></p>
  
 </li>
 
-<!-- END SLIDE SIX --> 
+<!-- END SLIDE FOUR --> 
       
     </ul>
 
@@ -352,4 +313,3 @@ $(".cbp-fwdots").on('hover', function() {
 
 </body>
 </html>
-

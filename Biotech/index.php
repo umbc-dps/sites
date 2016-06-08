@@ -110,18 +110,36 @@ $lang = 'en';
 <!-- SLIDE TWO -->
 
 <li id="slide2">
-<a href="programcert2" target="_blank"><img alt="img03" src="images/4.jpg"></a>
+<a href="programmaster2" target="_blank"><img alt="img03" src="images/4.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>Biochemical Regulatory Engineering</h3>
-<small>UMBC's post baccalaureate program in biochemical regulatory engineering guides students through the ins and outs of the FDA process.</small>
+<h3>New Biotechnology Core</h3>
+<small>UMBC's new Biotechnology curriculum is intended to address changes in the needs of the biotechology industry through experiential learning.</small>
 
-<p><a class="web-seemore" href="programcert2" target="_blank">Read More</a></p></div>
+<p><a class="web-seemore" href="programmaster2" target="_blank">Read More</a></p></div>
 
-<p id="captionthree"><a href="programcert2">Biochemical Regulatory Engineering</a></p>
+<p id="captionthree"><a href="programmaster2">New Biotechnology Core</a></p>
+
 </li>
                
 <!-- END SLIDE TWO -->
+
+<!-- SLIDE THREE -->
+
+<li id="slide3">
+<a href="http://www.umbc.edu/biotech/faculty#broedel"><img alt="img03" src="images/broedel.jpg"></a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>Meet Our Faculty: Dr. Sheldon Broedel</h3>
+<small>Dr. Broedel is a founder/CEO/CSO of Athena Environmental Sciences, Inc., a diversified biotechnology company.</small>
+
+<p><a class="web-seemore" href="http://www.umbc.edu/biotech/faculty#broedel">Read More</a></p></div>
+
+<p id="captionthree"><a href="http://www.umbc.edu/biotech/faculty#broedel">Meet Our Faculty: Dr. Sheldon Broedel</a></p>
+
+</li>
+               
+<!-- END SLIDE THREE -->
 
 
 </ul>
@@ -136,10 +154,9 @@ $lang = 'en';
     <h3>UMBC Biotechnology Graduate Programs</h3>
 
 
-    <p>The Master&rsquo;s in Professional Studies in Biotechnology prepares science professionals to fill management and leadership roles in biotechnology-related companies or agencies. &nbsp;</p>
+    <p>The Master&rsquo;s in Professional Studies in Biotechnology prepares science professionals to fill management and leadership roles in biotechnology-related companies or agencies.</p>
     <p>
-    UMBC&rsquo;s Biotechnology curriculum provides advanced instruction in the life sciences, along with coursework in regulatory affairs, leadership, management, and financial management in a life
-    science-oriented business.</p>
+    UMBC&rsquo;s Biotechnology curriculum is intended to address changes in the needs of the biotechology industry through experiential learning, by providing advanced instruction in the life sciences, in addition to coursework in regulatory affairs, leadership, management, and financial management in a life science-oriented business.</p>
 
     <h3>Why Biotechnology?</h3>
 
@@ -180,7 +197,7 @@ $lang = 'en';
 
 
     <p>This established academic and research expertise in the biosciences provides a foundation for programs in biotechnology management and biochemical regulatory engineering.</p>
-     <!-- END Content -->
+    <!-- END Content -->
 
   <div id="contents" style="display:none"></div>
   </div>
@@ -188,7 +205,6 @@ $lang = 'en';
   <?php include("includes/sidebar.php"); ?><!-- END SIDEBAR -->
   <br>
   <!-- Footer -->
-
 
   <footer class="clearfix" id="site-footer">
     <div class="full-width column add-bottom" style="display:none">

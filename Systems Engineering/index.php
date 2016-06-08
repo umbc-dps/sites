@@ -110,23 +110,41 @@ $lang = 'en';
 
 <!-- END SLIDE TWO --> 
 
-      
-<!-- Slide TWO -->    
+<!-- SLIDE THREE --> 
 
 <li id="slide2">
 
-<a href="programcert"><img src="images/3.jpg" alt="certificate"/></a>
-<div class="carousel-caption wordwrap">
-<h3>Post-Baccalaureate Certificate in Systems Engineering</h3>
-<small>A 15-credit program designed to accelerate the development of systems engineers. Finish in as little as 1 year.</small>
+<a href="faculty.php#ray"><img src="images/ray.jpg" alt="Meet Our Faculty: Dr. Jeffrey Ray"/></a>
 
-<p><a href="programcert" class="web-seemore">Learn More</a></p></div>
+<div class="carousel-caption-right wordwrap">
+<h3>Meet Our Faculty: Dr. Jeffrey Ray</h3>
+<small>Dr. Ray is a licensed Attorney at Law and registered Professional Engineer</small>
 
-<p id="captionthree"><a href="programcert">Post-Baccalaureate Certificate in Systems Engineering</a></p>
+<p><a href="faculty.php#ray" role="button" class="web-seemore">Read More</a></p></div>
+
+<p id="captionthree"><a href="faculty.php#ray">Meet Our Faculty: Dr. Jeffrey Ray</a></p>
 
 </li>
 
-<!-- END SLIDE TWO -->
+<!-- END SLIDE THREE --> 
+
+      
+<!-- Slide THREE -->    
+
+<li id="slide3">
+
+<a href="https://www.youtube.com/watch?v=azvXiQj8Bgo" class="video"><img src="images/f-highland.jpg" alt="Faculty Insights with Fred Highland"/></a>
+<div class="carousel-caption-right wordwrap">
+<h3>Faculty Insights with Fred Highland</h3>
+<small>Systems Engineer, Fred highland talks about his career in Systems Engineering</small>
+
+<p><a href="https://www.youtube.com/watch?v=azvXiQj8Bgo" class="web-seemore video">Watch Now</a></p></div>
+
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=azvXiQj8Bgo" class="video">Faculty Insights with Fred Highland</a></p>
+
+</li>
+
+<!-- END SLIDE THREE -->
 
 </ul>
 

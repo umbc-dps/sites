@@ -166,7 +166,7 @@ BEGIN MAIN
 
 <li id="slide1">
 
-<a href="http://umbc.edu/rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/7.png" alt="Professional Programs Info Session"/></a>
+<a href="http://umbc.edu/rsvp" target="_blank"><img src="http://professionalprograms.umbc.edu/images/7.png" alt="Professional Programs Info Session"/></a>
 
 <div class="carousel-caption wordwrap">
 <h3>Professional Programs Info Session</h3>
@@ -174,7 +174,7 @@ BEGIN MAIN
 
 <p><a href="http://umbc.edu/rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="http://umbc.edu/rsvp" target="blank">Professional Programs Info Session</a></p>
+<p id="captionthree"><a href="http://umbc.edu/rsvp" target="_blank">Professional Programs Info Session</a></p>
 
 </li>
 
@@ -214,22 +214,24 @@ BEGIN MAIN
 </li>
 
 <!-- END Slide Three -->  
-     
-<!-- Slide Four -->              
+
+<!-- SLIDE FOUR --> 
+
 <li id="slide4">
 
-<a href="http://www.umbc.edu/cyber/faculty#Williams"><img src="images/tinawilliams.png" alt="faculty"/></a> 
+<a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
 
-<div class="carousel-caption-right wordwrap">
-<h3>Meet Our Faculty: Tina Williams</h3>
-<small>Tina uses her education and experience in her role as an adjunct professor of Cybersecurity at UMBC. </small>
+<div class="carousel-caption wordwrap">
+<h3>UMBC Class of 2016 Profile: Arti Deore Choudhary</h3>
+<small>CYBR MPS student Arti Deore Choudhary is heading to Amazon — she thanks cybersecurity faculty for honing her leadership skills.</small>
 
-<p><a href="http://www.umbc.edu/cyber/faculty#Williams" role="button">Read more</a></p></div>
+<p><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" class="web-seemore" target="_blank">Read More</a></p></div>
 
-<p id="captionone"><a href="http://www.umbc.edu/cyber/faculty#Williams">Meet Our Faculty: Tina Williams</a></p>
-            
+<p id="captionthree"><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank">UMBC Class of 2016 Profile: Arti Deore Choudhary</a></p>
+ 
 </li>
-<!-- END Slide Four -->
+
+<!-- END SLIDE FOUR --> 
   
         </ul>
         <div id="dotcontainer"></div>

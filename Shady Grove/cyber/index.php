@@ -80,18 +80,34 @@ $lang = 'en';
 <!-- SLIDE ONE -->
 <li id="slide1">
       
+<a href="infosession"><img alt="img02" src="images/6.png"></a>
+
+<div class="carousel-caption wordwrap">
+<h3>Cybersecurity Information Session</h3>
+<small>Visit us to learn about our Master's and Graduate Certificate programs offered in Rockville, MD</small>
+
+<p><a href="infosession" class="web-seemore">RSVP Now</a></p></div>
+
+<p id="captiontwo"><a href="infosession">Cybersecurity Information Session</a></p>
+
+</li>
+<!-- END SLIDE ONE -->
+
+<!-- SLIDE TWO -->
+<li id="slide2">
+      
 <a href="programcert#new"><img alt="img02" src="images/umbc_cyber5.png"></a>
 
 <div class="carousel-caption-right wordwrap">
 <h3>New Cybersecurity Operations Certificate</h3>
 <small>This four-course graduate certificate is oriented towards students seeking broad exposure to cybersecurity principles, best practices, and technologies, and can be completed in a year.</small>
 
-<p><a href="programcert" class="web-seemore">Learn More</a></p></div>
+<p><a href="programcert#new" class="web-seemore">Learn More</a></p></div>
 
-<p id="captiontwo"><a href="programcert">New Cybersecurity Operations Certificate</a></p>
+<p id="captiontwo"><a href="programcert#new">New Cybersecurity Operations Certificate</a></p>
 
 </li>
-<!-- END SLIDE ONE -->
+<!-- END SLIDE TWO -->
 
 
 <!-- SLIDE TWO -- 
@@ -127,25 +143,7 @@ $lang = 'en';
 </li>
 -- END SLIDE TWO --> 
 
-
-<!-- SLIDE THREE --> 
-<li id="slide2">
-
-<a href="alumni" target="_blank"><img alt="img04" src="images/umbc_cyber4.png"></a>
-
-<div class="carousel-caption-right wordwrap">
-<h3>Meet Our Alumni</h3>
-<small>Meet three alumni from UMBC&rsquo;s Cybersecurity Graduate Programs.</small>
-
-<p><a href="alumni" class="web-seemore">Learn More</a></p></div>
-
-<p id="captionthree"><a href="alumni">Meet Our Alumni</a></p>
- 
-</li>
-<!-- END SLIDE THREE --> 
-
-
-<!-- SLIDE FOUR -->
+<!-- SLIDE THREE -->
 
 <li id="slide3">
 
@@ -162,11 +160,12 @@ $lang = 'en';
 " target="_blank">America is ‘dropping cyberbombs’ – but how do they work?</a></p>
 
 </li>
-<!-- END SLIDE FOUR --> 
 
-<!-- SLIDE FIVE --> 
+<!-- END SLIDE THREE --> 
 
-<li id="slide5">
+<!-- SLIDE FOUR --> 
+
+<li id="slide4">
 
 <a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
 
@@ -174,13 +173,13 @@ $lang = 'en';
 <h3>UMBC Class of 2016 Profile: Arti Deore Choudhary</h3>
 <small>CYBR MPS student Arti Deore Choudhary is heading to Amazon — she thanks cybersecurity faculty for honing her leadership skills.</small>
 
-<p><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" class="web-seemore">Read More</a></p></div>
+<p><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" class="web-seemore" target="_blank">Read More</a></p></div>
 
-<p id="captionthree"><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/">UMBC Class of 2016 Profile: Arti Deore Choudhary</a></p>
+<p id="captionthree"><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank">UMBC Class of 2016 Profile: Arti Deore Choudhary</a></p>
  
 </li>
 
-<!-- END SLIDE FIVE --> 
+<!-- END SLIDE FOUR --> 
 
       
     </ul>

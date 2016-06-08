@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131075514741630259" remote="131075514750000000" Dst="2" />
+<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131094444872019951" remote="131094444880000000" Dst="2" />
 <file name="advisoryboard.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541774568072" remote="131068542900000000" Dst="2" />
 <file name="certificate.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068542422873168" remote="131068542420000000" Dst="2" />
 <file name="comparison.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541775318147" remote="131068542900000000" Dst="2" />
 <file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131073783900490052" remote="131073785240000000" Dst="2" />
-<file name="costs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541777068322" remote="131068542900000000" Dst="2" />
-<file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541777738389" remote="131068542900000000" Dst="2" />
+<file name="costs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131086674246739312" remote="131086674320000000" Dst="2" />
+<file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131094434010613919" remote="131094434010000000" Dst="2" />
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541778418457" remote="131068542900000000" Dst="2" />
 <file name="directions2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541779128528" remote="131068542900000000" Dst="2" />
 <file name="directions3.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068542653393168" remote="131068542900000000" Dst="2" />
@@ -18,8 +18,8 @@
 <file name="pep.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541790659681" remote="131068542900000000" Dst="2" />
 <file name="programcert.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541791229738" remote="131068542900000000" Dst="2" />
 <file name="programcert2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541791609776" remote="131068542900000000" Dst="2" />
-<file name="programmaster.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541791999815" remote="131068542900000000" Dst="2" />
-<file name="programs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541792499865" remote="131068542900000000" Dst="2" />
+<file name="programmaster.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131094432462639137" remote="131094432460000000" Dst="2" />
+<file name="programs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131094429399129172" remote="131094429400000000" Dst="2" />
 <file name="resources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541792939909" remote="131068542900000000" Dst="2" />
 <file name="rsvp.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541793589974" remote="131068542900000000" Dst="2" />
 <file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131076401603016882" remote="131076401840000000" Dst="2" />
@@ -32,4 +32,5 @@
 <file name="orientation.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131068541790219637" remote="131068542900000000" Dst="2" />
 <file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="130996104770000000" remote="131060829350000000" Dst="2" />
 <file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131078795677526709" remote="131078795670000000" Dst="2" />
+<file name="programmaster2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131094431325344338" remote="131094431330000000" Dst="2" />
 </dwsync>

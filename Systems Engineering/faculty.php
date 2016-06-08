@@ -163,7 +163,7 @@ Post Graduate studies certificate in Systems Engineering from the Johns Hopkins 
 </div>
 
 <div class="accordionheader">
-  <h4>Jeff Ray | Graduate Faculty<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#ray" id="ray"></a>Jeff Ray | Graduate Faculty<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">

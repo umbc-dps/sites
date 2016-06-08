@@ -81,7 +81,7 @@ $lang = 'en';
 <h3>Virtual Information Session</h3>
 <small>Missed our virtual info session? Watch the full video now.</small>
 
-<p><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" target="_blank" class="web-seemore video">Watch Now!</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="web-seemore video">Watch Now</a></p></div>
 
 <p id="captiontwo"><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="video">Watch Our Info Session</a></p>
 
@@ -92,18 +92,36 @@ $lang = 'en';
 <!-- SLIDE TWO --> 
 <li id="slide2">
       
-<a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A" class="video"><img alt="img02" src="images/5.jpg"></a>
+<a href="https://www.youtube.com/watch?v=CocQf9ZAbFE" class="video"><img alt="img02" src="images/alumni/luo.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>I/O Alumnus: Aubrey Moore</h3>
-<small>Aubrey Moore, UMBC Industrial/Organizational Psychology Program Alumnus talks about his experience in the program.</small>
+<h3>I/O Alumnus: Jennifer Luo</h3>
+<small>Jennifer Luo, UMBC Industrial/Organizational Psychology Program Alumnus talks about her experience in the program.</small>
 
-<p><a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A" class="web-seemore video">Watch Now</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=CocQf9ZAbFE" class="web-seemore video">Watch Now</a></p></div>
 
-<p id="captiontwo"><a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A" class="video">I/O Alumnus: Aubrey Moore</a></p>
+<p id="captiontwo"><a href="https://www.youtube.com/watch?v=CocQf9ZAbFE" class="video">I/O Alumnus: Jennifer Luo</a></p>
 
 </li>
+
 <!-- END SLIDE TWO --> 
+
+<!-- SLIDE THREE --> 
+<li id="slide3">
+      
+<a href="faculty#fein"><img alt="img02" src="images/Melissa-Fein.jpg"></a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>Meet Our Faculty: Melissa Fein</h3>
+<small>Classes taught by distinguished professionals.</small>
+
+<p><a href="faculty#fein" class="web-seemore">Read more</a></p></div>
+
+<p id="captiontwo"><a href="faculty#fein">Meet Our Faculty: Melissa Fein</a></p>
+
+</li>
+
+<!-- END SLIDE THREE --> 
       
     </ul>
 

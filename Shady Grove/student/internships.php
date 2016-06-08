@@ -101,7 +101,7 @@
 <p style="margin-bottom: 0;">&nbsp;</p>
 <p style="margin-top: 0;"><strong>PRAC 98/99 (Internship and Research) Course Forms: </strong><br>
 </p>
-<p style="margin-bottom: 0;"><a href="documents/pracsyllabus-usg.pdf" target="_blank">Syllabus for Spring 2016</a></p>
+<p style="margin-bottom: 0;"><a href="documents/pracsyllabus-usg.pdf" target="_blank">Syllabus for Summer 2016</a></p>
 <p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
 <p style="margin-bottom: 0;">&nbsp;</p>
 </div>

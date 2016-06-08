@@ -83,7 +83,7 @@ $lang = 'en';
           <p><strong>Note:</strong> Not all courses are offered every semester, and new courses may be added at any time. Check the <a href="schedule">schedule of classes</a>, for the latest offerings. </p>
 
 <div class="accordionheader">
-  <h4><a name="650" id="650"></a>BTEC 650: Applied Biochemistry [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#650" id="650"></a>BTEC 650: Applied Biochemistry [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -91,7 +91,7 @@ $lang = 'en';
             <p>This course will review the chemistry of living systems, with an emphasis on topics of biotechnological and biomedical interest.  The course will also survey the methods used in modern biochemistry, so that students will be able to understand the connection between empirical data and the established facts and concepts presented in the course. The first part of the course will focus on the relationship between structure and function of proteins, nucleic acids, carbohydrates, lipids, and membranes.  Important chemical concepts relevant to these molecules and their components (amino acids, nucleotides, etc.), such as pH and weak chemical interactions, will be presented.  After an introduction to enzyme kinetics, the course will concentrate on the principles and pathways of intermediary metabolism.  The final topics will be concerned with informational biochemistry &ndash; DNA replication, recombination, repair, and transcription, as well as protein synthesis. </p>
    </div>
 <div class="accordionheader">
-  <h4><a name="651" id="651"></a>BTEC 651: Molecular and Cell Biology [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#651" id="651"></a>BTEC 651: Molecular and Cell Biology [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -101,7 +101,7 @@ $lang = 'en';
             </p>
    </div>
 <div class="accordionheader">
-  <h4><a name="652" id="652"></a>BTEC 652: Molecular Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#652" id="652"></a>BTEC 652: Molecular Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -112,7 +112,7 @@ $lang = 'en';
 </p>
    </div>
 <div class="accordionheader">
-  <h4><a name="653" id="653"></a>BTEC 653: Applied Bioprocess Engineering [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#653" id="653"></a>BTEC 653: Princials of Upstream Processing [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -124,18 +124,64 @@ $lang = 'en';
 </p>
    </div>
 <div class="accordionheader">
-  <h4><a name="654" id="654"></a>BTEC 654: Emerging Topics in Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#654" id="654"></a>BTEC 654: Capstone [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
           <div class="accordionbody">
             <p>This seminar-style, capstone course is an in-depth exploration of emerging technologies, innovations, and new products that are noteworthy to the biotechnology industry. The first half of the course focuses on examining and critiquing what new scientific discoveries will likely impact the industry and in what ways.  In the second half of the course, students, working in teams, will give written and oral presentations on case studies that attempt to predict products derived from the new innovations and discoveries.  The objective of the course is to give the student insight into the process of translating scientific discovery into innovative products. <strong>Prerequisite:</strong> BTEC 653
-              </p>
-              <br>
 </p>
    </div>
+   
+
 <div class="accordionheader">
-  <h4><a name="660" id="660"></a>BTEC 660: Regulatory Issues in Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#655" id="655"></a>BTEC 655: Emerging Topics in Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+
+          <div class="accordionbody">
+            <p>This seminar-style course is an in-depth exploration of emerging technologies, innovations, and new products that are noteworthy to the biotechnology industry.  The course focuses on examining and critiquing what new scientific discoveries will likely impact the industry and in what ways.  Literature research expands and deepens the student’s understanding of key fields within the life science area and allows the student to gain more in-depth knowledge on subjects that are relevant to their careers.  Oral presentation and written papers help to refine the student’s communications skills.
+</p>
+   </div>
+
+          
+
+<div class="accordionheader">
+  <h4><a href="#656" id="656"></a>BTEC 656: Experimental Design [3]<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+
+          <div class="accordionbody">
+            <p>This course introduces the basic concepts which underlie the design of experiments.  The use of statistical methods to discriminate between real effects (those caused by changes in controlled variables) and experimental error in systems which are inherently noisy are taught.  Statistically designed experimental programs which can help test many variables simultaneously are very efficient tools for developing empirical mathematical models which accurately describe physical and chemical processes.  These techniques are readily applied to production plant, pilot plant and laboratory systems, and should be a part of every practicing life science professional’s repertoire.  At the end of this course, the student will be able to select an appropriate experimental design for the problem at hand, to set up, conduct and analyze the results of statistically designed experiments, and to understand the statistical basis for these techniques. 
+</p>
+   </div>
+   
+   <div class="accordionheader">
+  <h4><a href="#657" id="657"></a>BTEC 657: Biochemical Engineering [3]</h4>
+          </div>
+       
+       <div class="accordionbody">
+       		<p><strong>Course description coming soon.</strong></p>
+          </div>   
+   
+      <div class="accordionheader">
+  <h4><a href="#658" id="658"></a>BTEC 658: Quality &amp; Finishing of Biotechnology Products [3]</h4>
+          </div>
+         
+          <div class="accordionbody">
+       		<p><strong>Course description coming soon.</strong></p>
+          </div> 
+          
+      <div class="accordionheader">
+  <h4><a href="#659" id="659"></a>BTEC 659: Bioseparations [3]</h4>
+          </div>
+          
+          <div class="accordionbody">
+       		<p><strong>Course description coming soon.</strong></p>
+          </div>
+   
+<div class="accordionheader">
+  <h4><a href="#660" id="660"></a>BTEC 660: Regulatory Issues in Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -143,24 +189,85 @@ $lang = 'en';
             <p>This course provides a comprehensive coverage of all steps involved with the regulatory approval process for a biotechnology-derived product. Documentation preparation for IND, NDA, BLA. Pre-clinical safety data, clinical studies, facilities inspection and scientific and regulatory principles.<br>
   </p>
    </div>
+   
+   <div class="accordionheader">
+  <h4><a href="#662" id="662"></a>BTEC 662: Good Manufacturing Practices for Bioprocesses [3]<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody">
+          	<p>In-depth coverage of developing and implementing good manufacturing practices (GMPs) in the biotech industry. Topics include building and facilities, equipment design, utilities, in-process controls, records, and adequate process validation. <br>
+            </p>
+   </div>
+   
+      <div class="accordionheader">
+  <h4><a href="#664" id="664"></a>ENCH 664: Quality Control & Quality Assurance for Biotechnology<br> Products [3]<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody">
+          	<p>In-depth coverage of the key issues associated with adequate quality-control systems, assays and stability for novel biotechnology products: quality concepts, product release testing and specifications, in-process testing, product characterization, quality assurance documentation and audits and vendor certification. </p>
+   </div>
+   
 <div class="accordionheader">
-  <h4><a name="665" id="6605"></a>BTEC 665: Management, Leadership and Communication [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#665" id="6605"></a>BTEC 665: Leadership, Project Management, Communication &amp; <br>
+    Management [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
           <div class="accordionbody">
             <p>This course teaches the fundamentals of management and managerial leadership and communication. Managers juggle operations, finance, information technology, strategy, and projects, yet much of their success depends less on their own direct input than on their ability to enlist the active involvement of others: direct reports, other managers, other team members, and those above them on the organizational chart. It is imperative, therefore, that managers be adept at influencing those over whom they have no formal authority as well as guiding and directing those who report to them.  </p>
    </div>
+   
 <div class="accordionheader">
-  <h4><a name="670" id="6606"></a>BTEC 670: Legal &amp; Ethical Issues in the Science Professions [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#668" id="668"></a>BTEC 668: Clinical Trials: Design &amp; Management [3]</h4>
+          </div>
+          
+          <div class="accordionbody">
+       		<p><strong>Course description coming soon.</strong></p>
+          </div> 
+   
+<div class="accordionheader">
+  <h4><a href="#670" id="6606"></a>BTEC 670: Legal &amp; Ethical Issues in the Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
           <div class="accordionbody">
             <p>This course offers an overview of legal issues affecting biotechnology and other science-based industries and frames basic philosophical and ethical considerations regarding genetic data and manipulation.  The course includes a discussion of intellectual property issues.  </p>
    </div>
+   
+   <!--
+         <div class="accordionheader">
+  <h4><a href="#671" id="671"></a>BTEC 671: Commercialization of Technologies [3]</h4>
+          </div>
+          <div></div>
+          
+         <div class="accordionheader">
+  <h4><a href="#672" id="672"></a>BTEC 672: Marketing and Sales Strategy [3]</h4>
+          </div>
+          <div></div> 
+          
+         <div class="accordionheader">
+  <h4><a href="#673" id="673"></a>BTEC 673: Strategic Planning [3]</h4>
+          </div>
+          <div></div> 
+          
+         <div class="accordionheader">
+  <h4><a href="#674" id="674"></a>BTEC 674: Financing Strategies and Corporation Founding [3]</h4>
+          </div>
+          <div></div> 
+ -->
+   
 <div class="accordionheader">
-  <h4><a name="680" id="6607"></a>BTEC 680: Financial Management [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#675" id="6606"></a>BTEC 675: Business of Biotech [3]<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+
+          <div class="accordionbody">
+            <p>This course is an overview of the life science industry, current and future trends.  In depth discussions of the relationship between science and business and the process by which biotech products are designed, developed and brought to market.  Course topics will include, biotechnology entrepreneurship, starting, leading and managing biotech companies, and comprehensive thesis on the workings of the biotechnology industry. </p>
+   </div>
+   
+      
+<div class="accordionheader">
+  <h4><a href="#680" id="6607"></a>BTEC 680: Financial Management [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -168,7 +275,7 @@ $lang = 'en';
             <p>This course will cover the fundamentals of setting up, reading, and analyzing financial statements and reports in a business setting.&nbsp; Course topics will include:  project budgeting, profit planning, return on investment, and basic corporate finance. Students will analyze case studies from the specific industries.  </p>
    </div>
 <div class="accordionheader">
-  <h4><a name="685" id="6608"></a>BTEC 685: Project Management Fundamentals [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#685" id="6608"></a>BTEC 685: Project Management Fundamentals [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -176,13 +283,13 @@ $lang = 'en';
             <p>Students learn the fundamentals of managing projects in a systematic way. These fundamentals can be applied within any industry and work environment and will serve as the foundation for more specialized project management study. Principles and techniques are further reinforced through practical case studies and team projects in which students simulate project management processes and techniques. </p>
    </div>
 <div class="accordionheader">
-  <h4><a name="690" id="6609"></a>BTEC 690: Innovation and Technology Entrepreneurship [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#690" id="6609"></a>BTEC 690: Innovation and Technology Entrepreneurship [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
           <div class="accordionbody"><p>This course offers an overview of innovation and its role in entrepreneurial ventures, both in new companies and within existing corporations. The basics of entrepreneurship with specific emphasis on technology-based business start-up are investigated. For the purposes of this course, technologies include IT, engineering and biotech. The course covers where to find innovative ideas and how to determine if a business idea is feasible along with an overview of the critical success factors in a new venture start-up.</p></div>
           <br>
-           <!-- END Content -->
+          <!-- END Content -->
 
   <div id="contents" style="display:none"></div>
         </div>

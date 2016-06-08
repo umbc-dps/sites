@@ -69,95 +69,90 @@
  
 <!-- Slide One -->
 
+<!-- Slide One -->
+
 <li id="slide1">
 
-<a href="http://gritgoing.umbc.edu/?p=843"><img src="images/featured/SOCY321.jpg" alt="Featured Course: Race and Ethnic Relations" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=922"><img src="images/featured/MLL220.jpg" alt="Featured Course: Film and Society in China" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: Race and Ethnic Relations 
-(SOCY 321)</h3>
-<small>This summer, earn GEP credits while examining race and ethnic inequalities from a sociological perspective.</small>
+<h3>Featured Course: Film and Society in China (MLL 220)</h3>
+<small>Earn Culture GEP as you embark on a cinematic survey of China's last 100 years.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=843" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=922" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=843" target="_blank">Featured Course: Race and Ethnic Relations</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=922" target="_blank">Featured Course: Film and Society in China</a></p>
           
 </li>
-          
+
 <!-- END Slide One --> 
  
 
-<!-- Slide Two (Featured Course) -->
- 
- <li id="slide2">
+<!-- Slide Two -->
 
-<a href="http://gritgoing.umbc.edu/?p=660"><img src="images/featured/ANTH211.jpg" alt="Featured Course: Cultural Anthropology" target="_blank"></a>
+<li id="slide2">
 
-<div class="carousel-caption wordwrap">
+<a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus"><img src="images/food.jpg" alt="Where to Eat?" target="_blank"></a>
+
+<div class="carousel-caption-right wordwrap">
     
-<h3>Featured Course: Cultural Anthropology 
-(ANTH 211)</h3>
-<small>Spend the summer learning about what culture is and why different aspects of it exist!</small>
+<h3>Summer Dining Guide</h3>
+<small>Time for a break? Find our where and when to dine on campus this summer.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=660" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=660" target="_blank">Featured Course: Cultural Anthropology</a></p>
+<p id="captiontwo"><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" target="_blank">Where to Eat?</a></p>
           
 </li>
-          
-          
-<!-- END Slide Two -->
 
+<!-- END Slide Two --> 
 
 <!-- Slide Three -->
 
 <li id="slide3">
 
-<a href="csj.php"><img src="images/CSJ Web Carousel 2.png" alt="Culture & Social Justice" target="_blank"></a>
+<a href="events"><img src="images/events.jpg" alt="Summer Events" target="_blank"></a>
 
-<!--
 <div class="carousel-caption-right wordwrap">
     
-<h3>Culture & Social Justice</h3>
-<small></small>
+<h3>Summer Events</h3>
+<small>There's more to summer at UMBC than what happens in the classroom. Have fun, and be part of a dynamic learning community while you learn.</small>
             
-<p><a href="csj.php" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
--->
 
-<p id="captiontwo"><a href="csj.php" target="_blank">Culture & Social Justice</a></p>
+<p id="captiontwo"><a href="/summer/events" target="_blank">Summer Events</a></p>
           
 </li>
-          
-<!-- END Slide Three -->   
 
-<!-- END Slide Four -->   
+<!-- END Slide Three --> 
+
+<!-- Slide Four -->
 
 <li id="slide4">
 
-<a href="http://gritgoing.umbc.edu/?p=882"><img src="images/featured/JDST320.jpg" alt="Featured Course: Holocaust Literature" target="_blank"></a>
+<a href="academicsupport"><img src="images/tutoring.jpg" alt="Summer Tutoring" target="_blank"></a>
 
-<div class="carousel-caption wordwrap">
+<div class="carousel-caption-right wordwrap">
     
-<h3>Featured Course: Holocaust Literature 
-(JDST 320)</h3>
-<small>This summer, through mediums such as poetry, drama, and novels, grasp and understand the realities of the Holocaust.</small>
+<h3>Academic Support</h3>
+<small>The LRC will be offering tutoring for most Science and Math courses as well as for any Written Paper.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=882" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="academicsupport" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=882" target="_blank">Featured Course: Holocaust Literature</a></p>
+<p id="captiontwo"><a href="academicsupport" target="_blank">Academic Support</a></p>
           
 </li>
 
-<!-- END Slide Four -->   
+<!-- END Slide Four --> 
 
 </ul>
 
@@ -176,14 +171,12 @@
 	<dl class="eleven columns alpha">
 
 <br>    
-<h3><strong>Summer Session I Starts Soon!</strong></h3>
-<p>Summer Session I begins on <a href="importantdates" target="_blank">Tuesday, May 31</a>.<br><br>
-
-<strong>Current UMBC students</strong>: <a href="registrationtips" target="_blank">register today</a> and stay on track to graduate on time!</p>
+<h3><strong>Register today for Summer Session II</strong></h3>
+<p><strong>Current UMBC students</strong>: <a href="registrationtips" target="_blank">register today</a> and stay on track to graduate on time!</p>
   
-  <p><strong>Visiting students:</strong> <a href="applyundergraduate" target="_blank">apply</a> for Session I admission by <strong>May 25</strong>.<br>
+  <p><strong>Visiting students:</strong> <a href="applyundergraduate" target="_blank">apply</a> for Session II admission by <strong>July 6</strong>.<br>
   
-  <em>The last day visiting students can apply for Summer Session I admission is <strong>Wednesday, May 25</strong>.  The visiting student summer application is closed May 26 through June 1. <a href="visitingstudents" target="_blank">Visiting students</a> can apply for Session II admission June 2 through July 6.</em></p>
+  <em>Visiting students must first apply (and be admitted) to UMBC before registering for summer session courses.</em></p>
 
 
 	<h4><strong>May 31 – August 19</strong></h4>

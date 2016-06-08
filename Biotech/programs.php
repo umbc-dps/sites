@@ -76,10 +76,16 @@ $lang = 'en';
 
 <h4>Master's Programs</h4>
  <UL>
-   <li><a href="programmaster.php">Master's  in Professional Studies (M.P.S.): Biotechnology</a> (30 credits)</li>
+   <li><a href="programmaster.php">Master's  in Professional Studies (M.P.S.): Biotechnology</a>* (30 credits)<br>
+<em>* <a href="programmaster2">New core & track options</a> starting Fall 2016</em></li>
+ <ul>
+ 	<li>Regulatory Track</li>
+    <li>Bioprocessing Track</li>
+ </ul>
    <li><a href="http://biology.umbc.edu/grad/graduate-programs/apmb/" target="_blank">Master's of Science in Applied Molecular Biology</a> (31 credits)</li>
    <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your MS program.</li>
  </UL>
+
  
  <h4>Certificate Programs</h4>
  <UL>
@@ -88,7 +94,7 @@ $lang = 'en';
    <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your certificate program.</li>
  </UL>
  
- <!-- END Content -->
+<!-- END Content -->
 
   <div id="contents" style="display:none"></div>
 

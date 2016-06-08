@@ -174,7 +174,7 @@
 
   <footer id="site-footer" class="clearfix">
     <?php include("includes/footer.php"); ?>
-    <?php // include("includes/tracking.php"); ?>
+    <?php include("includes/tracking.php"); ?>
   </footer>
 </div>
 <!-- container --> 

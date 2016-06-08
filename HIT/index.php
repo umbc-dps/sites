@@ -84,7 +84,7 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="../rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
+<a href="../rsvp" target="_blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
 
 <div class="carousel-caption wordwrap">
 <h3>Professional Programs Info Session</h3>
@@ -92,7 +92,7 @@ $lang = 'en';
 
 <p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="../rsvp" target="blank">Professional Programs Info Session</a></p>
+<p id="captionthree"><a href="../rsvp" target="_blank">Professional Programs Info Session</a></p>
 
 </li>
    
@@ -119,19 +119,37 @@ $lang = 'en';
 
 <li id="slide2">
 
-<a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank"><img alt="img01" src="images/1.png"></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img alt="img01" src="images/6.png"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>New Program Director, Krystl Haerian</h3>
-<small>Dr. Haerian has over 12 years of medical, informatics, and public health experience in both academia and government and is a UMBC alumni.</small>
+<h3>Apply for Fall 2016</h3>
+<small>Apply by August 1st to Start in the Fall.</small>
 
-<p><a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" class="web-seemore" target="_blank">Read More</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionone"><a href="https://umbcinsights.wordpress.com/2015/01/28/umbcs-division-of-professional-studies-appoints-two-new-graduate-program-directors/" target="_blank">New Program Director, Krystl Haerian</a></p>
+<p id="captionone"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply for Fall 2016</a></p>
 
 </li>
 
 <!-- END Slide Three --> 
+
+<!-- Slide FOUR -->              
+
+<li id="slide3">
+
+<a href="faculty.php#tsai" target="_blank"><img alt="img01" src="images/HIT-Terry-Tsai.jpg"></a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>Meet Our Faculty: Terry Tsai</h3>
+<small>Classes taught by distinguished professionals.</small>
+
+<p><a href="faculty.php#tsai" class="web-seemore" target="_blank">Read More</a></p></div>
+
+<p id="captionone"><a href="faculty.php#tsai" target="_blank">Meet Our Faculty: Terry Tsai</a></p>
+
+</li>
+
+<!-- END Slide FOUR --> 
 
 <!-- SLIDE THREE --
 <li id="slide3">

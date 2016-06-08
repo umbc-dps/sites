@@ -81,11 +81,11 @@ $lang = 'en';
 
 <div class="carousel-caption-right wordwrap">
 <h3>Apply for Fall 2016</h3>
-<small>Apply by August 1 to start in Fall 2016.</small>  
+<small>Apply by August 1st to Start in Fall 2016.</small>  
           
 <p><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank" class="web-seemore">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply by August 1 for Fall</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank"></a>Apply for Fall 2016</p>
 
 </li>
 <!-- END SLIDE ONE --> 
@@ -106,6 +106,23 @@ $lang = 'en';
 
 </li>
 <!-- END SLIDE TWO -->  
+
+<!-- SLIDE THREE -->
+<li id="slide3">
+
+<a href="infosession"><img alt="img03" src="images/8.png"></a>
+
+<div class="carousel-caption wordwrap">
+<h3>Experience UMBC First-Hand</h3>
+<small>Attend the Geographic Information Systems Information Session on Tuesday, June 14, 2016.</small>  
+          
+<p><a href="infosession" class="web-seemore">RSVP Now</a></p></div>
+
+<p id="captionthree"><a href="infosession"></a>GIS Information Session</p>
+
+</li>
+
+<!-- END SLIDE THREE --> 
       
     </ul>
 
