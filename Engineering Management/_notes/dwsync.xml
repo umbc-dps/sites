@@ -9,7 +9,7 @@
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131068581195189834" remote="131068582380000000" Dst="2" />
 <file name="directions2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131068581195729888" remote="131068582380000000" Dst="2" />
 <file name="directions3.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131068581196299945" remote="131068582380000000" Dst="2" />
-<file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131098734207859211" remote="131098734210000000" Dst="2" />
+<file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131098762450000000" remote="131098762450000000" Dst="2" />
 <file name="faq.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131068581197230038" remote="131068582380000000" Dst="2" />
 <file name="infosession.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131068581198320147" remote="131068582380000000" Dst="2" />
 <file name="international.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131068581198700185" remote="131068582380000000" Dst="2" />
@@ -32,4 +32,5 @@
 <file name="contact2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131073783943744377" remote="131073785280000000" Dst="2" />
 <file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="130996104770000000" remote="131061515490000000" Dst="2" />
 <file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131078795391128072" remote="131078795630000000" Dst="2" />
+<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/engm/" local="131099591832320910" remote="131099591830000000" Dst="2" />
 </dwsync>

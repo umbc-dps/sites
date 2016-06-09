@@ -99,26 +99,26 @@ $lang = 'en';
 -- END SLIDE ONE -->
 
 
-<!-- SLIDE TWO --> 
+<!-- SLIDE ONE --> 
 
 <li id="slide1">
 
-<a href="../rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/8.png" alt="Apply for Fall 2016"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Info Session</h3>
-<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Apply for Fall 2016</h3>
+<small>Apply by August 1st to Start in the Fall.</small>
 
-<p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="../rsvp" target="blank">Professional Programs Info Session</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply for Fall 2016</a></p>
 
 </li>
+   
+<!-- END SLIDE ONE -->
 
-<!-- END SLIDE TWO --> 
 
-
-<!-- SLIDE THREE --> 
+<!-- SLIDE Two --> 
 
 <li id="slide2">
 
@@ -136,25 +136,25 @@ $lang = 'en';
 
 </li>
 
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE Two --> 
 
-<!-- SLIDE FOUR --> 
+<!-- SLIDE Three --> 
 
 <li id="slide3">
 
-<a href="faculty#mjones"><img src="images/jones.jpg" alt="Meet Our Faculty: Michelle Jones"/></a>
+<a href="faculty#jones"><img src="images/jones.jpg" alt="Meet Our Faculty: Michelle Jones"/></a>
 
 <div class="carousel-caption-right wordwrap">
 <h3>Meet Our Faculty: Michelle Jones</h3>
 <small>Jones has over 20 years of experience in various accounting management positions and is a Certified Public Accountant.</small>
 
-<p><a href="faculty#mjones" role="button" class="web-seemore">Read More</a></p></div>
+<p><a href="faculty#jones" role="button" class="web-seemore">Read More</a></p></div>
 
-<p id="captionthree"><a href="faculty#mjones">Meet Our Faculty: Michelle Jones</a></p>
+<p id="captionthree"><a href="faculty#jones">Meet Our Faculty: Michelle Jones</a></p>
 
 </li>
 
-<!-- END SLIDE FOUR --> 
+<!-- END SLIDE Three --> 
       
     </ul>
 

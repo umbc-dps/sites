@@ -105,7 +105,7 @@ $lang = 'en';
  </ul>
 
  <h4>Program Curriculum: </h4>
- <p><a href="programmaster" target="_blank">Newly Designed Biotechnology Core - Fall 2016</a></p>
+ <p><a href="programmaster2">Newly Designed Biotechnology Core - Fall 2016</a></p>
  <p>The M.P.S. Biotechnology is designed as an applied, terminal masters degree that incorporates science, regulatory and management courses. The M.P.S. curriculum includes 10 courses (30 credits) in three areas: Life Sciences, Bioregulatory Affairs, and Management. Both the science and the business courses must be taken in the sequences shown in the generic course schedule table below.</p>
 
  <h4>Newly designed Biotechnology core - Fall 2016   </h4>
