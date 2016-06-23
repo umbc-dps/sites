@@ -73,18 +73,19 @@
 
 <li id="slide1">
 
-<a href="http://gritgoing.umbc.edu/?p=922"><img src="images/featured/MLL220.jpg" alt="Featured Course: Film and Society in China" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=400"><img src="images/featured/PHIL152.png" alt="Featured Course: Introduction to Moral Theory" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: Film and Society in China (MLL 220)</h3>
-<small>Earn Culture GEP as you embark on a cinematic survey of China's last 100 years.</small>
+<h3>Featured Course:<br> Introduction to Moral Theory
+(PHIL 152)</h3>
+<small>Earn Arts and Humanities GEP as you enter the minds of Philosophers and discover their moral inquiries.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=922" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=400" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=922" target="_blank">Featured Course: Film and Society in China</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=400" target="_blank">Featured Course: Introduction to Moral Theory</a></p>
           
 </li>
 

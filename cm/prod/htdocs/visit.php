@@ -41,7 +41,8 @@
 p1 {
     line-height: 30px;
 }
-.extra{display:none}
+
+ul.ss-choices {padding-left:30px}
 
 .accordionbody { padding-top:5px; }
 .accordionbody img { padding: 0px 10px 5px 0px; width: 200px }
@@ -85,7 +86,7 @@ p1 {
     </div>
 <!-- END Page Header -->
 
-<div class="ten columns" style="min-height:775px">
+<div class="nine columns" style="min-height:700px">
   
 <!-- START Content -->
 <h3><a href="index"><img src="images/header3.png" alt="UMBC Alumni Newtworking Reception" style="width:100%"></a></h3>
@@ -105,7 +106,12 @@ p1 {
   <li>Graduate school selection and application assistance</li>
   <li>Most institutions recognize some or all of these credits</li>
 </ul>
-<br>
+
+
+<h3><strong>Schedule A Visit</strong></h3>
+<p>If you would like to learn more about the program, tour UMBC's new state-of-the-art performance and recording space, or meet with Graduate Program Director Dr. Lisa Cella in person, please fill out the form. Meetings are by appointment only.</p>
+
+
 <p>
 <div align="center"><strong>If you have any questions regarding the program, please contact <a href="mailto:americanmusicumbc@gmail.com">Dr. Lisa Cella</a><br> or visit the <a href="http://music.umbc.edu/degrees-certificates/american-contemporary-music/" target="_blank">website</a>.</strong></div></p>
 <br>
@@ -116,9 +122,10 @@ p1 {
 </div>
 
 <!-- SIDEBAR -->
-<aside class="six columns add-bottom" id="one">
+<aside class="seven columns add-bottom" id="one">
 <?php include("includes/sidebar.php"); ?>
 </aside>
+
 <!-- END SIDEBAR -->
 <!-- footer -->
 <br clear="all">

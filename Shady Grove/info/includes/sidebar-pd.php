@@ -108,7 +108,17 @@
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
 <select name="entry.865173428" id="entry_865173428" aria-label="Please select Visit with Undergraduate Program Director  " aria-required="true" required>
 <option value=""></option>
-<option value="Political Science - Wednesday, April 27: 12:00pm">Political Science - Wednesday, April 27: 12:00pm</option> <option value="Political Science - Wednesday, May 4: 12:00pm">Political Science - Wednesday, May 4: 12:00pm</option> 
+<option value="Political Science: Wednesday, September 7: 12:00pm">Political Science: Wednesday, September 7: 12:00pm</option> 
+<option value="Political Science: Wednesday, September 14: 12:00pm">Political Science: Wednesday, September 14: 12:00pm</option> 
+<option value="Political Science: Wednesday, September 21: 12:00pm">Political Science: Wednesday, September 21: 12:00pm</option> 
+<option value="Political Science: Wednesday, September 28: 12:00pm">Political Science: Wednesday, September 28: 12:00pm</option> 
+<option value="Political Science: Wednesday, October 5: 12:00pm">Political Science: Wednesday, October 5: 12:00pm</option> 
+<option value="Psychology: Thursday, July 21; 4:30pm">Psychology: Thursday, July 21; 4:30pm</option>
+<option value="Psychology: Wednesday, October 21: 4:30pm">Psychology: Wednesday, October 21: 4:30pm</option> 
+<option value="Psychology: Thursday, November 3: 12:00pm">Psychology: Thursday, November 3: 12:00pm</option> 
+<option value="Social Work: Tuesday, August 9; 5:30pm">Social Work: Tuesday, August 9; 5:30pm</option> 
+<option value="Social Work: Wednesday, September 21: 4:30pm">Social Work: Wednesday, September 21: 4:30pm</option> 
+<option value="Social Work: Wednesday, November 9: 12:30pm">Social Work: Wednesday, November 9: 12:30pm</option>
 </select>
 
 

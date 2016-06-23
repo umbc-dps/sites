@@ -8,7 +8,7 @@
 <file name="costs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131094409490000000" remote="131094409490000000" Dst="2" />
 <file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131068628180310828" remote="131068628270000000" Dst="2" />
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131068628181090828" remote="131068628270000000" Dst="2" />
-<file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131085774070000000" remote="131085774070000000" Dst="2" />
+<file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131103117320502244" remote="131103117320000000" Dst="2" />
 <file name="international.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131068628185670828" remote="131068628270000000" Dst="2" />
 <file name="masters.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131068627781130828" remote="131068627780000000" Dst="2" />
 <file name="orientation.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131068628187760828" remote="131068628270000000" Dst="2" />
@@ -19,4 +19,5 @@
 <file name="contact2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131068626630000000" remote="131068626630000000" Dst="2" />
 <file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130996104770000000" remote="131061576880000000" Dst="2" />
 <file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131078795455274486" remote="131078795600000000" Dst="2" />
+<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131109943199884066" remote="131109943200000000" Dst="2" />
 </dwsync>

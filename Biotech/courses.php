@@ -161,7 +161,7 @@ $lang = 'en';
           </div>
        
        <div class="accordionbody">
-       		<p><strong>Course description coming soon.</strong></p>
+       		<p>Introduction to the principals of industrial biotechnology.  This course focuses on the interaction of chemical engineering, biochemistry, and microbiology for the production of commercial products.  Key topics include process development design, risk assessment, an introduction to quality systems and product design.</p>
           </div>   
    
       <div class="accordionheader">
@@ -169,7 +169,7 @@ $lang = 'en';
           </div>
          
           <div class="accordionbody">
-       		<p><strong>Course description coming soon.</strong></p>
+       		<p>In depth study of quality control measures and the analytical tools used to monitor bioprocesses and establish and monitor product specifications.  The course aims to provide the student with working knowledge of product finishing techniques, design of stability studies, identification of degradation pathways and the use of statistical analyses.</p>
           </div> 
           
       <div class="accordionheader">
@@ -177,7 +177,7 @@ $lang = 'en';
           </div>
           
           <div class="accordionbody">
-       		<p><strong>Course description coming soon.</strong></p>
+       		<p>Bioseparation is the process of fractionating and purifying biological materials: DNA, proteins, living cells, antibiotics, biofuels, food ingredients, and biochemical among others.  This course covers separation methods used in the biotechnology industry, principles governing these methods, approaches to improving bioseparation performance, and the special challenges of scale-up. Key topics include techniques such as centrifugation, filtration, extraction, membrane methods, liquid-liquid separations, chromatography and electrophoresis. </p>
           </div>
    
 <div class="accordionheader">
@@ -222,7 +222,7 @@ $lang = 'en';
           </div>
           
           <div class="accordionbody">
-       		<p><strong>Course description coming soon.</strong></p>
+       		<p>An introduction to the principles and practices of clinical research.  The course focuses on the spectrum of clinical research and the research process by highlighting epidemiologic methods, study design, protocol preparation, patient monitoring, quality assurance, and Food and Drug Administration (FDA) issues.  Prerequisite: BTEC 660</p>
           </div> 
    
 <div class="accordionheader">

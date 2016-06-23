@@ -92,15 +92,15 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="../rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="blank"><img src="images/10.jpg" alt="Professional Programs Info Session"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Info Session</h3>
-<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Apply for Fall 2016</h3>
+<small>Apply by August 1st to Start in the Fall.</small>
 
-<p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="../rsvp" target="blank">Professional Programs Info Session</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="blank">Apply for Fall 2016</a></p>
 
 </li>
 

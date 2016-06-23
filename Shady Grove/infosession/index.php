@@ -90,7 +90,6 @@
 	</h4>
 
 	<p><br>
-	Thursday, June 16 - 5:30 PM  <br>
 	Saturday, July 16 - 12:30 PM  <br>
 	Tuesday, August 9 - 12:00 PM <br>
 	  <br>
@@ -113,17 +112,25 @@
           
 	<p>
     	<strong>Political Science:</strong><br>
-		Check back soon for additional opportunities.
+		Wednesday, September 7 - 12:00pm<br>
+		Wednesday, September 14 - 12:00pm<br>
+		Wednesday, September 21 - 12:00pm<br>
+		Wednesday, September 28 - 12:00pm<br>
+		Wednesday, October 5 - 12:00pm<br>
 	</p>
           
 	<p>
         <strong>Psychology:</strong><br>
-		Check back soon for additional opportunities.
+		Thursday, July 21 - 4:30PM<br>
+        Wednesday, October 12 - 4:30pm<br>
+		Thursday, November 3 - 12:00pm<br>
 	</p>
 
 	<p>
         <strong>Social Work:</strong><br>
-		Check back soon for additional opportunities.
+		Tuesday, August 8 - 5:30PM<br>
+        Wednesday, September 21 - 4:30pm <br>
+		Wednesday, November 9 - 12:30pm<br>
 	</p>
 
 	<p>

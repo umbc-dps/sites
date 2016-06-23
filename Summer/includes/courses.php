@@ -126,7 +126,7 @@ AGNG</td>
   <td class="course-title">Revolutionizing Aging</td>
   <td class="number"><a href="" class="course-link">1002</a></td>
   <td>6 Week</td>
-  <td>Session 2</td>
+  <td>Session 1</td>
   <td>Social Science (SS)</td>
   <td></td>
   <td>Off Campus</td>

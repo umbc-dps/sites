@@ -1,4 +1,8 @@
-  <div id="container-header">
+<!-- Edit to add Site-Wide Alert
+<div style="color:#FFF; font-weight: bold; padding:10px; background-color: #F00">UMBC's registration system will be unavailable from Friday, June 10, 2016 6:00 pm, through Sunday, June 12, 2016 5:00 pm for a system upgrade. Registration for Summer Session II will reopen on Sunday evening.  We apologize for any inconvenience. </div>
+-->
+
+ <div id="container-header">
   <!-- main container -->
     <header id="umbc-header">
     <!-- umbc header -->

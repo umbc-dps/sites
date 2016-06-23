@@ -121,7 +121,7 @@ B.S., Case Western Reserve University</p>
 
 
           <div class="accordionheader">
-            <h4><a id="a2" href="#broedel"></a>Sheldon Broedel<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="broedel" href="#broedel"></a>Sheldon Broedel<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -144,7 +144,7 @@ B.S., Case Western Reserve University</p>
 
 
           <div class="accordionheader">
-            <h4><a id="a3" href="#bustos"></a>Mauricio Bustos<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="bustos" href="#bustos"></a>Mauricio Bustos<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -161,7 +161,7 @@ B.S., Case Western Reserve University</p>
 
 
           <div class="accordionheader">
-            <h4><a id="a" href="#dudley"></a>Connie Dudley<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="dudley" href="#dudley"></a>Connie Dudley<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -174,7 +174,7 @@ B.S., Case Western Reserve University</p>
 
 
           <div class="accordionheader">
-            <h4><a id="a12" href="#marcia"></a>Marcia Federici<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="federici" href="#federici"></a>Marcia Federici<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -199,7 +199,7 @@ B.S., Case Western Reserve University</p>
 
 
           <div class="accordionheader">
-            <h4><a id="a5" href="#gouker"></a>Toby Gouker<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="gouker" href="#gouker"></a>Toby Gouker<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -225,7 +225,7 @@ B.S., Case Western Reserve University</p>
           </div>
 
           <div class="accordionheader">
-            <h4><a id="maccarthy2" href="#mjones"></a>Michelle Jones<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="jones" href="#jones"></a>Michelle Jones<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -235,18 +235,18 @@ B.S., Case Western Reserve University</p>
             M.S., Accounting and Business Advisory Services, Towson University and University of Baltimore</p>
 
 
-            <p>Michelle Jones has over 20 years of experience in various accounting management positions. Currently, she serves as the Corporate Controller of ASG Security, a Top-10 U.S. Security Company based in Beltsville, Maryland. In her role, she is responsible for overseeing the day-to-day accounting and financial reporting activities.&nbsp; She manages all aspects of ASG’s financial, bank and tax audits, and works closely with the CFO on acquisitions and other financial matters, in addition to managing a staff of seven in the Corporate Accounting and the Accounting Operations groups. Since starting with ASG in 2011, Ms. Jones has successfully rebuilt the accounting team helping to streamline the financial reporting process and successfully managing all aspects of the company’s annual financial statement and semi-annual bank audits.</p>
+            <p>Michelle Jones has over 20 years of experience in various accounting management positions. Currently, she serves as the Corporate Controller of ASG Security, a Top-10 U.S. Security Company based in Beltsville, Maryland. In her role, she is responsible for overseeing the day-to-day accounting and financial reporting activities. She manages all aspects of ASG’s financial, bank and tax audits, and works closely with the CFO on acquisitions and other financial matters, in addition to managing a staff of seven in the Corporate Accounting and the Accounting Operations groups. Since starting with ASG in 2011, Ms. Jones has successfully rebuilt the accounting team helping to streamline the financial reporting process and successfully managing all aspects of the company’s annual financial statement and semi-annual bank audits.</p>
 
 
             <p>From 2008 to 2011, Ms. Jones served as Controller of CBS Radio in Washington, DC, where she was responsible for all accounting functions for five radio stations, including financial reporting, budgeting and forecasting, payroll, human resources, accounts payable and receivables, and credit and collections. While at CBS, Ms. Jones prepared the annual revenue and expense budgets and participated on several tactical initiatives, including the re-launch of the HFStival music concert. Previously, Ms. Jones served for 16 years at The Baltimore Sun holding various accounting positions. While at The Baltimore Sun, Ms. Jones assisted in a financial reporting and general ledger software conversion, helped develop and completed Sarbanes-Oxley documentation and testing matrices and developed compensation plans used in labor union negotiations.</p>
 
-            <p>Ms. Jones holds a B.S. in Business from the University of Baltimore, and a joint M.S. in Accounting and Business Advisory Services from Towson University and the University of Baltimore.&nbsp; She is also a Certified Public Accountant (CPA).</p>
+            <p>Ms. Jones holds a B.S. in Business from the University of Baltimore, and a joint M.S. in Accounting and Business Advisory Services from Towson University and the University of Baltimore. She is also a Certified Public Accountant (CPA).</p>
 
           </div>
 
 
           <div class="accordionheader">
-            <h4><a id="maccarthy3" href="#kk"></a>Keith R. Kirkwood<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="kirkwood" href="#kirkwood"></a>Keith R. Kirkwood<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -268,7 +268,7 @@ B.S., Case Western Reserve University</p>
 
 
           <div class="accordionheader">
-            <h4><a id="a7" href="#moreira"></a>Antonio Moreira<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="moreira" href="#moreira"></a>Antonio Moreira<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -294,16 +294,17 @@ B.S., Case Western Reserve University</p>
           </div>
 
       <div class="accordionheader">
-            <h4><a id="a9" href="#powell"></a>Jonathan Powell<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="powell" href="#powell"></a>Jonathan Powell<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
           <div class="accordionbody">
-                        <p><strong>Graduate Faculty</strong><br>
-<img alt="Jonathan Powell" src="images/faculty/umbc-faculty-Jonathan-Powell.jpg" align="left">MBA, University of Maryland<br>
-B.S., Systems Engineering, U.S. Naval Academy<br>
-            <br>
-            Jonathan Powell, a Senior Program Manager for CACI, has over two decades of leadership experience both in industry and through service in the U.S. Navy. In his current position, he leads large complex software development efforts for the U.S. Army. Previously, Mr. Powell was a Project Executive for IBM&rsquo;s Corporate Global Pandemic Strategy Task Force.  His other assignments at IBM included leadership roles on software implementations for various Federal Civilian and Classified organizations.  During this time he also achieved IBM certifications as a Senior Project Manager and Java Platform Enterprise Edition (J2EE) Designer.  As an officer in the Navy, Mr. Powell was a Submariner as well as a Regional Director for Admissions at the U.S. Naval Academy.</p>
+                        <p><strong>Graduate Faculty</strong>
+<img alt="Jonathan Powell" src="images/faculty/umbc-faculty-Jonathan-Powell.jpg" align="left"></p>
+<p>MBA, University of Maryland<br>
+B.S., Systems Engineering, U.S. Naval Academy</p>
+            
+            <p>Jonathan Powell, a Senior Program Manager for CACI, has over two decades of leadership experience both in industry and through service in the U.S. Navy. In his current position, he leads large complex software development efforts for the U.S. Army. Previously, Mr. Powell was a Project Executive for IBM&rsquo;s Corporate Global Pandemic Strategy Task Force.  His other assignments at IBM included leadership roles on software implementations for various Federal Civilian and Classified organizations.  During this time he also achieved IBM certifications as a Senior Project Manager and Java Platform Enterprise Edition (J2EE) Designer.  As an officer in the Navy, Mr. Powell was a Submariner as well as a Regional Director for Admissions at the U.S. Naval Academy.</p>
                         <p>Mr. Powell received his Bachelor of Science in Systems Engineering from the U.S. Naval Academy and his M.B.A. from the University of Maryland. He also holds several advanced certificates, including a Master&rsquo;s Certificate in Project Management from George Washington University, Project Management Professional (PMP), Certified Government Financial Manager (CGFM), and the Cyber Security credential Security+.  Mr. Powell&rsquo;s written work has been featured in numerous publications, including the magazines <em>PM Network</em> and <em>Contract Management</em>, respectively, as well as the journal <em>CrossTalk</em>. </p>
                         <p>In 2015, Mr. Powell was appointed to the Maryland Cybersecurity Council by the State Attorney General.</p>
                         <p>You can view Mr. Powell&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/in/gonavy" target="_blank">here</a>. </p>
@@ -311,16 +312,18 @@ B.S., Systems Engineering, U.S. Naval Academy<br>
           </div>
 
           <div class="accordionheader">
-            <h4><a id="a9" href="#ramos"></a>Irina Ramos<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="ramos" href="#ramos"></a>Irina Ramos<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
           <div class="accordionbody">
-                        <p><strong>Graduate Faculty</strong><br>
-<img alt="Irina Ramos" src="images/faculty/faculty-ramos.png" align="left">B.S., Chemical Engineering, University of Oporto<br>
-       Ph.D., Chemical and Biochemical Engineering, University of Maryland, Baltimore County <br>
-            <br>
-            Irina Ramos has over 7 years of experience in Biopharmaceutical Downstream Processing Development. As Scientist in MedImmune’s Purification Process Sciences department in Gaithersburg, MD, she manages downstream process development and optimization, scale up, technology transfer activities into cGMP manufacturing to supply clinical trials and contributes to regulatory submissions.</p>
+                        <p><strong>Graduate Faculty</strong>
+<img alt="Irina Ramos" src="images/faculty/faculty-ramos.png" align="left"></p>
+
+<p>B.S., Chemical Engineering, University of Oporto<br>
+       Ph.D., Chemical and Biochemical Engineering, University of Maryland, Baltimore County</p>
+           
+           <p>Irina Ramos has over 7 years of experience in Biopharmaceutical Downstream Processing Development. As Scientist in MedImmune’s Purification Process Sciences department in Gaithersburg, MD, she manages downstream process development and optimization, scale up, technology transfer activities into cGMP manufacturing to supply clinical trials and contributes to regulatory submissions.</p>
 
             <p>Dr. Ramos received her B.S. in Chemical Engineering from the University of Oporto, School of Engineering and her Ph.D. in Chemical and Biochemical Engineering from UMBC. She primarily teaches BTEC 653.</p>
 
@@ -329,16 +332,18 @@ B.S., Systems Engineering, U.S. Naval Academy<br>
 </div>
 
           <div class="accordionheader">
-            <h4><a id="a9" href="#wood"></a>Timothy Wood<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="wood" href="#wood"></a>Timothy Wood<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
           <div class="accordionbody">
-                        <p><strong>Graduate Faculty</strong><br>
-<img alt="Timothy Wood" src="images/faculty/umbc-faculty-Timothy-Wood.gif" align="left">B.S., Biochemistry,Grove CityCollege<br>
-            Ph.D., Molecular and Cellular Biology, UMBC<br>
-            <br>
-            Timothy Wood is currently employed at the Walter Reed Army Medical Center as supervisor of the Department of Clinical Investigation, Research Operations Service Chemistry Section. His work is diverse and includes a variety of interests involving basic, translational, and applied chemistry research. His principal strengths include conducting collaborative and independent research using microbiological, molecular biology, structural biology and biochemistry techniques with significant experience in gene cloning, transcription regulation, recombinant protein expression, purification, and characterization through mutational analysis, functional assays and troubleshooting.</p>
+                        <p><strong>Graduate Faculty</strong>
+<img alt="Timothy Wood" src="images/faculty/umbc-faculty-Timothy-Wood.gif" align="left"></p>
+
+<p>B.S., Biochemistry,Grove CityCollege<br>
+            Ph.D., Molecular and Cellular Biology, UMBC</p>
+            
+            <p>Timothy Wood is currently employed at the Walter Reed Army Medical Center as supervisor of the Department of Clinical Investigation, Research Operations Service Chemistry Section. His work is diverse and includes a variety of interests involving basic, translational, and applied chemistry research. His principal strengths include conducting collaborative and independent research using microbiological, molecular biology, structural biology and biochemistry techniques with significant experience in gene cloning, transcription regulation, recombinant protein expression, purification, and characterization through mutational analysis, functional assays and troubleshooting.</p>
 
 
             <p>Dr. Wood&rsquo;s previous research experience includes training and post-doctoral work in macromolecular crystallography at The Scripps Research Institute (TSRI) and The Skaggs Institute of Chemical Biology located in La Jolla, California. While at TSRI, Wood&rsquo;s primary focus was on understanding the chemical mechanism of chromophore synthesis of Green Fluorescent Protein (GFP). He also worked on bacterial proteins involved in bacterial stress responses and pathogenesis. Wood&rsquo;s interest in bacterial pathogenesis began in graduate school at UMBC where he studied gene regulation under Dr. Richard E. Wolf, Jr.</p>
@@ -355,15 +360,17 @@ B.S., Systems Engineering, U.S. Naval Academy<br>
 
 
           <div class="accordionbody">
-            <p><strong>Graduate Faculty</strong><br>
-<img alt="ZIEGLER" src="images/faculty/umbc-faculty-James-Ziegler.gif" align="left">B.S., Accounting, Towson University<br>
+            <p><strong>Graduate Faculty</strong>
+<img alt="ZIEGLER" src="images/faculty/umbc-faculty-James-Ziegler.gif" align="left"></p>
+
+<p>B.S., Accounting, Towson University<br>
             M.B.A., Loyola College</p>
 
 
             <p>James Ziegler, a financial officer with 25 years of experience, is currently employed at Mid-Atlantic Sports Network (MASN) in Baltimore, MD. In his current position, Mr. Ziegler manages a staff of seven professionals and is responsible for all facets of Accounting, Financial Reporting, Cash Management, Human Resources and Traffic related activities. During his tenure at MASN, he has successfully implemented a five year business plan and assisted in the network achieving its short and long term financial goals.</p>
 
-
-            <p>Mr. Ziegler holds a B.S. in Accounting from Towson University and a M.B.A. with a Finance Concentration from Loyola College. He is also a Certified Public Accountant (CPA).&nbsp;</p>
+            <p>Mr. Ziegler holds a B.S. in Accounting from Towson University and a M.B.A. with a Finance Concentration from Loyola College. He is also a Certified Public Accountant (CPA).</p>
+            
           </div>
            <!-- END Content -->
 

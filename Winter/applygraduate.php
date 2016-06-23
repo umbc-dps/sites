@@ -20,6 +20,7 @@
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
+<link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
@@ -33,6 +34,32 @@
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 </head>
+
+<style type="text/css">
+div.accordionheader{background-color: #ffdda0;}
+.accordionheader {color:#000; margin-top:8px; text-align: left;}
+.accordionbody
+.accordionbody ul li {list-style:square}
+.accordionheader:hover{cursor:pointer}
+
+i { 
+	float:right;
+	padding:5px;
+    -webkit-transition:all 300ms ease-in 0s;
+    -moz-transition: all 300ms ease-in 0s;
+    -o-transition: all 300ms ease-in 0s;
+	transition: all 300ms ease-in 0s;}
+
+.ui-state-active i {
+    color: #000;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.accordionheader h4{font-size:12pt; padding:5px; line-height:14pt}
+</style>
 
 <body>
 
@@ -61,15 +88,19 @@
     <!-- Page Title -->
         <h2>Application Process for Graduate Students</h2>
     <!-- END Page Title -->    
+    <div id="accordion">  
       <div class="content">
       
      <!-- Start Content -->
      
 <p>Applicants are strongly encouraged to apply online in lieu of using a paper
-application, as online applications are processed quicker (and cost less). Apply by December 21. </p>
+application, as online applications are processed quicker (and cost less). Apply by December 19. </p>
 
-<h4>Apply online</h4>
+<div class="accordionheader">
+  <h4>Apply online<i class="fa fa-angle-down"></i></h4>
+</div>
 
+ <div class="accordionbody">
 <ul>
   <li>
     <a href="http://gradschool.umbc.edu/admissions/apply" target=
@@ -94,10 +125,13 @@ application, as online applications are processed quicker (and cost less). Apply
   "_blank">application fee</a> of $50 is required to apply online.
   </li>
 </ul>
+</div>
 
+<div class="accordionheader">
+  <h4>Submit a paper application<i class="fa fa-angle-down"></i></h4>
+</div>
 
-<h4>Submit a paper application</h4></p>
-
+ <div class="accordionbody">
 <ul>
   <li>Prospective graduate students may also <a href=
   "http://gradschool.umbc.edu/students/forms/"
@@ -117,13 +151,20 @@ application, as online applications are processed quicker (and cost less). Apply
     Baltimore, MD 21250
   </li>
 </ul>
+</div>
 
-<h4>Notification of admission decisions</h4>
+<div class="accordionheader">
+  <h4>Notification of admission decisions<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
 
 <ul>
   <li>UMBC sends admission decisions to the e-mail address you provide on your
   application.</li>
 </ul>
+</div>
+</div>
             <!-- END Content -->
             
         <div id="dotcontainer"></div>
@@ -139,6 +180,7 @@ application, as online applications are processed quicker (and cost less). Apply
    
   </div>
 </div>
+
   <footer id="site-footer" class="clearfix">
     <?php include("includes/footer.php"); ?>
     <?php include("includes/tracking.php"); ?>
@@ -147,9 +189,25 @@ application, as online applications are processed quicker (and cost less). Apply
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
  
-<script src="js/scripts.js"></script> 
-<script src="js/jquery.magnific-popup.js"></script>
-<script src="js/popup.js"></script> 
+<script src="includes/scripts.js"></script> 
+
+<script>
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+$('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+</script> 
 
  
 </body>

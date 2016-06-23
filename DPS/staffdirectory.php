@@ -502,6 +502,12 @@ BEGIN MAIN
       <td valign="top"><p>&nbsp;</p></td>
     </tr>
     <tr>
+          <td valign="top"><p><strong>Thornton, Dunia</strong><br>
+          <strong>Title</strong>: Payroll Accounting Associate<br>
+          <strong>Unit</strong>: Finance and Administration<br>
+          <strong>Location</strong>: Sherman Hall 484<br>
+          <strong>Phone</strong>: 56730<br>
+          <strong>E-Mail</strong>: <a href="mailto:dkambo1@umbc.edu">dkambo1@umbc.edu</a></p></td>
       <td valign="top"><p><strong>Waters, Ashley</strong><br>
           <strong>Title</strong>: Associate Director<br>
           <strong>Unit</strong>: Shady Grove Programs <br>
@@ -514,19 +520,20 @@ BEGIN MAIN
           <strong>Location</strong>: UC 206<br>
           <strong>Phone</strong>: 53662 <br>
           <strong>E-Mail</strong>: <a href="mailto:vweese1@umbc.edu">vweese1@umbc.edu</a></p></td>
-      <td valign="top"><p><strong>Williams, Greg </strong><br>
+
+    </tr>
+    <tr>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td bgcolor="#CCCCCC"><p><strong>Williams, Greg </strong><br>
           <strong>Title</strong>: Director and Clinical Professor<br>
           <strong>Unit</strong>: ISD<br>
           <strong>Location</strong>: South Campus<br>
           <strong>Phone</strong>: 35447<br>
           <strong>E-Mail</strong>: <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
       <td bgcolor="#CCCCCC"><p><strong>Williams, Rita </strong><br>
           <strong>Title</strong>: Program Coordinator<br>
           <strong>Unit</strong>: K-12<br>
@@ -538,8 +545,7 @@ BEGIN MAIN
           <strong>Unit</strong>: Finance and Administration <br>
           <strong>Location</strong>: Sherman Hall 485 <br>
           <strong>Phone</strong>: 55566<br>
-          <strong>E-Mail</strong>: <a href="mailto:deyoung@umbc.edu">deyoung@umbc.edu</a></p></td>
-      <td bgcolor="#CCCCCC"><p>&nbsp;</p></td>
+          <strong>E-Mail</strong>: <a href="mailto:deyoung@umbc.edu">deyoung@umbc.edu</a></p></td>      
       </tr>
   </table>
   <hr>

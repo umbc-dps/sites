@@ -716,29 +716,29 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_blank"><img src="images/why.png" alt=""/></a>
+<a href="http://www.umbc.edu/summer" target="_blank"><img src="images/summer2.png" alt=""/></a>
 
 
 <h3 style="line-height:normal; font-size:17pt">
-Programs focused on the future for professionals focused on theirs!
+There is still time - Summer Session II
 </h3>
 
 
 <div class="boxleft" style="width:60%">
 
-  <h6 style="font-size:14pt; margin:0px; line-height:17pt">Learn more about our Cybersecurity and GIS programs at our Summer Information Sessions! </h6>
+  <h6 style="font-size:14pt; margin:0px; line-height:17pt">Summer session II classes begin on July 11 - Grit going this summer and check out the schedule of classes. </h6>
   </div><!-- end boxleft nested div -->
 
 
 
 
 	<div class="boxright">
-<a href="http://www.umbc.edu/shadygrove/info/gradinfosession.php" target="_blank" style="text-decoration:none">
+<a href="http://www.umbc.edu/summer" target="_blank" style="text-decoration:none">
 <div class="button" style="height:auto; line-height:10pt; vertical-align:middle;">
 
 <br>
 
-RSVP
+Schedule
 <br><br>
 
 
@@ -884,22 +884,25 @@ RSVP
 <br>
 
 <a href="http://www.umbc.edu/shadygrove/cyber/infosession">Cybersecurity Info Session</a><br>
-<small>June 14, 2016, 
-6:00 - 7:30 p.m. </small>
+<small>Check back soon for additional opportunities. </small>
 <br><br>
 <a href="http://www.umbc.edu/shadygrove/gis/infosession">Geographic Information Systems Info Session</a><br>
-<small>June 14, 2016, 
-6:00 - 7:30 p.m. </small>
+<small>Check back soon for additional opportunities. </small>
 </td>
     <td valign="top">
     
     <a href="http://www.umbc.edu/shadygrove/info/uginfosession.php"><br>
       Undergraduate Info Session</a><br> 
-<small>May 20, 2016 - Aug. 9, 2016<br>
-(Various Dates)</small><br>
+<small>Sat, July 16 - 
+Tues, Aug 9<br>
+(Various Dates)</small>
+<br>
 <br>
 <a href="http://www.umbc.edu/shadygrove/info/ugprogramdirectors.php">Visit with Undergraduate Program Directors</a><br>
-<small>Check back soon for additional opportunities.</small> </td>
+<small>Thurs, July 21 - 
+Wed, Nov 9<br>
+(Various Dates)
+</small></td>
   </tr>
   </table>
 </div>

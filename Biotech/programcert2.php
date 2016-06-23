@@ -97,10 +97,10 @@ $lang = 'en';
  <h4>Certificate Curriculum</h4>
  <p>This certificate requires four courses. The courses may be taken in any sequence. However, it is recommended that students take ENCH 660: Regulatory Issues in Biotechnogy first.</p>
  <ul>
-   <li>BTEC/ENCH 660: <a href="http://www.umbc.edu/biotech/courses.html#660">Regulatory Issues in Biotechnology</a> [3]</li>
-   <li>BTEC/ENCH 662: <a href="http://www.umbc.edu/biotech/courses.html#662">Good Manufacturing Practices for Bioprocesses</a> [3]</li>
-   <li>ENCH 664: <a href="http://www.umbc.edu/engm/courses.html#bi">Quality Control and Quality Assurance for Biotechnology Products</a> [3]</li>
-   <li>ENCH 666: <a href="http://www.umbc.edu/courses.html#bi">Design, Construction, and Validation of GMP Biotechnology Facilities</a> [3]</li>
+   <li>BTEC/ENCH 660: <a href="http://www.umbc.edu/biotech/courses.php#660">Regulatory Issues in Biotechnology</a> [3]</li>
+   <li>BTEC/ENCH 662: <a href="http://www.umbc.edu/biotech/courses.php#662">Good Manufacturing Practices for Bioprocesses</a> [3]</li>
+   <li>ENCH 664: <a href="http://www.umbc.edu/engm/courses#bi">Quality Control and Quality Assurance for Biotechnology Products</a> [3]</li>
+   <li>ENCH 666: <a href="http://www.umbc.edu/engm/courses#bi">Design, Construction, and Validation of GMP Biotechnology Facilities</a> [3]</li>
  </ul>
    
  

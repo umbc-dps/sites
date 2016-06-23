@@ -3,11 +3,11 @@ Check back soon for additional opportunities.
 </h5>
 
 <h5 class="socialwork">
-Check back soon for additional opportunities.
+Tuesday, August 8 - 5:30PM
 </h5>
   
 <h5 class="psych">
-Check back soon for additional opportunities.
+Thursday, July 21 - 4:30PM
 </h5>
 
 <h5 class="history">

@@ -69,18 +69,18 @@
 
 <li id="slide1">
 
-<a href="http://gritgoing.umbc.edu/?p=922"><img src="images/featured/MLL220.jpg" alt="Featured Course: Film and Society in China" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=959"><img src="images/featured/amst375.jpg" alt="Featured Course: Studies in Asian American Culture" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course: Film and Society in China (MLL 220)</h3>
-<small>Earn Culture GEP as you embark on a cinematic survey of China's last 100 years.</small>
+<h3>Featured Course: Studies in Asian American Culture (AMST 375)</h3>
+<small>This summer, explore the cultural contributions of Asians in the U.S. through literature and film.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=922" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=959" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=922" target="_blank">Featured Course: Film and Society in China</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=959" target="_blank">Featured Course: Studies in Asian American Culture</a></p>
           
 </li>
 
@@ -155,64 +155,46 @@
 
 <li id="slide5">
 
-<a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus"><img src="images/food.jpg" alt="Where to Eat?" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=936"><img src="images/featured/afst340.jpg" alt="Featured Course: African Drumming and Dance" target="_blank"></a>
 
-<div class="carousel-caption-right wordwrap">
+<div class="carousel-caption wordwrap">
     
-<h3>Summer Dining Guide</h3>
-<small>Time for a break? Find our where and when to dine on campus this summer.</small>
+<h3>Featured Course:<br> African Drumming &amp; Dance 
+(AFST 340)</h3>
+<small>Take part in a workshop that teaches the techniques and significance of West African drumming this summer.</small>
             
-<p><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=936" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" target="_blank">Where to Eat?</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=936" target="_blank">Featured Course: African Drumming and Dance</a></p>
           
 </li>
 
 <!-- END Slide Five --> 
 
-<!-- Slide Six -->
+<!-- Slide Five -->
 
-<li id="slide6">
+<li id="slide5">
 
-<a href="/summer/events"><img src="images/events.jpg" alt="Summer Events" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=400"><img src="images/featured/PHIL152.png" alt="Featured Course: Introduction to Moral Theory" target="_blank"></a>
 
-<div class="carousel-caption-right wordwrap">
+<div class="carousel-caption wordwrap">
     
-<h3>Summer Events</h3>
-<small>There's more to summer at UMBC than what happens in the classroom. Have fun, and be part of a dynamic learning community while you learn.</small>
+<h3>Featured Course:<br> Introduction to Moral Theory
+(PHIL 152)</h3>
+<small>Earn Arts and Humanities GEP as you enter the minds of Philosophers and discover their moral inquiries.</small>
             
-<p><a href="/summer/events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="http://gritgoing.umbc.edu/?p=400" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="/summer/events" target="_blank">Summer Events</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=400" target="_blank">Featured Course: Introduction to Moral Theory</a></p>
           
 </li>
 
-<!-- END Slide Six --> 
+<!-- END Slide Five --> 
 
-<!-- Slide Seven -->
-
-<li id="slide7">
-
-<a href="/summer/tutoring"><img src="images/tutoring.jpg" alt="Summer Tutoring" target="_blank"></a>
-
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Summer Tutoring</h3>
-<small>The LRC will be offering tutoring for most Science and Math courses as well as for any Written Paper.</small>
-            
-<p><a href="/summer/tutoring" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="/summer/tutoring" target="_blank">Summer Tutoring</a></p>
-          
-</li>
-
-<!-- END Slide Seven --> 
 
 </ul>
 

@@ -21,8 +21,8 @@
   <a href="#morales">Lorena Morales</a>, Social Work<br>
   <a href="#noy">Ashley Noy</a>, Psychology<br>
   <a href="#reyes">Cindy Reyes</a>, Social Work<br>
-<a href="#runnings">Alexandra "Alex" Runnings</a>, History<br>
-<a href="#sandoval">Camilla  Sandoval</a>, History<br>
+  <a href="#runnings">Alexandra "Alex" Runnings</a>, History<br>
+  <a href="#sandoval">Camilla  Sandoval</a>, History<br>
   <a href="#sasu">Samuel Sasu</a>, Political Science<br>
   <a href="#sorto">Katy Sorto</a>, Social Work<br>
   <a href="#tshimuna">Beya "Benny" Tshimuna</a>, Political Science<br>

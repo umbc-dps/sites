@@ -1,4 +1,4 @@
-<aside class="six columns add-bottom" id="one">
+
 <h3 style="color:#fff;">Request Information</h3>
 <p>
 <script type="text/javascript">
@@ -106,6 +106,40 @@ style="display:none;" onload="if(submitted)
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
 <input type="text" name="entry.380502110" rows="7" cols="0" class="ss-q-long" id="entry_380502110" dir="auto" aria-label="What is your current or most recent college or institution?  " title="">
 <div class="error-message" id="2111875643_errorMessage"></div>
+
+
+
+<div class="ss-form-question errorbox-good extra" role="listitem">
+<div dir="auto" class="ss-item  ss-select"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_15083692"><div class="ss-q-title">Choose a Visit Time
+</div>
+<div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
+<select name="entry.15083692" id="entry_15083692" aria-label="Choose a Visit Time  "><option value=""></option>
+<option value="Monday, June 27 - 10:30AM">Monday, June 27 - 10:30AM</option> <option value="Monday, June 27 - 11:30AM">Monday, June 27 - 11:30AM</option> <option value="Monday, June 27 - 12:30PM">Monday, June 27 - 12:30PM</option> <option value="Tuesday, June 28 - 10:30AM">Tuesday, June 28 - 10:30AM</option> <option value="Tuesday, June 28 - 11:30AM">Tuesday, June 28 - 11:30AM</option> <option value="Tuesday, June 28 - 12:30PM">Tuesday, June 28 - 12:30PM</option> <option value="Wednesday, June 29 - 10:30AM">Wednesday, June 29 - 10:30AM</option> <option value="Wednesday, June 29 - 11:30AM">Wednesday, June 29 - 11:30AM</option> <option value="Wednesday, June 29 - 12:30PM">Wednesday, June 29 - 12:30PM</option> <option value="Tuesday, July 19 - 10:30AM">Tuesday, July 19 - 10:30AM</option> <option value="Tuesday, July 19 - 11:30AM">Tuesday, July 19 - 11:30AM</option> <option value="Tuesday, July 19 - 12:30PM">Tuesday, July 19 - 12:30PM</option> <option value="Thursday, July 21 - 10:30AM">Thursday, July 21 - 10:30AM</option> <option value="Thursday, July 21 - 11:30AM">Thursday, July 21 - 11:30AM</option> <option value="Thursday, July 21 - 12:30PM">Thursday, July 21 - 12:30PM</option> <option value="Friday, July 22 - 10:30AM">Friday, July 22 - 10:30AM</option> <option value="Friday, July 22 - 11:30AM">Friday, July 22 - 11:30AM</option> <option value="Friday, July 22 - 12:30PM">Friday, July 22 - 12:30PM</option></select>
+</div></div></div> 
+
+<br>
+
+
+<div class="ss-form-question errorbox-good extra" role="listitem">
+<div dir="auto" class="ss-item  ss-checkbox"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_2100286358"><div class="ss-q-title">Check all that apply:
+</div>
+<div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
+
+<ul class="ss-choices" role="group" aria-label="  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1140196621" value="I would like to receive a Follow Up Call" id="group_1140196621_1" role="checkbox" class="ss-q-checkbox"></span>
+<span class="ss-choice-label">I would like to receive a Follow Up Call</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1140196621" value="I would like to tour the new Performing Arts Building" id="group_1140196621_2" role="checkbox" class="ss-q-checkbox"></span>
+<span class="ss-choice-label">I would like to tour the new Performing Arts Building</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1140196621" value="I would like to meet with Program Director, Lisa Cella" id="group_1140196621_3" role="checkbox" class="ss-q-checkbox"></span>
+<span class="ss-choice-label">I would like to meet with Program Director, Lisa Cella</span>
+</label></li></ul>
+<div class="error-message" id="2100286358_errorMessage"></div>
+</div></div></div>
+
+
+
+
 <div class="ss-q-title">Comments:
 </div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
@@ -132,4 +166,3 @@ H5F.setup(document.getElementById('ss-form'));
 </form>
 
 </p>
-</aside>

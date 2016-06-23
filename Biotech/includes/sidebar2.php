@@ -61,9 +61,9 @@ Fall 2016 Application Deadline: August 1
         <dd>30 - Master’s<br />
           12 - Certificate </dd>
         <dt>Tuition &amp; Fees (MD Resident)</dt>
-        <dd>$733 per credit</dd>
+        <dd>$711 per credit</dd>
         <dt>Tuition &amp; Fees (Non-MD Resident)</dt>
-        <dd>$1127 per credit</dd>
+        <dd>$1094 per credit</dd>
 
 
         <dt>Start Date</dt>
@@ -81,7 +81,7 @@ Fall 2016 Application Deadline: August 1
 
   <p>
     
-    <form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'contact_us');">
+    <form action="process.php" method="post" id="dpsform">
     
     <div id="sidebar-contact">
     </div>

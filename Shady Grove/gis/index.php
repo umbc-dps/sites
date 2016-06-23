@@ -107,22 +107,23 @@ $lang = 'en';
 </li>
 <!-- END SLIDE TWO -->  
 
-<!-- SLIDE THREE -->
+<!-- Slide THREE -->    
+
 <li id="slide3">
 
-<a href="infosession"><img alt="img03" src="images/8.png"></a>
-
+<a href="https://www.youtube.com/watch?v=RqTlAsIl_gM" class="video"><img src="images/Gabriel-Barroni.jpg" alt="UMBC Alumnus Profile: Gabriel Barroni"/></a>
 <div class="carousel-caption wordwrap">
-<h3>Experience UMBC First-Hand</h3>
-<small>Attend the Geographic Information Systems Information Session on Tuesday, June 14, 2016.</small>  
-          
-<p><a href="infosession" class="web-seemore">RSVP Now</a></p></div>
+<h3>UMBC Alumnus Profile: Gabriel Barroni</h3>
+<small>Barroni credits the cutting edge technology and skills learned at UMBC for his success in delivering high end projects to clients.</small>
 
-<p id="captionthree"><a href="infosession"></a>GIS Information Session</p>
+<p><a href="https://www.youtube.com/watch?v=RqTlAsIl_gM" class="web-seemore video">Watch Now</a></p></div>
+
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=RqTlAsIl_gM" class="video">UMBC Alumnus Profile: Gabriel Barroni</a></p>
 
 </li>
 
 <!-- END SLIDE THREE --> 
+
       
     </ul>
 

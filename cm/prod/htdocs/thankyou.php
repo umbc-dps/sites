@@ -34,6 +34,9 @@
 	width: 100%;
 	height: 100%;
 }
+
+.extra{display:none}
+
 .accordionbody { padding-top:5px; }
 .accordionbody img { padding: 0px 10px 5px 0px; width: 200px }
 .accordionbody ul{ margin-left:25px; }
@@ -94,9 +97,9 @@ or visit the <a href="http://music.umbc.edu/degrees-certificates/american-contem
 </div>
 
 <!-- SIDEBAR -->
-
+<aside class="six columns add-bottom" id="one">
 <?php include("includes/sidebar.php"); ?>
-
+</aside>
 <!-- END SIDEBAR -->
 <!-- footer -->
 <br clear="all">
