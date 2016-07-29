@@ -132,7 +132,7 @@ $lang = 'en';
               <p><strong>Dr. Krystl Haerian</strong><br>
               Graduate Program Director<br>
               <a href="mailto:krystl.haerian@umbc.edu">krystl.haerian@umbc.edu</a><br>
-              410-455-3935</p>
+              410-455-6716</p>
             </td>
           </tr>
         </table>

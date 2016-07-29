@@ -89,7 +89,7 @@ $lang = 'en';
  <p>When a student is admitted the department will e-mail the advising and registration instructions. If you have misplaced your e-mail please contact Renee Eisenhuth, program coordinator, at <a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a>.</p>
  <p>After registering online, be sure to review the <a href="textbooks">Textbooks and Materials</a> page for your course(s). (More than one semester may be listed at a time. Please make sure you are viewing the correct semester.)</p>
  <h4>Academic Integrity Web-Based Tutorial</h4>
- <p>New graduate students admitted into a Master&rsquo;s or certificate program must complete the <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=360#academic-integrity">Academic Integrity Web-Based Tutorial</a>.  The Tutorial must be completed by the second week of the semester you were admitted.</p>
+ <p>New graduate students admitted into a Master&rsquo;s or certificate program must complete the <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=360#academic-integrity">Academic Integrity Web-Based Tutorial</a>.  The Tutorial must be completed by the second week of the semester you were admitted. Save your completion page at the end.</p>
  <h4>Student Business Services</h4>
  <p><a href="http://sbs.umbc.edu">Student Business Services</a> (SBS) is the office that bills students, collects tuition and fees and issues student refunds. They process student payments, tuition remission, and post payments to student accounts from outside agencies.</p>
  <p>Review their website for helpful information including E-billing information, how to make online payments, and tuition information including the drop and withdraw refund schedule.</p>

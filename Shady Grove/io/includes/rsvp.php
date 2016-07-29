@@ -54,7 +54,7 @@
 
 <h4>Dates</h4>
 <ul>
-<li class="io"><strong>I/O Psych Information Session</strong> | Tuesday, January 19, 2016 6:00PM - 7:15PM</li>
+<li class="io"><strong>I/O Psych Information Session</strong> | Wednesday, October 19, 2016 6:00PM - 7:30PM</li>
 <li class="gis"><strong>GIS  Information Session</strong> | Tuesday, June 14, 2016 6:00PM - 7:15PM</li>
 <li class="cyber"><strong>Cybersecurity Information Session </strong>| Tuesday, June 14, 2016 6:00PM - 7:15PM </li>
 </ul>
@@ -64,6 +64,7 @@
 The Universities at Shady Grove<br>
 <span class="cyber">Building III (Camille Kendall Academic Center)​ Room 2230​<br></span>
 <span class="gis">Building III (Camille Kendall Academic Center)​ Room 2206​<br></span>
+<span class="io">Building III (Camille Kendall Academic Center) Room 3241<br></span>
 <a href="https://www.google.com/maps?saddr&daddr=9630+Gudelsky+Drive,+Rockville,+MD+20850&btnG=Search">9636 Gudelsky Drive, Rockville, Maryland 20850</a></p>
 
 <p>For a campus map, directions and parking information, visit: <a href="http://shadygrove.umd.edu/about/visit" target="_blank">http://shadygrove.umd.edu/about/visit</a></p>
@@ -72,55 +73,46 @@ The Universities at Shady Grove<br>
 </div>
 
 <div class="ss-required-asterisk" aria-hidden="true">* Required</div></div></div>
-<div class="ss-form">
-<form action="https://docs.google.com/forms/d/1yMnGItWQjPSeKMklmyidmWFLKY2a5jo_3NvzvQj-GUc/formResponse" method="POST" id="ss-form" target="_self" onsubmit="ga('send', 'event', 'lead', 'submit', 'infosession'); trackConversionEvent('0.00','USD'); fbq('track', 'CompleteRegistration');">
-
+<div class="ss-form"><form action="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLSd58XSZD8qmgzjSKB7BwFiysRVHBqHYCNAzKao2ReZwJFaxbQ/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0;">
 <div class="ss-form-question errorbox-good" role="listitem">
-<div dir="auto" class="ss-item ss-item-required ss-text">
-<div class="ss-form-entry">
-<label class="ss-q-item-label" for="entry_2">
-<div class="ss-q-title">First Name
+<div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_2"><div class="ss-q-title">First Name
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<input type="text" name="entry.2" value="" class="ss-q-short" id="entry_2" dir="auto" aria-label="First Name  " aria-required="true" required="" title="">
+<input type="text" name="entry.2" value="" class="ss-q-short" id="entry_2" dir="auto" aria-label="First Name " aria-required="true" required="" title="">
 <div class="error-message" id="1001_errorMessage"></div>
 
 </div></div></div> 
 
 <div class="ss-form-question errorbox-good" role="listitem">
-<div dir="auto" class="ss-item ss-item-required ss-text">
-<div class="ss-form-entry">
-<label class="ss-q-item-label" for="entry_3">
-<div class="ss-q-title">Last Name
+<div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_3"><div class="ss-q-title">Last Name
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<input type="text" name="entry.3" value="" class="ss-q-short" id="entry_3" dir="auto" aria-label="Last Name  " aria-required="true" required="" title="">
+<input type="text" name="entry.3" value="" class="ss-q-short" id="entry_3" dir="auto" aria-label="Last Name " aria-required="true" required="" title="">
 <div class="error-message" id="1002_errorMessage"></div>
 
-</div></div></div> 
+</div></div></div>
 
 <div class="ss-form-question errorbox-good" role="listitem">
-<div dir="auto" class="ss-item ss-item-required ss-text">
-<div class="ss-form-entry">
-<label class="ss-q-item-label" for="entry_4">
-<div class="ss-q-title">E-Mail Address
+<div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_4"><div class="ss-q-title">E-Mail Address
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<input type="text" name="entry.4" value="" class="ss-q-short" id="entry_4" dir="auto" aria-label="E-Mail Address  " aria-required="true" required="" title="">
+<input type="text" name="entry.4" value="" class="ss-q-short" id="entry_4" dir="auto" aria-label="E-Mail Address " aria-required="true" required="" title="">
 <div class="error-message" id="1003_errorMessage"></div>
 
-</div></div></div> 
+</div></div></div>
 
 <div class="ss-form-question errorbox-good" role="listitem">
-<div dir="auto" class="ss-item  ss-text">
-<div class="ss-form-entry">
+<div dir="auto" class="ss-item ss-text"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_5"><div class="ss-q-title">Phone
 </div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<input type="text" name="entry.5" value="" class="ss-q-short" id="entry_5" dir="auto" aria-label="Phone  " title="">
+<input type="text" name="entry.5" value="" class="ss-q-short" id="entry_5" dir="auto" aria-label="Phone " title="">
 <div class="error-message" id="1004_errorMessage"></div>
 
 </div></div></div> 
@@ -131,18 +123,12 @@ The Universities at Shady Grove<br>
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.6" id="entry_6" aria-label="Choose a Session  " aria-required="true" required>
-<option value=""></option>
-<option class="io" value="I/O Psychology Information Session - January 19, 2016, 6 - 7:30PM">I/O Psychology Information Session - January 19, 2016, 6 - 7:30PM</option> 
-<option  class="cyber" value="Cybersecurity Information Session - June 14, 2016 6:00PM - 7:15PM">Cybersecurity Information Session - June 14, 2016 6:00PM - 7:15PM</option> 
-<option  class="gis" value="GIS Information Session - June 14, 2016 6:00PM - 7:15PM">GIS Information Session - June 14, 2016 6:00PM - 7:15PM</option></select>
-</div></div></div>
+<select name="entry.6" id="entry_6" aria-label="Choose a Session " aria-required="true" required=""><option value=""></option>
+<option value="GIS &nbsp;Information Session - June 14, 2016 6:00PM - 7:15PM">GIS  Information Session - June 14, 2016 6:00PM - 7:15PM</option> <option value="Cybersecurity Information Session - June 14, 2016 6:00PM - 7:15PM">Cybersecurity Information Session - June 14, 2016 6:00PM - 7:15PM</option> <option value="I/O Psych Information Session - Wednesday, October 19, 2016 6:00PM - 7:30PM">I/O Psych Information Session - Wednesday, October 19, 2016 6:00PM - 7:30PM</option></select>
 
-<input type="hidden" name="draftResponse" value="[,,&quot;1125396641394831692&quot;]
+<input type="hidden" name="draftResponse" value="[,,&quot;-3250447620442312080&quot;]
 ">
 <input type="hidden" name="pageHistory" value="0">
-<input type="hidden" name="fvv" value="0">
-<input type="hidden" name="fbzx" value="1125396641394831692">
 
 <div class="ss-item ss-navigate">
 
@@ -150,7 +136,7 @@ The Universities at Shady Grove<br>
 <input type="submit" name="submit" value="RSVP" id="ss-submit" class="jfk-button jfk-button-action">
 
 
-</div>
+</div></div></div></div>
 
 
 <script type='text/javascript' src='/static/forms/client/js/1359958175-formviewer_prd.js'></script>

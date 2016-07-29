@@ -80,7 +80,7 @@ $lang = 'en';
       <h3>Program Costs</h3>
 
 
-      <h4>Tuition and Fees for 2015 - 2016 Academic Year</h4>
+      <h4>Tuition and Fees for 2016 - 2017 Academic Year</h4>
 
 
       <p>Breakdown of tuition and fees for a student taking one (three-credit) course:</p>
@@ -88,37 +88,33 @@ $lang = 'en';
 
       <table id="costs">
         <tr>
-          <th>&nbsp;</th>
-
-          <th>Maryland Resident</th>
-
-          <th>Non-Maryland Resident</th>
+          <td>&nbsp;</td>
+          <td>Maryland    Resident</td>
+          <td>Non-Maryland    Resident</td>
         </tr>
-
-
         <tr>
-          <td><strong>Tuition</strong><br>
+          <td>Tuition<br>
             MD resident: $603 per credit<br>
             Non-Maryland resident: $997 per credit</td>
           <td>$1,821 </td>
           <td>$2,991 </td>
         </tr>
         <tr>
-          <td><strong>Mandatory    Fees:</strong></td>
-          <td><strong>Full-Time <br>
-            Student</strong></td>
-          <td><strong>Part-Time <br>
-            Student:</strong></td>
+          <td>Mandatory    Fees:</td>
+          <td>Part-Time <br>
+            Student:</td>
+          <td>Full-Time <br>
+            Student</td>
         </tr>
         <tr>
-          <td>Shady Grove    Auxiliary Facilities Fee</td>
-          <td>$366 Flat fee</td>
-          <td>$20 per credit hour</td>
+          <td>Auxiliary    Facilities Fee*</td>
+          <td>$20.40 per credit    hour</td>
+          <td>$183 per semester</td>
         </tr>
         <tr>
-          <td>Facilities    Flat fee</td>
-          <td>$40 </td>
-          <td>$20 </td>
+          <td>Facilities    Flat fee*</td>
+          <td>$10 per semester</td>
+          <td>$20 per semester</td>
         </tr>
         <tr>
           <td>Technology Fee</td>

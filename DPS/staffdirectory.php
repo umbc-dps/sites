@@ -149,15 +149,15 @@ BEGIN MAIN
       <td width="35%" valign="top"><p><strong>Barker, Joyce</strong><br>
         <strong>Title</strong>: Office Supervisor III <br>
         <strong>Unit</strong>: ELI<br>
-        <strong>Location</strong>:             UC 207<br>
+        <strong>Location</strong>: UC 207<br>
         <strong>Phone</strong>: 52827<br>
         <strong>E-Mail</strong>: <a href="mailto:jbarker@umbc.edu">jbarker@umbc.edu</a><br>
       </p></td>
       <td width="31%" valign="top"><p><strong>Bateman, Carol</strong><br>
           <strong>Title</strong>: <br>
           <strong>Unit</strong>: <br>
-          <strong>Location</strong>: UC 207<br>
-          <strong>Phone</strong>: <br>
+          <strong>Location</strong>: Sherman Hall 445<br>
+          <strong>Phone</strong>: 58607<br>
           <strong>E-Mail</strong>: <a href="mailto:cbateman1@umbc.edu">cbateman1@umbc.edu</a></p></td>
       <td width="34%" valign="top"><p><strong>Cardona, Dennise</strong><br>
           <strong>Title</strong>: Assistant Director<br>
@@ -285,7 +285,7 @@ BEGIN MAIN
       <td bgcolor="#CCCCCC"><p> <strong>Glover, Joshua </strong><br>
         <strong>Title</strong>: IT Coordinator <br>
         <strong>Unit</strong>: IT<br>
-        <strong>Location</strong>: Sherman Hall 475<br>
+        <strong>Location</strong>: Sherman Hall 472<br>
         <strong>Phone</strong>: 54731<br>
         <strong>E-Mail</strong>: <a href="mailto:jglove1@umbc.edu">jglove1@umbc.edu</a></p></td>
       <td bgcolor="#CCCCCC"><p><strong>Haerian, Krystl</strong><br>
@@ -319,7 +319,7 @@ BEGIN MAIN
           <strong>Location</strong>: Sherman Hall 444<br>
           <strong>Phone</strong>: 51244<br>
           <strong>E-Mail</strong>: <a href="mailto:ajones9@umbc.edu">ajones9@umbc.edu</a></p></td>
-      <td valign="top"><p><strong>Jones,&nbsp;Elizabeth </strong><br>
+      <td valign="top"><p><strong>Jones, Elizabeth </strong><br>
           <strong>Title</strong>: Associate Vice Provost <br>
           <strong>Unit</strong>: Summer, Winter &amp; Special Programs<br>
           <strong>Location</strong>: Sherman Hall 454<br>
@@ -412,7 +412,7 @@ BEGIN MAIN
           <strong>Title</strong>: Program Management Specialist<br>
           <strong>Unit</strong>: ELI<br>
           <strong>Location</strong>: UC 207<br>
-          <strong>Phone</strong>: 52831<br>
+          <strong>Phone</strong>: 52328<br>
           <strong>E-Mail</strong>: <a href="mailto:jpenn@umbc.edu">jpenn@umbc.edu</a></p></td>
           
             </tr>
@@ -451,58 +451,64 @@ BEGIN MAIN
       <td bgcolor="">&nbsp;</td>
     </tr>
     <tr>
+      <td valign="top"><p><strong>Sagan, Ella</strong><br>
+          <strong>Title</strong>: Accounting Associate<br>
+          <strong>Unit</strong>: Finance and Administration<br>
+          <strong>Location</strong>: Sherman Hall 457<br>
+          <strong>Phone</strong>: 51782 <br>
+          <strong>E-Mail</strong>: <a href="mailto:esagan@umbc.edu">esagan@umbc.edu</a></p></td>
       <td valign="top"><p><strong>Sarangoulis, Lindsey</strong><br>
-        <strong>Title</strong>: Program Specialist <br>
-        <strong>Unit</strong>: Summer, Winter &amp; Special Programs <br>
-        <strong>Location</strong>: Sherman Hall 455<br>
-        <strong>Phone</strong>: 51672 <br>
-        <strong>E-Mail</strong>: <a href="mailto:lindseys@umbc.edu">lindseys@umbc.edu</a></p></td>
+          <strong>Title</strong>: Program Specialist <br>
+          <strong>Unit</strong>: Summer, Winter &amp; Special Programs <br>
+          <strong>Location</strong>: Sherman Hall 455<br>
+          <strong>Phone</strong>: 51672 <br>
+          <strong>E-Mail</strong>: <a href="mailto:lindseys@umbc.edu">lindseys@umbc.edu</a></p></td>
       <td valign="top"><p><strong>Scheidegger, Caitlin</strong><br>
           <strong>Title</strong>: Academic Program Specialist <br>
           <strong>Unit</strong>: Shady Grove Programs<br>
           <strong>Location</strong>: Shady Grove<br>
           <strong>Phone</strong>: 301-738-6081<br>
           <strong>E-Mail</strong>: <a href="mailto:cscheid1@umbc.edu">cscheid1@umbc.edu</a></p></td>
-      <td valign="top"><p><strong>Shedon, Ryan</strong><br>
-          <strong>Title</strong>: <br>
+    </tr>
+    <tr>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td bgcolor="#CCCCCC"><p><strong>Shedon, Ryan</strong><br>
+          <strong>Title</strong>: Assistant Director for Student Services<br>
           <strong>Unit</strong>: ELI<br>
           <strong>Location</strong>: UC 207<br>
-          <strong>Phone</strong>: <br>
+          <strong>Phone</strong>: 51516<br>
           <strong>E-Mail</strong>: <a href="mailto:sheldo1@umbc.edu">sheldo1@umbc.edu</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
       <td bgcolor="#CCCCCC"><p><strong>Steele, Christopher</strong><br>
-          <strong>Title</strong>: Interim Vice Provost &amp;<br> 
-          Interim Executive Director, The Shriver Center<br>
-          <strong>Unit</strong>: DPS<br>
-          <strong>Location</strong>: Sherman Hall 471<br>
-          <strong>Phone</strong>: 56841<br>
-          <strong>E-Mail</strong>: <a href="mailto:csteele@umbc.edu">csteele@umbc.edu</a></p></td>
+          <strong>Title</strong>: Interim Vice Provost &amp;<br>
+Interim Executive Director, The Shriver Center<br>
+<strong>Unit</strong>: DPS<br>
+<strong>Location</strong>: Sherman Hall 460<br>
+<strong>Phone</strong>: 56841<br>
+<strong>E-Mail</strong>: <a href="mailto:csteele@umbc.edu">csteele@umbc.edu</a></p></td>
       <td bgcolor="#CCCCCC"><p><strong>Stone, Bridget </strong><br>
           <strong>Title</strong>: Associate Director<br>
           <strong>Unit</strong>: Finance &amp; Administration<br>
-          <strong>Location</strong>: Sherman Hall 472<br>
+          <strong>Location</strong>: Sherman Hall 458<br>
           <strong>Phone</strong>: 58490 <br>
           <strong>E-Mail</strong>: <a href="mailto:bstone1@umbc.edu">bstone1@umbc.edu</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Sutton, Samantha</strong><br>
-          <strong>Title</strong>: Accounting Associate<br>
-          <strong>Unit</strong>: Finance and Administration<br>
-          <strong>Location</strong>: ACIV B 483<br>
-          <strong>Phone</strong>: 52297<br>
+    </tr>
+    <tr>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+    </tr>
+    <tr>
+          <td valign="top"><p><strong>Sutton, Samantha</strong><br>
+              <strong>Title</strong>: Accounting Associate<br>
+              <strong>Unit</strong>: Finance and Administration<br>
+              <strong>Location</strong>: ACIV B 483<br>
+              <strong>Phone</strong>: 52297<br>
           <strong>E-Mail</strong>: <a href="mailto:sutton@umbc.edu">sutton@umbc.edu</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-          <td valign="top"><p><strong>Thornton, Dunia</strong><br>
+      <td valign="top"><p><strong>Thornton, Dunia</strong><br>
           <strong>Title</strong>: Payroll Accounting Associate<br>
           <strong>Unit</strong>: Finance and Administration<br>
           <strong>Location</strong>: Sherman Hall 484<br>
@@ -514,12 +520,6 @@ BEGIN MAIN
           <strong>Location</strong>: Shady Grove  Rm.4159<br>
           <strong>Phone</strong>: 301-738-6175<br>
           <strong>E-Mail</strong>: <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a></p></td>
-      <td valign="top"><p><strong>Weese, Vanessa</strong><br>
-          <strong>Title</strong>: Program Manager<br>
-          <strong>Unit</strong>: ELI<br>
-          <strong>Location</strong>: UC 206<br>
-          <strong>Phone</strong>: 53662 <br>
-          <strong>E-Mail</strong>: <a href="mailto:vweese1@umbc.edu">vweese1@umbc.edu</a></p></td>
 
     </tr>
     <tr>
@@ -528,6 +528,12 @@ BEGIN MAIN
       <td valign="top"><p>&nbsp;</p></td>
     </tr>
     <tr>
+      <td bgcolor="#CCCCCC"><p><strong>Weese, Vanessa</strong><br>
+          <strong>Title</strong>: Program Manager<br>
+          <strong>Unit</strong>: ELI<br>
+          <strong>Location</strong>: UC 206<br>
+          <strong>Phone</strong>: 53662 <br>
+          <strong>E-Mail</strong>: <a href="mailto:vweese1@umbc.edu">vweese1@umbc.edu</a></p></td>
       <td bgcolor="#CCCCCC"><p><strong>Williams, Greg </strong><br>
           <strong>Title</strong>: Director and Clinical Professor<br>
           <strong>Unit</strong>: ISD<br>
@@ -539,14 +545,23 @@ BEGIN MAIN
           <strong>Unit</strong>: K-12<br>
           <strong>Location</strong>: ACIV-A 209<br>
           <strong>Phone</strong>: 56579<br>
-          <strong>E-Mail</strong>: <a href="mailto:ritaw@umbc.edu">ritaw@umbc.edu</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Young, Deidre </strong><br>
-          <strong>Title</strong>: Financial Transaction   Supervisor <br>
-          <strong>Unit</strong>: Finance and Administration <br>
-          <strong>Location</strong>: Sherman Hall 485 <br>
-          <strong>Phone</strong>: 55566<br>
-          <strong>E-Mail</strong>: <a href="mailto:deyoung@umbc.edu">deyoung@umbc.edu</a></p></td>      
+          <strong>E-Mail</strong>: <a href="mailto:ritaw@umbc.edu">ritaw@umbc.edu</a></p></td>      
       </tr>
+    <tr>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td><strong>Young, Deidre </strong><br>
+        <strong>Title</strong>: Financial Transaction   Supervisor <br>
+        <strong>Unit</strong>: Finance and Administration <br>
+        <strong>Location</strong>: Sherman Hall 485 <br>
+        <strong>Phone</strong>: 55566<br>
+        <strong>E-Mail</strong>: <a href="mailto:deyoung@umbc.edu">deyoung@umbc.edu</a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
   </table>
   <hr>
   <table width="100%" border="0" cellpadding="0" cellspacing="0">

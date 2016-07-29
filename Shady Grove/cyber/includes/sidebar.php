@@ -4,14 +4,6 @@
 
 
    <p style="text-align:center">
-   <strong>Cybersecurity Information Session</strong><br>
-   <small> Tuesday, June 14, 2016 6:00 - 7:15pm</small><br>
-<a href="infosession" class="btn">RSVP</a>
-   </p>
-   
-   <hr>
-   
-   <p style="text-align:center;margin-top:-15px">
    <strong>Fall 2016 Orientation</strong><br>
    <small> Thursday, August 18, 2016 6:00 - 7:15pm</small><br>
 <a href="../student/grad-orientation" class="btn">RSVP</a>

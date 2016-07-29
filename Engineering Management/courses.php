@@ -160,13 +160,11 @@ $lang = 'en';
  </div>
  
 <div class="accordionheader">
-            <h4><a href="#ENMG661" id="ENMG660"></a>ENMG 661: Leading Virtual/Global Teams<i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#ENMG661" id="ENMG660"></a>ENMG 661: Leading Virtual Global Teams<i class="fa fa-angle-down"></i></h4>
 </div>
 
           <div class="accordionbody">
-            <p>
-   This completely online course is designed to help the student apply managerial concepts and skills to managing and leading virtual and/or global work teams. Geographically dispersed work teams have great challenges to overcome such as time zones, audio communications access, language and cultural differences.   		      Students will learn to empower others, build credibility, communicate appropriately and adapt quickly across cultures and technologies. 
- </p>
+            <p>This course is designed to help the student apply managerial concepts and skills to managing and leading virtual and/or global work teams. Geographically dispersed work teams have great challenges: tone is difficult to convey electronically, time zones limit audio communication opportunities, work oversight requires more reposting, and team building is exceedingly difficult using technological - rather than in-person - tools. Language and culture differences in multinational teams compound these challenges. Students will learn to empower others, build credibility, communicate appropriately and adapt quickly across cultures and technologies.</p>
 </div>
 
 

@@ -3,9 +3,7 @@
     <li>
       <a href="index.php">Home</a>
     </li>
-
-
-
+    
     <li>
       <a href="#">Program Info</a>
 
@@ -23,11 +21,23 @@
         </li>
       </ul>
     </li>
+    
     <li><a href="costs.php">Tuition &amp; Fees</a></li>
 
     <li>
+      <a href="#">Faculty</a>
+      
+      <ul class="sub-menu">
+      <li>
       <a href="faculty.php">Faculty</a>
+      </li>
+      <li>
+      <a href="advisoryboard.php">Advisory Board</a>
+      </li>  
+      </ul> 
+      
     </li>
+    
     <li>
       <a href="#">How to Apply</a>
 

@@ -110,7 +110,7 @@ style="display:none;" onload="if(submitted)
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.1878571973" id="entry_1878571973" aria-label="Program of Interest   " aria-required="true" required=""><option value=""></option>
+<select name="entry.1878571973" id="entry_1878571973" aria-label="Program of Interest   " aria-required="true" required><option value=""></option>
 <option value="History">History</option> <option value="Social Work">Social Work</option> <option value="Psychology">Psychology</option> <option value="Political Science">Political Science</option></select>
 </div></div></div>
 
@@ -122,14 +122,14 @@ style="display:none;" onload="if(submitted)
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.598360070" id="entry_598360070" aria-label="Anticipated Start Date  " aria-required="true" required="">
+<select name="entry.598360070" id="entry_598360070" aria-label="Anticipated Start Date  " aria-required="true" required>
 <option value=""></option>
-<option value="Spring 2016">Spring 2016</option> 
-<option value="Fall 2016">Fall 2016</option> 
 <option value="Spring 2017">Spring 2017</option> 
 <option value="Fall 2017">Fall 2017</option> 
 <option value="Spring 2018">Spring 2018</option> 
-<option value="Fall 2018">Fall 2018</option> <option value="Unsure">Unsure</option></select>
+<option value="Fall 2018">Fall 2018</option> 
+<option value="Spring 2019">Spring 2019</option> 
+<option value="Unsure">Unsure</option></select>
 
 </div></div></div> 
 
@@ -143,7 +143,7 @@ style="display:none;" onload="if(submitted)
 <div class="ss-q-help ss-secondary-text" dir="auto"></div>
 </label>
 
-<select name="entry.606452499" id="entry_606452499" aria-label="How did you hear about UMBC-Shady Grove?  " aria-required="true" required=""><option value=""></option>
+<select name="entry.606452499" id="entry_606452499" aria-label="How did you hear about UMBC-Shady Grove?  " aria-required="true" required><option value=""></option>
 <option value="Email">Email</option> 
 <option value="Transfer Fair">Transfer Fair</option> 
 <option value="Class Visit">Class Visit</option> 

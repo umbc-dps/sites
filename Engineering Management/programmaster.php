@@ -123,7 +123,7 @@ $lang = 'en';
 </ul>
 <p style="font-style:italic">* Courses marked with an asterisk can be counted as either a management elective or technical elective.</p>
 
- <h4>Courses for Engineering and Information Technology Specializations</h4>
+ <h4 id="specializations">Courses for Engineering and Information Technology Specializations</h4>
  <p>Before enrolling in any courses in  Engineering, Computer Science, or Information Technology specializations, students should ensure that they meet the prerequisites for the course or receive permission from the course instructor. In addition, students should consult with the Engineering Management Graduate Program Director to ensure selected courses meet  program requirements.</p>
 
 <p>To achieve technical depth in a discipline, students are encouraged to take <strong>four</strong> courses from one of the following specializations. However, students may take courses from multiple specializations.</p>

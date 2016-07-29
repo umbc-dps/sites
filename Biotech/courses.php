@@ -112,7 +112,7 @@ $lang = 'en';
 </p>
    </div>
 <div class="accordionheader">
-  <h4><a href="#653" id="653"></a>BTEC 653: Princials of Upstream Processing [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#653" id="653"></a>BTEC 653: Principals of Upstream Processing [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -216,6 +216,14 @@ $lang = 'en';
           <div class="accordionbody">
             <p>This course teaches the fundamentals of management and managerial leadership and communication. Managers juggle operations, finance, information technology, strategy, and projects, yet much of their success depends less on their own direct input than on their ability to enlist the active involvement of others: direct reports, other managers, other team members, and those above them on the organizational chart. It is imperative, therefore, that managers be adept at influencing those over whom they have no formal authority as well as guiding and directing those who report to them.  </p>
    </div>
+   
+   <div class="accordionheader">
+  <h4><a href="#666" id="666"></a>ENCH 666: Design, Construction, and Validation of GMP Biotechnology Facilities [3]</h4>
+          </div>
+          
+          <div class="accordionbody">
+       		<p>Presents an in-depth discussion of the engineering design of a biotech facility under GMP compliance. Topics covered include bulk plant design, process equipment design, utilities, instrumentation, controls and computerization, facility and software validation.</p>
+          </div> 
    
 <div class="accordionheader">
   <h4><a href="#668" id="668"></a>BTEC 668: Clinical Trials: Design &amp; Management [3]</h4>

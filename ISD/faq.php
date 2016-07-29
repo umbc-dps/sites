@@ -135,13 +135,9 @@ h4{font-weight:normal !important; font-size:10pt}
 </div>
 
 
-<div class="accordionheader">
-            <h4><a href="" id=""></a>Can I take both online <EM>and</EM> on-campus   courses?<i class="fa fa-angle-down"></i></h4>
-</div>
-
 
 <div class="accordionheader">
-            <h4><a href="" id=""></a>What kind of   computer and technical skills do I need for the program?<i class="fa fa-angle-down"></i></h4>
+            <h4><a href="" id=""></a>What kind of computer and technical skills do I need for the program?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 
@@ -529,7 +525,7 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 
 
 <div class="accordionheader">
-            <h4><a href="" id=""></a>I'm having probles registering<i class="fa fa-angle-down"></i>, what do I do?</h4>
+            <h4><a href="" id=""></a>I'm having problems registering<i class="fa fa-angle-down"></i>, what do I do?</h4>
 </div>
 
 

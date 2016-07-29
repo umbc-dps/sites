@@ -27,7 +27,7 @@ td{padding:8px}
     <body>
     
      <h3 class="title">Contact Us</h3>
-     	<form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'contact_us');">
+     	<form action="process.php" method="post" id="dpsform">
  		<div id="sidebar-contact"></div>
         
         <table id="contact2">

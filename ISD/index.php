@@ -81,48 +81,28 @@ $lang = 'en';
     <ul>
     
     
-<!-- SLIDE ONE -->    
-
-<li id="slide1">
-
-<a href="../rsvp" target="blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
-
-<div class="carousel-caption wordwrap">
-<h3>Professional Programs Info Session</h3>
-<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
-
-<p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
-
-<p id="captionthree"><a href="../rsvp" target="blank">Professional Programs Info Session</a></p>
-
-</li>
-      
-<!-- END SLIDE ONE -->
-      
-
-<!-- Slide Two -->  
+<!-- Slide One -->  
             
-      <li id="slide2">
-     
-                <a href="forum"><img alt="img02" src="images/current/2.jpg"></a>
+     <li id="slide1">
+        <a href="https://www.youtube.com/watch?v=p72CdFotxwU" class="video"><img alt="img01" src="images/Dr.-Greg-Williams-Keynote.jpg"></a>
 
         <div class="carousel-caption wordwrap">
-          <h3>ISD Now Forums</h3>
-          <small>Watch videos and see photos from our annual forums.</small>
+          <h3>Dr. Greg Williams Keynote Speech</h3>
+          <small>Listen to ISD Program Director, Dr. Greg Williams, speech at CCBC's Faculty Conference in June 2016.</small>
 
-          <p><a href="forum" class="btn video">Learn More</a></p>
+          <p><a href="https://www.youtube.com/watch?v=p72CdFotxwU" class="btn video">Listen Now</a></p>
         </div>
 
-        <p id="captiontwo">
-          <a href="forum">ISD Now Forums</a>
+        <p id="captionone">
+          <a href="https://www.youtube.com/watch?v=p72CdFotxwU" class="video">Greg Williams Keynote Speech</a>
         </p>
       </li>
  
-<!-- END Slide Two -->  
+<!-- END Slide One -->  
 
 
-<!-- SLIDE THREE -->    
-      <li id="slide3">
+<!-- SLIDE TWO -->    
+      <li id="slide2">
         <a href="https://www.youtube.com/playlist?list=PL0Y9Sng2cxe3khim43_NElKhk8tCRUw5i"><img alt="img01" src="images/4.jpg"></a>
 
         <div class="carousel-caption wordwrap">
@@ -136,11 +116,11 @@ $lang = 'en';
           <a href="https://www.youtube.com/playlist?list=PL0Y9Sng2cxe3khim43_NElKhk8tCRUw5i">Hear From Our Alumni</a>
         </p>
       </li>
-<!-- END SLIDE THREE -->
+<!-- END SLIDE TWO -->
 
 
-<!-- SLIDE TWO --
-      <li id="slide2">
+<!-- SLIDE THREE --
+      <li id="slide3">
         <a href="http://isdnow.umbc.edu/?p=757"><img alt="img02" src="images/2.jpg"></a>
 
         <div class="carousel-caption-right wordwrap">
@@ -154,7 +134,7 @@ $lang = 'en';
           <a href="http://isdnow.umbc.edu/?p=757">Facts about Online Learning</a>
         </p>
       </li>
--- END SLIDE TWO --> 
+-- END SLIDE THREE --> 
 
 
 <!-- SLIDE FOUR --> 

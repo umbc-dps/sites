@@ -42,6 +42,8 @@
             <td><label for="state">State:</label></td>
 
             <td><select name="state" id="state">
+              <option value="">
+              </option>
               <option value="AL">
                 AL
               </option>
@@ -263,10 +265,11 @@
             <td valign="middle">
             <select name="startdate" id="startdate">
             <option value=""></option>
-            <option value="Fall 2016">Fall 2016</option> 
             <option value="Spring 2017">Spring 2017</option> 
             <option value="Fall 2017">Fall 2017</option> 
-            <option value="Spring 2018">Spring 2018</option> 
+            <option value="Spring 2018">Spring 2018</option>
+            <option value="Fall 2018">Fall 2018</option>  
+            <option value="Spring 2019">Spring 2019</option>
             <option value="Unknown">Unknown</option></select>
             </td>
           </tr>
@@ -327,7 +330,7 @@
 </td>
           </tr>
           
-            <tr>
+            <tr class="hidden-fields">
               <td><label for="type" hidden>What Type of Program?:*</label></td>
               <td>
               <select name="type" id="type" hidden>
@@ -337,7 +340,7 @@
               </select>
               </td>
             </tr>
-			<tr class="sidebar-form mini-form">
+			<tr class="sidebar-form mini-form hidden-fields">
 			  <td>
                 <input type="text" name="programtitle" id="programtitle" hidden>
                 <input type="text" name="pc" id="pc" hidden>

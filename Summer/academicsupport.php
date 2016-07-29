@@ -70,53 +70,48 @@
       
      <!-- Start Content --> 
 <p>UMBC is dedicated to student success. The following resources are   available during summer sessions.  Each option    provides assistance   outside of class   to improve study skills, facilitate content   understanding, and to build a strong foundation for self-directed   learning, an important skill for professionals in every  field.</p>
-<p><a href="http://www.umbc.edu/summerstem"><img src="images/summer-stem-logo-1.PNG" alt="Summer STEM at UMBC logo" style=" width:10%"></a> Summer STEM at UMBC and Summer Session work together to  provide the following academic support opportunities for students enrolled in any summer session course. </p>
 
 <div class="content">
-	<div class="narrowchart">
+  <div class="narrowchart">
 		<div id="accordion">
 			<div class="accordionheader">
 <h4><a href="#mathlab" id="mathlab"></a>The Math Lab<i class="fa fa-angle-down"></i> </h4>
 <span style="margin-left:5px"><strong> (Biology, Chemistry, Mathematics, Physics and Statistics tutoring</strong>)</span></div>
 
     <div class="accordionbody">
-          <p>One-on-one tutoring for most Biology, Chemistry, Mathematics, Physics and Statistics courses</p>
-<p>Please check back later for specific course information and hours.</p>
+<ul>
+  <li>Tutoring provided for most 100 and 200 level biology, chemistry, and physics courses, as well as most mathematics and statistics courses</li>
+  <li>Walk-in and online hours available (see list of <a href="http://lrc.umbc.edu/tutor/summer-tutoring/" target="_blank">days/times</a> for each course)</li>
+  <li>All Walk-in hours will be held in the <a href="http://library.umbc.edu/wherethingsare" target="_blank">Math Lab space</a>, located behind the Reference Desk on the first floor of the library.</li>
+  <li>You do not need an appointment for walk-in hours, just come by!</li>
+    
+</ul>
 
               <h3>Location</h3>
 <p> First floor of the Albin O. Kuhn library, behind the Reference Desk</p>  
 <p>The Math Lab is run through the <strong><a href="http://lrc.umbc.edu" target="_blank">Learning Resources Center</a></strong>.</p>
     </div>
     
-      <div class="accordionheader">
-    <h4><a href="#SI" id="SI"></a>Supplemental Instruction<i class="fa fa-angle-down"></i></h4></div>
-
-  <div class="accordionbody">
-          <p>Supplemental Instruction (SI) provides regularly scheduled study sessions outside of class. A trained student peer helps students compare notes, discuss readings, develop organizational tools and practice for tests. The Learning Resources Center will coordinate SI for selected courses in the summer sessions.</p>
-          
-          <p>Please check back later for specific course information.</p>
+<div class="accordionheader">
+  <h4>Online Writing Tutoring<i class="fa fa-angle-down"></i></h4>
 </div>
 
-     <div class="accordionheader">
-    <h4><a href="#writingcenter" id="writingcenter"></a>The Writing Center<i class="fa fa-angle-down"></i></h4>
-    </div>
+ <div class="accordionbody">
 
-  <div class="accordionbody">
-  <p>The Writing Center tutors students in all subjects. Students can come for a session at any stage of the writing process. The Writing Center is run through the <strong><a href="http://lrc.umbc.edu" target="_blank">Learning Resources Center</a></strong>.</p>
-  <p>Please check back later for specific course information.</p>
-  <h3>Location</h3>
-  <p> First floor of the Albin O. Kuhn library, behind the Reference Desk</p>
+<ul>
+	<li>Support for ANY written assignment in ANY summer course</li>
+    <li>Chat synchronously with an online tutor or submit a paper and receive asynchronous feedback</li>
+    <li>All appointments must be <a href="https://umbc.mywconline.com/index.php?" target="_blank">scheduled</a> at least one day in advance</li>
+    <li>Brainstorm ideas</li>
+    <li>Expand and improve your outline</li>
+    <li>Organize your rough draft</li>
+    <li>Polish your final draft</li>
+    <li>Tutors will focus on your thesis statement and organizational strategy before discussing citation issues or grammatical errors</li>
+    <li>Visit the UMBC Learning Center for more <a href="http://lrc.umbc.edu/tutor/writing-center/" target="_blank">information</a></li>
+    
+</ul>
 </div>
     
-      <div class="accordionheader">
-    <h4><a href="#ctc" id="ctc"></a>The Chemistry Tutorial Center<i class="fa fa-angle-down"></i></h4>
-    </div>
-    
-  <div class="accordionbody">
- <p>The Chemistry Department offers free tutoring for students  enrolled in <em><strong>Organic Chemistry</strong></em>, <strong>CHEM 351 and CHEM 352</strong>.</p>
-<p>These tutoring sessions provide guidance in working through additional  practice problems and also help elaborate and/or clarify concepts from class. </p>
-<p>Information about when and where these groups will meet will be sent to  enrolled students via their UMBC e-mail the week before the session begins and  will be re-iterated by the course instructors during the first week of the  session.</p>
-<p>For more information visit the <strong><a href="http://chemistry.umbc.edu/overview/chemistry-tutorial-center/" target="_blank">Chemistry Tutorial Center</a></strong>.</p></div>
 
   <!-- END Content -->
   </div>

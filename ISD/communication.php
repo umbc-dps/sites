@@ -143,68 +143,116 @@ $lang = 'en';
 !------------------------->
 
 
-<!------- Accordion 5 ------
+<!------- Accordion 5 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    7/20/2016 - Fall 2016 Begins in 6 Weeks</h4>
+</div>
+
+<div class="accordionbody">
+    <p><strong>July 28, 2016 is the last day to drop a summer course with a  grade of &ldquo;W&rdquo;, <a href="http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf">http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf</a></strong> <br>
+      The fall 2016 semester  begins in six weeks on Wednesday, August 31, 2016.<br>
+  <strong>Register for  Courses:&nbsp;</strong>Some fall courses are full or near capacity. Don&rsquo;t delay in  submitting your advising form to register for fall 2016 courses. The fall 2016 class  schedule may be found here,&nbsp;<a href="http://www.umbc.edu/isd/schedule">http://www.umbc.edu/isd/schedule</a>. Advising information may  be found here,&nbsp;<a href="http://www.umbc.edu/isd/advising">http://www.umbc.edu/isd/advising</a>. (All ISD students must  go through advising every term for authorization)<br>
+  <strong>Graduation Applications:&nbsp;</strong>Students completing their  Master&rsquo;s Degree or Certificate programs at the end of the fall 2016 semester  must apply for graduation. For additional information and links go to:&nbsp;<a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>. The online application  deadline for December graduates is September 15th.<br>
+  <strong>Comprehensive Exam or  Portfolio:</strong> <br>
+      Students admitted into the&nbsp;ISD&nbsp;Master&rsquo;s program prior to fall 2012  will need to complete the comprehensive exam in their final semester. The  comprehensive exam dates and application may be found here,&nbsp;<a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>. If you are taking the  comprehensive exam your application must be received by the last day to  register for courses.<br>
+      Students admitted into the&nbsp;ISD&nbsp;Master&rsquo;s program fall 2012 and on will  need to complete the portfolio requirement. Final Portfolios must be submitted  by November 1st&nbsp;for  fall graduates. Additional information and links may be found here,&nbsp;<a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>.<br>
+  <strong>Academic Integrity  Web-Based Tutorial:</strong>&nbsp;This is required for all new  Master&rsquo;s and certificate admits. You must take and pass the tutorial with a  score of 80% or above. <strong>The Graduate School  has not posted the fall 2016 tutorial to date. They will send an email when  they do open it for completion. Do not complete a past semester&rsquo;s tutorial,  they will not check the results. </strong>When you do complete the tutorial you are  advised to print your results. <a href="http://gradschool.umbc.edu/students/checklist/">http://gradschool.umbc.edu/students/checklist/</a>  <br>
+  <strong>Textbooks and Materials:</strong>&nbsp;<a href="http://www.umbc.edu/isd/textbooks">http://www.umbc.edu/isd/textbooks</a> <br>
+  <strong>Student Business Services  Office:</strong>&nbsp;To find information about e-billing,  payments, drop/withdrawal fees, and late fees go to the Student Business  Services Office website:&nbsp;<a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a></p>
+</div>
+
+
+
+<!------- Accordion 6 ------>
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    6/28/2016 - Fall 2016 Term Dates and Links
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>Fall 2016 Term dates and deadlines:</strong> <a href="http://registrar.umbc.edu/files/2012/06/Fall-2016-Academic-Calendar_FINAL_updated-12.9.pdf">http://registrar.umbc.edu/files/2012/06/Fall-2016-Academic-Calendar_FINAL_updated-12.9.pdf</a><br>
+July 1, 2016:  Graduation/Diploma Application Opens online (<a href="http://gradschool.umbc.edu/graduation/reqs/masters/">http://gradschool.umbc.edu/graduation/reqs/masters/</a>) <br>
+August 30, 2016: Last  Day to Cancel Fall Registration<br>
+August 31, 2016: First  Day of Semester, late registration begins, <br>
+September 14, 2016:  Last Day to drop a course without a grade of &ldquo;W&rdquo;, last day to register or add a  course.<br>
+September 15, 2016:  Last day to apply for fall graduation/diploma (<a href="http://gradschool.umbc.edu/graduation/reqs/certificates/">http://gradschool.umbc.edu/graduation/reqs/certificates/</a>) <br>
+November 15, 2016: Last  Day to withdraw from individual courses with a grade of &ldquo;W&rdquo;</p>
+    <p><strong>Non-Degree Students</strong> wishing to be enrolled in a certificate plan of  study should apply by July 1st.</p>
+    <p><strong>Fall 2016 Registration:</strong><br>
+      Some courses are full  (EDUC 681) or close to capacity. If you have not already send your advising  request form to Dr. Hodell and register online. Registration Instructions may  be found under April 8, 2016, here: <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>.</p>
+    <p><strong>Fall Payment Plan:</strong><br>
+      You do not have to be  register to enroll for the fall 2016 payment plan. Additional information may  be found here: <a href="http://sbs.umbc.edu/fall-2016-payment-plan/">http://sbs.umbc.edu/fall-2016-payment-plan/</a>. </p>
+    <p><strong>Fall 2016 Drop/Withdrawal Fees and Refund Schedule:</strong> <a href="http://sbs.umbc.edu/fall-2016-dropwithdrawal/">http://sbs.umbc.edu/fall-2016-dropwithdrawal/</a></p>
+    <p><strong>Billing Information:</strong> UMBC bills students electronically based on  when you register online for your course. View billing information and find the  billing schedule here, <a href="http://sbs.umbc.edu/billing/">http://sbs.umbc.edu/billing/</a>.</p>
+    <p><strong>Tuition Payment Information:</strong> <a href="http://sbs.umbc.edu/payments/">http://sbs.umbc.edu/payments/</a></p>
+    <p><strong>ISD Textbooks</strong>: <a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a> More than one semester may be listed, make sure you are viewing the correct  term&rsquo;s book requirements.</p>
+    <p><strong>Summer Date  Reminders: <a href="http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf">http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf</a></strong><br>
+      July 28, 2016: Last Day  to drop a summer 12 week course with a grade of &ldquo;W&rdquo; on the transcript<br>
+      August 16, 2016: Last  Day for &ldquo;Complete Withdrawal&rdquo; from summer session.<br>
+      August 19, 2016: End of  summer 12 week session</p>
+    <p><strong>Student Communication Page:</strong> You may always view past ISD current  student emails here, <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>.<br>
+      <strong>ISD Current Student Page:</strong> <a href="http://www.umbc.edu/isd/current">http://www.umbc.edu/isd/current</a>,  find links to advising information, class schedule, policies, student welcome  information, graduation, and comprehensive exam/portfolio requirement  information.</p>
+    <p>UMBC will be closed  Monday, July 4, 2016.</p>
 </div>
-!------------------------->
 
 
-<!------- Accordion 6 ------
+
+<!------- Accordion 7 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    6/13/2016 - Summer 2016 Graduation Deadline &amp; Fall Registration</h4>
+</div>
+
+<div class="accordionbody">
+    <p><strong>Summer 2016 Master&rsquo;s Graduation/Certificate Diploma Applications are  due June 15, 2016. </strong>If you are finishing your plan of study in August you  must complete the online application for Graduation by the 15th.  Additional information and links may be found here, <a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>.<br>
+If you are graduating  from the Master&rsquo;s program be sure to review the portfolio or comprehensive exam  requirement.</p>
+    <p><strong>Summer Academic Dates:</strong> <a href="http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf">http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf</a><br>
+      <strong>Summer Financial Dates:</strong> <a href="http://umbc.edu/summer/financialdates">http://umbc.edu/summer/financialdates</a> (Today is the last day to drop a course with a 20% refund)</p>
+    <p><strong>Fall 2016 Registration:</strong> Fall 2016 registration is underway and some  courses are beginning to fill up. Be sure to submit your advising form and register  online, after receiving authorization. Fall 2016 registration instructions were  sent out April 8, 2016. You may find a copy here, <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>.</p>
+    <p><strong>Tuition, Billing, Payments, Payment Plan and Drop/Withdrawal fee</strong> information is just some of what you can find on the Student Business Service&rsquo;s  website, <a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a>. </p>
+    <p><strong>Fall Textbooks:</strong> <a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a></p>
+    <p><strong>ISD Current Student Website:</strong> Find links to important information  for current students here, <a href="http://umbc.edu/isd/current">http://umbc.edu/isd/current</a>.</p>
+    <p><strong>Fall 2016 Enrollment Application Deadline:</strong> If you applied for the  fall 2016 Master&rsquo; program be sure to have any outstanding items submitted for  your application.<br>
+      The fall 2016  Certificate enrollment application deadline is July 1, 2016.</p>
+    <p><strong>Holds:</strong> Make sure you do not have any holds on your student account.  Having a hold on your account may prevent you from future registration, <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450">https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450</a></p>
+    <p>Our program is  committed to your success. The department will communicate with you through your  UMBC email address.<br>
+      If you encounter  difficulties within your course, you should contact your instructor  immediately. Most professors have their email address on their syllabus. DO NOT  disappear from the course, your grades could be affected.</p>
+    <p>Please let me know if  you have any questions.</p>
+</div>
+
+
+
+<!------- Accordion 8 ------>
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    5/24/2016 - Summer 2016 Begins in 1 Week!
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
-</div>
-!------------------------->
-
-
-<!------- Accordion 7 ------
-<div class="accordionheader">
-	<h4><a href="#12-31" id="12-31"></a>
-    
-    12/31 - Title
-    
-    <i class="fa fa-angle-down"></i>
-    </h4>
+    <p><strong>Congratulations to our Spring 2016 Graduates!!</strong></p>
+    <p><strong>Summer 2016:</strong><br>
+      Summer 2016 begins in  one week on Tuesday, May 31, 2016. If you want to take a summer course be sure  to obtain authorization and register through your myUMBC account. If you wait  to register online until the 31st you will be charged a late  registration fee. </p>
+    <p><strong>Summer Blackboard: </strong>Most blackboard sections of summer courses will  not be opened until the first day of the summer session. </p>
+    <p><strong>Summer 2016 Graduation/Diploma Applications:</strong> The online diploma  application is open until June 15, 2016. If you are completing your plan of  study in August 2016 you must complete the online application and then the  supplemental application. More information and links may be found here, <a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>.  (If you were admitted prior to fall 2012 you must complete the comprehensive  exam, if you were admitted after fall 2012 you need to complete the portfolio  requirement.)</p>
+    <p><strong>Quick Links:</strong><br>
+      <strong>Summer Academic Calendar</strong>: <a href="http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf">http://registrar.umbc.edu/files/2012/06/SU16-Dates-and-Deadlines-for-Registrar-Website.pdf</a> (or <a href="http://umbc.edu/summer/importantdates">http://umbc.edu/summer/importantdates</a>)<br>
+      <strong>Summer Financial Calendar</strong>: <a href="http://umbc.edu/summer/financialdates">http://umbc.edu/summer/financialdates</a><br>
+      <strong>Summer Textbooks</strong>: <a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a> (fall is also listed, make sure you are reviewing the correct semester)<br>
+      <strong>Summer Billing Information:</strong> <a href="http://umbc.edu/summer/billing">http://umbc.edu/summer/billing</a><br>
+      <strong>In-Person Course Location:</strong> 1442 South Rolling Road, Arbutus, MD  21227, Room U638. <a href="http://umbc.edu/isd/directions">http://umbc.edu/isd/directions</a></p>
 </div>
 
-<div class="accordionbody">
-    <p>Test test test test test.</p>
-</div>
-!------------------------->
-
-
-<!------- Accordion 8 ------
-<div class="accordionheader">
-	<h4><a href="#12-31" id="12-31"></a>
-    
-    12/31 - Title
-    
-    <i class="fa fa-angle-down"></i>
-    </h4>
-</div>
-
-<div class="accordionbody">
-    <p>Test test test test test.</p>
-</div>
-!------------------------->
 
 
 <!------- Accordion 9 ------>

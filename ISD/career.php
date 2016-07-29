@@ -92,21 +92,21 @@ div.subject{background-color:#E0C586;}
     
 <!-- SLIDE ONE -->
       <li id="slide1">
-        <a href="http://isdnow.umbc.edu/?p=802" target="_blank"><img alt="img03" src="http://isdnow.umbc.edu/wp-content/uploads/five-year.jpg"></a>
+        <a href="https://www.insidehighered.com/advice/2016/06/07/troublesome-shortage-instructional-designers-essay" target="_blank"><img alt="img03" src="images/umbc-isd-in-need.jpg"></a>
 
         <div class="carousel-caption wordwrap">
-          <h3>Charting a Five-Year eLearning Salary Plan</h3>
-          When planning for success in your eLearning career, most experts would agree, it’s imperative to sketch out where you see yourself in the future.
+          <h3>Instructional Designers are in Need</h3>
+         According to this article by Inside Higher Ed, the ISD field is experiencing a shortage of designers.
           <p>
-          <a href="http://isdnow.umbc.edu/?p=802" target="_blank" class="btn">Read More</a>
+          <a href="https://www.insidehighered.com/advice/2016/06/07/troublesome-shortage-instructional-designers-essay" target="_blank" class="btn">Read More</a>
           </p>
         </div>
 
         <p id="captionthree">
-          <a href="http://isdnow.umbc.edu/?p=802" target="_blank">Charting a Five-Year eLearning Salary Plan</a>
+          <a href="https://www.insidehighered.com/advice/2016/06/07/troublesome-shortage-instructional-designers-essay" target="_blank">Instructional Designers are in Need</a>
         </p>
       </li>
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE ONE -->
 
 <!-- SLIDE TWO -->    
     

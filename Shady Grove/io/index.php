@@ -75,15 +75,15 @@ $lang = 'en';
 <!-- SLIDE ONE -->
 <li id="slide1">
 
-<a href="https://www.youtube.com/watch?v=e9cJTw-o06M"  class="video"><img alt="img02" src="images/umbc_io.jpg"target="_blank"></a>
+<a href="http://www.umbc.edu/shadygrove/io/infosession"  target="_blank"><img alt="img02" src="images/infosession.png"target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Virtual Information Session</h3>
-<small>Missed our virtual info session? Watch the full video now.</small>
+<h3>I/O Psychology Information Session</h3>
+<small>Visit us to learn more about our Master's program in Rockville, MD.</small>
 
-<p><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="web-seemore video">Watch Now</a></p></div>
+<p><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
 
-<p id="captiontwo"><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="video">Watch Our Info Session</a></p>
+<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank">RSVP Now</a></p>
 
 </li>
 <!-- END SLIDE ONE -->

@@ -151,56 +151,6 @@ $lang = 'en';
     <td>Xiuzhu Yang</td>
   </tr>
   </table>
-  
-<hr>
-
-<h3>Summer 2016 Schedule of Classes </h3>
-
-<p><strong>Registration Begins:</strong> March 21st<br>
-  <br>
-  <strong>Summer Session I</strong><br>
-  6 weeks – May 31st – July 8th<br>
-  12 weeks – May 31st – August 19th<br>
-  <strong>Last Day to Add/Drop a Class:</strong> June 3rd <br>
-  <br>
-  <strong>Summer Session II</strong><br>
-  6 weeks – July 11th – August 19th<br>
-  <br>
-  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-<p>There may be more courses announced in the near future. This list is not final.</p>
-
-<table id="schedule">
-  <tr>
-    <td width="20%">COURSE/CLASS<br>NUMBER</td>
-    <td width="25%">COURSE TITLE </td>
-    <td width="15%">DAY</td>
-    <td width="20%">TIME</td>
-    <td width="20%">FORMAT</td>
-    <td width="20%">ROOM</td>
-    <td width="20%">PROFESSOR</td>
-  </tr>
-  <tr>
-    <td>GES 679 (2522)</td>
-    <td>Professional Seminar: Spatial Interpolation</td>
-    <td>Thursday<br>
-    6 Weeks (Session I)</td>
-    <td>6:30 PM - 9:30 PM</td>
-	<td>In Person</td>
-    <td>TBD</td>
-    <td>Wilson, Ronald</td>
-  </tr>
-  <tr>
-    <td>GES 770 (2431)</td>
-    <td>Spec Topics in Enterprise GIS : Geospatial Appl Dev Python</td>
-    <td>Monday<br>
-    12 weeks</td>
-    <td>6:00 PM - 9:10 PM</td>
-    <td>In Person</td>
-    <td>TBD</td>
-    <td>Yang, Xiuzhu</td>
-  </tr>
-</table>
-<br>
 
 
 <div id="contents" style="display:none"></div>

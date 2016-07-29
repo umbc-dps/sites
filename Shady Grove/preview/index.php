@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -50,6 +58,13 @@
 .accordionbody ul{ margin-left:25px; }
 #mobile-site-menu-expander {display:none}
 #photos img{width: 100%;}
+
+select#program[hidden]{display:block}
+.programlabel{display:block}
+.pp, .not-pro, .usg-grad{display:none}
+#city1, #state1, #address1{display:none}
+tr.hidden-fields{height:0px!important; width:0px!important}
+
 </style>
 </head>
 <body>
@@ -93,7 +108,7 @@
 <h3><a href="index"><img src="images/PreviewNight_Header2.png" alt="Shady Grove Preview Night" style="width:100%"></a></h3>
 
 <h5>
-<strong>WHEN:</strong> Thursday, October 8, 6:30 - 8:00 PM<br>
+<strong>WHEN:</strong> Thursday, September 29, 6:00 - 7:30PM<br>
 <strong>WHERE:</strong> <a href="http://www.shadygrove.umd.edu/about/visit" target="_blank">The Universities at Shady Grove</a>, Building II - Multipurpose Room
 </h5>
 <br>
@@ -102,7 +117,7 @@
 
 <p>  If you&rsquo;re ready to work hard for your bachelor's degree and make some great connections along the way, you&rsquo;ll fit right in here at UMBC-Shady Grove.</p>
  
-<h4><strong>Here's What You Missed During Preview Night:</strong></h4>
+<h4><strong>During Preview Night...</strong></h4>
   <ul><li>Hear first-hand from members of the UMBC-Shady Grove <strong><a href="pat">Peer Advisory Team</a></strong></li>
     <li>Learn about our programs in <strong><a href="http://umbc.edu/shadygrove/history" target="_blank">History</a></strong>, <strong><a href="http://umbc.edu/shadygrove/politicalscience" target="_blank">Political Science</a></strong>, <strong><a href="http://umbc.edu/shadygrove/psychology" target="_blank">Psychology</a></strong>, and <strong><a href="http://umbc.edu/shadygrove/socialwork" target="_blank">Social Work</a></strong></li>
     <li> Meet and connect with UMBC faculty and staff</li>
@@ -119,7 +134,7 @@
 
 <!-- SIDEBAR -->
 
-<?php include("includes/sidebar.php"); ?>
+<?php include("includes/sidebar-forum.php"); ?>
 
 <!-- END SIDEBAR -->
 <!-- footer -->
@@ -132,12 +147,29 @@
     <!--END footer -->
   </div>
   <!-- container -->
+<div id="contents" style="display:none"></div>
+
+<script>
+	var programname = "usg";
+</script>
+
   
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
+
+<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
+
 <script src="js/scripts.js"></script> 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",

@@ -80,24 +80,6 @@ $lang = 'en';
     <ul>
     
 
-<!-- SLIDE ONE --> 
-
-<li id="slide1">
-
-<a href="../rsvp" target="_blank"><img src="http://professionalprograms.umbc.edu/images/6.png" alt="Professional Programs Info Session"/></a>
-
-<div class="carousel-caption wordwrap">
-<h3>Professional Programs Info Session</h3>
-<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
-
-<p><a href="../rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
-
-<p id="captionthree"><a href="../rsvp" target="_blank">Professional Programs Info Session</a></p>
-
-</li>
-   
-<!-- END SLIDE ONE -->
-
 <!-- SLIDE TWO --    
 <li id="slide2">
 
@@ -115,9 +97,9 @@ $lang = 'en';
 -- END SLIDE TWO -->
 
 
-<!-- Slide Three -->              
+<!-- Slide One -->              
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img alt="img01" src="images/6.png"></a>
 
@@ -131,11 +113,11 @@ $lang = 'en';
 
 </li>
 
-<!-- END Slide Three --> 
+<!-- END Slide One --> 
 
-<!-- Slide FOUR -->              
+<!-- Slide Two -->              
 
-<li id="slide3">
+<li id="slide2">
 
 <a href="faculty.php#tsai" target="_blank"><img alt="img01" src="images/HIT-Terry-Tsai.jpg"></a>
 
@@ -149,7 +131,24 @@ $lang = 'en';
 
 </li>
 
-<!-- END Slide FOUR --> 
+<!-- END Slide Two --> 
+
+<!-- Slide THREE -->    
+
+<li id="slide3">
+
+<a href="https://www.youtube.com/watch?v=IOoV3DWIp-A" class="video"><img src="images/jeff.jpg" alt="Course Insights with Jeff Ostrow"/></a>
+<div class="carousel-caption-right wordwrap">
+<h3>Course Insights with Jeff Ostrow</h3>
+<small>Health IT Graduate Faculty, Jeff Ostrow, discusses the highlights of his course: Educational Technologies in Healthcare.</small>
+
+<p><a href="https://www.youtube.com/watch?v=IOoV3DWIp-A" class="web-seemore video">Watch Now</a></p></div>
+
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=IOoV3DWIp-A" class="video">Course Insights with Jeff Ostrow</a></p>
+
+</li>
+
+<!-- END SLIDE THREE --> 
 
 <!-- SLIDE THREE --
 <li id="slide3">

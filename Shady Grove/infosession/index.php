@@ -88,14 +88,30 @@
   			In-Person Information Sessions
   		</strong>
 	</h4>
-
-	<p><br>
-	Saturday, July 16 - 12:30 PM  <br>
+	<br>
+	<p>
 	Tuesday, August 9 - 12:00 PM <br>
+    Wednesday, September 14 - 1:00 PM <br>
+	Saturday, October 29 - 12:30 PM <br>
+	Thursday, November 17 - 3:00 PM <br>
+	Tuesday, December 6: 10:30 AM <br>
 	  <br>
 	  <a href="rsvp" target="_blank">
 	    <img src="../images/infosession.png">
-      </a>    </p>
+      </a>    
+      </p>
+      
+      <hr>  
+      	<h4>
+        	<strong>UMBC-Shady Grove<br>
+			Information Webinar</strong>
+        </h4>
+        <br>
+        <p>Oct 12, 2016 - 12:00 PM<br><br>
+			<a href="https://attendee.gotowebinar.com/register/810559248515057154" target="_blank">
+			<img src="../images/infosession.png">
+			</a>   
+      	</p>
 </div>
 
 <div class="seven columns" style="text-align:center; border-left: 2px #929292 solid">
@@ -107,30 +123,30 @@
 
 	<p>
 		<strong>History:</strong><br>
-		Check back soon for additional opportunities.
+		Wednesday, October 5 - 12:00pm<br>
+        Tuesday, November 1 - 5:30pm<br>
 	</p>
           
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, September 7 - 12:00pm<br>
-		Wednesday, September 14 - 12:00pm<br>
-		Wednesday, September 21 - 12:00pm<br>
-		Wednesday, September 28 - 12:00pm<br>
-		Wednesday, October 5 - 12:00pm<br>
+		Wednesday, September 7 - 12:00 PM<br>
+		Wednesday, September 14 - 12:00 PM<br>
+		Wednesday, September 21 - 12:00 PM<br>
+		Wednesday, September 28 - 12:00 PM<br>
+		Wednesday, October 5 - 12:00 PM<br>
 	</p>
           
 	<p>
         <strong>Psychology:</strong><br>
-		Thursday, July 21 - 4:30PM<br>
-        Wednesday, October 12 - 4:30pm<br>
-		Thursday, November 3 - 12:00pm<br>
+        Wednesday, October 12 - 4:30 PM<br>
+		Thursday, November 3 - 12:00 PM<br>
 	</p>
 
 	<p>
         <strong>Social Work:</strong><br>
-		Tuesday, August 8 - 5:30PM<br>
-        Wednesday, September 21 - 4:30pm <br>
-		Wednesday, November 9 - 12:30pm<br>
+		Tuesday, August 8 - 5:30 PM<br>
+        Wednesday, September 21 - 4:30 PM <br>
+		Wednesday, November 9 - 12:30 PM<br>
 	</p>
 
 	<p>

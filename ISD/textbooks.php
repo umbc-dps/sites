@@ -86,80 +86,8 @@ table#schedule td:last-child{text-align:left;}
 Please refer to the list provided for required course texts, by semester. If your course   is not listed, then the course instructor has either not provided text   information or there is not a required text for your course. Order books through   the UMBC Bookstore in-person at the bookstore located in The Commons or online   at <a title="http://bookstore.umbc.edu" href="http://bookstore.umbc.edu" target="_blank">http://bookstore.umbc.edu/</a>. If you decide to drop a course   and need to return your textbooks, check the bookstore at <a title="http://bookstore.umbc.edu" href="http://bookstore.umbc.edu" target="_blank">http://bookstore.umbc.edu/</a> for the last date you can return   books. All textbook returns require the original purchase receipt and your UMBC   student ID card.  
 </p>
 
-<h4>List of Textbooks for Summer 2016:</h4>
-<table id="schedule">
-  <tr>
- <td width="30%">Course Name/Section</td>
- <td width="15%">Instructor</td>
- <td width="55%" style="text-align:center">Textbooks and Materials</td>
-  </tr>
-  <tr>
- <td>EDUC 602 sections 02 &amp;  03:&nbsp;<br>
-Instructional Systems Development I (#1945, #1946)</td>
- <td>Hodell, C.</td>
- <td><strong>Required:</strong><br>
-Hodell, C. (2015).&nbsp;<em>ISD From the Ground Up</em>,  (4th ed.).&nbsp; ATD Press.&nbsp;<br>
-ISBN:&nbsp; 978-1562869984</td>
-  </tr>
-  <tr>
- <td>EDUC 603 section 01:  Instructional Systems Development II (#1052)</td>
- <td>Campos, J.</td>
- <td><strong>None</strong></td>
-  </tr>
-  <tr>
- <td>EDUC 605 section 01: The  Adult Learner (#1053)</td>
- <td>Hodell, C.</td>
- <td><strong>Required:</strong><br>
-Galbraith, M. (2004).&nbsp;<em>Adult Learning Methods</em>&nbsp;(3rd  ed.). Malabar, FL: Krieger Publishing Co.<br>
-ISBN:&nbsp; 978-1575242323<br>
-<br>
-Knowles, M. (2012)&nbsp;<em>The Adult Learner: The  Definitive Classic in Adult Education and Human Resource Development</em>,  (7th ed.). Taylor.<br>
-ISBN:&nbsp; 978-1856178112</td>
-  </tr>
-  <tr>
- <td>EDUC 641 section 01:&nbsp; The  Online Classroom (#1054)</td>
- <td>Berge, Z.</td>
- <td><p><strong>Required:</strong><br>
-   Salmon, G. (2011) <em>E-Moderating: The Key  to Online Teaching and Learning (3rd ed.)</em>. New York: Routledge</p>
-ISBN: 978-0415881746</td>
-  </tr>
-  <tr>
- <td>EDUC 671 section 01:  Principles of Training &amp; Development&nbsp; (#1055)</td>
- <td>Weinstein, S.</td>
- <td><p><strong>Required:</strong> <br>
-Biech, E. (Ed.)  (2014).&nbsp;<em>ASTD Handbook The Definitive Reference for Training and  Development</em>&nbsp;(2nd ed.).ASTD.<br>
-ISBN: 978-1562869137<br>
-<br>
-Pollock, V.  (2014). <em>The Field Guide to the 6Ds: How  to Use the Six Disciplines to Transform Learning into Business Results.</em> (1st  ed.) Pfeiffer</p>
-ISBN: 978-1118648131</td>
-  </tr>
-  <tr>
- <td>EDUC 681 section 01: Survey  of Instructional Technology Applications (#1066)</td>
- <td>Kellerman, P.</td>
- <td><strong>Required:</strong><br>
-Software:&nbsp;<strong><u>Adobe Captivate 9</u></strong><br>
-<br>
-Siegel, K. (2015).&nbsp;<em>Adobe Captivate 9: The  Essentials Workbook</em>. IconLogic, Inc.<br>
-ISBN: 978-1932733846</td>
-  </tr>
-  <tr>
- <td>EDUC 689 section 04: Advance  Special Topics: Portfolio Development and Talent Management (#2291)</td>
- <td>Williams, G.</td>
- <td><strong>None</strong></td>
-  </tr>
-  <tr>
- <td>EDUC 682 section 01:  Instructional Technology Design and Development (#2157)</td>
- <td>Williams, G..</td>
- <td><strong>None</strong></td>
-  </tr>
-  <tr>
-    <td>EDUC 683 section 01:&nbsp;  Multi-Media Project Management (#4783)</td>
-    <td>Williams, G..</td>
-    <td><strong>None</strong></td>
-  </tr>
-  </table>
- 
-<br>
+<h4><br>
+</h4>
 <hr>
 <h4>List of Textbooks for Fall 2016:</h4>
 <table id="schedule">

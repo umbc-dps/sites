@@ -92,8 +92,8 @@ $lang = 'en';
    <li><a href="courses.php#HIT663">HIT 663: Health IT Policy &amp; Administration</a></li>
    <li><a href="courses.php#HIT664">HIT 664: Health IT Law &amp; Ethics</a></li>
    <li><a href="courses.php#HIT750">HIT 750:  Data Analytics</a></li>
-   <li>Capstone Project</li>
- </ul>
+   <li><a href="courses.php#HIT760">HIT 760:  Health Informatics Capstone</a></li>
+   </ul>
  
  <h4>Elective Health Information Technology Courses (12 credits), choose four such as:</h4>
 <ul>

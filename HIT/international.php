@@ -119,16 +119,13 @@ $lang = 'en';
    <li><a href="http://www.umbc.edu/hit/documents/experienceform.doc" target="_blank">Experience Data Form</a></li>
    <li>Official  transcript(s) from each college &amp; university attended</li>
    <li>TOEFL or  IELTS scores &amp; GRE Scores</li>
-   <ul>
-     <li><em>Please  note</em>: All international students are required to submit Graduate  Record and TOEFL scores unless you attended a university in an English-speaking  country or hold an undergraduate degree from a U.S. institution.</li>
-   </ul>
    <li>Application  fee ($50 online)</li>
    <ul>
      <li>If paying  by check, the check must be drawn on a bank with a U.S. location. The check  should be payable to UMBC.   </li>
    </ul>
  </ul>
  
- <p><strong>Please note:</strong> All international students are required to submit TOEFL scores unless you attended a university in an English-speaking country or hold an undergraduate degree from a U.S. institution. IELTS are not accepted in substitution for TOEFL scores.</p>
+ <p><strong>Please note:</strong> All international students are required to submit TOEFL scores unless you attended a university in an English-speaking country or hold an undergraduate degree from a U.S. institution. IELTS score are accepted in substitution for TOEFL scores.</p>
  
  <h4>Obtaining Immigration Documents</h4>
  <p>If you intend to apply for an F-1 visa and require an I-20 from UMBC, please include the following additional documents with your application.</p>

@@ -115,8 +115,9 @@
          Psychology</a><br>
        
        </h3> <ol id="training-times">
- <li>Check back soon for more info session opportunities.
-             </li>
+ <li><strong>Date:</strong> Wednesday, October 19<br> 
+<strong>Time:</strong> 6-7:30 pm<br> 
+<strong>Location:</strong> Building III-3241</li>
        </ol>
        <br></tD>
            
@@ -124,8 +125,7 @@
          Systems</a><br>
        </h3>
          <ol id="training-times3">
-           <li>Tuesday, June 14, 2016<br>
-             6:00 PM - 7:30 PM </li>
+<li>Check back soon for more info session opportunities. </li>
          </ol></td>
      </tr>
      
@@ -143,10 +143,7 @@
        <td align="center" valign="top"><h3><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/shadygrove/cyber/infosession');">Cybersecurity</a><br>
        </h3>
            <ol id="training-times">
-             <li>
-             Tuesday, June 14, 2016
-               <br>
-               6:00 PM - 7:30 PM <br>
+<li>Check back soon for more info session opportunities. <br>
                <br>
              </li>
            </ol></td>

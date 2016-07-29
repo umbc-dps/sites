@@ -716,29 +716,34 @@ textarea {
 
 
 <div class="mainbox" id="featured">
-<a href="http://www.umbc.edu/summer" target="_blank"><img src="images/summer2.png" alt=""/></a>
+<a href="http://www.umbc.edu/shadygrove/student/grad-orientation" target="_blank"><img src="images/classroom-1.jpg" alt=""/></a>
 
+
+<br><br>
 
 <h3 style="line-height:normal; font-size:17pt">
-There is still time - Summer Session II
+
+Cybersecurity and GIS Fall 2016 Graduate Student Orientation
 </h3>
 
 
 <div class="boxleft" style="width:60%">
 
-  <h6 style="font-size:14pt; margin:0px; line-height:17pt">Summer session II classes begin on July 11 - Grit going this summer and check out the schedule of classes. </h6>
+  <h6 style="font-size:12pt; margin:0px; line-height:14pt">
+  Newly Admitted Students: Register Now for Graduate Student Orientation on Thursday, August 18!
+  </h6>
   </div><!-- end boxleft nested div -->
 
 
 
 
 	<div class="boxright">
-<a href="http://www.umbc.edu/summer" target="_blank" style="text-decoration:none">
+<a href="http://www.umbc.edu/shadygrove/student/grad-orientation" target="_blank" style="text-decoration:none">
 <div class="button" style="height:auto; line-height:10pt; vertical-align:middle;">
 
 <br>
 
-Schedule
+RSVP Here!
 <br><br>
 
 
@@ -883,8 +888,8 @@ Schedule
     <td valign="top">
 <br>
 
-<a href="http://www.umbc.edu/shadygrove/cyber/infosession">Cybersecurity Info Session</a><br>
-<small>Check back soon for additional opportunities. </small>
+<a href="http://www.umbc.edu/shadygrove/io/infosession">Industrial/Organizational Psychology Info Session</a><br>
+<small>Wednesday, October 19</small>
 <br><br>
 <a href="http://www.umbc.edu/shadygrove/gis/infosession">Geographic Information Systems Info Session</a><br>
 <small>Check back soon for additional opportunities. </small>

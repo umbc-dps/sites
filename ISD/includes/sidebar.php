@@ -1,27 +1,17 @@
 <div class="five columns">
 
     <aside class="five columns add-bottom" id="two">
-      <h3 style="color:#fff;">Upcoming Event</h3>
-      <p style="text-align:center">
-<strong>Professional Programs Info Session</strong><br />
-Saturday June 4, 10:30AM - 12:00PM<br>
-
-      <a class="btn" href="http://www.umbc.edu/rsvp" target="_blank">RSVP</a>
-	</p>
-    </aside>
-
-
-    <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p>Summer 2016 Master's Application<br>
-        Deadline: March 1<br>
-        Summer 2016 Certificate Application <br>
-        Deadline: April 1 <br>
-        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
-      </p>
-</aside>
+      <p>Fall 2016 Certificate Application<br>
+        Deadline: July 1st<br>
+        Spring 2017 Master's Application<br>
+      	Deadline: November 1st<br>
+      	Spring 2017 Certificate Application<br>
+        Deadline: December 1st<br>
+        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>      </p>
+  </aside>
 
 
     <aside class="five columns add-bottom" id="three">

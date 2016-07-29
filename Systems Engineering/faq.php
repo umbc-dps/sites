@@ -76,21 +76,12 @@ $lang = 'en';
 <!-- START Content --> 
 
 <h3>Frequently Asked Questions</h3>
-
-  <div class="accordionheader">
-    <h4>What are the academic requirements for admission  to the Systems Engineering Certificate Program?<i class="fa fa-angle-down"></i></h4></div>
-
-    <div class="accordionbody">
-   <p>Applicants must have a B.S. degree, preferably in  engineering, computer science or information systems. Professional work  experience is desirable, but not required. The minimum GPA for regular acceptance  to UMBC graduate programs is 3.0.&nbsp;  However, applicants with a lower GPA may be admitted to the certificate  program with the provision that they must maintain a GPA of 3.0 or higher in  order to continue in the program and to receive a certificate. In addition, students must pass a test in  mathematics and MATLAB or pass a one-credit summer course entitled ENEE 669 -  Math and MATLAB, before enrolling in ENEE 662 - Modeling, Simulation and  Analysis.
-   </p>
-          </div>
       
   <div class="accordionheader">
     <h4>What  are the academic requirements for admission to the Systems Engineering Master&rsquo;s  Program?<i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
-   <p>Applicants must have a B.S.  degree, preferably in engineering, computer science or information systems.&nbsp;Professional work experience is desirable, but  not required. The minimum GPA for regular acceptance to UMBC graduate programs  is 3.0.&nbsp; However, applicants with a lower  GPA may be admitted provisionally.  Usually, full admission will be granted upon achieving a GPA of 3.0 or  higher in the first two graduate courses.&nbsp;In addition, students must pass a test in  mathematics and MATLAB or pass a one-credit summer course entitled ENEE 669 -  Math and MATLAB, before enrolling in ENEE 662 - Modeling, Simulation and  Analysis.
-   </p>
+   <p>Applicants must have a B.S. degree, in engineering, computer science, information systems or related discipline. Professional work experience is desirable, but not required. The minimum GPA for admission to UMBC graduate programs is 3.0.  Domestic applicants with a lower GPA may be considered for admission to the certificate program. Each case is reviewed individually.</p>
  </div>
  
 
@@ -99,7 +90,7 @@ $lang = 'en';
     <h4>Can  all five Systems Engineering certificate courses be applied to a Master&rsquo;s degree?<i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
-   <p>All five of the Systems  Engineering certificate courses apply to the M.S. in Systems Engineering, M.S.  in Electrical Engineering, M.S. in Computer Science, and the M.S. in  Engineering Management degrees.<br>
+   <p>All five of the Systems Engineering certificate courses apply to the M.S. in Systems Engineering and the M.S. in Engineering Management degrees.<br>
    </p></div>
    
  
@@ -119,16 +110,6 @@ $lang = 'en';
        <p>At the present time, we do not offer Systems Engineering courses  in the summer. &nbsp;However, several  Engineering Management courses are taught each summer and up to three of these  can be applied to the M.S. in Systems Engineering.<br>
    </p>
        </div>
-
- 
-  
-  <div class="accordionheader">
-    <h4>What standards  apply to the UMBC Systems Engineering program?<i class="fa fa-angle-down"></i></h4></div>
-
-    <div class="accordionbody">
-   <p>UMBC&rsquo;s SE Master&rsquo;s program fits the INCOSE* model for an  Optimum SE program.&nbsp; The UMBC SE required  and elective courses meet all of the requirements specified by INCOSE, as shown  below.</p>
- 
- <p><img src="images/INCOSE.jpg" style="width:100%" alt="INCOSE"></p>    </div>
  
   <div class="accordionheader">
     <h4>When are  Systems Engineering courses taught?<i class="fa fa-angle-down"></i></h4></div>
@@ -152,9 +133,8 @@ $lang = 'en';
 
     <div class="accordionbody">
       <p>Students can take <em><strong>up to two courses</strong></em> from other universities by following the inter-institutional enrollment process.</p>
-   <p>Inter-institutional enrollment is a program that allows qualifying students at University System of Maryland (USM) institutions to take selected courses at other USM campuses while only paying tuition at their home school. Through the program, students register for courses at both their home and host institutions, but are billed only by their home school. At the end of the semester, the student's credits and grades from the host institution are transferred to their home institution. This differs from standard transfer coursework in that both credits and grades transfer. The deadline for registering for courses at another institution is two weeks before the start of the semester. </p>
    <ul>
-<LI><a href="http://registrar.umbc.edu/services/special-enrollment/">Policies &amp; Procedures for Inter-Institutional Enrollment at UMBC</a></LI>
+<li><a href="http://registrar.umbc.edu/services/special-enrollment/">Policies &amp; Procedures for Inter-Institutional Enrollment at UMBC</a></li>
    </ul>
        </div>
        

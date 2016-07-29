@@ -122,7 +122,7 @@ $lang = 'en';
               <p><strong>Dr. Stephen Miller</strong><br>
                 Graduate Program Director<br>
               <a href="mailto:stmiller@umbc.edu">stmiller@umbc.edu</a><br>
-				410-455-3482</p>
+				410-455-3381</p>
             </td>
           </tr>
         </table>

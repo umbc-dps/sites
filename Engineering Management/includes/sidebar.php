@@ -1,17 +1,5 @@
 <div class="five columns">
 
-    <aside class="five columns add-bottom" id="two">
-      <h3 style="color:#fff;">Upcoming Event</h3>
-      <p style="text-align:center">
-<strong>Professional Programs Info Session</strong><br />
-Saturday June 4, 10:30AM - 12:00PM<br>
-
-      <a class="btn" href="http://www.umbc.edu/rsvp" target="_blank">RSVP</a>
-	</p>
-    </aside>
-
-
-
     <aside class="five columns add-bottom" id="two" style="display:none">
       <h3 style="color:#fff;">Past Event</h3>
 

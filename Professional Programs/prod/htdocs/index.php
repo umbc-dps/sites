@@ -166,15 +166,15 @@ BEGIN MAIN
 
 <li id="slide1">
 
-<a href="http://umbc.edu/rsvp" target="_blank"><img src="http://professionalprograms.umbc.edu/images/7.png" alt="Professional Programs Info Session"/></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/6.jpg" alt="Apply for Fall 2016"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Info Session</h3>
-<small>Join us on Saturday, June 4 to hear from program directors, faculty, alumni, and sample the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Apply for Fall 2016</h3>
+<small>Apply by August 1st to Start in the Fall.</small>
 
-<p><a href="http://umbc.edu/rsvp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="http://umbc.edu/rsvp" target="_blank">Professional Programs Info Session</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply for Fall 2016</a></p>
 
 </li>
 

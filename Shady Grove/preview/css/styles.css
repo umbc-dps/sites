@@ -126,6 +126,19 @@ input#ss-submit {width: 93%; height: 30px}
 ul.ss-choices input {width:auto; margin-bottom: 0px; height: auto}
 ul.ss-choices li {list-style-type:none; margin-left: -25px}
 
+/* ASIDE CAPTCHA FORM */
+div#form {padding-left: 5%}
+#form table, table#contact {width:195%!important}
+#form td{padding-bottom:3px!important}
+#form input[type="submit"] {width: 95%; height: 30px}
+#form label{font-weight: bold; font-size:10pt}
+#form input {width:auto; margin-bottom: 0px; height: auto}
+#form select {height: 30px!important}
+#form li {list-style-type:none; margin-left: -25px}
+#form textarea {width:95%!important}
+#contact td {display:block; width:100%!important}
+
+table#contact2, table#contact2 td{ display: block; width:95%; text-align:center; padding-left: 5%}
 
 /* BUTTON */
 aside .btn, input.btn  {

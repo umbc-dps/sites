@@ -103,12 +103,21 @@ BEGIN MAIN
 
 <h4>Administrative Team</h4>
 <ul><li><a href="http://www.umbc.edu/dps/dpsorders/" target="_blank">Click here to go to the DPS Orders Page</a></li>
-<li></li></ul>
-<h4>Information Technology Team</h4>
-<ul><li><a href="http://dpsit.umbc.edu/" target="_blank">Click here to go to the DPS Service Site</a></li></ul>
-
-<h4>Alternative Delivery Program</h4>
-<ul><li><a href="http://my.umbc.edu/groups/doit-hybrid" target="_blank">Click here to go to the UMBC Hybrid Learning Site</a></li></ul>
+<li>
+  <h4>Information Technology Team</h4>
+  <a href="http://dpsit.umbc.edu/" target="_blank">Click here to go to the DPS Service Site</a></li>
+</ul>
+<ul>
+  <li>
+    <h4>Alternative Delivery Program</h4>
+    <a href="http://my.umbc.edu/groups/doit-hybrid" target="_blank">Click here to go to the UMBC Hybrid Learning Site</a></li>
+</ul>
+<ul>
+  <li>
+    <h4>Green Office Initiative  </h4>
+    <p><a href="green.php">Click here to go to the DPS Green Office Initiative Page</a></p>
+  </li>
+</ul>
       
 
    </div>

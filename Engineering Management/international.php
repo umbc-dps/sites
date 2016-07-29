@@ -68,9 +68,9 @@ $lang = 'en';
  <ul>
    <li>A bachelor’s degree in Engineering, Computer Science, Information Systems or related discipline.*</li>
    <li>Minimum undergraduate GPA of 3.0 on 4.0 scale, or equivalent, is desired.  Applicants with grades on a scale other than 4.0, will be evaluated based on standards for the country of their degree.</li>
-   <li>Graduate Record Exam (GRE) scores with a minimum combined score of 306. Verbal Reasoning should be at least 153 and Analytical Writing at least 4.5. GRE scores are not required if your undergraduate degree was completed at an accredited U.S. university.</li>
-   <li>Test of English as a Foreign Language (TOEFL) Scores: Minimum scores 597 (Written), 247  (computerized), 99 (Internet Based test-iBT). Scores must be no more than 2 years old. </li>
-   <li>iBT Scores  Breakdown: Writing (23), Listening (23), Reading (25), Speaking (28, 23  acceptable if have 2 years&rsquo; work experience in supervisory or management  positions in the U.S.) OR IELTS Score: Minimum score of 7.5 required.</li>
+   <li>Graduate Record Exam (GRE) scores with a minimum of 153 Verbal Reasoning, 153 Quantitative and Analytical Writing score of at least 4.0. <strong>GRE scores are not required if your undergraduate degree was completed at an accredited U.S. university.</strong></li>
+   <li>TOEFL Scores: Minimum scores: 99 (iBT). Scores must be no more than 2 years old.</li>
+   <li>iBT Scores  Breakdown: Writing (23), Listening (23), Reading (25), Speaking (28, 23  acceptable if have 2 years&rsquo; work experience in supervisory or management  positions in the U.S.) OR IELTS Score: Minimum score of 7.0 required.</li>
  </ul>
  <p>*If you have a three-year degree versus a four-year degree, your transcript will be reviewed to determine whether you have met the necessary prerequisites for the program. Eligibility for admission can only be determined upon receipt of a complete application.</p>
  
@@ -105,16 +105,13 @@ $lang = 'en';
    <li>Current  Resume </li>
    <li>Official  transcript(s) from each college &amp; university attended</li>
    <li>TOEFL or  IELTS scores &amp; GRE Scores</li>
-   <ul>
-     <li><em>Please  note</em>: All international students are required to submit Graduate  Record and TOEFL scores unless you attended a university in an English-speaking  country or hold an undergraduate degree from a U.S. institution.</li>
-   </ul>
    <li>Application  fee ($50 online)</li>
    <ul>
      <li>If paying  by check, the check must be drawn on a bank with a U.S. location. The check  should be payable to UMBC.   </li>
    </ul>
  </ul>
  
- <p><strong>Please note:</strong> All international students are required to submit TOEFL scores unless you attended a university in an English-speaking country or hold an undergraduate degree from a U.S. institution. IELTS are not accepted in substitution for TOEFL scores.</p>
+ <p><strong>Please note:</strong> All international students are required to submit TOEFL scores unless you attended a university in an English-speaking country or hold an undergraduate degree from a U.S. institution. IELTS score are accepted in substitution for TOEFL scores.</p>
  
  <h4>Obtaining Immigration Documents</h4>
  <p>If you intend to apply for an F-1 visa and require an I-20 from UMBC, please include the following additional documents with your application.</p>

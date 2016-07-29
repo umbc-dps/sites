@@ -88,19 +88,11 @@ $lang = 'en';
 </div>
 
 <div class="accordionbody">
-<p>Applicants must have a B.S. degree, preferably in Engineering,  Computer Science, Mathematics, Physics, Chemistry or other physical science. Professional work experience is desirable, but  not required. The minimum GPA for normal acceptance to UMBC graduate programs  is 3.0. However, applicants with a lower  GPA may be admitted to the certificate program with the provision that they  must maintain a GPA of 3.0 or higher in order to continue in the program and to  receive a certificate.&nbsp;</p>
+<p>Applicants must have a B.S. degree, in Engineering, Computer Science, Information Systems or related discipline. Professional work experience is desirable, but not required. The minimum GPA for admission to UMBC graduate programs is 3.0.  Domestic applicants with a lower GPA may be considered for admission to the certificate program. Each case is reviewed individually.</p>
 </div>
 
 <div class="accordionheader">
-  <h4><a name="2" id="2"></a>What  are the academic requirements for admission to the Engineering Management Master&rsquo;s  Program?<i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-<p>Applicants must have a B.S.  degree, preferably in Engineering, Computer Science, Mathematics, Physics,  Chemistry or other physical science. Professional work experience is desirable,  but not required. The minimum GPA for normal acceptance to UMBC graduate  programs is 3.0. However, applicants  with a lower GPA may be admitted provisionally.  Usually, full admission will be granted upon achieving a GPA of 3.0 or  higher in the first two graduate courses. &nbsp;<br></p>
-</div>
-
-<div class="accordionheader">
-  <h4><a name="3" id="3" href="#3"></a>Is it necessary to take the six Engineering Management courses  in any particular sequence?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="2" id="2" href="#2"></a>Is it necessary to take the six Engineering Management courses  in any particular sequence?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -108,15 +100,15 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a name="4" id="4"></a> Can  all of the four Engineering Management certificate courses be applied to a  Masters in degree?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="3" id="3"></a> Can  all of the four Engineering Management certificate courses be applied to a  Masters in degree?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-<p>All four of the Engineering Management  certificate courses apply to the M.S. in Engineering Management. Up to three management courses may be applied  to the M.S. in Systems Engineering. Up  to two management courses may be applied to the M.S. in Electrical Engineering  and the M.S. in Computer Engineering.<br></p>
+<p>All four of the Engineering Management  certificate courses apply to the M.S. in Engineering Management. Up to three management courses may be applied  to the M.S. in Systems Engineering.</p>
 </div>
 
 <div class="accordionheader">
-  <h4><a name="5" id="5"></a>Must  all of the technical courses be taken in the same track? <i class="fa fa-angle-down"></i></h4>
+  <h4><a name="4" id="4"></a>Must  all of the technical courses be taken in the same track? <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -124,7 +116,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a name="6" id="6"></a>What courses are scheduled for the next  semester and future semesters?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="5" id="5"></a>What courses are scheduled for the next  semester and future semesters?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody"><a href="schedule.php">Here is a schedule</a> of Engineering Management courses for the  current and future semester. <br>
@@ -132,21 +124,21 @@ $lang = 'en';
    </div>
  
 <div class="accordionheader">
-  <h4><a name="7" id="7"></a>Are any  Engineering Management courses taught in the summer?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="6" id="6"></a>Are any  Engineering Management courses taught in the summer?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">Several Engineering Management courses are taught each  summer. Summer courses are listed <a href="schedule.php">here</a> in The Sequence of Management Courses.
 </div>
 
 <div class="accordionheader">
-  <h4><a name="8" id="8"></a>What  courses are required for the M.S. in Engineering Management beyond the four  core courses?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="7" id="7"></a>What  courses are required for the M.S. in Engineering Management beyond the four  core courses?<i class="fa fa-angle-down"></i></h4>
 </div>
 
-<div class="accordionbody">The Engineering Management M.S.  program requires six management courses  (including the four core courses) and two management electives. <a href="programmaster.php">Here</a> is a list of those courses.<br></p>
+<div class="accordionbody">The Engineering Management M.S. program requires four core management courses, two management electives, and four technical courses. <a href="http://umbc.edu/engm/programmaster.php" target="_blank">Here</a> is a list of those courses.</p>
 </div>
 
 <div class="accordionheader">
-  <h4><a name="9" id="9"></a>Is the UMBC Engineering Management program  accredited?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="8" id="8"></a>Is the UMBC Engineering Management program  accredited?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -154,7 +146,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a name="10" id="10"></a> Is it possible to get a double master&rsquo;s  in Engineering Management and Systems Engineering by counting some of the  courses toward both degrees?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="9" id="9"></a> Is it possible to get a double master&rsquo;s  in Engineering Management and Systems Engineering by counting some of the  courses toward both degrees?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -162,7 +154,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a name="11" id="11"></a>What is the deadline for applying to the  program?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="10" id="10"></a>What is the deadline for applying to the  program?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">The application deadline is generally four weeks before the beginning of the semester for domestic students. However, it is advisable to apply much sooner than this to ensure that your application materials will be received in time for admission.&nbsp; Often, transcripts are delayed in transmission from your undergraduate university.</p>
@@ -174,9 +166,8 @@ $lang = 'en';
 </div>
 
 <div class="accordionbody"><p>Students can take <em><strong>up to two courses</strong></em> from other universities by following the inter-institutional enrollment process.</p>
-   <p>Inter-institutional enrollment is a program that allows qualifying students at University System of Maryland (USM) institutions to take selected courses at other USM campuses while only paying tuition at their home school. Through the program, students register for courses at both their home and host institutions, but are billed only by their home school. At the end of the semester, the student's credits and grades from the host institution are transferred to their home institution. This differs from standard transfer coursework in that both credits and grades transfer. The deadline for registering for courses at another institution is two weeks before the start of the semester. </p>
    <ul>
-     <LI><a href="http://registrar.umbc.edu/services/special-enrollment/">Policies &amp; Procedures for Inter-Institutional Enrollment at UMBC</a></LI>
+     <li><a href="http://registrar.umbc.edu/services/special-enrollment/">Policies &amp; Procedures for Inter-Institutional Enrollment at UMBC</a></li>
    </ul>
  </div>
 <br>

@@ -155,41 +155,19 @@
 
 <li id="slide5">
 
-<a href="http://gritgoing.umbc.edu/?p=936"><img src="images/featured/afst340.jpg" alt="Featured Course: African Drumming and Dance" target="_blank"></a>
+<a href="http://gritgoing.umbc.edu/?p=985"><img src="images/featured/ancs350.jpg" alt="Featured Course: The Ancient World in Modern Film" target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
     
-<h3>Featured Course:<br> African Drumming &amp; Dance 
-(AFST 340)</h3>
-<small>Take part in a workshop that teaches the techniques and significance of West African drumming this summer.</small>
+<h3>Featured Course: The Ancient World in Modern Film 
+(ANCS 350)</h3>
+<small>This summer, explore how history and art collide in this 6-week hybrid course.</small>
             
-<p><a href="http://gritgoing.umbc.edu/?p=936" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<p><a href="The Ancient World in Modern Film" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 
 </div>
 
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=936" target="_blank">Featured Course: African Drumming and Dance</a></p>
-          
-</li>
-
-<!-- END Slide Five --> 
-
-<!-- Slide Five -->
-
-<li id="slide5">
-
-<a href="http://gritgoing.umbc.edu/?p=400"><img src="images/featured/PHIL152.png" alt="Featured Course: Introduction to Moral Theory" target="_blank"></a>
-
-<div class="carousel-caption wordwrap">
-    
-<h3>Featured Course:<br> Introduction to Moral Theory
-(PHIL 152)</h3>
-<small>Earn Arts and Humanities GEP as you enter the minds of Philosophers and discover their moral inquiries.</small>
-            
-<p><a href="http://gritgoing.umbc.edu/?p=400" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=400" target="_blank">Featured Course: Introduction to Moral Theory</a></p>
+<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=985" target="_blank">Featured Course: The Ancient World in Modern Film</a></p>
           
 </li>
 

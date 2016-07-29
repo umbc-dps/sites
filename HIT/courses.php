@@ -139,16 +139,16 @@ As the first required course in the series, Health  Informatics I starts with in
  <div class="accordionbody">
             <p>This course covers large-scale analytics for health care. The course  will start with an overview of data mining techniques including classification,  clustering, association rule mining, anomaly detection, and data visualization.  These techniques will be covered in the context of healthcare data such as  electronic medical records. This course will address the challenges of  analyzing healthcare data, and integration strategies for various data types  commonly found in electronic medical records as well as genomic, environmental,  and biological data that affect healthcare.</p>
    </div>
-   
 
-         <div class="accordionheader">   
-<h4><a href="#HIT759" id="HIT759"></a>HIT 759: Health IT Project/Capstone <i class="fa fa-angle-down"></i></h4>
+
+
+
+
+            <div class="accordionheader">   
+<h4><a href="#HIT760" id="HIT760"></a>HIT 760: Health Informatics Capstone<i class="fa fa-angle-down"></i></h4>
 	</div>
  <div class="accordionbody">
-            <p>The Capstone project provides an opportunity for students to carry out an individual piece of supervised research or a project activity on a 
-specified topic in the Health Informatics domain.  The final project should make an original contribution to the body of knowledge in the profession or otherwise demonstrate core competencies in Health IT and Informatics.</p>
-
-<p><strong>Prerequisites:</strong> HIT 658 (Health Informatics I), HIT 758 (Health Informatics II), and a total of 21 credits in the program or permission of instructor.</p>
+            <p>The Capstone project provides an opportunity for students to carry out an individual piece of supervised research or a project activity on a specified topic in the Health Informatics domain. The final project should make an original contribution to the body of knowledge in the profession or otherwise demonstrate core competencies in Health IT and Informatics. Students must also have a total of 21 credits in the program to register for this course.</p>
    </div>
 
 

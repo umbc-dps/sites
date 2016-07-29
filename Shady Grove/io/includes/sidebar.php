@@ -1,23 +1,10 @@
  <div class="five columns">
+
     <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
-
-      <p style="text-align:center">
-<strong>New Student Orientation</strong><br />
-
-<small>Tuesday, June 7, 6:00pm - 7:15pm</small>
-<br />
-        <a class="btn" href="http://www.umbc.edu/shadygrove/student/grad-orientation" target="_blank">RSVP</a>
-      </p>
-     
-    </aside>
-
-
-    <aside class="five columns add-bottom" id="one">
-      <h3 style="color:#fff;">Past Events</h3>
       <p style="text-align:center">
       <strong>I/O Psych Information Session</strong><br>
-<a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="btn video">Watch Video</a>
+<a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank">RSVP Now</a>
       </p>
 </aside>
 

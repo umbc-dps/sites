@@ -93,9 +93,9 @@ Watch our past virtual information sessions:</p>
        <aside class="five columns add-bottom">
         <h3 class="home-heading">Featured Video</h3>
          
-<small>Liz Ducey, GIS Graduate Program Alumnus</small>
+<small>Arti Deore, Cybersecurity Graduate Program Alumnus</small>
 <div class="videoWrapper">
-<iframe width="225" height="155" src="//www.youtube.com/embed/72BBCTVZrQs" frameborder="0" allowfullscreen></iframe>
+<iframe width="338" height="232" src="//www.youtube.com/embed/Z4annhGRRuU" frameborder="0" allowfullscreen></iframe>
 </div>
       </aside>    
   

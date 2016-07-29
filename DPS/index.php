@@ -256,9 +256,9 @@ BEGIN MAIN
   <!-- /pp-heading -->
   <div id="video-container">
     <video autoplay loop class="fillWidth">
-      <source src="video/DPS-Site-Video-4-2016.mp4" type="video/mp4">
+      <source src="video/DPS-Site-Video-7-2016.mp4" type="video/mp4">
       <source src="video/DPS-Site-Video-6-2015.ogv" type="video/ogv">
-      <source src="video/DPS-Site-Video-4-2016.webm" type="video/webm">
+      <source src="video/DPS-Site-Video-7-2016.webm" type="video/webm">
       <img src="images/placeholder.jpg"  alt="Your browser does not support the <code>video</code> element. You should try Firefox." height="1080" width="1920"> </video>
   </div>
 </div>

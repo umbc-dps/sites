@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -49,6 +57,12 @@
 .accordionbody ul{ margin-left:25px; }
 #mobile-site-menu-expander {display:none}
 
+select#program[hidden]{display:block}
+.programlabel{display:block}
+.pp, .not-pro, .usg-grad{display:none}
+#city1, #state1, #address1{display:none}
+tr.hidden-fields{height:0px!important; width:0px!important}
+
 </style>
 </head>
 <body>
@@ -83,16 +97,16 @@
     </div>
 <!-- END Page Header -->
 
-<div class="ten columns" style="min-height:750px">
+<div class="ten columns" style="min-height:1200px">
   
 <!-- START Content -->
 <h3>
 <strong>Special Event for Prospective Students:</strong>
 </h3>
-<h3><a href="index"><img src="images/PreviewNight_Header.png" alt="ISD Now  Forum: What Does It Take to Be a Successful Consultant?" style="width:100%"></a></h3>
+<h3><a href="index"><img src="images/PreviewNight_Header2.png" alt="ISD Now  Forum: What Does It Take to Be a Successful Consultant?" style="width:100%"></a></h3>
 
 <h5>
-<strong>WHEN:</strong> Thursday, October 8, 6:30 - 8:00 PM<br>
+<strong>WHEN:</strong> Thursday, September 29, 6:00 - 7:30 PM<br>
 <strong>WHERE:</strong> <a href="http://www.shadygrove.umd.edu/about/visit" target="_blank">The Universities at Shady Grove</a>, Building II - Multipurpose Room
 </h5>
 <br>
@@ -107,8 +121,8 @@
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">10/8/2015 6:30 PM</span>
-    <span class="end">10/8/2015 8:00 PM</span>
+    <span class="start">9/29/2016 6:00 PM</span>
+    <span class="end">9/29/2016 7:30 PM</span>
     <span class="timezone">America/New_York</span>
     <span class="title">UMBC-Shady Grove Undergraduate Preview Night</span>
     <span class="description">http://umbc.edu/shadygrove/preview</span>
@@ -144,7 +158,7 @@
 
 <!-- SIDEBAR -->
 
-<?php include("includes/sidebar-forum.php"); ?>
+<?php include("includes/sidebar.php"); ?>
 
 <!-- END SIDEBAR -->
 <!-- footer -->
@@ -152,16 +166,34 @@
     
 <?php include("includes/footer.php"); ?>
 <?php include("includes/tracking.php"); ?>
+
 <br>
     <!--END footer -->
   </div>
   <!-- container -->
+<div id="contents" style="display:none"></div>
+
+<script>
+	var programname = "usg";
+</script>
+
   
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
+
+<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
+
 <script src="js/scripts.js"></script> 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",

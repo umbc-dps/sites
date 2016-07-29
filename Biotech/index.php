@@ -127,7 +127,7 @@ $lang = 'en';
 <!-- SLIDE THREE -->
 
 <li id="slide3">
-<a href="http://www.umbc.edu/biotech/faculty#broedel"><img alt="img03" src="images/broedel.jpg"></a>
+<a href="http://www.umbc.edu/biotech/faculty#broedel"><img alt="img03" src="images/broedel1.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
 <h3>Meet Our Faculty: Dr. Sheldon Broedel</h3>

@@ -65,78 +65,10 @@
       <div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
         
- 
- 
-<!-- Slide One -->
-
+        
 <!-- Slide One -->
 
 <li id="slide1">
-
-<a href="http://gritgoing.umbc.edu/?p=400"><img src="images/featured/PHIL152.png" alt="Featured Course: Introduction to Moral Theory" target="_blank"></a>
-
-<div class="carousel-caption wordwrap">
-    
-<h3>Featured Course:<br> Introduction to Moral Theory
-(PHIL 152)</h3>
-<small>Earn Arts and Humanities GEP as you enter the minds of Philosophers and discover their moral inquiries.</small>
-            
-<p><a href="http://gritgoing.umbc.edu/?p=400" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=400" target="_blank">Featured Course: Introduction to Moral Theory</a></p>
-          
-</li>
-
-<!-- END Slide One --> 
- 
-
-<!-- Slide Two -->
-
-<li id="slide2">
-
-<a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus"><img src="images/food.jpg" alt="Where to Eat?" target="_blank"></a>
-
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Summer Dining Guide</h3>
-<small>Time for a break? Find our where and when to dine on campus this summer.</small>
-            
-<p><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" target="_blank">Where to Eat?</a></p>
-          
-</li>
-
-<!-- END Slide Two --> 
-
-<!-- Slide Three -->
-
-<li id="slide3">
-
-<a href="events"><img src="images/events.jpg" alt="Summer Events" target="_blank"></a>
-
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Summer Events</h3>
-<small>There's more to summer at UMBC than what happens in the classroom. Have fun, and be part of a dynamic learning community while you learn.</small>
-            
-<p><a href="events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="/summer/events" target="_blank">Summer Events</a></p>
-          
-</li>
-
-<!-- END Slide Three --> 
-
-<!-- Slide Four -->
-
-<li id="slide4">
 
 <a href="academicsupport"><img src="images/tutoring.jpg" alt="Summer Tutoring" target="_blank"></a>
 
@@ -153,7 +85,52 @@
           
 </li>
 
-<!-- END Slide Four --> 
+<!-- END Slide One --> 
+ 
+
+<!-- Slide Two -->
+
+<li id="slide2">
+
+<a href="events"><img src="images/summer-events.png" alt="Summer Events" target="_blank"></a>
+
+<div class="carousel-caption-right wordwrap">
+    
+<h3>Summer Events</h3>
+<small>There's more to summer at UMBC than what happens in the classroom. Have fun, and be part of a dynamic learning community while you learn.</small>
+            
+<p><a href="events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="/summer/events" target="_blank">Summer Events</a></p>
+          
+</li>
+
+<!-- END Slide Two --> 
+
+<!-- Slide Three -->
+
+<li id="slide3">
+
+<a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus"><img src="images/food.jpg" alt="Where to Eat?" target="_blank"></a>
+
+<div class="carousel-caption-right wordwrap">
+    
+<h3>Summer Dining Guide</h3>
+<small>Time for a break? Find our where and when to dine on campus this summer.</small>
+            
+<p><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+
+</div>
+
+<p id="captiontwo"><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" target="_blank">Where to Eat?</a></p>
+          
+</li>
+
+<!-- END Slide Three --> 
+
+ 
 
 </ul>
 
@@ -172,12 +149,9 @@
 	<dl class="eleven columns alpha">
 
 <br>    
-<h3><strong>Register today for Summer Session II</strong></h3>
-<p><strong>Current UMBC students</strong>: <a href="registrationtips" target="_blank">register today</a> and stay on track to graduate on time!</p>
-  
-  <p><strong>Visiting students:</strong> <a href="applyundergraduate" target="_blank">apply</a> for Session II admission by <strong>July 6</strong>.<br>
-  
-  <em>Visiting students must first apply (and be admitted) to UMBC before registering for summer session courses.</em></p>
+<h3><strong>Summer Session II</strong></h3>
+<p>Schedule Adjustment for summer session II ended on July 14.</p>
+<p>Check your final <a href="/summer/grades" target="_blank">grades</a> and/or order <a href="/summer/grades" target="_blank">transcripts</a> once your session ends.</p>
 
 
 	<h4><strong>May 31 – August 19</strong></h4>
