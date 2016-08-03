@@ -2,20 +2,20 @@
 <html>
 <head>
 
-<title>Office of Professional Programs at UMBC</title>
+<title>Open House | Office of Professional Programs at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="UMBC’s Office of Professional Programs offers a broad array of professionally focused master’s degree and certificate programs that address industry needs while anticipating future opportunities." />
+<meta name="description" content="Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is a fit for you." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@umbc_dps">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Office of Professional Programs at UMBC" />
+<meta property="og:title" content="Open House | Office of Professional Programs at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://professionalprograms.umbc.edu" />
-<meta property="og:image" content="http://professionalprograms.umbc.edu/images/3.jpg" />
-<meta property="og:description" content="UMBC’s Office of Professional Programs offers a broad array of professionally focused master’s degree and certificate programs that address industry needs while anticipating future opportunities." />
+<meta property="og:url" content="http://umbc.edu/openhouse/" />
+<meta property="og:image" content="http://umbc.edu/openhouse/images/OpenHouseFB.png" />
+<meta property="og:description" content="Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is a fit for you." />
 
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
@@ -162,7 +162,7 @@ aside p, aside dl {
 
 
 <h4 style="font-weight:bold">Date:</h4>
-<h5>Tuesday, April 26, 5:30-8:00PM</h5>
+<h5>Tuesday, October 25, 5:30-8:00PM</h5>
 <br>
 
 <h4 style="font-weight:bold">Location:</h4>

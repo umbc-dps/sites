@@ -83,13 +83,13 @@ $lang = 'en';
 <h3>Faculty</h3>
 
 <div class="accordionheader">
-  <h4>Richard F. Forno, Ph.D. | Program Director <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#forno" id="forno"></a>Richard F. Forno, Ph.D. | Program Director <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" alt="UMBC Faculty Rick Forno" src="images/faculty/umbc-faculty-Rick-Forno.gif"> <strong>Lecturer &amp; Graduate Program Director, Cybersecurity</strong><br>
-  Assistant Director, <a href="http://cybersecurity.umbc.edu/" target="_blank">UMBC Center for Cybersecurity</a><br>
-  <br>
+  <p><img align="left" alt="UMBC Faculty Rick Forno" src="images/faculty/umbc-faculty-Rick-Forno.gif"><strong>Lecturer &amp; Graduate Program Director, Cybersecurity</strong><br>
+  Assistant Director, <a href="http://cybersecurity.umbc.edu/" target="_blank">UMBC Center for Cybersecurity</a></p>
+  <p>
   Ph.D., Curtin University of Technology<br>
   M.A., Salve Regina University<br>
   Graduate Certificate (National Security &amp; Strategic Studies) US Naval War College<br>
@@ -103,7 +103,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Clark" id="Clark"></a>Robert W. Clark, J.D | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#clark" id="clark"></a>Robert W. Clark, J.D | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -117,7 +117,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Colombel" id="Colombel"></a>Pierre A. Colombel, II, CISSP, CEH, CHFI, PMP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#colombel" id="colombel"></a>Pierre A. Colombel, II, CISSP, CEH, CHFI, PMP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -127,7 +127,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Coman" id="Coman"></a>Daniela Coman, CISSP, CEH, CSSLP | Adjunct Instructor<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#coman" id="coman"></a>Daniela Coman, CISSP, CEH, CSSLP | Adjunct Instructor<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -144,7 +144,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Fluharty" id="Fluharty"></a>Michael R. Fluharty, Jr. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#fluharty" id="fluharty"></a>Michael R. Fluharty, Jr. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -157,7 +157,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Getek" id="Getek"></a>Ryan C. Getek, Ph.D., CISSP-ISSEP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#getek" id="getek"></a>Ryan C. Getek, Ph.D., CISSP-ISSEP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -172,11 +172,13 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Hasib" id="Hasib"></a>Mansur Hasib, D.Sc., CISSP, PMP, CPHIMS, NET+, SEC+ | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#hasib" id="hasib"></a>Mansur Hasib, D.Sc., CISSP, PMP, CPHIMS, NET+, SEC+ | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" src="images/faculty/umbc-faculty-Mansur-Hasib.jpg">Mansur Hasib is an interdisciplinary information technology and cybersecurity strategist. Bringing over 25 years of experience managing information technology in both public and private sectors into the classroom, Dr. Hasib is currently an Information Technology and Security Consultant through Tomorrow&rsquo;s Strategy Today. Previously, Dr. Hasib served 12 years as Chief Information Officers (CIO) in healthcare, biotechnology and educational industries, including the Baltimore City Health Department and the University System of Maryland, where he developed enterprise information technology and information security governance frameworks for several organizations.</p>
+  <p><img align="left" src="images/faculty/umbc-faculty-Mansur-Hasib.jpg"></p>
+  
+  <p>Mansur Hasib is an interdisciplinary information technology and cybersecurity strategist. Bringing over 25 years of experience managing information technology in both public and private sectors into the classroom, Dr. Hasib is currently an Information Technology and Security Consultant through Tomorrow&rsquo;s Strategy Today. Previously, Dr. Hasib served 12 years as Chief Information Officers (CIO) in healthcare, biotechnology and educational industries, including the Baltimore City Health Department and the University System of Maryland, where he developed enterprise information technology and information security governance frameworks for several organizations.</p>
 
   <p>Dr. Hasib earned his Doctor of Science in Information Assurance from Capitol College, a Master of Arts in Political Science from Emory University and a Bachelor of Arts in Economics from Brandeis University. His industry certifications include CISSP, PMP and CPHIMS.   Dr. Hasib is a frequent speaker at local, national, and international conferences and has authored the following two books:</p>
 
@@ -188,7 +190,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Huhn" id="Huhn"></a>Michael S. Huhn, CISSP, ISSEP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#huhn" id="huhn"></a>Michael S. Huhn, CISSP, ISSEP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -201,7 +203,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Kinney" id="Kinney"></a>Albert Kinney | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#kinney" id="kinney"></a>Albert Kinney | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -216,12 +218,13 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Nicholas" id="Nicholas"></a>Charles K. Nicholas, Ph.D. | Professor, Computer Science & Electrical Engineering<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#nicholas" id="nicholas"></a>Charles K. Nicholas, Ph.D. | Professor, Computer Science & Electrical Engineering<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <p><strong>Faculty Advisor, UMBC CyberDawgs</strong><br>
-  Ph.D., Ohio State<br>
+  <p><strong>Faculty Advisor, UMBC CyberDawgs</strong></p>
+  
+  <p>Ph.D., Ohio State<br>
   M.S., Ohio State<br>
   B.S., University of Michigan - Flint</p>
 
@@ -229,7 +232,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Owen" id="Owen"></a>Cathleen Owen, J.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#owen" id="owen"></a>Cathleen Owen, J.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -245,7 +248,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Parr" id="Parr"></a>Diana Parr | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#parr" id="parr"></a>Diana Parr | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -258,7 +261,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Rasch" id="Rasch"></a>Mark D. Rasch, J.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#rasch" id="rasch"></a>Mark D. Rasch, J.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -269,7 +272,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Romano" id="Romano"></a>Robert R. Romano, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#romano" id="romano"></a>Robert R. Romano, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -281,7 +284,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Shariati" id="Shariati"></a>Ben Shariati | Lecturer &amp; Assistant Program Director</h4>
+  <h4><a href="#shariati" id="shariati"></a>Ben Shariati | Lecturer &amp; Assistant Program Director</h4>
 </div>
 
 <div class="accordionbody">
@@ -296,7 +299,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4>Christina L. Smyre-Deloatch, Ph.D., CISSP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#smyre-deloatch" id="smyre-deloatch"></a>Christina L. Smyre-Deloatch, Ph.D., CISSP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -306,7 +309,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Thompson" id="Thompson"></a>Terry L. Thompson, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#thompson" id="thompson"></a>Terry L. Thompson, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -320,7 +323,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Waddell" id="Waddell"></a>William O. Waddell | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#waddell" id="waddell"></a>William O. Waddell | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -334,11 +337,11 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#Williams" id="Williams"></a>Tina C. Williams, J.D., CISSP, PMP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#williams" id="williams"></a>Tina C. Williams, J.D., CISSP, PMP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" src="images/faculty/umbc-faculty-Tina-Williams.gif"> J.D., University of Maryland Francis King Carey School of Law<br>
+  <p><img align="left" src="images/faculty/umbc-faculty-Tina-Williams.gif">J.D., University of Maryland Francis King Carey School of Law<br>
   M.S., Rensselaer Polytechnic Institute<br>
   B.S., UMBC</p>
 

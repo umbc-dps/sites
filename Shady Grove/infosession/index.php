@@ -36,7 +36,9 @@
 
 @media (max-width: 800px) {
 	.seven{border:0px!important;}
+	hr.hr-hide{display:block}
 }
+.hr-hide{display:none}
 </style>
 </head>
 
@@ -81,7 +83,22 @@
 	</a>
 </h3>
 <br>
-<div class="seven columns offset-by-one" style="text-align:center">
+<div class="seven columns offset-by-one" style="text-align:center; border-right: 2px #929292 solid; padding-right:30px">
+        <h4>
+    <strong>UMBC-Shady Grove<br>
+			Undergraduate Preview Night</strong>
+        </h4>
+        <br>
+        <p>Sept 29, 2016 - 6:00 PM<br><br>
+			<a href="http://www.umbc.edu/shadygrove/preview/" target="_blank">
+			<img src="../images/visitus.png">
+			</a>   
+      	</p>
+        
+        
+        <hr>
+
+
 	<h4>
 		<strong>
         	Prospective Undergraduate<br>
@@ -112,9 +129,11 @@
 			<img src="../images/infosession.png">
 			</a>   
       	</p>
+
+        <hr class="hr-hide">
 </div>
 
-<div class="seven columns" style="text-align:center; border-left: 2px #929292 solid">
+<div class="seven columns" style="text-align:center">
 	<h4>
     	<strong>Visit with Undergraduate<br>
         Program Directors

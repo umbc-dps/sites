@@ -72,85 +72,6 @@ $lang = 'en';
   
 <!-- START Content -->
 
-<h3>Summer 2016 Schedule of Classes</h3>
-<p>
-<strong>Registration Begins:</strong>  March 21st<br><br>
-
-
-<strong>Summer Session I</strong><br>
-
-6 weeks – May 31st – July 8th<br>
-12 weeks – May 31st – August 19th<br>
-
-<strong>Last Day to Add/Drop a Class:</strong>  June 3rd
-<br>
-<br>
-
-<strong>Summer Session II</strong><br>
-6 weeks – July 11th – August 19th<br>
-
-<br>
-  <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-
-<p>There may be more courses announced in the near future.  This list is not final.</p>
-
-<table id="schedule">
-  <tr>
-    <td width="21%">COURSE/CLASS<br>
-      NUMBER</td>
-    <td width="20%">COURSE TITLE </td>
-    <td width="17%">DAY</td>
-    <td width="20%">TIME</td>
-    <td width="10%">FORMAT</td>
-    <td width="12%">ROOM</td>
-  </tr>
- <tr>
- <td>CYBR 622 (2705)</td>
- <td>Global Cyber Capabilities and Trends</td>
- <td>Wednesday<br>
- 12 weeks</td>
- <td>7:10 PM - 10:20 PM</td>
- <td>In Person</td>
- <td>3.013<br>
- Tech Center</br></td>
- </tr>
- <tr>
- <td>CYBR 650 (2704)</td>
- <td>Cybersecurity Management</td>
- <td>Tues/Thurs<br>
- 6 weeks</td>
- <td>7:10 PM - 10:20 PM</td>
- <td>In Person</td>
- <td>3.014<br>
- Tech Center</br></td>
- </tr>
- <tr>
- <td>CYBR 691 (2703)</td>
- <td>Special Topics:<br>
- Cybercrime Investigations</td>
- <td>Monday<br>
- 12 weeks </td>
- <td>7:10 PM - 10:20  PM</td>
- <td>In Person</td>
- <td>3.013<br>
- Tech Center</br></td>
- </tr>
- <tr>
- <td>CYBR 691 (2225)</td>
- <td>Special Topics:<br>
- Software Security</td>
- <td>Monday/Wed<br>
- 6 weeks</td>
- <td>7:10 PM - 10:20 PM</td>
- <td>In Person</td>
- <td>3.014<br>
- Tech Center</br></td>
- </tr>
- </table>
-
-<hr>
-  
-
 <h3>Fall 2016 Schedule of Classes </h3>
 
 <p><strong>Semester Dates:</strong> August 31, 2016 – December 13, 2016<br>
@@ -186,14 +107,6 @@ $lang = 'en';
     <td>In Person</td>
     <td>3.013<br>
       Tech Center</td>
-  </tr>
-  <tr>
-    <td>CYBR 620 (7540)</td>
-    <td>Introduction to Cybersecurity</td>
-    <td>Tuesday</td>
-    <td>6:00 - 8:45 PM</td>
-    <td>In Person</td>
-    <td>3.014 Tech Center</td>
   </tr>
   <tr>
     <td>CYBR 621 (5040)</td>
@@ -264,12 +177,30 @@ $lang = 'en';
   </tr>
   <tr>
     <td>CYBR  691 (6911)<br>
-      Section 2</td>
+Section 1</td>
     <td>Special Topics Software Security</td>
     <td>Monday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
     <td>U638 Prof. Studies Bldg.</td>
+  </tr>
+  <tr>
+    <td>CYBR  691 (8157)<br>
+Section 3</td>
+    <td>Special Topics:  Fundamentals of Enterprise Cloud Security</td>
+    <td>Tuesday</td>
+    <td>6:00 - 8:45 PM</td>
+    <td>In Person</td>
+    <td>Tech Center 3.013</td>
+  </tr>
+  <tr>
+    <td>CYBR  691 (8158)<br>
+      Section 4</td>
+    <td>Special Topics:  Introduction to Forensics</td>
+    <td>Thursday</td>
+    <td>6:00 - 8:45 PM</td>
+    <td>In Person</td>
+    <td>Tech Center 3.014</td>
   </tr>
   </table>
 

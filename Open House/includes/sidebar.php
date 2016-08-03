@@ -91,7 +91,7 @@ style="display:none;" onload="if(submitted)
 <label class="ss-q-item-label" for="entry_267174737"><div class="ss-q-title">Program of Interest
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
-<div class="ss-q-help ss-secondary-text" dir="auto">Choose all that apply</div></label>
+<div class="ss-q-help ss-secondary-text" dir="auto">Choose two that apply</div></label>
 
 <ul class="ss-choices ss-choices-required" role="group" aria-label="Program of Interest Choose all that apply "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Biotechnology" id="group_940734412_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Biotechnology</span>

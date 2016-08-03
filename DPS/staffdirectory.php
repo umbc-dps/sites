@@ -126,7 +126,7 @@ BEGIN MAIN
       <a href="#DPSaf">A-F</a> | <a href="#DPSgk">G-K</a> | <a href="#DPSLR">L-R</a> | <a href="#DPSSZ">S-Z</a></strong></p>
   <p><strong>UMBC Training Centers Staff Directory<br>
       <a href="#tcaf">A-F</a> | <a href="#tcgk">G-K</a> | <a href="#tcLR">L-R</a> | <a href="#tcSZ">S-Z</a></strong></p>
-  <p><strong><a href="#main">Main Phone Numbers</a> | <a href="#fax">Fax Numbers</a> | <a href="#class">Classroom Phone Numbers</a> | <a href="#add">Location Addresses</a></strong><a href="#add"></a><br>
+  <p><strong><a href="#mainno">Main Phone Numbers</a> | <a href="#fax">Fax Numbers</a> | <a href="#class">Classroom Phone Numbers</a> | <a href="#add">Location Addresses</a></strong><a href="#add"></a><br>
   </p>
   <hr>
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -563,338 +563,12 @@ Interim Executive Director, The Shriver Center<br>
       <td>&nbsp;</td>
     </tr>
   </table>
+  
   <hr>
+  
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td colspan="3" bgcolor=""><strong>UMBC Training Centers Staff Directory</strong></td>
-    </tr>
-    <tr>
-      <td bgcolor="#FFCC00"><strong><a name="tcAF" id="tcAF"></a>A-F</strong></td>
-      <td bgcolor="#FFCC00"><p>&nbsp;</p></td>
-      <td bgcolor="#FFCC00"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="">&nbsp;</td>
-      <td bgcolor="">&nbsp;</td>
-      <td bgcolor="">&nbsp;</td>
-    </tr>
-    <tr>
-      <td width="35%" valign="top"><p><strong>Archibald, Matt</strong><br>
-          <strong>Title</strong>: Program Coordinator<br>
-          <strong>Unit</strong>: Training Centers <br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7165<br>
-          <strong>E-Mail</strong>: <a href="mailto:marchibald@umbctraining.com">marchibald@<br>
-          umbctraining.com</a></p></td>
-      <td width="31%" valign="top"><p><strong>Blank, Jackie</strong><br>
-          <strong>Title</strong>: Senior Accountant<br>
-          <strong>Unit</strong>: Training Centers <br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7131<br>
-          <strong>E-Mail</strong>: <a href="mailto:jblank@umbctraining.com">jblank@<br>
-          umbctraining.com</a></p></td>
-      <td width="34%" valign="top"><p><strong>Brotzman, Yvonne</strong><br>
-          <strong>Title</strong>: Clinical Coordinator<br>
-          <strong>Unit</strong>: Diagnostic Medical Sonography<br>
-          <strong>Location</strong>: UMBC South Campus<br>
-          <strong>Phone</strong>: 443-543-5204<br>
-          <strong>E-Mail: </strong><a href="mailto:ybrotzman@umbctraining.com">ybrotzman@<br>
-          umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-    </tr>
-    <tr>
-      <td valign="top" bgcolor="#CCCCCC"><p><strong>Campbell, Brent</strong><br>
-          <strong>Title</strong>: Admissions Coordinator<br>
-          <strong>Unit</strong>: Training Centers <br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7150<br>
-          <strong>E-Mail</strong>: <a href="mailto:bcampbell@umbctraining.com">bcampbell@<br>
-          umbctraining.com</a></p></td>
-      <td valign="top" bgcolor="#CCCCCC"><p><strong>Carter, John</strong><br>
-        <strong>Title</strong>: Instructional Designer<br>
-        <strong>Unit</strong>: Training Centers <br>
-        <strong>Location</strong>: Columbia, MD<br>
-        <strong>Phone</strong>: 443-692-6600, x7160<br>
-        <strong>E-Mail</strong>: <a href="mailto:jcarter@umbctraining.com">jcarter@<br>
-        umbctraining.com</a></p></td>
-      <td valign="top" bgcolor="#CCCCCC"><p><strong>Cornecelli, Mike</strong><br>
-        <strong>Title</strong>: Saless &amp; Marketing (Corporate)<br>
-        <strong>Unit</strong>: Training Centers <br>
-        <strong>Location</strong>: Columbia, MD<br>
-        <strong>Phone</strong>: 443-692-6600, x7106<br>
-        <strong>E-Mail</strong>: <a href="mailto:mcornecelli@umbctraining.com">mcornecelli@<br>
-        umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-    </tr>
-    <tr>
-      <td valign="top"><p><strong>Collins, Catie</strong><br>
-        <strong>Title</strong>: Marketing Coordinator<br>
-        <strong>Unit</strong>: Training Centers <br>
-        <strong>Location</strong>: Columbia, MD<br>
-        <strong>Phone</strong>: 443-692-6600, x7151<br>
-        <strong>E-Mail</strong>: <a href="mailto:ccollins@umbctraining.com">ccollins@<br>
-        umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Deighton, Jeremy</strong><br>
-          <strong>Title</strong>: Managing Associate<br>
-          <strong>Unit</strong>: Training Centers <br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7127<br>
-          <strong>E-Mail</strong>: <a href="mailto:deighton@umbctraining.com">deighton@<br>
-umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Frey, Dennis</strong><br>
-          <strong>Title</strong>: Director, Computer Science Programs<br>
-          <strong>Unit</strong>: Training Centers <br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7154<br>
-          <strong>E-Mail</strong>: <a href="mailto:dfrey@umbctraining.com">dfrey@<br>
-umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="#FFCC00"><strong><a name="tcGK" id="DPSGK2"></a>G-K</strong></td>
-      <td bgcolor="#FFCC00"><p>&nbsp;</p></td>
-      <td bgcolor="#FFCC00"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="">&nbsp;</td>
-      <td bgcolor="">&nbsp;</td>
-      <td bgcolor="">&nbsp;</td>
-    </tr>
-    <tr>
-      <td valign="top"><p><strong>Giannullo, Corinne</strong><br>
-          <strong>Title</strong>: Program Chair<br>
-          <strong>Unit</strong>: Diagnostic Medical Sonography<br>
-          <strong>Location</strong>: UMBC South Campus<br>
-          <strong>Phone</strong>: 443-543-7205<br>
-          <strong>E-Mail: </strong><a href="mailto:cgiannulo@umbctraining.com">cgiannulo@<br>
-          umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Hammond, Rick</strong><br>
-          <strong>Title</strong>: Practice/Account Manager <br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7148<br>
-          <strong>E-Mail</strong>: <a href="mailto:rhammond@umbctraining.com">rhammond@<br>umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Hart, Heith</strong><br>
-          <strong>Title</strong>: Director of Admissions<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x6599<br>
-          <strong>E-Mail: </strong><a href="mailto:hhart@umbctraining.com">hhart@<br>umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="#CCCCCC"><p><strong>Heilman, Ryan</strong><br>
-          <strong>Title</strong>: Program Coordinator<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 7102<br>
-          <strong>E-Mail: </strong><a href="mailto:rheilman@umbctraining.com">rheilman@<br>umbctraining.com</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Hemingway, Rob</strong><br>
-          <strong>Title</strong>: Senior Systems Support Technician<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 7122<br>
-          <strong>E-Mail: </strong><a href="mailto:rhemingway@umbctraining.com">rhemingway@<br>umbctraining.com</a></p></td>
-      <td bgcolor="#CCCCCC"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor=""><p>&nbsp;</p></td>
-      <td bgcolor=""><p>&nbsp;</p></td>
-      <td bgcolor=""><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="#FFCC00"><strong><a name="tcLR" id="DPSLR2"></a>L-R</strong></td>
-      <td bgcolor="#FFCC00"><p>&nbsp;</p></td>
-      <td bgcolor="#FFCC00"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="">&nbsp;</td>
-      <td bgcolor="">&nbsp;</td>
-      <td bgcolor="">&nbsp;</td>
-    </tr>
-    <tr>
-      <td valign="top"><p><strong>Lau, Jon</strong><br>
-        <strong>Title</strong>: CTO &amp; Vice President<br>
-        <strong>Unit</strong>: Training Centers<br>
-        <strong>Location</strong>: Columbia, MD<br>
-        <strong>Phone</strong>: 443-692-6600, x6597<br>
-        <strong>E-Mail</strong>: <a href="mailto:jlau@umbctraining.com">jlau@<br>umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Malwitz, Kent </strong><br>
-        <strong>Title</strong>: President <br>
-        <strong>Unit</strong>: Training Centers <br>
-        <strong>Location</strong>: Columbia, MD<br>
-        <strong>Phone</strong>: 443-692-6600, x7149<br>
-        <strong>E-Mail</strong>: <a href="mailto:kmalwitz@umbctraining.com">kmalwitz@<br>umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Mason, Gib</strong><br>
-          <strong>Title</strong>: COO &amp; VP, Administration &amp; Finance<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 7139<br>
-          <strong>E-Mail: </strong><a href="mailto:gmason@umbctraining.com">gmason@<br>
-          umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="#CCCCCC"><p><strong>McStay, Jeanne</strong><br>
-          <strong>Title</strong>: Admissions Coordinator<br>
-          <strong>Unit</strong>: Diagnostic Medical Sonography<br>
-          <strong>Location</strong>: UMBC South Campus<br>
-          <strong>Phone</strong>: 443-543-7202<br>
-          <strong>E-Mail: </strong><a href="mailto:jmcstay@umbctraining.com">jmcstay@<br>
-          umbctraining.com</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Minnick, Homer</strong><br>
-          <strong>Title</strong>: Director, Center for Cybersecurity Academy<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 7141<br>
-          <strong>E-Mail: </strong><a href="mailto:hminnick@umbctraining.com">hminnick@<br>
-          umbctraining.com</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Moore, Erilisa</strong><br>
-          <strong>Title</strong>: Office Manager<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7110<br>
-          <strong>E-Mail: </strong><a href="mailto:emoore@umbctraining.com">emoore@<br>
-          umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p><strong>Nikou, Pouria</strong><br>
-          <strong>Title</strong>: Senior Systems Support Techician<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7128<br>
-          <strong>E-Mail: </strong><a href="mailto:pnikou@umbctraining.com">pnikou@<br>
-          umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Reichert, Marcia</strong><br>
-          <strong>Title</strong>: Accounting Controller<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7105<br>
-          <strong>E-Mail: </strong><a href="mailto:mreichert@umbctraining.com">mreichert@<br>
-          umbctraining.com</a></p></td>
-      <td valign="top"><p><a href="mailto:eponter@umbctraining.com"></a><strong>Richards, Carolyn</strong><br>
-          <strong>Title</strong>: Director of Operations<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7135<br>
-          <strong>E-Mail: </strong><a href="mailto:cboehm@umbctraining.com">cboehm@<br>
-          umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-    </tr>
-    <tr>
-      <td bgcolor="#FFCC00"><strong><a name="tcSZ" id="DPSSZ2"></a>S-Z</strong></td>
-      <td bgcolor="#FFCC00"><p>&nbsp;</p></td>
-      <td bgcolor="#FFCC00"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="">&nbsp;</td>
-      <td bgcolor="">&nbsp;</td>
-      <td bgcolor="">&nbsp;</td>
-    </tr>
-    <tr>
-      <td valign="top"><p><strong>Seegull, Diane</strong><br>
-        <strong>Title</strong>: Accountant<br>
-        <strong>Unit</strong>: Training Centers<br>
-        <strong>Location</strong>: Columbia, MD<br>
-        <strong>Phone</strong>: 443-692-6600, x7129<br>
-        <strong>E-Mail: </strong><a href="mailto:dseegull@umbctraining.com">dseegull@<br>umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Sesay, Nayaba&nbsp;</strong><br>
-          <strong>Title</strong>: Managing Associate<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7101<br>
-          <strong>E-Mail</strong>: <u><a href="mailto:nsesay@umbctraining.com">nsesay@<br>umbctraining.com</a></u></p></td>
-      <td valign="top"><p><strong>Sharer, Suana </strong><br>
-          <strong>Title</strong>: Director, Government Markets<br>
-          <strong>Unit</strong>: Training Centers <br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7104<br>
-          <strong>E-Mail</strong>: <a href="mailto:ssharer@umbctraining.com">ssharer@<br>umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="#CCCCCC"><p><strong>Skinner, Kyle&nbsp;</strong><br>
-          <strong>Title</strong>: Sales &amp; Marketing (Civilian)<br>
-          <strong>Unit</strong>: Training Centers<br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x6598 <br>
-          <strong>E-Mail</strong>: <u><a href="mailto:kskinner@umbctraining.com">kskinner@<br>umbctraining.com</a></u></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Spicer, Eric </strong><br>
-          <strong>Title</strong>: Cardinal Sonography Instructor<br>
-          <strong>Unit</strong>: Diagnostic Medical Sonography<br>
-          <strong>Location</strong>: South Campus<br>
-          <strong>Phone</strong>: 443-543-7207<br>
-          <strong>E-Mail</strong>: <a href="mailto:espicer@umbctraining.com">espicer@<br>umbctraining.com</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Tavenner, Liesel</strong><br>
-          <strong>Title</strong>: General Sonography Instructor<br>
-          <strong>Unit</strong>: Diagnostic Medical Sonography<br>
-          <strong>Location</strong>: UMBC South Campus<br>
-          <strong>Phone</strong>: 443-543-7206<br>
-          <strong>E-Mail: </strong><a href="mailto:ltavenner@umbctraining.com">ltavenner@<br>umbctraining.com</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p><strong>Trageser, Cathy</strong><br>
-          <strong>Title</strong>: Clinical Coordinator<br>
-          <strong>Unit</strong>: Diagnostic Medical Sonography<br>
-          <strong>Location</strong>: UMBC South Campus<br>
-          <strong>Phone</strong>: 443-543-7203<br>
-          <strong>E-Mail</strong>: <a href="mailto:ctrageser@umbctraining.com">ctrageser@<br>umbctraining.com</a></p></td>
-      <td valign="top"><p><strong>Tucker, Jeanette</strong><br>
-          <strong>Title</strong>: Program Coordinator<br>
-          <strong>Unit</strong>: Training Centers <br>
-          <strong>Location</strong>: Columbia, MD<br>
-          <strong>Phone</strong>: 443-692-6600, x7142<br>
-          <strong>E-Mail</strong>: <a href="mailto:jtucker@umbctraining.com">jtucker@<br>umbctraining.com</a></p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-    </tr>
-    </table>
-  <hr>
-  <table width="100%" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="left" bgcolor="#CCCCCC"><strong><a name="main"></a>Main Phone Numbers</strong></td>
+      <td width="50%" align="left" bgcolor="#CCCCCC"><strong><a name="mainno"></a>Main Phone Numbers</strong></td>
       <td width="50%" align="left" bgcolor="#CCCCCC"><strong><a name="fax"></a>Fax Numbers</strong></td>
     </tr>
     <tr>
@@ -916,7 +590,7 @@ umbctraining.com</a></p></td>
     </tr>
     <tr>
       <td align="left" bgcolor="#CCCCCC"><strong><a name="class"></a>Classroom Phone Numbers</strong></td>
-      <td align="left" bgcolor="#CCCCCC">&nbsp;</td>
+      <td align="left" bgcolor="#CCCCCC"><strong><a name="email"></a>General Emails</strong></td>
     </tr>
     <tr>
       <td align="left" valign="top"><p>DPS UC 203: 52830 <br>
@@ -925,15 +599,11 @@ umbctraining.com</a></p></td>
         DPS UC 206 Conference Room: 58606<br>
         <br>
       </p></td>
-      <td align="left" valign="top">TC Lab 1: 8501 <br>
-        TC Lab 2: 8502<br>
-        TC Lab 3: 8503<br>
-        TC Lab 4: 8504<br>
-        TC Classroom 1: 8511<br>
-        TC Classroom 2: 8512<br>
-        TC Conference 1: 7103<br>
-        TC Conference 2: 7115<br>
-        TC Kitchen: 8526<br></td>
+      <td align="left" valign="top">
+		Training Centers: <a href="mailto:info@umbctraining.com">info@umbctraining.com</a><br>
+		Division of Professional Studies: <a href="mailto:dps@umbc.edu">dps@umbc.edu</a><br>
+		Shady Grove: <a href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</a>
+      </td>
     </tr>
     <tr>
       <td align="left" valign="top">&nbsp;</td>

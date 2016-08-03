@@ -79,18 +79,19 @@ $lang = 'en';
 
 <!-- SLIDE ONE -->
 <li id="slide1">
-      
-<a href="infosession"><img alt="img02" src="images/6.png"></a>
+
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="http://umbc.edu/cyber/images/10.jpg" alt="Accepting Applications For Fall "/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Cybersecurity Information Session</h3>
-<small>Visit us to learn about our Master's and Graduate Certificate programs offered in Rockville, MD</small>
+<h3>Accepting Applications For Fall </h3>
+<small>Classes begin August 31.</small>
 
-<p><a href="infosession" class="web-seemore">RSVP Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captiontwo"><a href="infosession">Cybersecurity Information Session</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications For Fall </a></p>
 
 </li>
+   
 <!-- END SLIDE ONE -->
 
 <!-- SLIDE TWO -->

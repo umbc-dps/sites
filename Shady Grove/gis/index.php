@@ -80,12 +80,12 @@ $lang = 'en';
 <a href="http://gradschool.umbc.edu/admissions/apply" target="_blank"><img alt="img03" src="images/2.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>Apply for Fall 2016</h3>
+<h3>Accepting Applications For Fall </h3>
 <small>Apply by August 1st to Start in Fall 2016.</small>  
           
 <p><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank" class="web-seemore">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank"></a>Apply for Fall 2016</p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank"></a>Accepting Applications For Fall </p>
 
 </li>
 <!-- END SLIDE ONE --> 
