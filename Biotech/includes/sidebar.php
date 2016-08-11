@@ -1,6 +1,15 @@
 <div class="five columns">
 
     <aside class="five columns add-bottom" id="two">
+      <h3 style="color:#fff;">Upcoming Events</h3>
+      <p style="text-align:center">
+<strong>Professional Programs Open House</strong><br>
+		Tuesday, October 25, 5:30-8:00PM<br>
+      <a href="http://www.umbc.edu/openhouse/" class="btn" target="_blank">RSVP Now</a>
+	</p>
+    </aside>
+    
+    <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Past Event</h3>
       <p style="text-align:center">
 <strong>Webinar: Getting a Job in Biotechnology</strong><br />

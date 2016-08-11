@@ -69,7 +69,7 @@
 
       <section class="module content">
         <div class="container">
-          <h2>January 4 – 22, 2016</h2>
+          <h2>January 3 – 27, 2017</h2>
           <p>Take advantage of the time after the holidays to focus on one (or two) classes that need your undivided attention.</p>
           <p>
           <img src="img/paw.png" width="12"> Earn up to 4.5 credits in only 3 to 4 weeks<br>

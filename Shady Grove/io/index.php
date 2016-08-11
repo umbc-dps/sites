@@ -105,6 +105,22 @@ $lang = 'en';
 </li>
 
 <!-- END SLIDE TWO --> 
+
+<!-- SLIDE THREE -->
+<li id="slide3">
+
+<a href="http://www.umbc.edu/shadygrove/io/advisoryboard"  target="_blank"><img alt="img02" src="images/2.jpg"target="_blank"></a>
+
+<div class="carousel-caption wordwrap">
+<h3>I/O Psychology's Advisory Board</h3>
+<small>These professionals are committed to providing support and resources to add to the program's adherence and utilization of I/O Psychology's best practices.</small>
+
+<p><a href="http://www.umbc.edu/shadygrove/io/advisoryboard" target="_blank" class="web-seemore">Meet the Board</a></p></div>
+
+<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/advisoryboard" target="_blank">Meet the Board</a></p>
+
+</li>
+<!-- END SLIDE THREE -->
       
     </ul>
 

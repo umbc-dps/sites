@@ -131,13 +131,6 @@ $lang = 'en';
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 605 – 03 (4733)</td>
-    <td>The Adult Learner</td>
-    <td>Online Asynchronous</td>
-    <td>Sullivan, R.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
     <td>EDUC 647 – 01 (2158)</td>
     <td>Distance Training</td>
     <td>Online Asynchronous with synchronous sessions on 8/25, 9/14, 10/11, 11/10, and one on either 11/29, 11/30, or 12/1</td>
@@ -165,6 +158,13 @@ $lang = 'en';
     <td>Kellerman, P.</td>
     <td>n/a</td>
   </tr>
+   <tr>
+     <td>EDUC 681 – 02 (8237)</td>
+     <td>Survey of Instructional Technology Applications</td>
+     <td>Synchronous Online – Wednesdays 7:10 – 9:40 p.m.</td>
+     <td>Kellerman, P.</td>
+     <td>n/a</td>
+   </tr>
    <tr>
     <td>EDUC 682 – 01 (2157)</td>
     <td>Survey of Instructional Technology Applications</td>

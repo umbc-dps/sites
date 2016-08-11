@@ -127,20 +127,25 @@ $lang = 'en';
 !------------------------->
 
 
-<!------- Accordion 4 ------
+<!------- Accordion 4 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    8/2/2016 - 
     
     <i class="fa fa-angle-down"></i>
-    </h4>
+    EDUC 681 Second Fall 2016 Section</h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p>We  will be offering a second section of&nbsp;<a href="http://www.umbc.edu/isd/courses#EDUC681" target="_blank">EDUC 681: Survey of Instructional Technology Applications</a>&nbsp;for  fall 2016. This new section will meet online synchronously, Wednesdays 7:10 –  9:40 p.m.<br>
+      If  you are in the Master&rsquo;s degree plan of study or the Instructional Technology  certificate plan of study and would like authorization to register for this  course, you will need to send Dr.&nbsp;Hodell&nbsp;an updated advising form.<br>
+      Students  will be required to purchase the required software and textbook listed on our  website:&nbsp;<a href="http://umbc.edu/isd/textbooks" target="_blank">http://umbc.edu/isd/textbooks</a>.<br>
+      Should  you have any questions, please contact me.<br>
+      Please  remember that authorization does not reserve a seat in a course and you do need  to register online after receiving authorization.<br>
+      (Note:  EDUC 681 may be concurrently taken with EDUC 602).</p>
 </div>
-!------------------------->
+
 
 
 <!------- Accordion 5 ------>
@@ -575,44 +580,7 @@ Fall 2015 Drop/Withdraw Schedule: <a href="http://sbs.umbc.edu/fall-2015-dropwit
 
 
 
-<!------- Accordion 19 ------>
-<div class="accordionheader">
-	<h4><a href="#10-22" id="10-22"></a>
-    
-    10/22/2015 - Spring 2016 Registration Instructions
-    
-    <i class="fa fa-angle-down"></i>
-    </h4>
-</div>
 
-<div class="accordionbody">
-    <p><strong><u>Pre-Advising  Instructions</u></strong><strong>:</strong> <br>
-      <strong>Courses by Semester:</strong> Look for tentative long range schedule options, <a href="http://www.umbc.edu/isd/schedule#sequence">http://www.umbc.edu/isd/schedule#sequence</a> <br>
-      <strong>Course Descriptions and Prerequisites:</strong> <a href="http://www.umbc.edu/isd/courses">http://www.umbc.edu/isd/courses</a> <br>
-      <strong>Advising Form and Process: </strong><a href="http://www.umbc.edu/isd/advising">http://www.umbc.edu/isd/advising</a> Be sure your form is completely and correctly filled out. Blank  and incomplete forms have been sent in the past, delaying advising. <br>
-      <strong>Applying for Graduation, Comprehensive Exam  Dates and Portfolio Information: </strong><a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a> <br>
-      <strong>Holds: </strong>Make sure you do not have  any holds on your account. A hold will prevent you from registering. <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450">https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450</a></p>
-    <p><strong>Review the Spring 2016  Semester Schedule Prior to Sending Authorization Requests</strong>. <a href="http://www.umbc.edu/isd/schedule">http://www.umbc.edu/isd/schedule</a> (Multiple semesters may  be listed, make sure you are viewing the correct semester). </p>
-    <p><strong><u>Spring 2016 Registration  Instructions</u></strong> <br>
-      (Registration is a three step process) </p>
-    <ol start="1" type="1">
-      <li><strong>Advising:</strong> All students must contact Dr.       Hodell, <a href="mailto:hodell@umbc.edu">hodell@umbc.edu</a>,       to receive academic advising, every semester. Advising should be completed       through email. Please allow Dr. Hodell 7 - 10 days to review and approve       your course selections. Be sure to send your finalized form only.       Requesting changes after submitting your advising form will move your       request to the end of the list. (See link above for advising form and       instructions).<strong></strong></li>
-      <li><strong>Authorization:</strong> After Dr. Hodell approves your       course selection Renee will enter your authorization into the registration       system. You will be able to register after the dates shown below. More       authorizations than total number of spaces in a course may be entered. (We       will send an email when your authorization is entered.)<strong></strong></li>
-      <li><strong>Registration:</strong> After students are authorized,       they may register online via myUMBC according to the dates below.       Authorization does not guarantee a seat in a course. You must register       online and are advised to do so as soon as possible. Instructions for how       to register online may be found here: <a href="http://registrar.umbc.edu/services/registration/Information-About-Registration/">http://registrar.umbc.edu/services/registration/Information-About-Registration/</a><strong> </strong></li>
-    </ol>
-    <p><strong>Registration Schedule:</strong> <br>
-      <strong>November 2, 2015: </strong>Advance Registration begins for current Graduate Students <br>
-      <strong>December 1, 2015:</strong> Registration begins for NEW Graduate Students (admitted to spring  2016) <br>
-      <strong>January 18, 2016:</strong> Non-Degree Student Registration Begins </p>
-    <p><strong>Wait List:</strong> ISD  courses automatically have the Student Administration (SA) System hold any wait  lists. The ISD department cannot prioritize the wait list, nor can we override  the wait list. Read the &ldquo;Student Frequently Asked Questions&rdquo; about waitlists  prior to placing yourself on one, <a href="https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists">https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists</a>. </p>
-    <p><strong>Authorization Information and Notes:</strong> <br>
-      The ISD Department will give authorizations to  student who request them and are approved. This will result in some courses  having more authorizations issued than available seats in a course. We will  also continue to give authorization to courses that are full. <br>
-      Authorization does not guarantee a student a  seat in the course. Students must register online through their myUMBC account  to have a space in the course. If you opt to put yourself on the waitlist for a  course that is full be sure to read about wait lists in the link above. </p>
-    <p><u>Put your legal name and campus ID in the body of  the email with your authorization request.</u> It  is harder to enter an authorization for the correct individual if we cannot  look you up. </p>
-    <p>Make sure Renee Eisenhuth, (<a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a>) was copied on your authorization email from Dr. Hodell. If she  does not receive the email she will not enter the authorization. Only forward  your authorization email to Renee if she was not included. </p>
-    <p>Students interested in EDUC 792T and EDUC 794  should contact Dr. Williams directly at <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a> prior to requesting  authorization to discuss their internship or final project. You must include in  your email to Dr. Hodell that you have spoken to Dr. Williams before Dr. Hodell  will approve. </p>
-    <br>
-If you are looking to  receive authorization to take a course at another institution please contact  Renee, <a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a>. Inter-institutional requests do not get sent to Dr. H</div>
 
 
 

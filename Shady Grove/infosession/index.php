@@ -107,7 +107,6 @@
 	</h4>
 	<br>
 	<p>
-	Tuesday, August 9 - 12:00 PM <br>
     Wednesday, September 14 - 1:00 PM <br>
 	Saturday, October 29 - 12:30 PM <br>
 	Thursday, November 17 - 3:00 PM <br>
@@ -163,7 +162,6 @@
 
 	<p>
         <strong>Social Work:</strong><br>
-		Tuesday, August 8 - 5:30 PM<br>
         Wednesday, September 21 - 4:30 PM <br>
 		Wednesday, November 9 - 12:30 PM<br>
 	</p>

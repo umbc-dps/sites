@@ -12,7 +12,7 @@
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p>Spring 2016 Master's Application Deadline: November 1st; Spring 2016 Certificate Application Deadline: December 1st
+      <p>Spring 2017 Master's Application Deadline: November 1st; Spring 2017 Certificate Application Deadline: December 1st
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>

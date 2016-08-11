@@ -125,8 +125,11 @@
          Systems</a><br>
        </h3>
          <ol id="training-times3">
-<li>Check back soon for more info session opportunities. </li>
-         </ol></td>
+<li><strong>Date:</strong> Saturday, October 1<br> 
+<strong>Time:</strong> 11:00 am - 12:30 pm<br> 
+<strong>Location:</strong> Building III-4206</li>
+       </ol>
+       <br></tD>
      </tr>
      
      
@@ -143,16 +146,17 @@
        <td align="center" valign="top"><h3><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/shadygrove/cyber/infosession');">Cybersecurity</a><br>
        </h3>
            <ol id="training-times">
-<li>Check back soon for more info session opportunities. <br>
-               <br>
-             </li>
-           </ol></td>
+<li><strong>Date:</strong> Saturday, October 1<br> 
+<strong>Time:</strong> 11:00 am - 12:30 pm<br> 
+<strong>Location:</strong> Building III-4230</li>
+       </ol>
+       <br></tD></td>
        
        <td align="center" valign="top">
        <h3><a href="http://www.umbc.edu/biotech" target="_blank" onClick="ga('send', 'event', 'site', 'click', 'http://www.umbc.edu/biotech');">Biotechnology</a></h3>
          
  <ol id="training-times">
-             <li>Check back soon for more info session opportunities.
+<li>Check back soon for more info session opportunities.
              </li>
            </ol>
            </td>

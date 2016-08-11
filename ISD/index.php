@@ -103,17 +103,17 @@ $lang = 'en';
 
 <!-- SLIDE TWO -->    
       <li id="slide2">
-        <a href="https://www.youtube.com/playlist?list=PL0Y9Sng2cxe3khim43_NElKhk8tCRUw5i"><img alt="img01" src="images/4.jpg"></a>
+        <a href="http://isdnow.umbc.edu/?p=893"><img alt="img01" src="images/Ashley-Bunn.jpg"></a>
 
         <div class="carousel-caption wordwrap">
-          <h3>Hear From Our Alumni</h3>
-          <small>Alumni sit down with Graduate Program Director, Dr. Greg Williams to talk about their experiences at UMBC.</small>
+          <h3>Education in Action</h3>
+          <small>ISD Alumna, Ashley Bunn, shares her latest career success as Senior Manager of Curriculum Development with an international pizza franchise.</small>
 
-          <p><a href="https://www.youtube.com/playlist?list=PL0Y9Sng2cxe3khim43_NElKhk8tCRUw5i" class="btn">Watch the Videos</a></p>
+          <p><a href="http://isdnow.umbc.edu/?p=893" class="btn">Check Out Her Story</a></p>
         </div>
 
         <p id="captionone">
-          <a href="https://www.youtube.com/playlist?list=PL0Y9Sng2cxe3khim43_NElKhk8tCRUw5i">Hear From Our Alumni</a>
+          <a href="http://isdnow.umbc.edu/?p=893">Education in Action</a>
         </p>
       </li>
 <!-- END SLIDE TWO -->

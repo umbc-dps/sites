@@ -198,9 +198,9 @@ $lang = 'en';
 
 
           <div class="accordionbody">
-            <p>First in a series of three Instructional Technology courses,   this course exposes students to a range of multi-media tools used to design   interactive instruction including computer-based training (CBT) and web-based   training (WBT) products. Through analysis and hands-on experience with each   tool, the students identify the properties of each tool, describe the strengths   and limitations and evaluate their application for different learning events.   This course formerly was EDUC 640. <em><strong>This course is designed for PC and Windows based software. It does not support MAC users. </strong>The online section of this course   is taught using a synchronous delivery format.</EM></p>
+            <p>First in a series of three Instructional Technology courses,   this course exposes students to a range of multi-media tools used to design   interactive instruction including computer-based training (CBT) and web-based   training (WBT) products. Through analysis and hands-on experience with each   tool, the students identify the properties of each tool, describe the strengths   and limitations and evaluate their application for different learning events.   This course formerly was EDUC 640. <em>The online section of this course   is taught using a synchronous delivery format.</EM></p>
  <p>This course requires the purchase of Captivate software. The current semester's requirement may be found on the <a href="textbooks">Textbooks and Materials</a> page.</p>
- <p><STRONG>Prerequisite: </STRONG>EDUC 602 and consent of   department</p></div>
+ <p><STRONG>Prerequisite: </STRONG>EDUC 602 (may concurrently take 602 and 681) and consent of   department</p></div>
 
 
 <div class="accordionheader">
@@ -209,7 +209,7 @@ $lang = 'en';
 
 
           <div class="accordionbody">
-            <p>Second in the series of Instructional Technology courses, this   course continues a student's development process as he/she applies ISD   principles to the development and delivery of instruction using a computer-based   training model. This course formerly was EDUC 610. <em><strong>This course is designed for PC and Windows based software. It does not support MAC users. </strong>This course is   taught using a synchronous online delivery format.</EM></p>
+            <p>Second in the series of Instructional Technology courses, this   course continues a student's development process as he/she applies ISD   principles to the development and delivery of instruction using a computer-based   training model. This course formerly was EDUC 610.<em><strong> </strong>This course is   taught using a synchronous online delivery format.</EM></p>
  <p><STRONG>Prerequisite: </STRONG>EDUC 640 or 681 required and   consent of department</p></div>
 
 
@@ -219,7 +219,7 @@ $lang = 'en';
 
 
           <div class="accordionbody">
-            <p>The last of three Instructional Technology courses, this   lab-based course allows students to apply project development and multi-media   design skills by completing an industry-based design project. The course is   divided into four or more discrete modules that teach specific multi-media   development applications required to execute and complete the design project. By   the conclusion of the course, each student possesses comprehensive knowledge of   the applications and how to apply them to a multi-media design project.   This course formerly was EDUC 620. <em><strong>This course is designed for PC and Windows based software. It does not support MAC users. </strong>This course is taught using an   asynchronous delivery format.  There will be some synchronous sessions that will   be recorded for later viewing.</EM></p>
+            <p>The last of three Instructional Technology courses, this   lab-based course allows students to apply project development and multi-media   design skills by completing an industry-based design project. The course is   divided into four or more discrete modules that teach specific multi-media   development applications required to execute and complete the design project. By   the conclusion of the course, each student possesses comprehensive knowledge of   the applications and how to apply them to a multi-media design project.   This course formerly was EDUC 620. <em>This course is taught using an   asynchronous delivery format.  There will be some synchronous sessions that will   be recorded for later viewing.</EM></p>
  <p><STRONG>Prerequisite: </STRONG>EDUC 640 or 681 required and   consent of department<BR>
  </p></div>
 

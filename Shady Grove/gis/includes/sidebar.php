@@ -6,6 +6,12 @@
      <strong>Fall 2016 Orientation</strong><br>
      <small> Thursday, August 18, 2016 6:00 - 7:15pm</small><br>
   <a href="../student/grad-orientation" class="btn">RSVP</a>
+</p>
+<hr>
+<p style="text-align:center; margin-top:-15px">
+     <strong>Fall Information Session</strong><br>
+     <small> Saturday, October 1, 2016 11:00am</small><br>
+  <a href="http://www.umbc.edu/shadygrove/gis/infosession" class="btn">RSVP</a>
      </p>
     
    </aside>

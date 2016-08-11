@@ -147,7 +147,7 @@ Biech, E. (Ed.) (2014).&nbsp;<em>ASTD Handbook The Definitive  Reference for Tra
 ISBN: 978-1562869137</td>
   </tr>
   <tr>
- <td>EDUC 681 section 01: Survey  of Instructional Technology Applications (#2156)</td>
+ <td>EDUC 681 section 01 &amp; 02: Survey  of Instructional Technology Applications (#2156 &amp; #8237)</td>
  <td>Kellerman, P.</td>
  <td><strong>Required:</strong><br>
 Software:&nbsp;<strong><u>Adobe Captivate 9</u></strong><br>

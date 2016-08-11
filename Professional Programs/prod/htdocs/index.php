@@ -166,7 +166,7 @@ BEGIN MAIN
 
 <li id="slide1">
 
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/6.jpg" alt="Accepting Applications For Fall "/></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/6.jpg" alt="Accepting Applications For Fall"/></a>
 
 <div class="carousel-caption wordwrap">
 <h3>Accepting Applications For Fall </h3>
@@ -180,9 +180,24 @@ BEGIN MAIN
 
 <!---- END SLIDE ONE ---->
 
-        
 <!-- Slide Two -->        
 <li id="slide2">
+
+<a href="http://news.umbc.edu/two-umbc-alumni-to-compete-on-the-world-stage-at-rio-olympics/" target="_blank"><img src="images/rio.jpg" alt="Muhamed Hussein"/></a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>Retrievers in Rio</h3>
+<small>Mohamed Hussein, a current Engineering Management student, will represent Egypt as a member of the swim team.</small>
+
+<p><a href="http://news.umbc.edu/two-umbc-alumni-to-compete-on-the-world-stage-at-rio-olympics/" target="_blank">Read More</a></p></div>
+
+<p id="captiontwo"><a href="http://news.umbc.edu/two-umbc-alumni-to-compete-on-the-world-stage-at-rio-olympics/" target="_blank">Retrievers in Rio</a></p>
+
+</li>
+<!-- END Slide Two --> 
+        
+<!-- Slide Three -->        
+<li id="slide3">
 
 <a href="https://www.youtube.com/watch?v=eDLz0pDpHvU" class="video"><img src="images/president.png" alt="President Hrabowski"/></a>
 
@@ -195,13 +210,12 @@ BEGIN MAIN
 <p id="captiontwo"><a href="https://www.youtube.com/watch?v=eDLz0pDpHvU" class="video">Why Professional Programs?</a></p>
 
 </li>
-<!-- END Slide Two -->        
+<!-- END Slide Three -->        
 
+<!-- Slide Four -->        
+<li id="slide4">
 
-<!-- Slide Three -->        
-<li id="slide3">
-
-<a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank"><img alt="img01" src="images/2.jpg"></a>
+<a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank"><img alt="Reading on campus" src="images/2.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
 <h3>Grit Isn't Just For Students</h3>
@@ -213,13 +227,13 @@ BEGIN MAIN
 
 </li>
 
-<!-- END Slide Three -->  
+<!-- END Slide Four -->  
 
-<!-- SLIDE FOUR --> 
+<!-- SLIDE Five --> 
 
-<li id="slide4">
+<li id="slide5">
 
-<a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
+<a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="Arti Deore Choudhary headshot" src="images/arti.jpg"></a>
 
 <div class="carousel-caption wordwrap">
 <h3>UMBC Class of 2016 Profile: Arti Deore Choudhary</h3>
@@ -231,7 +245,7 @@ BEGIN MAIN
  
 </li>
 
-<!-- END SLIDE FOUR --> 
+<!-- END SLIDE Five --> 
   
         </ul>
         <div id="dotcontainer"></div>

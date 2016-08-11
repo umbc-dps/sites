@@ -112,7 +112,7 @@ $lang = 'en';
 </p>
    </div>
 <div class="accordionheader">
-  <h4><a href="#653" id="653"></a>BTEC 653: Principals of Upstream Processing [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#653" id="653"></a>BTEC 653: Princials of Upstream Processing [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -181,7 +181,7 @@ $lang = 'en';
           </div>
    
 <div class="accordionheader">
-  <h4><a href="#660" id="660"></a>BTEC 660: Regulatory Issues in Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#660" id="660"></a>BTEC/ENCH 660: Regulatory Issues in Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -191,7 +191,7 @@ $lang = 'en';
    </div>
    
    <div class="accordionheader">
-  <h4><a href="#662" id="662"></a>BTEC 662: Good Manufacturing Practices for Bioprocesses [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#662" id="662"></a>BTEC/ENCH 662: Good Manufacturing Practices for Bioprocesses [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -200,7 +200,7 @@ $lang = 'en';
    </div>
    
       <div class="accordionheader">
-  <h4><a href="#664" id="664"></a>ENCH 664: Quality Control & Quality Assurance for Biotechnology<br> Products [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#664" id="664"></a>BTEC/ENCH 664: Quality Control & Quality Assurance for Biotechnology<br> Products [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -208,8 +208,7 @@ $lang = 'en';
    </div>
    
 <div class="accordionheader">
-  <h4><a href="#665" id="6605"></a>BTEC 665: Leadership, Project Management, Communication &amp; <br>
-    Management [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#665" id="6605"></a>BTEC 665: Leadership and Team-Building [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -218,7 +217,7 @@ $lang = 'en';
    </div>
    
    <div class="accordionheader">
-  <h4><a href="#666" id="666"></a>ENCH 666: Design, Construction, and Validation of GMP Biotechnology Facilities [3]</h4>
+  <h4><a href="#666" id="666"></a>BTEC/ENCH 666: Biotechnology GMP Facility Design, Construction and Validation [3]</h4>
           </div>
           
           <div class="accordionbody">
@@ -234,7 +233,7 @@ $lang = 'en';
           </div> 
    
 <div class="accordionheader">
-  <h4><a href="#670" id="6606"></a>BTEC 670: Legal &amp; Ethical Issues in the Biotechnology [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#670" id="6606"></a>BTEC 670: Legal &amp; Ethical Issues in the Science Professions [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -265,7 +264,7 @@ $lang = 'en';
  -->
    
 <div class="accordionheader">
-  <h4><a href="#675" id="6606"></a>BTEC 675: Business of Biotech [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#675" id="6606"></a>BTEC 675: Business Principals of the Biotechnology Industry [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 

@@ -73,7 +73,7 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="img01" src="images/6.png"></a>
+<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="" src="images/6.png"></a>
 
 <div class="carousel-caption-right wordwrap">
 <h3>Register for Spring 2016</h3>
@@ -95,30 +95,30 @@ $lang = 'en';
 <a href="http://gradschool.umbc.edu/admissions/apply/" target="blank"><img src="images/10.jpg" alt="Professional Programs Info Session"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Accepting Applications For Fall </h3>
-<small>Classes begin August 31.</small>
+<h3>Apply for Fall 2016</h3>
+<small>Apply by August 1st to Start in the Fall.</small>
 
 <p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="blank">Accepting Applications For Fall </a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="blank">Apply for Fall 2016</a></p>
 
 </li>
 
-<!-- END SLIDE ONE -->   
+<!-- END SLIDE ONE -->  
 
 
 <!-- SLIDE TWO -->
 
 <li id="slide2">
-<a href="programmaster2" target="_blank"><img alt="img03" src="images/4.jpg"></a>
+<a href="programmaster2"><img alt="img03" src="images/4.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>New Biotechnology Core</h3>
-<small>UMBC's new Biotechnology curriculum is intended to address changes in the needs of the biotechology industry through experiential learning.</small>
+<h3>New Biotechnology Curriculum</h3>
+<small>Featuring new core courses and tracks</small>
 
-<p><a class="web-seemore" href="programmaster2" target="_blank">Read More</a></p></div>
+<p><a class="web-seemore" href="programmaster2">Learn More</a></p></div>
 
-<p id="captionthree"><a href="programmaster2">New Biotechnology Core</a></p>
+<p id="captionthree"><a href="programmaster2">New Biotechnology Curriculum</a></p>
 
 </li>
                
@@ -127,7 +127,7 @@ $lang = 'en';
 <!-- SLIDE THREE -->
 
 <li id="slide3">
-<a href="http://www.umbc.edu/biotech/faculty#broedel"><img alt="img03" src="images/broedel1.jpg"></a>
+<a href="http://www.umbc.edu/biotech/faculty#broedel"><img alt="Dr. Sheldon Broedel" src="images/broedel1.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
 <h3>Meet Our Faculty: Dr. Sheldon Broedel</h3>
@@ -149,8 +149,6 @@ $lang = 'en';
       </div>
     </div>
     <!-- START Content -->
-
-
     <h3>UMBC Biotechnology Graduate Programs</h3>
 
 

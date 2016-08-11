@@ -71,7 +71,7 @@ $lang = 'en';
   
 <!-- START Content --> 
 
- <h3>Post-Baccalaureate Certificate in Biochemical Regulatory Engineering</h3>
+<h3>Post-Baccalaureate Certificate in Biochemical Regulatory Engineering</h3>
  <p>Taking a new biotechnology product through a lengthy and rigorous FDA approval process can be a daunting experience. But knowing the internal framework of the FDA review and marketing authorization process can be a significant advantage. UMBC's post baccalaureate program in biochemical regulatory engineering guides students through the ins and outs of the FDA process and explores the numerous considerations that can help ensure product approval and sustainable regulatory compliance status. Professionals from leading bioscience companies and government agency organizations participate in this post-baccalaureate certificate program. Guest lecturers also from private entities and public organizations, with direct hands-on experience on the various topics, are featured frequently in all the courses of the program.</p>
  
  <h4>Program Highlights:</h4>
@@ -99,8 +99,8 @@ $lang = 'en';
  <ul>
    <li>BTEC/ENCH 660: <a href="http://www.umbc.edu/biotech/courses.php#660">Regulatory Issues in Biotechnology</a> [3]</li>
    <li>BTEC/ENCH 662: <a href="http://www.umbc.edu/biotech/courses.php#662">Good Manufacturing Practices for Bioprocesses</a> [3]</li>
-   <li>ENCH 664: <a href="http://www.umbc.edu/biotech/courses#664">Quality Control and Quality Assurance for Biotechnology Products</a> [3]</li>
-   <li>ENCH 666: <a href="http://www.umbc.edu/biotech/courses#666">Design, Construction, and Validation of GMP Biotechnology Facilities</a> [3]</li>
+   <li>BTEC/ENCH 664: <a href="http://www.umbc.edu/biotech/courses#664">Quality Control and Quality Assurance for Biotechnology Products</a> [3]</li>
+   <li>BTEC/ENCH 666: <a href="http://www.umbc.edu/biotech/courses#666">Biotechnology GMP Facility Design, Construction and Validation</a> [3]</li>
  </ul>
    
  
@@ -123,9 +123,6 @@ $lang = 'en';
    </tr>
    </table>
 <br>
-
-
-
  
  <!-- END Content -->
 

@@ -83,6 +83,20 @@ $lang = 'en';
 <!-- START Content --> 
 <h3>Advisory Board</h3>
 
+<h4>Mission Statement</h4>
+<p>The mission of UMBC’s I/O Psychology Advisory Bard is to support the program, including curriculum, students and faculty through multiple spheres of influence.</p>
+
+<h4>About the Advisory Board</h4>
+<p>The Advisory Board is made up of caring and highly accomplished industry leaders from the consulting, nonprofit, and private sectors.  It will fulfill its mission through an ongoing relationship with the program. Activities of the Board will include (but not be limited to):</p>
+
+<ul>
+<li>Curriculum Advisory</li>
+<li>Student Mentoring</li>
+<li>Career and employment development through internships and jobs</li>
+<li>Professional networking</li>
+<li>Guest presentations to students and faculty about I/O and HR industry experience</li>
+</ul>
+
 <div class="accordionheader">
   <h4><a id="alonso" href="#alonso"></a>Alexander Alonso, PhD <i class="fa fa-angle-down"></i></h4>
 </div>
@@ -93,6 +107,28 @@ $lang = 'en';
 <p>In addition, he is the division lead for the SHRM Knowledge Center and Academic Initiatives. During his career, he has worked with numerous subject matter experts worldwide with the aim of identifying performance standards, developing competency models, designing organizational assessments, and conducting job analyses. He was also responsible for working on contract task orders involving the development of measurement tools for content areas such as job knowledge (like teacher knowledge of instructional processes) and organizational climates (like organizational climate forecasting in military health care). He possesses experience in projects dealing with organizational assessments and workforce analysis drawing on interdisciplinary advanced training, quantitative and qualitative research methods, as well as multicultural and foreign language skills. </p>
 
 <p>Dr. Alonso received his doctorate in Industrial-Organizational Psychology from Florida International University in 2003. Dr. Alonso was part of the team recognized by the Society for Industrial Organizational Psychology (Division 14 of the APA; SIOP) with the 2007 M. Scott Myers Award for Applied Research in the Workplace for the development of the federal standard for medical team training, TeamSTEPPS. In addition, Dr. Alonso was awarded a 2009 Presidential Citation for Innovative Practice by the American Psychological Association for supporting the development of competency model for team triage in emergency medicine. He is also the recipient of the 2013 SIOP Distinguished Early Career Contributions for Practice Award. He has published works in peer-reviewed journals such as Journal of Applied Psychology, International Journal of Selection and Assessment, People and Strategy, Personality and Individual Differences, Quality and Safety in Health Care, and Human Resources Management Review. Dr. Alonso also served as a columnist reviewing international practice topics for The Industrial Psychologist from 2011-2014. He has also served as the Chairperson for the SIOP International Affairs Committee, a member of the SIOP Professional Practice, Awards, and Program Committees, and the 2014 president of the Personnel Testing Council of Metropolitan Washington. He currently serves as the SIOP Executive Board Communications Portfolio Officer.</p>
+</div>
+
+<div class="accordionheader">
+  <h4><a id="bach" href="#bach"></a>Susan Bach <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p>Susan is currently the Vice President, Human Resources for MacroGenics, a public biotechnology company in Rockville.  She joined MacroGenics in March 2015 and is responsible for all areas of human resources including driving people development, fostering a healthy culture, championing organizational effectiveness initiatives, talent acquisition, and overseeing all compensation and benefit programs.</p>
+
+<p>Prior to joining MacroGenics, Susan was the head of human resources for the United States Pharmacopeia in Rockville for four years. Susan has spent most of her career in the life sciences industries including VP, HR at Sucampo Pharmaceuticals, Sr. Manager of HR at Invitrogen/Life Technologies, Director of HR at Adolor Pharmaceuticals and twelve years in various HR leadership roles with SmithKline Beecham.  Susan began in her career in personnel as a Co-op student at UMBC with the Social Security Administration.  Susan has her Bachelor's degree from UMBC in Sociology and returned to school in 2006 to obtain her Masters of Science degree at Johns Hopkins University in Organization Development & Strategic HR, and graduated with honors.</p>
+
+<p>In her spare time, Susan coordinates a rescue program in Virginia, DC and Maryland for the American Bouvier Rescue League and takes care of her four dogs and her home on 4 acres in Gaithersburg.</p>
+</div>
+
+
+<div class="accordionheader">
+  <h4><a id="baker" href="#baker"></a>David Baker, PhD <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p><img align="left" alt="David Baker" src="images/advisoryboard/baker.jpg">​​Dr. David Baker is the Executive Vice President of the Center for Research, Evaluation and Implementation (CREI) at IMPAQ International.  CREI consists of IMPAQ’s Health Policy, Labor Policy, Human Services, Education, and International Development Divisions. Approximately 180 research staff work in CREI. Throughout his time at IMPAQ, David has held significant leadership roles, including Vice President and Senior Vice President of IMPAQ’s Health Division, Chief Program Officer (this role included oversight of IMPAQ’s Survey Division) and now Executive Vice President of CREI.</p>
+  <p>David also has a diverse research background having supported projects on aircrew and air traffic control training, teacher preparation, human and team performance measurement and now patient safety and quality improvement. He has led needs analyses, developed training programs for teams and individuals, conducted national surveys, and evaluated important federal initiatives. He is most known for his work on the Agency for Healthcare Research and Quality’s TeamSTEPPS® program which is used by health care professionals world-wide to improve care quality. He is a recognized expert on team performance, team training, and training evaluation. He holds a PhD in Industrial and Organizational Psychology from the University of South Florida. He is a Fellow of the Society for Industrial and Organizational Psychology and has published and presented over 100 papers on his research.</p>
 </div>
 
 <div class="accordionheader">
@@ -130,7 +166,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a id="hyatt" href="#hyatt"></a>Steve Hyatt</h4>
+  <h4><a id="hyatt" href="#hyatt"></a>Steve Hyatt <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">

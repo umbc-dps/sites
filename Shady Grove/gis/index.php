@@ -81,7 +81,7 @@ $lang = 'en';
 
 <div class="carousel-caption-right wordwrap">
 <h3>Accepting Applications For Fall </h3>
-<small>Apply by August 1st to Start in Fall 2016.</small>  
+<small>Classes begin August 31.</small>  
           
 <p><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank" class="web-seemore">Apply Now</a></p></div>
 

@@ -107,8 +107,8 @@ Normally, the fall exam occurs on a weekend either late October/ early November;
    </p>
    <p>Current dates for upcoming exams are:</p>
    <ul>
-     <li><strong>Summer 2016:</strong> June 17 - 20, 2016</li>
      <li><strong>Fall 2016:</strong> October 21 - 24, 2016</li>
+     <li><strong>Spring  2017:</strong> March 31 - April 3, 2017</li>
    </ul>
    <h4>Applying for the Exam: </h4>
    
