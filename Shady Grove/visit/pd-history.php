@@ -29,6 +29,7 @@
 
 
 <link href="../css/styles-ug.css" rel="stylesheet">
+<link href="../css/event.css" rel="stylesheet">
 
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 <script src="..js/modernizr.custom.js"></script>
@@ -64,160 +65,9 @@ html::after {
 }
 
 }
-.programs li{
-	margin:0px;
-	list-style-type:none!important;
-	margin-left:0px!important;
-	padding:6px;
-	font-size:11pt!important;
-	border-bottom:1px #CCC solid;
-}
-.programs li:hover{
-	background-color:#F9B631;
-	color: #000!important;
-}
-.programs a li{
-	text-decoration:none!important;
-}
-.programs a{
-	text-decoration:none!important;
-}
-#usgheading1 {
-	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
-	color:#FFF!important;
-	position:absolute;
-	margin-top:15px;
-	padding-left:10px;
-	line-height: 1.1em;
-	background-color:transparent;
-	z-index:2;
-}
-
-.alumni div { float: left; width: 31%; text-align: center; }
-
-	@media 
-	only screen and (max-width: 1023px),
-	(min-device-width: 800px) and (max-device-width: 1023px)  {
-	
-.alumni div { display: block; width: 98%; height: 200px; padding-bottom:10px; text-align:center}
-.alumni div:hover { background-size: cover; }
-	}
-	
-.module {
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
-    ),
-    url('http://umbc.edu/isd/images/current/advising.jpg');
-  background-size: cover;
-  height: 200px;
-  position: relative;
-  float: left;
-  margin: 1%;
-}
-
-.module:hover{
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0)
-    ),
-	url('http://umbc.edu/isd/images/current/advising.jpg');
-}
-	
-
-.mid h4 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
-  color: white;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 2rem;
-  transform: translate(-50%, -50%);
-}
-a.button{font-size:10pt}
-.divider{border-right:1px solid #000; }
-.seven{padding: 25px;}
-
-	@media 
-	only screen and (max-width: 1023px),
-	(min-device-width: 800px) and (max-device-width: 1023px)  {
-		.divider{
-		border-bottom:1px solid #000; 
-		border-top:none; 
-		border-left: none;
-		border-right:none
-		}
-		.seven{padding: 0px;}
-	}
 
 option[value*="Political Science"], option[value*="Psychology"], option[value*="Social Work"], .poli, .psych, .socialwork  {display:none}
-aside h3 {
-	color: #ce181e;
-	background: #000;
-	padding: .35em;
-	font-size:1.75em;
-}
-/* ASIDE FORM */
-form#ss-form {padding-left: 5%;}
-input#ss-submit {width: 93%; height: 40px}
-.ss-form-entry input, .ss-form-entry select { width: 93%; margin-bottom: 10px; height: 20px }
-.ss-q-title{font-weight: bold}
-.ss-required-asterisk{text-align:right; font-style:italic; padding-right: 15px}
-ul.ss-choices input {width:auto; margin-bottom: 0px; height: auto}
-ul.ss-choices li {list-style-type:none; margin-left: -25px}
 
-/* ASIDE CAPTCHA FORM */
-div#form {padding-left: 5%}
-#form table, table#contact {width:195%!important}
-#form td{padding-bottom:3px!important}
-#form input[type="submit"] {width: 95%; height: 30px}
-#form label{font-weight: bold; font-size:10pt}
-#form input {width:auto; margin-bottom: 0px; height: auto}
-#form select {height: 30px!important}
-#form li {list-style-type:none; margin-left: -25px}
-#form textarea {width:95%!important}
-#contact td {display:block; width:100%!important}
-
-table#contact2, table#contact2 td{ display: block; width:95%; text-align:center; padding-left: 5%}
-
-/* BUTTON */
-aside .btn, input.btn  {
-  width: 95%;
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  text-align:center;
-  margin-top:5px;
-}
-
-.btn, input.btn {
-  -webkit-border-radius: 9;
-  -moz-border-radius: 9;
-  border-radius: 9px;
-  color: #000 !important;
-  background: #FEB500 !important;
-  padding: 5px 10px 5px 10px;
-  text-decoration: none;
-}
-aside#four input.btn{
-  font-size: 10pt !important;
-  border: 0;
-  text-shadow: none;
-  -webkit-border-radius: 9;
-  -moz-border-radius: 9;
-  border-radius: 9px;
-}
-
-.btn:hover, input.btn:hover  {
-  background: #F9E1A7 !important;
-  text-decoration: none;
-  color: #FFF;
-}
-	
 </style>
 
 

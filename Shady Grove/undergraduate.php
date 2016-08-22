@@ -37,54 +37,6 @@
 
 
 <style type="text/css">
-@media screen and (min-width:800px) {
-html{
-	position: relative;
-	height:100%;
-}
-html::after {
-  content: "";
-  background: url(images/bg/<?php echo $selectedBg; ?>) no-repeat;
-  background-size:cover;
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: fixed;
-  z-index: -1;  
-  background-attachment:fixed;
-}
-}
-.programs li{
-	margin:0px;
-	list-style-type:none!important;
-	margin-left:0px!important;
-	padding:6px;
-	font-size:11pt!important;
-	border-bottom:1px #CCC solid;
-}
-.programs li:hover{
-	background-color:#F9B631;
-	color: #000!important;
-}
-.programs a li{
-	text-decoration:none!important;
-}
-.programs a{
-	text-decoration:none!important;
-}
-#usgheading1 {
-	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
-	color:#FFF!important;
-	position:absolute;
-	margin-top:15px;
-	padding-left:10px;
-	line-height: 1.1em;
-	background-color:transparent;
-	z-index:2;
-}
-
 </style>
 
 

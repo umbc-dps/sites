@@ -1,0 +1,63 @@
+/* ASIDE FORM */
+form#ss-form {padding-left: 5%;}
+input#ss-submit {width: 93%; height: 40px}
+.ss-form-entry input, .ss-form-entry select { width: 93%; margin-bottom: 10px; height: 20px }
+.ss-q-title{font-weight: bold}
+.ss-required-asterisk{text-align:right; font-style:italic; padding-right: 15px}
+ul.ss-choices input {width:auto; margin-bottom: 0px; height: auto}
+ul.ss-choices li {list-style-type:none; margin-left: -25px}
+
+/* ASIDE CAPTCHA FORM */
+div#form {padding-left: 5%}
+#form table, table#contact {width:195%!important}
+#form td{padding-bottom:3px!important}
+#form input[type="submit"] {width: 95%; height: 30px}
+#form label{font-weight: bold; font-size:10pt}
+#form input {width:auto; margin-bottom: 0px; height: auto}
+#form select {height: 30px!important}
+#form li {list-style-type:none; margin-left: -25px}
+#form textarea {width:95%!important}
+#contact td {display:block; width:100%!important}
+
+table#contact2, table#contact2 td{ display: block; width:95%; text-align:center; padding-left: 5%}
+
+/* BUTTON */
+aside .btn, input.btn  {
+  width: 95%;
+  display: block;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align:center;
+  margin-top:5px;
+}
+
+.btn, input.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  color: #000 !important;
+  background: #FEB500 !important;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+aside#four input.btn{
+  font-size: 10pt !important;
+  border: 0;
+  text-shadow: none;
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+}
+aside h3 {
+	color: #ce181e;
+	background: #000;
+	padding: .35em;
+	font-size:1.75em;
+}
+
+.btn:hover, input.btn:hover  {
+  background: #F9E1A7 !important;
+  text-decoration: none;
+  color: #FFF;
+}
+	

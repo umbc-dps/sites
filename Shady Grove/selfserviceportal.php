@@ -57,80 +57,12 @@ html::after {
   background-attachment:fixed;
 }
 }
-.programs li{
-	margin:0px;
-	list-style-type:none!important;
-	margin-left:0px!important;
-	padding:6px;
-	font-size:11pt!important;
-	border-bottom:1px #CCC solid;
-}
-.programs li:hover{
-	background-color:#F9B631;
-	color: #000!important;
-}
-.programs a li{
-	text-decoration:none!important;
-}
-.programs a{
-	text-decoration:none!important;
-}
-#usgheading1 {
-	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
-	color:#FFF!important;
-	position:absolute;
-	margin-top:15px;
-	padding-left:10px;
-	line-height: 1.1em;
-	background-color:transparent;
-	z-index:2;
-}
 
-.alumni div { float: left; width: 31%; text-align: center; }
 
-	@media 
-	only screen and (max-width: 1023px),
-	(min-device-width: 800px) and (max-device-width: 1023px)  {
-	
-.alumni div { display: block; width: 98%; height: 200px; padding-bottom:10px; text-align:center}
-.alumni div:hover { background-size: cover; }
-	}
-	
-.module {
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
-    ),
-    url('http://umbc.edu/isd/images/current/advising.jpg');
-  background-size: cover;
-  height: 200px;
-  position: relative;
-  float: left;
-  margin: 1%;
-}
 
-.module:hover{
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0)
-    ),
-	url('http://umbc.edu/isd/images/current/advising.jpg');
-}
+
 	
 
-.mid h4 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
-  color: white;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 2rem;
-  transform: translate(-50%, -50%);
-}
 
 .style11 {  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
@@ -366,7 +298,7 @@ i {
         <li>Our code is 002105.</li>
         <li>For more assistance with the FAFSA, click <a href="http://www.umbc.edu/financialaid/eligibility.html" target="_blank">here</a>.</li>
       </ul>
-      <p><strong>I got a green card in the mail mentioning something about my  aid refund. What do I do with this card? </strong></p>
+      <p><strong>I got a green-colored card in the mail mentioning something about my  aid refund. What do I do with this card? </strong></p>
       <ul>
         <li>Do not throw this card away, as it is needed to  set your refund preferences.</li>
         <li>Click <a href="http://sbs.umbc.edu/tuition-info/refunds/" target="_blank">here</a> for step-by-step  instructions.</li>

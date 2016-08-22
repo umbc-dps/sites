@@ -57,60 +57,6 @@ html::after {
   background-attachment:fixed;
 }
 }
-.programs li{
-	margin:0px;
-	list-style-type:none!important;
-	margin-left:0px!important;
-	padding:6px;
-	font-size:11pt!important;
-	border-bottom:1px #CCC solid;
-}
-.programs li:hover{
-	background-color:#FFCC00;
-}
-.programs li:hover a{
-	color: #000!important;
-}
-.programs a li{
-	text-decoration:none!important;
-}
-.programs a{
-	text-decoration:none!important;
-}
-
-.ui-tabs-nav {
-	background:#FFF!important;
-	font-family: "Avenir-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 9pt;
-
-}
-#tabs li a{padding:3px 5px;}
-#tabs{font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
-
-/*Mobile Responsive iFrame*/
-.videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
-}
-.videoWrapper2 {
-	position: relative;
-	padding-bottom: 150%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
-}
-.videoWrapper iframe, .videoWrapper2 iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-@media screen and (max-width:799px) {
-.videoWrapper2 iframe {height: 275%}
-.videoWrapper2 {margin-bottom: 275%}
-}	
 </style>
 </head>
 

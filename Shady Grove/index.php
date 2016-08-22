@@ -376,12 +376,6 @@
 </p>
 </div>
 </div>
-    
-<!-- footer start -->
-<footer role="contentinfo" id="site-footer">
-</footer>   
-
-
 </div> <!-- #container -->
 
 
@@ -390,7 +384,7 @@
 <section class="page-content" style="background-color:transparent">
     
 <article role="main">
- 
+<br clear="all">
 <div class="news"> 
 
 <h1>UMBC-Shady Grove</h1>
@@ -465,8 +459,8 @@
 <br clear="all"><br>
 
 <center>
-<?php include("includes/footer-ug.php"); ?>
-<?php include("includes/tracking.php"); ?> 
+	<?php include("includes/footer-ug.php"); ?>
+    <?php include("includes/tracking.php"); ?> 
 </center>
 </footer>
 

@@ -29,7 +29,10 @@
 
 
 <link href="css/styles-ug.css" rel="stylesheet">
+<link href="css/accordion-ug.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
+
+
 <script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -57,105 +60,6 @@ html::after {
   background-attachment:fixed;
 }
 }
-.programs li{
-	margin:0px;
-	list-style-type:none!important;
-	margin-left:0px!important;
-	padding:6px;
-	font-size:11pt!important;
-	border-bottom:1px #CCC solid;
-}
-.programs li:hover{
-	background-color:#F9B631;
-	color: #000!important;
-}
-.programs a li{
-	text-decoration:none!important;
-}
-.programs a{
-	text-decoration:none!important;
-}
-#usgheading1 {
-	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
-	color:#FFF!important;
-	position:absolute;
-	margin-top:15px;
-	padding-left:10px;
-	line-height: 1.1em;
-	background-color:transparent;
-	z-index:2;
-}
-
-.alumni div { float: left; width: 31%; text-align: center; }
-
-	@media 
-	only screen and (max-width: 1023px),
-	(min-device-width: 800px) and (max-device-width: 1023px)  {
-	
-.alumni div { display: block; width: 98%; height: 200px; padding-bottom:10px; text-align:center}
-.alumni div:hover { background-size: cover; }
-	}
-	
-.module {
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
-    ),
-    url('http://umbc.edu/isd/images/current/advising.jpg');
-  background-size: cover;
-  height: 200px;
-  position: relative;
-  float: left;
-  margin: 1%;
-}
-
-.module:hover{
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0),
-      rgba(0, 0, 0, 0)
-    ),
-	url('http://umbc.edu/isd/images/current/advising.jpg');
-}
-	
-
-.mid h4 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
-  color: white;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 2rem;
-  transform: translate(-50%, -50%);
-}
-
-div.accordionheader{background-color: #ffdda0;}
-.accordionheader {color:#000; margin-top:8px; text-align: left;}
-.accordionbody
-.accordionbody ul li {list-style:square}
-.accordionheader:hover{cursor:pointer}
-
-i { 
-	float:right;
-	padding:5px;
-    -webkit-transition:all 300ms ease-in 0s;
-    -moz-transition: all 300ms ease-in 0s;
-    -o-transition: all 300ms ease-in 0s;
-	transition: all 300ms ease-in 0s;}
-
-.ui-state-active i {
-    color: #000;
-    -webkit-transform: rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
-.accordionheader h4{font-size:12pt; padding:5px; line-height:14pt}
-
 </style>
 
 
