@@ -1,2 +1,0 @@
-    <p align="center" style="border-top:2px #E9AB13 solid"><br />
-© <script>document.write(new Date().getFullYear())</script> UMBC at <a href="http://umbc.edu/shadygrove" target="_blank">The Universities at Shady Grove</a> · 9636 Gudelsky Drive, Rockville, MD 20850 · 301-738-6081 · <a href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</a></p>
