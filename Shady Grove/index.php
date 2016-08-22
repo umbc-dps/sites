@@ -19,54 +19,6 @@
     <!-- Template Styles -->
     <link rel="stylesheet" type="text/css" href="css/homepage.css" />
 
-    <!-- Site-Specific Customizations -->
-    <style type="text/css">
-
-      #site-menu, #site-menu li a, #site-menu li ul {}
-      #site-menu li:hover a {}
-      #site-menu li a:hover, #site-menu li a:focus {}
-      #site-menu .menu-arrow {}
-      #site-menu li:hover > a .menu-arrow {}
-      #site-footer {}
-      #site-footer .site-name {color: #ffffff;}
-      #site-footer a {}
-      .layout-default .page-container-inner, .layout-home .page-container-inner {}
-      /*.layout-default .page-sidebar, .layout-home .page-sidebar, .sidebar-nav a {}*/
-      .layout-default .page-sidebar, .layout-home .page-sidebar, .sidebar-nav a {}
-      .sidebar-nav a .secondary {}
-      .sidebar-nav > ul > li > a, .sidebar-nav > ul > li.current-menu-item > a, .sidebar-nav > ul > li.current-menu-ancestor > a {}
-      .sidebar-nav-header {}
-      .sidebar-nav a:hover, .sidebar-nav a:focus, .sidebar-nav a:hover .secondary, .sidebar-nav a:focus .secondary { }
-      .sidebar-nav .current-menu-item > a:hover > .menu-arrow, .sidebar-nav .current-menu-item > a:focus > .menu-arrow {}
-      .sidebar-nav .current-menu-item > a, .sidebar-nav .current-menu-item > a .secondary {}
-      .sidebar-nav .current-menu-item > a > .menu-arrow, .sidebar-nav .current-menu-item > a:hover > .menu-arrow, .sidebar-nav .current-menu-item > a:focus > .menu-arrow {}
-      .widget .widgettitle {background-color: #cccccc; color: #000000;}
-      .widget .widgettitle a {color: #000000;}
-      .widget > ul, .widget > .textwidget {background-color: #ffffff; color: #000000;}
-      .widget > ul a, .widget > .textwidget a {color: #0088CC;}
-      .widget .rss-date, .widget .secondary, .widget_twitter > ul a.timesince {color: #5d5656;}
-      .widgetcorner, .widgetcorner .fill {}
-      .layout-default .widgetcorner .corner {border-right-color: #909090;}
-      .layout-home .widgetcorner .corner {border-left-color: #909090;}
-
-      @media screen and (max-width: 767px) {
-        #mobile-site-menu-expander {color: #fff;}
-        .mobile-site-menu-expander-bar {background-color: #fff;}
-        #site-header {}
-        #site-header h1 {font-size: 30px;}
-        #site-menu li:hover a {}
-        .layout-default .page-sidebar, .layout-home .page-sidebar {}
-
-        /* This is here to override any custom color set by the theme */
-        .layout-default .page-container-inner, .layout-home .page-container-inner { background-color: #fff; }
-      }
-
-.buttons-big a{
-	text-decoration: none
-}
-#mobile-site-menu-expander{display:none}
-
-</style>
 
     <!-- Some custom styles just for older IE versions -->
     <!--[if lte IE 8]>
