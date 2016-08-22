@@ -52,7 +52,8 @@ $lang = 'en';
 <div id="container-header-background">
 
 <!-- umbc header -->
-<div id="container-header"> <?php include("../includes/umbc-header.php"); ?>
+<div id="container-header">
+ <?php include("../includes/umbc-header.php"); ?>
 </div>
 <!-- END umbc header -->
 
@@ -68,7 +69,7 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ <?php include("../includes/header.php"); ?>
  
 <!-- END Page Header -->
 
@@ -248,6 +249,14 @@ $( "#accordion" ).accordion({
 });
 </script>  
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>

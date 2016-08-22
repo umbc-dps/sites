@@ -8,7 +8,7 @@
     <meta charset="UTF-8" />
     <title>Cybersecurity at UMBC</title><link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">

@@ -67,7 +67,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -135,7 +137,15 @@ $lang = 'en';
 
 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 </body>
 </html>

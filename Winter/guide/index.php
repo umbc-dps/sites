@@ -64,7 +64,7 @@ Read more here: [License](http://tympanus.net/codrops/licensing/)
     <link rel="stylesheet" type="text/css" href="css/style8.css" />
     <link rel="stylesheet" type="text/css" href="css/meters.css" />
 
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 
   </head>
     

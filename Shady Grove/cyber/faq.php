@@ -64,7 +64,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -176,6 +178,14 @@ $('h4').click(function() {
 	ga('send', 'event',  'accordion', 'click', linkText);
 });
 </script>   
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>

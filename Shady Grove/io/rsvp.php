@@ -70,7 +70,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -140,7 +142,15 @@ Join our Professional Programs Open House to meet the I/O Psychology Program Dir
 
 
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 </body>
 </html>

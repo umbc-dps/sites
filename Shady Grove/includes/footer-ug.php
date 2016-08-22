@@ -1,0 +1,2 @@
+  <p>© <script>document.write(new Date().getFullYear())</script> UMBC at The Universities at Shady Grove • 9636 Gudelsky Drive, Rockville, MD 20850 • 301-738-6081 • E-mail: <a href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</a><a href="http://www.umbc.edu/ola/nondiscrimination.html" target="_blank"><br>
+UMBC is an Equal Opportunity and Affirmative Action Institution</a> </p>

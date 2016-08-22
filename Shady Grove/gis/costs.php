@@ -71,7 +71,9 @@ $lang = 'en';
 
   <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -157,7 +159,7 @@ $lang = 'en';
           <a href="http://financialaid.umbc.edu" target="_blank">Financial Aid</a>
         </li>
         <li>
-          <a href="../bursar/" target="_blank">Student Business Services</a>
+          <a href="http://sbs.umbc.edu/" target="_blank">Student Business Services</a>
         </li>
 
 
@@ -209,6 +211,14 @@ $lang = 'en';
 
 
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>

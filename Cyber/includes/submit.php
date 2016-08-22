@@ -5,7 +5,21 @@ $hiirequiredurl="";
 $hiierror="";
 $hiifieldname="hii";
 
-if(!empty($hiianswer)&&!empty($_POST)){$hiiinput=trim($_POST[$hiifieldname]);$hiiinput=strtolower($hiiinput);if(empty($hiiinput)){if(!empty($hiirequiredurl)){header("Location: $hiirequiredurl");}else{echo"<html><head><title>Human Intelligence Identification (Hii) Required</title></head><body>";echo"<h1 style='text-align:center'>Human Intelligence Identification Answer Required</h1>";echo"<p style='text-align:center'>Please <a href='http://www.umbc.edu/cyber'>Return to the Form</a><br /><br />and provide the required<br /><br /><b>Human Intelligence Identification Answer</b></p>";echo"</body></html>";}exit;}if($hiiinput!=$hiianswer){if(!empty($hiierror)){if($hiierror=="none"){exit;}else{header("Location: $hiierror");}}else{echo"<html><head><title>Human Intelligence Identification (Hii) Error</title></head><body>";echo"<h1 style='text-align:center'>Human Intelligence Identification Answer Error</h1>";echo"<p style='text-align:center'>Please <a href='".$_SERVER['PHP_SELF']."'>Return to the Form</a><br /><br />and provide the correct<br /><br /><b>Human Intelligence Identification Answer</b></p>";echo"</body></html>";}exit;}}?>
+if(!empty($hiianswer)&&!empty($_POST)){$hiiinput=trim($_POST[$hiifieldname]);$hiiinput=strtolower($hiiinput);if(empty($hiiinput)){if(!empty($hiirequiredurl)){header("Location: $hiirequiredurl");}else{echo"<html><head><title>Human Intelligence Identification (Hii) Required</title></head><body>";echo"<h1 style='text-align:center'>Human Intelligence Identification Answer Required</h1>";echo"<p style='text-align:center'>Please <a href='http://www.umbc.edu/cyber'>Return to the Form</a><br /><br />and provide the required<br /><br /><b>Human Intelligence Identification Answer</b></p>";echo"
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
+</body></html>";}exit;}if($hiiinput!=$hiianswer){if(!empty($hiierror)){if($hiierror=="none"){exit;}else{header("Location: $hiierror");}}else{echo"<html><head><title>Human Intelligence Identification (Hii) Error</title></head><body>";echo"<h1 style='text-align:center'>Human Intelligence Identification Answer Error</h1>";echo"<p style='text-align:center'>Please <a href='".$_SERVER['PHP_SELF']."'>Return to the Form</a><br /><br />and provide the correct<br /><br /><b>Human Intelligence Identification Answer</b></p>";echo"
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
+</body></html>";}exit;}}?>
 
 <?
 

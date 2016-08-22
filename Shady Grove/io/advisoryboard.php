@@ -72,7 +72,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -84,7 +86,7 @@ $lang = 'en';
 <h3>Advisory Board</h3>
 
 <h4>Mission Statement</h4>
-<p>The mission of UMBC’s I/O Psychology Advisory Bard is to support the program, including curriculum, students and faculty through multiple spheres of influence.</p>
+<p>The mission of UMBC’s I/O Psychology Advisory Board is to support the program, including curriculum, students and faculty through multiple spheres of influence.</p>
 
 <h4>About the Advisory Board</h4>
 <p>The Advisory Board is made up of caring and highly accomplished industry leaders from the consulting, nonprofit, and private sectors.  It will fulfill its mission through an ongoing relationship with the program. Activities of the Board will include (but not be limited to):</p>
@@ -302,7 +304,15 @@ $( "#accordion" ).accordion({
 });
 </script>  
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 </body>
 </html>

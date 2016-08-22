@@ -27,10 +27,10 @@ $lang = 'en';
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<link href="css/accordion.css" rel="stylesheet">
+<link href="../css/accordion.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
-<script src="js/modernizr.custom.js"></script>
+<script src="../js/modernizr.custom.js"></script>
 
 
 
@@ -77,7 +77,7 @@ tr.hidden-fields{height:0px!important; width:0px!important}
 
 <!-- umbc header -->
 <div id="container-header">
- <?php include("includes/umbc-header.php"); ?>
+ <?php include("../includes/umbc-header.php"); ?>
 </div>
 <!-- END umbc header -->
 
@@ -119,7 +119,7 @@ tr.hidden-fields{height:0px!important; width:0px!important}
  
 <h4><strong>During Preview Night...</strong></h4>
   <ul><li>Hear first-hand from members of the UMBC-Shady Grove <strong><a href="pat">Peer Advisory Team</a></strong></li>
-    <li>Learn about our programs in <strong><a href="http://umbc.edu/shadygrove/history" target="_blank">History</a></strong>, <strong><a href="http://umbc.edu/shadygrove/politicalscience" target="_blank">Political Science</a></strong>, <strong><a href="http://umbc.edu/shadygrove/psychology" target="_blank">Psychology</a></strong>, and <strong><a href="http://umbc.edu/shadygrove/socialwork" target="_blank">Social Work</a></strong></li>
+    <li>Learn about our programs in <strong><a href="../history" target="_blank">History</a></strong>, <strong><a href="../politicalscience" target="_blank">Political Science</a></strong>, <strong><a href="../psychology" target="_blank">Psychology</a></strong>, and <strong><a href="../socialwork" target="_blank">Social Work</a></strong></li>
     <li> Meet and connect with UMBC faculty and staff</li>
     <li>Receive important information regarding transfer requirements, application deadlines, scholarships, and financial aid opportunities</li>
     <li>Meet UMBC's mascot, True Grit!</li>
@@ -140,8 +140,8 @@ tr.hidden-fields{height:0px!important; width:0px!important}
 <!-- footer -->
 <br clear="all">
     
-<?php include("includes/footer.php"); ?>
-<?php include("includes/tracking.php"); ?>
+<?php include("../includes/footer.php"); ?>
+<?php include("../includes/tracking.php"); ?>
 
 <br>
     <!--END footer -->
@@ -162,7 +162,7 @@ tr.hidden-fields{height:0px!important; width:0px!important}
 <script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
 
 
-<script src="js/scripts.js"></script> 
+<script src="../js/scripts.js"></script> 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
 <!--Remove Comment for Programs without Program Guides--
@@ -188,6 +188,21 @@ $( "#accordion" ).accordion({
 });
 </script>   
 
+<script>
+var vars = [], hash;
+    var q = document.URL.split('?')[1];
+    if(q != undefined){
+        q = q.split('&');
+        for(var i = 0; i < q.length; i++){
+            hash = q[i].split('=');
+            vars.push(hash[1]);
+            vars[hash[0]] = hash[1];
+        }
+}
+$("#entry_1802771340").attr("value", vars['email']);
+$("#entry_1244612739").attr("value", vars['first']);
+$("#entry_1812444790").attr("value", vars['last']);
+</script>
 
 </body>
 </html>

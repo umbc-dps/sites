@@ -15,7 +15,7 @@
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
 
 
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 
 <style>
 /*
@@ -113,7 +113,7 @@ body {
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 
 		<link rel="stylesheet" type="text/css" href="css/style8.css" />
-  		<script src="js/modernizr.custom.js"></script>
+  		<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
         
 </head>
 <body>

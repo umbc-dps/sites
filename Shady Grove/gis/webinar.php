@@ -1502,7 +1502,15 @@ twttr.conversion.trackPid('l4pxk');
     
 
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 
 

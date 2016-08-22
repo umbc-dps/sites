@@ -27,13 +27,12 @@ $lang = 'en';
 <meta property="og:description" content="The Master’s in Professional Studies in Cybersecurity prepares experienced professionals to fill management and leadership roles." />
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
-  <link href='css/magnific-popup.css' rel='stylesheet'>
-  <link href="css/styles.css" rel="stylesheet">
-<link href='css/magnific-popup.css' rel='stylesheet'>
+<link href='http://umbc.edu/dps/css/magnific-popup.css' rel='stylesheet'>
+<link href="css/styles.css" rel="stylesheet">
 
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+
 <link href="images/favicon.ico" rel="shortcut icon">
-
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
@@ -64,7 +63,9 @@ $lang = 'en';
 
   <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -228,8 +229,8 @@ $lang = 'en';
 <script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
 <script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
-<script src="js/scripts.js"></script> 
-<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="http://umbc.edu/dps/js/scripts.js"></script> 
+<script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
@@ -310,6 +311,14 @@ $(".cbp-fwdots").on('hover', function() {
 });
 </script>
 
+
+
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
 
 </body>
 </html>

@@ -68,7 +68,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -136,8 +138,16 @@ $lang = 'en';
 <!-- END SIDEBAR -->
     <!-- footer -->
     <br clear="all">
-		<?php include("includes/footer.php"); ?>
-        <?php include("includes/tracking.php"); ?>
+		<?php include("../includes/footer.php"); ?>
+        
+<?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 	<br>
     <!--END footer -->
   </div>

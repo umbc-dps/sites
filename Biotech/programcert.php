@@ -27,9 +27,9 @@ $lang = 'en';
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
-  <link href='css/magnific-popup.css' rel='stylesheet'>
+  <link href='http://umbc.edu/dps/css/magnific-popup.css' rel='stylesheet'>
   <link href="css/styles.css" rel="stylesheet">
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -99,7 +99,7 @@ $lang = 'en';
  <ul>
    <li>BTEC 665: <a href="courses.php#665">Management, Leadership and Communication</a> [3] </li>
    <li>BTEC 670: <a href="courses.php#670">Legal &amp; Ethical Issues in the Science Professions</a> [3]</li>
-   <li>BTEC 680: <a href="courses.php#680">Financial Management for Science Professionals</a> [3]</li>
+   <li>BTEC 680: <a href="courses.php#680">Financial Management</a> [3]</li>
    <li>BTEC 685: <a href="courses.php#685">Project Management Fundamentals</a> [3]</li>
  </ul>
    
@@ -161,8 +161,8 @@ $lang = 'en';
 <script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
 <script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
-<script src="js/scripts.js"></script> 
-<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="http://umbc.edu/dps/js/scripts.js"></script> 
+<script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
@@ -170,5 +170,12 @@ $lang = 'en';
 <script>$('#programguide').val(''); $('#planningform').val('');</script>
 -->
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>

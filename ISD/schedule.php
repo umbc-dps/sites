@@ -28,10 +28,10 @@ $lang = 'en';
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
-  <link href='css/magnific-popup.css' rel='stylesheet'>
+  <link href='http://umbc.edu/dps/css/magnific-popup.css' rel='stylesheet'>
   <link href="css/styles.css" rel="stylesheet">
 
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -133,7 +133,7 @@ $lang = 'en';
   <tr>
     <td>EDUC 647 – 01 (2158)</td>
     <td>Distance Training</td>
-    <td>Online Asynchronous with synchronous sessions on 8/25, 9/14, 10/11, 11/10, and one on either 11/29, 11/30, or 12/1</td>
+    <td>Online Asynchronous with synchronous sessions on 9/1, 9/21, 10/11, 11/10, and one on either 12/6, 12/7, or 12/8</td>
     <td>Weinstein, S.</td>
     <td>n/a</td>
   </tr>
@@ -168,7 +168,7 @@ $lang = 'en';
    <tr>
     <td>EDUC 682 – 01 (2157)</td>
     <td>Survey of Instructional Technology Applications</td>
-    <td>Synchronous Online – Mondays 7:10 – 9:40 p.m.</td>
+    <td>Synchronous Online – Wednesdays 7:10 – 9:40 p.m.</td>
     <td>Ira, K.</td>
     <td>n/a</td>
   </tr>
@@ -393,8 +393,8 @@ $lang = 'en';
 <script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
 <script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
-<script src="js/scripts.js"></script> 
-<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="http://umbc.edu/dps/js/scripts.js"></script> 
+<script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
@@ -402,6 +402,13 @@ $lang = 'en';
 <script>$('#programguide').val(''); $('#planningform').val('');</script>
 -->
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 
 

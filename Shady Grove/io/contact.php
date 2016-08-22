@@ -70,7 +70,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -122,9 +124,9 @@ $lang = 'en';
             </td>
 
             <td align="left" valign="top">
-              <p><strong>Dr. Ted Rosen</strong><br>
+              <p><strong>Dr. Elliot Lasson</strong><br>
               Graduate Program Director<br>
-              <a href="mailto:shariati@umbc.edu">throsen@umbc.edu</a></p>
+              <a href="mailto:elasson@umbc.edu@umbc.edu">elasson@umbc.edu@umbc.edu</a></p>
             </td>
           </tr>
         </table>
@@ -136,8 +138,16 @@ $lang = 'en';
 <!-- END SIDEBAR -->
     <!-- footer -->
     <br clear="all">
-		<?php include("includes/footer.php"); ?>
-        <?php include("includes/tracking.php"); ?>
+		<?php include("../includes/footer.php"); ?>
+        
+<?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 	<br>
     <!--END footer -->
   </div>

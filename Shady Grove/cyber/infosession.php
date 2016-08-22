@@ -72,7 +72,9 @@ form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -122,7 +124,15 @@ form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
 -->
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 <script>
 var vars = [], hash;

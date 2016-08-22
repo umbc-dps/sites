@@ -34,14 +34,14 @@
 <file name="dpslogo.png" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130682275600000000" remote="130791129160000000" Dst="1" />
 <file name="sprites.png" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130682275610000000" remote="130791129160000000" Dst="1" />
 <file name="sprinkles.png" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130682275600000000" remote="130791130130000000" Dst="1" />
-<file name="forum.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130849807312307080" remote="130849843520000000" Dst="1" />
+<file name="forum.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131159149003182213" remote="131159149190000000" Dst="2" />
 <file name="CatherineZaranis.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130851700094295214" remote="130851742970000000" Dst="1" />
 <file name="GabeHamda.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130851706065272252" remote="130851742970000000" Dst="1" />
 <file name="MickMagill.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130851700118277612" remote="130851742970000000" Dst="1" />
 <file name="DollyOberoi.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130852418824482057" remote="130856755490000000" Dst="1" />
 <file name="googleplus.png" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130856719301664897" remote="130856755490000000" Dst="1" />
 <file name="isdnow-fb.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130856790336422572" remote="130856826590000000" Dst="1" />
-<file name="isdnow-fb.png" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130856797132582120" remote="130856833360000000" Dst="1" />
+<file name="isdnow-fb.png" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131159156300711893" remote="131159156460000000" Dst="2" />
 <file name="isdnow.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130862099978514968" remote="130862136800000000" Dst="1" />
 <file name="4.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130868103701682130" remote="130868140210000000" Dst="1" />
 <file name="mary-lynn-mcpherson.png" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130873350160560787" remote="130873386200000000" Dst="1" />
@@ -53,4 +53,8 @@
 <file name="umbc-isd-in-need.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131100509320000000" remote="131100509320000000" Dst="2" />
 <file name="Dr.-Greg-Williams-Keynote.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131115912980000000" remote="131115912980000000" Dst="2" />
 <file name="Ashley-Bunn.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131151383330000000" remote="131151383330000000" Dst="2" />
+<file name="isdnow-fb-2015.png" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130856797132582120" remote="131159156460000000" Dst="2" />
+<file name=".DS_Store" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131157553570000000" remote="131157553570000000" Dst="2" />
+<file name="thalheimer.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131157481930000000" remote="131157481930000000" Dst="2" />
+<file name="forum2015.jpg" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="130849807520000000" remote="130849807520000000" Dst="2" />
 </dwsync>

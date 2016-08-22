@@ -91,7 +91,7 @@ var nVisits = aParts[5];
 
 <script type="text/javascript">
    	// Javascript URL redirection
-      window.location.replace('http://umbc.edu/isd/forum2015?utm_campaign='+campaign+'&utm_source='+source+'&utm_medium='+medium+'&utm_content='+content+'&utm_term='+term)
+      window.location.replace('http://umbc.edu/isd/forum2016?utm_campaign='+campaign+'&utm_source='+source+'&utm_medium='+medium+'&utm_content='+content+'&utm_term='+term)
 
 
 </script>

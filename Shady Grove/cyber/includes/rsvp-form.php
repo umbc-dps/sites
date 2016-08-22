@@ -120,5 +120,13 @@
 </td>
 </tr></tbody></table></div></ol></form></div>
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>

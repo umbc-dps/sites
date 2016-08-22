@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-  <script src="js/modernizr.custom.js"></script>
+  <script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
   <link href="images/favicon.ico" rel="shortcut icon">
   <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">

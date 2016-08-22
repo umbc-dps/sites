@@ -19,10 +19,11 @@
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<link href="css/responsive-table.css" rel="stylesheet">
+<link href="../css/accordion.css" rel="stylesheet">
+<link href="../css/responsive-table.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
-<script src="js/modernizr.custom.js"></script>
+<script src="../js/modernizr.custom.js"></script>
 
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -47,7 +48,7 @@ div.subject{background-color:#E0C586;}
 
 <!-- umbc header -->
 <div id="container-header">
- <?php include("includes/umbc-header.php"); ?>
+ <?php include("../includes/umbc-header.php"); ?>
 </div>
 <!-- END umbc header -->
 
@@ -291,8 +292,8 @@ div.subject{background-color:#E0C586;}
 <br clear="all">
 <br>
 
-<?php include("includes/footer.php"); ?>
-<?php include("includes/tracking.php"); ?>
+<?php include("../includes/footer.php"); ?>
+<?php include("../includes/tracking.php"); ?>
 
 <br>
     <!--END footer -->
@@ -302,8 +303,24 @@ div.subject{background-color:#E0C586;}
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
  
-<script src="js/scripts.js"></script> 
+<script src="../js/scripts.js"></script> 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>
+var vars = [], hash;
+    var q = document.URL.split('?')[1];
+    if(q != undefined){
+        q = q.split('&');
+        for(var i = 0; i < q.length; i++){
+            hash = q[i].split('=');
+            vars.push(hash[1]);
+            vars[hash[0]] = hash[1];
+        }
+}
+$("#entry_1802771340").attr("value", vars['email']);
+$("#entry_1244612739").attr("value", vars['first']);
+$("#entry_1812444790").attr("value", vars['last']);
+</script>
 
 </body>
 </html>

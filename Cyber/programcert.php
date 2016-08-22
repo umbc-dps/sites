@@ -26,10 +26,10 @@ $lang = 'en';
 <meta property="og:description" content="Cybersecurity Strategy & Policy provides students the essential domain knowledge required to serve in decision-making roles throughout the cybersecurity industry." />
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
-  <link href='css/magnific-popup.css' rel='stylesheet'>
+  <link href='http://umbc.edu/dps/css/magnific-popup.css' rel='stylesheet'>
   <link href="css/styles.css" rel="stylesheet">
 
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -63,7 +63,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -157,8 +159,8 @@ This academic program is a participant in the U.S. Department of Education Gainf
 <script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
 <script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
-<script src="js/scripts.js"></script> 
-<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="http://umbc.edu/dps/js/scripts.js"></script> 
+<script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
@@ -167,6 +169,13 @@ This academic program is a participant in the U.S. Department of Education Gainf
 -->
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script> 
+
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
 
 </body>
 </html>

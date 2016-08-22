@@ -72,7 +72,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -84,21 +86,19 @@ $lang = 'en';
 <h3>Faculty</h3>
 
 <div class="accordionheader">
-  <h4><a id="rosen" href="#rosen"></a>Theodore Rosen, Ph.D. | Program Director <i class="fa fa-angle-down"></i></h4>
+  <h4><a id="lasson" href="#lasson"></a>Elliot Lasson, Ph.D. | Program Director <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" alt="UMBC Faculty Ted Rosen" src="images/faculty/umbc-faculty-Ted-Rosen.jpg">
-  <strong>Associate Program Director, Department of Psychology<br>
-Director, Master in Professional Studies: Industrial/Organizational Psychology</strong></p>
-
-  <p>Dr. Ted Rosen serves as the UMBC Psychology  Department&rsquo;s Associate Program Director, and is the Director of the MPS:  Industrial/Organizational Psychology program. He joined UMBC-Shady Grove in  2008. Previous experience includes serving on the faculty of the Management  Department and as Director of the Program in Organizational Behavior and  Development at The George Washington University School of Business. Dr. Rosen  instructed graduate level courses in the MBA, Project Management (distance and  classroom formats), Management Information Systems, and the Executive  Management Information Systems programs.</p>
+  <p><img align="left" alt="UMBC Faculty Elliot Lasson" src="images/faculty/umbc-faculty-Elliott-Lasson.jpg">Dr. Elliot Lasson is Professor of the Practice and Graduate Program Director of the Masters in I/O Psychology at UMBC, where he has been teaching since 2009.  He has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.  Some of his research and applied interests are generational cohort differences in the workplace, the recruitment-selection process, and performance management.  At UMBC, he has taught several courses including Job Analysis. Methods of Assessment, and Seminar in Applied Social Psychology.  Dr. Lasson is often called upon by his students for career guidance and the facilitation of internship and employment opportunities.  He has also given popular workshops on behalf of the Universities at Shady Grove <a href="http://www.shadygrove.umd.edu/campus-services/career-services" target="_blank">Career & Internship Services Center </a>on topics such as workplace professionalism and preparing for job interviews.</p>
   
-  <p>Dr. Rosen holds a doctorate degree in  Industrial/Organizational Psychology and has over 30 years management  consulting, contracting and research experience, including service at US Postal  Service Headquarters and the US Office of Personnel Management Headquarters. He  completed international executive development assignments in Romania, Egypt and  Albania and has presented management workshops for visiting international  executives in Washington, DC. Dr. Rosen also presents lectures and shares  research at professional conferences, both in the US and abroad.</p>
+  <p>Dr. Lasson is a Human Resources professional with considerable experience in designing, validating, and implementing recruitment and staffing solutions. Elliot has led various organizational development, training, and change management initiatives and combines solution-oriented approach with a strategic “big picture” approach.</p>
   
-  <p>Ted is an avid photographer, and a long time baseball aficionado going back to the days of the Washington Senators at Griffith Stadium.  He was an umpire for high school and adult leagues for over 20 years.  Ted has served on boards of directors and is currently on the Board of The Bethesda (MD) Fire Department. Ted has two married daughters, and his wife, Linda, is an executive/consultant in STEM education.</p>
+  <p>Elliot is also an advisor to organizations with <a href="mailto:www.lassontalentslutions.com" target="_blank">Lasson Talent Solutions</a>.  In this capacity, he supports for-profit, nonprofit, and public sector organizations around the world.  Previously, he served as Executive Director of HR for Joblink of Maryland, a nonprofit organization supporting the employment objectives of members of the Baltimore Jewish community.  His blog on workplace and career topics <a href="http://joblinkofmaryland.wordpress.com/" target="_blank">Elliot@Work</a> has a wide readership nationally and he has been invited locally on WBAL Radio and Fox 45 to chat about the job market.</p>
   
-  <p>You can view Dr. Rosen's public LinkedIn profile <a href="http://www.linkedin.com/pub/theodore-ted-rosen-ph-d/1/691/2a2" target="_blank">here</a>.</p>
+  <p>Dr. Lasson’s specialties and interests include talent management, staffing, assessment workforce planning, measurement, training, assessment, coaching, leadership development, performance management, organizational development, employment law, and interviewing.</p>
+  
+  <p>Dr. Lasson received his B.A. from UMBC in Psychology with a certificate in Personnel Administration and went on to earn his M.A. and Ph.D. in I/O Psychology from Wayne State University in Michigan.  He also holds a Bachelor’s in Talmudic Law from Ner Israel College in Baltimore.  Elliot is a two-term past President of the Mid-Atlantic Personnel Assessment Consortium.  In 2009, he was appointed to the by Governor Martin O’Malley to Maryland’s Workforce Investment Board and served for two terms in that capacity.  He is certified as a Senior Professional in Human Resources by HRCI and SCP by SHRM.</p>
 </div>
 
 <div class="accordionheader">
@@ -139,24 +139,6 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
 </div>
 
 <div class="accordionheader">
-  <h4><a id="lasson" href="#lasson"></a>Elliot Lasson, Ph.D. | Adjunct Instructor</h4>
-</div>
-
-<div class="accordionbody">
-  <p><img src="images/faculty/umbc-faculty-Elliott-Lasson.jpg" align="left" alt="Elliott Lasson">Dr. Elliot D. Lasson has been teaching in the I/O Psychology program since 2009. He has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.  Some of his research and applied interests are generational cohort differences in the workplace, the recruitment-selection process, and performance management.  At UMBC, he has taught several courses including Job Analysis. Methods of Assessment, and Seminar in Applied Social Psychology.  Dr. Lasson is often called upon by his students for career guidance and the facilitation of internship and employment opportunities.  He has also given popular workshops on behalf of the Universities at Shady Grove <a href="http://www.shadygrove.umd.edu/campus-services/career-services" target="_blank">Career & Internship Services Center</a> on topics such as workplace professionalism and preparing for job interviews.</p>
-  
-  <p>Dr. Lasson is a Human Resources professional with considerable experience in designing, validating, and implementing recruitment and staffing solutions. Elliot has led various organizational development, training, and change management initiatives and combines solution-oriented approach with a strategic “big picture” approach.</p>
-  
-  <p>Elliot is also an advisor to organizations with <a href="http://www.lassontalentslutions.com" target="_blank">Lasson Talent Solutions</a>.  In this capacity, he supports for-profit, nonprofit, and public sector organizations around the world.  Previously, he served as Executive Director of HR for Joblink of Maryland, a nonprofit organization supporting the employment objectives of members of the Baltimore Jewish community.  His blog on workplace and career topics <a href="http://joblinkofmaryland.wordpress.com/" target="_blank">Elliot@Work</a> has a wide readership nationally and he has been invited locally on WBAL Radio and Fox 45 to chat about the job market.</p>
-  
-  <p>Dr. Lasson’s specialties and interests include talent management, staffing, assessment workforce planning, measurement, training, assessment, coaching, leadership development, performance management, organizational development, employment law, and interviewing.</p>
-  
-  
-  <p>Dr. Lasson received his B.A. from UMBC in Psychology with a certificate in Personnel Administration and went on to earn his M.A. and Ph.D. in I/O Psychology from Wayne State University in Michigan.  He also holds a Bachelor’s in Talmudic Law from Ner Israel College in Baltimore.  Elliot is a two-term past President of the Mid-Atlantic Personnel Assessment Consortium.  In 2009, he was appointed to the by Governor Martin O’Malley to Maryland’s Workforce Investment Board and served for two terms in that capacity.  He is certified as a Senior Professional in Human Resources by HRCI and SCP by SHRM.</p>
-</div>
-
-
-<div class="accordionheader">
   <h4><a id="milatzo" href="#milatzo"></a>John Milatzo, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
@@ -192,6 +174,16 @@ Director, Master in Professional Studies: Industrial/Organizational Psychology</
   
   <p>Dr. Rudow holds a B.A. in Psychology from Rutgers University, M.S.in Consumer Psychology and a Ph.D. in Organizational Psychology from Colorado State University. In his early career, he published in professional journals and co-authored and edited the book Crisis Centers a Guide to Beginning and Operating.</p>
 </div>
+
+<div class="accordionheader">
+  <h4><a id="rosen" href="#rosen"></a>Theodore H. (Ted) Rosen, Ph.D. | Adjunct Faculty<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p><img src="images/faculty/umbc-faculty-Ted-Rosen.jpg" align="left"alt="Ten Rosen">Dr. Rosen served as the UMBC Psychology Department’s Associate Program Director, and Director of the MPS: Industrial/Organizational Psychology Program from 2008 until 2016. His previous experience includes serving on the faculty of the Management Department, and served as the Director of the Program in Organizational Behavior and Development at The George Washington University School of Business.  Dr. Rosen instructed graduate level courses in the MBA, Project Management (distance and classroom formats) Management Information Systems, and the Executive Management Information Systems Programs.</p>
+  <p>Dr. Rosen holds a doctorate degree in Industrial/Organizational Psychology, and has over 30  years management consulting, contracting and research experience, including service at US Postal Service Headquarters and the US Office of Personnel Management Headquarters. He completed international executive development assignments in Romania, Egypt and Albania and has presented management workshops for visiting international executives in Washington, DC.  Dr. Rosen also presents lectures and shares research at professional conferences, both in the US and abroad. He continues his work as the Principal Consultant of his own firm.</p>
+  </div>
+
 
 
 <div class="accordionheader">
@@ -313,7 +305,15 @@ $( "#accordion" ).accordion({
 });
 </script>  
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 </body>
 </html>

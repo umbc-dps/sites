@@ -1,0 +1,21 @@
+<ul id="nav">
+  <li><a href="pat.php" style="font-family:'Arial Black', sans-serif;">Peer Advisory Team</a>
+    <ul>
+      <li><a href="akalin.php" style="font-family:'Arial Black', sans-serif;">Melissa Akalin</a></li>
+      <li><a href="casimbon.php" style="font-family:'Arial Black', sans-serif;">Kim Castro Casimbon</a></li>
+      <li><a href="friedman.php" style="font-family:'Arial Black', sans-serif;">Michaela Friedman</a></li>
+      <li><a href="rivera.php" style="font-family:'Arial Black', sans-serif;">Pamela Van Horne</a></li>
+      <li><a href="rivera.php" style="font-family:'Arial Black', sans-serif;">Julie Rivera</a></li>
+    </ul>
+  </li>
+  <li><a href="applicationstatus.php" style="font-family:'Arial Black', sans-serif;">Check Application Status</a>  </li>
+  <li><a href="checklist.php" style="font-family:'Arial Black', sans-serif;">New Student Checklist</a></li>
+  <li><a href="financing.php" style="font-family:'Arial Black', sans-serif;">Financing Your Education</a></li>
+  <li><a href="howtoapply.php" style="font-family:'Arial Black', sans-serif;">How to Apply</a></li>
+  <li><a href="meetthestaff.php" style="font-family:'Arial Black', sans-serif;">Meet the Staff</a></li>
+  <li><a href="requirements.php" style="font-family:'Arial Black', sans-serif;">Program Requirements</a></li>
+  <li><a href="timeline.php" style="font-family:'Arial Black', sans-serif;">Admissions Timeline</a></li>
+  <li><a href="tsa.php" style="font-family:'Arial Black', sans-serif;">Transfer Student Alliance</a></li>
+</ul>
+
+ 

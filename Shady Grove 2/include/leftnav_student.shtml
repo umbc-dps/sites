@@ -1,0 +1,49 @@
+<style type="text/css">
+<!--
+.style2 {font-family: "Arial Black"}
+-->
+</style>
+<ul id="nav">
+  <li><a href="organizations.php" style="font-family:'Arial Black', sans-serif;">Student Organizations</a>  </li>
+  <li><a href="" style="font-family:'Arial Black', sans-serif;">Support Services/<br>
+    Accommodations</a>
+    <ul>
+      <li><a href="eligibility.php" style="font-family:'Arial Black', sans-serif;">Eligibility</a></li>
+      <li><a href="accommodations.php" style="font-family:'Arial Black', sans-serif;">Apply for Accommodations</a></li>
+      <li><a href="http://www.shadygrove.umd.edu/campus-services/cas/dss" target="_blank" style="font-family:'Arial Black', sans-serif;">Test Proctoring</a></li>
+    </ul>
+  </li>
+  <li><a href="#" style="font-family:'Arial Black', sans-serif;">Career & Internship Services</a>
+    <ul>
+      <li><a href="internships.php" style="font-family:'Arial Black', sans-serif;">Internships</a></li>
+      <li><a href="http://www.shadygrove.umd.edu/campus-services/career-services" target="_blank" style="font-family:'Arial Black', sans-serif;">Career</a></li>
+    </ul>
+  </li>
+  <li><a href="" style="font-family:'Arial Black', sans-serif;">Service Learning and Community Service</a>
+    <ul>
+      <li><a href="gettingstarted.php" style="font-family:'Arial Black', sans-serif;">Getting Started</a></li>
+      <li><a href="servicelearningforms.php" style="font-family:'Arial Black', sans-serif;">Forms and Placements</a></li>
+    </ul>
+  </li>
+  <li><a href="" style="font-family:'Arial Black', sans-serif;">Advising Resources</a>
+    <ul>
+      
+      <li><a href="advisors.php" style="font-family:'Arial Black', sans-serif;">Advisors</a></li>
+      <li><a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank" style="font-family:'Arial Black', sans-serif;">Registration Appointments</a></li>
+      <li><a href="advisingguides.php" style="font-family:'Arial Black', sans-serif;">Advising Guides</a></li>
+      <li><a href="http://catalog.umbc.edu/content.php?catoid=6&navoid=231" target="_blank" class="style2">Course Descriptions</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.umbc.edu/ies/" target="_blank" style="font-family:'Arial Black', sans-serif;">International Education Services</a></li>
+  <li><a href="http://studyabroad.umbc.edu/" target="_blank" style="font-family:'Arial Black', sans-serif;">Study Abroad</a></li>
+  <li><a href="forms.php" style="font-family:'Arial Black', sans-serif;">Forms</a></li>
+  <li><a href="veterans.php" style="font-family:'Arial Black', sans-serif;">Veteran Resources</a></li>
+  <li><a href="#" style="font-family:'Arial Black', sans-serif;">Student Success Resources</a>
+    <ul>
+      <li><a href="overview.php" style="font-family:'Arial Black', sans-serif;">Overview</a></li>
+      <li><a href="arc.php" style="font-family:'Arial Black', sans-serif;">Action Resource Center</a></li>
+    </ul>
+  </li>
+  <li><a href="selfserviceportal.php" style="font-family:'Arial Black', sans-serif;">Self-Service Portal</a></li>
+  <li><a href="http://shadygrove.umd.edu/campus-services/student-services" target="_blank" style="font-family:'Arial Black', sans-serif;">USG Services</a></li>
+</ul>

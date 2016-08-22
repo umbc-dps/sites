@@ -120,6 +120,7 @@ aside p, aside dl {
 	padding: 0px 5px 5px 5px;
 }
 #mobile-site-menu-expander {display:none}
+.hide{display:none}
 </style>
 
 <body>
@@ -229,6 +230,12 @@ var vars = [], hash;
 $("#entry_255730786").attr("value", vars['email']);
 $("#entry_1150361143").attr("value", vars['first']);
 $("#entry_289066688").attr("value", vars['last']);
+$("#entry_1564723259").attr("value", vars['utm_campaign']);
+$("#entry_316914651").attr("value", vars['utm_source']);
+$("#entry_1181504791").attr("value", vars['utm_medium']);
+$("#entry_743634000").attr("value", vars['utm_content']);
+$("#entry_1166118258").attr("value", vars['utm_term']);
+$("#entry_1066578197").attr("value", vars['gclid']);
 </script>
  
 </body>

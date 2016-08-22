@@ -1,0 +1,26 @@
+<ul id="nav">
+	<li><a href="index.php" style="font-family:'Arial Black', sans-serif;">Biotechnology</a>
+  <li><a href="index.php" style="font-family:'Arial Black', sans-serif;">Programs</a>
+    <ul>
+      <li><a href="programmaster.php" style="font-family:'Arial Black', sans-serif;">Masters</a></li>
+      <li><a href="biotechnologymanagement.php" style="font-family:'Arial Black', sans-serif;">Certificate: Biotechnology Management</a></li>
+      <li><a href="biochemicalregulatoryengineering.php" style="font-family:'Arial Black', sans-serif;">Certificate: Biochemical Regulatory Engineering</a></li>
+    </ul>
+  </li>
+  <li><a href="index.php" style="font-family:'Arial Black', sans-serif;">Admissions</a> 
+    <ul>
+      <li><a href="admissions.php" style="font-family:'Arial Black', sans-serif;">Masters</a></li>
+      <li><a href="admissionscert.php" style="font-family:'Arial Black', sans-serif;">Certificates</a></li>
+      <li><a href="admissionsint.php" style="font-family:'Arial Black', sans-serif;">International</a></li>
+    </ul>
+    </li>
+    <li><a href="programcosts.php" style="font-family:'Arial Black', sans-serif;">Program Costs</a></li>
+    <li><a href="coursedesc.php" target="_blank" style="font-family:'Arial Black', sans-serif;">Course Descriptions</a></li>
+    <li><a href="classschedule.php" style="font-family:'Arial Black', sans-serif;">Schedule of Classes</a></li>
+    <li><a href="facultystaff.php" style="font-family:'Arial Black', sans-serif;">Faculty</a></li>
+    <li><a href="career.php" style="font-family:'Arial Black', sans-serif;">Resources</a></li>
+    <li><a href="contact.php" style="font-family:'Arial Black', sans-serif;">Contact Us</a></li>
+    
+</ul>
+
+ 

@@ -246,9 +246,8 @@ a.web-seemore { color: #FFF !important}
 }
 #umbc-logo {
 	height: 63px;
-	margin: 20px 0;
-	margin-left: 20px;
-	width: 450px
+	margin: 26px 0;
+	width: 350px
 }
 #umbc-logo a {
 	background-image: url(../images/sg-logo.png);
@@ -298,25 +297,23 @@ a.web-seemore { color: #FFF !important}
 	color: #fc0
 }
 #umbc-nav-50 {
-	text-align: left;
-	width: 15%
+	width: 16%
 }
-#umbc-nav-apply {
+#umbc-nav-azindex {
 	width: 12%
 }
-#umbc-nav-contact {
+#umbc-nav-myumbc {
 	width: 24%
 }
-#umbc-nav-myumbc {
+#umbc-nav-events {
 	width: 18%
 }
 #umbc-nav-directory {
-	width: 18%
+	width: 16%
 }
 li#umbc-nav-maps {
-	border-right: 0;
-	text-align: right;
-	width: 10%
+	width: 12%;
+	border: 0px;
 }
 #umbc-nav-search-input {
 	background-color: #FFF;
@@ -341,7 +338,7 @@ li#umbc-nav-maps {
 	right: 0;
 	top: 0;
 	background-color: transparent;
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(../images/sprites.png);
 	background-position: 0 -93px;
 	height: 30px;
 	width: 30px;
@@ -354,7 +351,7 @@ li#umbc-nav-maps {
 	background-repeat: no-repeat;
 	color: #FFF;
 	position: relative;
-	z-index: 10;
+	z-index: 10
 }
 #mobile-site-menu-expander {
 	display: none
@@ -382,11 +379,12 @@ li#umbc-nav-maps {
 	color: #000;
 	position: relative;
 	z-index: 10;
-	max-width: 970px;
+	max-width: 1004px;
 	border-top: 0;
 	margin: 0 auto;
+	position: relative;
+	width: 980px;
 	padding: 0;
-	position: relative
 }
 #site-menu ul {
 	margin: 0;

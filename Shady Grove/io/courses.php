@@ -58,7 +58,9 @@ $lang = 'en';
   </div>
   <!-- BEGIN MAIN -->
   <!-- Page Header -->
-  <?php include("includes/header.php"); ?><!-- END Page Header -->
+  
+<?php include("../includes/header.php"); ?>
+<!-- END Page Header -->
 
 
   <div class="eleven columns">
@@ -369,7 +371,15 @@ $( "#accordion" ).accordion({
     ga('send', 'event',  'accordion', 'click', linkText);
   });
   </script>
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 </body>
 </html>

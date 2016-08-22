@@ -15,7 +15,7 @@
 	<link rel="stylesheet" href="assets/css/words.css" />
     <link rel="stylesheet" type="text/css" href="css/style8.css" />
 
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 
   </head>
     

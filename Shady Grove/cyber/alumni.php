@@ -68,7 +68,9 @@ $lang = 'en';
 
 <!-- Page Header -->
 
- <?php include("includes/header.php"); ?>
+ 
+<?php include("../includes/header.php"); ?>
+
  
 <!-- END Page Header -->
 
@@ -145,6 +147,14 @@ $lang = 'en';
 -->
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
+
 <?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>

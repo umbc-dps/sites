@@ -5,7 +5,7 @@
       <p style="text-align:center">
 <strong>Professional Programs Open House</strong><br>
 		Tuesday, October 25, 5:30-8:00PM<br>
-      <a href="http://www.umbc.edu/openhouse/" class="btn" target="_blank">RSVP Now</a>
+      <a href="http://umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=sidebar_biotech" class="btn" target="_blank">RSVP Now</a>
 	</p>
     </aside>
     

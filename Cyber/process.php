@@ -65,7 +65,14 @@ function sanitizeString($var)
 			$theTable .= "<tr><th " .'align="left"'. ">Anticipated start date: </th><td>$startdate</td></tr>"; 
 			$theTable .= "<tr style=" . '"background:#f5f5f5;"' . "><th " .'align="left"'. ">Comments:</th><td>$questions</td></tr>"; 
 			// close the table for staff.
-			$theTable .=  "</table></body></html>";
+			$theTable .=  "</table>
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
+</body></html>";
 			 //MAIL TO STAFF
 						$to = $pc;
 						$subject = "UMBC $programtitle Inquiry";
@@ -98,7 +105,14 @@ function sanitizeString($var)
 			if (!empty($pctitle)) {$theTable1 .= "<tr><td><p>For additional information, please contact $pctitle, at {$pc}.</p></td></tr>";}
 			$theTable1 .= "<tr><td>Best Regards,<br>UMBC $programtitle Programs<br>http://umbc.edu/$url</td></tr>"; 
 			// close the table for student.
-			$theTable1 .=  "</table></body></html>";
+			$theTable1 .=  "</table>
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
+</body></html>";
 			 //MAIL TO STUDENT
 			 			$base64contents1 = rtrim(chunk_split(base64_encode($theTable1)));
 						$to1 = $email;

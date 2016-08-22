@@ -64,7 +64,7 @@
       </ul>
     </li>
 
-    <li><a href="http://www.umbc.edu/shadygrove/student/index.php" target="_blank">Student Resources</a>    </li>
+    <li><a href="http://www.umbc.edu/shadygrove/studentresources" target="_blank">Student Resources</a>    </li>
 
  <li>
       <a href="faq.php">FAQ</a>

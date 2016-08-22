@@ -27,10 +27,10 @@ $lang = 'en';
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<link href="css/accordion.css" rel="stylesheet">
+<link href="../css/accordion.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
-<script src="js/modernizr.custom.js"></script>
+<script src="../js/modernizr.custom.js"></script>
 <script type="text/javascript" src="https://addthisevent.com/libs/1.6.0/ate.min.js"></script>
 
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -64,6 +64,7 @@ select#program[hidden]{display:block}
 tr.hidden-fields{height:0px!important; width:0px!important}
 
 </style>
+
 </head>
 <body>
   <div id="skip-content">
@@ -75,7 +76,7 @@ tr.hidden-fields{height:0px!important; width:0px!important}
 
 <!-- umbc header -->
 <div id="container-header">
- <?php include("includes/umbc-header.php"); ?>
+ <?php include("../includes/umbc-header.php"); ?>
 </div>
 <!-- END umbc header -->
 
@@ -164,8 +165,8 @@ tr.hidden-fields{height:0px!important; width:0px!important}
 <!-- footer -->
 <br clear="all">
     
-<?php include("includes/footer.php"); ?>
-<?php include("includes/tracking.php"); ?>
+<?php include("../includes/footer.php"); ?>
+<?php include("../includes/tracking.php"); ?>
 
 <br>
     <!--END footer -->
@@ -186,7 +187,7 @@ tr.hidden-fields{height:0px!important; width:0px!important}
 <script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
 
 
-<script src="js/scripts.js"></script> 
+<script src="../js/scripts.js"></script> 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
 <!--Remove Comment for Programs without Program Guides--
@@ -211,6 +212,24 @@ $( "#accordion" ).accordion({
 	ga('send', 'event',  'accordion', 'click', linkText);
 });
 </script>   
+
+
+<!-- Facebook Conversion Code for USG Preview Night -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = 'https://connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6031749659160', {'value':'0.01','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6031749659160&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
 
 
 </body>

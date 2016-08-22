@@ -55,7 +55,7 @@
 
     <li><a href="#">Student Resources</a>    
       <ul>
-        <li><a href="http://www.umbc.edu/shadygrove/student/index.php" target="_blank">Student Resources</a>    </li>
+        <li><a href="http://www.umbc.edu/shadygrove/studentresources" target="_blank">Student Resources</a>    </li>
         <li><a href="resources">I/O Psych Resources</a></li>
       </ul>
     </li>

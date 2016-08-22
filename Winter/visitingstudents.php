@@ -26,7 +26,7 @@
 <link href="css/magnetic-popup.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">

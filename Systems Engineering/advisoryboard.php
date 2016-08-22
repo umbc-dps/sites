@@ -26,12 +26,12 @@ $lang = 'en';
 <meta property="og:description" content="UMBC's program is designed to accelerate the development of systems engineers by providing practical, real-world experience that can be immediately applied on the job." />
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
-  <link href='css/magnific-popup.css' rel='stylesheet'>
+  <link href='http://umbc.edu/dps/css/magnific-popup.css' rel='stylesheet'>
   <link href="css/styles.css" rel="stylesheet">
-<link href="css/accordion.css" rel="stylesheet">
+<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
 <link href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet prefetch'>
 
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 
 <link href="images/favicon.ico" rel="shortcut icon">
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
@@ -96,8 +96,8 @@ $lang = 'en';
 <script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
 <script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
-<script src="js/scripts.js"></script> 
-<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="http://umbc.edu/dps/js/scripts.js"></script> 
+<script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
@@ -105,6 +105,13 @@ $lang = 'en';
 <script>$('#programguide').val(''); $('#planningform').val('');</script>
 -->
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 <script>
 $( "#accordion" ).accordion({

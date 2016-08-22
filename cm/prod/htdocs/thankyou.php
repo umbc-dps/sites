@@ -9,10 +9,10 @@
 <!-- Open Graph data -->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<link href="css/accordion.css" rel="stylesheet">
+<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
-<script src="js/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 <script type="text/javascript" src="https://addthisevent.com/libs/1.6.0/ate.min.js"></script>
 
 <link rel="shortcut icon" href="images/favicon.ico">

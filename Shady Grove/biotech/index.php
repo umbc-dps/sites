@@ -64,7 +64,9 @@ $lang = 'en';
     </div>
     <!-- BEGIN MAIN -->
     <!-- Page Header -->
-    <?php include("includes/header.php"); ?>
+    
+<?php include("../includes/header.php"); ?>
+
     <!-- END Page Header -->
   
   
@@ -90,7 +92,7 @@ $lang = 'en';
   
   <li id="slide1">
   
-  <a href="webinar" target="blank"><img src="images/7.png" alt="Job Webinar"/></a>
+  <a href="webinar" target="_blank"><img src="images/7.png" alt="Job Webinar"/></a>
   
   <div class="carousel-caption-right wordwrap">
   <h3>Webinar: Getting A Job in Biotechnology</h3>
@@ -98,7 +100,7 @@ $lang = 'en';
   
   <p><a href="webinar" role="button" class="web-seemore" target="_blank">Sign Up for the Webinar</a></p></div>
   
-  <p id="captionthree"><a href="webinar" target="blank">Webinar: Getting A Job in Biotechnology</a></p>
+  <p id="captionthree"><a href="webinar" target="_blank">Webinar: Getting A Job in Biotechnology</a></p>
   
   </li>
                
@@ -235,7 +237,12 @@ $lang = 'en';
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
   
   <?php include("includes/tracking.php"); ?>
-  
+ 
+ <script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script> 
   
    <script>
   $( function() {
@@ -290,6 +297,7 @@ $lang = 'en';
     ga('send', 'event', 'slider', 'button', 'dots');
   });
   </script>
+
   
   
   </body>
