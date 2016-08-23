@@ -123,6 +123,21 @@ $lang = 'en';
 
 </li>
 <!-- END SLIDE THREE -->
+
+<!-- SLIDE FOUR -->
+<li id="slide4">
+
+<a href="http://www.umbc.edu/shadygrove/io/faculty.php"  target="_blank"><img alt="img02" src="images/Lasson.jpg"target="_blank"></a>
+
+<div class="carousel-caption wordwrap">
+<h3>Classes are taught by distinguished professionals</h3>
+
+<p><a href="http://www.umbc.edu/shadygrove/io/faculty.php" target="_blank" class="web-seemore">Meet our new Graduate Program Director</a></p></div>
+
+<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/faculty.php" target="_blank">Meet our new Graduate Program Director</a></p>
+
+</li>
+<!-- END SLIDE FOUR -->
       
     </ul>
 

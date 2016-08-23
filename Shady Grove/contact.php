@@ -35,9 +35,14 @@ $lang = 'en';
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
 <meta property="og:description" content="Thank you for your interest in UMBC at The Universities at Shady Grove." />
 
-
 <link href="css/styles-ug.css" rel="stylesheet">
+<link href="css/accordion-ug.css" rel="stylesheet">
+<link href='css/magnific-popup.css' rel='stylesheet'>
+
+<link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
+
 <script src="js/modernizr.custom.js"></script>
+
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -64,11 +69,6 @@ html::after {
   background-attachment:fixed;
 }
 }
-
-
-
-
-	
 
 
 /* #Contact
@@ -135,7 +135,7 @@ select#program[hidden]{display:block}
     <!-- END Page Title -->    
     
     <!-- Start Content -->   
-      <div class="content">
+      <div class="content" style=" padding-left:15px">
  <p>Thank you for your interest in UMBC at The Universities at Shady Grove. If you'd like additional information or have a question, please   complete the following form and click submit. </p>
   <p><strong>Location:</strong> UMBC at The Universities at Shady Grove, 9636 Gudelsky Drive, Rockville, MD   20850 <br>
 	<strong>Phone:</strong> 301-738-6081 | <strong>E-mail:</strong> <a href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</a>  </p>
@@ -181,8 +181,8 @@ select#program[hidden]{display:block}
     <!-- END TOP SIDEBAR-->
   <footer id="site-footer" class="clearfix">
   <?php include("includes/footer-ug.php"); ?> 
-  <?php include("includes/tracking.php"); ?> 
   </footer>
+
 	</div>  
     
 
@@ -204,10 +204,10 @@ select#program[hidden]{display:block}
 <script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
 <script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
 
-<script src="../js/scripts.js"></script> 
-<script src="../js/jquery.cbpFWSlider.js"></script>
-<script src="../js/jquery.magnific-popup.js"></script>
-<script src="../js/popup.js"></script>
+<script src="js/scripts.js"></script> 
+<script src="js/jquery.cbpFWSlider.js"></script>
+<script src="js/jquery.magnific-popup.js"></script>
+<script src="js/popup.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
 <!--Remove Comment for Programs without Program Guides--
 <script>$('#programguide').val(''); $('#planningform').val('');</script>
@@ -215,16 +215,12 @@ select#program[hidden]{display:block}
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-1756263-20', 'umbc.edu');
-  ga('create', 'UA-1756263-52', 'auto', {'name': 'rollup'});
-  ga('require', 'displayfeatures');
-  ga('require', 'linkid', 'linkid.js');
-  ga('send', 'pageview');
+<?php include("includes/tracking.php"); ?>
 
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
 </script>
 
 </body>

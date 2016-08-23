@@ -412,9 +412,53 @@
 
 <center>
 	<?php include("includes/footer-ug.php"); ?>
-    <?php include("includes/tracking.php"); ?> 
 </center>
 </footer>
+
+<script src="js/jquery.magnific-popup.js"></script>
+<script src="js/popup.js"></script>
+
+<script>
+$('ul.tabs a').on('click', function() {
+var tabText = $(this).text();
+var tabNumber = $(this).attr('data-tab');
+ga('send', 'event', 'tabs', tabNumber, tabText);
+});
+</script>
+
+<script>
+//See homepage-base.js for GA slide conofiguration.
+
+$('.panel-1').on('click', function() {
+  var slideURL = $(this).find('a').prop('href');
+  ga('send', 'event', 'slider', 'slide1', slideURL);
+});
+$('.panel-2').on('click', function() {
+  var slideURL = $(this).find('a').prop('href');
+  ga('send', 'event', 'slider', 'slide2', slideURL);
+});
+$('.panel-3').on('click', function() {
+  var slideURL = $(this).find('a').prop('href');
+  ga('send', 'event', 'slider', 'slide3', slideURL);
+});
+$('.panel-4').on('click', function() {
+  var slideURL = $(this).find('a').prop('href');
+  ga('send', 'event', 'slider', 'slide4', slideURL);
+});
+$('.panel-5').on('click', function() {
+  var slideURL = $(this).find('a').prop('href');
+  ga('send', 'event', 'slider', 'slide5', slideURL);
+});
+</script>
+
+
+<?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
 
 </body>
 </html>

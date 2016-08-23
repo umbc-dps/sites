@@ -28,8 +28,14 @@
 <meta property="og:description" content="Welcome to UMBC Shadygrove." />
 
 
+
 <link href="css/styles-ug.css" rel="stylesheet">
+<link href="css/accordion-ug.css" rel="stylesheet">
+<link href='css/magnific-popup.css' rel='stylesheet'>
+
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
+
+
 <script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -222,16 +228,17 @@ i.floatleft{
     <!-- END TOP SIDEBAR-->
   <footer id="site-footer" class="clearfix">
   <?php include("includes/footer-ug.php"); ?> 
-  <?php include("includes/tracking.php"); ?> 
   </footer>
+
 	</div>      
 
   
 <!-- container --> 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
 <script src="js/scripts.js"></script> 
+<script src="js/jquery.magnific-popup.js"></script> 
+<script src="js/popup.js"></script> 
 
 <script>
 $( "#accordion" ).accordion({
@@ -249,7 +256,16 @@ $('h4').click(function() {
 	var linkText = $(this).text();
 	ga('send', 'event',  'accordion', 'click', linkText);
 });
-</script>   
+</script> 
  
+
+<?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>

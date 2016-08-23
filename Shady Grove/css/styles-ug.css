@@ -1930,7 +1930,7 @@ body {background-image:none;}
   .carousel-caption, .wordwrap, #cbp-fwslider div { display:none;}
 
 #captionone, #captiontwo, #captionthree {display:block; padding:1em; font-weight:bold;  }
-#captionone a, #captiontwo a, #captionthree a { color:#fff;}	f 
+#captionone a, #captiontwo a, #captionthree a { color:#fff;}	 
 #one, #two, #three, #four, #five, #six, #seven {background:none; height:20px; width:100%}
 #one:hover, #two:hover, #three:hover, #four:hover, #five:hover, #six:hover, #seven:hover {outline:none;}	  
 .button{width:92.5%!important}

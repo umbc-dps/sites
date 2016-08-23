@@ -28,8 +28,12 @@
 <meta property="og:description" content="Academic Advising at UMBC." />
 
 
+
 <link href="css/styles-ug.css" rel="stylesheet">
+<link href="css/accordion-ug.css" rel="stylesheet">
+<link href='css/magnific-popup.css' rel='stylesheet'>
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
+
 <script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -96,7 +100,7 @@ html::after {
 <p>Academic Advising at UMBC starts with an Orientation Advisor  specifically trained to help you with securing a strategic course schedule to  launch your academic career. However, once you begin your study here at  UMBC-Shady Grove, you will then have the opportunity to work with a faculty member  and/or professional advisor affiliated with your chosen academic discipline.  Please see a list of advisors per program listed below:</p>
 
 <div class="accordionheader">
-            <h4><a id="undergraduate" href="#undergraduate"></a>Undergraduate<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="undergraduate" href="#undergraduate"></a>Undergraduate Advisors<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -133,7 +137,7 @@ html::after {
 </div>
 
 <div class="accordionheader">
-            <h4><a id="graduate" href="#graduate"></a>Graduate<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="graduate" href="#graduate"></a>Graduate Advisors<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -209,20 +213,18 @@ html::after {
     <!-- END TOP SIDEBAR-->
   <footer id="site-footer" class="clearfix">
   <?php include("includes/footer-ug.php"); ?> 
-  <?php include("includes/tracking.php"); ?> 
   </footer>
+
 	</div>  
     
 
   
 <!-- container --> 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
-<script src="js/scripts.js"></script> 
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
 <script src="js/scripts.js"></script> 
+<script src="js/jquery.magnific-popup.js"></script>
+<script src="js/popup.js"></script>
 
 <script>
 $( "#accordion" ).accordion({
@@ -242,5 +244,14 @@ $('h4').click(function() {
 });
 </script> 
  
+
+<?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>

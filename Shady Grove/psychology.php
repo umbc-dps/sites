@@ -27,9 +27,13 @@
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
 <meta property="og:description" content="Pscyhology at UMBC Shady Grove." />
 
-
 <link href="css/styles-ug.css" rel="stylesheet">
+<link href="css/accordion-ug.css" rel="stylesheet">
+<link href='css/magnific-popup.css' rel='stylesheet'>
+
+<link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 <link rel="stylesheet" href="css/jquery-ui.theme.css">
+
 <script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -271,8 +275,8 @@ html::after {
     <!-- END TOP SIDEBAR-->
   <footer id="site-footer" class="clearfix">
   <?php include("includes/footer-ug.php"); ?> 
-  <?php include("includes/tracking.php"); ?> 
   </footer>
+
 </div>
 
 <!-- container --> 
@@ -281,17 +285,29 @@ html::after {
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script src="js/jquery.cbpFWSlider.js"></script> 
 <script src="js/scripts.js"></script> 
+<script src="js/jquery.magnific-popup.js"></script>
+<script src="js/popup.js"></script>
 
 <script>
   $(function() {
     $( "#tabs" ).tabs();
   });
   $(function() {
-    $( "#accordion" ).accordion({
-      collapsible: true,
-	  heightStyle: "content",
-	  active:false
-    });
+  $( "#accordion" ).accordion({
+		heightStyle: "content",
+		active: false,
+		collapsible: true,
+	  });
+	  var hash = window.location.hash;
+	  var anchor = $('a[href$="'+hash+'"]');
+	  if (anchor.length > 0){
+		  anchor.click();
+	  }
+  $('h3').click(function() {
+	  var linkText = $(this).text();
+	  ga('send', 'event',  'accordion', 'click', linkText);
+  });
+
   });
 $( function() {
     var isPaused = false;
@@ -311,5 +327,68 @@ $( function() {
     }, 5000);
 });
 </script>
+
+<script>
+$('#cbp-fwslider').on('click', function() {
+  ga('send', 'event', 'slider', 'slide', {'nonInteraction': 1});
+});
+$('#slide1').on('click', function() {
+  var slideID = document.getElementById('slide1');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide1', slideURL);
+});
+$('#slide2').on('click', function() {
+  var slideID = document.getElementById('slide2');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide2', slideURL);
+});
+$('#slide3').on('click', function() {
+  var slideID = document.getElementById('slide3');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide3', slideURL);
+});
+$('#slide4').on('click', function() {
+  var slideID = document.getElementById('slide4');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide4', slideURL);
+});
+
+$('#slide5').on('click', function() {
+  var slideID = document.getElementById('slide5');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide5', slideURL);
+});
+
+$('#slide6').on('click', function() {
+  var slideID = document.getElementById('slide6');
+  var slideLink = slideID.getElementsByTagName('a')[0];
+  var slideURL = slideLink.href;
+  ga('send', 'event', 'slider', 'slide6', slideURL);
+});
+
+$(".cbp-fwnext").on('hover', function() {
+  ga('send', 'event', 'slider', 'button', 'next');
+});
+$(".cbp-fwprev").on('hover', function() {
+  ga('send', 'event', 'slider', 'button', 'previous');
+});
+$(".cbp-fwdots").on('hover', function() {
+  ga('send', 'event', 'slider', 'button', 'dots');
+});
+</script>
+
+<?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>

@@ -202,6 +202,8 @@ $(function() {
       }
       
       $(nextItem).trigger('showPanel');
+	  	// Send to Google Analytics
+		ga('send', 'event', 'slider', 'slide', {'nonInteraction': 1});
     });
   
     spotlightItems.click(function() {

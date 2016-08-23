@@ -28,8 +28,14 @@
 <meta property="og:description" content="UMBC-Shady Grove welcomes all veterans, active duty military and dependents." />
 
 
+
 <link href="css/styles-ug.css" rel="stylesheet">
+<link href="css/accordion-ug.css" rel="stylesheet">
+<link href='css/magnific-popup.css' rel='stylesheet'>
+
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
+
+
 <script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -57,47 +63,6 @@ html::after {
   background-attachment:fixed;
 }
 }
-
-
-
-
-	
-
-table{ width: 100% }
-td p{width:100%}
-
-.style11 {font-size: 13px}
-
-div.accordionheader{background-color: #ffdda0;}
-.accordionheader {color:#000; margin-top:8px; text-align: left;}
-.accordionbody
-.accordionbody ul li {list-style:square}
-.accordionheader:hover{cursor:pointer}
-
-i { 
-	float:right;
-	padding:5px;
-    -webkit-transition:all 300ms ease-in 0s;
-    -moz-transition: all 300ms ease-in 0s;
-    -o-transition: all 300ms ease-in 0s;
-	transition: all 300ms ease-in 0s;}
-
-.ui-state-active i {
-    color: #000;
-    -webkit-transform: rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
-.accordionheader h4{font-size:12pt; padding:5px; line-height:14pt}
-
-@media screen and (max-width:479px) {
-	.accordionbody img{width:90%; display:block; text-align:center; align:center; padding:5%}
-	.accordionbody p{width:100%; display:block}
-	.accordionbody ul{margin-left: 5px!important}
-}
-
 .boxed {
 	width: 250px ;
 	border: 2px solid black ;
@@ -217,8 +182,8 @@ All  students who are veterans of the military are welcome to join the USG Vets.
     <!-- END TOP SIDEBAR-->
   <footer id="site-footer" class="clearfix">
   <?php include("includes/footer-ug.php"); ?> 
-  <?php include("includes/tracking.php"); ?> 
   </footer>
+
 </div>  
     
 
@@ -226,8 +191,9 @@ All  students who are veterans of the military are welcome to join the USG Vets.
 <!-- container --> 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
 <script src="js/scripts.js"></script> 
+<script src="js/jquery.magnific-popup.js"></script> 
+<script src="js/popup.js"></script> 
 
 <script>
 $( "#accordion" ).accordion({
@@ -247,5 +213,14 @@ $('h4').click(function() {
 });
 </script> 
  
+
+<?php include("includes/tracking.php"); ?>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 </body>
 </html>
