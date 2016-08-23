@@ -10,22 +10,22 @@
 <head>
 
 <meta charset="UTF-8">
-<title>Undergraduate Programs | UMBC at Shady Grove</title>
+<title>Student Success Resources | UMBC at Shady Grove</title>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Billing information for students looking to take UMBC's Summer 2015 courses." />
+<meta name="description" content="If you are having problems in one or more of your classes, now is the time to take action." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Billing | Summer Programs at UMBC" />
+<meta property="og:title" content="Student Success Resources | Summer Programs at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/billing/" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
-<meta property="og:description" content="Billing information for students looking to take UMBC's Summer 2015 courses." />
+<meta property="og:url" content="http://www.umbc.edu/shadygrove/studentsuccess/" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
+<meta property="og:description" content="If you are having problems in one or more of your classes, now is the time to take action." />
 
 
 
@@ -63,36 +63,6 @@ html::after {
   background-attachment:fixed;
 }
 }
-
-
-
-
-	
-
-
-div.accordionheader{background-color: #ffdda0;}
-.accordionheader {color:#000; margin-top:8px; text-align: left;}
-.accordionbody
-.accordionbody ul li {list-style:square}
-.accordionheader:hover{cursor:pointer}
-
-i { 
-	float:right;
-	padding:5px;
-    -webkit-transition:all 300ms ease-in 0s;
-    -moz-transition: all 300ms ease-in 0s;
-    -o-transition: all 300ms ease-in 0s;
-	transition: all 300ms ease-in 0s;}
-
-.ui-state-active i {
-    color: #000;
-    -webkit-transform: rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
-.accordionheader h4{font-size:12pt; padding:5px; line-height:14pt}
 
 </style>
 </head>

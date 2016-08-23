@@ -24,7 +24,7 @@
 <meta property="og:title" content="Undergraduate Programs | UMBC Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/ug" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
 <meta property="og:description" content="Undergraduate programs at UMBC." />
 
 

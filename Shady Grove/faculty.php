@@ -14,7 +14,7 @@
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="UMBC Shady Grove Faculty Resources" />
+<meta name="description" content="UMBC Shady Grove Faculty Resources." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -24,8 +24,8 @@
 <meta property="og:title" content="Faculty Resources | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/faculty" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
-<meta property="og:description" content="UMBC Shady Grove Faculty Resources" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
+<meta property="og:description" content="UMBC Shady Grove Faculty Resources." />
 
 <link href="css/styles-ug.css" rel="stylesheet">
 <link href='css/magnific-popup.css' rel='stylesheet'>
@@ -62,41 +62,7 @@ html::after {
   background-attachment:fixed;
 }
 }
-
-
-
-
-	
-
-
-div.accordionheader{background-color: #ffdda0;}
-.accordionheader {color:#000; margin-top:8px; text-align: left;}
-.accordionbody
-.accordionbody ul li {list-style:square}
-.accordionheader:hover{cursor:pointer}
-
-i { 
-	float:right;
-	padding:5px;
-    -webkit-transition:all 300ms ease-in 0s;
-    -moz-transition: all 300ms ease-in 0s;
-    -o-transition: all 300ms ease-in 0s;
-	transition: all 300ms ease-in 0s;}
-
-.ui-state-active i {
-    color: #000;
-    -webkit-transform: rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
-.accordionheader h4{font-size:12pt; padding:5px; line-height:14pt}
-
-.style21 {font-size: 12px}
 </style>
-
-
 
 </head>
 <body>

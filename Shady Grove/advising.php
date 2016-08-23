@@ -10,11 +10,11 @@
 <head>
 
 <meta charset="UTF-8">
-<title>Undergraduate Programs | UMBC at Shady Grove</title>
+<title>Adivising Resources | UMBC at Shady Grove</title>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Academic Advising at UMBC." />
+<meta name="description" content="Academic Advising at UMBC Shady Grove." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -25,7 +25,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/advising/" />
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
-<meta property="og:description" content="Academic Advising at UMBC." />
+<meta property="og:description" content="Academic Advising at UMBC Shady Grove." />
 
 
 
@@ -151,7 +151,8 @@ html::after {
           Dr. Sheldon Broedel, <a href="mailto:broedel@umbc.edu">broedel@umbc.edu</a> (Associate Graduate  Program Director)</li>
           </ul>
         <h5>Cybersecurity</h5>
-        <ul><li> Mr. Behnam Shariati, <a href="mailto:shariati@umbc.edu">shariati@umbc.edu</a> (Assistant Graduate Program Director)</li></ul>
+        <ul>
+          <li> Dr. Behnam Shariati, <a href="mailto:shariati@umbc.edu">shariati@umbc.edu</a> (Assistant Graduate Program Director)</li></ul>
         <h5>Geographic  Information Systems</h5>
         <ul><li>Dr. Erwin Villiger, <a href="mailto:villiger@umbc.edu">villiger@umbc.edu</a> (Program Director)</li></ul>
         <h5>I/O Psychology</h5>

@@ -24,8 +24,8 @@
 <meta property="og:title" content="Admitted Student Checklist | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/newlyadmitted" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
-<meta property="og:description" content="Welcome to UMBC Shadygrove." />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
+<meta property="og:description" content="Welcome to UMBC Shady Grove!" />
 
 
 
@@ -63,48 +63,6 @@ html::after {
   background-attachment:fixed;
 }
 }
-
-
-
-
-	
-
-
-div.accordionheader{background-color: #ffdda0;}
-.accordionheader {color:#000; margin-top:8px; text-align: left;}
-.accordionbody
-.accordionbody ul li {list-style:square}
-.accordionheader:hover{cursor:pointer}
-
-i { 
-	float:right;
-	padding:5px;
-    -webkit-transition:all 300ms ease-in 0s;
-    -moz-transition: all 300ms ease-in 0s;
-    -o-transition: all 300ms ease-in 0s;
-	transition: all 300ms ease-in 0s;}
-i.floatleft{
-	padding:2.5px;
-	padding-right:5px;
-    -webkit-transition: none;
-    -moz-transition: none;
-    -o-transition: none;
-	transition: none; }
-.ui-state-active i.floatleft{
-	-webkit-transform: none;
-    -moz-transform: none;
-    -o-transform: none;
-    -ms-transform: none;
-	transform:none}
-.ui-state-active i {
-    color: #000;
-    -webkit-transform: rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
-.accordionheader h4{font-size:12pt; padding:5px; line-height:14pt}
 
 </style>
 

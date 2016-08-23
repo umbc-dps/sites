@@ -24,7 +24,7 @@
 <meta property="og:title" content="Political Science | UMBC Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/politiclascience/" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
 <meta property="og:description" content="Political Science at UMBC Shady Grove." />
 
 <link href="css/styles-ug.css" rel="stylesheet">

@@ -24,7 +24,7 @@
 <meta property="og:title" content="Financing Your Education | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygroveiste/financing" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
 <meta property="og:description" content="Tuition, financial aid, and scholarships." />
 
 
@@ -64,35 +64,6 @@ html::after {
 }
 }
 
-
-
-
-	
-
-
-div.accordionheader{background-color: #ffdda0;}
-.accordionheader {color:#000; margin-top:8px; text-align: left;}
-.accordionbody
-.accordionbody ul li {list-style:square}
-.accordionheader:hover{cursor:pointer}
-
-i { 
-	float:right;
-	padding:5px;
-    -webkit-transition:all 300ms ease-in 0s;
-    -moz-transition: all 300ms ease-in 0s;
-    -o-transition: all 300ms ease-in 0s;
-	transition: all 300ms ease-in 0s;}
-
-.ui-state-active i {
-    color: #000;
-    -webkit-transform: rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
-.accordionheader h4{font-size:12pt; padding:5px; line-height:14pt}
 </style>
 
 

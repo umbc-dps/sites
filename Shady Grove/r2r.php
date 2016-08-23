@@ -24,7 +24,7 @@
 <meta property="og:title" content="R2R | UMBC Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/r2r" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
 <meta property="og:description" content="UMBC Shady Grove's transfer access process." />
 
 

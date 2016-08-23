@@ -10,22 +10,22 @@
 <head>
 
 <meta charset="UTF-8">
-<title>Undergraduate Programs | UMBC at Shady Grove</title>
+<title>Accomodations | UMBC at Shady Grove</title>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Billing information for students looking to take UMBC's Summer 2015 courses." />
+<meta name="description" content="UMBC-Shady Grove works very closely with Student Disability Services on the main campus to provide services for registered Shady Grove students with disabilities." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
-<meta name="twitter:site" content="@UMBCSummer">
+<meta name="twitter:site" content="@UatShadyGrove">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Billing | Summer Programs at UMBC" />
+<meta property="og:title" content="Accomodations | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/billing/" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
-<meta property="og:description" content="Billing information for students looking to take UMBC's Summer 2015 courses." />
+<meta property="og:url" content="http://www.umbc.edu/shadygrove/accommodations/" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
+<meta property="og:description" content="UMBC-Shady Grove works very closely with Student Disability Services on the main campus to provide services for registered Shady Grove students with disabilities." />
 
 <link href="css/styles-ug.css" rel="stylesheet">
 <link href='css/magnific-popup.css' rel='stylesheet'>

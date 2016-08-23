@@ -24,7 +24,7 @@
 <link href="css/magnetic-popup.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -45,7 +45,7 @@
   <!-- END umbc header -->
   <div id="site-menu-background">
     <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
+      <? //php include("includes/gold-nav.php"); ?>
     <!-- END gold toolbar --> 
   </div>
 </div>

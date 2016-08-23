@@ -14,7 +14,7 @@
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Internships for UMBC students." />
+<meta name="description" content="UMBC students have the opportunity to step outside the boundaries of the classroom and experience the real world through internships." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -24,8 +24,8 @@
 <meta property="og:title" content="Internships | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/internships" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
-<meta property="og:description" content="Internships for UMBC students." />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
+<meta property="og:description" content="UMBC students have the opportunity to step outside the boundaries of the classroom and experience the real world through internships." />
 
 
 

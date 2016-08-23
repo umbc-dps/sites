@@ -15,6 +15,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="Graduate Orientation." />
+<meta name="robots" content="noindex, nofollow">
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -24,7 +25,7 @@
 <meta property="og:title" content="Graduate Orientation | UMBC Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/orientation" />
-<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/sg.jpg" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
 <meta property="og:description" content="Graduate Orientation." />
 
 
@@ -62,6 +63,30 @@ html::after {
   z-index: -1;  
   background-attachment:fixed;
 }
+}
+/*Mobile Responsive iFrame*/
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper2 {
+	position: relative;
+	padding-bottom: 150%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe, .videoWrapper2 iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+@media screen and (max-width:799px) {
+.videoWrapper2 iframe {height: 275%}
+.videoWrapper2 {margin-bottom: 275%}
 }
 </style>
 

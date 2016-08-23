@@ -25,7 +25,7 @@
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -47,7 +47,6 @@
   <!-- END umbc header -->
   <div id="site-menu-background">
     <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
     <!-- END gold toolbar --> 
   </div>
 </div>
@@ -70,65 +69,20 @@
 
 <li id="slide1">
 
-<a href="academicsupport"><img src="images/tutoring.jpg" alt="Summer Tutoring" target="_blank"></a>
+<a href="#">
+  <img src="images/campus.jpg" alt="UMBC campus">
 
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Academic Support</h3>
-<small>The LRC will be offering tutoring for most Science and Math courses as well as for any Written Paper.</small>
-            
-<p><a href="academicsupport" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="academicsupport" target="_blank">Academic Support</a></p>
+  <div class="carousel-caption wordwrap">
+      
+    <h3>Summer 2017:</h3>
+    <small>Your smart choice to get ahead!</small>
+  
+  </div>
+</a>
           
 </li>
 
 <!-- END Slide One --> 
- 
-
-<!-- Slide Two -->
-
-<li id="slide2">
-
-<a href="events"><img src="images/summer-events.png" alt="Summer Events" target="_blank"></a>
-
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Summer Events</h3>
-<small>There's more to summer at UMBC than what happens in the classroom. Have fun, and be part of a dynamic learning community while you learn.</small>
-            
-<p><a href="events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="/summer/events" target="_blank">Summer Events</a></p>
-          
-</li>
-
-<!-- END Slide Two --> 
-
-<!-- Slide Three -->
-
-<li id="slide3">
-
-<a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus"><img src="images/food.jpg" alt="Where to Eat?" target="_blank"></a>
-
-<div class="carousel-caption-right wordwrap">
-    
-<h3>Summer Dining Guide</h3>
-<small>Time for a break? Find our where and when to dine on campus this summer.</small>
-            
-<p><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-
-</div>
-
-<p id="captiontwo"><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" target="_blank">Where to Eat?</a></p>
-          
-</li>
-
-<!-- END Slide Three --> 
 
  
 
@@ -146,29 +100,19 @@
     <div style="display:inline; float:left;"> 
       <!-- NEW ROW -->
  
-	<dl class="eleven columns alpha">
-
 <br>    
-<h3><strong>Summer Session II</strong></h3>
-<p>Schedule Adjustment for summer session II ended on July 14.</p>
-<p>Check your final <a href="/summer/grades" target="_blank">grades</a> and/or order <a href="/summer/grades" target="_blank">transcripts</a> once your session ends.</p>
+<h3><strong>Thank you for a successful summer session!</strong></h3>
+<ul style="margin-left:25px">
+	<li style="list-style-type:square">Check final <a href="grades" target="_blank">grades</a></li>
+    <li style="list-style-type:square">Order <a href="grades" target="_blank">transcripts</a></li>
+    <li style="list-style-type:square">View the <a href="documents/catalog.pdf">Summer 2016 Catalog</a></li>
+</ul>
 
 
-	<h4><strong>May 31 – August 19</strong></h4>
-      <dl class="four columns alpha">
-        <dt>Summer Session I</dt>
-        <dd> 4 week: May 31 — June 24 </dd>
-        <dd>6 week: May 31 — July 8 </dd>
-        <dd>8 week: May 31 — July 22 </dd>
-        <dd>12 week: May 31 — August 19 </dd>
-      </dl>
-      <dl class="four columns omega">
-        <dt>Summer Session II</dt>
-        <dd>4 week: July 11 — August 5</dd>
-        <dd>6 week: July 11 — August 19</dd>
-      </dl>
-      </dl>
-</div></div></div>
+<h3><strong>Join us for <a href="../winter">Winter Session 2017</a></strong></h3>
+
+
+</div></div>
 
   <footer id="site-footer" class="clearfix">
     <?php include("includes/footer.php"); ?>

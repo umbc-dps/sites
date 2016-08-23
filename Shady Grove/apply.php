@@ -10,7 +10,7 @@
 <head>
 
 <meta charset="UTF-8">
-<title>Undergraduate Programs | UMBC at Shady Grove</title>
+<title>Admissions | UMBC at Shady Grove</title>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

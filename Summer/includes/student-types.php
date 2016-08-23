@@ -1,17 +1,17 @@
  
-      <a href="umbcstudents" class="studenttype">
+      <a href="#" class="studenttype">
       <aside class="five columns add-bottom" id="one" style="margin-top:1em;">
         <h3 class="students">I am a Current Student</h3> 
       </aside>
       </a>
       
-      <a href="visitingstudents" class="studenttype">
+      <a href="#" class="studenttype">
       <aside class="five columns add-bottom" id="two">
         <h3 class="students">I am a Visiting Student</h3>
       </aside>
       </a>
       
-      <a href="incomingstudents" class="studenttype">
+      <a href="#" class="studenttype">
       <aside class="five columns add-bottom" id="three">
         <h3 class="students">I am an Incoming Student</h3> 
       </aside>
@@ -45,7 +45,7 @@
       
       <aside class="five columns add-bottom">
       	<center>
-        	<a href="stem"><img src="images/stemlogo.gif" style="width:50%"></a>
+        	<a href="#"><img src="images/stemlogo.gif" style="width:50%"></a>
         </center>
       </aside>
       

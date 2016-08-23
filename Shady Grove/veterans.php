@@ -24,7 +24,7 @@
 <meta property="og:title" content="Veteran Resources | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/veterans/" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
+<meta property="og:image" content="http://www.umbc.edu/shadygrove/images/meta.jpg" />
 <meta property="og:description" content="UMBC-Shady Grove welcomes all veterans, active duty military and dependents." />
 
 
