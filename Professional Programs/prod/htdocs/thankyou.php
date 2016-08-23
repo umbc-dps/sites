@@ -14,9 +14,9 @@ $lang = 'en';
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,500,700,900' rel='stylesheet' type='text/css'>
 <link href="includes/styles.css" rel="stylesheet">
-<script src="includes/modernizr.custom.js"></script>
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
-<link href='includes/magnific-popup.css' rel='stylesheet'>
+<link href='http://umbc.edu/dps/css/magnific-popup.css' rel='stylesheet'>
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
@@ -189,21 +189,15 @@ BEGIN MAIN
 <script>$( "#sidebar-contact" ).load( "includes/contact-form.php .mini-form" );</script>
 <script>$( "#contents" ).load( "includes/program-info.php" );</script>
 
-<script src="includes/scripts.js"></script>
+
 <?php include("includes/tracking.php"); ?> 
-<script src="includes/jquery.cbpFWSlider.js"></script>
+<script src="http://umbc.edu/dps/js/scripts.js"></script> 
+<script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script>
 
 <script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
-
-<script>
-$(document).ready(function () {
-	ytTracker.init();
-});
-</script>
-
 
 
 <script> 
@@ -213,6 +207,14 @@ $( '#cbp-fwslider' ).cbpFWSlider('interval');
  
 } ); 
 </script>
+
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
 
 
 </body>

@@ -11,12 +11,14 @@
 <meta name="twitter:site" content="@umbc_dps">
 
 <!-- Open Graph data -->
+
 <meta property="og:title" content="Office of Professional Programs at UMBC" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://professionalprograms.umbc.edu" />
 <meta property="og:image" content="http://professionalprograms.umbc.edu/images/3.jpg" />
 <meta property="og:description" content="UMBC’s Office of Professional Programs offers a broad array of professionally focused master’s degree and certificate programs that address industry needs while anticipating future opportunities." />
 
+<meta name="robots" content="noindex, nofollow">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,500,700,900' rel='stylesheet' type='text/css'>

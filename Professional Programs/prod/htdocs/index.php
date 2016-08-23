@@ -29,9 +29,10 @@ $lang = 'en';
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,500,700,900' rel='stylesheet' type='text/css'>
 <link href="includes/styles.css" rel="stylesheet">
-<link href='includes/magnific-popup.css' rel='stylesheet'>
+<link href='http://umbc.edu/dps/css/magnific-popup.css' rel='stylesheet'>
 
-<script src="includes/modernizr.custom.js"></script>
+<?php include("includes/tracking.php"); ?> 
+<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
 
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
@@ -317,20 +318,15 @@ BEGIN MAIN
 <script>$( "#sidebar-contact" ).load( "includes/contact-form.php .mini-form" );</script>
 <script>$( "#contents" ).load( "includes/program-info.php" );</script>
 
-<script src="includes/scripts.js"></script>
-<?php include("includes/tracking.php"); ?> 
-<script src="includes/jquery.cbpFWSlider.js"></script>
+
+
+<script src="http://umbc.edu/dps/js/scripts.js"></script> 
+<script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script>
 
 <script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
-
-<script>
-$(document).ready(function () {
-	ytTracker.init();
-});
-</script>
 
 
 <script>
@@ -397,6 +393,12 @@ $(".cbp-fwprev").on('hover', function() {
 });
 $(".cbp-fwdots").on('hover', function() {
   ga('send', 'event', 'slider', 'button', 'dots');
+});
+</script>
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
 });
 </script>
   

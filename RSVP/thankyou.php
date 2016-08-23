@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Thank You! | Professional Programs at UMBC</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,500,700,900' rel='stylesheet' type='text/css'>
 <link href="includes/styles.css" rel="stylesheet">
