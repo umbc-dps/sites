@@ -89,7 +89,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" alt="UMBC Faculty Rick Forno" src="images/faculty/umbc-faculty-Rick-Forno.gif"><strong>Lecturer &amp; Graduate Program Director, Cybersecurity</strong><br>
+  <p><img align="left" alt="UMBC Faculty Rick Forno" src="images/faculty/umbc-faculty-Rick-Forno.gif"><strong>Senior Lecturer &amp; Graduate Program Director, Cybersecurity</strong><br>
   Assistant Director, <a href="http://cybersecurity.umbc.edu/" target="_blank">UMBC Center for Cybersecurity</a></p>
   <p>
   Ph.D., Curtin University of Technology<br>

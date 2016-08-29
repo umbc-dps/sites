@@ -7,6 +7,12 @@
 		Tuesday, October 25, 5:30-8:00PM<br>
 <a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=sidebar_se">RSVP Now</a>
       </p>
+<hr>
+      
+      <p style="font-style:italic; text-align:center; margin-top:-15px;">
+      <strong>Drop in and chat with the Program Director on 9/14!</strong><br />
+<a href="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLSczKm2H8H4ocY82gz3jF5Q_qsPyHFnTPX8Y8XC8I8v_hJy6DQ/viewform" target="_blank" onMouseDown="ga('send', 'event', 'lead', 'click', 'dropin-session');" class="btn">Sign Up</a></p> 
+
     </aside>
     
     <aside class="five columns add-bottom" id="two" style="display:none">

@@ -106,15 +106,15 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="visit/pd">
+<a href="preview">
 <div class="image mobile-left">
-	<img src="images_homepage/teaching.jpg" alt="One">
+	<img src="images_homepage/pat.png" alt="One">
 </div>
 <div class="content-details left">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/visit/pd">&raquo;</a>
-<div class="title">Visit with Our Program Directors!</div>
-<div class="tagline">Meet our Program Directors and current students to learn about our undergraduate programs in History, Political Science, Psychology & Social Work and how a UMBC degree may best fit YOU!</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/visit/pd" target="_blank">RSVP Today! &raquo;</a>
+<a class="mobile-seemore" href="preview">&raquo;</a>
+<div class="title">Attend Undergraduate Preview Night!</div>
+<div class="tagline">Join us on Thursday, September 29th at 6pm!  Connect with members of the Peer Advisory Team, staff, faculty, True Grit, and learn about the transfer and application process during this fun event!</div>
+<a class="web-seemore" href="preview" target="_blank">RSVP Today! &raquo;</a>
 </div>
 </a>
 </div>
@@ -135,15 +135,15 @@
 
 
 <div class="panel panel-3">
-<a href="io/infosession">
+<a href="visit">
 <div class="image mobile-center">
-<img src="images_homepage/io.jpg" alt="Two">
+<img src="images_homepage/6.jpg" alt="Two">
 </div>
 <div class="content-details right">
 <a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/io/infosession">&raquo;</a>
-<div class="title">Interested in I/O Psychology?</div>
-<div class="tagline">Come join our Program Director for an Information Session on Wednesday, October 19 to learn about the I/O Psychology master's program and how to apply for the Fall 2017 Cohort!</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank">RSVP Today</a>
+<div class="title">UMBC-Shady Grove's Graduate Programs</div>
+<div class="tagline">Interested in joining one of our graduate programs? Come join us on Saturday, October 1 to learn about Cybersecurity or GIS and on Wednesday, October 19 to hear information about our I/O Psychology program.</div>
+<a class="web-seemore" href="visit" target="_blank">RSVP Now!</a>
 </div>
 </a>
 </div>
@@ -193,9 +193,9 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/teaching-small.jpg" alt="1"></li>
+<li class="item-1"><img src="images_homepage/pat-small.png" alt="1"></li>
 <li class="item-2"><img src="images_homepage/parking.jpg" alt="4"></li>
-<li class="item-3"><img src="images_homepage/io-small.jpg" alt="2"></li>
+<li class="item-3"><img src="images_homepage/6_tmb.jpg" alt="2"></li>
 <li class="item-4"><img src="images_homepage/studying-small.jpg" alt="3"></li>
 <!-- Hide Preview Images --
 <li class="item-5"><img src="images_homepage/5_tmb.jpg" alt="5"></li>
@@ -272,7 +272,7 @@
 	<a href="advising">Advising Resources</a><br>
 	<a href="http://umbc.edu/ies">International Education Services</a><br>
 	<a href="veterans">Veteran Support</a><br>
-	<a href="studentsuccess">Student Success</a>
+	<a href="studentsuccess">Student Success</a><br>
 </p>
 </div>
     
@@ -285,6 +285,7 @@
 	<a href="http://registrar.umbc.edu/academic-calendar/" target="_blank">Academic Calendar</a><br>
 	<a href="http://shadygrove.bncollege.com/webapp/wcs/stores/servlet/TBWizardView?catalogId=10001&langId=-1&storeId=39051" target="_blank">Textbooks</a><br>
 	<a href="forms">Forms</a><br>
+	<a href="studentresources">Student Resources</a>
 </p>
 </div>
 </div>

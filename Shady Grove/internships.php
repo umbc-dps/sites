@@ -115,7 +115,7 @@ html::after {
 	<li>Find an  internship outside of UMBCworks? Convert it to a UMBC internship <a href="documents/InternshipConversionPacket.pdf" target="_blank">here</a>.</li>
 	<li>PRAC 98/99 (Internship and Research) Course Forms:</li>
 		<ul>
-			<li><a href="documents/pracsyllabus.pdf" target="_blank">Syllabus for Summer 2016</a></li>
+			<li><a href="documents/pracsyllabus.pdf" target="_blank">Syllabus for Fall 2016</a></li>
 		</ul>
    </ul>
   

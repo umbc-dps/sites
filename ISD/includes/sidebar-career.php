@@ -1,9 +1,12 @@
 <div class="five columns">
-    <aside class="five columns add-bottom" id="one" style="display:none">
+
+     <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
-
-
-      <p style="text-align:center">&nbsp;</p>
+      <p style="text-align:center">
+      <strong>ISD Now Forum</strong><br>
+	Wednesday, October 12, 6:00-8:30PM<br>
+    <a class="btn" href="http://umbc.edu/isd/forum2016">RSVP Now</a>
+</p>
 </aside>
 
 

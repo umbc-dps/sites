@@ -99,7 +99,7 @@ $lang = 'en';
  
 <p>
 <h4>
-<strong>WHEN:</strong> Wednesday, November 4, 6:00 - 8:30 PM<br>
+<strong>WHEN:</strong> Wednesday, October 12, 6:00 - 8:30 PM<br>
 <strong>WHERE:</strong> UMBC Ballroom, University Center, 3rd Floor
 </h4> 
 </p>
@@ -107,15 +107,15 @@ $lang = 'en';
 <h3><strong>Thank You!</strong></h3>
  
 
-  <p>Thank you for registering for UMBC's ISD Now Forum 2016, "The Learning Research Challenge: Insights, Revelations and Pitfalls to Avoid at All Costs"! You will receive an email confirmation shortly.</p>
+  <p>Thank you for registering for UMBC's ISD Now Forum 2016, "The Learning Research Challenge: Insights, Revelations and Pitfalls to Avoid at All Costs"!</p>
   
   <p> Should you have any questions or concerns, please feel free to contact <a href="mailto:reisen@umbc.edu">Renee Eisenhuth</a>, Instructional Systems Development-Program Coordinator.</p>
 
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">11/04/2016 6:00 PM</span>
-    <span class="end">11/04/2016 8:30 PM</span>
+    <span class="start">10/12/2016 6:00 PM</span>
+    <span class="end">10/12/2016 8:30 PM</span>
     <span class="timezone">America/New_York</span>
     <span class="title">ISD Now Forum</span>
     <span class="description">In this stimulating session, Dr. Thalheimer will challenge us in a rapid-fire quiz show, uncovering the many pitfalls around learning. He will present using humor, energy, and a provocative edge.</span>

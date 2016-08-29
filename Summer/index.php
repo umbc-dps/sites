@@ -69,15 +69,18 @@
 
 <li id="slide1">
 
-<a href="#">
+<a>
   <img src="images/campus.jpg" alt="UMBC campus">
 
   <div class="carousel-caption wordwrap">
       
     <h3>Summer 2017:</h3>
-    <small>Your smart choice to get ahead!</small>
+    <center><small>Registration begins March 13.</small></center>
   
   </div>
+  
+  <p id="captiontwo"><a>Summer 2017 Registration begins March 13.</a></p>
+  
 </a>
           
 </li>

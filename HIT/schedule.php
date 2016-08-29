@@ -108,7 +108,7 @@ Registration For Newly Admitted Students:</strong>&nbsp;June 1, 2016<br>
     <td valign="bottom">Wednesday</td>
     <td valign="bottom">6:00 - 8:45 PM</td>
     <td valign="bottom">In Person</td>
-    <td valign="bottom">MEYER 012</td>
+    <td valign="bottom">MP 012</td>
   </tr>
   <tr>
     <td valign="bottom">HIT 663 (8038)</td>
