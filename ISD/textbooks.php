@@ -97,8 +97,8 @@ Please refer to the list provided for required course texts, by semester. If you
  <td width="55%" style="text-align:center">Textbooks and Materials</td>
   </tr>
   <tr>
- <td>EDUC 602 sections 04 &amp;  05:&nbsp;<br>
-Instructional Systems Development I (#2150, #2151)</td>
+ <td>EDUC 602 sections 04:&nbsp;<br>
+Instructional Systems Development I (#2150)</td>
  <td>Hodell, C.</td>
  <td><strong>Required:</strong><br>
 Hodell, C. (2015).&nbsp;<em>ISD From the Ground Up</em>,  (4th ed.).&nbsp; ATD Press.&nbsp;<br>
@@ -120,24 +120,17 @@ Knowles, M. (2012)&nbsp;<em>The Adult Learner: The  Definitive Classic in Adult 
 ISBN:&nbsp; 978-1856178112</td>
   </tr>
   <tr>
- <td>EDUC 605 section 03: The  Adult Learner (#4733)</td>
- <td>Sullivan, R. </td>
- <td><strong>Required:</strong><br>
-Knowles, M. (2015)&nbsp;<em>The Adult Learner: The  Definitive Classic in Adult Education and Human Resource Development</em>,  (8th ed.). Routledge.<br>
-ISBN:&nbsp; 978-0415739023</td>
-  </tr>
-  <tr>
- <td>EDUC 647 section 01:&nbsp; Distance  Training (#2158)</td>
- <td>Weinstein, S.</td>
- <td><p><strong>Required:</strong><br>
-   Meister, J. (2010). <em>The 2020 Workplace:  How Innovative Companies Attract, Develop and Keep Tomorrow&rsquo;s Employees Today.</em> Harper Business.<br>
-   ISBN  978-0061763274</p>
-   <p>Veletsianos, G.  (2010). <em>Emergining Technologies in  Distance Education (Issues in Distance Education).</em> UBC Press. <br>
-     ISBN:  978-1897425763<br>
-     *There is a  free PDF version available at: <a href="http://www.aupress.ca/index.php/books/120177">http://www.aupress.ca/index.php/books/120177</a></p>
-   <p>Zawacki-Richter,  O. (Ed.) (2014). <em>Online Distance  Education Towards a Research Agenda.</em> University of Washington Press. <br>
-     ISBN  978-1927356623<br>
-     *There is a  free PDF version available at: <a href="http://www.aupress.ca/index.php/books/120233">http://www.aupress.ca/index.php/books/120233</a></p></td>
+    <td>EDUC 647 section 01:&nbsp; Distance  Training (#2158)</td>
+    <td>Weinstein, S.</td>
+    <td><p><strong>Required:</strong><br>
+      Meister, J. (2010). <em>The 2020 Workplace:  How Innovative Companies Attract, Develop and Keep Tomorrow&rsquo;s Employees Today.</em> Harper Business.<br>
+      ISBN  978-0061763274</p>
+      <p>Veletsianos, G.  (2010). <em>Emergining Technologies in  Distance Education (Issues in Distance Education).</em> UBC Press. <br>
+        ISBN:  978-1897425763<br>
+        *There is a  free PDF version available at: <a href="http://www.aupress.ca/index.php/books/120177">http://www.aupress.ca/index.php/books/120177</a></p>
+      <p>Zawacki-Richter,  O. (Ed.) (2014). <em>Online Distance  Education Towards a Research Agenda.</em> University of Washington Press. <br>
+        ISBN  978-1927356623<br>
+        *There is a  free PDF version available at: <a href="http://www.aupress.ca/index.php/books/120233">http://www.aupress.ca/index.php/books/120233</a></p></td>
   </tr>
   <tr>
  <td>EDUC 671 section 01 &amp;  02: Principles of Training &amp; Development&nbsp; (#2154 &amp; 2155)</td>

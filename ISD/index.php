@@ -83,20 +83,20 @@ $lang = 'en';
     
 <!-- Slide One -->  
             
-     <li id="slide1">
-        <a href="https://www.youtube.com/watch?v=p72CdFotxwU" class="video"><img alt="img01" src="images/Dr.-Greg-Williams-Keynote.jpg"></a>
+<li id="slide1">
 
-        <div class="carousel-caption wordwrap">
-          <h3>Dr. Greg Williams Keynote Speech</h3>
-          <small>Listen to ISD Program Director, Dr. Greg Williams, speech at CCBC's Faculty Conference in June 2016.</small>
+<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd" target="_blank"><img src="http://www.umbc.edu/engm/images/8.png" alt="Professional Programs Open House"/></a>
 
-          <p><a href="https://www.youtube.com/watch?v=p72CdFotxwU" class="btn video">Listen Now</a></p>
-        </div>
+<div class="carousel-caption wordwrap">
+<h3>Porfessional Programs Open House</h3>
+<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
 
-        <p id="captionone">
-          <a href="https://www.youtube.com/watch?v=p72CdFotxwU" class="video">Greg Williams Keynote Speech</a>
-        </p>
-      </li>
+<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+
+<p id="captionthree"><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd" target="_blank">RSVP Now</a></p>
+
+</li>
+
  
 <!-- END Slide One -->  
 

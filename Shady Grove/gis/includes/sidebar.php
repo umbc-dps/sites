@@ -2,13 +2,7 @@
   <aside class="five columns add-bottom" id="one">
      <h3 style="color:#fff;">Upcoming Events</h3>
      
-     <p style="text-align:center">
-     <strong>Fall 2016 Orientation</strong><br>
-     <small> Thursday, August 18, 2016 6:00 - 7:15pm</small><br>
-  <a href="http://umbc.edu/shadygrove/orientation" class="btn">RSVP</a>
-</p>
-<hr>
-<p style="text-align:center; margin-top:-15px">
+<p style="text-align:center;">
      <strong>Fall Information Session</strong><br>
      <small> Saturday, October 1, 2016 11:00am</small><br>
   <a href="http://www.umbc.edu/shadygrove/gis/infosession" class="btn">RSVP</a>
@@ -34,8 +28,7 @@
 
 
       <p style="text-align:center">
-Fall 2016 Application Deadline: August 1
-        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
+Applicants can begin applying for Spring 2017 in late September.
       </p>
 </aside>
 

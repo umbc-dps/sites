@@ -23,11 +23,11 @@
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">

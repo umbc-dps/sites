@@ -101,15 +101,15 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img alt="img01" src="images/6.png"></a>
+<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_hit" target="_blank"><img src="images/6.png" alt="Professional Programs Open House"/></a>
 
-<div class="carousel-caption-right wordwrap">
-<h3>Accepting Applications For Fall </h3>
-<small>Classes begin August 31.</small>
+<div class="carousel-caption wordwrap">
+<h3>Porfessional Programs Open House</h3>
+<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
 
-<p><a href="http://gradschool.umbc.edu/admissions/apply/" class="web-seemore" target="_blank">Apply Now</a></p></div>
+<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_hit" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionone"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications For Fall </a></p>
+<p id="captionthree"><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_hit" target="_blank">RSVP Now</a></p>
 
 </li>
 

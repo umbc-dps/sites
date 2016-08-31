@@ -122,7 +122,7 @@ $lang = 'en';
             </td>
 
             <td align="left" valign="top">
-              <p><strong>Behnam Shariati</strong><br>
+              <p><strong>Dr. Behnam Shariati</strong><br>
               Assistant Graduate Program Director<br>
               <a href="mailto:shariati@umbc.edu">shariati@umbc.edu</a></p>
             </td>

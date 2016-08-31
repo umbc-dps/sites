@@ -113,20 +113,6 @@ Post Graduate studies certificate in Systems Engineering from the Johns Hopkins 
 </div>
 
 <div class="accordionheader">
-  <h4><a id="foster" href="#foster"></a>Ted  Foster, Ph.D. | Graduate Faculty <i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-    <p><img align="left" alt="UMBC Faculty Ted Foster" src="images/faculty/umbc-faculty-Ted-Foster.gif">B.S., Electrical Engineering, University of Virginia<br>
-      Ph.D., John Hopkins University</p>
-      
-      <p>Dr. Ted Foster is the Assistant Dean of the UMBC College of Engineering and IT. He joined UMBC in 2000 after a 36-year career at Westinghouse/Northrop Grumman Electronic Systems. Dr. Foster has served in various levels of management in advanced development or applied research in electronics, primarily for radar systems. For seven years he served as General Manager of the Electronics, Information, and Sciences Division at the Westinghouse Research Laboratory, in Pittsburgh, PA and Director of the Northrop Grumman Science and Technology Center. Other specialties include electro-optical surveillance, targeting, and missile warning, microwave design department, VHSIC programs, and surveillance radar systems.</p>
-      
-    <p>Dr. Foster received his B.S. in Electrical Engineering from the University of Virginia and his Ph.D. in Electrical Engineering at Johns Hopkins University. Additionally, Dr. Foster is a Senior member of IEEE, a member of Tau Beta Pi and Sigma Xi, and serves as an Evaluator for ABET accreditation of EE and Computer Engineering programs.</p>
-    <p>You can view Dr. Foster&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/pub/ted-foster/14/424/985" target="_blank">here</a>.</p>
-</div>
-
-<div class="accordionheader">
   <h4><a id="gantzer" href="#gantzer"></a>Don Gantzer | Graduate Faculty<i class="fa fa-angle-down"></i></h4>
 </div>
 
@@ -142,6 +128,24 @@ Post Graduate studies certificate in Systems Engineering from the Johns Hopkins 
   <p>Mr. Gantzer received his B.S. in Industrial Engineering and M.S. in Operations Research from the Ohio State University and a M.S. in Urban Affairs from Virginia Tech. He has served on many working groups and committees in the SE sector and has taught as an adjunct faculty member at several universities in systems engineering, engineering management, systems analysis &amp; design, process improvement, systems/software engineering models and standards, statistics, practical software and systems measurements and analysis.</p>
   
   <p>You can view Mr. Gantzer&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/pub/donald-gantzer/3/b22/751" target="_blank">here</a>.</p>
+</div>
+
+<div class="accordionheader">
+  <h4><a href="#gouker" id="gouker"></a>Toby Gouker, Ph.D. | Assistant  Program Director<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p><img src="images/faculty/umbc-faculty-Toby-Gouker.gif" alt="Toby Gouker" align="left"/>B.S., Chemical Engineering, Worcester Polytechnic Institute<br>
+MBA, University of Houston<br>
+Ph.D., Applied Management and Decision Sciences, Walden University
+</p>
+  
+<p>Toby Gouker, an adjunct with UMBC since 2011, has over 38 years of management experience in industry and academia. For the past five years, Toby served as the Provost and Chief Academic Officer for the SANS Technology Institute. In addition to his work with SANS, Toby held a number of academic positions over the past 10 years. As the Provost at Lyman Spalding Institute, he led the effort to build a global continuing education program for scientists and engineers, as the Vice President of University Affairs at American Graduate University, he functioned as the lead academic and operating officer, and as Executive Director at Laureate Education he led National Technological University through its merger with Walden University.</p>
+
+  <p>In addition to his academic endeavors, Toby has worked extensively in industry. He worked as the Chief Strategy Officer for LongView International Technology Solutions and as Chief Operating Officer for Computer Technology solutions to build federal healthcare information technology and security practices.  Prior to his federal contracting positions, he was the Director of Operations at CertisUSA where he managed several biotech facilities, a Research and Development Manager at W.R. Grace commercializing power plant and other source air pollution control products, and a Project Leader for several synthetic fuels ventures at Exxon Research and Engineering.</p>
+  
+<p>Dr. Gouker received his Ph.D. in Applied Management and Decision Sciences from Walden University, his M.B.A. at the University of Houston, and a B.S. in Chemical Engineering at Worcester Polytechnic Institute. Dr. Gouker is also a Graduate Faculty member at American Graduate University and DeVry University.</p>
+
 </div>
 
 <div class="accordionheader">

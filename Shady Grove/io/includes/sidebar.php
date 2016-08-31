@@ -4,6 +4,7 @@
       <h3 style="color:#fff;">Upcoming Events</h3>
       <p style="text-align:center">
       <strong>I/O Psych Information Session</strong><br>
+      Wednesday, October 19, 2016, 6:00 PM<br>
 <a href="http://www.umbc.edu/shadygrove/io/infosession" class="btn" target="_blank">RSVP Now</a>
       </p>
 </aside>

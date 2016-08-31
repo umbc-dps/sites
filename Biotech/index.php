@@ -93,15 +93,15 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="blank"><img src="images/10.jpg" alt="Professional Programs Info Session"/></a>
+<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_biotech" target="_blank"><img src="images/10.jpg" alt="Professional Programs Open House"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Apply for Fall 2016</h3>
-<small>Apply by August 1st to Start in the Fall.</small>
+<h3>Porfessional Programs Open House</h3>
+<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
 
-<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
+<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_biotech" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="blank">Apply for Fall 2016</a></p>
+<p id="captionthree"><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_biotech" target="_blank">RSVP Now</a></p>
 
 </li>
 

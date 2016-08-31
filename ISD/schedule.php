@@ -110,13 +110,6 @@ $lang = 'en';
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 602 – 05 (2151)</td>
-    <td>Instructional Systems Development    I</td>
-    <td>Online Asynchronous</td>
-    <td>Hodell, C.&nbsp;</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
     <td>EDUC 603 – 01 (2152)</td>
     <td>Instructional Systems Development    II</td>
     <td>Online Asynchronous&nbsp;</td>

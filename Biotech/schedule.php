@@ -95,7 +95,7 @@ $lang = 'en';
    <td>Monday</td>
    <td>6:00 - 8:45 PM</td>
    <td>In Person</td>
-   <td>TBD</td>
+   <td>ITE 237</td>
   </tr>
   <tr>
     <td>BTEC 660 (2726)</td>
@@ -103,7 +103,15 @@ $lang = 'en';
    <td>Wednesday</td>
    <td>6:00  - 8:45 PM</td>
    <td>In  Person</td>
-   <td>TBD</td>
+   <td>PAHB 108</td>
+  </tr>
+  <tr>
+    <td>ENCH 664 (6054)</td>
+    <td>QC &amp; QA for Biotech Products</td>
+    <td>Thursday</td>
+    <td> <span data-term="goog_972126465" tabindex="0">6:00 - 8:45 PM</span></td>
+    <td>In Person</td>
+    <td>PAHB 108</td>
   </tr>
   <tr>
     <td>BTEC 665 (3255)</td>
@@ -111,7 +119,7 @@ $lang = 'en';
    <td>Thursday</td>
    <td>4:30 - 7:00 PM</td>
    <td>Hybrid</td>
-   <td>TBD</td>
+   <td>ITE 227</td>
   </tr>
   <tr>
     <td>BTEC 665 (4389)</td>
@@ -119,7 +127,15 @@ $lang = 'en';
    <td>Monday</td>
    <td>7:10 - 9:00 PM</td>
    <td>Hybrid</td>
-   <td>TBD</td>
+   <td>ITE 229</td>
+  </tr>
+  <tr>
+    <td>BTEC 675 (8156)</td>
+    <td>Business of Biotechnology</td>
+    <td>Thursday</td>
+    <td> <span data-term="goog_972126465" tabindex="0">6:00 - 8:45 PM</span></td>
+    <td>In Person</td>
+    <td>TECH Center - PSB 572</td>
   </tr>
   <tr>
     <td>BTEC 680 (2865)</td>
@@ -127,7 +143,7 @@ $lang = 'en';
    <td>Wednesday</td>
    <td>7:10 - 9:00 PM</td>
    <td>In Person</td>
-   <td>TBD</td>
+   <td>ITE 227</td>
   </tr>
   <tr>
     <td>BTEC 680 (4366)</td>
@@ -135,7 +151,7 @@ $lang = 'en';
    <td>Monday</td>
    <td>6:00 - 8:45 PM</td>
    <td>In Person</td>
-   <td>TBD</td>
+   <td>ITE 227</td>
   </tr>
   <tr>
     <td>BTEC 685 (5397)</td>
@@ -144,7 +160,7 @@ $lang = 'en';
     <td>
       4:30 - 7:00 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
+    <td>ITE 227</td>
   </tr>
   </table>
 

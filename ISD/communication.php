@@ -95,36 +95,56 @@ $lang = 'en';
 !------------------------->
 
 
-<!------- Accordion 2 ------
+<!------- Accordion 2 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
-    
-    <i class="fa fa-angle-down"></i>
+    8/29/2016 - Fall 2016 Begins Wednesday!
     </h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>The fall 2016 semester begins Wednesday,  August 31, 2016. </strong><br>
+      <strong>Blackboard Help and Instructions: </strong>All courses should be opened for access on  the <u>first day of the semester</u>. If you are checking for your Blackboard  course before August 31st and do not see it listed, this means that  the course has not been opened by the instructor. Check back on the first day  of the semester. If you need assistance with Blackboard, review the Frequently  Asked Questions here, <a href="https://wiki.umbc.edu/display/faq/Blackboard">https://wiki.umbc.edu/display/faq/Blackboard</a>. <br>
+      <strong>Advising and Registration: </strong><em>A late  registration fee will be charged if you register, August 31, 2016, or later. </em>You must go through advising, <a href="http://www.umbc.edu/isd/advising">http://www.umbc.edu/isd/advising</a>, to receive authorization to register for a course. <br>
+      <strong>Schedule of Classes:</strong> The fall 2016 ISD schedule of classes may be  found here, <a href="http://www.umbc.edu/isd/schedule">http://www.umbc.edu/isd/schedule</a>.  If a course is Synchronous Online, you must be online at the same time as the  instructor. <br>
+      <strong>Textbooks and Materials: </strong><a href="http://www.umbc.edu/isd/textbooks">http://www.umbc.edu/isd/textbooks</a>. <br>
+      <strong>Student Business Services: </strong><a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a> This is your spot for billing and payment information. You will also find the  drop/withdrawal refund schedule calendar for fall 2016.<br>
+      <strong>Fall 2016 Graduation/Diploma Applications: </strong>If you are finishing your Masters or  Certificate plan of study this fall 2016 semester, your online graduation  application is due September 15, 2016. For information and links go here, <a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>. <br>
+      <strong>Fall 2016 Academic Calendar: Be aware of  important dates now!!! </strong><a href="http://registrar.umbc.edu/files/2012/06/Fall-2016-Academic-Calendar_FINAL_updated-12.9.pdf">http://registrar.umbc.edu/files/2012/06/Fall-2016-Academic-Calendar_FINAL_updated-12.9.pdf</a><strong></strong><br>
+      <strong>ISD Current Student Page</strong>: You will find links to helpful information  here, <a href="http://www.umbc.edu/isd/current">http://www.umbc.edu/isd/current</a>. <br>
+      <strong>ISD NOW Forum:</strong> <a href="http://umbc.edu/isd/forum2016">http://umbc.edu/isd/forum2016</a> <br>
+      Our program  is committed to your success during your studies here at UMBC. We will use your  UMBC email account as our primary means of communication with you. If you think  you have missed an email check our Communications page, <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>. <br>
+      If you  encounter difficulties within your course you should contact your instructor  immediately.</p>
 </div>
-!------------------------->
 
 
-<!------- Accordion 3 ------
+
+<!------- Accordion 3 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
-    
-    <i class="fa fa-angle-down"></i>
+    8/19/2016 - Last Day of Summer, Fall is Coming
     </h4>
 </div>
 
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p>Today is the Last Day of  the Summer Session!!!! Remember to complete the summer session course  evaluations.</p>
+    <p>Fall 2016 begins in a  week and a half on August 31, 2016. Read the below information to make sure you  are ready.</p>
+    <p><strong>Advising and  Registration: </strong>If you have not received authorization or registered for a  fall 2016 course, you should do so now. A late registration fee will be charged  if you register, August 31, 2016, or later. You must go through advising to  receive authorization to register for a course. Advising information may be  found here, <a href="http://www.umbc.edu/isd/advising">http://www.umbc.edu/isd/advising</a>. <br>
+      <strong>Textbooks and  Materials: </strong>Find out what textbooks and materials you need for each courses: <a href="http://www.umbc.edu/isd/textbooks">http://www.umbc.edu/isd/textbooks</a>. <br>
+      <strong>E-Billing Information  and Schedule: </strong>Tuition billing is completed by the Student Business Services  Office and is electronic. The e-billing schedule is based on when you register.  An email is sent to your UMBC email address when your e-bill is available. Find  additional information about e-billing on the Student Business Services website  here, <a href="http://sbs.umbc.edu/billing/">http://sbs.umbc.edu/billing/</a>.  (Be sure to check out the fall 2016  drop/withdrawal refund schedule: <a href="http://sbs.umbc.edu/fall-2016-dropwithdrawal/">http://sbs.umbc.edu/fall-2016-dropwithdrawal/</a>) <br>
+      <strong>Fall 2016  Graduation/Diploma Applications: </strong>If you are finishing your Masters of  Certificate plan of study this fall 2016 semester your online graduation application  is due September 15, 2016. For information and links go here, <a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>. <br>
+      <strong>Blackboard Help and  Instructions: </strong>All courses should be opened for access on the first day of  the semester. If you are checking for your Blackboard course before August 31st  and do not see it listed, this means that the course has not been opened by the  instructor. Check back on the first day of the semester. If you need assistance  with Blackboard, review the Frequently Asked Questions here, <a href="https://wiki.umbc.edu/display/faq/Blackboard">https://wiki.umbc.edu/display/faq/Blackboard</a>. <br>
+      <strong>Fall 2016 Academic  Calendar: Be aware of important dates now!!! </strong><a href="http://registrar.umbc.edu/files/2012/06/Fall-2016-Academic-Calendar_FINAL_updated-12.9.pdf">http://registrar.umbc.edu/files/2012/06/Fall-2016-Academic-Calendar_FINAL_updated-12.9.pdf</a><strong></strong><br>
+      August 30, 2016: Last Day to Cancel Fall 2016 Registration <u>and</u> Last day to add a fall 2016 course without a late fee<br>
+      August 31, 2016: First day of the fall 2016 semester and  beginning of late registration<br>
+      September 14, 2016: Last day to register, add drop without a  grade of &ldquo;W&rdquo; for fall 2016<br>
+      November 15, 2016: Last Day to Withdraw from Individual  Courses with a Grade of &ldquo;W&rdquo;<br>
+      December 13, 2016: Last Day of the Semester<br>
+  <strong>Academic Integrity  Web-Based Tutorial: </strong>This is required for new Masters of Certificate  graduate students admitted for the fall 2015 semester. You will have to  self-enroll for the tutorial through Blackboard. The deadline to complete the  tutorial is Thursday, September 15, 2016.  <a href="http://gradschool.umbc.edu/students/integrity/">http://gradschool.umbc.edu/students/integrity/</a></p>
 </div>
-!------------------------->
+
 
 
 <!------- Accordion 4 ------>

@@ -7,7 +7,13 @@
 	Wednesday, October 12, 6:00-8:30PM<br>
     <a class="btn" href="http://umbc.edu/isd/forum2016">RSVP Now</a>
 </p>
-</aside>
+<hr>
+<p style="text-align:center; margin-top:-15px">
+<strong>Professional Programs Open House</strong><br>
+		Tuesday, October 25, 5:30-8:00PM<br>
+<a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=sidebar_isd_career">RSVP Now</a>
+      </p>
+    </aside>
 
 
     <aside class="five columns add-bottom" id="two">

@@ -84,11 +84,11 @@ $lang = 'en';
 </div>
 <div></div>
 <div class="accordionheader">
-  <h4>Ben Shariati | Assistant Graduate Program Director/Advisor & Lecturer <i class="fa fa-angle-down"></i></h4>
+  <h4>Ben Shariati, Ph.D. | Assistant Graduate Program Director/Advisor & Lecturer <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <p>Ph.D. Candidate, George Washington University<br>
+  <p>Ph.D., George Washington University<br>
   Graduate Certificate in Information Security, George Washington University<br>
   M.S. George Washington University<br>
   CNSS 4011 Certified</p>

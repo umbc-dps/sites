@@ -26,7 +26,7 @@
 
 
       <p style="text-align:center">
-Fall 2016 Application Deadline: August 1
+Fall 2016 Application Deadline: December 1
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
       </p>
 </aside>

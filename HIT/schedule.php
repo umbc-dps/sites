@@ -122,7 +122,7 @@ Registration For Newly Admitted Students:</strong>&nbsp;June 1, 2016<br>
     <td valign="bottom">HIT 723 (7222)</td>
     <td valign="bottom">Public Health Informatics</td>
     <td valign="bottom">Thursday</td>
-    <td valign="bottom">4:30 - 7:00 PM</td>
+    <td valign="bottom">6:00 - 8:45 PM</td>
     <td valign="bottom">In Person</td>
     <td valign="bottom">ITE 237</td>
   </tr>
@@ -145,8 +145,8 @@ Registration For Newly Admitted Students:</strong>&nbsp;June 1, 2016<br>
   <tr>
     <td valign="bottom">HIT 759 (7224)</td>
     <td valign="bottom">Health Informatics II</td>
-    <td valign="bottom">Thursday</td>
-    <td valign="bottom">4:30 - 7:00 PM</td>
+    <td valign="bottom">Wednesday</td>
+    <td valign="bottom">6:00 - 8:45 PM</td>
     <td valign="bottom">In Person</td>
     <td valign="bottom">SHER 015</td>
   </tr>

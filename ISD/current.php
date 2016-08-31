@@ -94,20 +94,17 @@ div.subject{background-color:#E0C586;}
 
 <!-- SLIDE ONE --> 
       <li id="slide1">
-        <a href="https://www.youtube.com/watch?v=WG1dLa91zzU" class="video"><img alt="img03" src="images/5.jpg"></a>
+<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd_current" target="_blank"><img src="http://www.umbc.edu/engm/images/8.png" alt="Professional Programs Open House"/></a>
 
-        <div class="carousel-caption wordwrap">
-          <h3>EDUC 689 - Portfolio Development</h3>
- 			<small>Associate Professor Gregory Williams discusses EDUC 689 - Portfolio Development, an ISD elective course which will be offered this summer.</small>          
-            <p>
-          <a href="https://www.youtube.com/watch?v=WG1dLa91zzU" class="btn video">Watch Video</a>
-          </p>
+<div class="carousel-caption wordwrap">
+<h3>Porfessional Programs Open House</h3>
+<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
 
-        <p id="captionthree">
-         <a href="https://www.youtube.com/watch?v=WG1dLa91zzU" class="video">Watch Video</a>
-         </div>
-        </p>
-      </li>
+<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd_current" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+
+<p id="captionthree"><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd_current" target="_blank">RSVP Now</a></p>
+
+</li>
 <!-- END SLIDE ONE --> 
 
 <!-- SLIDE TWO -->    

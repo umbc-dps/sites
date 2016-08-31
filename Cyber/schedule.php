@@ -138,9 +138,9 @@ $lang = 'en';
     <td>CYBR 623 (6071)</td>
     <td>Cybersecurity Law &amp; Policy</td>
     <td>Wednesday</td>
-    <td>4:30 - 7:00 PM</td>
+    <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>3.014 Tech Center</td>
+    <td>U572 Prof. Studies Bldg.</td>
   </tr>
   <tr>
     <td>CYBR 624 (6025)</td>
@@ -149,15 +149,6 @@ $lang = 'en';
     <td>4:30 - 7:00 PM</td>
     <td>Hybrid</td>
     <td>3.013<br>
-      Tech Center</td>
-  </tr>
-  <tr>
-    <td>CYBR 650 (6523)</td>
-    <td>Cyber Operations Management</td>
-    <td>Thursday</td>
-    <td>7:10 - 9:40 PM</td>
-    <td>In Person</td>
-    <td>3.014<br>
       Tech Center</td>
   </tr>
   <tr>

@@ -87,7 +87,7 @@ $lang = 'en';
           <h3>Faculty</h3>
 
           <div class="accordionheader">
-            <h4><a id="miller" href="#miller"></a>Stephen Miller<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="miller" href="#miller"></a>Stephen Miller | Program Director<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -126,7 +126,7 @@ B.S., Case Western Reserve University</p>
 
 
           <div class="accordionbody">
-            <strong>Graduate Faculty</strong>
+            <strong>Assistant Graduate Program Director and Instructor</strong>
             <p><img align="left" alt="Sheldon Broedel" src="images/faculty/umbc-faculty-Sheldon-Broedel.gif">
 
             B.S. Biology, State University, New York<br>

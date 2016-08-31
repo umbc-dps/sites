@@ -77,8 +77,8 @@ $lang = 'en';
 <!-- START Content --> 
  <h3>Admissions: Master's Degree </h3>
  <h4>Application Dates</h4>
-<p>The application deadline for Fall 2016 is <strong>August 1</strong><br>
-Fall 2016 Classes Start: <strong>August 31, 2016</strong></p>
+<p>The application deadline for Spring 2017 is <strong>December 1</strong><br>
+Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
 
  <h4>Admissions Requirements:</h4>
  <p>An undergraduate degree in Information Systems, Computer  Engineering, Computer Science, Health Education, or a degree related to  healthcare professional practice or healthcare management is recommended.  However, degrees from other fields may be acceptable given relevant work  experience in the health care operations field. The M.P.S. program is best suited  for applicants who have professional experience in the health care or technology fields.</p>

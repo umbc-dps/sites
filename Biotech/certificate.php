@@ -72,8 +72,8 @@ $lang = 'en';
 
 <h3>Admissions: Post-Baccalaureate Certificate </h3>
 <h4>Application Dates</h4>
-<p>The application deadline for Fall 2016 is <strong>August 1</strong><br>
-Fall 2016 Classes Start: <strong>August 31, 2016</strong></p>
+<p>The application deadline for Spring 2017 is <strong>December 1</strong><br>
+Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
 
    <p>
    Students may begin the Biotechnology Management certificate in the fall, spring, and summer. Students may begin the Biochemical Regulatory Engineering certificate in the fall and spring.  Any student interested in applying after the posted deadlines should contact <a href="mailto:nancyc@umbc.edu" target="_blank">Nancy Clements</a>.</p>
