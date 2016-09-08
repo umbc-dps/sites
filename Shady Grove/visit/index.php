@@ -29,7 +29,10 @@
 
 
 <link href="../css/styles-ug.css" rel="stylesheet">
+<link href="../css/accordion-ug.css" rel="stylesheet">
+<link href='../css/magnific-popup.css' rel='stylesheet'>
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
+
 <script src="..js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="../images/favicon.ico">
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
@@ -106,11 +109,13 @@ only screen and (max-width: 1023px),
 </a>
   </div>
     <div class="sixteen columns" style="padding-top:1em;">   
+    <div id="accordion">
       <div class="content" style="text-align:center">
       
      <!-- Start Content -->  
-<div class="seven columns divider" style="padding-top:1em;">  
-<h3><strong>Undergraduate</strong></h3>
+
+
+	<h3><strong>Undergraduate Events</strong></h3>
 
 <p>All in-person sessions will be held in the Camille Kendall Academic Center (Building III).<strong> <br>
 For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about/visit" target="_blank">here</a>.</strong></p>
@@ -118,20 +123,21 @@ For a campus map, directions and parking information, please click <a href="htt
 <p>If you have questions, please contact: Chelsea Moyer at 301-738-6184. </strong></p>
 
 
-<h5><strong>UMBC-Shady Grove<br>
-Undergraduate Preview Night</strong></h5>
-<p>
-Thursday, September 29, 2016, 6 p.m.</p>
+	<div class="accordionheader">
+		<h4>UMBC-Shady Grove Undergraduate Preview Night<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+	<div class="accordionbody">
+		<p>Thursday, September 29, 2016, 6 p.m.</p>
+			<a href="http://www.umbc.edu/shadygrove/preview/" target="_blank" class="button btn-sm">
+	    		Preview Night RSVP</a>
+	</div>
 
- <a href="http://www.umbc.edu/shadygrove/preview/" target="_blank" class="button btn-sm">
-	    Preview Night RSVP</a>
-
-
-<hr>
-
-<h5><strong>Prospective Undergraduate In-Person<br>
-Information Sessions</strong></h5>
-
+	<div class="accordionheader">
+		<h4>Prospective Undergraduate In-Person Information Sessions<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+	<div class="accordionbody">
 <p>Wednesday, September 14, 1 p.m. <br>
 	Saturday, October 29, 12:30 p.m.<br>
 	Thursday, November 17, 3 p.m. <br>
@@ -139,8 +145,14 @@ Information Sessions</strong></h5>
 	  <br>
 	  <a href="infosession" target="_blank" class="button btn-sm">
 	    Info Session RSVP</a></p>
-<hr>
-<h5><strong>Visit with Undergraduate Program Directors</strong></h5>
+</div>
+
+
+	<div class="accordionheader">
+		<h4>Visit with Undergraduate Program Directors<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+	<div class="accordionbody">
 <p>
 		<strong>History:</strong><br>
 		Wednesday, October 5, 12 p.m.<br>
@@ -166,59 +178,79 @@ Information Sessions</strong></h5>
   		
         Visit Undergraduate Program Directors</a>
         
-        <hr>
+</div>
+
         
-<h5><strong>UMBC-Shady Grove<br>
-Information Webinar</strong></h5>
+	<div class="accordionheader">
+		<h4>UMBC-Shady Grove Information Webinar<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+	<div class="accordionbody">
 <p>
 Wednesday, October 12, 2016 - 12 p.m.
 </p>
  <a href="https://attendee.gotowebinar.com/register/810559248515057154" target="_blank" class="button btn-sm">
 	    Webinar RSVP</a>
 </div>
-<br>
 
-<div class="seven columns" style="padding-top:0.1em;">  
-<h3><strong>Graduate</strong></h3>
+<hr>
+
+<h3><strong>Graduate Events</strong></h3>
+   
+ 
 <p>All in-person sessions will be held in the Camille Kendall Academic Center (Building III).<strong> <br>
 For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about/visit" target="_blank">here</a>.</strong></p>
 
 <p>If you have questions, please contact: Rickeysha Jones at 301-738-6285. </strong></p>
 
-<h5><strong>Industrial/Organizational Psychology</strong></h5>
-<strong>Date:</strong> Wednesday, October 19<br>
-<strong>Time:</strong> 6 p.m. - 7:30 p.m.<br>
-<strong>Location:</strong> Building III-3241<br>
-<strong><a href="../io/infosession" target="_blank">RSVP</a></strong>
+	<div class="accordionheader">
+		<h4>Industrial/Organizational Psychology Info Session<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+<div class="accordionbody">     
+    <strong>Date:</strong> Wednesday, October 19<br>
+    <strong>Time:</strong> 6 p.m. - 7:30 p.m.<br>
+    <strong>Location:</strong> Building III-3241<br>
+    <strong><a href="../io/infosession" target="_blank">RSVP</a></strong>
+</div>
 
+	<div class="accordionheader">
+		<h4>Geographic Information Systems Info Session<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+<div class="accordionbody">     
+    <strong>Date:</strong> Saturday, October 1<br>
+    <strong>Time:</strong> 11 a.m. - 12:30 p.m.<br>
+    <strong>Location:</strong> Building III-4206<br>
+    <strong><a href="../gis/infosession" target="_blank" class="button btn-sm">RSVP</a></strong>
+</div>
 
-<p>
-<h5><strong>Geographic Information Systems</strong></h5>
-<strong>Date:</strong> Saturday, October 1<br>
-<strong>Time:</strong> 11 a.m. - 12:30 p.m.<br>
-<strong>Location:</strong> Building III-4206<br>
-<strong><a href="../gis/infosession" target="_blank">RSVP</a></strong>
-</p>
-     
-<p>
-<h5><strong>Cybersecurity</strong></h5>
-<strong>Date:</strong> Saturday, October 1<br>
-<strong>Time:</strong> 11 a.m. - 12:30 p.m.<br>
-<strong>Location:</strong> Building III-4230<br>
-<strong><a href="../cyber/infosession" target="_blank">RSVP</a></strong>
-</p>
-       
-<p>
-<h5><strong>Biotechnology</strong></h5>
+	<div class="accordionheader">
+		<h4>Cybersecurity Info Session<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+<div class="accordionbody">    
+    <strong>Date:</strong> Saturday, October 1<br>
+    <strong>Time:</strong> 11 a.m. - 12:30 p.m.<br>
+    <strong>Location:</strong> Building III-4230<br>
+    <strong><a href="../cyber/infosession" target="_blank" class="button btn-sm">RSVP</a></strong>
+</div>
+
+	<div class="accordionheader">
+		<h4>Biotechnology Info Session<i class="fa fa-angle-down" class="button btn-sm"></i></h4>
+	</div>
+    
+    <div class="accordionbody"> 
 Check back soon for more info session opportunities.
-</p>
-
-<br>
+</div>
 </div>
 
 
-<br clear="all"><br>
+<br clear="all">
+
+<p style="text-align:center">
 <em><strong>UMBC turns 50 on September 19, 2016. <a href="http://50.umbc.edu/" target="_blank">Celebrate with us</a>!</strong></em>
+</p>
 
 </div>
 </div>
