@@ -85,7 +85,7 @@ $lang = 'en';
 
 <p><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
 
-<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank">RSVP Now</a></p>
+<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank">I/O Psych Info Session</a></p>
 
 </li>
 <!-- END SLIDE ONE -->

@@ -82,17 +82,18 @@ $lang = 'en';
 <!-- SLIDE ONE -->
 <li id="slide1">
 
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="http://umbc.edu/cyber/images/10.jpg" alt="Accepting Applications For Fall "/></a>
+<a href="http://www.umbc.edu/shadygrove/cyber/infosession"  target="_blank"><img alt="img02" src="http://www.umbc.edu/shadygrove/io/images/infosession.png"></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Accepting Applications For Fall </h3>
-<small>Classes begin August 31.</small>
+<h3>Cybersecurity Information Session</h3>
+<small>Visit us to learn more about our Master's program in Rockville, MD.</small>
 
-<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
+<p><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications For Fall </a></p>
+<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank">Cybersecurity Info Session</a></p>
 
 </li>
+<!-- END SLIDE ONE -->
    
 <!-- END SLIDE ONE -->
 

@@ -94,15 +94,15 @@ div.subject{background-color:#E0C586;}
 
 <!-- SLIDE ONE --> 
       <li id="slide1">
-<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd_current" target="_blank"><img src="http://www.umbc.edu/engm/images/8.png" alt="Professional Programs Open House"/></a>
+<a href="forum2016" target="_blank"><img src="http://www.umbc.edu/isd/images/forum2016.png" alt="ISD Now Forum"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Porfessional Programs Open House</h3>
-<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>ISD Now Forum 2016</h3>
+<small>Join us for the ISD Now Forum. Dr. Will Thalheimer, a noted research-to-practice expert, will challenge us in a rapid-fire quiz show, uncovering the many pitfalls around learning.</small>
 
-<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd_current" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="forum2016" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd_current" target="_blank">RSVP Now</a></p>
+<p id="captionthree"><a href="forum2016" target="_blank">ISD Now Forum 2016</a></p>
 
 </li>
 <!-- END SLIDE ONE --> 

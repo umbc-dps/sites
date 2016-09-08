@@ -304,7 +304,7 @@ BEGIN MAIN
       <a href="http://my.umbc.edu/groups/dps" target="_blank"><img src="images/sm-myUMBC-gold-clear.png" alt="myUMBC"  width="40" height="40"></a>
        <a href="contact.php" class="video"><img src="images/sm-contact-gold-clear.png" alt="Contact"  width="40" height="40"></a></div>
        
-  <p>&copy; 2015 UMBC Division of Professional Studies<br>
+  <p>&copy; <script>document.write(new Date().getFullYear())</script> UMBC Division of Professional Studies<br>
     1000 Hilltop Circle, Sherman Hall East 4th Floor, Baltimore, MD 21250 |
     410-455-2336  |  Email: <a href="mailto:dps@umbc.edu">dps@umbc.edu</a><br>
     <a href="locations">Locations</a> | <a href="departments">DPS Departmental Pages</a> | <a href="staffdirectory">DPS Staff Directory</a><br>

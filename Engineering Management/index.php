@@ -106,12 +106,12 @@ $lang = 'en';
 <a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_engm" target="_blank"><img src="images/8.png" alt="Professional Programs Open House"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Porfessional Programs Open House</h3>
+<h3>Professional Programs Open House</h3>
 <small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
 
 <p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_engm" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_engm" target="_blank">RSVP Now</a></p>
+<p id="captionthree"><a href="?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_engm" target="_blank">Professional Programs Open House</a></p>
 
 </li>
    

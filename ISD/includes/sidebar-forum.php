@@ -43,7 +43,7 @@
 style="display:none;" onload="if(submitted)
 {window.location='http://umbc.edu/isd/forumthankyou2016';}"></iframe>
 
-<form action="https://docs.google.com/forms/d/12fdVdWQys6skoQ9NCUx3RxCQ6qGWDvgmWA5kkgPxEgg/formResponse" method="POST" id="ss-form" target="hidden_iframe" onsubmit="submitted=true; ga('send', 'event', 'lead', 'submit', 'isd-now-registration'); trackConversionEvent('0.00','USD'); twttr.conversion.trackPid('ntg1j', { tw_sale_amount: 0, tw_order_quantity: 0 });">
+<form action="https://docs.google.com/forms/d/12fdVdWQys6skoQ9NCUx3RxCQ6qGWDvgmWA5kkgPxEgg/formResponse" method="POST" id="ss-form" target="hidden_iframe" onsubmit="submitted=true; ga('send', 'event', 'lead', 'submit', 'isd-now-registration');">
 
 <div class="ss-required-asterisk" aria-hidden="true">* Required</div>
 

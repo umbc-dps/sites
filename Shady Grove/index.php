@@ -106,15 +106,15 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="preview">
+<a href="http://studyabroad.umbc.edu/study-abroad-office/caylie-r-zidwick/" target="_blank">
 <div class="image mobile-left">
-	<img src="images_homepage/pat.png" alt="One">
+	<img src="images_homepage/studyabroad.jpg" alt="One">
 </div>
-<div class="content-details left">
+<div class="content-details right">
 <a class="mobile-seemore" href="preview">&raquo;</a>
-<div class="title">Attend Undergraduate Preview Night!</div>
-<div class="tagline">Join us on Thursday, September 29th at 6pm!  Connect with members of the Peer Advisory Team, staff, faculty, True Grit, and learn about the transfer and application process during this fun event!</div>
-<a class="web-seemore" href="preview" target="_blank">RSVP Today! &raquo;</a>
+<div class="title">Interested in Study Abroad?</div>
+<div class="tagline">Interested in studying abroad but don't know how to start the process? Schedule an appointment with the Study Abroad Office on September 14th and 28th to learn the answers. </div>
+<a class="web-seemore" href="http://studyabroad.umbc.edu/study-abroad-office/caylie-r-zidwick/" target="_blank">Contact Caylie Zidwick For An Appointment</a>
 </div>
 </a>
 </div>
@@ -135,15 +135,15 @@
 
 
 <div class="panel panel-3">
-<a href="visit">
+<a href="visit" target="_blank">
 <div class="image mobile-center">
-<img src="images_homepage/6.jpg" alt="Two">
+<img src="images_homepage/2.jpg" alt="Two">
 </div>
-<div class="content-details right">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/io/infosession">&raquo;</a>
-<div class="title">UMBC-Shady Grove's Graduate Programs</div>
-<div class="tagline">Interested in joining one of our graduate programs? Come join us on Saturday, October 1 to learn about Cybersecurity or GIS and on Wednesday, October 19 to hear information about our I/O Psychology program.</div>
-<a class="web-seemore" href="visit" target="_blank">RSVP Now!</a>
+<div class="content-details">
+<a class="mobile-seemore" href="visit" target="_blank">&raquo;</a>
+<div class="title">Join Us for an Information Session!</div>
+<div class="tagline">Come meet our Cybersecurity and GIS Program Directors on Saturday, October 1 at 11AM to learn how you can apply for Spring 2017!</div>
+<a class="web-seemore" href="visit" target="_blank">RSVP Today!</a>
 </div>
 </a>
 </div>
@@ -193,9 +193,9 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/pat-small.png" alt="1"></li>
+<li class="item-1"><img src="images_homepage/studyabroad_sm.jpg" alt="1"></li>
 <li class="item-2"><img src="images_homepage/parking.jpg" alt="4"></li>
-<li class="item-3"><img src="images_homepage/6_tmb.jpg" alt="2"></li>
+<li class="item-3"><img src="images_homepage/2_tmb.jpg" alt="2"></li>
 <li class="item-4"><img src="images_homepage/studying-small.jpg" alt="3"></li>
 <!-- Hide Preview Images --
 <li class="item-5"><img src="images_homepage/5_tmb.jpg" alt="5"></li>
