@@ -207,41 +207,50 @@ For a campus map, directions and parking information, please click <a href="htt
 		<h4>Industrial/Organizational Psychology Info Session<i class="fa fa-angle-down"></i></h4>
 	</div>
     
-<div class="accordionbody">     
+<div class="accordionbody">  
+<p>   
     <strong>Date:</strong> Wednesday, October 19<br>
     <strong>Time:</strong> 6 p.m. - 7:30 p.m.<br>
-    <strong>Location:</strong> Building III-3241<br>
-    <strong><a href="../io/infosession" target="_blank">RSVP</a></strong>
+    <strong>Location:</strong> Building III-3241
+</p>
+    <a href="../io/infosession" target="_blank" class="button btn-sm">RSVP</a>
 </div>
 
 	<div class="accordionheader">
 		<h4>Geographic Information Systems Info Session<i class="fa fa-angle-down"></i></h4>
 	</div>
     
-<div class="accordionbody">     
+<div class="accordionbody"> 
+<p>    
     <strong>Date:</strong> Saturday, October 1<br>
     <strong>Time:</strong> 11 a.m. - 12:30 p.m.<br>
-    <strong>Location:</strong> Building III-4206<br>
-    <strong><a href="../gis/infosession" target="_blank" class="button btn-sm">RSVP</a></strong>
+    <strong>Location:</strong> Building III-4206
+</p>
+    <a href="../gis/infosession" target="_blank" class="button btn-sm">RSVP</a>
+
 </div>
 
 	<div class="accordionheader">
 		<h4>Cybersecurity Info Session<i class="fa fa-angle-down"></i></h4>
 	</div>
     
-<div class="accordionbody">    
+<div class="accordionbody"> 
+<p>   
     <strong>Date:</strong> Saturday, October 1<br>
     <strong>Time:</strong> 11 a.m. - 12:30 p.m.<br>
-    <strong>Location:</strong> Building III-4230<br>
-    <strong><a href="../cyber/infosession" target="_blank" class="button btn-sm">RSVP</a></strong>
+    <strong>Location:</strong> Building III-4230
+</p>
+    <a href="../cyber/infosession" target="_blank" class="button btn-sm">RSVP</a>
 </div>
 
 	<div class="accordionheader">
-		<h4>Biotechnology Info Session<i class="fa fa-angle-down" class="button btn-sm"></i></h4>
+		<h4>Biotechnology Info Session<i class="fa fa-angle-down"></i></h4>
 	</div>
     
     <div class="accordionbody"> 
-Check back soon for more info session opportunities.
+<p>
+	Check back soon for more info session opportunities.
+</p>
 </div>
 </div>
 

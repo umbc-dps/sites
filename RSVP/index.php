@@ -2,22 +2,21 @@
 <html>
 <head>
 
-<title>Office of Professional Programs at UMBC</title>
+<title>Open House | Office of Professional Programs at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="UMBC’s Office of Professional Programs offers a broad array of professionally focused master’s degree and certificate programs that address industry needs while anticipating future opportunities." />
+<meta name="description" content="Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is a fit for you." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@umbc_dps">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Office of Professional Programs at UMBC" />
+<meta property="og:title" content="Open House | Office of Professional Programs at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://professionalprograms.umbc.edu" />
-<meta property="og:image" content="http://professionalprograms.umbc.edu/images/3.jpg" />
-<meta property="og:description" content="UMBC’s Office of Professional Programs offers a broad array of professionally focused master’s degree and certificate programs that address industry needs while anticipating future opportunities." />
+<meta property="og:url" content="http://umbc.edu/openhouse/" />
+<meta property="og:image" content="http://umbc.edu/openhouse/images/OpenHouseFB.png" />
+<meta property="og:description" content="Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is a fit for you." />
 
-<meta name="robots" content="noindex, nofollow">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,500,700,900' rel='stylesheet' type='text/css'>
@@ -121,6 +120,7 @@ aside p, aside dl {
 	padding: 0px 5px 5px 5px;
 }
 #mobile-site-menu-expander {display:none}
+.hide{display:none}
 </style>
 
 <body>
@@ -152,10 +152,10 @@ aside p, aside dl {
 	  <div class="ten columns">
   
 <!-- START Content -->
-<h3><a href="index"><img src="http://www.umbc.edu/rsvp/images/header2.png" alt="UMBC Professional Programs Information Session" style="width:100%"></a></h3>
+<h3><a href="index"><img src="images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
 
 <h4 style="font-weight:bold">Why UMBC?</h4>
-<h6>Come and chat on Saturday, June 4 with program directors and staff to find out "Why UMBC" is a fit for you. </h6>
+<h6>Participate in Program Exploration Sessions where you'll hear from program directors & faculty to learn more about our programs.</h6>
 <br>
 
 <h6>Learn about UMBC Graduate Programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology and Systems Engineering.</h6>
@@ -163,7 +163,7 @@ aside p, aside dl {
 
 
 <h4 style="font-weight:bold">Date:</h4>
-<h5>Saturday, June 4, 2016 | 10:30AM - 12:00PM</h5>
+<h5>Tuesday, October 25, 5:30-8:00PM</h5>
 <br>
 
 <h4 style="font-weight:bold">Location:</h4>
@@ -181,7 +181,7 @@ aside p, aside dl {
 </div>
 
 <!-- SIDEBAR -->
-<aside class="six columns add-bottom" id="event-form">
+<aside class="six columns add-bottom">
 <?php include("includes/sidebar.php"); ?>
 </aside>
 
@@ -215,8 +215,6 @@ aside p, aside dl {
 <script src="includes/jquery.cbpFWSlider.js"></script> 
 <script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script> 
-<script src="includes/popup.js"></script> 
-
 
 <script>
 var vars = [], hash;
@@ -232,7 +230,13 @@ var vars = [], hash;
 $("#entry_255730786").attr("value", vars['email']);
 $("#entry_1150361143").attr("value", vars['first']);
 $("#entry_289066688").attr("value", vars['last']);
+$("#entry_1564723259").attr("value", vars['utm_campaign']);
+$("#entry_316914651").attr("value", vars['utm_source']);
+$("#entry_1181504791").attr("value", vars['utm_medium']);
+$("#entry_743634000").attr("value", vars['utm_content']);
+$("#entry_1166118258").attr("value", vars['utm_term']);
+$("#entry_1066578197").attr("value", vars['gclid']);
 </script>
-  
+ 
 </body>
 </html>

@@ -124,8 +124,6 @@ BEGIN MAIN
 
   <p><strong>DPS Staff Directory<br>
       <a href="#DPSaf">A-F</a> | <a href="#DPSgk">G-K</a> | <a href="#DPSLR">L-R</a> | <a href="#DPSSZ">S-Z</a></strong></p>
-  <p><strong>UMBC Training Centers Staff Directory<br>
-      <a href="#tcaf">A-F</a> | <a href="#tcgk">G-K</a> | <a href="#tcLR">L-R</a> | <a href="#tcSZ">S-Z</a></strong></p>
   <p><strong><a href="#mainno">Main Phone Numbers</a> | <a href="#fax">Fax Numbers</a> | <a href="#class">Classroom Phone Numbers</a> | <a href="#add">Location Addresses</a></strong><a href="#add"></a><br>
   </p>
   <hr>

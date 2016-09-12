@@ -155,7 +155,7 @@ aside p, aside dl {
 <h3><a href="index"><img src="images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
 
 <h4 style="font-weight:bold">Why UMBC?</h4>
-<h6>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</h6>
+<h6>Participate in Program Exploration Sessions where you'll hear from program directors & faculty to learn more about our programs.</h6>
 <br>
 
 <h6>Learn about UMBC Graduate Programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology and Systems Engineering.</h6>
