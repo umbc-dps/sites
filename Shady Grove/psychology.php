@@ -96,26 +96,31 @@ html::after {
         <ul>
 
           <!-- Slide One -->
-          <li id="slide1"><a href="visit/pd-psychology"><img src="images/alonso-students.jpg" alt="img03" target="_blank"></a>
+          <li id="slide1">
+          <a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
+          <img src="images/truegrit.jpg" alt="img03">
+          </a>
+            <div class="carousel-caption-right wordwrap">
+              <h3>Apply Now & Get Priority Consideration</h3>
+              Submit your Common Application and official transcripts to UMBC by our October 15th priority deadline to automatically be considered for UMBC merit scholarships!
+<p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
+            </div>
+            <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Now & Get Priority Consideration</a></p>
+          </li>
+         <!-- END Slide One -->
+         
+          <!-- Slide Two -->
+          <li id="slide2">
+                    <a href="visit/pd-psychology"><img src="images/alonso-students.jpg" alt="img03" target="_blank"></a>
             <div class="carousel-caption wordwrap">
               <h3>Meet Dr. Alonso & psychology students!</h3>
               Visit with Pyschology Program Director, Dr. Alonso, and current psychology students to learn more about our program and the opportunities available to you as a student!
 <p><a href="visit/pd-psychology" role="button" class="web-seemore" target="_blank">RSVP Here!</a></p>
             </div>
             <p id="captionthree"><a href="visit/pd-psychology" target="_blank">Meet Dr. Alonso & psychology students!</a></p>
+            
           </li>
-         <!-- END Slide One -->
-         
-          <!-- Slide Two --
-          <li id="slide2"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/carouselsmall.png" alt="img03" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Event at Shady Grove</h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam commodo, porta orci et.
-<p><a href="" role="button" class="web-seemore" target="_blank">Attend!</a></p>
-            </div>
-            <p id="captionthree"><a href="" target="_blank">Event at Shady Grove</a></p>
-          </li>
-         -- END Slide Two -->
+         <!-- END Slide Two -->
          
          <!-- Slide Three --
           <li id="slide3"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/carouselsmall.png" alt="img03" target="_blank"></a>

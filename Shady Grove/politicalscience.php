@@ -82,7 +82,21 @@ background-attachment:fixed;
         <ul>
        
           <!-- Slide One -->
-          <li id="slide1"><a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03" target="_blank"></a>
+          <li id="slide1">
+           <a href="https://docs.google.com/a/umbc.edu/forms/d/1xppqfxnT6kUve-U-jG6j81c7aaE3pnLBRSSlOowf2Qo/edit" target="_blank"><img src="images/internships.jpg" alt="img03"></a>
+            <div class="carousel-caption-right wordwrap">
+              <h3>Internship Open House!</h3>
+              Interested in pursuing an internship? Stop by our Political Science Internship Open House & Student Experience Panel on Thursday, September 22nd (3:00pm-5:00pm)!
+<p><a href="https://docs.google.com/a/umbc.edu/forms/d/1xppqfxnT6kUve-U-jG6j81c7aaE3pnLBRSSlOowf2Qo/edit" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
+            </div>
+            <p id="captionthree"><a href="https://docs.google.com/a/umbc.edu/forms/d/1xppqfxnT6kUve-U-jG6j81c7aaE3pnLBRSSlOowf2Qo/edit" target="_blank">Internship Open House!</a></p>
+            
+          </li>
+         <!-- END Slide One -->
+         
+          <!-- Slide Two -->
+          <li id="slide2">
+<a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03" target="_blank"></a>
             <div class="carousel-caption wordwrap">
               <h3>Attend Wednesday Wipeout!</h3>
               Meet Dr. Dasgupta and engage in discussion surrounding current local, state, and national events with UMBC-Shady Grove students!  Make connections and learn more about our political science program!
@@ -90,18 +104,7 @@ background-attachment:fixed;
             </div>
             <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Attend Wednesday Wipeout!</a></p>
           </li>
-         <!-- END Slide One -->
-         
-          <!-- Slide Two --
-          <li id="slide2"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/1.jpg" alt="img03" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Event at Shady Grove</h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam commodo, porta orci et.
-<p><a href="" role="button" class="web-seemore" target="_blank">Attend!</a></p>
-            </div>
-            <p id="captionthree"><a href="" target="_blank">Event at Shady Grove</a></p>
-          </li>
-         -- END Slide Two -->
+        <!-- END Slide Two -->
          
          <!-- Slide Three --
           <li id="slide3"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/2.jpg" alt="img03" target="_blank"></a>

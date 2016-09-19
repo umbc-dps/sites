@@ -38,13 +38,29 @@ table.dates td:first-letter { text-transform: uppercase!important }
 table.dates { width: 100% }
 table.dates tr:nth-child(odd) { background: #FCECCF }
 table.dates td { text-align: center; vertical-align: middle; padding: 3px; border:1px #7f5e05 solid; font-size: 90% }
-table.dates td:first-child { font-weight:bold }
+table.dates td:first-child { font-weight:bold; text-align: center; }
 
 table.f-dates td:first-letter { text-transform: uppercase!important }
 table.f-dates { width: 100% }
 table.f-dates tr:nth-child(odd) { background: #FCECCF }
 table.f-dates td { text-align: center; vertical-align: middle; padding: 3px; border:1px #7f5e05 solid; font-size: 90% }
 table.f-dates tr:first-child { font-weight:bold; background:#E9AB13 }
+
+
+
+/* Courses Table */
+table.courses { 
+	text-transform: inherit; 
+	font-family:"Roboto", Arial, Helvetica, sans-serif; 
+	font-size: 12pt 
+}
+table.courses td:first-letter { text-transform: uppercase!important }
+table.courses { width: 100% }
+table.courses tr:nth-child(odd) { background: #FCECCF }
+table.courses td { text-align: center; vertical-align: middle; padding: 3px; border:1px #7f5e05 solid; font-size: 90% }
+table.courses tr:first-child { font-weight:bold; background:#E9AB13 }
+
+
 
 div#session1 { float:left; width:45% }
 
@@ -91,7 +107,7 @@ body{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #333;
 	background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NTAxNzRCQjg1NDE1MTFFMUFDMURBRjU5QjZDQkEzOUQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NTAxNzRCQjk1NDE1MTFFMUFDMURBRjU5QjZDQkEzOUQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1MDE3NEJCNjU0MTUxMUUxQUMxREFGNTlCNkNCQTM5RCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1MDE3NEJCNzU0MTUxMUUxQUMxREFGNTlCNkNCQTM5RCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pvd16nsAAAAsSURBVHjaYvz//z8DNsACod6/fw8kBQUF4WxGXDqY3oMBXB+czUgHOwACDACKXi4HGGnT1AAAAABJRU5ErkJggg%3D%3D')}
 #main {
-	background: url(../images/paw-prints-lightest.jpg) bottom right no-repeat #fff;
+	background: url(../images/paw-prints-16.jpg) bottom left no-repeat #fff;
 	margin-bottom:0px; padding-top:10px;
 }
 a {
@@ -204,7 +220,7 @@ blockquote {
 	width: 350px
 }
 #umbc-logo a {
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(../images/sprites.png);
 	background-position: 0 0;
 	background-repeat: no-repeat;
 	display: block;
@@ -250,26 +266,40 @@ blockquote {
 #umbc-nav-items a:hover, #umbc-nav-items a:focus {
 	color: #fc0
 }
-#umbc-nav-50 {
-	text-align: left;
-	width: 15%
+#umbc-nav-umbc50 {
+text-align: left;
+ 
+padding-right: 4px;
+width:14%;
+ 
 }
-#umbc-nav-azindex {
-	width: 18%
+#umbc-nav-azindex{
+text-align: center;
+ 
+width: 18%;
 }
+
 #umbc-nav-myumbc {
-	width: 19%
+ 
+width: 20%;
 }
+
 #umbc-nav-events {
-	width: 14%
+ 
+width: 14%;
 }
+
+ 
 #umbc-nav-directory {
-	width: 19%
+ 
+width: 18%;
 }
+
 li#umbc-nav-maps {
-	border-right: 0;
-	text-align: right;
-	width: 10%
+border-right: none;
+text-align: right;
+ 
+width: 12%;
 }
 #umbc-nav-search-input {
 	background-color: #FFF;
@@ -294,7 +324,7 @@ li#umbc-nav-maps {
 	right: 0;
 	top: 0;
 	background-color: transparent;
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(../images/sprites.png);
 	background-position: 0 -93px;
 	height: 30px;
 	width: 30px;
@@ -493,7 +523,7 @@ footer{ margin-top:15px !important; }
 	width: 229px
 }
 #umbc-footer-logo a {
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(../images/sprites.png);
 	background-position: -109px -63px;
 	background-repeat: no-repeat;
 	display: block;
@@ -539,7 +569,7 @@ footer{ margin-top:15px !important; }
 	position: relative;
 	top: -1px;
 	cursor: pointer;
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(../images/sprites.png);
 	display: inline-block
 }
 #umbc-footer-facebook {
@@ -727,7 +757,17 @@ img.scale-with-grid {
 }
 /* #Buttons
 ================================================== */
-
+.five .button {
+	width:300px; text-align:center;  background:#414042; color:#fff; border:1px solid #414042; text-decoration:none;
+}
+.five .button:hover{
+	background:#E9AB13; 
+}
+.five  .gold{  background:#ffc20e;  color:#000;border:1px solid #ffc20e; 
+}
+.five   .gold:hover{
+	background:#414042; color:#fff;
+}
 .button,  button,  input[type="submit"],  input[type="reset"],  input[type="button"] {
 	background: #ffcc00;
 
@@ -767,7 +807,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 .button:hover,  button:hover,  input[type="submit"]:hover,  input[type="reset"]:hover,  input[type="button"]:hover {
 	color: #000;
 	background: #e9ab13; /* Old browsers */
-	 
+	text-decoration: none;
 	border: 1px solid #888;
 	border-top: 1px solid #aaa;
 	border-left: 1px solid #aaa;
@@ -775,6 +815,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 .button:active,  button:active,  input[type="submit"]:active,  input[type="reset"]:active,  input[type="button"]:active {
 	border: 1px solid #666;
 	background: #e9ab13; /* Old browsers */ 
+	color: #000;
 }
 .button.full-width,  button.full-width,  input[type="submit"].full-width,  input[type="reset"].full-width,  input[type="button"].full-width {
 	width: 100%;
@@ -883,13 +924,13 @@ aside p, aside dl {
 	color: #fff;
 }
 h3.students {
-	position: absolute;
+	/* position: absolute;
 	bottom: 0;
 	padding: 0;
-	margin: 0;
-	background: #E9AB13;
+	margin: 0; */
+	background: #414042;
 	color: #FFF;
-	width: 100%;
+	/* width: 100%; */
 	text-align: center;
 }
 aside:hover h3.students { background: #414042 }
@@ -898,15 +939,31 @@ aside:hover h3.students { background: #414042 }
 	background-color: transparent;
 }
 #summer-heading {
-  background:#414042;
+  background:#E9AB13; 
+  
+
   margin: auto;
+}
+#winterdog {
+	background:url(../images/winter-dog-fade.jpg) top left no-repeat #fff;
+	}
+#winter-heading {
+  background:#414042; 
+    margin: auto;
 }
 #summer-heading h1 {
 	color: #fff;
 	padding: .25em;
 }
-
+#winter-heading h1 {
+	color: #fff;
+	padding: .25em;
+}
 #summer-heading a{
+	text-decoration: none;
+}
+
+#winter-heading a {
 	text-decoration: none;
 }
 
@@ -1295,7 +1352,7 @@ cbp-fwslider li p.left {display:inline; float:left;}
  .carousel-caption
 {
   position: absolute;
-  left: 10%;
+  left: 7%;
   width: 250px;
   top: 25px;
   z-index: 11;
@@ -1352,7 +1409,7 @@ word-wrap: break-word; /* IE 5+ */
  
 .carousel-caption-right {
   position: absolute;
-  right: 15%;
+  right: 7%;
   /*  left: 25%;*/
   width: 30%;
  top: 25px;
@@ -1378,7 +1435,7 @@ word-wrap: break-word; /* IE 5+ */
   text-shadow: none;
 }
 
-#captionone, #captiontwo, #captionthree { text-align:center; background:#000; width:100%; padding:.5em; display:none; margin-bottom:0; color:#fff; }
+#captionone, #captiontwo, #captionthree { text-align:center; background:#000; /*width:100%; =JLD */ padding:.5em; display:none; margin-bottom:0; color:#fff; }
 
 
 dt {font-weight:bold;margin-bottom:5px; text-transform:uppercase;}
@@ -1614,7 +1671,7 @@ h6 {
 	width: 109px
 }
 #umbc-logo a {
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(../images/sprites.png);
 	background-position: 0 -63px;
 	height: 30px;
 	width: 109px
@@ -1753,7 +1810,7 @@ span#mobile-site-menu-expander {
 	width: 109px
 }
 #umbc-logo a {
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(../images/sprites.png);
 	background-position: 0 -63px;
 	height: 30px;
 	width: 109px
@@ -1913,6 +1970,8 @@ div#session1, div#session2 { float:none; width:100% }
 	@media only screen and (max-width: 479px) {
 		
 #summer-heading h1 {line-height:1em;}
+	
+#winter-heading h1 {line-height:1em;}
 body {background-image:none;}
 .optional { display:none;}
 
@@ -1923,9 +1982,10 @@ body {background-image:none;}
   .carousel-caption-right-top p, .carousel-caption-right-top small,
   .carousel-caption, .wordwrap, #cbp-fwslider div { display:none;}
 
-#captionone, #captiontwo, #captionthree {display:block; padding:1em; font-weight:bold;  }
+#captionone, #captiontwo, #captionthree {display:block; padding:1em; font-weight:bold; margin:0px; }
 #captionone a, #captiontwo a, #captionthree a { color:#fff;}	 
 #one, #two, #three, #four, #five, #six, #seven {background:none; height:20px; width:100%}
 #one:hover, #two:hover, #three:hover, #four:hover, #five:hover, #six:hover, #seven:hover {outline:none;}	  
 .button{width:92.5%!important}
+ 
 }

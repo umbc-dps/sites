@@ -228,7 +228,7 @@ div#messages {position: relative; padding-left:10%}
       <ul id="menu-main" class="menu">
         <li><a href="http://professionalprograms.umbc.edu">Professional Programs</a></li>
         <li><a href="http://umbc.edu/shadygrove">Universities at Shady Grove</a></li>
-        <li><a href="http://umbc.edu/summer">Summer Session</a></li>
+        <li><a href="http://umbc.edu/winter">Winter Session</a></li>
         <li><a href="http://umbc.edu/eli">English Language Institute</a></li>
         <li><a href="http://www.umbctraining.com/">Professional Training</a></li>
         <li><a href="http://shrivercenter.umbc.edu">Shriver Center</a>
@@ -282,9 +282,9 @@ BEGIN MAIN
       </div>
       
        <div>
-        <a href="http://umbc.edu/summer" style="text-decoration:none">
-        <h3 class="home-heading">Summer Session 2016</h3></a>
-       <p>Summer Session is a great way for current, incoming and visiting students to earn credit and move one step toward graduation.</p>
+        <a href="http://umbc.edu/winter" style="text-decoration:none">
+        <h3 class="home-heading">Winter Session 2017</h3></a>
+       <p>Winter Session is a great way for current, incoming and visiting students to earn credit and move one step toward graduation.</p>
       </div>
       
       <div>

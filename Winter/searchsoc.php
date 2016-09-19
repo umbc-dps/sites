@@ -2,14 +2,11 @@
 <html lang="en">
 <head>
   
+<META http-equiv="REFRESH" content="2;URL=https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch">
 
-	<?php include("include/tracking-pixels.shtml"); ?>
-    <META http-equiv="REFRESH" content="2;URL=https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch">
-
-
+<?php include("includes/tracking.php"); ?>
     
-<title>Search Classes | UMBC Winter Session</title>
+<title>Courses by Subject | UMBC Winter Session</title>
 
 </head>
 
-<?php include("includes/tracking.php"); ?>

@@ -1,6 +1,4 @@
 <h5 class="poli">
-Wednesday, September 7 - 12:00pm<br>
-Wednesday, September 14 - 12:00pm<br>
 Wednesday, September 21 - 12:00pm<br>
 Wednesday, September 28 - 12:00pm<br>
 Wednesday, October 5 - 12:00pm<br></h5>

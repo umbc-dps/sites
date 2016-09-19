@@ -4,12 +4,16 @@
   <li><a href="#">Course Info</a>
       <ul class="sub-menu">
   <li><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">View Course Schedule</a></li>
-  <li><a href="https://www.youtube.com/watch?v=hXIWIzOsn5w" target="_blank" class="video">How to Search Course Schedule</a></li>
-  <li><a href="documents/catalog.pdf" target="_blank">Download Catalog</a></li>
+  <li><a class="video" href="https://www.youtube.com/watch?v=hXIWIzOsn5w">How to Search Course Schedule</a></li>
         <li><a href="coursesprerequisites">Courses with Prerequisites</a></li>
         <li><a href="gep">General Education Program (GEP) Courses</a></li>
         <li><a href="hybrid">Hybrid/Online Courses</a></li>
         <li><a href="shadygrove">Shady Grove Courses</a></li>
+        <li><a href="all-courses#evening">Evening Courses</a></li>
+        <li><a href="studyabroad">Study Aroad</a></li>
+        <!--
+        <li><a href="documents/catalog.pdf" target="_blank">Download Catalog</a></li>
+        -->
       </ul>
     </li>
     <li><a href="#">Register/Apply</a>
@@ -40,8 +44,7 @@
             <li><a href="events">Events</a></li>
           </ul>
         </li>   
-    <li><a href="faq">FAQs</a>   
-    <li><a href="weather">Weather</a>    
+    <li><a href="faq">FAQs</a></li>
   </ul>
       
     </nav>

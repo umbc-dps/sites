@@ -2,20 +2,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Parking | Winter Programs at UMBC</title>
+<title>Parking Permits | Winter Session at UMBC</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Parking permits are still required during the Winter Session. Need to get one? Check out the info here!" />
+<meta name="description" content="Winter session parking information." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCWinter">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Parking | Winter Programs at UMBC" />
+<meta property="og:title" content="Parking Permits | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/parking" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/umbcsummer.jpg" />
-<meta property="og:description" content="Parking permits are still required during the Winter Session. Need to get one? Check out the info here!" />
+<meta property="og:url" content="http://www.umbc.edu/winter/parking/" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session parking information." />
 
 
 <!-- CSS -->
@@ -23,10 +24,10 @@
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -42,23 +43,27 @@
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">
-  <div  id="summer-heading">
-     <a href="index"><h1 class="remove-bottom">Winter Session 2016</h1></a>
+<div class="container column" id="main">  <div  id="winter-heading">
+    <a href="index">
+    <h1 class="remove-bottom">
+    <img src="images/winter-heading.png" style="width:100%">
+    </h1>
+    </a>
   </div>
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
         <h2>Parking Permits</h2>
     <!-- END Page Title -->       
@@ -86,7 +91,7 @@
     </div>
 
 <div class="accordionheader">
-    <h4>Current UMBC students<i class="fa fa-angle-down"></i></h4>
+    <h4>Current UMBC Students<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
@@ -96,7 +101,7 @@
     </div>
 
 <div class="accordionheader">
-    <h4>New and/or visiting UMBC students:<i class="fa fa-angle-down"></i></h4>
+    <h4>New and/or Visiting UMBC Students:<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
@@ -113,7 +118,7 @@
     </div>
 
 <div class="accordionheader">
-    <h4>Online vehicle registration:</strong>&nbsp;<i class="fa fa-angle-down"></i></h4>
+    <h4>Online Vehicle Registration:</strong>&nbsp;<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
@@ -126,7 +131,7 @@
     </div>
 
 <div class="accordionheader">
-    <h4>Obtain student permit by mail:<i class="fa fa-angle-down"></i></h4>
+    <h4>Obtain Student Permit by Mail:<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
@@ -141,7 +146,7 @@
     </div>
 
 <div class="accordionheader">
-    <h4>Obtain student permit in person:<i class="fa fa-angle-down"></i></h4>
+    <h4>Obtain Student Permit in Person:<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
@@ -157,39 +162,35 @@
 <h5>Contact Parking Services</h5>
 
 
-Parking Services, 410-455-2551, <a href="parking@umbc.edu">parking@umbc.edu</a>, 7:30 a.m.  - 3:30 p.m.</p>
+Parking Services, 410-455-2551, <a href="parking@umbc.edu">parking@umbc.edu</a>, 7:30 a.m. - 3:30 p.m.</p>
 
-
-  
-      <!-- END Content -->
-          </div></div>
-        <div id="dotcontainer"></div>
-      </div>
-      <!-- /cbp-fwslider --></div>
+     <!-- END Content -->
+             </div></div></div>
     <!-- /eleven columns -->
-    <div class="five columns omega" style="float:right;"> 
-           <!-- SIDEBAR --> 
-      <?php include("includes/student-types.php"); ?>
+	</div>
+    <!-- SIDEBAR --> 
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
+    </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
-   
-   
-    </div>
   </div>
-</div>
+
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
+</div>
 <!-- container --> 
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//code.jquery.com/jquery-1.12.0.js"></script> 
+<script src="//code.jquery.com/jquery-migrate-1.3.0.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.magnific-popup.js"></script>
-<script src="js/popup.js"></script> <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<script>
+<script src="js/popup.js"></script>
+  <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",
       active: false,
@@ -205,6 +206,7 @@ $('h4').click(function() {
 	var linkText = $(this).text();
 	ga('send', 'event',  'accordion', 'click', linkText);
 });
-</script>   
+</script> 
+  
 </body>
 </html>

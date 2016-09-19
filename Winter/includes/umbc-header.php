@@ -1,37 +1,22 @@
-  <div id="container-header">
+<!-- Edit to add Site-Wide Alert
+<div style="color:#FFF; font-weight: bold; padding:10px; background-color: #F00">UMBC's registration system will be unavailable from Friday, June 10, 2016 6:00 pm, through Sunday, June 12, 2016 5:00 pm for a system upgrade. Registration for Summer Session II will reopen on Sunday evening.  We apologize for any inconvenience. </div>
+-->
+
+ <div id="container-header">
   <!-- main container -->
     <header id="umbc-header">
     <!-- umbc header -->
       <div id="umbc-logo"><a href="http://umbc.edu" title="UMBC: An Honors University in Maryland"><span>UMBC: An Honors University in Maryland</span></a></div>
       <nav role="navigation" id="umbc-nav" >
-        <ul id="umbc-nav-items">      <li id="umbc-nav-50">
-        <a href="http://50.umbc.edu">UMBC50</a>
-      </li>
-    
-      <li id="umbc-nav-azindex">
-        <a href="http://umbc.edu/siteindex">A-Z Index</a>
-      </li>
-
-
-      <li id="umbc-nav-myumbc">
-        <a href="http://my.umbc.edu">myUMBC</a>
-      </li>
-
-
-      <li id="umbc-nav-events">
-        <a href="http://my.umbc.edu/events">Events</a>
-      </li>
-
-
-      <li id="umbc-nav-directory">
-        <a href="http://umbc.edu/search/directory">Directory</a>
-      </li>
-
-
-      <li id="umbc-nav-maps">
-        <a href="http://about.umbc.edu/visitors-guide/campus-map">Maps</a>
-      </li>
-        </ul>
+        <ul id="umbc-nav-items">
+<li id="umbc-nav-umbc50"><a href="">UMBC50</a></li>
+<li id="umbc-nav-azindex"><a href="http://umbc.edu/siteindex">A-Z Index</a></li>
+<li id="umbc-nav-myumbc"><a href="http://my.umbc.edu">myUMBC</a></li>
+<li id="umbc-nav-events"><a href="http://my.umbc.edu/events">Events</a></li>
+<!-- <li id="umbc-nav-computing"><a href="http://umbc.edu/doit">Computing</a></li> -->
+<li id="umbc-nav-directory"><a href="http://umbc.edu/search/directory">Directory</a></li>
+<li id="umbc-nav-maps"><a href="http://about.umbc.edu/visitors-guide/campus-map/">Maps</a></li>
+</ul>
         <form role="search" id="umbc-nav-search" action="http://www.umbc.edu/stats/searchthru/" method="get">
           <div id="umbc-nav-search-input">
             <label for="umbc-nav-search-query">Search UMBC</label>

@@ -117,16 +117,16 @@ $lang = 'en';
      <li>BTEC 655: <a href="courses.php#655">Emerging Topics in Biotechnology Seminar</a> [3]</li>
      <li>BTEC 656: <a href="courses.php#656">Experimental Design</a> [3]</li>
      <li>BTEC 665: <a href="courses.php#665">Management, Leadership and Communication</a> [3]</li>
-     <li>BTEC 670: <a href="courses.php#670">Legal and Ethical Issues in Biotechnology</a> [3] </li>
+     <li>BTEC 670: <a href="courses.php#670">Legal and Ethical Issues in the Science Professions</a> [3] </li>
      <li>BTEC 654: <a href="courses.php#654">Capstone</a> [3] </li>
    </ul>
 
    
    <h5>Regulatory Track: 4 courses [12 credits]</h5>
    <ul>
-     <li>BTEC 660: <a href="courses.php#660">Regulatory Issues in Biotechnology</a> [3]</li>
-     <li>BTEC 662: <a href="courses.php#662">Good Manufacturing Practices for Bioprocesses </a> [3]</li>
-     <li>BTEC 664: <a href="courses.php#664">Quality Control and Quality Assurance for Biotechnology Products</a> [3]</li>
+     <li>BTEC/ENCH 660: <a href="courses.php#660">Regulatory Issues in Biotechnology</a> [3]</li>
+     <li>BTEC/ENCH 662: <a href="courses.php#662">Good Manufacturing Practices for Bioprocesses </a> [3]</li>
+     <li>BTEC/ENCH 664: <a href="courses.php#664">Quality Control and Quality Assurance for Biotechnology Products</a> [3]</li>
      <li>BTEC/ENCH 666: <a href="courses.php#666">Biotechnology GMP Facility Design, Construction and Validation </a> [3]</li>
      <p>OR</p>
      <li>BTEC 668: <a href="courses.php#668">Clinical Trials: Design & Management</a> [3]</li>

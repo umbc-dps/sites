@@ -114,7 +114,7 @@ only screen and (max-width: 1023px),
       
      <!-- Start Content -->  
 
-
+<div class="ug">
 	<h3><strong>Undergraduate Events</strong></h3>
 
 <p>All in-person sessions will be held in the Camille Kendall Academic Center (Building III).<strong> <br>
@@ -138,8 +138,7 @@ For a campus map, directions and parking information, please click <a href="htt
 	</div>
     
 	<div class="accordionbody">
-<p>Wednesday, September 14, 1 p.m. <br>
-	Saturday, October 29, 12:30 p.m.<br>
+<p>	Saturday, October 29, 12:30 p.m.<br>
 	Thursday, November 17, 3 p.m. <br>
 	Tuesday, December 6, 10:30 a.m. <br>
 	  <br>
@@ -159,8 +158,6 @@ For a campus map, directions and parking information, please click <a href="htt
 		Tuesday, November 1, 5:30 p.m.</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, September 7, 12 p.m. <br>
-		Wednesday, September 14, 12 p.m. <br>
 		Wednesday, September 21, 12 p.m. <br>
 		Wednesday, September 28, 12 p.m. <br>
 		Wednesday, October 5, 12 p.m.</p>
@@ -193,8 +190,21 @@ Wednesday, October 12, 2016 - 12 p.m.
 	    Webinar RSVP</a>
 </div>
 
-<hr>
+	<div class="accordionheader">
+		<h4>Political Science Internship Open House & Student Experience Panel<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+	<div class="accordionbody">
+    <p>Thursday, September 22, 2016 - 3 p.m.</p>
+    
+    <a href="https://docs.google.com/a/umbc.edu/forms/d/1xppqfxnT6kUve-U-jG6j81c7aaE3pnLBRSSlOowf2Qo/viewform?edit_requested=true" target="_blank" class="button btn-sm">
+    Open House & Panel RSVP</a>
+    
+    </div>
 
+
+<hr>
+</div>
 <h3><strong>Graduate Events</strong></h3>
    
  
@@ -304,9 +314,16 @@ $('h4').click(function() {
 </script>   
 
 <script>
-  $(function() {
-    $( "#tabs" ).tabs();
-  });
+/* Creates Hash Functionality */
+    var hash2 = window.location.hash.substring(1).replace('%20',' ');
+	$( document ).ready(function() {
+		ga('send', 'event', 'hash', 'hash', hash2);
+	});
+	
+	$( document ).ready(function() {
+        if (hash2 == 'grad') {
+			$('.ug').hide();
+	}});
 </script>
  
 </body>

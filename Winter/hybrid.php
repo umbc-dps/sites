@@ -2,20 +2,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hybrid | Winter Programs at UMBC</title>
+<title>Hybrid/Online Courses | Winter Session at UMBC</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Hybrid and Online Courses are offered this year during UMBC's 2016 Winter Session. Check out what is offered here!" />
+<meta name="description" content="Winter session hybrid/online courses." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCWinter">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Hybrid | Winter Programs at UMBC" />
+<meta property="og:title" content="Hybrid/Online Courses | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/hybrid" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/umbcsummer.jpg" />
-<meta property="og:description" content="Hybrid and Online Courses are offered thisyear during UMBC's 2016 Winter Session. Check out what is offered here!" />
+<meta property="og:url" content="http://www.umbc.edu/winter/hybrid/" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session hybrid/online courses." />
 
 
 <!-- CSS -->
@@ -23,9 +24,10 @@
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -37,94 +39,122 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">
-  <div  id="summer-heading">
-    <a href="index"><h1 class="remove-bottom">Winter Session 2016</h1></a>
+<div class="container column" id="main">  <div  id="winter-heading">
+    <a href="index">
+    <h1 class="remove-bottom">
+    <img src="images/winter-heading.png" style="width:100%">
+    </h1>
+    </a>
   </div>
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
         <h2>Hybrid/Online Courses</h2>
     <!-- END Page Title -->       
-      <div class="content">
-      
+   <div class="content">
+  <div class="narrowchart">
+ <div id="accordion">       
      <!-- Start Content --> 
 
+<div class="accordionheader">
+  <h4>Hybrid Courses<i class="fa fa-angle-down"></i></h4>
+</div>
 
-<h4>Hybrid Courses</h4>
+ <div class="accordionbody">
 
 <ul>
   <li>
-    Hybrid courses
-    blend in-person and online learning.
+    Hybrid courses blend in-person and online learning.
   </li>
 
   <li>Most hybrid courses reduce the number of in-class meetings by replacing some in-person classes with online, out-of-class, or interactive learning activities.</li>
   <li>Hybrid courses require more independent learning on the part of the student than an in-person class. </li>
-  <li> View winter 2016 <a href="hybridcourses" target="_blank">hybrid courses offered</a>. <br>
-  </li>
-</ul>
+  
+  <li><a href="all-courses#hybrid" target="_blank">View hybrid courses</a></li>
+  
+  </ul>
+  </div>
 
-<h4>Online Courses</h4>
+<div class="accordionheader">
+  <h4>Online Courses<i class="fa fa-angle-down"></i></h4>
+</div>
 
+ <div class="accordionbody">
 <ul>
-  <li>
-    Online courses
-    use Blackboard (UMBC's course management system) and emphasize
-    self-directed independent student learning.
-  </li>
-
+  <li>Online courses use Blackboard (UMBC's course management system) and emphasize self-directed independent student learning. </li>
 
   <li>Students do not come to campus for class meetings, but instead manage
   their own learning online.</li>
   <li>Online  courses eliminate in-person class meetings entirely and move all learning  experiences online, using web-based, multi-media resources, commercial  software, and automatically evaluated assessments with guided feedback.</li>
   <li>In  the Schedule of Classes, &ldquo;Days &amp; Times&rdquo; are listed as &ldquo;TBA&rdquo; for online  courses.</li>
-  <li>View winter 2016 <a href="onlinecourses" target="_blank">online courses offered</a>.</li>
+  <li><a href="all-courses#online" target="_blank">View online courses</a></li>
 </ul>
+</div>
+
+</div>
+</div>
 
      <!-- END Content -->
-            
-        <div id="dotcontainer"></div>
-      </div>
-      <!-- /cbp-fwslider --></div>
+     
+	</div>
+        
     <!-- /eleven columns -->
-    <div class="five columns omega" style="float:right;"> 
-           <!-- SIDEBAR --> 
-      <?php include("includes/student-types.php"); ?>
+	</div>
+    <!-- SIDEBAR --> 
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
+    </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
-   
-   
   </div>
-</div>
+
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
+</div>
 <!-- container --> 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<script src="//code.jquery.com/jquery-1.12.0.js"></script> 
+<script src="//code.jquery.com/jquery-migrate-1.3.0.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
- 
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.magnific-popup.js"></script>
-<script src="js/popup.js"></script> 
-
- 
+<script src="js/popup.js"></script>
+  <script>
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+$('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+</script> 
+  
 </body>
-
 </html>

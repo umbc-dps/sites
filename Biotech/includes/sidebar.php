@@ -23,8 +23,9 @@
 
 
       <p style="text-align:center">
-Fall 2016 Application Deadline: December 1
-        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
+Spring 2017 Application <br>
+Deadline: December 1<br>
+(Certificate applications only) <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>
 
@@ -67,7 +68,8 @@ Fall 2016 Application Deadline: December 1
         <dt>Start Date</dt>
 
 
-        <dd>Spring/Fall</dd><br>
+        <dd>Spring (Certificate)<br>
+Fall (MPS & Certificate)</dd><br>
 
         <dt style="text-align:center"><a class="btn" href="documents/programguide.pdf">Download Program Guide PDF</a></dt>
       </dl> 

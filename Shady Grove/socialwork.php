@@ -100,9 +100,9 @@ html::after {
           <!-- Slide One -->
           <li id="slide1"><a href="visit/pd-socialwork"><img src="images/morris2.jpg" alt="img03" target="_blank"></a>
             <div class="carousel-caption wordwrap">
-              <h3>Meet Katie Morris, Social Work Program Director!</h3>
-              Visit with Social Work Program Director, Katie Morris, LCSW-C, and current social work students to learn more about our program and the opportunities that await you as a future social worker!
-<p><a href="visit/pd-socialwork" role="button" class="web-seemore" target="_blank">RSVP Here!</a></p>
+              <h3>Visit with Katie Morris, LCSW-C</h3>
+              Visit with Katie Morris on Wed., Sept. 21 at 4:30pm to learn about our social work program as well as field placement and career opportunities.  Meet current social work students, too!
+<p><a href="visit/pd-socialwork" role="button" class="web-seemore" target="_blank">Reserve Your Spot</a></p>
             </div>
             <p id="captionthree"><a href="visit/pd-socialwork" target="_blank">Meet Katie Morris, Social Work Program Director!</a></p>
           </li>
