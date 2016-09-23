@@ -105,19 +105,20 @@ html::after {
             <p id="captionthree"><a href="https://www.youtube.com/watch?v=7xOc2rYLcws" class="video">History in the making at UMBC!</a></p>
           </li>
          <!-- END Slide One -->
-
-<!---- Hide Slide Two ---------!>
+        
          
-          <!-- Slide Two --
-          <li id="slide1"><a href="https://www.surveymonkey.com/s/2VR5G27" target="_blank"><img src="images/carouselsmall.png" alt="img03"></a>
+          <!-- Slide Two -->
+          <li id="slide2">
+          <a href="visit/pd-history" target="_blank"><img src="images/andrew-nolan.png" alt="img03"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Event at Shady Grove</h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam commodo, porta orci et.
-<p><a href="" role="button" class="web-seemore" target="_blank">Attend!</a></p>
+              <h3>Meet Dr. Nolan, History Program Director</h3>
+              Visit with Dr. Nolan on 10/5 to learn about our history program as well as internship and career opportunities in the history field.  Meet current history students, too!
+<p><a href="visit/pd-history" role="button" class="web-seemore" target="_blank">RSVP Here!</a></p>
             </div>
-            <p id="captionthree"><a href="" target="_blank">Event at Shady Grove</a></p>
+            <p id="captionthree"><a href="visit/pd-history" target="_blank">Meet Dr. Nolan, History Program Director</a></p>
           </li>
-         -- END Slide Two -->
+         <!-- END Slide Two -->
+         
          
  <!---- Hide Slide Three ---------!>  
        

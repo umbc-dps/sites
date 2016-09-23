@@ -371,7 +371,7 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="morales"></a>Lorena Morales, Social Work<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="morales" href="#morales"></a>Lorena Morales, Social Work<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -539,7 +539,7 @@ I am a lifelong Red Sox fan! </p>
 </div>
 
 <div class="accordionheader">
-            <h4><a id="sasu"></a>Samuel Sasu, Political Science<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="sasu" href="#sasu"></a>Samuel Sasu, Political Science<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">

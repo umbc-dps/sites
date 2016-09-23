@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Financial Aid | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/financialaid/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/financialaid" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="Financial aid may be available for eligible UMBC students who are making satisfactory academic progress." />
 
@@ -97,6 +97,11 @@
 <p>Visit <a href="http://financialaid.umbc.edu/" target="_blank">financialaid.umbc.edu</a> (under "Special Programs") or call 410-455-2387 for more information.</p>
 
 </div>
+
+<br>
+<br>
+
+<h5 align="right"><strong>Find out about <a href="scholarships">Scholarships</a>!</strong></h4><br>
 </div>
 
      <!-- END Content -->

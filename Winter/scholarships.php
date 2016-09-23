@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Scholarships | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/scholarships/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/scholarships" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="The Office of Summer & Winter Programs awards full and partial scholarships to UMBC degree-seeking students." />
 
@@ -182,17 +182,23 @@ out-of-state tuition charges.</li>
                 <li class="remove">All decisions by the Scholarship Review Committee are final.</li>
               </ul>
             </div>
-                        <div class="accordionheader">
+            <div class="accordionheader">
               <h4>Apply<i class="fa fa-angle-down"></i></h4>
             </div>
             <div class="accordionbody">
+              <ul>
+                <li>
+                  <a href="scholarshipapplication.php">Apply Now</a></li>
+              </ul>
+            </div>
+<br>
+<br>
 
-            </div>
-            <div class="accordionbody">
-            </div>
+<h5 align="right"><strong>Interested in <a href="financialaid">Financial Aid</a>?</strong></h4><br>
+
 
      <!-- END Content -->
-             </div></div></div>
+          </div></div></div>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 

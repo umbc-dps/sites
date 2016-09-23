@@ -108,27 +108,27 @@ html::after {
           </li>
          <!-- END Slide One -->
          
-          <!-- Slide Two --
-          <li id="slide2"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/carouselsmall.png" alt="img03" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Event at Shady Grove</h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam commodo, porta orci et.
-<p><a href="" role="button" class="web-seemore" target="_blank">Attend!</a></p>
+          <!-- Slide Two -->
+          <li id="slide2"><a href="mailto:swsa-usg@umbc.edu"><img src="images/socialwork.jpg" alt="Caroline Tice" target="_blank"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Meet Social Work Department Dean</h3>
+              Say hello to Dean Carolyn Tice on September 23 in building I-101 from 12-1pm! Food & refreshments will be provided.
+<p><a href="mailto:swsa-usg@umbc.edu" role="button" class="web-seemore" target="_blank">Have questions?</a></p>
             </div>
-            <p id="captionthree"><a href="" target="_blank">Event at Shady Grove</a></p>
+            <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu" target="_blank">Meet Social Work Department Dean</a></p>
           </li>
-         -- END Slide One -->
+         <!-- END Slide Two -->
          
-         <!-- Slide Three --
-          <li id="slide3"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/carouselsmall.png" alt="img03" target="_blank"></a>
+         <!-- Slide Three -->
+          <li id="slide3"><a href="pat#morales"><img src="images/lorena-morales.jpg" alt="img03"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Event at Shady Grove</h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam commodo, porta orci et.
-<p><a href="" role="button" class="web-seemore" target="_blank">Attend!</a></p>
+              <h3>Meet Lorena</h3>
+              Lorena is a current social work student, member of UMBC's Peer Advisory Team, and is involved in USG's Leadership for Social Change Program. Check out her advice for transfer students!
+				<p><a href="pat#morales" role="button" class="web-seemore" target="_blank">Meet Lorena</a></p>
             </div>
-            <p id="captionthree"><a href="" target="_blank">Event at Shady Grove</a></p>
+            <p id="captionthree"><a href="pat#morales">Meet Lorena, Current Social Work Student</a></p>
           </li>
-	-- END Slide Three -->         
+	<!-- END Slide Three -->         
          
          </ul>
          </div>

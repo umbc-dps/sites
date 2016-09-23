@@ -66,8 +66,8 @@
           
           <li id="slide1"> <a href="#"><img src="images/9.jpg" alt="Winter Tutoring" target="_blank"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Winter 2017:</h3>
-              <small>Your smart choice to get ahead in the new year!</small>
+              <h3>Winter Session Schedule is Now Live!</h3>
+              <a href="all-courses" role="button" class="web-seemore" target="_blank">Learn More</a></p>
           </li>
           
           <!-- END Slide One --> 
@@ -130,9 +130,8 @@
         <h4>January 3 - 27</h4>
         <br>
         <h4>This winter, stay on track to graduate on time (or early) and move one step closer to starting your career.</h4><br>
-        <h6>Lighten your spring course load, boost your GPA, complete a required GEP course, and move closer to your degree!</h6><br>
-		<h6>Schedule of classes goes live September 19.</h6><br>
-        <h6>Registration begins October 24.</h6><br>
+        <h6>Lighten your spring course load, boost your GPA, complete a required course, and move closer to your degree!</h6><br>
+        <h6>Registration begins October 24 - so start planning now.</h6><br>
         <h4>Let us help you GRIT Going!</h4>
         </dl>
       </dl>
@@ -144,7 +143,7 @@
 <footer id="site-footer" class="clearfix">
   <?php include("includes/footer.php"); ?>
   <?php include("includes/social.php"); ?>
-  <?php // include("includes/tracking.php"); ?>
+  <?php include("includes/tracking.php"); ?>
 </footer>
 <!-- container --> 
 

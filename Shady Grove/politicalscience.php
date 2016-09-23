@@ -96,13 +96,13 @@ background-attachment:fixed;
          
           <!-- Slide Two -->
           <li id="slide2">
-<a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03" target="_blank"></a>
+<a href="pat#sasu"><img src="images/samuel-sasu.png" alt="img03"></a>
             <div class="carousel-caption wordwrap">
-              <h3>Attend Wednesday Wipeout!</h3>
-              Meet Dr. Dasgupta and engage in discussion surrounding current local, state, and national events with UMBC-Shady Grove students!  Make connections and learn more about our political science program!
-<p><a href="visit/pd-politicalscience" role="button" class="web-seemore" target="_blank">RSVP to Attend Here!</a></p>
+              <h3>Introducing Samuel Sasu</h3>
+              Samuel Sasu is current political science student and member of UMBC's Peer Advisory Team.  Learn about his student experience and check out his advice for transfer students!
+<p><a href="pat#sasu" role="button" class="web-seemore">Meet Samuel</a></p>
             </div>
-            <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Attend Wednesday Wipeout!</a></p>
+            <p id="captionthree"><a href="pat#sasu">Introducing Samuel Sasu</a></p>
           </li>
         <!-- END Slide Two -->
          

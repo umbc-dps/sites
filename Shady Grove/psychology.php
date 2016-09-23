@@ -114,8 +114,8 @@ html::after {
                     <a href="visit/pd-psychology"><img src="images/alonso-students.jpg" alt="img03" target="_blank"></a>
             <div class="carousel-caption wordwrap">
               <h3>Meet Dr. Alonso & psychology students!</h3>
-              Visit with Pyschology Program Director, Dr. Alonso, and current psychology students to learn more about our program and the opportunities available to you as a student!
-<p><a href="visit/pd-psychology" role="button" class="web-seemore" target="_blank">RSVP Here!</a></p>
+              Visit with Dr. Alonso on Wed., October 4th at 4:30pm to learn about our psychology program as well as research, internship, and career opportunities.  Meet current psychology students, too!
+<p><a href="visit/pd-psychology" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
             </div>
             <p id="captionthree"><a href="visit/pd-psychology" target="_blank">Meet Dr. Alonso & psychology students!</a></p>
             
@@ -123,13 +123,13 @@ html::after {
          <!-- END Slide Two -->
          
          <!-- Slide Three --
-          <li id="slide3"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/carouselsmall.png" alt="img03" target="_blank"></a>
+          <li id="slide3"><a href="mailto:sgpsa-group@umbc.edu"><img src="images/PSYCHsept.jpg" alt="Psychology Monthly Meeting" target="_blank"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Event at Shady Grove</h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam commodo, porta orci et.
-<p><a href="" role="button" class="web-seemore" target="_blank">Attend!</a></p>
+              <h3>Monthly Meeting</h3>
+              The Psychology Student Association & Tau Sigma will be hosting a joint kick-off event on Tuesday, September 20th from 11:30-1pm in III-3206. Come get involved!
+<p><a href="mailto:sgpsa-group@umbc.edu" role="button" class="web-seemore" target="_blank">Have Questions?</a></p>
             </div>
-            <p id="captionthree"><a href="" target="_blank">Event at Shady Grove</a></p>
+            <p id="captionthree"><a href="mailto:sgpsa-group@umbc.edu" class="web-seemore">Have Questions?</a></p>
           </li>
 	-- END Slide Three -->         
          
