@@ -12,11 +12,11 @@
 <meta name="twitter:site" content="@UMBCWinter">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Winter Session at UMBC" />
+<meta property="og:title" content="We're Flexible | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/flexible" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:description" content="We're flexible!" />
 
 
 <!-- CSS -->

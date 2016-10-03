@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Registration Tips | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/registrationtips/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/registrationtips" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="Here are some tips for registering for UMBC's 2017 Winter Session." />
 

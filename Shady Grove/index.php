@@ -107,15 +107,15 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://studyabroad.umbc.edu/study-abroad-office/caylie-r-zidwick/" target="_blank">
+<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
 <div class="image mobile-left">
-	<img src="images_homepage/studyabroad.jpg" alt="One">
+	<img src="images_homepage/registered.jpg" alt="One">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="preview">&raquo;</a>
-<div class="title">Interested in Study Abroad?</div>
-<div class="tagline">Interested in studying abroad but don't know how to start the process? Schedule an appointment with the Study Abroad Office on September 14th and 28th to learn the answers. </div>
-<a class="web-seemore" href="http://studyabroad.umbc.edu/study-abroad-office/caylie-r-zidwick/" target="_blank">Contact Caylie Zidwick For An Appointment</a>
+<a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/">&raquo;</a>
+<div class="title">Academic Advising & Registration Prep</div>
+<div class="tagline">Are you prepared to meet with your advisor and receive advising clearance? Review your degree audit and make note of any questions or concerns you have, then schedule an appointment with your advisor.</div>
+<a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">Registration Schedule</a>
 </div>
 </a>
 </div>
@@ -136,30 +136,30 @@
 
 
 <div class="panel panel-3">
-<a href="visit" target="_blank">
+<a href="visit/#grad" target="_blank">
 <div class="image mobile-center">
-<img src="images_homepage/2.jpg" alt="Two">
+<img src="images_homepage/io.jpg" alt="Two">
 </div>
-<div class="content-details">
-<a class="mobile-seemore" href="visit" target="_blank">&raquo;</a>
-<div class="title">Join Us for an Information Session!</div>
-<div class="tagline">Come meet our Cybersecurity and GIS Program Directors on Saturday, October 1 at 11AM to learn how you can apply for Spring 2017!</div>
-<a class="web-seemore" href="visit" target="_blank">RSVP Today!</a>
+<div class="content-details right">
+<a class="mobile-seemore" href="visit/#grad" target="_blank">&raquo;</a>
+<div class="title">Learn more about our Graduate Programs</div>
+<div class="tagline">Visit one of our upcoming graduate events! Our I/O Psychology information session on Wednesday, October 19th at 6 PM or Meet our Cybersecurity Program Director on Tuesday, October 25 at 6 PM.</div>
+<a class="web-seemore" href="visit/#grad" target="_blank">RSVP Now!</a>
 </div>
 </a>
 </div>
 
 
 <div class="panel panel-4">
-<a href="http://shadygrove.bncollege.com/webapp/wcs/stores/servlet/TBWizardView?catalogId=10001&langId=-1&storeId=39051" target="_blank">
+<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
 <div class="image mobile-center">
-<img src="images_homepage/studying.jpg" alt="3">
+<img src="images_homepage/truegrit.jpg" alt="3">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://shadygrove.bncollege.com/webapp/wcs/stores/servlet/TBWizardView?catalogId=10001&langId=-1&storeId=39051" target="_blank">&raquo;</a>
-<div class="title">Get Your Textbooks!</div>
-<div class="tagline">Don't forget to get your textbooks now and start the semester off prepared and ready to learn.</div>
-<a class="web-seemore" href="http://shadygrove.bncollege.com/webapp/wcs/stores/servlet/TBWizardView?catalogId=10001&langId=-1&storeId=39051" target="_blank">Textbook Listing</a>
+<a class="mobile-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">&raquo;</a>
+<div class="title">October 15th is Approaching!</div>
+<div class="tagline">Don't forget to apply and submit your official transcripts by our undergraduate priority deadline of October 15th to automatically be considered for UMBC merit scholarships!</div>
+<a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Today!</a>
 </div>
 </a>
 </div>
@@ -194,10 +194,10 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/studyabroad_sm.jpg" alt="1"></li>
+<li class="item-1"><img src="images_homepage/registered_sm.jpg" alt="1"></li>
 <li class="item-2"><img src="images_homepage/parking.jpg" alt="4"></li>
-<li class="item-3"><img src="images_homepage/2_tmb.jpg" alt="2"></li>
-<li class="item-4"><img src="images_homepage/studying-small.jpg" alt="3"></li>
+<li class="item-3"><img src="images_homepage/io-small.jpg" alt="2"></li>
+<li class="item-4"><img src="images_homepage/truegrit_sm.jpg" alt="3"></li>
 <!-- Hide Preview Images --
 <li class="item-5"><img src="images_homepage/5_tmb.jpg" alt="5"></li>
 <li class="item-6"><img src="images_homepage/6_tmb.jpg" alt="6"></li>
@@ -354,7 +354,7 @@
 
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
-<li><a href="visit/infosession" target="_blank">Wednesday, September 14, 1 p.m.</a></li>
+<li><a href="https://attendee.gotowebinar.com/register/810559248515057154" target="_blank">Wednesday, October 12, 12 p.m.</a></li>
 <li><a href="visit/infosession" target="_blank">Saturday, October 29, 12:30 p.m.</a></li>
 </ul>
 

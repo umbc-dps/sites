@@ -224,19 +224,24 @@ $lang = 'en';
 
 
 
-<!------- Accordion 10 ------
+<!------- Accordion 10 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    9/20/2016 - Winter 2017 EDUC 689 Course
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>Winter 2017  Course:</strong> <br>
+There will be an elective course offered  during the 2017 winter session for students in the Master&rsquo;s program. The course  is EDUC 689: Advance Special Topics in Education: Managing Your Career. Winter  Registration begins October 24, 2016. You must receive authorization to  register. (<a href="http://www.umbc.edu/isd/schedule">http://www.umbc.edu/isd/schedule</a>) </p>
+    <p>This is a three credit graduate level course  that may be used as an elective for the ISD Training Systems Master&rsquo;s degree.  The main objective of the course is to prepare students to advance their career  goals. The course description may be found here, <a href="http://www.umbc.edu/isd/courses">http://www.umbc.edu/isd/courses</a>. </p>
+    <p>The course will be taught online and have  individual coaching and career advising sessions with students using the phone,  webcams, Skype, Blackboard, and more. It is scheduled as a winter session  course. Normally, the winter session is only three to four weeks long. However,  students may have an incomplete grade assigned to them at the end of the winter  session and may extend their work and assignments beyond January. When students  finish their assignments they will have a final grade submitted. (Academic  deadlines and financial deadlines must still follow UMBC&rsquo;s schedule, <a href="http://www.umbc.edu/winter/index">http://www.umbc.edu/winter/index</a>). </p>
+    <p>Follow this link to view the video on YouTube  for more course information, <a href="https://www.youtube.com/watch?v=VbaK2igIfKA&feature=youtu.be">https://www.youtube.com/watch?v=VbaK2igIfKA&amp;feature=youtu.be</a><u> </u></p>
+    <p>Please let me know if you have any questions.</p>
 </div>
-!------------------------->
+
 
 
 

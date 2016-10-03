@@ -126,7 +126,7 @@ $lang = 'en';
             <td align="left" valign="top">
               <p><strong>Dr. Elliot Lasson</strong><br>
               Graduate Program Director<br>
-              <a href="mailto:elasson@umbc.edu@umbc.edu">elasson@umbc.edu@umbc.edu</a></p>
+              <a href="mailto:elasson@umbc.edu">elasson@umbc.edu</a></p>
             </td>
           </tr>
         </table>

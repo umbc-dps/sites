@@ -23,8 +23,9 @@
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p style="text-align:center">Applicants can begin applying for Fall 2017 Cohort in early Fall 2016.
-        <a class="btn hide" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
+      <p style="text-align:center">Fall 2017 Application<br> 
+		Deadline: March 1<br>
+        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
 </aside>
 

@@ -72,7 +72,7 @@ Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
  <h4>Admissions Requirements:</h4>
  <p>A bachelor’s degree in Engineering, Computer Science or Information Systems.</p>
  <ul>
-   <li>GRE scores are not required for admission</li>                
+   <li>GREs and letters of recommendation are <strong>not</strong> required.</li>                
    <li>Applicants should have an overall grade point average of 3.0 or higher on a 4-point grading scale in their B.S. course work and any previous graduate courses. (Applicants with an appropriate level of knowledge and professional experience in the IT or Engineering Management fields are strongly encouraged to apply.)</li>                                                          
    <li>International applicants should refer to the <a href="international.php">International Admission Page</a> for special admission information </li>                 
    </ul>

@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Inclement Weather Policy | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/weather/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/weather" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="In the event of inclement weather, UMBC will make every effort to decide by 6 a.m. whether the campus will be closed or opening late." />
 

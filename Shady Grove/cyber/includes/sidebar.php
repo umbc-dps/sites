@@ -26,7 +26,9 @@
 
 
       <p style="text-align:center">
-Applicants can begin applying for Spring 2017 in late September.
+Spring 2017 Application <br>
+Deadline: December 1<br>
+			<a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
       </p>
 </aside>
 

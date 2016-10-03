@@ -14,9 +14,9 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Study Abroad | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/studyabroad/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/studyabroad" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Study abroad opportunities." />
+<meta property="og:description" content="Spain Travel Study 2017." />
 
 
 <!-- CSS -->
@@ -65,7 +65,7 @@
  <div class="sixteen columns">
   <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
-        <h2>Travel Study 2017:</h2>
+        <h2>Travel Study 2017</h2>
     <!-- END Page Title -->       
       <div class="content">
       

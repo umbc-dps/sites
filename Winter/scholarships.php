@@ -163,9 +163,9 @@ out-of-state tuition charges.</li>
 
 <li>Students <strong>MUST</strong> submit an unofficial copy of their UMBC transcript with the online scholarship application form.</li>
 
-<li>UMBC Undergraduate Students: total credits already earned + current <strong>Fall 2016</strong> credits = a minimum of 100 credits (as indicated on your UMBC transcript).</li>
+<li>UMBC Undergraduate Students: total credits already earned + current <strong>Fall 2016</strong> credits = a minimum of 100 undergraduate credits (as indicated on your UMBC transcript).</li>
 
-<li>UMBC Graduate Students: total credits already earned + current <strong>Fall 2016</strong> credits = a minimum of 23 credits (as indicated on your UMBC transcript).</li>
+<li>UMBC Graduate Students: total credits already earned + current <strong>Fall 2016</strong> credits = a minimum of 23 graduate credits (as indicated on your UMBC transcript).</li>
 
 <li>Applicants must have a <strong>CURRENT</strong> UMBC cumulative grade point average of 3.200 or higher, as indicated on their UMBC transcript.</li>
 

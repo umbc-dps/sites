@@ -74,9 +74,9 @@
      <td>Culture (C)</td>
      <td>Shady Grove</td>
      <td>In Person</td>
-     <td>TuWTh</td>
-     <td>6:00PM</td>
-     <td>9:10PM</td>
+     <td>TuThF</td>
+     <td>9:30AM</td>
+     <td>12:40PM</td>
      <td align="left">Evening</td>
      <td>Taylor, Dabrina</td>
      <td>AMST 352</td>
@@ -802,7 +802,7 @@
      <td>In Person</td>
      <td>MW</td>
      <td>1:00PM</td>
-     <td>4:10PM</td>
+     <td>3:10PM</td>
      <td align="left">Afternoon</td>
      <td>Bodnar, Caroline</td>
      <td>INDS 410</td>
@@ -870,7 +870,7 @@
      <td>1:00PM</td>
      <td>4:10PM</td>
      <td align="left">Afternoon</td>
-     <td>&nbsp;</td>
+     <td>Tighe, Bonny</td>
      <td>MATH 155B</td>
      <td>You must have completed MATH 155 with a grade of &quot;C&quot; or better before you can take this class.</td>
      <td>Has Prerequisite</td>
@@ -1486,7 +1486,7 @@
      <td>9:00AM</td>
      <td>12:10PM</td>
      <td align="left">Morning</td>
-     <td>&nbsp;</td>
+     <td>TBD</td>
      <td>PHED 143</td>
      <td></td>
      <td>No Prerequisite</td>
@@ -2010,9 +2010,9 @@
      <td>Social Science (SS)</td>
      <td>Main Campus</td>
      <td>In Person</td>
-     <td>None</td>
-     <td>Unknown</td>
-     <td>Unknown</td>
+     <td>TuWTh</td>
+     <td>6:00PM</td>
+     <td>9:10PM</td>
      <td></td>
      <td>Knight, Donald E</td>
      <td>PSYC 230</td>
@@ -2330,6 +2330,28 @@
      <td></td>
      <td>*SOWK</td>
      <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+  </tr>
+  <tr>
+    <td class="subject">SOWK</td>
+    <td class="classNumber">374</td>
+    <td class="course-title">Social Work with Immigrants and Refugees</td>
+    <td class="number"><a href="" class="course-link">1267</a></td>
+    <td>Culture (C)</td>
+    <td>&nbsp;</td>
+    <td>Main Campus</td>
+    <td>Hybrid</td>
+    <td>MW</td>
+    <td>9:30AM</td>
+    <td>12:10PM</td>
+    <td align="left">&nbsp;</td>
+    <td>Okundaye, Joshua</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>No Prerequisite</td>
+    <td>Has GEP</td>
+    <td></td>
+    <td>*SOWK</td>
+    <td class="syllabus">&nbsp;</td>
   </tr>
   <tr>
      <td class="subject">SPAN</td>

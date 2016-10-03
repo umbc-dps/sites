@@ -145,6 +145,16 @@ html::after {
 <p>For more information, visit the <a href="http://www.shadygrove.umd.edu/campus-services/cas/dss" target="_blank">Disability Support and Test Proctoring Services</a> site.</p>
 </div>
 
+      <div class="accordionheader">
+            <h4><a id="notes" href="#notes"></a>Note Recipient and Note Takers<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody"> 
+          <p>To submit or retrieve your notes, please click <a href="https://umbc-accommodate.symplicity.com/" target="_blank">here</a> to log into Accommodate.</p>
+          <p><a href="https://umbc.box.com/s/b9sjjvnq81573jeehlm88y3gj57f0nn9" target="_blank">Note Recipient Guide</a></p>
+		<p><a href="https://umbc.box.com/s/z7u598f5b1ytd29k9pwps27yvs0xbtov" target="_blank">Note Taker Guide</a></p>
+          </div>
+
 <br clear="all">     
   
     </div>

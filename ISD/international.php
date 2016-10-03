@@ -78,8 +78,8 @@ $lang = 'en';
  <h3>Admissions: International</h3>
  <p>The following additional program admissions requirements (beyond those required by the graduate school) apply to all students that do not hold a bachelors degree or higher from a regionally accredited United States college or university:</p>
  <h4>Application Dates</h4>
- <p>The application deadline for Fall 2016 is <strong>January 1</strong>.  <br>
-   Fall 2016 semester begins: August 31, 2016 <br>
+ <p>The application deadline for Fall 2017 is <strong>January 1</strong>.  <br>
+   Fall 2017 semester begins: August 30, 2017 <br>
    <strong>* </strong>International Applicants are admitted <u>only</u> Fall Semesters. </p>
  <h4>Admissions Requirements:</h4>
   <UL>

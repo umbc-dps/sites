@@ -79,8 +79,7 @@ $lang = 'en';
 <!-- START Content --> 
  <h3>Admissions: Master's Degree </h3>
  <h4>Application Dates</h4>
- <p>The application deadline for Fall 2016 is <strong>March 1</strong>.  <br>
-   Fall semester begins: August 31, 2016</p>
+ <p>The application deadline for Fall 2017 is <strong>March 1</strong>.</p>
  <h4>Admissions Requirements:</h4>
  <p>Admissions decisions are based on a match of the applicant's interests, work experience, academic background, scholarship and personal goals for the programs. Minimum admission requirements are listed below.</p>
  <ul>

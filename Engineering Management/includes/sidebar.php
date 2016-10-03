@@ -12,7 +12,7 @@
 <hr>
       
       <p style="font-style:italic; text-align:center; margin-top:-15px;">
-      <strong>Drop in and chat with the Program Director on 9/14!</strong><br />
+      <strong>Drop in and chat with the Program Director on 10/12!</strong><br />
 <a href="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLSczKm2H8H4ocY82gz3jF5Q_qsPyHFnTPX8Y8XC8I8v_hJy6DQ/viewform" target="_blank" onMouseDown="ga('send', 'event', 'lead', 'click', 'dropin-session');" class="btn">Sign Up</a></p> 
 
     </aside>
@@ -30,8 +30,8 @@
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>      
       <p style="text-align:center">
-Fall 2016 Application Deadline: December 1
-        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
+Spring 2017 Application <br>
+Deadline: December 1 <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
 </aside>
 

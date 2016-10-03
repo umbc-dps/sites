@@ -74,8 +74,8 @@ $lang = 'en';
 
 
 <h3>Admissions: Post-Baccalaureate Certificates </h3>
-<h4>Application Dates</h4><p>The application deadline for Fall 2016 is <strong>August 1</strong>.  <br>
-   Fall semester begins: August 31, 2016</p>
+<h4>Application Dates</h4><p>The application deadline for Spring 2017 is <strong>December 1</strong>.  <br>
+   Spring semester begins: January 30, 2017</p>
  <h4>Admissions Requirements </h4>
  <p>There are no specific constraints on the type of undergraduate degree required for this certificate. In general, applicants should understand the basic concepts and operation  of the Internet, networked information systems, and have a basic familiarity with information security concepts and/or practices. These general requirements usually can be satisfied with one or more courses in related areas or through documented professional experience. Those with a background in computer science or information systems, or those with significant professional experience in the IT industry, are encouraged to apply.</p>
  <ul>

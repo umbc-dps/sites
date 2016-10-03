@@ -114,7 +114,7 @@ html::after {
                     <a href="visit/pd-psychology"><img src="images/alonso-students.jpg" alt="img03" target="_blank"></a>
             <div class="carousel-caption wordwrap">
               <h3>Meet Dr. Alonso & psychology students!</h3>
-              Visit with Dr. Alonso on Wed., October 4th at 4:30pm to learn about our psychology program as well as research, internship, and career opportunities.  Meet current psychology students, too!
+              Visit with Dr. Alonso on Wed., October 12th at 4:30pm to learn about our psychology program as well as research, internship, and career opportunities.  Meet current psychology students, too!
 <p><a href="visit/pd-psychology" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
             </div>
             <p id="captionthree"><a href="visit/pd-psychology" target="_blank">Meet Dr. Alonso & psychology students!</a></p>

@@ -92,7 +92,7 @@ $lang = 'en';
    </li>
    <li>Engineering or Information Technology track courses (4 courses)</li>
 
-   <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your MPS program.</li>
+   <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your MS program.</li>
 
  </ul>
 

@@ -82,9 +82,13 @@ $lang = 'en';
    <li>Current resume</li>
    <li>Personal statement outlining the student's goals and expectations of the program.  Statement should include applicant’s background, qualifications, career experience, and  any additional pertinent information.</li>
    <li>Minimum undergraduate GPA of 3.0 on 4.0 scale, or equivalent, is desired.  Applicants with grades on a scale other than 4.0, will be evaluated based on standards for the country of their degree.</li>
-   <li>Graduate Record Exam (GRE) scores with a minimum combined score of 306. Verbal Reasoning should be at least 153 and Analytical Writing at least 4.5. GRE scores are not required if your undergraduate degree was completed at an accredited U.S. university.</li>
-   <li>TOEFL Scores: Minimum scores: 99 (iBT). Scores must be less than 2 years old. iBT Score Breakdown: Writing (23), Listening (23), Reading (25), Speaking (28, 23 acceptable if have 2 years' work experience in supervisory or management position in the U.S.) OR</li>
-   <li>IELTS Score: Minimum score of 7.5 required</li>
+   <li>GRE scores are not required for admission.</li>
+   <li>TOEFL Scores: Minimum scores: 99 (iBT).  iBT Score Breakdown: Writing (23), Listening (23), Reading (25), Speaking (28, 23 acceptable if have 2 years' work experience in supervisory or management position in the U.S.) OR IELTS Score: Minimum score of 7.5 required.</li>
+   		<ul>
+        	<li>Scores must be less than 2 years old.</li>
+			<li>Students who receive a TOEFL score between 80 and 90 will be considered for conditional admissions.</li>
+        </ul>
+
  </ul>
  <p>*If you have a three-year degree versus a four-year degree, your transcript will be reviewed to determine whether you have met the necessary pre-requisites for the program. Eligibility for admission can only be determined upon receipt of a complete application.</p>
  

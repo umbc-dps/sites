@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Visiting Students | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/visitingstudents/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/visitingstudents" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="How students who attend another college or university can apply to UMBC Winter Session." />
 
@@ -127,7 +127,17 @@
 <li>If you are an <a href="incomingstudents" target="_blank">incoming new student</a> (admitted to begin full- or part-time at UMBC in the fall or spring) you do not need to apply for admission to enroll in the preceding summer or winter session. <a href="http://www.umbc.edu/undergraduate/quicklinks/contact.html" target="_blank">Contact</a> the Office of Undergraduate Admissions and ask to change your semester start date to the summer or winter term.</li>
 </ul>
 </div>
+   <div class="accordionheader">
+  <h4> Order Transcripts<i class="fa fa-angle-down"></i></h4>
+ </div>
 
+ <div class="accordionbody">
+  <ul>
+   <li>Order official UMBC transcripts through <a href="http://registrar.umbc.edu/services/records/">Parchment Inc.</a>, UMBC&rsquo;s online transcript partner.</li>
+   <li>There is a fee associated with ordering an official transcript.</li>
+   <li>You can also download&nbsp; and print an unofficial transcript through <em>my</em>UMBC.</li>
+  </ul>
+ </div>
 
      <!-- END Content -->
              </div></div></div>

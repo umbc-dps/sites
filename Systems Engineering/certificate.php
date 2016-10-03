@@ -79,7 +79,7 @@ Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
  <ul>
       <li>A bachelor’s degree in Engineering, Computer Science or Information Systems.</li>
       <li>Minimum undergraduate GPA of 3.0 on a 4.0 scale</li>
-      <li>GREs and letters of       recommendation are <strong>not</strong>&nbsp;required       if you earned an undergraduate degree from an accredited U.S. university. </li></ul>
+      <li>GREs and letters of       recommendation are <strong>not</strong>&nbsp;required.</li></ul>
 
  
  <h4>Application Process</h4>

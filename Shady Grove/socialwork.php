@@ -98,24 +98,24 @@ html::after {
         <ul>
 
           <!-- Slide One -->
-          <li id="slide1"><a href="visit/pd-socialwork"><img src="images/morris2.jpg" alt="img03" target="_blank"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Visit with Katie Morris, LCSW-C</h3>
-              Visit with Katie Morris on Wed., Sept. 21 at 4:30pm to learn about our social work program as well as field placement and career opportunities.  Meet current social work students, too!
-<p><a href="visit/pd-socialwork" role="button" class="web-seemore" target="_blank">Reserve Your Spot</a></p>
+          <li id="slide1"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php"><img src="images/campus.png" alt="img03" target="_blank"></a>
+            <div class="carousel-caption-right wordwrap">
+              <h3>Apply Now & Get Priority Consideration</h3>
+              Submit your Common Application and official transcripts to UMBC by our October 15th priority deadline to automatically be considered for UMBC merit scholarships!
+<p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
             </div>
-            <p id="captionthree"><a href="visit/pd-socialwork" target="_blank">Meet Katie Morris, Social Work Program Director!</a></p>
+            <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Now & Get Priority Consideration</a></p>
           </li>
          <!-- END Slide One -->
          
           <!-- Slide Two -->
-          <li id="slide2"><a href="mailto:swsa-usg@umbc.edu"><img src="images/socialwork.jpg" alt="Caroline Tice" target="_blank"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Meet Social Work Department Dean</h3>
-              Say hello to Dean Carolyn Tice on September 23 in building I-101 from 12-1pm! Food & refreshments will be provided.
-<p><a href="mailto:swsa-usg@umbc.edu" role="button" class="web-seemore" target="_blank">Have questions?</a></p>
+          <li id="slide2"><a href="mailto:swsa-usg@umbc.edu"><img src="images/sowk-meeting.jpg" alt="Caroline Tice" target="_blank"></a>
+            <div class="carousel-caption-right wordwrap">
+              <h3>SWSA Monthly Meeting</h3>
+             Discuss upcoming activities & events to support our school and the community. This is a great, fun way to get involved in the community & be active on campus while making a difference!
+<p><a href="mailto:swsa-usg@umbc.edu" role="button" class="web-seemore" target="_blank">Contact SWSA</a></p>
             </div>
-            <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu" target="_blank">Meet Social Work Department Dean</a></p>
+            <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu" target="_blank">SWSA Monthly Meeting</a></p>
           </li>
          <!-- END Slide Two -->
          

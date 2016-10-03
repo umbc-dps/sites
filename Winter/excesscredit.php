@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Winter Session Course Load | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/excesscredit/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/excesscredit" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="During winter session you can register for no more than  4.5 credits, due to the condensed length of the term." />
 

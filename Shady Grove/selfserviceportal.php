@@ -120,7 +120,12 @@ html::after {
         <li>Submit your form through  the UMBC RT Help system. Open a new UMBC RT Help ticket by logging in to  myUMBC and clicking &quot;Request Help&quot; from the &quot;Help&quot;  drop-down menu. Click &quot;Registration&quot; under &quot;Classes &amp;  Grades&quot; then attach your completed form.</li>
       </ul>
       </ul>
-      <p><strong>I am a UMBC main campus student. Can I register for classes at UMBC-Shady Grove? </strong></p>
+      <p><strong>I am a UMBC-Shady Grove student. Can I register for classes at UMBC's main campus?</strong></p>
+    <ul>
+	<li>UMBC-Shady Grove students may enroll in courses at the UMBC-Main Campus during the summer or winter sessions.  While fall and spring semester enrollment in courses at the UMBC-Main Campus is generally limited to Main-Campus students, exceptions to this practice may be considered depending upon capacity restrictions.  UMBC-Shady Grove students seeking an exception to enroll in courses at the UMBC-Main Campus during the fall or spring should contact their Program Director at Shady Grove to discuss options.</li>  
+	<li><em>Note:  While tuition costs are equal at both campuses, each campus does have a different fee structure. This may result in varying total costs for course enrollment.</em></li>
+    </ul>
+      <p><strong>I am a UMBC-Main Campus student. Can I register for classes at UMBC-Shady Grove? </strong></p>
         <ul>
           <li>UMBC-Main Campus students may enroll in courses at the UMBC-Shady Grove Campus during the summer or winter sessions. While fall and spring semester enrollment in courses at the UMBC-Shady Grove Campus is generally limited to Shady Grove students only, exceptions to this practice may be considered depending upon capacity restrictions. UMBC-Main Campus students seeking an exception to enroll in courses at the UMBC-Shady Grove Campus during the fall or spring semesters should contact the appropriate Shady Grove Program Director to discuss options.</li>
         </ul>

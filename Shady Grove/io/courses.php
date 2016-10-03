@@ -81,7 +81,7 @@ $lang = 'en';
 
 
         <div class="accordionbody">        
- <h5>Required Core Courses (18 credits) Choose 5:</h5>
+ <h5>Required Core Courses (15 credits) Choose 5:</h5>
 
  <ul>
    <li><a href="courses#PSYC670" target="_blank">PSYC 670: Industrial/Organizational Psychology</a></li>
@@ -89,7 +89,7 @@ $lang = 'en';
    <li><a href="courses#PSYC672" target="_blank">PSYC 672: Introduction to Data Analytic Procedures</a> <em>(required)</em></li>
    <li><a href="courses#legal-ethical-and-professional-issues-in-io-pscyhology" target="_blank">PSYC 673: Legal, Ethical and Professional Issues</a></li>
    <li><a href="courses#PSYC674" target="_blank">PSYC 674: Methods of Assessment</a></li>
-   <li><a href="courses#professional-human-resources-practice" target="_blank">PSYC 601: Professional Human Resource Practices</a></li>
+   <li><a href="courses#professional-human-resources-practice" target="_blank">PSYC 677: Professional Human Resource Practices</a></li>
 
  </ul>
  
@@ -115,7 +115,7 @@ $lang = 'en';
 
 
         <div class="accordionheader" style="background-color:#E0C586">
-          <h4><a href="#core" id="core"></a>Required Core Courses (18 credit hours), Choose 5:</h4>
+          <h4><a href="#core" id="core"></a>Required Core Courses (15 credit hours), Choose 5:</h4>
         </div>
         <div></div>
 
@@ -140,7 +140,7 @@ $lang = 'en';
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#PSYC672" id="PSYC672"></a>PYSC 672: Introduction to Data Analytic Procedures in I/O Psychology<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#PSYC672" id="PSYC672"></a>PSYC 672: Introduction to Data Analytic Procedures in I/O Psychology<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -150,7 +150,7 @@ $lang = 'en';
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#PSYC674" id="PSYC674"></a>PYSC 674: Methods of Assessment in I/O Psychology<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#PSYC674" id="PSYC674"></a>PSYC 674: Methods of Assessment in I/O Psychology<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -160,7 +160,7 @@ $lang = 'en';
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#professional-human-resources-practice" id="professional-human-resources-practice"></a>Professional Human Resources Practice<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#professional-human-resources-practice" id="professional-human-resources-practice"></a>PSYC 677: Professional Human Resources Practice<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -170,7 +170,7 @@ $lang = 'en';
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#legal-ethical-and-professional-issues-in-io-pscyhology" id="legal-ethical-and-professional-issues-in-io-pscyhology"></a>Legal, Ethical and Professional Issues in I/O Psychology<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#legal-ethical-and-professional-issues-in-io-pscyhology" id="legal-ethical-and-professional-issues-in-io-pscyhology"></a>PSYC 673: Legal, Ethical and Professional Issues in I/O Psychology<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">

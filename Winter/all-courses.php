@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Application Process for Graduate Students | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/applygraduate/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/applygraduate" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="Use your smart phone, mobile device, or computer to register through myUMBC." />
 

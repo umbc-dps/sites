@@ -239,6 +239,15 @@ $lang = 'en';
    <p>He received his Bachelor&rsquo;s Degree in Psychology from Manhattan College and went on to obtain his Master&rsquo;s and Doctorate Degree in Psychology from Rutgers University.</p>
 </div>
 
+<div class="accordionheader">
+  <h4><a id="wallace" href="#wallace"></a>David Wallace, M.S., M.A. | Adjunct Instructor<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p><img src="images/faculty/umbc-faculty-david-wallace.jpg" align="left"alt="Richard Tonowski">Mr. David M. Wallace, an adjunct professor here at UMBC-Shady Grove since 2016, has had a 20-year professional career as an organizational leader in the US Navy.  As a naval officer, he has led teams of various size and organizational level from leading a single division on a Navy destroyer to commanding multiple security teams operating on various ships across thousands of miles and in various situations.</p>
+  <p>As a lifelong student of leadership, he has bolstered this applied experience with academics. He earned an M.S. in information technology management from the Naval Postgraduate School, a course of instruction that included in-depth studies of areas such as decision-making and leading organizational change.  In addition, he earned an M.A. in Industrial/Organizational psychology from George Mason University, where he is pursuing his Ph.D.  Mr. Wallace’s research interests include leadership, leader development, and the interaction of personality and situations in the workplace.</p>
+  <p>You can view Mr. Wallace's public LinkedIn profile <a href="https://www.linkedin.com/in/david-wallace-21517a20/" target="_blank">here</a>. Mr. Wallace can be reached at <a href="mailto:dwallac8@umbc.edu">dwallac8@umbc.edu</a>.</p>
+  </div>
     
 
 <div id="contents" style="display:none"></div>

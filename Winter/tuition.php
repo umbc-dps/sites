@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Tuition & Fees | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/tuition/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/tuition" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="Winter session tuition is based on UMBC’s standard part-time credit rate for Maryland residents and non-residents." />
 

@@ -22,9 +22,7 @@
     <dt>Important Dates</dt>
     <dd><a href="importantdates">Academic</a> &amp; <a href="financialdates">Financial</a></dd>
     <br>
-    <!--
     <a class="button gold" href="documents/catalog.pdf" target="_blank">Download Catalog</a><br>
-    -->
 	<a class="button gold" href="courses" target="_blank">View All Courses</a>
 
   </dl>

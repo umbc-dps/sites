@@ -10,7 +10,7 @@
 <head>
 
 <meta charset="UTF-8">
-<title>Adivising Resources | UMBC at Shady Grove</title>
+<title>Advising Resources | UMBC at Shady Grove</title>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

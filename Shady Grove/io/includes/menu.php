@@ -25,7 +25,7 @@
     <li><a href="costs.php">Tuition &amp; Fees</a></li>
 
     <li>
-      <a href="#">Faculty</a>
+      <a href="#">People</a>
       
       <ul class="sub-menu">
       <li>

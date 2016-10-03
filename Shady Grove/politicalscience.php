@@ -83,13 +83,13 @@ background-attachment:fixed;
        
           <!-- Slide One -->
           <li id="slide1">
-           <a href="https://docs.google.com/a/umbc.edu/forms/d/1xppqfxnT6kUve-U-jG6j81c7aaE3pnLBRSSlOowf2Qo/edit" target="_blank"><img src="images/internships.jpg" alt="img03"></a>
+           <a href="mailto:psso.usg@gmail.com" target="_blank"><img src="images/internships.jpg" alt="img03"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Internship Open House!</h3>
-              Interested in pursuing an internship? Stop by our Political Science Internship Open House & Student Experience Panel on Thursday, September 22nd (3:00pm-5:00pm)!
-<p><a href="https://docs.google.com/a/umbc.edu/forms/d/1xppqfxnT6kUve-U-jG6j81c7aaE3pnLBRSSlOowf2Qo/edit" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
+              <h3>Back-to-School Happy Hour!</h3>
+              Come by Nantucket’s Reef on Thursday, October 6th (3pm-9pm). 10% of all proceeds go to PSSO. Open to EVERYONE!
+<p><a href="mailto:psso.usg@gmail.com" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
             </div>
-            <p id="captionthree"><a href="https://docs.google.com/a/umbc.edu/forms/d/1xppqfxnT6kUve-U-jG6j81c7aaE3pnLBRSSlOowf2Qo/edit" target="_blank">Internship Open House!</a></p>
+            <p id="captionthree"><a href="mailto:psso.usg@gmail.com" target="_blank">Back-to-School Happy Hour!</a></p>
             
           </li>
          <!-- END Slide One -->
@@ -99,7 +99,7 @@ background-attachment:fixed;
 <a href="pat#sasu"><img src="images/samuel-sasu.png" alt="img03"></a>
             <div class="carousel-caption wordwrap">
               <h3>Introducing Samuel Sasu</h3>
-              Samuel Sasu is current political science student and member of UMBC's Peer Advisory Team.  Learn about his student experience and check out his advice for transfer students!
+              Samuel Sasu is a current political science student and member of UMBC's Peer Advisory Team.  Learn about his student experience and check out his advice for transfer students!
 <p><a href="pat#sasu" role="button" class="web-seemore">Meet Samuel</a></p>
             </div>
             <p id="captionthree"><a href="pat#sasu">Introducing Samuel Sasu</a></p>

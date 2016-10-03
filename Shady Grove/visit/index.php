@@ -124,16 +124,6 @@ For a campus map, directions and parking information, please click <a href="htt
 
 
 	<div class="accordionheader">
-		<h4>UMBC-Shady Grove Undergraduate Preview Night<i class="fa fa-angle-down"></i></h4>
-	</div>
-    
-	<div class="accordionbody">
-		<p>Thursday, September 29, 2016, 6 p.m.</p>
-			<a href="http://www.umbc.edu/shadygrove/preview/" target="_blank" class="button btn-sm">
-	    		Preview Night RSVP</a>
-	</div>
-
-	<div class="accordionheader">
 		<h4>Prospective Undergraduate In-Person Information Sessions<i class="fa fa-angle-down"></i></h4>
 	</div>
     
@@ -158,17 +148,19 @@ For a campus map, directions and parking information, please click <a href="htt
 		Tuesday, November 1, 5:30 p.m.</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, September 21, 12 p.m. <br>
-		Wednesday, September 28, 12 p.m. <br>
-		Wednesday, October 5, 12 p.m.</p>
+		Wednesday, October 5, 12 p.m.<br>
+  		Wednesday, October 12, 12 p.m.<br>
+		Wednesday, October 19, 12 p.m.<br>
+		Wednesday, October 26, 12 p.m.<br>
+		Wednesday, November 2, 12 p.m.</p>
 	
     <p>
         <strong>Psychology:</strong><br>
 		Wednesday, October 12, 4:30 p.m. <br>
-		Thursday, November 3, 12 p.m.</p>
+		Thursday, November 3, 12 p.m.<br>
+    </p>
 	<p>
         <strong>Social Work:</strong><br>
-		Wednesday, September 21, 4:30 p.m. <br> 
 		Wednesday, November 9, 12:30 p.m.</p>
   
   <a href="pd" target="_blank" class="button btn-sm"> 
@@ -189,18 +181,6 @@ Wednesday, October 12, 2016 - 12 p.m.
  <a href="https://attendee.gotowebinar.com/register/810559248515057154" target="_blank" class="button btn-sm">
 	    Webinar RSVP</a>
 </div>
-
-	<div class="accordionheader">
-		<h4>Political Science Internship Open House & Student Experience Panel<i class="fa fa-angle-down"></i></h4>
-	</div>
-    
-	<div class="accordionbody">
-    <p>Thursday, September 22, 2016 - 3 p.m.</p>
-    
-    <a href="https://docs.google.com/a/umbc.edu/forms/d/1xppqfxnT6kUve-U-jG6j81c7aaE3pnLBRSSlOowf2Qo/viewform?edit_requested=true" target="_blank" class="button btn-sm">
-    Open House & Panel RSVP</a>
-    
-    </div>
 
 
 <hr>

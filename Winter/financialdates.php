@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Financial Dates | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/financialdates/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/financialdates" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="Important winter session financial dates." />
 

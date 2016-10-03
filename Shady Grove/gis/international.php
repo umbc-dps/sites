@@ -87,6 +87,10 @@ $lang = 'en';
    <li><a href="documents/experienceform.doc">Experience Form</a></li>
    <li>Statement of academic goals</li>
    <li>TOEFL Scores: Minimum scores: 80 (iBT) OR IELTS Score: Minimum score of 6.5 required</li>
+   		<ul>
+        	<li>Scores must be less than 2 years old.</li>
+			<li>Students who receive a TOEFL score between 80 and 90 will be considered for conditional admissions.</li>
+        </ul>
  </ul>
  <p>*If you have a three-year degree versus a four-year degree, your transcript will be reviewed to determine whether you have met the necessary pre-requisites for the program. Eligibility for admission can only be determined upon receipt of a complete application.</p>
  

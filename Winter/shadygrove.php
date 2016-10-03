@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Shady Grove Courses | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/shadygrove/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/shadygrove" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="The Universities at Shady Grove (USG) is a University System  of Maryland regional center located in Rockville, MD." />
 

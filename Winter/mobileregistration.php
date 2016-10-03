@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Mobile Registration | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/mobileregistration/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/mobileregistration" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="Registering for a winter session course on your mobile phone is easy!" />
 
@@ -65,7 +65,7 @@
  <div class="sixteen columns">
   <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
-        <h2>Incoming Students</h2>
+        <h2>Mobile Registration</h2>
     <!-- END Page Title -->       
    <div class="content">
   <div class="narrowchart">

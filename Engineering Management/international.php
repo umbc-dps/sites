@@ -68,9 +68,15 @@ $lang = 'en';
  <ul>
    <li>A bachelor’s degree in Engineering, Computer Science, Information Systems or related discipline.*</li>
    <li>Minimum undergraduate GPA of 3.0 on 4.0 scale, or equivalent, is desired.  Applicants with grades on a scale other than 4.0, will be evaluated based on standards for the country of their degree.</li>
-   <li>Graduate Record Exam (GRE) scores with a minimum of 153 Verbal Reasoning, 153 Quantitative and Analytical Writing score of at least 4.0. <strong>GRE scores are not required if your undergraduate degree was completed at an accredited U.S. university.</strong></li>
-   <li>TOEFL Scores: Minimum scores: 99 (iBT). Scores must be no more than 2 years old.</li>
-   <li>iBT Scores  Breakdown: Writing (23), Listening (23), Reading (25), Speaking (28, 23  acceptable if have 2 years&rsquo; work experience in supervisory or management  positions in the U.S.) OR IELTS Score: Minimum score of 7.0 required.</li>
+   <li>TOEFL Scores: Minimum scores: 99 (iBT). </li>
+   		<ul>
+   			<li>iBT Scores  Breakdown: Writing (23), Listening (23), Reading (25), Speaking (28, 23  acceptable if have 2 years&rsquo; work experience in supervisory or management  positions in the U.S.) OR IELTS Score: Minimum score of 7.0 required.</li>
+   			<li>Scores must be less than 2 years old.</li>
+			<li>Students who receive a TOEFL score between 80 and 90 will be considered for conditional admissions.</li>
+         </ul>
+<li>GRE scores are not required for admission.</li>
+
+
  </ul>
  <p>*If you have a three-year degree versus a four-year degree, your transcript will be reviewed to determine whether you have met the necessary prerequisites for the program. Eligibility for admission can only be determined upon receipt of a complete application.</p>
  
@@ -104,7 +110,7 @@ $lang = 'en';
    <li>Personal  statement outlining the student&rsquo;s goals and  expectations of the program. Statement should include applicant&rsquo;s background,  qualifications, career experience, and any additional pertinent information. </li>
    <li>Current  Resume </li>
    <li>Official  transcript(s) from each college &amp; university attended</li>
-   <li>TOEFL or  IELTS scores &amp; GRE Scores</li>
+   <li>TOEFL or  IELTS scores</li>
    <li>Application  fee ($50 online)</li>
    <ul>
      <li>If paying  by check, the check must be drawn on a bank with a U.S. location. The check  should be payable to UMBC.   </li>

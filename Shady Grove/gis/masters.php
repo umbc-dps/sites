@@ -77,8 +77,8 @@ $lang = 'en';
   
 <!-- START Content --> 
  <h3>Admissions: Master's Degree </h3>
- <h4>Application Dates</h4> <p>The application deadline for Fall 2016 is <strong>August 1</strong>.  <br>
-   Fall semester begins: August 31, 2016</p>
+ <h4>Application Dates</h4> <p>The application deadline for Spring 2017 is <strong>December 1</strong>.  <br>
+   Spring semester begins: January 30, 2017</p>
  <h4>Admissions Requirements</h4>
  <ul>
    <li>B.A. or B.S. in Geography, Computer Science or Information Systems or a bachelor&rsquo;s degree in a related field with GIS-related work experience.</li>

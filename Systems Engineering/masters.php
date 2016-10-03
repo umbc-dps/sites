@@ -80,7 +80,7 @@ Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
   <UL>
    <LI>An undergraduate degree in Engineering or Information   Technology. </LI>
    <LI>Minimum undergraduate GPA of 3.0 on a 4.0 scale</LI>		        
-   <LI>GREs and letters of   recommendation are <STRONG>not</STRONG> required if you earned an undergraduate   degree from an accredited U.S. university. </LI>
+   <LI>GREs and letters of   recommendation are <STRONG>not</STRONG> required.</LI>
  </UL>
  
  <h4>Application Process:</h4>

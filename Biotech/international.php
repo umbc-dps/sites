@@ -82,7 +82,11 @@ $lang = 'en';
    <li>Minimum undergraduate GPA of 3.0 on 4.0 scale</li>
    <li>Two semesters of general chemistry and two semesters of organic chemistry</li>
    <li>GRE scores are required unless your undergraduate degree was earned at an accredited U.S. university. The combined score of the Verbal Reasoning and Quantitative components must be at least 306, with the Verbal Reasoning score being at least 153. Also, the Analytical Writing score should be at least 4.5.</li>
-   <li>TOEFL Scores: Minimum scores of 600 (PBT), 250 (CBT), 100 (IBT) OR IELTS Score: Minimum score of 7.5 required. Scores must be less than 2 years old.</li>
+   <li>TOEFL Scores: Minimum scores of 600 (PBT), 250 (CBT), 100 (IBT) OR IELTS Score: Minimum score of 7.5 required. </li>
+   		<ul>
+        	<li>Scores must be less than 2 years old.</li>
+			<li>Students who receive a TOEFL score between 80 and 90 will be considered for conditional admissions.</li>
+        </ul>
  </ul>
  <p>*If you have a three-year degree versus a four-year degree, your transcript will be reviewed to determine whether you have met the necessary prerequisites for the program. Eligibility for admission can only be determined upon receipt of a complete application.</p>
  

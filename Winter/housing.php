@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Housing | Winter Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/housing/" />
+<meta property="og:url" content="http://www.umbc.edu/winter/housing" />
 <meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
 <meta property="og:description" content="Winter session housing." />
 

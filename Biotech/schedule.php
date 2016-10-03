@@ -214,8 +214,8 @@ $lang = 'en';
   <TD>or BTEC 685</TD>
  </TR>
  </table>
- <p>View full <a href="documents/sequence.pdf">course progression</a>.</p>
  
+ <br clear="all">
 
  
  <!-- END Content -->

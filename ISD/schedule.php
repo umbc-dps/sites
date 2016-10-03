@@ -83,14 +83,35 @@ $lang = 'en';
   
   <h4>Course Locations</h4>
   <p>In-person courses will be located at the <a href="directions">South Campus location</a>.</p>
+  
+  <h3>Schedule of Classes Winter 2017</h3>
+  <p><strong>Registration Begins:</strong>  October 24, 2016<br>
+  <strong>Session Dates:</strong>  January 3 – January 27, 2017<br>
+  <strong>Last Day of Schedule Adjustment Period:</strong>  January 6, 2017<br>
+  <strong>Winter 2017 Academic Calendar/Important Dates:</strong> <a href="http://www.umbc.edu/winter/importantdates">http://www.umbc.edu/winter/importantdates</a><br>
+    <strong>Winter 2017 Financial Dates:</strong> <a href="http://www.umbc.edu/winter/financialdates">http://www.umbc.edu/winter/financialdates</a></p>
+    
+<table id="schedule">
+  <TR>
+    <TD width="64">Course   &amp;  
+      Class Number</TD>
+    <TD width="64">Course Title</TD>
+    <TD width="64">Day/Time</TD>
+    <TD width="64">Instructor</TD>
+</TR>
+  <tr>
+    <td>EDUC 689 – 01 (1015)</td>
+    <td>Advance Special Topics: Managing Your Career</td>
+    <td>Online Asynchronous</td>
+    <td>Williams, G.</td>
+  </tr>
+</table>
+
+<br>
+<hr>
+  
 <h3>Schedule of Classes Fall 2016</h3>
-  <p><strong>Current Student Registration Begins:</strong>&nbsp;April 4, 2016<br>
-  	<strong>New Master/Certificate Student Registration Begins:</strong>&nbsp;June 1, 2016<br>
-    <strong>Non-Degree Student Registration  Begins:</strong>&nbsp;August 24, 2016<br>
-    <strong>Semester Begins:&nbsp;</strong>August 31, 2016<br>
-    <strong>Last Day of Schedule Adjustment  Period:</strong>&nbsp;September 14, 2016<br>
-    <strong>Last Day of the Semester:</strong>&nbsp;December 13, 2016<br>
-    <strong>Final Exams:</strong>&nbsp;December 15-21, 2016<br>
+  <p><strong>Last Day of the Semester:</strong>&nbsp;December 13, 2016<br>
     <strong>Fall 2016 Academic Calendar:</strong>&nbsp;<a href="http://registrar.umbc.edu/files/2012/06/Fall-2016-Academic-Calendar_FINAL_updated-12.9.pdf">Click Here</a><br>
   </p>
 <table id="schedule">
