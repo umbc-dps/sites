@@ -86,7 +86,7 @@ ol li{list-style-type:decimal;}
  <p>Since grades from a previous term are not official until after most registrations have been approved, all registrations are provisional based on a student meeting all grade and GPA requirements for registration. If a student fails to meet grade and GPA requirements, all registration approvals will be removed.</p>
  
  <h4>Unprofessional Behavior</h4>
- <p>The program reserves the right to remove any student from a course if it is determined that a student has acted in an unprofessional manor. Removals will be at the discression of the Program Director in consultation with faculty.</p>
+ <p>The program reserves the right to remove any student from a course if it is determined that a student has acted in an unprofessional manner. Removals will be at the discretion of the Program Director in consultation with faculty.</p>
  
  <h4>Non-Degree Student Registration</h4>
  <p>Students with a non-degree status will be allowed to take one course, EDUC602. No other courses or additional course registrations will be permitted under any circumstances. This course can be applied toward the MA or a certificate in the program with a grade of “B” or better.</p>

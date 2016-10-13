@@ -107,35 +107,6 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
-<div class="image mobile-left">
-	<img src="images_homepage/registered.jpg" alt="One">
-</div>
-<div class="content-details right">
-<a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/">&raquo;</a>
-<div class="title">Academic Advising & Registration Prep</div>
-<div class="tagline">Are you prepared to meet with your advisor and receive advising clearance? Review your degree audit and make note of any questions or concerns you have, then schedule an appointment with your advisor.</div>
-<a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">Registration Schedule</a>
-</div>
-</a>
-</div>
-
-
-<div class="panel panel-2">
-<a href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">
-<div class="image mobile-right"><img src="images_homepage/parking.jpg" alt="4"></div>
-<div class="content-details left">
-<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">&raquo;</a>
-<div class="title">Parking Changes at USG</div>
-<div class="tagline">Beginning Fall 2016, parking at The Universities at Shady Grove will be fee and permit based. Register now to ensure you are ready to park for the first week of classes and are aware of the updated areas for student and faculty parking. </div>
-<a class="web-seemore" href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">Register &raquo;</a>
-</div>
-</a>
-</div>
-
-
-
-<div class="panel panel-3">
 <a href="visit/#grad" target="_blank">
 <div class="image mobile-center">
 <img src="images_homepage/io.jpg" alt="Two">
@@ -145,6 +116,35 @@
 <div class="title">Learn more about our Graduate Programs</div>
 <div class="tagline">Visit one of our upcoming graduate events! Our I/O Psychology information session on Wednesday, October 19th at 6 PM or Meet our Cybersecurity Program Director on Tuesday, October 25 at 6 PM.</div>
 <a class="web-seemore" href="visit/#grad" target="_blank">RSVP Now!</a>
+</div>
+</a>
+</div>
+
+
+<div class="panel panel-2">
+<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
+<div class="image mobile-left">
+	<img src="images_homepage/registered.jpg" alt="One">
+</div>
+<div class="content-details right">
+<a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/">&raquo;</a>
+<div class="title">Parking Update</div>
+<div class="tagline">Are you prepared to meet with your advisor and receive advising clearance? Review your degree audit and make note of any questions or concerns you have, then schedule an appointment with your advisor.</div>
+<a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">Registration Schedule</a>
+</div>
+</a>
+</div>
+
+
+
+<div class="panel panel-3">
+<a href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">
+<div class="image mobile-right"><img src="images_homepage/parking.jpg" alt="4"></div>
+<div class="content-details left">
+<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">&raquo;</a>
+<div class="title">Parking Update</div>
+<div class="tagline">Have you heard? Parking gates are going in now and will be activated the week of 10/10. Be sure to be parking in the appropriate lots on campus and have your gate card ready to enter the garages.  </div>
+<a class="web-seemore" href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">Parking Policies</a>
 </div>
 </a>
 </div>
@@ -194,9 +194,9 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/registered_sm.jpg" alt="1"></li>
-<li class="item-2"><img src="images_homepage/parking.jpg" alt="4"></li>
-<li class="item-3"><img src="images_homepage/io-small.jpg" alt="2"></li>
+<li class="item-1"><img src="images_homepage/io-small.jpg" alt="2"></li>
+<li class="item-2"><img src="images_homepage/registered_sm.jpg" alt="1"></li>
+<li class="item-3"><img src="images_homepage/parking.jpg" alt="4"></li>
 <li class="item-4"><img src="images_homepage/truegrit_sm.jpg" alt="3"></li>
 <!-- Hide Preview Images --
 <li class="item-5"><img src="images_homepage/5_tmb.jpg" alt="5"></li>
@@ -360,8 +360,6 @@
 
 <p class="date">Graduate Information Sessions</p>
 <ul>
-<li><a href="cyber/infosession" target="_blank">Cybersecurity: October 1, 11 a.m.</a></li>
-<li><a href="gis/infosession" target="_blank">Geographic Information Systems: October 1, 11 a.m.</a></li>
 <li><a href="io/infosession" target="_blank">Industrial/Organizational Psychology: October 19, 6 p.m.</a></li>
 </ul>
 <!-- INCLUDE FOR EVENTS -->

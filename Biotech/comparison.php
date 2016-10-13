@@ -85,7 +85,7 @@ $lang = 'en';
      <td>Admissions Criteria</td>
      <td>Undergraduate degree can be in a range of life science disciplines,    including biology, chemistry, biochemistry, chemical and biochemical    engineering</td>
      <td>Accepts applicants with a wide range of backgrounds; undergraduate    degree in sciences is not required</td>
-     <td>Undergraduate degree must be in same discipline in which you are    pursuing an advanced degree </td>
+     <td>Undergraduate degree is usually in same discipline in which you are    pursuing an advanced degree </td>
    </tr>
    <tr>
      <td>Program Content</td>

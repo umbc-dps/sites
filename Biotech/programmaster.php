@@ -72,16 +72,16 @@ $lang = 'en';
 <!-- START Content --> 
 
  <h3>Master's in Professional Studies: Biotechnology</h3>
- <p>The M.P.S. Biotechnology curriculum provides advanced instruction in the life sciences, along with coursework in regulatory affairs, leadership, management, and financial management in a life science-oriented business.</p>
- <p>The M.P.S. Biotechnology represents a new new kind of degree designed to prepare science professionals to fill management and leadership roles in biotechnology-related companies or agencies. This unique degree offers an alternative degree option for individuals not interested in pursing a M.D. or Ph.D. degree.</p>
- <p>To learn how the MPS compares to an MBA or a traditional M.S./Ph.D program click <a href="comparison.php">here</a>.</p>
+ <p>UMBC's Biotechnology curriculum is intended to address changes in the needs of the biotechnology industry through experiential learning. The program offers advanced instruction in the life sciences, plus coursework in regulatory affairs, leadership, management, and financial management.</p>
+ <p>The M.P.S. Biotechnology represents a new kind of degree designed to prepare science professionals to fill management and leadership roles in biotechnology-related companies or agencies organizations. This unique degree offers an alternative to a MBA or Ph.D. degree.</p>
+ <p>To learn how the MPS compares to an MBA or a traditional M.S. /Ph.D program click <a href="comparison.php">here</a>.</p>
  
  <h4>Program Highlights:</h4>
  <ul>
    <li>30-credit masters program (10 courses)</li>
    <li>Advanced level science, business and regulatory courses ("science plus")</li>
    <li>Nationally accredited <a href="http://www.sciencemasters.com/" target="_blank">Professional Science Masters</a></li>
-   <li>Internship opportunities - The MPS Program offers a Professional Experience Program for students interested in expanding on their industry experiences. For more information, <a href="pep.php">view the PEP Guide</a>.</li>
+   <li>Internship opportunities - The MPS Program offers assistance to students interested in expanding on their industry experiences to include a Professional Experience.  Please contact a Program Director for more information.</li>
    <li>No thesis required</li>
    <li>Evening and hybrid classes</li>
  </ul>
@@ -89,7 +89,7 @@ $lang = 'en';
  <h4>Learning Outcomes:</h4>
  <p>By the end of this program, you will be able to:</p>
  <ul>
-   <li>Explain and discuss the fundamentals of the sciences that underlie biotechnology and their applications to product development</li>
+   <li>Explain the relationship between science and business related to biotechnology</li>
    <li>Interpret and analyze new scientific discoveries and technologies relevant to biotechnology</li>
    <li>Assess and apply established and emerging biotechnology techniques used for commercial development</li>
    <li>Describe the process of biotechnology product development, including clinical trial design, inspections, and regulatory filings</li>
@@ -97,16 +97,14 @@ $lang = 'en';
    <li>Apply the elements of effective management and leadership within an organization</li>
    <li>Effectively function in and lead multidisciplinary teams</li>
    <li>Communicate ideas effectively and persuasively in writing and oral presentations</li>
-   <li>Analyze and use company financial information to make effective budgetary and resource allocation decisions</li>
    <li>Describe and apply sound legal and ethical standards, reasoning, and tools in a biotechnology context</li>
-   <li>Give the student  a stronger understanding of the relationship between science and business and  the process by which bioscience products are designed, developed and brought to  market;</li>
-   <li>Practiced  experience in researching, analyzing and communicating the primary and current  literature; and,</li>
-   <li>Formal training  in experimental design, a fundamental skill required of all life science  professionals.</li>
+   <li>Design and plan experiments and evaluate research results</li>
  </ul>
+ 
 
-<h4>Program Curriculum:</h4>
+ <h4>Program Curriculum:</h4>
  <p>The core consists of five courses (15 credits) that precede a capstone course (3 credits) for a total of six courses (18 credits). The Biotechnology core provides students with key practical skills needed to succeed in biotechnology industries.  The capstone project is initiated during the first semester and culminates in the capstone course.</p>
- <p>The tracks permit students to specialize in sub-areas of biotechnology that most suit their interests. Beginning Fall 2016, two tracks will be implemented. These tracks will focus on topics that best prepare students for difficult-to-fill jobs in the biotechnology industry.</p>
+ <p>The tracks permit students to specialize in sub-areas of biotechnology that most suit their interests. These tracks will focus on topics that best prepare students for difficult-to-fill jobs in the biotechnology industry.</p>
  <ul>
  	<li><strong>Regulatory Track:</strong> This track focuses on the regulatory environment. The curriculum provides students with a foundation in regulatory affairs, GMP manufacturing, quality control and systems and clinical trials management.</li>
     <li><strong>Bioprocessing Track:</strong> This track focuses on the technology of making and purifying commercially valuable products from living systems. Students interested in bench-science careers in biotechnology related to the development and manufacture of biologic products will benefit from choosing this track.</li>

@@ -11,7 +11,6 @@
       <ul class="sub-menu">
       	<li><a href="programs.php">All Programs</a></li>
         <li><a href="programmaster.php">Master's in Professional Studies</a></li>
-        <li><a href="programmaster2">New Biotechnology MPS Core - Fall 2016</a></li>
         <li><a href="http://biology.umbc.edu/grad" target="_blank">MS in Applied Molecular Biology</a></li>
         <li><a href="programcert.php">Certificate in Biotechnology Management</a></li>
         <li><a href="programcert2.php">Certificate in Biochemical Regulatory</a></li>

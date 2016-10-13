@@ -96,26 +96,29 @@ background-attachment:fixed;
          
           <!-- Slide Two -->
           <li id="slide2">
-<a href="pat#sasu"><img src="images/samuel-sasu.png" alt="img03"></a>
+<a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03" target="_blank"></a>
             <div class="carousel-caption wordwrap">
-              <h3>Introducing Samuel Sasu</h3>
-              Samuel Sasu is a current political science student and member of UMBC's Peer Advisory Team.  Learn about his student experience and check out his advice for transfer students!
-<p><a href="pat#sasu" role="button" class="web-seemore">Meet Samuel</a></p>
+              <h3>Attend Wednesday Wipeout!</h3>
+              Meet Dr. Dasgupta and engage in discussion surrounding current local, state, and national events with UMBC-Shady Grove students!  Make connections and learn more about our political science program!
+<p><a href="visit/pd-politicalscience" role="button" class="web-seemore" target="_blank">RSVP to Attend Here!</a></p>
             </div>
-            <p id="captionthree"><a href="pat#sasu">Introducing Samuel Sasu</a></p>
+            <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Attend Wednesday Wipeout!</a></p>
           </li>
         <!-- END Slide Two -->
          
-         <!-- Slide Three --
-          <li id="slide3"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/2.jpg" alt="img03" target="_blank"></a>
+         <!-- Slide Three -->
+          <li id="slide3">
+          <a href="http://undergraduate.umbc.edu/apply/shady-grove.php">
+          <img src="images/campus.png" alt="img03" target="_blank">
+          </a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Event at Shady Grove</h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam commodo, porta orci et.
-<p><a href="" role="button" class="web-seemore" target="_blank">Attend!</a></p>
+              <h3>Apply Now & Get Priority Consideration!</h3>
+              Submit your Common Application and official transcripts to UMBC by our October 15th priority deadline to automatically be considered for UMBC merit scholarships!
+<p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
             </div>
-            <p id="captionthree"><a href="" target="_blank">Event at Shady Grove</a></p>
+            <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Event at Shady Grove</a></p>
           </li>
-	-- END Slide Three -->         
+		<!-- END Slide Three -->         
          
          </ul>
          </div>
