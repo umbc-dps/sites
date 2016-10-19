@@ -107,7 +107,7 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="cocker"></a>Beth Cocker, Psychology<i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#cocker" id="cocker"></a>Beth Cocker, Psychology<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -255,7 +255,7 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="kareem"></a>Haminat Kareem, Political Science<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="kareem" href="#kareem"></a>Haminat Kareem, Political Science<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -335,7 +335,7 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="membreno"></a>Adriana Membreno, Social Work<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="membreno" href="#membreno"></a>Adriana Membreno, Social Work<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">

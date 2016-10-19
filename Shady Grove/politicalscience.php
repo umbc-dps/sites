@@ -83,30 +83,30 @@ background-attachment:fixed;
        
           <!-- Slide One -->
           <li id="slide1">
-           <a href="mailto:psso.usg@gmail.com" target="_blank"><img src="images/internships.jpg" alt="img03"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Back-to-School Happy Hour!</h3>
-              Come by Nantucket’s Reef on Thursday, October 6th (3pm-9pm). 10% of all proceeds go to PSSO. Open to EVERYONE!
-<p><a href="mailto:psso.usg@gmail.com" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
-            </div>
-            <p id="captionthree"><a href="mailto:psso.usg@gmail.com" target="_blank">Back-to-School Happy Hour!</a></p>
+            <a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03" target="_blank"></a>
+                <div class="carousel-caption wordwrap">
+                  <h3>Attend Wednesday Wipeout!</h3>
+                  Meet Dr. Dasgupta and engage in discussion surrounding current local, state, and national events with UMBC-Shady Grove students!  Make connections and learn more about our political science program!
+    <p><a href="visit/pd-politicalscience" role="button" class="web-seemore" target="_blank">RSVP to Attend Here!</a></p>
+                </div>
+                <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Attend Wednesday Wipeout!</a></p>
             
           </li>
          <!-- END Slide One -->
          
           <!-- Slide Two -->
           <li id="slide2">
-<a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03" target="_blank"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Attend Wednesday Wipeout!</h3>
-              Meet Dr. Dasgupta and engage in discussion surrounding current local, state, and national events with UMBC-Shady Grove students!  Make connections and learn more about our political science program!
-<p><a href="visit/pd-politicalscience" role="button" class="web-seemore" target="_blank">RSVP to Attend Here!</a></p>
-            </div>
-            <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Attend Wednesday Wipeout!</a></p>
+            <a href="pat#kareem"><img src="images/haminat.png" alt="img03" target="_blank"></a>
+                <div class="carousel-caption wordwrap">
+                  <h3>Introducing Haminat Kareem</h3>
+                  Haminat is a current political science student, member of UMBC's Peer Advisory Team, and Co-President of the Political Science Student Organization (PSSO).  Check out her advice for transfer students!
+    <p><a href="pat#kareem" role="button" class="web-seemore" target="_blank">Meet Haminat</a></p>
+                </div>
+                <p id="captionthree"><a href="pat#kareem" target="_blank">Meet Haminat, Current Poli Sci Student</a></p>
           </li>
         <!-- END Slide Two -->
          
-         <!-- Slide Three -->
+         <!-- Slide Three --
           <li id="slide3">
           <a href="http://undergraduate.umbc.edu/apply/shady-grove.php">
           <img src="images/campus.png" alt="img03" target="_blank">
@@ -118,7 +118,7 @@ background-attachment:fixed;
             </div>
             <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Event at Shady Grove</a></p>
           </li>
-		<!-- END Slide Three -->         
+		-- END Slide Three -->         
          
          </ul>
          </div>
@@ -134,7 +134,7 @@ background-attachment:fixed;
 <div id="accordion">
   <h3>Suggested Transfer Pathways</h3>
     <div>
-      <p>UMBC-Shady Grove has developed Suggested Transfer Pathways for students at <a href="documents/MC_POLI_Checklist.pdf" target="_blank">Montgomery College (MC)</a> and <a href="documents/FCC_POLI_Checklist.pdf" target="_blank">Frederick Community College (FCC)</a> who may be interested in transferring into any one of our undergraduate programs.  These documents provide an academic plan of action for transfer with recommended courses specific to each of our academic programs.</p>
+      <p>UMBC-Shady Grove has developed Suggested Transfer Pathways for students at <a href="documents/MC_POLI_Checklist.pdf" target="_blank">Montgomery College (MC)</a> and <a href="documents/FCC_POLI_Checklist.pdf" target="_blank">Frederick Community College (FCC)</a> who may be interested in transferring into any one of our undergraduate programs. We have also developed recommendations for students who are transferring from <a href="documents/Recommended Checklist_PoliticalScience.pdf" target="_blank">other schools</a>. These documents provide an academic plan of action for transfer with recommended courses specific to each of our academic programs.</p>
       <p><em>Please note that the Suggested Transfer Pathway is not intended to serve as an official articulation agreement.</em>
       </p>
 	</div>

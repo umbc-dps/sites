@@ -97,31 +97,46 @@ html::after {
     <!-- Start Content -->   
       <div class="content">
       <h3>Forms</h3>
-<p>Please see below for frequently accessed forms and links for  UMBC students:</p>
+<p>Please see below for frequently accessed forms and links for  UMBC students. Forms marked with a asterisk (*) note forms that can be submitted through the OIT Help (RT) Ticket system.</p>
 <ul>
-  <li><a href="http://registrar.umbc.edu/forms/transfer-request-forms/" target="_blank">Verification of Transferability</a></li>
+  <li><a href="http://registrar.umbc.edu/forms/transfer-request-forms/" target="_blank">Verification of Transferability</a>*<br>
+  Use if you are planning to take a course at another institution and hope to transfer it back to UMBC (should be submitted at least three weeks prior to when you plan to take the course)</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/transfer-request-forms/" target="_blank">Evaluation of  Transfer Credits</a></li>
+  <li><a href="http://registrar.umbc.edu/forms/transfer-request-forms/" target="_blank">Evaluation of  Transfer Credits</a>*<br>
+  Use to request a review of transferred coursework already applied to your UMBC record to be reevaluated for general education and major requirement equivalency</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/records-updaterequest-forms/" target="_blank">Declaration/Change  of Major</a></li>
+  <li><a href="http://registrar.umbc.edu/forms/records-updaterequest-forms/" target="_blank">Declaration/Change  of Major</a>*<br>
+  Use to change, delete, or add a major and/or minor</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/records-updaterequest-forms/" target="_blank">Enrollment  Verification</a></li>
+  <li><a href="http://registrar.umbc.edu/forms/records-updaterequest-forms/" target="_blank">Enrollment  Verification</a><br>
+  Use if you have a form that needs to be signed by UMBC stating your enrollment. If you need enrollment verification and no specific format is required, please see the online instructions <a href="http://registrar.umbc.edu/services/records/enrollment-degree-verification/" target="_blank">here</a>.</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/records-updaterequest-forms/" target="_blank">Personal  Information Update</a></li>
+  <li><a href="http://registrar.umbc.edu/forms/records-updaterequest-forms/" target="_blank">Personal  Information Update</a><br>
+  Use To update personal information including name changes and SSN information</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/course-work-forms/" target="_blank">Enroll  for Excess Credits</a></li>
+  <li><a href="http://registrar.umbc.edu/forms/course-work-forms/" target="_blank">Enroll  for Excess Credits</a><br>
+  Use to request permission to enroll in more than 19.5 credits in a Fall/Spring semester, more than 8 credits in one of the two Summer sessions, or more than 4.5 credits in a Winter session</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/enrollment-forms/" target="_blank">Inter-Institutional  Enrollment</a></li>
+  <li><a href="http://www.shadygrove.umd.edu/academics/course-sharing" target="_blank">Inter-Institutional  Enrollment</a><br>
+  Use to register for courses at other University System of Maryland institutions while paying tuition only to UMBC</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">Request  for Exception to Enrollment Policy</a></li>
+  <li><a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">Request  for Exception to Enrollment Policy</a><br>
+  Use to To request an exception to enrollment policy regarding last day to cancel, drop or withdraw due to extenuating circumstances</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">Time  Conflict Exceptions</a></li>
+  <li><a href="http://academicpolicy.umbc.edu/home/undergraduate-petitions/" target="_blank">Undergraduate Petitions</a><br>
+  Use for course repeat requests, late adds, grading method changes, etc.</li>
   
-  <li><a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">Residency Petition</a></li>
+  <li><a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">Time  Conflict Exceptions</a><br>
+  Use to register for two classes that are in a direct time conflict with each other</li>
   
-  <li><a href="http://financialaid.umbc.edu/paperforms/" target="_blank">Authorization to Disclose Information (FERPA  Release) </a></li>
+  <li><a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">Residency Petition</a><br>
+  Use to obtain the benefit of instate tuition.</li>
   
-  <li><a href="http://www.umbc.edu/uhs/forms/MandatoryImmForm.pdf" target="_blank">Mandatory UMBC Health Form</a></li>
+  <li><a href="http://financialaid.umbc.edu/paperforms/" target="_blank">Authorization to Disclose Information (FERPA  Release) </a><br>
+  Use to authorize UMBC to disclose your financial information to specific people</li>
+  
+  <li><a href="http://www.umbc.edu/uhs/forms/MandatoryImmForm.pdf" target="_blank">Mandatory UMBC Health Form</a><br>
+  Use to complete mandatory immunization requirements for enrollment at UMBC</li>
   
   <li><a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31195501" target="_blank">Foreign  Language Waiver</a></li>
   

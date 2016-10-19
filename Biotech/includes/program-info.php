@@ -78,7 +78,7 @@
       <td>Rickeysha  Jones, Program Coordinator</td>
       <td>rcjones@umbc.edu</td>
       <td>scrosby@umbc.edu, awaters@umbc.edu</td>
-      <td>https://youtu.be/w3nZ1lPVBcc</td>
+      <td></td>
       <td>The  Master of Professional Studies: Industrial/Organizational Psychology Program is  designed to provide advanced education to early/mid-career professionals in the  areas of human capital functions, personnel selection, and training and  organizational management.</td>
     </tr>
         <tr>

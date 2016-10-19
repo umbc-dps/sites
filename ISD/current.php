@@ -92,41 +92,9 @@ div.subject{background-color:#E0C586;}
   <div class="cbp-fwslider" id="cbp-fwslider">
     <ul>
 
-<!-- SLIDE ONE --> 
+
+<!-- SLIDE ONE -->    
       <li id="slide1">
-<a href="forum2016" target="_blank"><img src="http://www.umbc.edu/isd/images/forum2016.png" alt="ISD Now Forum"/></a>
-
-<div class="carousel-caption wordwrap">
-<h3>ISD Now Forum 2016</h3>
-<small>Join us for the ISD Now Forum. Dr. Will Thalheimer, a noted research-to-practice expert, will challenge us in a rapid-fire quiz show, uncovering the many pitfalls around learning.</small>
-
-<p><a href="forum2016" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
-
-<p id="captionthree"><a href="forum2016" target="_blank">ISD Now Forum 2016</a></p>
-
-</li>
-<!-- END SLIDE ONE --> 
-
-<!-- SLIDE TWO -->    
-      <li id="slide2">
-     
-                <a href="forum"><img alt="img02" src="images/current/2.jpg"></a>
-
-        <div class="carousel-caption wordwrap">
-          <h3>ISD Now Forums</h3>
-          <small>Watch videos and see photos from our annual forums.</small>
-
-          <p><a href="forum" class="btn video">Learn More</a></p>
-        </div>
-
-        <p id="captiontwo">
-          <a href="forum">ISD Now Forums</a>
-        </p>
-      </li>
-<!-- END SLIDE TWO -->
-      
-<!-- SLIDE THREE --> 
-      <li id="slide3">
         <a href="studentawards"><img alt="img01" src="images/current/1.jpg"></a>
 
         <div class="carousel-caption-right wordwrap">
@@ -140,11 +108,10 @@ div.subject{background-color:#E0C586;}
          <a href="studentawards">The Dr. J. Marvin Cook Student Award</a>
         </p>
       </li>
-<!-- END SLIDE THREE --> 
-
-
-<!-- SLIDE FOUR --> 
-      <li id="slide4">
+<!-- END SLIDE ONE -->
+      
+<!-- SLIDE TWO --> 
+      <li id="slide2">
         <a href="webinars"><img alt="img03" src="images/current/3.jpg"></a>
 
         <div class="carousel-caption wordwrap">
@@ -159,7 +126,7 @@ div.subject{background-color:#E0C586;}
          <a href="webinars">ISD Webinars</a>
         </p>
       </li>
-<!-- END SLIDE FOUR --> 
+<!-- END SLIDE TWO --> 
 
       
     </ul>

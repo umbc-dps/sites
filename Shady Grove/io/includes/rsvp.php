@@ -56,13 +56,13 @@
 <ul>
 <li class="io"><strong>I/O Psych Information Session</strong> | Wednesday, October 19, 2016 6:00PM - 7:30PM</li>
 <li class="gis"><strong>GIS  Information Session</strong> | Saturday, October 1, 2016 11:00AM - 12:30PM</li>
-<li class="cyber"><strong>Cybersecurity Information Session </strong>| Saturday, October 1, 2016 11:00AM - 12:30PM </li>
+<li class="cyber"><strong>Cybersecurity Program Director Visit </strong>| Tuesday, October 25, 2016 6:00PM - 7:30PM </li>
 </ul>
 
 <h4>Location</h4>
 <p>
 The Universities at Shady Grove<br>
-<span class="cyber">Building III (Camille Kendall Academic Center)​ Room 4230<br></span>
+<span class="cyber">Building III (Camille Kendall Academic Center)​ Conference Room 4124<br></span>
 <span class="gis">Building III (Camille Kendall Academic Center)​ Room 4206<br></span>
 <span class="io">Building III (Camille Kendall Academic Center) Room 3241<br></span>
 <a href="https://www.google.com/maps?saddr&daddr=9630+Gudelsky+Drive,+Rockville,+MD+20850&btnG=Search">9636 Gudelsky Drive, Rockville, Maryland 20850</a></p>
@@ -124,7 +124,7 @@ The Universities at Shady Grove<br>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
 <select name="entry.6" id="entry_6" aria-label="Choose a Session " aria-required="true" required><option value=""></option>
-<option value="GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM" class="gis">GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM</option> <option value="Cybersecurity Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM" class="cyber">Cybersecurity Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM</option> <option value="I/O Psych Information Session - Wednesday, October 19, 2016 6:00PM - 7:30PM" class="io">I/O Psych Information Session - Wednesday, October 19, 2016 6:00PM - 7:30PM</option></select>
+<option value="GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM" class="gis">GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM</option> <option value="Cybersecurity Program Director Visit - Tuesday, October 25, 2016 6:00PM - 7:30PM" class="cyber">Cybersecurity Program Director Visit - Tuesday, October 25, 2016 6:00PM - 7:30PM</option> <option value="I/O Psych Information Session - Wednesday, October 19, 2016 6:00PM - 7:30PM" class="io">I/O Psych Information Session - Wednesday, October 19, 2016 6:00PM - 7:30PM</option></select>
 
 <input type="hidden" name="draftResponse" value="[,,&quot;-3250447620442312080&quot;]
 ">

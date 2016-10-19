@@ -1893,28 +1893,6 @@
   </tr>
   <tr>
      <td class="subject">POLI</td>
-     <td class="classNumber">437</td>
-     <td class="course-title">International Human Rights Law</td>
-      <td class="number"><a href="" class="course-link">1131</a></td>
-     <td>&nbsp;</td>
-     <td>&nbsp;</td>
-     <td>Off Campus</td>
-     <td>Online</td>
-     <td>None</td>
-     <td>12:00AM</td>
-     <td>12:00AM</td>
-     <td></td>
-     <td>Davis, Jeffrey</td>
-     <td>POLI 437</td>
-     <td></td>
-     <td>No Prerequisite</td>
-     <td></td>
-     <td></td>
-     <td>*POLI</td>
-     <td class="syllabus"><a href="" class="syllabus-link"></a></td>
-  </tr>
-  <tr>
-     <td class="subject">POLI</td>
      <td class="classNumber">446</td>
      <td class="course-title">The Politics of Poverty and Social Welfare Policy </td>
       <td class="number"><a href="" class="course-link">1247</a></td>
@@ -1950,6 +1928,28 @@
      <td></td>
      <td>Forestiere, Carolyn</td>
      <td>POLI 469</td>
+     <td></td>
+     <td>No Prerequisite</td>
+     <td></td>
+     <td></td>
+     <td>*POLI</td>
+     <td class="syllabus"><a href="" class="syllabus-link"></a></td>
+  </tr>
+  <tr>
+     <td class="subject">POLI</td>
+     <td class="classNumber">482</td>
+     <td class="course-title">International Law</td>
+      <td class="number"><a href="" class="course-link">1269</a></td>
+     <td>&nbsp;</td>
+     <td>&nbsp;</td>
+     <td>Off Campus</td>
+     <td>Online</td>
+     <td>None</td>
+     <td>12:00AM</td>
+     <td>12:00AM</td>
+     <td></td>
+     <td>Davis, Jeffrey</td>
+     <td>POLI 482</td>
      <td></td>
      <td>No Prerequisite</td>
      <td></td>

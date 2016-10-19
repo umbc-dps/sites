@@ -208,19 +208,28 @@ $lang = 'en';
 
 
 
-<!------- Accordion 9 ------
+<!------- Accordion 9 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
-    
-    <i class="fa fa-angle-down"></i>
+    10/10/2016 - Spring Deadlines, Winter Course, Fall Reminder
     </h4>
 </div>
 <div class="accordionbody">
-    <p>Test test test test test.</p>
-</div>
-!------------------------->
+    <p><strong>Spring 2017  Enrollment Application Deadlines</strong>:<br>
+      <em>Master&rsquo;s:  November 1st</em><br>
+      <em>Certificate:  December 1st</em></p>
+    <p>Certificate students who would like to  continue taking courses after finishing their plan of study would need to apply  for either the Master&rsquo;s degree or another certificate. Be aware of the  application deadlines above. (You may also apply when you have two or three  courses completed.)</p>
+    <p>Non-Degree students wishing to take courses  after EDUC 602 would need to apply to either the certificate or Master&rsquo;s degree  program. Application deadlines above.</p>
+    <p><strong>Winter 2016  Course:</strong><br>
+      If you are looking for a Master&rsquo;s elective,  EDUC 689: Managing your Career, will be offered in the winter 2016 session. The  main objective of the course is to prepare students to advance their career  goals. (Additional information was sent out September 20, 2016, <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>) <br>
+      Winter registration begins October 24th.  (Be sure to receive authorization to register).</p>
+    <p><strong>Fall 2016  Date Reminders: </strong>(<a href="http://registrar.umbc.edu/files/2016/09/Fall-2016-Academic-Calendar_FINAL_updated-09.20.16.pdf">http://registrar.umbc.edu/files/2016/09/Fall-2016-Academic-Calendar_FINAL_updated-09.20.16.pdf</a>) <strong></strong><br>
+      Last day to withdraw from individual courses  with a grade of &ldquo;W&rdquo; = November 15th<br>
+      Last Day for a complete semester withdrawal =  December 13th (must be done via myUMBC Help Request)</p>
+    <p><strong>Holds: </strong>Will prevent you from future  registration. Make sure you do not have one and get it resolved if you do, <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450">https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450</a>. </p>
+    <p><strong>Student  Business Services:</strong> They handle  billing and payments, <a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a>. </p></div>
+
 
 
 

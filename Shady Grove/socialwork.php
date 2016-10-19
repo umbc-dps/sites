@@ -98,13 +98,15 @@ html::after {
         <ul>
 
           <!-- Slide One -->
-          <li id="slide1"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php"><img src="images/campus.png" alt="img03" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Apply Now & Get Priority Consideration</h3>
-              Submit your Common Application and official transcripts to UMBC by our October 15th priority deadline to automatically be considered for UMBC merit scholarships!
-<p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
+          <li id="slide1">
+          <a href="pat#membreno">
+          <img src="images/lorena-morales.jpg" alt="img03"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Introducing Adriana</h3>
+              Adriana is a current social work student, member of UMBC's Peer Advisory Team, and involved in UMBC's Bilingual Writing Mentor Program. Check out her advice for transfer students!
+				<p><a href="pat#membreno" role="button" class="web-seemore" target="_blank">Meet Adriana</a></p>
             </div>
-            <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Now & Get Priority Consideration</a></p>
+            <p id="captionthree"><a href="pat#membreno">Meet Adriana, Current Social Work Student</a></p>
           </li>
          <!-- END Slide One -->
          
@@ -119,7 +121,7 @@ html::after {
           </li>
          <!-- END Slide Two -->
          
-         <!-- Slide Three -->
+         <!-- Slide Three --
           <li id="slide3"><a href="pat#morales"><img src="images/lorena-morales.jpg" alt="img03"></a>
             <div class="carousel-caption-right wordwrap">
               <h3>Meet Lorena</h3>
@@ -128,7 +130,7 @@ html::after {
             </div>
             <p id="captionthree"><a href="pat#morales">Meet Lorena, Current Social Work Student</a></p>
           </li>
-	<!-- END Slide Three -->         
+	-- END Slide Three -->         
          
          </ul>
          </div>
@@ -143,7 +145,7 @@ html::after {
 <div id="accordion">
   <h3>Suggested Transfer Pathways</h3>
     <div>
-      <p>UMBC-Shady Grove has developed Suggested Transfer Pathways for students at <a href="documents/MC_SOWK_Checklist.pdf" target="_blank">Montgomery College (MC)</a> and <a href="documents/FCC_SOWK_Checklist.pdf" target="_blank">Frederick Community College (FCC)</a> who may be interested in transferring into any one of our four undergraduate programs. These documents provide an academic plan of action for transfer with recommended courses specific to each of our academic programs.</p>
+      <p>UMBC-Shady Grove has developed Suggested Transfer Pathways for students at <a href="documents/MC_SOWK_Checklist.pdf" target="_blank">Montgomery College (MC)</a> and <a href="documents/FCC_SOWK_Checklist.pdf" target="_blank">Frederick Community College (FCC)</a> who may be interested in transferring into any one of our four undergraduate programs. We have also developed recommendations for students who are transferring from <a href="documents/Recommended Checklist_SocialWork.pdf" target="_blank">other schools</a>. These documents provide an academic plan of action for transfer with recommended courses specific to each of our academic programs.</p>
       <p><em>Please note that the Suggested Transfer Pathway is not intended to serve as an official articulation agreement.</em>
       </p>
 	</div>

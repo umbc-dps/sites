@@ -14,7 +14,7 @@
 
 
       <p>UMBC I/O Psychology Virtual Info Session
-        <a class="btn video" href="https://www.youtube.com/watch?v=w3nZ1lPVBcc">Watch Video</a>
+        <a class="btn video" href="https://www.youtube.com/watch?v=ANHML0dJjYs">Watch Video</a>
       </p>
     </aside>
 

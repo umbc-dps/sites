@@ -144,19 +144,17 @@ For a campus map, directions and parking information, please click <a href="htt
 	<div class="accordionbody">
 <p>
 		<strong>History:</strong><br>
-		Wednesday, October 5, 12 p.m.<br>
 		Tuesday, November 1, 5:30 p.m.</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, October 5, 12 p.m.<br>
-  		Wednesday, October 12, 12 p.m.<br>
 		Wednesday, October 19, 12 p.m.<br>
 		Wednesday, October 26, 12 p.m.<br>
-		Wednesday, November 2, 12 p.m.</p>
+		Wednesday, November 2, 12 p.m.<br>
+		Wednesday, November 9, 12:00pm<br>
+		Wednesday, November 16, 12:00pm</p>
 	
     <p>
         <strong>Psychology:</strong><br>
-		Wednesday, October 12, 4:30 p.m. <br>
 		Thursday, November 3, 12 p.m.<br>
     </p>
 	<p>
@@ -169,19 +167,7 @@ For a campus map, directions and parking information, please click <a href="htt
         
 </div>
 
-        
-	<div class="accordionheader">
-		<h4>UMBC-Shady Grove Information Webinar<i class="fa fa-angle-down"></i></h4>
-	</div>
-    
-	<div class="accordionbody">
-<p>
-Wednesday, October 12, 2016 - 12 p.m.
-</p>
- <a href="https://attendee.gotowebinar.com/register/810559248515057154" target="_blank" class="button btn-sm">
-	    Webinar RSVP</a>
-</div>
-
+       
 
 <hr>
 </div>
@@ -212,22 +198,19 @@ For a campus map, directions and parking information, please click <a href="htt
     
 <div class="accordionbody"> 
 <p>    
-    <strong>Date:</strong> Saturday, October 1<br>
-    <strong>Time:</strong> 11 a.m. - 12:30 p.m.<br>
-    <strong>Location:</strong> Building III-4206
+Check back soon for more info session opportunities.
 </p>
-    <a href="../gis/infosession" target="_blank" class="button btn-sm">RSVP</a>
 
 </div>
 
 	<div class="accordionheader">
-		<h4>Cybersecurity Info Session<i class="fa fa-angle-down"></i></h4>
+		<h4>Cybersecurity Program Director Visit<i class="fa fa-angle-down"></i></h4>
 	</div>
     
 <div class="accordionbody"> 
 <p>   
-    <strong>Date:</strong> Saturday, October 1<br>
-    <strong>Time:</strong> 11 a.m. - 12:30 p.m.<br>
+    <strong>Date:</strong> Tuesday, October 25<br>
+    <strong>Time:</strong> 6:00 p.m. - 7:30 p.m.<br>
     <strong>Location:</strong> Building III-4230
 </p>
     <a href="../cyber/infosession" target="_blank" class="button btn-sm">RSVP</a>

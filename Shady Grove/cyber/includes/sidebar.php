@@ -1,25 +1,14 @@
 <div class="five columns">
-<aside class="five columns add-bottom" id="one">
-   <h3 style="color:#fff;">Upcoming Events</h3>
-   
-<p style="text-align:center;">
-   <strong>Fall Information Session</strong><br>
-   <small> Saturday, October 1, 2016 11:00am</small><br>
-<a href="http://www.umbc.edu/shadygrove/cyber/infosession" class="btn">RSVP</a>
-   </p>
-   
- </aside>
 
+    <aside class="five columns add-bottom" id="one">
+      <h3 style="color:#fff;">Upcoming Events</h3>
+      <p style="text-align:center">
 
-    <aside class="five columns add-bottom" id="two" style="display:none">
-      <h3 style="color:#fff;">Past Event</h3>
-
-
-      <p>UMBC Cybersecurity Virtual Info Session
-        <a class="btn video" href="https://www.youtube.com/watch?v=ecx3c_h-IgU">Watch Video</a>
+      <strong>Cybersecurity Program Director Visit</strong><br>
+      Tuesday, October 25, 2016, 6:00 PM<br>
+      <a class="btn" href="http://www.umbc.edu/shadygrove/cyber/infosession">RSVP Now</a>
       </p>
-    </aside>
-
+     </aside>
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>

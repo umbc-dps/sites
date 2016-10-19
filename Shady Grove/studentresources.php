@@ -168,12 +168,12 @@ html::after {
 .selfserviceportal{
   background: 
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('images/resources/center.jpg');
+    url('images/resources/graduation.jpg');
 }
 .selfserviceportal:hover{
   background: 
     linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-	url('images/resources/center.jpg');
+	url('images/resources/graduation.jpg');
 }
 
 .mid h4 {
@@ -253,9 +253,9 @@ html::after {
 		</a>
 
 	
-        <a href="selfserviceportal" style="text-decoration:none;color:#000">
+        <a href="commencement" style="text-decoration:none;color:#000">
         	<div class="module mid selfserviceportal">
-          		<h4>Self-Service Portal</h4>
+          		<h4>Graduation</h4>
        		</div>
 		</a>
 

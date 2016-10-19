@@ -97,7 +97,7 @@ html::after {
     <!-- Start Content -->   
       <div class="content">
       <h3>Advisors</h3>
-<p>Academic Advising at UMBC starts with an Orientation Advisor  specifically trained to help you with securing a strategic course schedule to  launch your academic career. However, once you begin your study here at  UMBC-Shady Grove, you will then have the opportunity to work with a faculty member  and/or professional advisor affiliated with your chosen academic discipline.  Please see a list of advisors per program listed below:</p>
+<p>Academic Advising at UMBC starts with an Orientation Advisor  specifically trained to help you with securing a strategic course schedule to  launch your academic career. However, once you begin your study here at  UMBC-Shady Grove, you will then have the opportunity to work with a faculty member  and/or professional advisor affiliated with your chosen academic discipline. Before making your advising appointment, check your <a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">registration eligibility</a>. Please see a list of advisors per program listed below:</p>
 
 <div class="accordionheader">
             <h4><a id="undergraduate" href="#undergraduate"></a>Undergraduate Advisors<i class="fa fa-angle-down"></i></h4>
@@ -165,10 +165,7 @@ html::after {
 </div>
 
 <br>
-<p><strong>Important note:</strong> While one faculty member or professional  advisor will provide registration clearance for you each semester, we encourage  students to seek additional academic and career planning from various members  of the UMBC academic and administrative community. High-Performing UMBC  students gather information, recommendations and guidance from a host of  faculty, advisors and administrators- keen to help them maximize the  opportunities and resources available at UMBC. Additionally, we encourage  students to actively pursue conversations and meetings with academic advisors,  faculty, and staff throughout the entire academic year. Advising sessions about  registration are certainly important, yet on-going conversations and planning  about graduate school, independent study, and/or gaining entry into a  particular profession can (and should) take place at various times and in  various formats (including email, telephone, etc.).</p>  
-
-
-<p>Before   making your advising appointment, check your <a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">registration eligibility</a>.</p>   
+<p><strong>Important note:</strong> While one faculty member or professional  advisor will provide registration clearance for you each semester, we encourage  students to seek additional academic and career planning from various members  of the UMBC academic and administrative community. High-Performing UMBC  students gather information, recommendations and guidance from a host of  faculty, advisors and administrators- keen to help them maximize the  opportunities and resources available at UMBC. Additionally, we encourage  students to actively pursue conversations and meetings with academic advisors,  faculty, and staff throughout the entire academic year. Advising sessions about  registration are certainly important, yet on-going conversations and planning  about graduate school, independent study, and/or gaining entry into a  particular profession can (and should) take place at various times and in  various formats (including email, telephone, etc.).</p>     
 
       <h3>Advising Guides</h3>
 <p>Please use the advising guides below to help you prepare for  your advising meetings and to track your progress throughout your time at  UMBC-Shady Grove:</p>
@@ -197,6 +194,50 @@ html::after {
   <li><a href="io/documents/planningform.pdf" target="_blank">Industrial Organizational Psychology</a></li>
 </ul>
 </div>
+<br>
+
+<h3>General Education Requirements and Waivers</h3>
+
+        <div class="accordionheader">
+            <h4><a id="language" href="#language"></a>Foreign Language<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody">
+      <p>UMBC requires students to complete a foreign language through the intermediate level (for Montgomery College, this is the 201-level). American Sign Language qualifies.</p>
+	  <p>Substitution options:</p>
+      <ul>
+      <li><a href="http://mlli.umbc.edu/l201-proficiency-and-high-school-language-levels/" target="_blank">High school equivalency</a></li>
+      <li><a href="http://mlli.umbc.edu/language-requirement/" target="_blank">International student proficiency</a></li>
+      <li><a href="http://catalog.umbc.edu/content.php?catoid=12&navoid=605#College-Level_Examination_Program__CLEP__Examinations" target="_blank">CLEP Exam</a></li>
+      <li><a href="http://mlli.umbc.edu/language-requirement/" target="_blank">NYU Exam</a></li>
+      </ul>
+      </div>
+      
+      <div class="accordionheader">
+            <h4><a id="pe" href="#pe"></a>PE Waivers<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody">
+          <p>There are four types of PE waivers available:</p>
+          <ol>
+          <li>Age: 30 years of age or older at the time of initial enrollment at UMBC</li>
+          <li>Six months of active service = 1.5 physical education credits</li>
+          <li>Documented medical condition or disability</li>
+          <li>Collegiate Athletic Participation: 1 year = 1.5 physical education credits</li>
+          </ol>
+          <p>All PE Waiver requests require a written memo requesting the waiver with supporting documentation (see <a href="http://www.umbc.edu/shadygrove/documents/PEWaiver.pdf" target="_blank">here</a> for a sample and documentation details). Email the memo and supporting documentation to Mr. John Jancuska, Supervisor of Physical Education, at <a href="mailto:jancuska@umbc.edu">jancuska@umbc.edu</a>.</p>
+          </div>
+
+      <div class="accordionheader">
+            <h4><a id="crosscampus" href="#crosscampus"></a>Cross-Campus Enrollment<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody">
+          <p>UMBC-Shady Grove students may enroll in courses at the UMBC-Main Campus during the summer or winter sessions. While fall and spring semester enrollment in courses at the UMBC-Main Campus is generally limited to Main-Campus students, exceptions to this practice may be considered depending upon capacity restrictions. UMBC-Shady Grove students seeking an exception to enroll in courses at the UMBC-Main Campus during the fall or spring should contact their Program Director at Shady Grove to discuss options.</p>
+          <p>UMBC-Main Campus students may enroll in courses at the UMBC-Shady Grove Campus during the summer or winter sessions. While fall and spring semester enrollment in courses at the UMBC-Shady Grove Campus is generally limited to Shady Grove students only, exceptions to this practice may be considered depending upon capacity restrictions. UMBC-Main Campus students seeking an exception to enroll in courses at the UMBC-Shady Grove Campus during the fall or spring semesters should contact the appropriate Shady Grove Program Director to discuss options.</p>
+          <p>Note: While tuition costs are equal at both campuses, each campus does have a different fee structure. This may result in varying total costs for course enrollment.</p>
+          </div>
+
 
   <br>
 

@@ -126,6 +126,7 @@ html::after {
 
       <p>For a step-by-step tool that will<strong> guide transfer students through the financial aid process</strong> and  information on <strong>UMBC scholarships  available to transfer students</strong>, please click <a href="http://financialaid.umbc.edu/transfers/" target="_blank">here</a>.</p>
       <p><strong>Every UMBC student is assigned a financial aid counselor</strong>. To contact your specific financial aid  counselor, please click <a href="http://financialaid.umbc.edu/contact/" target="_blank">here</a> for assignments by the first initial of your last name. </p>
+      <p>Need Verification? Please see Caitlin in III-4159 for assistance in verifying and submitting the documentation to your financial aid counselor.</p>
       </div>
 
       <div class="accordionheader">
@@ -143,6 +144,7 @@ html::after {
 
           <div class="accordionbody">
       <p>Student Business Services (SBS) is the office that <strong>bills students, collects tuition and fees, and issues student refunds</strong>. They process student payments, tuition remission, military waivers, and post payments to student accounts from outside agencies. For more information, including information on payment plans, accepted forms of payment, and refund processes, click <a href="http://sbs.umbc.edu/" target="_blank">here</a>.</p>
+      <p>Note: we cannot accept payments on-site at UMBC-Shady Grove</p>
       </div>
   
     </div>

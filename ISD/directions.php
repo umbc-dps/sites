@@ -86,7 +86,7 @@ $lang = 'en';
       <h4>Professional Studies Building (Behind Main Building)</h4>
 
 
-      <p>      Once in the South Campus, turn right at the main sign and go up the hill (toward 1422).&nbsp; Parking is located on the RIGHT. Once you park, walk up the hill and the Classroom Building is on your right.</p>
+      <p>      Once in the South Campus, turn right at the main sign and go up the hill (toward 1442).&nbsp; Parking is located on the RIGHT. Once you park, walk up the hill and the Classroom Building is on your right.</p>
       
       <p><strong>The address is 1442 South Rolling Road in Halethorpe, MD.</strong></p>
       

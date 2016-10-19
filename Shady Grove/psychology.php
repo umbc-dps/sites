@@ -122,16 +122,17 @@ html::after {
           </li>
          <!-- END Slide Two -->
          
-         <!-- Slide Three --
-          <li id="slide3"><a href="mailto:sgpsa-group@umbc.edu"><img src="images/PSYCHsept.jpg" alt="Psychology Monthly Meeting" target="_blank"></a>
+         <!-- Slide Three -->
+          <li id="slide3">
+          <a href="pat#cocker"><img src="images/beth-cocker.png" alt="img03"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Monthly Meeting</h3>
-              The Psychology Student Association & Tau Sigma will be hosting a joint kick-off event on Tuesday, September 20th from 11:30-1pm in III-3206. Come get involved!
-<p><a href="mailto:sgpsa-group@umbc.edu" role="button" class="web-seemore" target="_blank">Have Questions?</a></p>
+              <h3>Introducing Beth Cocker</h3>
+              Beth is a current psychology student, member of UMBC's Peer Advisory Team, and has a passion for working with special needs children.  Check out her advice for transfer students!
+				<p><a href="pat#cocker" role="button" class="web-seemore" target="_blank">Meet Beth</a></p>
             </div>
-            <p id="captionthree"><a href="mailto:sgpsa-group@umbc.edu" class="web-seemore">Have Questions?</a></p>
+            <p id="captionthree"><a href="pat#cocker">Meet Beth, Current Psychology Student</a></p>
           </li>
-	-- END Slide Three -->         
+	<!-- END Slide Three -->         
          
          </ul>
          </div>
@@ -146,7 +147,7 @@ html::after {
 <div id="accordion">
   <h3>Suggested Transfer Pathways</h3>
     <div>
-      <p>UMBC-Shady Grove has developed Suggested Transfer Pathways for students at <a href="documents/MC_PSYC_Checklist.pdf" target="_blank">Montgomery College (MC)</a> and <a href="documents/FCC_PSYC_Checklist.pdf" target="_blank">Frederick Community College (FCC)</a> who may be interested in transferring into any one of our undergraduate programs. These documents provide an academic plan of action for transfer with recommended courses specific to each of our academic programs.</p>
+      <p>UMBC-Shady Grove has developed Suggested Transfer Pathways for students at <a href="documents/MC_PSYC_Checklist.pdf" target="_blank">Montgomery College (MC)</a> and <a href="documents/FCC_PSYC_Checklist.pdf" target="_blank">Frederick Community College (FCC)</a> who may be interested in transferring into any one of our undergraduate programs. We have also developed recommendations for students who are transferring from <a href="documents/Recommended Checklist_Psychology.pdf" target="_blank">other schools</a>. These documents provide an academic plan of action for transfer with recommended courses specific to each of our academic programs.</p>
       <p><em>Please note that the Suggested Transfer Pathway is not intended to serve as an official articulation agreement.</em>
       </p>
 	</div>

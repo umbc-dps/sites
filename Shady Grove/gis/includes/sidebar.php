@@ -1,19 +1,6 @@
 <div class="five columns">
-  <aside class="five columns add-bottom" id="one">
-     <h3 style="color:#fff;">Upcoming Events</h3>
-     
-<p style="text-align:center;">
-     <strong>Fall Information Session</strong><br>
-     <small> Saturday, October 1, 2016 11:00am</small><br>
-  <a href="http://www.umbc.edu/shadygrove/gis/infosession" class="btn">RSVP</a>
-     </p>
-    
-   </aside>
 
-
-
-
-    <aside class="five columns add-bottom" id="two" style="display:none">
+    <aside class="five columns add-bottom" id="one" style="display:none">
       <h3 style="color:#fff;">Past Event</h3>
 
 

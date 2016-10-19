@@ -112,7 +112,7 @@ html::after {
           <a href="visit/pd-history" target="_blank"><img src="images/andrew-nolan.png" alt="img03"></a>
             <div class="carousel-caption-right wordwrap">
               <h3>Meet Dr. Nolan, History Program Director</h3>
-              Visit with Dr. Nolan on 10/5 to learn about our history program as well as internship and career opportunities in the history field.  Meet current history students, too!
+              Visit with Dr. Nolan on 11/1 to learn about our history program as well as internship and career opportunities in the history field.  Meet current history students, too!
 <p><a href="visit/pd-history" role="button" class="web-seemore" target="_blank">RSVP Here!</a></p>
             </div>
             <p id="captionthree"><a href="visit/pd-history" target="_blank">Meet Dr. Nolan, History Program Director</a></p>
@@ -120,18 +120,21 @@ html::after {
          <!-- END Slide Two -->
          
          
- <!---- Hide Slide Three ---------!>  
+	<!---- Hide Slide Three ---- 
        
-         <!-- Slide Three --
-          <li id="slide2"><a href="https://www.surveymonkey.com/s/2VR5G27"><img src="images/carouselsmall.png" alt="img03" target="_blank"></a>
+         
+          <li id="slide3">
+          <a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
+          <img src="images/truegrit.jpg" alt="img03">
+          </a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Event at Shady Grove</h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae quam commodo, porta orci et.
-<p><a href="" role="button" class="web-seemore" target="_blank">Attend!</a></p>
+              <h3>Apply Now & Get Priority Consideration</h3>
+              Submit your Common Application and official transcripts to UMBC by our October 15th priority deadline to automatically be considered for UMBC merit scholarships!
+<p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
             </div>
-            <p id="captionthree"><a href="" target="_blank">Event at Shady Grove</a></p>
+            <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Now & Get Priority Consideration</a></p>
           </li>
-	-- END Slide Three -->         
+	<!-- END Slide Three -->         
         
          </ul>
          </div>
@@ -148,7 +151,7 @@ html::after {
 <div id="accordion">
   <h3>Suggested Transfer Pathways</h3>
     <div>
-      <p>UMBC-Shady Grove has developed Suggested Transfer Pathways for students at <a href="documents/MC_HIST_Checklist.pdf" target="_blank">Montgomery College (MC)</a> and <a href="documents/FCC_HIST_Checklist.pdf" target="_blank">Frederick Community College (FCC)</a> who may be interested in transferring into any one of our four undergraduate programs. These documents provide an academic plan of action for transfer and a semester-by-semester outline of the recommended course progression specific to each of our academic programs.</p>
+      <p>UMBC-Shady Grove has developed Suggested Transfer Pathways for students at <a href="documents/MC_HIST_Checklist.pdf" target="_blank">Montgomery College (MC)</a> and <a href="documents/FCC_HIST_Checklist.pdf" target="_blank">Frederick Community College (FCC)</a> who may be interested in transferring into any one of our four undergraduate programs. We have also developed recommendations for students who are transferring from <a href="documents/Recommended Checklist_History.pdf" target="_blank">other schools</a>. These documents provide an academic plan of action for transfer and a semester-by-semester outline of the recommended course progression specific to each of our academic programs.</p>
       <p><em>Please note that the Suggested Transfer Pathway is not intended to serve as an official articulation agreement.</em>
       </p>
 	</div>

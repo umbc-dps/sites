@@ -83,10 +83,10 @@ $lang = 'en';
    <li>Personal statement outlining the student's goals and expectations of the program.  Statement should include applicant’s background, qualifications, career experience, and  any additional pertinent information.</li>
    <li>Minimum undergraduate GPA of 3.0 on 4.0 scale, or equivalent, is desired.  Applicants with grades on a scale other than 4.0, will be evaluated based on standards for the country of their degree.</li>
    <li>GRE scores are not required for admission.</li>
-   <li>TOEFL Scores: Minimum scores: 99 (iBT).  iBT Score Breakdown: Writing (23), Listening (23), Reading (25), Speaking (28, 23 acceptable if have 2 years' work experience in supervisory or management position in the U.S.) OR IELTS Score: Minimum score of 7.5 required.</li>
+   <li>	Test of English as a Foreign Language (TOEFL) Scores: Minimum scores 597 (Written), 247 (computerized), 99 (Internet Based test-iBT). </li>
    		<ul>
         	<li>Scores must be less than 2 years old.</li>
-			<li>Students who receive a TOEFL score between 80 and 90 will be considered for conditional admissions.</li>
+			<li>Applicants not meeting the program TOEFL (or IELTS) requirements may be eligible for conditional admission.</li>
         </ul>
 
  </ul>

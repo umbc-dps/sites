@@ -128,7 +128,7 @@
 </div>
 <div class="content-details right">
 <a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/">&raquo;</a>
-<div class="title">Parking Update</div>
+<div class="title">Academic Advising/Registration Prep</div>
 <div class="tagline">Are you prepared to meet with your advisor and receive advising clearance? Review your degree audit and make note of any questions or concerns you have, then schedule an appointment with your advisor.</div>
 <a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">Registration Schedule</a>
 </div>
@@ -151,15 +151,15 @@
 
 
 <div class="panel panel-4">
-<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
+<a href="openhouse" target="_blank">
 <div class="image mobile-center">
-<img src="images_homepage/truegrit.jpg" alt="3">
+<img src="images_homepage/smiling.jpg" alt="3">
 </div>
-<div class="content-details right">
-<a class="mobile-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">&raquo;</a>
-<div class="title">October 15th is Approaching!</div>
-<div class="tagline">Don't forget to apply and submit your official transcripts by our undergraduate priority deadline of October 15th to automatically be considered for UMBC merit scholarships!</div>
-<a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Today!</a>
+<div class="content-details">
+<a class="mobile-seemore" href="openhouse" target="_blank">&raquo;</a>
+<div class="title">RSVP for USG's Undergraduate Open House!</div>
+<div class="tagline">USG's Undergraduate Open House is on Saturday, October 29, 9:00am-12:00pm!  Meet Program Directors, receive help with your Common Application, and learn more about the transfer process!</div>
+<a class="web-seemore" href="openhouse" target="_blank">RSVP Today!</a>
 </div>
 </a>
 </div>
@@ -197,7 +197,7 @@
 <li class="item-1"><img src="images_homepage/io-small.jpg" alt="2"></li>
 <li class="item-2"><img src="images_homepage/registered_sm.jpg" alt="1"></li>
 <li class="item-3"><img src="images_homepage/parking.jpg" alt="4"></li>
-<li class="item-4"><img src="images_homepage/truegrit_sm.jpg" alt="3"></li>
+<li class="item-4"><img src="images_homepage/smiling_tmb.jpg" alt="3"></li>
 <!-- Hide Preview Images --
 <li class="item-5"><img src="images_homepage/5_tmb.jpg" alt="5"></li>
 <li class="item-6"><img src="images_homepage/6_tmb.jpg" alt="6"></li>
@@ -282,6 +282,7 @@
 <a href="http://my.umbc.edu"><img src="images_homepage/cs_myumbc.jpg" alt="myUMBC thumbnail"></a>
 <p>
 	<a href="http://my.umbc.edu" target="_blank">myUMBC</a><br>
+    <a href="https://wiki.umbc.edu/display/faq/Blackboard" target="_blank">Blackboard</a><br>
     <a href="http://www.shadygrove.umd.edu/library" target="_blank">Priddy Library</a><br>
 	<a href="http://registrar.umbc.edu/academic-calendar/" target="_blank">Academic Calendar</a><br>
 	<a href="http://shadygrove.bncollege.com/webapp/wcs/stores/servlet/TBWizardView?catalogId=10001&langId=-1&storeId=39051" target="_blank">Textbooks</a><br>
