@@ -73,12 +73,15 @@
     <td>https://youtu.be/BNddZw1flAY</td>
     <td>UMBC&rsquo;s  Geographic Information Systems programs are designed for early to mid-career  professionals interested in an understanding of GIS that goes beyond &ldquo;GIS as a  tool for analysis.&rdquo; This forward-looking curriculum is developing the next  generation of GIS professionals: those who have a fundamental understanding of  the importance of geography as well as an advanced knowledge of the  technologies involved in the end-to-end development of advanced Geographic  Information Systems.</td>
   </tr>
-    <tr>
-      <td>io</td>
-      <td>Rickeysha  Jones, Program Coordinator</td>
+    <tr>      <td>io</td>
+
+      <td>Rickeysha Jones, Program Coordinator</td>
+
       <td>rcjones@umbc.edu</td>
+
       <td>scrosby@umbc.edu, awaters@umbc.edu</td>
-      <td></td>
+
+      <td>https://youtu.be/ANHML0dJjYs</td>
       <td>The  Master of Professional Studies: Industrial/Organizational Psychology Program is  designed to provide advanced education to early/mid-career professionals in the  areas of human capital functions, personnel selection, and training and  organizational management.</td>
     </tr>
         <tr>

@@ -64,52 +64,63 @@
 
          <!-- Slide One  -->
           
-          <li id="slide1"> <a href="#"><img src="images/9.jpg" alt="Winter Tutoring" target="_blank"></a>
+          <li id="slide1">
+           <a href="all-courses">
+           <img src="images/9.jpg" alt="Winter Tutoring" target="_blank">
+           </a>
             <div class="carousel-caption-right wordwrap">
               <h3>Winter Session Schedule is Now Live!</h3>
-              <a href="all-courses" role="button" class="web-seemore" target="_blank">Learn More</a></p>
-          </li>
-          
-          <!-- END Slide One --> 
-                    
-          <!-- Slide One 
-          
-          <li id="slide1"> <a href="academicsupport"><img src="images/1.jpg" alt="Winter Tutoring" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Academic Support</h3>
-              <small>The LRC will be offering tutoring for most Science and Math courses as well as for any Written Paper.</small>
-              <p><a href="academicsupport" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+              <small>View all courses available this Winter!</small>
+              <p><a href="scholarships" role="button" class="web-seemore" target="_blank">View Courses</a></p>
             </div>
-            <p id="captiontwo"><a href="academicsupport" target="_blank">Academic Support</a></p>
+            <p id="captionone">
+            <a href="all-courses" target="_blank">Winter Session Schedule is Now Live!</a>
+            </p>
           </li>
+          
           
           <!-- END Slide One --> 
           
-          <!-- Slide Two 
+         <!-- Slide Two  -->
           
-          <li id="slide2"> <a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus"><img src="images/food.jpg" alt="Where to Eat?" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Winter Dining Guide</h3>
-              <small>Time for a break? Find our where and when to dine on campus this winter.</small>
-              <p><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+          <li id="slide2">
+           <a href="scholarships"><img src="images/10.jpg" alt="Financial Aid & Scholarships" target="_blank"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Financial Aid & Scholarships</h3>
+              <small>Learn about opportunities for financial aid & scholarships for Winter Session.</small>
+              <p><a href="scholarships" role="button" class="web-seemore" target="_blank">Learn more</a></p>
             </div>
-            <p id="captiontwo"><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=menus" target="_blank">Where to Eat?</a></p>
+            <p id="captiontwo"><a href="scholarships" target="_blank">Financial Aid & Scholarships</a></p>
           </li>
           
           <!-- END Slide Two --> 
+                    
+          <!-- Slide Three -->
           
-          <!-- Slide Three 
-          
-          <li id="slide3"> <a href="events"><img src="images/events.jpg" alt="Winter Events" target="_blank"></a>
+          <li id="slide3">
+           <a href="http://gritgoing.umbc.edu/?p=1107"><img src="images/featured/mcs370.jpg" alt="Featured Course: Sports Production" target="_blank"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Winter Events</h3>
-              <small>There's more to winter at UMBC than what happens in the classroom. Have fun, and be part of a dynamic learning community while you learn.</small>
-              <p><a href="events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+              <h3>Featured Course: Sports Production</h3>
+              <small>Earn credits and learn the basics of collegiate sports production and promotion.</small>
+              <p><a href="http://gritgoing.umbc.edu/?p=1107" role="button" class="web-seemore" target="_blank">Learn more</a></p>
             </div>
-            <p id="captiontwo"><a href="/winter/events" target="_blank">Winter Events</a></p>
+            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1107" target="_blank">Featured Course: Sports Production</a></p>
           </li>
           
-          <!-- END Slide Three -->
+          <!-- END Slide Three --> 
+          
+          <!-- Slide Four -->
+          
+          <li id="slide4"> <a href="http://gritgoing.umbc.edu/?p=1013"><img src="images/featured/AMST352.jpg" alt="Featured Course: American Culture in a Global Perspective" target="_blank"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Featured Course: American Culture in a Global Perspective<br> (AMST 352)</h3>
+              <small>Examine how and why American culture impacts the rest of the world. (Course fulfills Arts & Humanities or Culture GEP).</small>
+              <p><a href="http://gritgoing.umbc.edu/?p=1013" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+            </div>
+            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1013" target="_blank">Featured Course: American Culture in a Global Perspective</a></p>
+          </li>
+          
+          <!-- END Slide Four -->
           
         </ul>
         <div id="dotcontainer"></div>

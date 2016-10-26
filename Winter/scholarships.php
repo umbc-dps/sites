@@ -178,6 +178,7 @@ out-of-state tuition charges.</li>
             <div class="accordionbody">
               <ul>
                 <li class="remove">The deadline for eligible UMBC degree-seeking students to apply online is <strong>December 2, 2016</strong>.</li>
+                <li class="remove">Emails will be sent no later than <strong>Friday, December 9</strong> to inform applicants if they have received a winter session scholarship.</li>
                 <li class="remove">Applications that do not meet the minimum qualifications and requirements (listed above) will not be considered by the Scholarship Review Committee.</li>
                 <li class="remove">All decisions by the Scholarship Review Committee are final.</li>
               </ul>

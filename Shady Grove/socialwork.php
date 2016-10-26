@@ -99,38 +99,27 @@ html::after {
 
           <!-- Slide One -->
           <li id="slide1">
-          <a href="pat#membreno">
-          <img src="images/lorena-morales.jpg" alt="img03"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Introducing Adriana</h3>
-              Adriana is a current social work student, member of UMBC's Peer Advisory Team, and involved in UMBC's Bilingual Writing Mentor Program. Check out her advice for transfer students!
-				<p><a href="pat#membreno" role="button" class="web-seemore" target="_blank">Meet Adriana</a></p>
-            </div>
-            <p id="captionthree"><a href="pat#membreno">Meet Adriana, Current Social Work Student</a></p>
-          </li>
-         <!-- END Slide One -->
-         
-          <!-- Slide Two -->
-          <li id="slide2"><a href="mailto:swsa-usg@umbc.edu"><img src="images/sowk-meeting.jpg" alt="Caroline Tice" target="_blank"></a>
+          <a href="mailto:swsa-usg@umbc.edu"><img src="images/socialwork2.jpg" alt="Caroline Tice" target="_blank"></a>
             <div class="carousel-caption-right wordwrap">
               <h3>SWSA Monthly Meeting</h3>
-             Discuss upcoming activities & events to support our school and the community. This is a great, fun way to get involved in the community & be active on campus while making a difference!
+             Discuss upcoming activities & events to support our school and the community on 11/1 and 11/4. This is a great, fun way to get involved in the community & be active on campus while making a difference!
 <p><a href="mailto:swsa-usg@umbc.edu" role="button" class="web-seemore" target="_blank">Contact SWSA</a></p>
             </div>
             <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu" target="_blank">SWSA Monthly Meeting</a></p>
           </li>
-         <!-- END Slide Two -->
+         <!-- END Slide One -->
          
-         <!-- Slide Three --
-          <li id="slide3"><a href="pat#morales"><img src="images/lorena-morales.jpg" alt="img03"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Meet Lorena</h3>
-              Lorena is a current social work student, member of UMBC's Peer Advisory Team, and is involved in USG's Leadership for Social Change Program. Check out her advice for transfer students!
-				<p><a href="pat#morales" role="button" class="web-seemore" target="_blank">Meet Lorena</a></p>
+         <!-- Slide Three -->
+          <li id="slide3">
+          <a href="mailto:swsa-usg@umbc.edu"><img src="images/social-work.jpg" alt="img03"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Phi Alpha & SWSA Host: SOWK Grad Panel!</h3>
+              This is a great opportunity to learn about the various MSW programs in our area. Friday, October 28th from 12:00PM-1:00PM in III-2220. Food & drinks provided! 
+				<p><a href="mailto:swsa-usg@umbc.edu" role="button" class="web-seemore" target="_blank">Have Questions?</a></p>
             </div>
-            <p id="captionthree"><a href="pat#morales">Meet Lorena, Current Social Work Student</a></p>
+            <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu">Phi Alpha & SWSA Host: SOWK Grad Panel!</a></p>
           </li>
-	-- END Slide Three -->         
+	<!-- END Slide Three -->         
          
          </ul>
          </div>

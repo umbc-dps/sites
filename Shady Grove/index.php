@@ -107,15 +107,15 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="visit/#grad" target="_blank">
+<a href="http://www.shadygrove.umd.edu/gradopenhouse" target="_blank">
 <div class="image mobile-center">
 <img src="images_homepage/io.jpg" alt="Two">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="visit/#grad" target="_blank">&raquo;</a>
-<div class="title">Learn more about our Graduate Programs</div>
-<div class="tagline">Visit one of our upcoming graduate events! Our I/O Psychology information session on Wednesday, October 19th at 6 PM or Meet our Cybersecurity Program Director on Tuesday, October 25 at 6 PM.</div>
-<a class="web-seemore" href="visit/#grad" target="_blank">RSVP Now!</a>
+<a class="mobile-seemore" href="http://www.shadygrove.umd.edu/gradopenhouse" target="_blank">&raquo;</a>
+<div class="title">USG's Graduate Student Open House</div>
+<div class="tagline">Stop by USG's Graduate Student Open House on Monday, November 7 at 6 PM to hear details about all of UMBC's programs at Shady Grove!</div>
+<a class="web-seemore" href="http://www.shadygrove.umd.edu/gradopenhouse" target="_blank">RSVP Now!</a>
 </div>
 </a>
 </div>
@@ -355,13 +355,13 @@
 
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
-<li><a href="https://attendee.gotowebinar.com/register/810559248515057154" target="_blank">Wednesday, October 12, 12 p.m.</a></li>
 <li><a href="visit/infosession" target="_blank">Saturday, October 29, 12:30 p.m.</a></li>
+<li><a href="visit/infosession" target="_blank">Thursday, November 17 3:00 p.m.</a></li>
 </ul>
 
 <p class="date">Graduate Information Sessions</p>
 <ul>
-<li><a href="io/infosession" target="_blank">Industrial/Organizational Psychology: October 19, 6 p.m.</a></li>
+<li><a href="cyber/infosession" target="_blank">Cybersecurity Program Director Visit: October 25, 6 p.m.</a></li>
 </ul>
 <!-- INCLUDE FOR EVENTS -->
 

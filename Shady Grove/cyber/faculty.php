@@ -93,9 +93,8 @@ $lang = 'en';
   M.S. George Washington University<br>
   CNSS 4011 Certified</p>
 
-  <p>Ben Shariati is a technology and business executive with over 20 years of experience, specializing in international organizations. Currently, Mr. Shariati is the Director of INFOSEC at SEATEC, Inc. in Gaithersburg, MD.  In this role, he provides executive leadership and is responsible for all aspects of strategic IT planning, implementation and support worldwide as an integral component of business plan. Prior to this position, Mr. Shariati was the Manager of End-User Technology at Barents KPMG in Washington, D.C. and a Systems Specialist at NCSI in Rockville, MD.</p>
-
-  <p>Mr. Shariati received his M.S. in Engineering Management and is a Ph.D. candidate in Information Assurance/Cyber Security at George Washington University.  Additionally, he is an adjunct professor in the School of Engineering and Applied Science at George Washington University.</p>
+  <p>Dr. Shariati has been working and teaching in the field of Cybersecurity for 20 years. He completed his master’s and Ph.D. at the George Washington University in Systems Engineering with a concentration in Security. Currently, Dr. Shariati is UMBC’s Cybersecurity Graduate Program Director at the Universities at Shady Grove campus.</p>
+  <p>Professionally, Dr. Shariati’s focus is Cybersecurity and serves as head of a global cybersecurity firm providing support worldwide to the United Nations' environment. Also, he has provided Cybersecurity advisement to the private sector in the areas of security policy, disaster recovery plans, and compliance to ensure that Cybersecurity’s best practices are utilized prior to product delivery. His areas of expertise include Cybersecurity risk management, Enterprise Cybersecurity architecture, Network Defense, Cybersecurity Operations, Insider Threats, Active Defense, and Cybersecurity training and education.</p>
 </div>
 
 <div class="accordionheader">
@@ -148,6 +147,17 @@ $lang = 'en';
   <p>Since starting at the NCCoE in August 2013, Mike has been the program manager for the center&rsquo;s activities involving the financial sector. Mike collaborates with members of the financial sector and security vendors to develop solutions to complex cybersecurity problems.</p>
   <p>Mike has been working in cybersecurity since 2000 and in other computer related fields since 1989. He has held positions in management, development, testing and support. Mike has a bachelor&rsquo;s degree in Computer Science from the University of Maryland and a master&rsquo;s degree in Telecommunications and Computers from the George Washington University. Mike has focused on wireless network security since 2003 and has tested devices, written software, developed architectures and installed components.</p>
 </div>
+
+
+<div class="accordionheader">
+  <h4>Armin Tadayon | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p>Mr. Tadayon has a B.A. in Government and International Politics from George Mason University, and a M.P.S. in Cybersecurity from UMBC. Additionally, he has a J.D. with a concentration in Homeland and National Security Law from George Mason University School of Law. While at GMU Law, he served as a co-founder and an Articles Editor for the National Security Law Journal. He has practiced law in Virginia, and is a member of the District of Columbia Bar.
+  </p>
+</div>
+
 
 <div class="accordionheader">
   <h4>Don Tobin | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>

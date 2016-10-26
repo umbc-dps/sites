@@ -147,7 +147,6 @@ For a campus map, directions and parking information, please click <a href="htt
 		Tuesday, November 1, 5:30 p.m.</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, October 19, 12 p.m.<br>
 		Wednesday, October 26, 12 p.m.<br>
 		Wednesday, November 2, 12 p.m.<br>
 		Wednesday, November 9, 12:00pm<br>
@@ -183,13 +182,11 @@ For a campus map, directions and parking information, please click <a href="htt
 		<h4>Industrial/Organizational Psychology Info Session<i class="fa fa-angle-down"></i></h4>
 	</div>
     
-<div class="accordionbody">  
-<p>   
-    <strong>Date:</strong> Wednesday, October 19<br>
-    <strong>Time:</strong> 6 p.m. - 7:30 p.m.<br>
-    <strong>Location:</strong> Building III-3241
+<div class="accordionbody"> 
+<p>    
+Check back soon for more info session opportunities.
 </p>
-    <a href="../io/infosession" target="_blank" class="button btn-sm">RSVP</a>
+
 </div>
 
 	<div class="accordionheader">

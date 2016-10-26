@@ -77,23 +77,6 @@ $lang = 'en';
 <!-- SLIDE ONE -->
 <li id="slide1">
 
-<a href="http://www.umbc.edu/shadygrove/io/infosession"  target="_blank"><img alt="img02" src="images/infosession.png"target="_blank"></a>
-
-<div class="carousel-caption wordwrap">
-<h3>I/O Psychology Information Session</h3>
-<small>Visit us to learn more about our Master's program in Rockville, MD.</small>
-
-<p><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
-
-<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank">I/O Psych Info Session</a></p>
-
-</li>
-<!-- END SLIDE ONE -->
-
-
-<!-- SLIDE TWO --> 
-<li id="slide2">
-      
 <a href="https://www.youtube.com/watch?v=CocQf9ZAbFE" class="video"><img alt="img02" src="images/alumni/luo.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
@@ -105,12 +88,12 @@ $lang = 'en';
 <p id="captiontwo"><a href="https://www.youtube.com/watch?v=CocQf9ZAbFE" class="video">I/O Alumnus: Jennifer Luo</a></p>
 
 </li>
+<!-- END SLIDE ONE -->
 
-<!-- END SLIDE TWO --> 
 
-<!-- SLIDE THREE -->
-<li id="slide3">
-
+<!-- SLIDE TWO --> 
+<li id="slide2">
+      
 <a href="http://www.umbc.edu/shadygrove/io/advisoryboard"  target="_blank"><img alt="img02" src="images/2.jpg"target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
@@ -122,10 +105,11 @@ $lang = 'en';
 <p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/advisoryboard" target="_blank">Meet the Board</a></p>
 
 </li>
-<!-- END SLIDE THREE -->
 
-<!-- SLIDE FOUR -->
-<li id="slide4">
+<!-- END SLIDE TWO --> 
+
+<!-- SLIDE THREE -->
+<li id="slide3">
 
 <a href="http://www.umbc.edu/shadygrove/io/faculty.php"  target="_blank">
 	<img alt="img02" src="images/Lasson.jpg"target="_blank">
@@ -140,7 +124,7 @@ $lang = 'en';
 <p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/faculty.php">Meet Our New Graduate Program Director</a></p>
 
 </li>
-<!-- END SLIDE FOUR -->
+<!-- END SLIDE THREE -->
       
     </ul>
 

@@ -97,33 +97,18 @@ html::after {
 
           <!-- Slide One -->
           <li id="slide1">
-          <a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
-          <img src="images/truegrit.jpg" alt="img03">
-          </a>
+                    <a href="visit/pd-psychology"><img src="images/alonso-students.jpg" alt="img03" target="_blank"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Apply Now & Get Priority Consideration</h3>
-              Submit your Common Application and official transcripts to UMBC by our October 15th priority deadline to automatically be considered for UMBC merit scholarships!
-<p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
+              <h3>Meet Dr. Alonso &amp; Psychology Students!</h3>
+              Visit with Dr. Alonso on 11/3 to learn about our psychology program as well as research, internship, and career opportunities.  Meet current psychology students, too!
+<p><a href="visit/pd-psychology" role="button" class="web-seemore" target="_blank">Reserve your spot today!</a></p>
             </div>
-            <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Now & Get Priority Consideration</a></p>
+            <p id="captionthree"><a href="visit/pd-psychology" target="_blank">Meet Dr. Alonso &amp; Psychology Students!</a></p>
           </li>
          <!-- END Slide One -->
          
           <!-- Slide Two -->
           <li id="slide2">
-                    <a href="visit/pd-psychology"><img src="images/alonso-students.jpg" alt="img03" target="_blank"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Meet Dr. Alonso & psychology students!</h3>
-              Visit with Dr. Alonso on Wed., October 12th at 4:30pm to learn about our psychology program as well as research, internship, and career opportunities.  Meet current psychology students, too!
-<p><a href="visit/pd-psychology" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
-            </div>
-            <p id="captionthree"><a href="visit/pd-psychology" target="_blank">Meet Dr. Alonso & psychology students!</a></p>
-            
-          </li>
-         <!-- END Slide Two -->
-         
-         <!-- Slide Three -->
-          <li id="slide3">
           <a href="pat#cocker"><img src="images/beth-cocker.png" alt="img03"></a>
             <div class="carousel-caption-right wordwrap">
               <h3>Introducing Beth Cocker</h3>
@@ -131,9 +116,25 @@ html::after {
 				<p><a href="pat#cocker" role="button" class="web-seemore" target="_blank">Meet Beth</a></p>
             </div>
             <p id="captionthree"><a href="pat#cocker">Meet Beth, Current Psychology Student</a></p>
+            
           </li>
-	<!-- END Slide Three -->         
+         <!-- END Slide Two -->
          
+      
+          <!-- Slide Three -->
+          <li id="slide3">
+          <a href="https://www.youtube.com/watch?v=E4ggw7wIErE" class="video"><img src="images/gradpsych.png" alt="img03"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Interested in Attending Graduate School?</h3>
+             Hear from Dr. Deluty, Associate Dean of UMBC's Graduate School, as he provides a wealth of information on psychology graduate programs!
+				<p><a href="https://www.youtube.com/watch?v=E4ggw7wIErE" role="button" class="web-seemore video" target="_blank">Watch Video</a></p>
+            </div>
+            <p id="captionthree"><a href="https://www.youtube.com/watch?v=E4ggw7wIErE" class="video">Interested in Attending Graduate School?</a></p>
+            
+          </li>
+         <!-- END Slide Three -->
+         
+                  
          </ul>
          </div>
 

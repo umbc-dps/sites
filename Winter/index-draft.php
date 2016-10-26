@@ -64,53 +64,30 @@
 
          <!-- Slide One  -->
           
-          <li id="slide1"> <a href="#"><img src="images/9.jpg" alt="Winter Tutoring" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Winter Session Schedule is Now Live!</h3>
-              <a href="all-courses" role="button" class="web-seemore" target="_blank">Learn More</a></p>
+          <li id="slide1"> <a href="scholarships"><img src="images/10.jpg" alt="Financial Aid & Scholarships" target="_blank"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Financial Aid & Scholarships</h3>
+              <small>Learn about opportunities for financial aid & scholarships for Winter Session.</small>
+              <p><a href="scholarships" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+            </div>
+            <p id="captiontwo"><a href="scholarships" target="_blank">Financial Aid & Scholarships</a></p>
           </li>
           
           <!-- END Slide One --> 
                     
           <!-- Slide Two -->
           
-          <li id="slide2"> <a href=" http://gritgoing.umbc.edu/?p=1037"><img src="images/featured/GWST290.jpg" alt="Featured Course: Issues in Women's Health" target="_blank"></a>
+          <li id="slide2"> <a href="http://gritgoing.umbc.edu/?p=1107"><img src="images/featured/mcs370.jpg" alt="Featured Course: Sports Production" target="_blank"></a>
             <div class="carousel-caption-right wordwrap">
-              <h3>Featured Course: Issues in Women's Health<br> (GWST 290)</h3>
-              <small>This winter, learn about the health issues that occur during the various phases of women’s lives.</small>
-              <p><a href=" http://gritgoing.umbc.edu/?p=1037" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+              <h3>Featured Course: Sports Production</h3>
+              <small>Earn credits and learn the basics of collegiate sports production and promotion.</small>
+              <p><a href="http://gritgoing.umbc.edu/?p=1107" role="button" class="web-seemore" target="_blank">Learn more</a></p>
             </div>
-            <p id="captiontwo"><a href=" http://gritgoing.umbc.edu/?p=1037" target="_blank">Featured Course: Issues in Women's Health</a></p>
+            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1107" target="_blank">Featured Course: Sports Production</a></p>
           </li>
           
           <!-- END Slide Two --> 
           
-          <!-- Slide Three -->
-          
-          <li id="slide3"> 
-          <a href="http://gritgoing.umbc.edu/?p=1024"><img src="images/featured/GES102.jpg" alt="Where to Eat?" target="_blank"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Featured Course: Human Geography (GES 102)</h3>
-              <small>Fulfill an Arts & Humanities or Culture GEP this winter, and explore the distributions of human acitivites.</small>
-              <p><a href="http://gritgoing.umbc.edu/?p=1024s" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-            </div>
-            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1024" target="_blank">Featured Course: Human Geography</a></p>
-          </li>
-          
-          <!-- END Slide Three --> 
-          
-          <!-- Slide Three 
-          
-          <li id="slide3"> <a href="events"><img src="images/events.jpg" alt="Winter Events" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Winter Events</h3>
-              <small>There's more to winter at UMBC than what happens in the classroom. Have fun, and be part of a dynamic learning community while you learn.</small>
-              <p><a href="events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-            </div>
-            <p id="captiontwo"><a href="/winter/events" target="_blank">Winter Events</a></p>
-          </li>
-          
-          <!-- END Slide Three -->
           
         </ul>
         <div id="dotcontainer"></div>

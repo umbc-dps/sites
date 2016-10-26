@@ -1,5 +1,4 @@
 <h5 class="poli">
-Wednesday, October 19 - 12:00pm<br>
 Wednesday, October 26 - 12:00pm<br>
 Wednesday, November 2 - 12:00pm<br>
 Wednesday, November 9 - 12:00pm<br>
