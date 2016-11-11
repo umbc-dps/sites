@@ -107,59 +107,44 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://www.shadygrove.umd.edu/gradopenhouse" target="_blank">
-<div class="image mobile-center">
-<img src="images_homepage/io.jpg" alt="Two">
-</div>
-<div class="content-details right">
-<a class="mobile-seemore" href="http://www.shadygrove.umd.edu/gradopenhouse" target="_blank">&raquo;</a>
-<div class="title">USG's Graduate Student Open House</div>
-<div class="tagline">Stop by USG's Graduate Student Open House on Monday, November 7 at 6 PM to hear details about all of UMBC's programs at Shady Grove!</div>
-<a class="web-seemore" href="http://www.shadygrove.umd.edu/gradopenhouse" target="_blank">RSVP Now!</a>
-</div>
-</a>
-</div>
-
-
-<div class="panel panel-2">
 <a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
 <div class="image mobile-left">
-	<img src="images_homepage/registered.jpg" alt="One">
+	<img src="images_homepage/Register1020x480.png" alt="One">
 </div>
 <div class="content-details right">
 <a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/">&raquo;</a>
-<div class="title">Academic Advising/Registration Prep</div>
-<div class="tagline">Are you prepared to meet with your advisor and receive advising clearance? Review your degree audit and make note of any questions or concerns you have, then schedule an appointment with your advisor.</div>
-<a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">Registration Schedule</a>
+<div class="title">Spring 2017 Registration</div>
+<div class="tagline">Spring 2017 registration has begun! If you haven't already, take the first step: Meet with your advisor to discuss your classes and receive clearance to register!   </div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/advising" target="_blank">Contact Advisor</a>
 </div>
 </a>
 </div>
 
+<div class="panel panel-2">
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">
+<div class="image mobile-center">
+<img src="images_homepage/truegrit.jpg" alt="Two">
+</div>
+<div class="content-details right">
+<a class="mobile-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">&raquo;</a>
+<div class="title">Apply Now for our Graduate Programs</div>
+<div class="tagline">Want to become a UMBC Retriever? We are now accepting applications for Cybersecurity, GIS, and IO Psychology!</div>
+<a class="web-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now!</a>
+</div>
+</a>
+</div>
 
 
 <div class="panel panel-3">
-<a href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">
-<div class="image mobile-right"><img src="images_homepage/parking.jpg" alt="4"></div>
-<div class="content-details left">
-<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">&raquo;</a>
-<div class="title">Parking Update</div>
-<div class="tagline">Have you heard? Parking gates are going in now and will be activated the week of 10/10. Be sure to be parking in the appropriate lots on campus and have your gate card ready to enter the garages.  </div>
-<a class="web-seemore" href="https://www.shadygrove.umd.edu/about/visit/parking" target="_blank">Parking Policies</a>
-</div>
-</a>
-</div>
-
-
-<div class="panel panel-4">
-<a href="openhouse" target="_blank">
+<a href="visit/infosession" target="_blank">
 <div class="image mobile-center">
-<img src="images_homepage/smiling.jpg" alt="3">
+<img src="images_homepage/student_group.png" alt="3">
 </div>
 <div class="content-details">
-<a class="mobile-seemore" href="openhouse" target="_blank">&raquo;</a>
-<div class="title">RSVP for USG's Undergraduate Open House!</div>
-<div class="tagline">USG's Undergraduate Open House is on Saturday, October 29, 9:00am-12:00pm!  Meet Program Directors, receive help with your Common Application, and learn more about the transfer process!</div>
-<a class="web-seemore" href="openhouse" target="_blank">RSVP Today!</a>
+<a class="mobile-seemore" href="visit/infosession" target="_blank">&raquo;</a>
+<div class="title">RSVP for an Undergraduate Info Session!</div>
+<div class="tagline">Attend one of our monthly Information Sessions to learn about the application, admission, and overall transfer process to UMBC-Shady Grove.  Meet Peer Advisory Team members and take a tour of campus!</div>
+<a class="web-seemore" href="visit/infosession" target="_blank">RSVP Today!</a>
 </div>
 </a>
 </div>
@@ -194,10 +179,9 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/io-small.jpg" alt="2"></li>
-<li class="item-2"><img src="images_homepage/registered_sm.jpg" alt="1"></li>
-<li class="item-3"><img src="images_homepage/parking.jpg" alt="4"></li>
-<li class="item-4"><img src="images_homepage/smiling_tmb.jpg" alt="3"></li>
+<li class="item-1"><img src="images_homepage/registered_sm.jpg" alt="1"></li>
+<li class="item-2"><img src="images_homepage/truegrit_sm.jpg" alt="2"></li>
+<li class="item-3"><img src="images_homepage/student_group_sm.png" alt="3"></li>
 <!-- Hide Preview Images --
 <li class="item-5"><img src="images_homepage/5_tmb.jpg" alt="5"></li>
 <li class="item-6"><img src="images_homepage/6_tmb.jpg" alt="6"></li>
@@ -359,10 +343,12 @@
 <li><a href="visit/infosession" target="_blank">Thursday, November 17 3:00 p.m.</a></li>
 </ul>
 
+<!--
 <p class="date">Graduate Information Sessions</p>
 <ul>
 <li><a href="cyber/infosession" target="_blank">Cybersecurity Program Director Visit: October 25, 6 p.m.</a></li>
 </ul>
+--->
 <!-- INCLUDE FOR EVENTS -->
 
 <p class="last-child"><a href="visit" class="moreevent first-child last-child"><strong>More events &gt;&gt;&gt;</strong></a></p>

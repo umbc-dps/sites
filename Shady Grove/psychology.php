@@ -97,32 +97,20 @@ html::after {
 
           <!-- Slide One -->
           <li id="slide1">
-                    <a href="visit/pd-psychology"><img src="images/alonso-students.jpg" alt="img03" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Meet Dr. Alonso &amp; Psychology Students!</h3>
-              Visit with Dr. Alonso on 11/3 to learn about our psychology program as well as research, internship, and career opportunities.  Meet current psychology students, too!
-<p><a href="visit/pd-psychology" role="button" class="web-seemore" target="_blank">Reserve your spot today!</a></p>
+          <a href="pat#noy"><img src="images/beth-cocker.png" alt="img03"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Introducing 
+              Ashley Noy</h3>
+              Ashley is a current psychology student, member of UMBC's Peer Advisory Team, and enjoys being involved on campus. Check out her advice for transfer students!
+				<p><a href="pat#noy" role="button" class="web-seemore" target="_blank">Meet Ashley</a></p>
             </div>
-            <p id="captionthree"><a href="visit/pd-psychology" target="_blank">Meet Dr. Alonso &amp; Psychology Students!</a></p>
+            <p id="captionthree"><a href="pat#noy">Meet Ashley, Current Psychology Student</a></p>
+            
           </li>
          <!-- END Slide One -->
          
           <!-- Slide Two -->
           <li id="slide2">
-          <a href="pat#cocker"><img src="images/beth-cocker.png" alt="img03"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Introducing Beth Cocker</h3>
-              Beth is a current psychology student, member of UMBC's Peer Advisory Team, and has a passion for working with special needs children.  Check out her advice for transfer students!
-				<p><a href="pat#cocker" role="button" class="web-seemore" target="_blank">Meet Beth</a></p>
-            </div>
-            <p id="captionthree"><a href="pat#cocker">Meet Beth, Current Psychology Student</a></p>
-            
-          </li>
-         <!-- END Slide Two -->
-         
-      
-          <!-- Slide Three -->
-          <li id="slide3">
           <a href="https://www.youtube.com/watch?v=E4ggw7wIErE" class="video"><img src="images/gradpsych.png" alt="img03"></a>
             <div class="carousel-caption wordwrap">
               <h3>Interested in Attending Graduate School?</h3>
@@ -132,7 +120,7 @@ html::after {
             <p id="captionthree"><a href="https://www.youtube.com/watch?v=E4ggw7wIErE" class="video">Interested in Attending Graduate School?</a></p>
             
           </li>
-         <!-- END Slide Three -->
+         <!-- END Slide Two -->
          
                   
          </ul>

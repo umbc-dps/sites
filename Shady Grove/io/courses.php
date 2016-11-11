@@ -104,6 +104,7 @@ $lang = 'en';
    <li><a href="courses#human-factors" target="_blank">Human Factors</a></li>
    <li><a href="courses#ISD1" target="_blank">EDUC 602: Instructional Systems Design</a></li>
    <li><a href="courses#principles-in-training-and-development" target="_blank">EDUC 671: Principles in Training and Development</a></li>
+   <li><a href="courses#strategic-planning" target="_blank">Strategic Planning</a></li>
   <li>Other relevant graduate course(s) approved by  the I/O Psychology Graduate Program Director</li>
 </ul>
 
@@ -294,6 +295,15 @@ the development of performance management and employee selection system. </p>
   <p> This course is designed to provide knowledge base of higher-level statistics in research and practice.  The course assumes that the learner has a solid knowledge base of the theory behind and SPSS application of basic inferential statistics. The procedures covered will provide the student with a portfolio of references and examples to guide them through future analytic questions in the applied setting. </p>
 
 <p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in IO Psychology course. </p>
+  </div>
+  
+  <div class="accordionheader">
+  <h4><a href="#strategic-planning" id="strategic-planning"></a>Strategic Planning<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p>This course introduces students to the theories, tools, and processes for strategic planning. The course is highly applied and will provide students the opportunity to plan, conduct, and finalize a strategic plan for an actual organization. This will include preparing interview/focus group protocols, researching industry trends, reviewing historical documents, and conducting interviews/focus groups with an actual client and their leadership team. The final project for this class will be a presentation of the strategic plan to the organization’s leadership.</p>
+
   </div>
 
 

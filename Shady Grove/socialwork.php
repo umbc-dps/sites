@@ -96,9 +96,21 @@ html::after {
 
       <div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
-
+        
           <!-- Slide One -->
           <li id="slide1">
+          <a href="visit/pd-socialwork"><img src="images/morris2.jpg" alt="img03" target="_blank"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Visit with Katie Morris, LCSW-C</h3>
+              Visit with Katie Morris on Wed., Nov. 9th at 12:30pm to learn about our social work program as well as field placement and career opportunities.  Meet current social work students, too!
+<p><a href="visit/pd-socialwork" role="button" class="web-seemore" target="_blank">Reserve Your Spot</a></p>
+            </div>
+            <p id="captionthree"><a href="visit/pd-socialwork" target="_blank">Meet Katie Morris, Social Work Program Director!</a></p>
+          </li>
+         <!-- END Slide One -->
+
+          <!-- Slide Two --
+          <li id="slide2">
           <a href="mailto:swsa-usg@umbc.edu"><img src="images/socialwork2.jpg" alt="Caroline Tice" target="_blank"></a>
             <div class="carousel-caption-right wordwrap">
               <h3>SWSA Monthly Meeting</h3>
@@ -107,9 +119,9 @@ html::after {
             </div>
             <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu" target="_blank">SWSA Monthly Meeting</a></p>
           </li>
-         <!-- END Slide One -->
+         -- END Slide Two -->
          
-         <!-- Slide Three -->
+         <!-- Slide Three --
           <li id="slide3">
           <a href="mailto:swsa-usg@umbc.edu"><img src="images/social-work.jpg" alt="img03"></a>
             <div class="carousel-caption wordwrap">
@@ -119,7 +131,7 @@ html::after {
             </div>
             <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu">Phi Alpha & SWSA Host: SOWK Grad Panel!</a></p>
           </li>
-	<!-- END Slide Three -->         
+	-- END Slide Three -->         
          
          </ul>
          </div>

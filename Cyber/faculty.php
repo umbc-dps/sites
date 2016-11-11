@@ -192,19 +192,6 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a href="#huhn" id="huhn"></a>Michael S. Huhn, CISSP, ISSEP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p><img align="left" src="images/faculty/umbc-faculty-Mike-Huhn.gif">M.S., University of Southern California<br>
-  B.S., Shippensburg University</p>
-
-  <p>Michael Huhn has 40+ years of experience in information security and systems development in both private and government industries. Mr. Huhn has worked at the senior-level on projects incorporating information systems security engineering, risk assessment, and certification testing. Additionally, he worked with programming, system engineering, system testing, and configuration management. Prior to this experience, Mr. Huhn was a Non-Commissioned Officer in the U.S. Army during the Vietnam War.</p>
-
-  <p>Mr. Huhn received his B.S. in Secondary Education from Shippensburg University and his M.S. in Systems Management from the University of Southern California. He is CISSP and ISSEP certified and has held an extra class FCC amateur radio operator license since 1962.  In his spare time, he is a soccer referee through USSF.</p>
-</div>
-
-<div class="accordionheader">
   <h4><a href="#kinney" id="kinney"></a>Albert Kinney | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 

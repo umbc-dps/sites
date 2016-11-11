@@ -93,15 +93,15 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_biotech" target="_blank"><img src="images/10.jpg" alt="Professional Programs Open House"/></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/10.jpg" alt="Accepting Applications For Spring"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Open House</h3>
-<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Accepting Applications For Spring</h3>
+<small>Classes begin January 30. </small>
 
-<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_biotech" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_biotech" target="_blank">Professional Programs Open House</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications For Spring</a></p>
 
 </li>
 
@@ -111,15 +111,15 @@ $lang = 'en';
 <!-- SLIDE TWO -->
 
 <li id="slide2">
-<a href="programmaster2"><img alt="img03" src="images/4.jpg"></a>
+<a href="programmaster"><img alt="img03" src="images/4.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">
 <h3>New Biotechnology Curriculum</h3>
 <small>Featuring new core courses and tracks</small>
 
-<p><a class="web-seemore" href="programmaster2">Learn More</a></p></div>
+<p><a class="web-seemore" href="programmaster">Learn More</a></p></div>
 
-<p id="captionthree"><a href="programmaster2">New Biotechnology Curriculum</a></p>
+<p id="captionthree"><a href="programmaster">New Biotechnology Curriculum</a></p>
 
 </li>
                

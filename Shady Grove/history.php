@@ -120,19 +120,19 @@ html::after {
          <!-- END Slide Two -->
          
          
-	<!---- Hide Slide Three ---- 
+	<!---- Hide Slide Three ---->
        
          
           <li id="slide3">
-          <a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
-          <img src="images/truegrit.jpg" alt="img03">
+          <a href="pat#runnings" target="_blank">
+          <img src="images/haminat.png" alt="img03">
           </a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Apply Now & Get Priority Consideration</h3>
-              Submit your Common Application and official transcripts to UMBC by our October 15th priority deadline to automatically be considered for UMBC merit scholarships!
-<p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
+            <div class="carousel-caption wordwrap">
+              <h3>Meet Alexandra Runnings</h3>
+              Alexandra is a current history student and member of UMBC's Peer Advisory Team.  She recently interned with the Montgomery County Historical Society. Check out her advice for transfer students!
+<p><a href="pat#runnings" role="button" class="web-seemore" target="_blank">Meet Alexandra!</a></p>
             </div>
-            <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Now & Get Priority Consideration</a></p>
+            <p id="captionthree"><a href="pat#runnings" target="_blank">Meet Alexandra, Current History Student</a></p>
           </li>
 	<!-- END Slide Three -->         
         

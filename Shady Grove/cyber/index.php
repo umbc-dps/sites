@@ -97,24 +97,6 @@ $lang = 'en';
 <!-- END SLIDE ONE -->
 
 
-<!-- SLIDE TWO -->
-<li id="slide2">
-
-<a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank"><img alt="img03" src="images/cyberinfo.jpg"></a>
-
-<div class="carousel-caption wordwrap">
-<h3>Cybersecurity Program Director Visit</h3>
-<small>Visit us to learn about our Master's and Graduate Certificate programs offered in Rockville, MD.</small>
-          
-<p><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
-
-<p id="captionthree"><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank">Information Session</a></p>
-
-</li>
-
-<!-- END SLIDE TWO --> 
-
-
 <!-- SLIDE TWO --
 <li id="slide2">
 
@@ -131,9 +113,9 @@ $lang = 'en';
 </li>
 -- END SLIDE TWO --> 
 
-<!-- SLIDE Three -->
+<!-- SLIDE Two -->
 
-<li id="slide3">
+<li id="slide2">
 
 <a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank"><img src="images/cyber-art.jpg" alt="Read more"/></a> 
 
@@ -149,11 +131,11 @@ $lang = 'en';
 
 </li>
 
-<!-- END SLIDE Three --> 
+<!-- END SLIDE Two --> 
 
-<!-- SLIDE Four --> 
+<!-- SLIDE Three --> 
 
-<li id="slide4">
+<li id="slide3">
 
 <a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
 
@@ -167,7 +149,7 @@ $lang = 'en';
  
 </li>
 
-<!-- END SLIDE Four --> 
+<!-- END SLIDE Three --> 
 
       
     </ul>

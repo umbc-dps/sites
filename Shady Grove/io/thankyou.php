@@ -39,7 +39,11 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 
-
+<style>
+.eleven{
+	min-height:1000px;
+}
+</style>
 
 </head>
 <body>

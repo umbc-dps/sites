@@ -33,13 +33,9 @@
       <a href="masters.php">How to Apply</a>
 
       <ul class="sub-menu">
-       <li>
-          
-        <a href="masters.php">Master's</a></li>
-
-        <li>
-          <a href="international.php">International</a>
-        </li>
+       <li><a href="masters.php">Master's</a></li>
+        <li><a href="international.php">International</a></li>
+        <li><a href="bsmps.php">Accelerated BS/MS Degree Option</a></li>
       </ul>
     </li>
 

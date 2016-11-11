@@ -128,7 +128,7 @@ For a campus map, directions and parking information, please click <a href="htt
 	</div>
     
 	<div class="accordionbody">
-<p>	Saturday, October 29, 12:30 p.m.<br>
+<p>
 	Thursday, November 17, 3 p.m. <br>
 	Tuesday, December 6, 10:30 a.m. <br>
 	  <br>
@@ -144,21 +144,21 @@ For a campus map, directions and parking information, please click <a href="htt
 	<div class="accordionbody">
 <p>
 		<strong>History:</strong><br>
-		Tuesday, November 1, 5:30 p.m.</p>      
+		Stay tuned for upcoming spring visits.</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, October 26, 12 p.m.<br>
-		Wednesday, November 2, 12 p.m.<br>
 		Wednesday, November 9, 12:00pm<br>
-		Wednesday, November 16, 12:00pm</p>
+		Wednesday, November 16, 12:00pm<br>
+		Wednesday, November 30, 12:00pm<br>
+		Wednesday, December 7, 12:00pm</p>
 	
     <p>
         <strong>Psychology:</strong><br>
-		Thursday, November 3, 12 p.m.<br>
+		Stay tuned for upcoming spring visits.<br>
     </p>
 	<p>
         <strong>Social Work:</strong><br>
-		Wednesday, November 9, 12:30 p.m.</p>
+		Wednesday, November 9, 12:30 pm</p>
   
   <a href="pd" target="_blank" class="button btn-sm"> 
   		
@@ -205,12 +205,10 @@ Check back soon for more info session opportunities.
 	</div>
     
 <div class="accordionbody"> 
-<p>   
-    <strong>Date:</strong> Tuesday, October 25<br>
-    <strong>Time:</strong> 6:00 p.m. - 7:30 p.m.<br>
-    <strong>Location:</strong> Building III-4230
+<p>    
+Check back soon for more info session opportunities.
 </p>
-    <a href="../cyber/infosession" target="_blank" class="button btn-sm">RSVP</a>
+
 </div>
 
 	<div class="accordionheader">
@@ -227,9 +225,6 @@ Check back soon for more info session opportunities.
 
 <br clear="all">
 
-<p style="text-align:center">
-<em><strong>UMBC turns 50 on September 19, 2016. <a href="http://50.umbc.edu/" target="_blank">Celebrate with us</a>!</strong></em>
-</p>
 
 </div>
 </div>

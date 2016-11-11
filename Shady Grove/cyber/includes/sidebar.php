@@ -1,15 +1,5 @@
 <div class="five columns">
 
-    <aside class="five columns add-bottom" id="one">
-      <h3 style="color:#fff;">Upcoming Events</h3>
-      <p style="text-align:center">
-
-      <strong>Cybersecurity Program Director Visit</strong><br>
-      Tuesday, October 25, 2016, 6:00 PM<br>
-      <a class="btn" href="http://www.umbc.edu/shadygrove/cyber/infosession">RSVP Now</a>
-      </p>
-     </aside>
-
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>
 

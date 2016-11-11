@@ -91,7 +91,7 @@
 
       <td>scrosby@umbc.edu, awaters@umbc.edu</td>
 
-      <td>https://youtu.be/ANHML0dJjYs</td>
+      <td></td>
       <td>The Master of Professional Studies: Industrial/Organizational Psychology Program is designed to provide advanced education to early/mid-career professionals in the  areas of human capital functions, personnel selection, and training and organizational management.</td>
       <td>shadygrove/io</td>
     </tr>

@@ -77,13 +77,13 @@ $lang = 'en';
   
 <!-- START Content -->
 
-<h3>Fall 2016 Schedule of Classes </h3>
+<h3>Spring 2017 Schedule of Classes </h3>
 
-<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
-  <strong>Advanced Registration Begins:</strong> April 4, 2016 (for students currently enrolled in spring 2016) <br>
-  <strong>Registration for Newly Admitted Students:</strong>  June 1, 2016<br>
-  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016<br>
-  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+<p align="left"><strong>Semester Dates:</strong>&nbsp;January 30, 2017 – May 16, 2017<br>
+  <strong>Advanced Registration Begins: </strong>October 31, 2016&nbsp;(for students currently  enrolled in fall 2016)&nbsp;<br>
+  <strong>Registration For Newly Admitted Graduate Students:</strong>&nbsp;December 19,  2016<br>
+  <strong>Last Day to Add/Drop a Class: </strong>February 10, 2017<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
 <p>There may be more courses announced in the near future.  This list is not final.</p>
 
@@ -95,103 +95,82 @@ $lang = 'en';
     <td width="20%">TIME</td>
     <td width="20%">PROFESSOR</td>
   </tr>
-  <tr height="22">
-    <td height="22">PSYC 601.05 (6577)</td>
-    <td>Survey Design and Development</td>
-    <td>Thursday</td>
-    <td><span data-term="goog_1457528140" tabindex="0">6:00 PM - 9:00 PM</span></td>
-    <td>John Milatzo</td>
-  </tr>
-  <tr height="22">
-    <td height="22">PSYC 601.04 (8043)</td>
-    <td>Capstone Experience</td>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>John Milatzo</td>
-  </tr>
-  <tr height="22">
-    <td height="22">PSYC 601.06 (8044)</td>
-    <td>Capstone Experience</td>
-    <td>TBD</td>
-    <td>TBD</td>
+  <tr>
+    <td>PSYC    601.1 (5404)</td>
+    <td>Capstone    Experience</td>
+    <td>N/A</td>
+    <td>N/A</td>
     <td>Ethan Sanders</td>
   </tr>
-  <tr height="22">
-    <td height="22">PSYC 601.07 (8045)</td>
-    <td>Strategic Planning</td>
-    <td>Thursday</td>
-    <td><span data-term="goog_1457528142" tabindex="0">7:00 PM - 10:00 PM</span></td>
-    <td>Ethan Sanders</td>
-  </tr>
-  <tr height="22">
-    <td height="22">PSYC 670.01 (2343)</td>
-    <td>I/O Psychology</td>
-    <td>Monday</td>
-    <td><span data-term="goog_1457528144" tabindex="0">7:00 PM - 10:00 PM</span></td>
-    <td>Theodore Rosen</td>
-  </tr>
-  <tr height="22">
-    <td height="22">PSYC 670.02 (6281)</td>
-    <td>I/O Psychology</td>
-    <td>Monday</td>
-    <td>7:00 PM - 10:00 PM</td>
-    <td>Edward Rudow</td>
-  </tr>
-  <tr height="22">
-    <td height="22">PSYC 671.01 (7148)</td>
-    <td>Social Psychology</td>
-    <td>Thursday</td>
-    <td><span data-term="goog_1457528146" tabindex="0"><span data-term="goog_1457528145" tabindex="0">6:00 PM</span> - 9:00 PM</span></td>
+  <tr>
+    <td>PSYC 601.2 (5405)</td>
+    <td>Capstone Experience</td>
+    <td>N/A</td>
+    <td>N/A</td>
     <td>Elliot Lasson</td>
   </tr>
-  <tr height="22">
-    <td height="22">PSYC 671.02 (7149)</td>
-    <td>Social Psychology</td>
-    <td>Tuesday</td>
-    <td><span data-term="goog_1457528148" tabindex="0"><span data-term="goog_1457528147" tabindex="0">6:00 PM </span>- 9:00 PM</span></td>
-    <td>Elliot Lasson</td>
+  <tr>
+    <td>PSYC 601.3 (5406)</td>
+    <td>Program Evaluation</td>
+    <td>Th</td>
+    <td>06:00 PM - 09:00 PM</td>
+    <td>John Milatzo</td>
   </tr>
-  <tr height="22">
-    <td height="22">PSYC 672.01 (4978)</td>
-    <td>Data Analytic Procedures</td>
-    <td>Wednesday</td>
-    <td><span data-term="goog_1457528150" tabindex="0">7:00 PM - 10:00 PM</span></td>
-    <td>Maegan Sady</td>
+  <tr>
+    <td>PSYC 601.4 (6744)</td>
+    <td>Human Performance    Technology</td>
+    <td>Sa</td>
+    <td>09:00 AM - 12:00 PM</td>
+    <td>David Rudd</td>
   </tr>
-  <tr height="22">
-    <td height="22">PSYC 672.02 (5566)</td>
-    <td>Data Analytic Procedures</td>
-    <td>Saturday</td>
-    <td><span data-term="goog_1457528152" tabindex="0"><span data-term="goog_1457528151" tabindex="0">10:00 AM </span>- 1:00 PM</span></td>
+  <tr>
+    <td>PSYC 601.5 (6324)</td>
+    <td>Advanced Statistics    for I/O</td>
+    <td>Tu</td>
+    <td>07:00 PM - 10:00 PM</td>
     <td>Kayo Sady</td>
   </tr>
-  <tr height="22">
-    <td height="22">PSYC 673.01 (6137)</td>
-    <td>Legal and Ethical Issues</td>
-    <td>Wednesday</td>
-    <td><span data-term="goog_1457528154" tabindex="0">7:00 PM - 10:00 PM</span></td>
-    <td>Rich Tonowski</td>
+  <tr>
+    <td>PSYC 601.6 (6411)</td>
+    <td>Adv. Seminar:    Strategic Planning</td>
+    <td>Sa</td>
+    <td>09:00 AM - 12:00 PM</td>
+    <td>David Poland</td>
   </tr>
-  <tr height="22">
-    <td height="22">PSYC 673.02 (6578)</td>
-    <td>Legal and Ethical Issues</td>
-    <td>Wednesday</td>
-    <td><span data-term="goog_1457528156" tabindex="0">7:00 PM - 10:00 PM</span></td>
-    <td>Sharron Dean</td>
-  </tr>
-  <tr height="22">
-    <td height="22">PSYC 676.01 (8046)</td>
-    <td>Human Factors</td>
-    <td>Wednesday</td>
-    <td><span data-term="goog_1457528158" tabindex="0"><span data-term="goog_1457528157" tabindex="0">6:00 PM</span>  - 9:00 PM</span></td>
-    <td>Rana Balci-Sinha</td>
-  </tr>
-  <tr height="22">
-    <td height="22">PSYC 678.01 (8121)</td>
-    <td>Group Decision Making</td>
-    <td>Tuesday</td>
-    <td><span data-term="goog_1457528160" tabindex="0">7:00 PM - 10:00 PM</span></td>
+  <tr>
+    <td>PSYC 669.1 (5407)</td>
+    <td>Organizational    Behavior Management</td>
+    <td>M</td>
+    <td>07:00 PM - 10:00 PM</td>
     <td>Theodore Rosen</td>
+  </tr>
+  <tr>
+    <td>PSYC 674.1 (6330)</td>
+    <td>Methods of    Assessment in I/O Psychology</td>
+    <td>Th</td>
+    <td>06:00 PM - 09:00 PM</td>
+    <td>Elliot Lasson</td>
+  </tr>
+  <tr>
+    <td>PSYC 674.2 (6412)</td>
+    <td>Methods of    Assessment in I/O Psychology</td>
+    <td>Th</td>
+    <td>06:00 PM - 09:00 PM</td>
+    <td>Ed Rudow</td>
+  </tr>
+  <tr>
+    <td>PSYC 677.1 (7338)</td>
+    <td>Professional    HR Practices</td>
+    <td>W</td>
+    <td>07:00 PM - 10:00 PM</td>
+    <td>Ed    Rudow</td>
+  </tr>
+  <tr>
+    <td>PSYC 677.2 (7339)</td>
+    <td>Professional HR    Practices</td>
+    <td>W</td>
+    <td>07:00 PM - 10:00 PM</td>
+    <td>Sharron Dean</td>
   </tr>
   </table>
 

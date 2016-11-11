@@ -80,9 +80,22 @@ background-attachment:fixed;
 
       <div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
-       
+
           <!-- Slide One -->
           <li id="slide1">
+            <a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video"><img src="images/polisci-video.png" alt="img03" target="_blank"></a>
+                <div class="carousel-caption wordwrap">
+                  <h3>Political science is more than politics!</h3>
+                  Take a look at how our political science students and alumni are applying their coursework and degrees to a variety of real world issues.
+    <p><a href="https://www.youtube.com/watch?v=EOh07F8guP8" role="button" class="web-seemore video" target="_blank">View Video</a></p>
+                </div>
+                <p id="captionthree"><a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video">Video: Poli Sci More Than Politics</a></p>
+            
+          </li>
+         <!-- END Slide One -->
+                
+          <!-- Slide Two -->
+          <li id="slide2">
             <a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03" target="_blank"></a>
                 <div class="carousel-caption wordwrap">
                   <h3>Attend Wednesday Wipeout!</h3>
@@ -92,19 +105,21 @@ background-attachment:fixed;
                 <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Attend Wednesday Wipeout!</a></p>
             
           </li>
-         <!-- END Slide One -->
+         <!-- END Slide Two -->
          
-          <!-- Slide Two -->
-          <li id="slide2">
-            <a href="pat#kareem"><img src="images/haminat.png" alt="img03" target="_blank"></a>
+          <!-- Slide Three -->
+          <li id="slide3">
+            <a href="https://www.facebook.com/events/1080195725411750/?active_tab=about">
+            <img src="images/congo.jpg" alt="img03" target="_blank">
+            </a>
                 <div class="carousel-caption wordwrap">
-                  <h3>Introducing Haminat Kareem</h3>
-                  Haminat is a current political science student, member of UMBC's Peer Advisory Team, and Co-President of the Political Science Student Organization (PSSO).  Check out her advice for transfer students!
-    <p><a href="pat#kareem" role="button" class="web-seemore" target="_blank">Meet Haminat</a></p>
+                  <h3>Stand With Congo Screening</h3>
+                  Join the Political Science Student Organization as they host a Screening4Action of award-winning film "When Elephants Fight", narrated by Robin Wright on November 21st from 6pm-8pm in III-4202.
+    <p><a href="https://www.facebook.com/events/1080195725411750/?active_tab=about" role="button" class="web-seemore" target="_blank">RSVP</a></p>
                 </div>
-                <p id="captionthree"><a href="pat#kareem" target="_blank">Meet Haminat, Current Poli Sci Student</a></p>
+                <p id="captionthree"><a href="https://www.facebook.com/events/1080195725411750/?active_tab=about" target="_blank">Stand With Congo Screening4action Night</a></p>
           </li>
-        <!-- END Slide Two -->
+        <!-- END Slide Three -->
          
          <!-- Slide Three --
           <li id="slide3">

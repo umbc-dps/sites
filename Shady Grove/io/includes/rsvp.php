@@ -54,7 +54,7 @@
 
 <h4>Dates</h4>
 <ul>
-<li class="io"><strong>I/O Psych Information Session</strong> | Wednesday, October 19, 2016 6:00PM - 7:30PM</li>
+<li class="io"><strong>I/O Psych Information Session</strong> | Tuesday, January 24, 2017 6:00PM - 7:30PM</li>
 <li class="gis"><strong>GIS  Information Session</strong> | Saturday, October 1, 2016 11:00AM - 12:30PM</li>
 <li class="cyber"><strong>Cybersecurity Program Director Visit </strong>| Tuesday, October 25, 2016 6:00PM - 7:30PM </li>
 </ul>
@@ -124,7 +124,7 @@ The Universities at Shady Grove<br>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
 <select name="entry.6" id="entry_6" aria-label="Choose a Session " aria-required="true" required><option value=""></option>
-<option value="GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM" class="gis">GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM</option> <option value="Cybersecurity Program Director Visit - Tuesday, October 25, 2016 6:00PM - 7:30PM" class="cyber">Cybersecurity Program Director Visit - Tuesday, October 25, 2016 6:00PM - 7:30PM</option> <option value="I/O Psych Information Session - Wednesday, October 19, 2016 6:00PM - 7:30PM" class="io">I/O Psych Information Session - Wednesday, October 19, 2016 6:00PM - 7:30PM</option></select>
+<option value="GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM" class="gis">GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM</option> <option value="Cybersecurity Program Director Visit - Tuesday, October 25, 2016 6:00PM - 7:30PM" class="cyber">Cybersecurity Program Director Visit - Tuesday, October 25, 2016 6:00PM - 7:30PM</option> <option value="I/O Psych Information Session - Tuesday, January 24, 2017 6:00PM - 7:30PM" class="io">I/O Psych Information Session - Tuesday, January 24, 2017 6:00PM - 7:30PM</option></select>
 
 <input type="hidden" name="draftResponse" value="[,,&quot;-3250447620442312080&quot;]
 ">

@@ -142,7 +142,7 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="cgutierrez"></a>Carolina Gutierrez, Psychology<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="cgutierrez" href="#cgutierrez"></a>Carolina Gutierrez, Psychology<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -214,7 +214,7 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="kamei"></a>Nyenpu "Faith" Kamei, Psychology and Social Work<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="kamei" href="#kamei"></a>Nyenpu "Faith" Kamei, Psychology and Social Work<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -295,7 +295,7 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="Kahn"></a>Liana Kahn, Social Work<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="kahn" href="#kahn"></a>Liana Kahn, Social Work<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -406,7 +406,7 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="noy"></a>Ashley Noy, Psychology<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="noy" href="#noy"></a>Ashley Noy, Psychology<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -450,7 +450,7 @@ As for extracurricular activities, I would have to say joining the Peer Advisory
 
 
 <div class="accordionheader">
-            <h4><a id="reyes"></a>Cindy Reyes, Social Work<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="reyes" href="#reyes"></a>Cindy Reyes, Social Work<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -486,7 +486,7 @@ As for extracurricular activities, I would have to say joining the Peer Advisory
 
 
 <div class="accordionheader">
-            <h4><a id="runnings"></a>Alexandra "Alex" Runnings, History<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="runnings" href="#runnings"></a>Alexandra "Alex" Runnings, History<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -520,7 +520,7 @@ As for extracurricular activities, I would have to say joining the Peer Advisory
 </div>
 
 <div class="accordionheader">
-            <h4><a id="sandoval"></a>Camilla  Sandoval, History<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="sandoval" href="#sandoval"></a>Camilla  Sandoval, History<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -585,7 +585,7 @@ With such a small campus size, UMBC-Shady Grove acts like more of a second home 
 
 
 <div class="accordionheader">
-            <h4><a id="turek"></a>Ben Turek, Political Science<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="turek" href="#turek"></a>Ben Turek, Political Science<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -626,7 +626,7 @@ With such a small campus size, UMBC-Shady Grove acts like more of a second home 
 
 
 <div class="accordionheader">
-            <h4><a id="white"></a>Christina White, Psychology<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="white" href="#white"></a>Christina White, Psychology<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">

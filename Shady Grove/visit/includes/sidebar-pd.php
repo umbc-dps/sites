@@ -98,18 +98,25 @@
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.370625178" id="entry_370625178" aria-label="Term and Year Applying:  " aria-required="true" required><option value=""></option>
-<option value="Spring 2016">Spring 2016</option> <option value="Fall 2016">Fall 2016</option> <option value="Spring 2017">Spring 2017</option> <option value="Fall 2017">Fall 2017</option> <option value="Spring 2018">Spring 2018</option> <option value="Fall 2018">Fall 2018</option></select>
-<div class="required-message"></div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<select name="entry.370625178" id="entry_370625178" aria-label="Term and Year Applying:  " aria-required="true" required>
+<option value=""></option>
+<option value="Spring 2016">Spring 2016</option> 
+<option value="Fall 2016">Fall 2016</option> 
+<option value="Spring 2017">Spring 2017</option> 
+<option value="Fall 2017">Fall 2017</option> 
+<option value="Spring 2018">Spring 2018</option> 
+<option value="Fall 2018">Fall 2018</option>
+</select>
+<div class="required-message"></div></div></div></div> 
+
+<div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-select"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_865173428"><div class="ss-q-title">Please select Visit with Undergraduate Program Director
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.865173428" id="entry_865173428" aria-label="Please select Visit with Undergraduate Program Director  " aria-required="true" required>
-<option value=""></option><option value="History: Tuesday, November 1: 5:30pm">History: Tuesday, November 1: 5:30pm</option> <option value="Political Science: Wednesday, October 26: 12:00pm">Political Science: Wednesday, October 26: 12:00pm</option> <option value="Political Science: Wednesday, November 2: 12:00pm">Political Science: Wednesday, November 2: 12:00pm</option> 
-<option value="Political Science: Wednesday, November 9: 12:00pm">Political Science: Wednesday, November 9: 12:00pm</option><option value="Political Science: Wednesday, November 16: 12:00pm">Political Science: Wednesday, November 16: 12:00pm</option><option value="Psychology: Thursday, November 3: 12:00pm">Psychology: Thursday, November 3: 12:00pm</option> <option value="Social Work: Wednesday, November 9: 12:30pm">Social Work: Wednesday, November 9: 12:30pm</option></select></select>
-
+<select name="entry.865173428" id="entry_865173428" aria-label="Please select Visit with Undergraduate Program Director  " aria-required="true" required=""><option value=""></option>
+<option value="Political Science: Wednesday, November 9: 12:00pm">Political Science: Wednesday, November 9: 12:00pm</option> <option value="Political Science: Wednesday, November 16: 12:00pm">Political Science: Wednesday, November 16: 12:00pm</option> <option value="Political Science: Wednesday, November 30: 12:00pm">Political Science: Wednesday, November 30: 12:00pm</option> <option value="Political Science: Wednesday, December 7: 12:00pm">Political Science: Wednesday, December 7: 12:00pm</option> <option value="Social Work: Wednesday, November 9: 12:30pm">Social Work: Wednesday, November 9: 12:30pm</option></select>
 
 <div class="required-message"></div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-select"><div class="ss-form-entry">

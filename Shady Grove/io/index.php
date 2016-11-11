@@ -74,21 +74,23 @@ $lang = 'en';
   <div class="cbp-fwslider" id="cbp-fwslider">
     <ul>
 
-<!-- SLIDE ONE -->
+<!-- Slide ONE -->    
+
 <li id="slide1">
 
-<a href="https://www.youtube.com/watch?v=CocQf9ZAbFE" class="video"><img alt="img02" src="images/alumni/luo.jpg"></a>
-
+<a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A"><img src="images/IO-Carousel1.jpg" alt="Meet Our Alumni: Aubrey Moore"/></a>
 <div class="carousel-caption-right wordwrap">
-<h3>I/O Alumnus: Jennifer Luo</h3>
-<small>Jennifer Luo, UMBC Industrial/Organizational Psychology Program Alumnus talks about her experience in the program.</small>
+<h3>Meet Our Alumni: Aubrey Moore</h3>
+<small>Aubrey Moore discusses the advantage of the Applied IO Psychology Program at UMBC</small>
 
-<p><a href="https://www.youtube.com/watch?v=CocQf9ZAbFE" class="web-seemore video">Watch Now</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A">Watch Now</a></p></div>
 
-<p id="captiontwo"><a href="https://www.youtube.com/watch?v=CocQf9ZAbFE" class="video">I/O Alumnus: Jennifer Luo</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A">Meet Our Alumni: Aubrey Moore</a></p>
 
 </li>
-<!-- END SLIDE ONE -->
+
+<!-- END SLIDE ONE --> 
+
 
 
 <!-- SLIDE TWO --> 

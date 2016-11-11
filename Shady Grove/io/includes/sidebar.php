@@ -1,6 +1,30 @@
  <div class="five columns">
 
-    <aside class="five columns add-bottom" id="two" style="display:none">
+    <aside class="five columns add-bottom" id="two">
+      <h3 style="color:#fff;">Upcoming Events</h3>
+
+
+      <p style="text-align:center"><strong>UMBC I/O Psychology Info Session</strong><br>
+      Tuesday, January 24, 2017, 6-7:30 PM<br>
+        <a class="btn" href="http://www.umbc.edu/shadygrove/io/infosession">RSVP Now</a>
+      </p>
+    </aside>
+    </div>
+    
+     <div class="five columns">
+    <aside class="five columns add-bottom" id="two">
+      <h3 style="color:#fff;">Application Deadline</h3>
+
+
+      <p style="text-align:center"><strong>Fall 2017 Application</strong><br> 
+		Deadline: March 1<br>
+        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
+      </p>
+	</aside>
+    </div>
+
+ <div class="five columns">
+    <aside class="five columns add-bottom" id="three" style="display:none">
       <h3 style="color:#fff;">Past Event</h3>
 
 
@@ -8,23 +32,12 @@
         <a class="btn video" href="https://www.youtube.com/watch?v=ANHML0dJjYs">Watch Video</a>
       </p>
     </aside>
+    </div>
 
-
+ <div class="five columns">
     <aside class="five columns add-bottom" id="two">
-      <h3 style="color:#fff;">Application Deadline</h3>
-
-
-      <p style="text-align:center">Fall 2017 Application<br> 
-		Deadline: March 1<br>
-        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
-      </p>
-</aside>
-
-
-    <aside class="five columns add-bottom" id="three">
       <h3 style="color:#fff;">At a Glance</h3>
-
-
+      
       <dl>
         <dt>Locations Offered</dt>
 
