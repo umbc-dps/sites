@@ -78,13 +78,13 @@ $lang = 'en';
 
 
 
-<h3>Fall 2016 Schedule of Classes </h3>
+<h3>Spring 2017 Schedule of Classes </h3>
 
-<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
-  <strong>Advanced Registration Begins:</strong> April 4, 2016 (for students currently enrolled in spring 2016) <br>
-  <strong>Registration for Newly Admitted Students:</strong>  June 1, 2016<br>
-  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016<br>
-  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+<p align="left"><strong>Semester Dates:</strong>&nbsp;January 30, 2017 – May 16, 2017<br>
+  <strong>Advanced Registration Begins: </strong>October 31, 2016&nbsp;(for students currently  enrolled in fall 2016)<br>
+  <strong>Registration For Newly Admitted Graduate Students:</strong> December 19,  2016<br>
+  <strong>Last Day to Add/Drop a Class: </strong>February 10, 2017<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
 <p>There may be more courses announced in the near future.  This list is not final.</p>
 
@@ -97,60 +97,53 @@ $lang = 'en';
     <td width="20%">PROFESSOR</td>
   </tr>
   <tr>
-    <td>GES 670.01 (5027)</td>
-    <td>Advanced Seminar in GIS</td>
-    <td>Monday</td>
-    <td>6:15 PM - 9:00 PM</td>
+    <td>GES    670.1 (2997)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/2997" target="_blank">Advanced    Seminar in GIS</a></td>
+    <td>Tu</td>
+    <td>6:15 PM -    9:00 PM</td>
     <td>Erwin Villiger</td>
   </tr>
   <tr>
-    <td>GES 671.01 (5021)</td>
-    <td>Spatial Database and Systems Design</td>
-    <td>Tuesday</td>
+    <td>GES 673.1 (6775)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6775" target="_blank">Geoprocessing and    Spatial Analysis</a></td>
+    <td>Th</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Ronald Wilson</td>
+  </tr>
+  <tr>
+    <td>GES 675.1 (6776)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6776" target="_blank">GIS Application    Development</a></td>
+    <td>M</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Xiuzhu Yang</td>
+  </tr>
+  <tr>
+    <td>GES 679.1 (2999)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/2999" target="_blank">Professional    Seminar: Legal, Ethical, and Privacy Issues in GIS</a></td>
+    <td>W</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Kevin Pomfret</td>
+  </tr>
+  <tr>
+    <td>GES 679.2 (7911)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7911" target="_blank">Professional    Seminar: Cartographic Design</a></td>
+    <td>S</td>
+    <td>9:00 AM - 12:00 PM</td>
+    <td>Mary Kate Cannistra</td>
+  </tr>
+  <tr>
+    <td>GES 771.1 (2998)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/2998" target="_blank">Advanced Spatial    Data Management</a></td>
+    <td>Tu</td>
     <td>6:15 PM - 9:00 PM</td>
     <td>Luis Bermudez</td>
   </tr>
   <tr>
-    <td>GES 678.01 (6184)</td>
-    <td>Project Management of the Enterprise GIS</td>
-    <td>Wednesday</td>
+    <td>GES 778.1 (8184)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/8184" target="_blank">Advanced    Visualization and Presentation</a></td>
+    <td>Th</td>
     <td>6:15 PM - 9:00 PM</td>
-    <td>John Schlee</td>
-  </tr>
-  <tr>
-    <td>GES 679.01 (6647)</td>
-    <td>Professional Seminar in Geospatial Technologies</td>
-    <td>Tuesday</td>
-    <td>6:15 PM - 8:00 PM</td>
-    <td>Nate Smith</td>
-  </tr>
-  <tr>
-    <td>GES 679.02 (7984)</td>
-    <td>Professional Seminar in Geospatial Technologies </td>
-    <td>Wednesday</td>
-    <td>6:15 PM - 8:00 PM</td>
-    <td>Soumya Sengupta</td>
-  </tr>
-  <tr>
-    <td>GES 770.01 (7986)</td>
-    <td>Special Topics: Remote Sensing</td>
-    <td>Saturday</td>
-    <td>9:00 AM - 12:00 PM</td>
-    <td>Qassim Abdullah/Nora May</td>
-  </tr>
-  <tr>
-    <td>GES 774.01 (7985)</td>
-    <td>Spatial Statistics</td>
-    <td>Thursday</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Ron Wilson</td>
-  </tr>
-   <tr>
-    <td>GES 775.01 (7988)</td>
-    <td>Advanced GIS Application Development</td>
-    <td>Monday</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Xiuzhu Yang</td>
+    <td>Philip Bogden</td>
   </tr>
   </table>
 

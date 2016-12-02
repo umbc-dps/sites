@@ -5,6 +5,7 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  
   ga('create', 'UA-1756263-20', 'umbc.edu');
   ga('create', 'UA-1756263-52', 'auto', {'name': 'rollup'});
+
   ga('create', 'UA-1045586-1', 'auto', {'name': 'umbc'});
   ga('require', 'displayfeatures');
   ga('require', 'linkid', 'linkid.js');

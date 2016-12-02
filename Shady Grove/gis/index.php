@@ -113,18 +113,18 @@ $lang = 'en';
 
 <li id="slide3">
 
-<a href="https://www.youtube.com/watch?v=RqTlAsIl_gM" class="video"><img src="images/Gabriel-Barroni.jpg" alt="UMBC Alumnus Profile: Gabriel Barroni"/></a>
-<div class="carousel-caption wordwrap">
-<h3>UMBC Alumnus Profile: Gabriel Barroni</h3>
-<small>Barroni credits the cutting edge technology and skills learned at UMBC for his success in delivering high end projects to clients.</small>
+<a href="https://www.youtube.com/watch?v=LZp4AtBxgPs"><img src="images/GIS-Carousel1.jpg" alt="Meet Our Alumni: Liz Ducey"/></a>
+<div class="carousel-caption-right wordwrap">
+<h3>Meet Our Alumni: Liz Ducey</h3>
+<small>Liz Ducey, shares her experience and talks about how the program helped shape her skills and career.</small>
 
-<p><a href="https://www.youtube.com/watch?v=RqTlAsIl_gM" class="web-seemore video">Watch Now</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=LZp4AtBxgPs"class="web-seemore video">Watch Now</a></p></div>
 
-<p id="captionthree"><a href="https://www.youtube.com/watch?v=RqTlAsIl_gM" class="video">UMBC Alumnus Profile: Gabriel Barroni</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=LZp4AtBxgPs">Meet Our Alumni: Liz Ducey</a></p>
 
 </li>
 
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE THREE -->  
 
       
     </ul>

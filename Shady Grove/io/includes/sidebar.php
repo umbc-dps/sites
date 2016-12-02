@@ -104,6 +104,13 @@
     </p>   
    </aside>     
    
+            <aside class="five columns add-bottom">
+<dt style="text-align:center">
+<a class="btn" href="http://gritinaction.umbc.edu/" target="_blank">
+Visit our Blog
+</a>
+</dt>
+</aside>
    
    <aside  class="five columns add-bottom">
 <center>

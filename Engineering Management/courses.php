@@ -92,7 +92,6 @@ $lang = 'en';
 
           <div class="accordionbody">
             <p>Students learn the fundamentals of managing projects in a systematic way. These fundamentals can be applied within any industry and work environment and will serve as the foundation for more specialized project management study. Principles and techniques are further reinforced through practical case studies and team projects in which students simulate project management processes and techniques.</p>
-            <p><a href="pmstudents.php">Message to future PM students from Past PM students</a></p>
 </div>
 
 

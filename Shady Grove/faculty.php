@@ -292,15 +292,15 @@ html::after {
     <p>Learn improved teaching techniques, embrace new classroom management systems and more through our many collaborative faculty events!  Mark your calendars and register today for the following events:</p>
     
 <h5>Faculty Meet &amp; Greet</h5>
-    <p><strong>Wednesday, August 18, 2016 • 6 p.m. – 7:30 p.m.<br>
+    <p><strong>Thursday, January 12, 2017 • 6 p.m. – 7:30 p.m.<br>
 Camille Kendall Academic Center, III-3156</strong><br>
-<a href="http://my.umbc.edu/groups/sgfaculty/events/40979" target="_blank">RSVP</a><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/events/44762" target="_blank">RSVP</a><br>
 <em>We invite all faculty, new and returning, to join us for a light dinner to meet fellow instructors, understand important UMBC-Shady Grove procedures, and receive updates on services at USG. This event will be a great resource to all who attend.</em></p>
 
 <h5>Faculty Appreciation Day</h5>
-    <p><strong>Tuesday, October 18, 2016 • 10 a.m. – 6 p.m.<br>
+    <p><strong>Tuesday, March 1, 2017 • 10 a.m. – 6 p.m.<br>
 Camille Kendall Academic Center, III-4124</strong><br>
-<a href="http://my.umbc.edu/groups/sgfaculty/events/41492 " target="_blank">RSVP</a><br>
+<a href="" target="_blank">RSVP Coming Soon!</a><br>
       <em>We can never say thank you enough for what you do as instructors! Enjoy this day celebrating you, our faculty, with treats and refreshments available in III-4124 as mid-terms are upon us!</em></p>
 
 

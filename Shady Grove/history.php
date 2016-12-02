@@ -109,32 +109,19 @@ html::after {
          
           <!-- Slide Two -->
           <li id="slide2">
-          <a href="visit/pd-history" target="_blank"><img src="images/andrew-nolan.png" alt="img03"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Meet Dr. Nolan, History Program Director</h3>
-              Visit with Dr. Nolan on 11/1 to learn about our history program as well as internship and career opportunities in the history field.  Meet current history students, too!
-<p><a href="visit/pd-history" role="button" class="web-seemore" target="_blank">RSVP Here!</a></p>
+          <a href="mailto:csmoyer@umbc.edu">
+          <img src="images/history-capstone.jpg" alt="img02">
+          </a>
+            <div class="carousel-caption wordwrap">
+              <h3>Attend our History Students' Capstones!</h3>
+              Meet current students and view first-hand the knowledge they have gained during their time in our history program. 
+<p><a href="mailto:csmoyer@umbc.edu" role="button" class="web-seemore">RSVP to Chelsea Moyer!</a></p>
             </div>
-            <p id="captionthree"><a href="visit/pd-history" target="_blank">Meet Dr. Nolan, History Program Director</a></p>
+            <p id="captionthree"><a href="mailto:csmoyer@umbc.edu">RSVP to Chelsea Moyer!</a></p>
           </li>
          <!-- END Slide Two -->
          
-         
-	<!---- Hide Slide Three ---->
        
-         
-          <li id="slide3">
-          <a href="pat#runnings" target="_blank">
-          <img src="images/haminat.png" alt="img03">
-          </a>
-            <div class="carousel-caption wordwrap">
-              <h3>Meet Alexandra Runnings</h3>
-              Alexandra is a current history student and member of UMBC's Peer Advisory Team.  She recently interned with the Montgomery County Historical Society. Check out her advice for transfer students!
-<p><a href="pat#runnings" role="button" class="web-seemore" target="_blank">Meet Alexandra!</a></p>
-            </div>
-            <p id="captionthree"><a href="pat#runnings" target="_blank">Meet Alexandra, Current History Student</a></p>
-          </li>
-	<!-- END Slide Three -->         
         
          </ul>
          </div>

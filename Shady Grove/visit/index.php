@@ -129,8 +129,11 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-	Thursday, November 17, 3 p.m. <br>
-	Tuesday, December 6, 10:30 a.m. <br>
+	Tuesday, December 6, 10:30am<br>
+	Wednesday, January 25, 5:00pm<br>
+	Tuesday, February 21, 11:00am<br>
+	Friday, April 21, 1:00pm<br>
+	Thursday, May 18, 3:00pm<br>
 	  <br>
 	  <a href="infosession" target="_blank" class="button btn-sm">
 	    Info Session RSVP</a></p>
@@ -147,7 +150,6 @@ For a campus map, directions and parking information, please click <a href="htt
 		Stay tuned for upcoming spring visits.</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, November 9, 12:00pm<br>
 		Wednesday, November 16, 12:00pm<br>
 		Wednesday, November 30, 12:00pm<br>
 		Wednesday, December 7, 12:00pm</p>
@@ -158,7 +160,7 @@ For a campus map, directions and parking information, please click <a href="htt
     </p>
 	<p>
         <strong>Social Work:</strong><br>
-		Wednesday, November 9, 12:30 pm</p>
+		Stay tuned for upcoming spring visits.</p>
   
   <a href="pd" target="_blank" class="button btn-sm"> 
   		
@@ -184,9 +186,10 @@ For a campus map, directions and parking information, please click <a href="htt
     
 <div class="accordionbody"> 
 <p>    
-Check back soon for more info session opportunities.
-</p>
+Tuesday, January 24, 2017, 6-7:30 PM</p>
 
+<p><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank" class="button btn-sm">
+	    Info Session RSVP</a></p>
 </div>
 
 	<div class="accordionheader">

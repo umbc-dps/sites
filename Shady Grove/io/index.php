@@ -78,14 +78,17 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A"><img src="images/IO-Carousel1.jpg" alt="Meet Our Alumni: Aubrey Moore"/></a>
+<a href="infosession"  target="_blank">
+	<img alt="img02" src="images/5.jpg"target="_blank">
+</a>
+
 <div class="carousel-caption-right wordwrap">
-<h3>Meet Our Alumni: Aubrey Moore</h3>
-<small>Aubrey Moore discusses the advantage of the Applied IO Psychology Program at UMBC</small>
+<h3>UMBC I/O Psychology Info Session</h3>
+<small>Visit us on Tuesday, January 24, 2017 to learn about our I/O Psych Master's degree offered in Rockville, MD.</small>
 
-<p><a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A">Watch Now</a></p></div>
+<p><a href="infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
 
-<p id="captionthree"><a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A">Meet Our Alumni: Aubrey Moore</a></p>
+<p id="captiontwo"><a href="infosession" target="_blank">UMBC I/O Psychology Info Session</a></p>
 
 </li>
 
@@ -127,6 +130,21 @@ $lang = 'en';
 
 </li>
 <!-- END SLIDE THREE -->
+
+<!-- SLIDE FOUR -->
+<li id="slide4">
+
+<a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A"><img src="images/IO-Carousel1.jpg" alt="Meet Our Alumni: Aubrey Moore"/></a>
+<div class="carousel-caption-right wordwrap">
+<h3>Meet Our Alumni: Aubrey Moore</h3>
+<small>Aubrey Moore discusses the advantage of the Applied IO Psychology Program at UMBC</small>
+
+<p><a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A"class="web-seemore video">Watch Now</a></p></div>
+
+</li>
+
+</li>
+<!-- END SLIDE FOUR -->
       
     </ul>
 

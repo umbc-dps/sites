@@ -1,18 +1,24 @@
 <h5 class="poli">
-Wednesday, November 9 - 12:00pm<br>
-Wednesday, November 16 - 12:00pm<br>
-Wednesday, November 30 - 12:00pm<br>
-Wednesday, December 7 - 12:00pm
+Wednesday, November 30, 12:00pm<br>
+Wednesday, December 7, 12:00pm<br>
+Wednesday, February 8, 12:00pm<br>
+Wednesday, February 15, 12:00pm<br>
+Wednesday, February 22, 12:00pm<br>
+Wednesday, March 1, 12:00pm
 </h5>
 
 <h5 class="socialwork">
-Wednesday, November 9 - 12:30pm<br>
+Tuesday, February 14, 12:00pm<br>
+Wednesday, March 28, 5:30pm<br>
+Friday, April 28, 12:00pm
 </h5>
   
 <h5 class="psych">
-Stay tuned for upcoming spring visits
+Wednesday, February 22, 5:30pm<br>
+Thursday, April 13, 12:30pm
 </h5>
 
 <h5 class="history">
-Stay tuned for upcoming spring visitsStay tuned for upcoming spring visits
+Thursday, February 23, 5:00pm<br>
+Wednesday, April 12, 1:00pm
 </h5>

@@ -85,15 +85,15 @@ $lang = 'en';
             
 <li id="slide1">
 
-<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd" target="_blank"><img src="http://www.umbc.edu/engm/images/8.png" alt="Professional Programs Open House"/></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="http://www.umbc.edu/engm/images/8.png" alt="Accepting Applications For Spring"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Open House</h3>
-<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Accepting Applications For Spring</h3>
+<small>Classes begin January 30. </small>
 
-<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_isd" target="_blank">Professional Programs Open House</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications For Spring</a></p>
 
 </li>
 
@@ -119,26 +119,8 @@ $lang = 'en';
 <!-- END SLIDE TWO -->
 
 
-<!-- SLIDE THREE --
+<!-- SLIDE THREE --> 
       <li id="slide3">
-        <a href="http://isdnow.umbc.edu/?p=757"><img alt="img02" src="images/2.jpg"></a>
-
-        <div class="carousel-caption-right wordwrap">
-          <h3>Facts about Online Learning</h3>
-          <small>A look at a few key things about how online learning may open doors for learners.</small>
-
-          <p><a href="http://isdnow.umbc.edu/?p=757" class="btn">Read More</a></p>
-        </div>
-
-        <p id="captiontwo">
-          <a href="http://isdnow.umbc.edu/?p=757">Facts about Online Learning</a>
-        </p>
-      </li>
--- END SLIDE THREE --> 
-
-
-<!-- SLIDE FOUR --> 
-      <li id="slide4">
         <a href=
 "https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" target="_blank"><img alt="img03" src="images/TD-Magazine.jpg"></a>
 
@@ -155,26 +137,25 @@ $lang = 'en';
           <a href="https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" target="_blank">Creating a Career Portfolio</a>
         </p>
       </li>
+<!-- END SLIDE THREE --> 
+
+
+<!-- Slide FOUR -->    
+
+<li id="slide4">
+
+<a href="https://www.youtube.com/watch?v=fTCHzxX0YW8" class="video"><img src="images/Carousel.png" alt="ISD Now Forum 2016"/></a>
+<div class="carousel-caption-right wordwrap">
+<h3>ISD Now Forum 2016</h3>
+<small>Dr. Will Thalheimer challenged us in a rapid-fire quiz show, uncovering the many pitfalls around learning.</small>
+
+<p><a href="https://www.youtube.com/watch?v=fTCHzxX0YW8" class="web-seemore video">Watch Now</a></p></div>
+
+<p id="captionone"><a href="https://www.youtube.com/watch?v=fTCHzxX0YW8" class="video">ISD Now Forum 2016</a></p>
+
+</li>
+
 <!-- END SLIDE FOUR --> 
-
-
-<!-- SLIDE FIVE --> 
-      <li id="slide5">
-        <a href="http://isdnow.umbc.edu/?p=786" target="_blank"><img alt="img03" src="http://isdnow.umbc.edu/wp-content/uploads/history-of-isd1.jpg"></a>
-
-        <div class="carousel-caption wordwrap">
-          <h3>The History of Instructional Design</h3>
-          <small>Can you guess for how long learning technology has been around? Ever wonder about its origins?</small>
-          <p>
-          <a href="http://isdnow.umbc.edu/?p=786" target="_blank" class="btn">Read More</a>
-          </p>
-        </div>
-
-        <p id="captionthree">
-          <a href="https://youtu.be/Ih3I9m22eMM?list=PL0Y9Sng2cxe2iJ7Gs6gH9xnI7oSKKecCm" target="_blank">The History of Instructional Design</a>
-        </p>
-      </li>
-<!-- END SLIDE FIVE --> 
       
     </ul>
 

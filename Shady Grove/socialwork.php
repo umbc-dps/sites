@@ -99,13 +99,13 @@ html::after {
         
           <!-- Slide One -->
           <li id="slide1">
-          <a href="visit/pd-socialwork"><img src="images/morris2.jpg" alt="img03" target="_blank"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Visit with Katie Morris, LCSW-C</h3>
-              Visit with Katie Morris on Wed., Nov. 9th at 12:30pm to learn about our social work program as well as field placement and career opportunities.  Meet current social work students, too!
-<p><a href="visit/pd-socialwork" role="button" class="web-seemore" target="_blank">Reserve Your Spot</a></p>
+          <a href="pat#kahn"><img src="images/beth-cocker.png" alt="img03" target="_blank"></a>
+            <div class="carousel-caption-right wordwrap">
+              <h3>Introducing Liana Kahn</h3>
+              Liana is a current social work student, member of UMBC's Peer Advisory Team, and is interested in combining her interest in health and nutrition with her social work practice!
+<p><a href="pat#kahn" role="button" class="web-seemore" target="_blank">Meet Liana</a></p>
             </div>
-            <p id="captionthree"><a href="visit/pd-socialwork" target="_blank">Meet Katie Morris, Social Work Program Director!</a></p>
+            <p id="captionthree"><a href="pat#kahn" target="_blank">Meet Liana Kahn, Social Work Student!</a></p>
           </li>
          <!-- END Slide One -->
 

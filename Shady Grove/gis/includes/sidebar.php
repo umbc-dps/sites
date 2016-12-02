@@ -1,5 +1,12 @@
 <div class="five columns">
 
+    <aside class="five columns add-bottom" id="two">
+      <h3 style="color:#fff;">Upcoming Event</h3>
+      <p style="text-align:center">
+Check back in December for Spring 2017 Open House<br/>
+	</p>
+    </aside>
+    
     <aside class="five columns add-bottom" id="one" style="display:none">
       <h3 style="color:#fff;">Past Event</h3>
 
@@ -93,6 +100,14 @@ Deadline: December 1<br>
       </form>
     </p>   
    </aside>    
+   
+            <aside class="five columns add-bottom">
+<dt style="text-align:center">
+<a class="btn" href="http://gritinaction.umbc.edu/" target="_blank">
+Visit our Blog
+</a>
+</dt>
+</aside>
    
    
    <aside  class="five columns add-bottom">

@@ -93,33 +93,20 @@ background-attachment:fixed;
             
           </li>
          <!-- END Slide One -->
-                
+       
           <!-- Slide Two -->
           <li id="slide2">
-            <a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03" target="_blank"></a>
-                <div class="carousel-caption wordwrap">
-                  <h3>Attend Wednesday Wipeout!</h3>
-                  Meet Dr. Dasgupta and engage in discussion surrounding current local, state, and national events with UMBC-Shady Grove students!  Make connections and learn more about our political science program!
-    <p><a href="visit/pd-politicalscience" role="button" class="web-seemore" target="_blank">RSVP to Attend Here!</a></p>
-                </div>
-                <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Attend Wednesday Wipeout!</a></p>
-            
-          </li>
-         <!-- END Slide Two -->
-         
-          <!-- Slide Three -->
-          <li id="slide3">
-            <a href="https://www.facebook.com/events/1080195725411750/?active_tab=about">
-            <img src="images/congo.jpg" alt="img03" target="_blank">
+            <a href="http://undergraduate.umbc.edu/apply/shady-grove.php">
+            <img src="images/pat.png" alt="img03" target="_blank">
             </a>
                 <div class="carousel-caption wordwrap">
-                  <h3>Stand With Congo Screening</h3>
-                  Join the Political Science Student Organization as they host a Screening4Action of award-winning film "When Elephants Fight", narrated by Robin Wright on November 21st from 6pm-8pm in III-4202.
-    <p><a href="https://www.facebook.com/events/1080195725411750/?active_tab=about" role="button" class="web-seemore" target="_blank">RSVP</a></p>
+                  <h3>Final Application Deadline!</h3>
+                  Don't forget to apply by our final deadline of December 1st!
+    <p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
                 </div>
-                <p id="captionthree"><a href="https://www.facebook.com/events/1080195725411750/?active_tab=about" target="_blank">Stand With Congo Screening4action Night</a></p>
+                <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Final Application Deadline!</a></p>
           </li>
-        <!-- END Slide Three -->
+        <!-- END Slide Two -->
          
          <!-- Slide Three --
           <li id="slide3">
