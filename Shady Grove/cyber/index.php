@@ -78,10 +78,31 @@ $lang = 'en';
 <div class="eleven columns">
   <div class="cbp-fwslider" id="cbp-fwslider">
     <ul>
+    
+
+<!-- Slide ONE -->    
+
+<li id="slide1">
+
+<a href="infosession"  target="_blank">
+	<img alt="img02" src="images/umbc_cyber2.png"target="_blank">
+</a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>UMBC Cybersecurity Info Session</h3>
+<small>Visit us on Wednesday, March 8, to learn about our Cybersecurity Master's degree offered in Rockville, MD.</small>
+
+<p><a href="infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
+
+<p id="captiontwo"><a href="infosession" target="_blank">UMBC Cybersecurity Info Session</a></p>
+
+</li>
+
+<!-- END SLIDE ONE -->
    
 
-<!-- SLIDE ONE -->
-<li id="slide1">
+<!-- SLIDE TWO -->
+<li id="slide2">
       
 <a href="programcert#new"><img alt="img02" src="images/umbc_cyber5.png"></a>
 
@@ -94,7 +115,7 @@ $lang = 'en';
 <p id="captiontwo"><a href="programcert#new">New Cybersecurity Operations Certificate</a></p>
 
 </li>
-<!-- END SLIDE ONE -->
+<!-- END SLIDE TWO -->
 
 
 <!-- SLIDE TWO --

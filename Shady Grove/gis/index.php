@@ -76,21 +76,25 @@ $lang = 'en';
     <ul>
 
 
-<!-- SLIDE ONE -->
+<!-- Slide ONE -->    
+
 <li id="slide1">
 
-<a href="http://gradschool.umbc.edu/admissions/apply" target="_blank"><img alt="img03" src="images/2.jpg"></a>
+<a href="infosession"  target="_blank">
+	<img alt="img02" src="images/6.jpg"target="_blank">
+</a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>Accepting Applications For Spring </h3>
-<small>Classes begin January 30.</small>  
-          
-<p><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank" class="web-seemore">Apply Now</a></p></div>
+<h3>UMBC GIS Info Session</h3>
+<small>Visit us on Wednesday, March 8, to learn about our Cybersecurity Master's degree offered in Rockville, MD.</small>
 
-<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply" target="_blank"></a>Accepting Applications For Spring </p>
+<p><a href="infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
+
+<p id="captiontwo"><a href="infosession" target="_blank">UMBC GIS Info Session</a></p>
 
 </li>
-<!-- END SLIDE ONE --> 
+
+<!-- END SLIDE ONE -->
 
 
 <!-- SLIDE TWO --> 

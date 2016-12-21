@@ -158,7 +158,7 @@ BEGIN MAIN
           <strong>Phone</strong>: 58607<br>
           <strong>E-Mail</strong>: <a href="mailto:cbateman1@umbc.edu">cbateman1@umbc.edu</a></p></td>
       <td width="34%" valign="top"><p><strong>Cardona, Dennise</strong><br>
-          <strong>Title</strong>: Assistant Director<br>
+          <strong>Title</strong>: Digital Content Specialist<br>
           <strong>Unit</strong>: Marketing<br>
           <strong>Location</strong>: Sherman Hall 480<br>
           <strong>Phone</strong>: 55602 <br>
@@ -400,7 +400,7 @@ BEGIN MAIN
           <strong>E-Mail</strong>: <a href="mailto:northrop@umbc.edu">northrop@umbc.edu</a></p></td>
     
       <td bgcolor="#CCCCCC"><p><strong>Osazuwa, Christine</strong><br>
-          <strong>Title</strong>: Web/Social Media Coordinator<br>
+          <strong>Title</strong>: Assistant Director<br>
           <strong>Unit</strong>: Marketing <br>
           <strong>Location</strong>: Sherman Hall 479<br>
           <strong>Phone</strong>: 55609<br>

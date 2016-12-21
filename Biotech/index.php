@@ -125,23 +125,23 @@ $lang = 'en';
                
 <!-- END SLIDE TWO -->
 
-<!-- SLIDE THREE -->
+<!-- Slide THREE -->    
 
 <li id="slide3">
-<a href="http://www.umbc.edu/biotech/faculty#broedel"><img alt="Dr. Sheldon Broedel" src="images/broedel1.jpg"></a>
 
+<a href="https://www.youtube.com/watch?v=VBlEecFnaWk" class="video"><img src="images/Lachan.jpg" alt="UMBC Class of 2016 Profile: Lachan Rajbhandari"/></a>
 <div class="carousel-caption-right wordwrap">
-<h3>Meet Our Faculty: Dr. Sheldon Broedel</h3>
-<small>Dr. Broedel is a founder/CEO/CSO of Athena Environmental Sciences, Inc., a diversified biotechnology company.</small>
+<h3>UMBC Class of 2016 Profile: Lachan Rajbhandari</h3>
+<small>Biotechnology MPS graduate Lachan Rajbhandari talks with us about what makes UMBC so special.</small>
 
-<p><a class="web-seemore" href="http://www.umbc.edu/biotech/faculty#broedel">Read More</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=VBlEecFnaWk"class="web-seemore video">Watch Now</a></p></div>
 
-<p id="captionthree"><a href="http://www.umbc.edu/biotech/faculty#broedel">Meet Our Faculty: Dr. Sheldon Broedel</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=VBlEecFnaWk">UMBC Class of 2016 Profile: Lachan Rajbhandari</a></p>
 
 </li>
-               
-<!-- END SLIDE THREE -->
 
+<!-- END SLIDE THREE --> 
+               
 
 </ul>
 

@@ -1,15 +1,24 @@
 <div class="five columns">
 
+<aside class="five columns add-bottom" id="one">
+      <h3 style="color:#fff;">Upcoming Events</h3>
+
+
+      <p style="text-align:center"><strong>UMBC Cybersecurity Info Session</strong><br>
+      Wednesday, March 8, 6-7:30 pm<br>
+        <a class="btn" href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank">RSVP Now</a>
+      </p>
+    </aside>
+
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p style="text-align:center">
-Spring 2017 Application <br>
-Deadline: December 1<br>
-			<a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
+      <p style="text-align:center"><strong>Fall 2017 Application</strong><br> 
+		Deadline: March 1<br>
+        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
-</aside>
+	</aside>
 
 
     <aside class="five columns add-bottom" id="three">

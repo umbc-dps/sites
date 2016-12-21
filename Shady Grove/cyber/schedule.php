@@ -90,42 +90,42 @@ $lang = 'en';
   </tr>
   <tr>
     <td>CYBR    620.3 (6268)</td>
-    <td>Introduction    to Cybersecurity</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6268" target="_blank">Introduction    to Cybersecurity</a></td>
     <td>M</td>
     <td>5:30 PM -    8:10 PM</td>
     <td>Mallikarjuna Rao</td>
   </tr>
   <tr>
     <td>CYBR 623.2 (5681)</td>
-    <td>Cybersecurity Law    &amp; Policy</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5681" target="_blank">Cybersecurity Law    & Policy</a></td>
     <td>W</td>
     <td>6:00 PM - 8:45 PM</td>
     <td>Armin Tadayon</td>
   </tr>
   <tr>
     <td>CYBR 624.2 (6667)</td>
-    <td>Cybersecurity    Project </td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6667" target="_blank">Cybersecurity    Project </a></td>
     <td>M</td>
     <td>5:00 PM - 7:40 PM</td>
     <td>Behnam Shariati</td>
   </tr>
   <tr>
     <td>CYBR 650.2 (7764)</td>
-    <td>Cybersecurity    Management </td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7764" target="_blank">Cybersecurity    Management </a></td>
     <td>Th</td>
     <td>5:30 PM - 8:10 PM</td>
     <td>Mallikarjuna    Rao </td>
   </tr>
   <tr>
     <td>CYBR 691.3 (7762)</td>
-    <td>Special Topics in    Cybersecurity (Enterprise Security)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7762">Special Topics in    Cybersecurity (Enterprise Security)</a></td>
     <td>Tu</td>
     <td>5:30 PM - 8:10 PM</td>
     <td>Mike Stone</td>
   </tr>
   <tr>
     <td>CYBR 691.4 (8003)</td>
-    <td>Special Topics in    Cybersecurity (Internet of Things)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/8003" target="_blank">Special Topics in    Cybersecurity (Internet of Things)</a></td>
     <td>Tu</td>
     <td>5:30 PM - 8:10 PM</td>
     <td>Don Tobin</td>

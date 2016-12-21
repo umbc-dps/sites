@@ -75,7 +75,7 @@ $lang = 'en';
 <!-- START Content --> 
 
  <h3>Master's in Professional Studies: Cybersecurity </h3>
- <p>The ten-course master's degree combines courses in cybersecurity strategy, policy, and management with more technical, hands-on cybersecurity courses that allows students to develop a formal educational program that best meets their individual career development needs. </p>
+ <p>This ten-course graduate program integrates both technical and non-technical courses in Cybersecurity to prepare Computer Science, Information Systems, and other professionals to fill management, analytical, investigative, operational, and/or technical leadership roles in the Cybersecurity profession. Students are free to select electives based on their individual interests or professional requirements in the discipline.</p>
  <h4>Program Requirements:</h4>
  <p> Students must complete 10 courses (30 credits) as follows: 6 required (18 credits), 4 electives (12 credits).</p>
 

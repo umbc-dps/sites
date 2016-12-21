@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131225633781976589" remote="131225633780000000" Dst="2" />
+<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131236248320000000" remote="131236248320000000" Dst="1" />
 <file name="advisoryboard.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160906388782332" remote="131160906390000000" Dst="2" />
 <file name="certificate.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131171383839294257" remote="131171384160000000" Dst="2" />
 <file name="comparison.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131200757114087450" remote="131200757120000000" Dst="2" />
-<file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905430316495" remote="131160906390000000" Dst="2" />
+<file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131260486868339840" remote="131260486880000000" Dst="1" />
 <file name="costs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905431066570" remote="131160906390000000" Dst="2" />
 <file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160906398623316" remote="131160906400000000" Dst="2" />
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905435116975" remote="131160906400000000" Dst="2" />
 <file name="directions2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905435997063" remote="131160906400000000" Dst="2" />
 <file name="directions3.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905436907154" remote="131160906400000000" Dst="2" />
-<file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131170519790000000" remote="131170519790000000" Dst="2" />
+<file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131257637130000000" remote="131257637130000000" Dst="1" />
 <file name="infosession.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905442707734" remote="131160906410000000" Dst="2" />
-<file name="international.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131193731930000000" remote="131193731930000000" Dst="2" />
+<file name="international.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131199817280000000" remote="131199817280000000" Dst="1" />
 <file name="locations.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905444017865" remote="131160906410000000" Dst="2" />
 <file name="masters.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131194724450000000" remote="131194724450000000" Dst="2" />
 <file name="pep.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905445598023" remote="131160906420000000" Dst="2" />
@@ -21,8 +21,8 @@
 <file name="programs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905449418405" remote="131160906420000000" Dst="2" />
 <file name="resources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905449968460" remote="131160906420000000" Dst="2" />
 <file name="rsvp.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905450988562" remote="131160906420000000" Dst="2" />
-<file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131194720880000000" remote="131194720880000000" Dst="2" />
-<file name="studentforms.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905452018665" remote="131160906420000000" Dst="2" />
+<file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131249998460000000" remote="131249998460000000" Dst="1" />
+<file name="studentforms.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131224031130000000" remote="131224031130000000" Dst="1" />
 <file name="studentresources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905452528716" remote="131160906420000000" Dst="2" />
 <file name="thankyou.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905453458809" remote="131160906420000000" Dst="2" />
 <file name="webinar.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131160905454068870" remote="131160906430000000" Dst="2" />
@@ -32,4 +32,8 @@
 <file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="130996104770000000" remote="131060829350000000" Dst="2" />
 <file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131078795677526709" remote="131078795670000000" Dst="2" />
 <file name="programmaster.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131200757534599497" remote="131200757530000000" Dst="2" />
+<file name="protein.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131267387143829538" remote="131267387140000000" Dst="1" />
+<file name="programmaster2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131254280570000000" remote="131254280570000000" Dst="1" />
+<file name="proteinthankyou.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131263694273285972" remote="131263694270000000" Dst="1" />
+<file name="proteinschedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/biotech/" local="131263677064810629" remote="131263677060000000" Dst="1" />
 </dwsync>

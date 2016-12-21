@@ -160,9 +160,8 @@ $lang = 'en';
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
 <script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
+<!--Remove Comment for Programs without Program Guides-->
 <script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 <script>

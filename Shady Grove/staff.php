@@ -99,23 +99,6 @@ td p{width:100%}
         <div id="accordion">
     <!-- Start Content -->   
       <div class="content">
-<div class="accordionheader">
-            <h4><a id="cox" href="#cox"></a>Tim Cox<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-          <div class="accordionbody">
-            <img src="images/faculty/TimCox.jpg" align="left" style="padding-right: 15px" /><p><strong>Assistant Director of Advising and Student Success</strong><br>
-              <a href="mailto:thcox@umbc.edu">thcox@umbc.edu</a> | 301-738-6281<br>
-              <strong>Office:</strong> III-4155</strong></p>
-              
-            <p>Tim is your primary resource for: 
-            <ul style="margin-left:210px">
-              <li>Pre-Transfer Advising</li>
-              <li>Transfer Credit Reports</li>
-              <li>Degree Audits</li>
-            </ul>
-            </p><br clear="all">
-          </div>
 
 <div class="accordionheader">
             <h4><a id="jones" href="#jones"></a>Rickeysha Jones<i class="fa fa-angle-down"></i></h4>

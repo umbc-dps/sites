@@ -101,7 +101,7 @@ html::after {
       <h3>Your Success: Take Action</h3>
 <p><strong>If  you are having problems in one or more of your classes, now is the time to take  action.</strong></p>
 <p>The UMBC community is well aware of the difficulties many students face. <strong>We  are ready to help you be successful this semester and throughout your academic  career</strong>. Our <strong>Action Resource Center</strong> will guide you through the  steps you can take to achieve success.</p>
-<p>If you would like to speak with someone about your concerns, please contact Tim Cox,  Assistant Director of Advising and Student Success. He may be reached at  301-738-6281 or <a href="mailto:thcox@umbc.edu">thcox@umbc.edu</a>.</p>
+<p>If you would like to speak with someone about your concerns, please contact Shady Grove Administrative Team at 301-738-6081.</p>
 <p>We wish you success in achieving your  academic goals.</p>
 
 <h4>Action Resource Center</h4>
@@ -115,7 +115,7 @@ html::after {
 <p>Adjusting to a new school can be challenging. Whether it&rsquo;s academic or  personal, below are some resources that can help you with your transition:</p>
 <ul>
   <li><a href="http://fye.umbc.edu/programs/trs/" target="_blank">TRS 201</a>: Transfer Seminars are designed to assist in  the successful transition of transfer students from their previous college or  university to UMBC. The course focuses on developing and understanding the skills  needed and the academic expectations to achieve success at an Honors  University. The materials covered will complement the work that is being done  in upper-level courses in your major, and it will contain academic material  selected by the Department that has been identified as a barrier to the success  of transfer students. Once you click the hyperlink, scroll to the bottom of the  page for the Shady Grove course.</li>
-  <li><a href="http://www.shadygrove.umd.edu/campus-services/cas" target="_blank">Center for Academic Success</a>, located in Building III-1134 in the Office of Student &amp; Academic  Services (SAS) Suite provides the following services:</li>
+  <li><a href="http://www.shadygrove.umd.edu/student-services/center-for-academic-success" target="_blank">Center for Academic Success</a>, located in Building III-1134 in the Office of Student &amp; Academic  Services (SAS) Suite provides the following services:</li>
   <ul>
     <li>Writing assistance</li>
     <li>Guided Study Sessions</li>
@@ -124,7 +124,7 @@ html::after {
     <li>Tutoring</li>
     <li>Test Proctoring</li>
   </ul>
-  <li>USG also provides free, confidential counseling services at its <a href="http://www.shadygrove.umd.edu/campus-services/ccc" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library). Please call  301-738-6273 to make an appointment.</li>
+  <li>USG also provides free, confidential counseling services at its <a href="http://www.shadygrove.umd.edu/student-services/center-for-counseling-and-consultation" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library). Please call  301-738-6273 to make an appointment.</li>
 </ul>
 </div>
 
@@ -140,8 +140,8 @@ html::after {
   <li>Find out if the department has additional  academic support services, such as discussion groups or test files.</li>
   <li>Speak with your academic advisor.</li>
   <li>Consider using different <a href="http://lrc.umbc.edu/alerts/study-well/" target="_blank">study techniques</a>.</li>
-  <li>Visit the <a href="http://www.shadygrove.umd.edu/campus-services/cas" target="_blank">Center for Academic Success</a> for writing  assistance, guided study sessions, workshops on time management, academic  coaching, tutoring, and/or disability support. The office is located in  Building III-1134 in the Office of Student &amp; Academic Services (SAS) Suite.</li>
-  <li>If you are feeling stressed or overwhelmed,  counselors are available at the <a href="http://www.shadygrove.umd.edu/campus-services/ccc" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library).  Please call 301-738-6273 for an appointment.</li>
+  <li>Visit the <a href="http://www.shadygrove.umd.edu/student-services/center-for-academic-success" target="_blank">Center for Academic Success</a> for writing  assistance, guided study sessions, workshops on time management, academic  coaching, tutoring, and/or disability support. The office is located in  Building III-1134 in the Office of Student &amp; Academic Services (SAS) Suite.</li>
+  <li>If you are feeling stressed or overwhelmed,  counselors are available at the <a href="http://www.shadygrove.umd.edu/student-services/center-for-counseling-and-consultation" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library).  Please call 301-738-6273 for an appointment.</li>
 </ul>
 </div>
 
@@ -165,7 +165,7 @@ html::after {
   <li>Find out if the department has additional academic support services, such as discussion groups or test files.</li>
   <li>Speak with your academic advisor and discuss whether reducing your overall credit load will allow more time to focus on each course.</li>
   <li>Consider using different <a href="http://lrc.umbc.edu/alerts/study-well/" target="_blank">study techniques</a>.</li>
-  <li>Visit the <a href="http://www.shadygrove.umd.edu/campus-services/cas" target="_blank">Center for Academic Success</a> for writing assistance, guided study sessions, workshops on time management, academic coaching, tutoring, and/or disability support. The office is located in Building III-1134 in the Office of Student &amp; Academic Services (SAS) Suite.</li>
+  <li>Visit the <a href="http://www.shadygrove.umd.edu/student-services/center-for-academic-success" target="_blank">Center for Academic Success</a> for writing assistance, guided study sessions, workshops on time management, academic coaching, tutoring, and/or disability support. The office is located in Building III-1134 in the Office of Student &amp; Academic Services (SAS) Suite.</li>
   <li>Adjust your work schedule and extracurricular commitments.</li>
 </ul>
 </div>
@@ -181,8 +181,8 @@ html::after {
   <li>Start to attend all your classes and <a href="http://my.umbc.edu/apps/bb/activity" target="_blank">compare your Blackboard activity with course peers</a>. </li>
   <li>Talk with your instructor(s) in the course(s) to explain why you haven't been to class and to see how your absences have and  will affect your grade. Find out what you can do to make up missed assignments,  etc.</li>
   <li>If for some reason, you cannot attend your  class or classes, talk to your instructor and/or <a href="advising" target="_blank">academic advisor</a>.</li>
-  <li>If time management or academic difficulty is an issue, visit the <a href="http://www.shadygrove.umd.edu/campus-services/cas" target="_blank">Center for Academic Success</a>, located in  Building III-1134 in the Office of Student &amp; Academic Services (SAS), for  ways to improve.</li>
-  <li>If you are feeling stressed or overwhelmed,  counselors are available at the <a href="http://www.shadygrove.umd.edu/campus-services/ccc" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library). Please call 301-738-6273 for an appointment.</li>
+  <li>If time management or academic difficulty is an issue, visit the <a href="http://www.shadygrove.umd.edu/student-services/center-for-academic-success" target="_blank">Center for Academic Success</a>, located in  Building III-1134 in the Office of Student &amp; Academic Services (SAS), for  ways to improve.</li>
+  <li>If you are feeling stressed or overwhelmed,  counselors are available at the <a href="http://www.shadygrove.umd.edu/student-services/center-for-counseling-and-consultation" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library). Please call 301-738-6273 for an appointment.</li>
 </ul>
 </div>
 
@@ -198,8 +198,8 @@ html::after {
   <li>Talk to your instructor(s) in the course(s).  Ask for strategies that will help you understand and study the subject.</li>
   <li>Find out if the department has additional  academic support services, such as discussion groups or test files.</li>
   <li>Consider using different <a href="http://lrc.umbc.edu/alerts/study-well/" target="_blank">study techniques</a>.</li>
-  <li>Visit the <a href="http://www.shadygrove.umd.edu/campus-services/cas" target="_blank">Center for Academic Success </a>for writing  assistance, guided study sessions, workshops on time management, academic  coaching, and/or disability support. The office is located in Building III-1134  in the Office of Student &amp; Academic Services (SAS) Suite.</li>
-  <li>If you are feeling stressed or overwhelmed,  counselors are available at the <a href="http://www.shadygrove.umd.edu/campus-services/ccc" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library). Please call 301-738-6273 for an appointment.</li>
+  <li>Visit the <a href="http://www.shadygrove.umd.edu/student-services/center-for-academic-success" target="_blank">Center for Academic Success </a>for writing  assistance, guided study sessions, workshops on time management, academic  coaching, and/or disability support. The office is located in Building III-1134  in the Office of Student &amp; Academic Services (SAS) Suite.</li>
+  <li>If you are feeling stressed or overwhelmed,  counselors are available at the <a href="http://www.shadygrove.umd.edu/student-services/center-for-counseling-and-consultation" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library). Please call 301-738-6273 for an appointment.</li>
 </ul>
 </div>
 
@@ -210,7 +210,7 @@ html::after {
           <div class="accordionbody">
 <p>If you feel that your personal life is interfering with your academic  success, we encourage you to check out the following resources:</p>
 <ul>
-  <li>The <a href="http://www.shadygrove.umd.edu/campus-services/ccc" target="_blank">Center for Counseling and Consultation</a> (CCC), located in Building III, Room 1134 (enter through Library).</li>
+  <li>The <a href="http://www.shadygrove.umd.edu/student-services/center-for-counseling-and-consultation" target="_blank">Center for Counseling and Consultation</a> (CCC), located in Building III, Room 1134 (enter through Library).</li>
 </ul>
   <li>The CCC provides:</li>
 <ul>
@@ -224,10 +224,7 @@ html::after {
   <li>Housed on UMBC&rsquo;s main campus, the <a href="http://www.umbc.edu/womenscenter/" target="_blank">Women&rsquo;s Center</a> is an excellent resource for all UMBC  students.</li>
 </ul>
 <ul>
-  <li>If you have questions about child care or are  in need of a housing referral, please visit the <a href="http://www.shadygrove.umd.edu/campus-services/student-services" target="_blank">Office of Student Services</a>, located in Building III, Room 1100.</li>
-</ul>
-<ul>
-  <li>If you would like to speak with someone about  your concerns, please contact Tim Cox, Assistant Director of Advising and  Student Success. He may be reached at 301-738-6281 or <a href="mailto:thcox@umbc.edu">thcox@umbc.edu</a>.</li>
+  <li>If you have questions about child care or are  in need of a housing referral, please visit the <a href="http://www.shadygrove.umd.edu/student-services/office-of-student-services " target="_blank">Office of Student Services</a>, located in Building III, Room 1100.</li>
 </ul>
 </div>
 
@@ -241,10 +238,10 @@ html::after {
 <ul>
   <li><a href="http://www.umbc.edu/financialaid/" target="_blank">Financial Aid</a>: Learn about FAFSA, applying for loans, and finding scholarships.  Financial aid counselors are available to answer your questions. Please note that counselors are assigned to  students based on their last names. For more info, please call 410-455-2387.</li>
   <li><a href="http://www.umbc.edu/financialaid/scholarship_current.html" target="_blank">Scholarships</a>: Check out merit-based scholarships for  current students. Did you know that the Universities at Shady Grove has  scholarships, as well? Click <a href="http://www.shadygrove.umd.edu/scholarships">here</a> for USG scholarships.</li>
-  <li><a href="http://www.shadygrove.umd.edu/campus-services/career-services" target="_blank">Career Services Center</a>: You'll discover many resources to find jobs. Be sure to set up an  account on <a href="http://www.careers.umbc.edu/umbcworks/">UMBCworks</a> as well!</li>
+  <li><a href="http://www.shadygrove.umd.edu/student-services/career-and-internship-center" target="_blank">Career Services Center</a>: You'll discover many resources to find jobs. Be sure to set up an  account on <a href="http://www.careers.umbc.edu/umbcworks/">UMBCworks</a> as well!</li>
   <li><a href="http://sbs.umbc.edu/payment-plan/">Monthly Tuition Payment Plan</a>: This affords you the ability to conserve your savings and budget your  expenses.  For more info, please call  410-455-2288.</li>
   <li><a href="http://sbs.umbc.edu/" target="_blank">Student Business Services</a>: Missed  some payments? Noticed a billing mistake? Want to pay online? This is the place  to go. Have some questions? Try this <a href="http://sbs.umbc.edu/faq/">FAQ link</a>. For more info, please call  410-455-2288.</li>
-  <li><a href="http://www.shadygrove.umd.edu/campus-services/ccc" target="_blank">Center for Counseling and Consultation</a>: If  this is personal, you are encouraged to visit the office located in Building  III, Room 1134 (enter through Library). You may also call 301-738-6273 for more  information or set an appointment.</li>
+  <li><a href="http://www.shadygrove.umd.edu/student-services/center-for-counseling-and-consultation" target="_blank">Center for Counseling and Consultation</a>: If  this is personal, you are encouraged to visit the office located in Building  III, Room 1134 (enter through Library). You may also call 301-738-6273 for more  information or set an appointment.</li>
 </ul>
 </div>
 
@@ -267,15 +264,15 @@ html::after {
   <li>Find out if the department has additional academic support services, such as discussion groups or test files.</li>
   <li>Speak with your academic advisor and discuss whether reducing your overall credit load will allow more time to focus on each course.</li>
   <li>Consider using different <a href="http://lrc.umbc.edu/alerts/study-well/" target="_blank">study techniques</a>.</li>
-  <li>Study with a <a href="http://www.shadygrove.umd.edu/campus-services/cas/peersupport" target="_blank">tutor</a>.</li>
+  <li>Study with a <a href="http://www.shadygrove.umd.edu/student-services/center-for-academic-success/peersupport" target="_blank">tutor</a>.</li>
 </ul>
 <ul>
   <li>Reach out to <a href="http://www.umbc.edu/financialaid/" target="_blank">Financial Aid</a> to see how your reward may be adjusted if  you withdraw/drop from a class. For more info, please call 410-455-2387.</li>
 </ul>
 <ul>
-  <li>Visit the <a href="http://www.shadygrove.umd.edu/campus-services/cas" target="_blank">Center for Academic Success</a> for writing assistance, guided study sessions, workshops on time management, academic coaching, tutoring, and/or disability support. The office is located in Building III-1134 in the Office of Student &amp; Academic Services (SAS) Suite.</li>
+  <li>Visit the <a href="http://www.shadygrove.umd.edu/student-services/center-for-academic-success" target="_blank">Center for Academic Success</a> for writing assistance, guided study sessions, workshops on time management, academic coaching, tutoring, and/or disability support. The office is located in Building III-1134 in the Office of Student &amp; Academic Services (SAS) Suite.</li>
   <li>Adjust your work schedule and extracurricular commitments.</li>
-  <li>If you are feeling stressed or overwhelmed, counselors are available at the <a href="http://www.shadygrove.umd.edu/campus-services/ccc" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library). Please call 301-738-6273 for an       appointment. </li>
+  <li>If you are feeling stressed or overwhelmed, counselors are available at the <a href="http://www.shadygrove.umd.edu/student-services/center-for-counseling-and-consultation" target="_blank">Center for Counseling and Consultation</a>, located in Building III, Room 1134 (enter through Library). Please call 301-738-6273 for an       appointment. </li>
   <li>International students should reach out to <a href="http://www.umbc.edu/ies/services/current.html" target="_blank">International Education Services</a> to see if withdrawing/dropping a course will affect their immigration status. </li>
 </ul>
 <p><strong>If you make the decision to drop/withdraw  from a course, then there are two  steps that must be completed:</strong></p>
@@ -291,7 +288,7 @@ html::after {
           </div>
 
           <div class="accordionbody">
-<p>If you can't find help through the Action Resource Center, please  contact Tim Cox, Assistant Director of Advising and Student Success. He may be  reached at 301-738-6281 or <a href="mailto:thcox@umbc.edu">thcox@umbc.edu</a>.</p>    
+<p>If you can't find help through the Action Resource Center, please  contact Ashley Waters, Associate Director, <a href="mailto:awaters@umbc.edu" target="_blank">awaters@umbc.edu</a>, 301-738-6175.</p>    
 </div>    
       </div>
       

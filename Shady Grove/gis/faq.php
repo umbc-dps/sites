@@ -129,7 +129,7 @@ $lang = 'en';
     <h4>What type of career/job search support does the program or UMBC provide upon graduation? <i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
-    <p>To assist us in placing students in internships and jobs, we will have support from <a href="http://www.shrivercenter.org/" target="_blank">UMBC's Shriver Center</a>. Our students will also have access to <a href="http://www.careers.umbc.edu/" target="_blank">UMBC's Career Services</a> department and the <a href="http://www.shadygrove.umd.edu/campus-services/career-services" target="_blank">USG's Career Services</a> group. Additionally, we will have access to our Advisory Board members who may also have job opportunities through their organizations and/or may know of opportunities in related areas.</p>
+    <p>To assist us in placing students in internships and jobs, we will have support from <a href="http://www.shrivercenter.org/" target="_blank">UMBC's Shriver Center</a>. Our students will also have access to <a href="http://www.careers.umbc.edu/" target="_blank">UMBC's Career Services</a> department and the <a href="http://www.shadygrove.umd.edu/student-services/career-and-internship-center" target="_blank">USG's Career Services</a> group. Additionally, we will have access to our Advisory Board members who may also have job opportunities through their organizations and/or may know of opportunities in related areas.</p>
     </div>
       
       

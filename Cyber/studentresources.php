@@ -93,7 +93,6 @@ $lang = 'en';
  <ul>
  <li><a href="http://gradschool.umbc.edu/">Graduate School </a></li>
  <li><a href="http://registrar.umbc.edu/">Registrar's Office </a>(graduate catalog, academic calendar, registration, transcript requests)</li>
- <li><a href="http://sss.umbc.edu/">Student Support Services</a></li>
  <li><a href="http://sbs.umbc.edu/">Student Business Services</a> (billing information, payment, loans, and e-refunds)</li>
  <li><a href="http://careers.umbc.edu/">Career Services</a> (internships/career)</li>
  <li><a href="http://ies.umbc.edu/">International Education Services</a> (job searching, researching and networking, resume writing and interviewing)</li>

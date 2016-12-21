@@ -120,7 +120,7 @@ $lang = 'en';
  <p><strong>Your application packet should include the following documents:</strong></p>
  <ul>
    <li>Completed degree-seeking application (including residency form). Use program code GIS and concentration code (Refer to Master's Admission page for list of codes).</li>
-   <li>Three letters of recommendation</li>
+   <li>Two letters of recommendation</li>
    <li> Statement of Academic Goals</li>
    <li>Official transcript(s) from each college &amp; university attended</li>
    <li><a href="documents/experienceform.doc">Experience Form</a></li>

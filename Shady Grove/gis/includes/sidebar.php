@@ -1,32 +1,24 @@
 <div class="five columns">
 
-    <aside class="five columns add-bottom" id="two">
-      <h3 style="color:#fff;">Upcoming Event</h3>
-      <p style="text-align:center">
-Check back in December for Spring 2017 Open House<br/>
-	</p>
-    </aside>
-    
-    <aside class="five columns add-bottom" id="one" style="display:none">
-      <h3 style="color:#fff;">Past Event</h3>
+<aside class="five columns add-bottom" id="one">
+      <h3 style="color:#fff;">Upcoming Events</h3>
 
 
-      <p>UMBC Geographic Information Systems Virtual Info Session
-        <a class="btn video" href="https://www.youtube.com/watch?v=BNddZw1flAY">Watch Video</a>
+      <p style="text-align:center"><strong>UMBC GIS Info Session</strong><br>
+      Wednesday, March 8, 6-7:30 pm<br>
+        <a class="btn" href="http://www.umbc.edu/shadygrove/gis/infosession" target="_blank">RSVP Now</a>
       </p>
     </aside>
-
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p style="text-align:center">
-Spring 2017 Application <br>
-Deadline: December 1<br>
-			<a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
+      <p style="text-align:center"><strong>Fall 2017 Application</strong><br> 
+		Deadline: March 1<br>
+        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
-</aside>
+	</aside>
 
 
     <aside class="five columns add-bottom" id="three">

@@ -167,55 +167,43 @@ BEGIN MAIN
 
 <li id="slide1">
 
-<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_pp" target="_blank"><img src="images/6.jpg" alt="Professional Programs Open House"/></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/6.jpg" alt="Apply Now for Spring 2017"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Open House</h3>
-<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Apply Now for Spring 2017</h3>
+<small>Classes begin January 30.</small>
 
-<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_pp" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_pp" target="_blank">Professional Programs Open House</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now for Spring 2017</a></p>
 
 </li>
 
 <!---- END SLIDE ONE ---->
 
-<!-- Slide Two -->        
+<!-- SLIDE TWO -->
+
 <li id="slide2">
 
-<a href="https://www.youtube.com/watch?v=tSzZXg6isyc" class="video"><img src="images/liz-alumni.png" alt="Learn About Professional Programs"/></a>
+<a href="http://gritinaction.umbc.edu/senator-cardin/" target="_blank"><img src="images/CardinPP2.jpg" alt="Senator Ben Cardin Visits UMBC."/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Hear From Professional Programs Alumni</h3>
-<small>Learn about their experiences with Professional Programs and how a UMBC education helped them advance in their careers. </small>
+<h3>Senator Ben Cardin Visits UMBC.</h3>
+<small>On November 28, Senator Ben Cardin visited UMBC and discussed current issues in global cybersecurity with students.</small>
 
-<p><a href="https://www.youtube.com/watch?v=tSzZXg6isyc" role="button" class="web-seemore video">Watch Video</a></p></div>
+<p><a href="http://gritinaction.umbc.edu/senator-cardin/" role="button" class="web-seemore" target="_blank">Read about his visit!</a></p></div>
 
-<p id="captiontwo"><a href="https://www.youtube.com/watch?v=tSzZXg6isyc" class="video">Hear From Professional Programs Alumni</a></p>
+<p id="captionthree"><a href="http://gritinaction.umbc.edu/senator-cardin/" target="_blank">Senator Ben Cardin Visits UMBC</a></p>
 
 </li>
-<!-- END Slide Two --> 
-        
+
+<!---- END SLIDE TWO ----> 
+              
+
+              
+
 <!-- Slide Three -->        
 <li id="slide3">
-
-<a href="http://news.umbc.edu/two-umbc-alumni-to-compete-on-the-world-stage-at-rio-olympics/" target="_blank"><img src="images/rio.jpg" alt="Muhamed Hussein"/></a>
-
-<div class="carousel-caption-right wordwrap">
-<h3>Retrievers in Rio</h3>
-<small>Mohamed Hussein, a current Engineering Management student, represented Egypt as a member of the swim team.</small>
-
-<p><a href="http://news.umbc.edu/two-umbc-alumni-to-compete-on-the-world-stage-at-rio-olympics/" target="_blank">Read More</a></p></div>
-
-<p id="captiontwo"><a href="http://news.umbc.edu/two-umbc-alumni-to-compete-on-the-world-stage-at-rio-olympics/" target="_blank">Retrievers in Rio</a></p>
-
-
-</li>
-<!-- END Slide Three -->        
-
-<!-- Slide Four -->        
-<li id="slide4">
 
 <a href="https://www.youtube.com/watch?v=eDLz0pDpHvU" class="video"><img src="images/president.png" alt="President Hrabowski"/></a>
 
@@ -229,11 +217,11 @@ BEGIN MAIN
 
 </li>
 
-<!-- END Slide Four -->  
+<!-- END Slide Three -->  
 
-<!-- SLIDE Five --> 
+<!-- SLIDE Four --> 
 
-<li id="slide5">
+<li id="slide4">
 
 <a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank"><img alt="Reading on campus" src="images/2.jpg"></a>
 
@@ -247,7 +235,7 @@ BEGIN MAIN
  
 </li>
 
-<!-- END SLIDE Five --> 
+<!-- END SLIDE Four --> 
   
         </ul>
         <div id="dotcontainer"></div>

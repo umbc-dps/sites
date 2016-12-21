@@ -64,63 +64,30 @@
 
          <!-- Slide One  -->
           
-          <li id="slide1">
-           <a href="all-courses">
-           <img src="images/9.jpg" alt="Winter Tutoring" target="_blank">
-           </a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Winter Session Schedule is Now Live!</h3>
-              <small>View all courses available this Winter!</small>
-              <p><a href="scholarships" role="button" class="web-seemore" target="_blank">View Courses</a></p>
+          <li id="slide1">  <a href="http://gritgoing.umbc.edu/?p=1178"><img src="images/featured/poli446.jpg" alt="Featured Course: The Politics of Poverty" target="_blank"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Featured Course: The Politics of Poverty <br>(POLI 446)</h3>
+              <small>Study poverty and the welfare state from ideologically diverse perspectives in this online course that fulfills the Writing Intensive GEP.</small>
+              <p><a href="http://gritgoing.umbc.edu/?p=1178" role="button" class="web-seemore" target="_blank">Learn more</a></p>
             </div>
-            <p id="captionone">
-            <a href="all-courses" target="_blank">Winter Session Schedule is Now Live!</a>
-            </p>
+            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1178" target="_blank">Featured Course: The Politics of Poverty</a></p>
           </li>
-          
           
           <!-- END Slide One --> 
           
-         <!-- Slide Two  -->
+          <!-- Slide Two -->
           
-          <li id="slide2">
-           <a href="scholarships"><img src="images/10.jpg" alt="Financial Aid & Scholarships" target="_blank"></a>
+          <li id="slide2"> <a href="http://gritgoing.umbc.edu/?p=1112"><img src="images/featured/phil248.jpg" alt="Featured Course: Introduction to Scientific Reasoning" target="_blank"></a>
             <div class="carousel-caption wordwrap">
-              <h3>Financial Aid & Scholarships</h3>
-              <small>Learn about opportunities for financial aid & scholarships for Winter Session.</small>
-              <p><a href="scholarships" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+              <h3>Featured Course: Introduction to Scientific Reasoning <br>(PHIL 248)</h3>
+              <small>This winter, learn how people reason their way through complex issues as you fulfill the Arts & Humanities GEP.</small>
+              <p><a href="http://gritgoing.umbc.edu/?p=1112" role="button" class="web-seemore" target="_blank">Learn more</a></p>
             </div>
-            <p id="captiontwo"><a href="scholarships" target="_blank">Financial Aid & Scholarships</a></p>
+            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1112" target="_blank">Featured Course: Intro to Scientific Reasoning</a></p>
           </li>
           
           <!-- END Slide Two --> 
-                    
-          <!-- Slide Three -->
           
-          <li id="slide3">
-           <a href="http://gritgoing.umbc.edu/?p=1107"><img src="images/featured/mcs370.jpg" alt="Featured Course: Sports Production" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Featured Course: Sports Production</h3>
-              <small>Earn credits and learn the basics of collegiate sports production and promotion.</small>
-              <p><a href="http://gritgoing.umbc.edu/?p=1107" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-            </div>
-            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1107" target="_blank">Featured Course: Sports Production</a></p>
-          </li>
-          
-          <!-- END Slide Three --> 
-          
-          <!-- Slide Four -->
-          
-          <li id="slide4"> <a href="http://gritgoing.umbc.edu/?p=1013"><img src="images/featured/AMST352.jpg" alt="Featured Course: American Culture in a Global Perspective" target="_blank"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Featured Course: American Culture in a Global Perspective<br> (AMST 352)</h3>
-              <small>Examine how and why American culture impacts the rest of the world. (Course fulfills Arts & Humanities or Culture GEP).</small>
-              <p><a href="http://gritgoing.umbc.edu/?p=1013" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-            </div>
-            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1013" target="_blank">Featured Course: American Culture in a Global Perspective</a></p>
-          </li>
-          
-          <!-- END Slide Four -->
           
         </ul>
         <div id="dotcontainer"></div>
@@ -141,11 +108,14 @@
         <h4>January 3 - 27</h4>
         <br>
         <h4>This winter, stay on track to graduate on time (or early) and move one step closer to starting your career.</h4><br>
-        <h6>Lighten your spring course load, boost your GPA, complete a required course, and move closer to your degree!</h6><br>
-        <h6>Registration begins October 24 - so start planning now.</h6><br>
-        <h4>Let us help you GRIT Going!</h4>
+        
+        <ul style="padding-left:40px; font-size:14pt">
+        	<li style="list-style:square"><strong>December 21</strong> is the deadline for visiting students to apply for Winter Session 2017.  Applications cannot be accepted after this date.</li>
+
+<li style="list-style:square">UMBC will be closed from Friday, December 23, 2016 through January 2, 2017. If you need to reach the Office of Summer & Winter Programs during this time, please <a href="contact">contact us</a> by submitting a help ticket.</li>
+<ul>
+        <h4>Register Now - Let us help you GRIT Going!</h4>
         </dl>
-      </dl>
     </div>
       
   </div>

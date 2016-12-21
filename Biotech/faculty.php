@@ -127,7 +127,7 @@ B.S., Case Western Reserve University</p>
 
           <div class="accordionbody">
             <strong>Assistant Graduate Program Director and Instructor</strong>
-            <p><img align="left" alt="Sheldon Broedel" src="images/faculty/umbc-faculty-Sheldon-Broedel.gif">
+            <p><img align="left" alt="Sheldon Broedel" src="images/sheldon-broedel.jpg">
 
             B.S. Biology, State University, New York<br>
             M.S., Ph.D., Microbial and Molecular Genetics, UMBC</p>

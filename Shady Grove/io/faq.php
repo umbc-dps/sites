@@ -109,7 +109,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionbody">
-  <p>One form of assistance is the placement in the practicum, which may lead to a full-time job as well as possible connections to other organizations that have job openings.  To assist us in placing students in internships and jobs, we will have support from <a href="http://www.shrivercenter.org/" target="_parent">UMBC's Shriver Center</a>.  Our students will also have access to <a href="http://www.careers.umbc.edu" target="_parent">UMBC's Career Services</a> department and the <a href="http://www.shadygrove.umd.edu/campus-services/career-services" target="_parent">USG's Career Services</a> group.  Additionally, we will have access to our Advisory Board members who may also have job opportunities through their organizations and/or may know of opportunities in related areas.
+  <p>One form of assistance is the placement in the practicum, which may lead to a full-time job as well as possible connections to other organizations that have job openings.  To assist us in placing students in internships and jobs, we will have support from <a href="http://www.shrivercenter.org/" target="_parent">UMBC's Shriver Center</a>.  Our students will also have access to <a href="http://www.careers.umbc.edu" target="_parent">UMBC's Career Services</a> department and the <a href="http://www.shadygrove.umd.edu/student-services/career-and-internship-center" target="_parent">USG's Career Services</a> group.  Additionally, we will have access to our Advisory Board members who may also have job opportunities through their organizations and/or may know of opportunities in related areas.
   </p>
 </div>
 

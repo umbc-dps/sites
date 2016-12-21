@@ -118,7 +118,7 @@ only screen and (max-width: 1023px),
 	<h3><strong>Undergraduate Events</strong></h3>
 
 <p>All in-person sessions will be held in the Camille Kendall Academic Center (Building III).<strong> <br>
-For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about/visit" target="_blank">here</a>.</strong></p>
+For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about-usg/directions-transportation" target="_blank">here</a>.</strong></p>
 
 <p>If you have questions, please contact: Chelsea Moyer at 301-738-6184. </strong></p>
 
@@ -129,10 +129,10 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-	Tuesday, December 6, 10:30am<br>
 	Wednesday, January 25, 5:00pm<br>
 	Tuesday, February 21, 11:00am<br>
-	Friday, April 21, 1:00pm<br>
+    Friday, March 24, 1:00pm<br>
+	Saturday, April 22: 12:30pm<br>
 	Thursday, May 18, 3:00pm<br>
 	  <br>
 	  <a href="infosession" target="_blank" class="button btn-sm">
@@ -147,20 +147,25 @@ For a campus map, directions and parking information, please click <a href="htt
 	<div class="accordionbody">
 <p>
 		<strong>History:</strong><br>
-		Stay tuned for upcoming spring visits.</p>      
+		Thursday, February 23, 5:00pm<br>
+		Wednesday, April 12, 1:00pm</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, November 16, 12:00pm<br>
-		Wednesday, November 30, 12:00pm<br>
-		Wednesday, December 7, 12:00pm</p>
+		Wednesday, February 8, 12:00pm<br>
+		Wednesday, February 15, 12:00pm<br>
+		Wednesday, February 22, 12:00pm<br>
+		Wednesday, March 1, 12:00pm</p>  
 	
     <p>
         <strong>Psychology:</strong><br>
-		Stay tuned for upcoming spring visits.<br>
+		Wednesday, February 22, 5:30pm<br>
+		Thursday, April 13, 12:30pm<br>
     </p>
 	<p>
         <strong>Social Work:</strong><br>
-		Stay tuned for upcoming spring visits.</p>
+		Tuesday, February 14, 12:00pm<br>	
+		Wednesday, March 28, 5:30pm<br>
+		Friday, April 28, 12:00pm</p>
   
   <a href="pd" target="_blank" class="button btn-sm"> 
   		
@@ -176,7 +181,7 @@ For a campus map, directions and parking information, please click <a href="htt
    
  
 <p>All in-person sessions will be held in the Camille Kendall Academic Center (Building III).<strong> <br>
-For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about/visit" target="_blank">here</a>.</strong></p>
+For a campus map, directions and parking information, please click <a href="http://shadygrove.umd.edu/about-usg/directions-transportation" target="_blank">here</a>.</strong></p>
 
 <p>If you have questions, please contact: Rickeysha Jones at 301-738-6285. </strong></p>
 

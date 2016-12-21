@@ -1,5 +1,12 @@
 <div class="five columns omega add-bottom" style="float:right;"> 
 <aside class="five columns add-bottom">
+
+<h3 class="home-heading">Upcoming Event</h3>
+<p>Check back in December for Spring 2017 Open House<br>
+</p>
+
+<aside class="five columns add-bottom">
+
 <h3 class="home-heading">Past Events</h3>
          
 <p>View our past info sessions &amp; webinars:</p>

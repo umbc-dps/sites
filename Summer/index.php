@@ -75,11 +75,11 @@
   <div class="carousel-caption wordwrap">
       
     <h3>Summer 2017:</h3>
-    <center><small>Registration begins March 13.</small></center>
+    <center><small>Registration begins March 6.</small></center>
   
   </div>
   
-  <p id="captiontwo"><a>Summer 2017 Registration begins March 13.</a></p>
+  <p id="captiontwo"><a>Summer 2017 Registration begins March 6.</a></p>
   
 </a>
           

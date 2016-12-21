@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   
-<META http-equiv="REFRESH" content="2;URL=http://www.shadygrove.umd.edu/about/visit">
+<META http-equiv="REFRESH" content="2;URL=http://www.shadygrove.umd.edu/about-usg/directions-transportation">
 
 
     

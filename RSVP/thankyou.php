@@ -141,7 +141,7 @@ BEGIN MAIN
     <h3><a href="index"><img src="images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
     
     <h5 style="font-weight:bold">Date:</h5>
-<h6>Tuesday, October 25, 5:30-8:00PM</h5>
+<h6>Saturday, April 1, 10:00AM - 12:00PM</h5>
 <br>
 
 <h5 style="font-weight:bold">Location:</h5>
@@ -152,8 +152,8 @@ BEGIN MAIN
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">10/25/2016 6:00 PM</span>
-    <span class="end">10/25/2016 8:30 PM</span>
+    <span class="start">04/01/2017 10:00 AM</span>
+    <span class="end">04/01/2017 12:00 PM</span>
     <span class="timezone">America/New_York</span>
     <span class="title">UMBC Professional Programs Open House</span>
     <span class="description">Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</span>

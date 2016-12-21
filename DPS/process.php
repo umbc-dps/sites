@@ -88,7 +88,7 @@ function sanitizeString($var)
 			$theTable1 .= "<tr><td><p>Thank you for your interest in UMBC's $programtitle program.</p></td></tr>";
 			if (!empty($body)) {$theTable1 .= "<tr><td><p>$body</p></td></tr>";}
 			if (!empty($programguide)) {$theTable1 .= "<tr><td>We will address your inquiry shortly. In the meantime, here are some $programtitle resources to provide some general information:</td></tr>";} 
-			if (empty($programguide)) {$theTable1 .= "<tr><td><p>We will address your inquiry shortly. Please also feel free to browse our website at www.umbc.edu/$url to learn more about our program offerings, curriculum, and experienced faculty.</p></td></tr>";}
+			if (empty($body)) {$theTable1 .= "<tr><td><p>We will address your inquiry shortly. Please also feel free to browse our website at www.umbc.edu/$url to learn more about our program offerings, curriculum, and experienced faculty.</p></td></tr>";}
 			if (!empty($programguide)) {$theTable1 .= "<tr><td><ul>";}
 			if (!empty($infosession)) {$theTable1 .= "<li><strong>Recent Virtual Information Session:</strong> {$infosession}</li>";}
 			if (!empty($programguide)) {$theTable1 .= "<li><strong>Program Guide:</strong> $programguide</li>";}

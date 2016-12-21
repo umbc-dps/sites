@@ -146,7 +146,7 @@ html::after {
 
           <div class="accordionbody">
    <ul>
-   <li><a href="http://shadygrove.umd.edu/campus-services/student-services/Veterans Information" target="_blank">USG Office of Veterans&rsquo; Resources</a></li>
+   <li><a href="http://shadygrove.umd.edu/student-services/office-of-student-services/information-for-veterans" target="_blank">USG Office of Veterans&rsquo; Resources</a></li>
   <li><strong>Center  for Vets:</strong> Located in Building III, Room 2241A, this room is exclusively  available for student veterans as a space to connect with other vets, relax,  study, and find information about various student resources.</li>
   <li><strong>USG Vets  Student Organization</strong>
 All  students who are veterans of the military are welcome to join the USG Vets. USG  Vets is the student organization instituted to address the number one concern  for veterans attending college – fitting in. Veterans come to college with a  depth and breadth of experience that most undergraduate students do not have,  and as a result, often face a challenge in connecting with other undergrad or  grad students. Given the importance of establishing a network of students,  colleagues, and friends while in college, the USG Vets serves as an  organization that enables connections to be made organically with veterans and  non-veterans. For more information about the organization and opportunities to  get involved, please contact <a href="mailto:usgvets@gmail.com">usgvets@gmail.com</a>.</li>
@@ -159,7 +159,7 @@ All  students who are veterans of the military are welcome to join the USG Vets.
 
           <div class="accordionbody">
 <ul>
-	<li><a href=	"http://shadygrove.umd.edu/campus-services/student-services/veterans-information/veteransresources" target="_blank">Local, State, and Federal Resources</a></li>
+	<li><a href=	"http://shadygrove.umd.edu/student-services/office-of-student-services/information-for-veterans" target="_blank">Local, State, and Federal Resources</a></li>
 	<li><a href="https://www.ebenefits.va.gov/ebenefits-portal/downloads/eBenefits_factsheet.pdf" target="_blank">eBenefits Fact Sheet</a></li>
 </ul>    
 </div>  

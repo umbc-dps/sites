@@ -163,7 +163,7 @@ aside p, aside dl {
 
 
 <h4 style="font-weight:bold">Date:</h4>
-<h5>Tuesday, October 25, 5:30-8:00PM</h5>
+<h5>Saturday, April 1, 10:00AM - 12:00PM</h5>
 <br>
 
 <h4 style="font-weight:bold">Location:</h4>
@@ -238,5 +238,14 @@ $("#entry_1166118258").attr("value", vars['utm_term']);
 $("#entry_1066578197").attr("value", vars['gclid']);
 </script>
  
+ <script>
+  /*** Stops from picking more than 2 programs ***/
+$('input.ss-q-checkbox[type=checkbox]').change(function(e){
+   if ($('input.ss-q-checkbox[type=checkbox]:checked').length > 2) {
+        $(this).prop('checked', false)
+        alert("Please select up to 2 programs.");
+   }
+})
+</script>
 </body>
 </html>

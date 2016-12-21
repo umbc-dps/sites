@@ -37,15 +37,15 @@
 </script>
 
 
-<link rel="alternate" type="text/xml+oembed" href="https://docs.google.com/forms/d/e/1FAIpQLSe-Kfz49V4rNbZAj58CK4NlpXatJVUhHV1v2lhxiV4P_WDytw/oembed?url=https://docs.google.com/forms/d/e/1FAIpQLSe-Kfz49V4rNbZAj58CK4NlpXatJVUhHV1v2lhxiV4P_WDytw/viewform&amp;format=xml">
-<meta itemprop="url" content="https://docs.google.com/forms/d/e/1FAIpQLSe-Kfz49V4rNbZAj58CK4NlpXatJVUhHV1v2lhxiV4P_WDytw/viewform">
-<meta itemprop="embedUrl" content="https://docs.google.com/forms/d/e/1FAIpQLSe-Kfz49V4rNbZAj58CK4NlpXatJVUhHV1v2lhxiV4P_WDytw/viewform?embedded=true">
+<link rel="alternate" type="text/xml+oembed" href="https://docs.google.com/forms/d/e/1FAIpQLSc0kofACmW0-bV9W3AU6zLWotgMb_IfTX9viYVl4Dvg9EwQ5w/oembed?url=https://docs.google.com/forms/d/e/1FAIpQLSc0kofACmW0-bV9W3AU6zLWotgMb_IfTX9viYVl4Dvg9EwQ5w/viewform&amp;format=xml">
+<meta itemprop="url" content="https://docs.google.com/forms/d/e/1FAIpQLSc0kofACmW0-bV9W3AU6zLWotgMb_IfTX9viYVl4Dvg9EwQ5w/viewform">
+<meta itemprop="embedUrl" content="https://docs.google.com/forms/d/e/1FAIpQLSc0kofACmW0-bV9W3AU6zLWotgMb_IfTX9viYVl4Dvg9EwQ5w/viewform?embedded=true">
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)
 {window.location='thankyou';}"></iframe>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSe-Kfz49V4rNbZAj58CK4NlpXatJVUhHV1v2lhxiV4P_WDytw/formResponse" method="POST" target="hidden_iframe" 
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSc0kofACmW0-bV9W3AU6zLWotgMb_IfTX9viYVl4Dvg9EwQ5w/formResponse" method="POST" target="hidden_iframe" 
 onsubmit="submitted=true; ga('send', 'event', 'lead', 'submit', 'open_house'); 
 trackConversionEvent('0.00','USD');" id="ss-form" >
 
@@ -92,9 +92,9 @@ trackConversionEvent('0.00','USD');" id="ss-form" >
 <label class="ss-q-item-label" for="entry_267174737"><div class="ss-q-title">Program of Interest
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
-<div class="ss-q-help ss-secondary-text" dir="auto">Choose two that apply</div></label>
+<div class="ss-q-help ss-secondary-text" dir="auto">Select up to two</div></label>
 
-<ul class="ss-choices ss-choices-required" role="group" aria-label="Program of Interest Choose all that apply "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Biotechnology" id="group_940734412_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<ul class="ss-choices ss-choices-required program-select" role="group" aria-label="Program of Interest Choose all that apply "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Biotechnology" id="group_940734412_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Biotechnology</span>
 </label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.940734412" value="Cybersecurity" id="group_940734412_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
 <span class="ss-choice-label">Cybersecurity</span>
@@ -110,10 +110,10 @@ trackConversionEvent('0.00','USD');" id="ss-form" >
 <div class="error-message" id="267174737_errorMessage"></div>
 <div class="required-message"></div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item  ss-paragraph-text"><div class="ss-form-entry">
-<label class="ss-q-item-label" for="entry_899007490"><div class="ss-q-title">Is there any specific information you would like addressed during the session?
+<label class="ss-q-item-label" for="entry_899007490"><div class="ss-q-title">Is there any specific information you would like discussed during the session?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<textarea name="entry.899007490" rows="8" cols="0" class="ss-q-long" id="entry_899007490" dir="auto" aria-label="Is there any specific information you would like addressed during the session?  "></textarea>
+<textarea name="entry.899007490" rows="8" cols="0" class="ss-q-long" id="entry_899007490" dir="auto" aria-label="Is there any specific information you would like discussed during the session?  "></textarea>
 <div class="error-message" id="13324202_errorMessage"></div>
 <div class="required-message"></div>
 </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">

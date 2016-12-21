@@ -80,11 +80,11 @@ $lang = 'en';
 Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
 
  <h4>Admissions Requirements:</h4>
- <p>Applicants to the MPS degree program are expected to have current IT or  cybersecurity industry experience and/or a solid academic background in  computer science, information systems, or a related field.&nbsp; Those without  technical backgrounds must demonstrate other relevant professional or academic  expertise that may qualify them for admission.</p>
+ <p>Applicants to the MPS degree program are expected to have current IT or cybersecurity industry experience and/or a solid academic background in computer science, information systems, or a field related to working in cybersecurity. Those without such backgrounds must demonstrate other relevant professional or academic expertise that may qualify them for admission.</p>
  <ul>
    <li>GRE scores are not required for admission</li>
    <li>A bachelor’s degree in Computer Science, Information Systems, Mathematics, or a related field. </li>
-   <li>Applicants should have a minimum undergraduate GPA of 3.0 on a 4.0 scale (Applicants with an appropriate level of knowledge and professional experience in the IT or Cybersecurity fields are strongly encouraged to apply.)</li>                                                          
+   <li>Applicants should have a minimum undergraduate GPA of 3.0 on a 4.0 scale. (Applicants with an appropriate level of knowledge and professional experience in the IT or Cybersecurity fields are strongly encouraged to apply.)</li>                                                          
    <li>International applicants should refer to the <a href="international.php">International Admission Page</a> for special admission information. </li>                 
    </ul>
  <h4>Application Process:</h4>

@@ -2,15 +2,9 @@
 
      <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
-      <p style="text-align:center">
-<strong>Professional Programs Open House</strong><br>
-		Tuesday, October 25, 5:30-8:00PM<br>
-<a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=sidebar_se">RSVP Now</a>
-      </p>
-<hr>
-      
+      <br>
       <p style="font-style:italic; text-align:center; margin-top:-15px;">
-      <strong>Drop in and chat with the Program Director on 11/9!</strong><br />
+      <strong>Drop in and chat with the Program Director on 1/12!</strong><br />
 <a href="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLSczKm2H8H4ocY82gz3jF5Q_qsPyHFnTPX8Y8XC8I8v_hJy6DQ/viewform" target="_blank" onMouseDown="ga('send', 'event', 'lead', 'click', 'dropin-session');" class="btn">Sign Up</a></p> 
 
     </aside>
@@ -27,8 +21,8 @@
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>      <p style="text-align:center">
-Spring 2017 Application <br>
-Deadline: December 1 <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
+Apply Now for Spring<br>
+Classes begin Jan 30, 2017 <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
       </p>
 </aside>
 
@@ -100,6 +94,14 @@ Graduate Certificate: Systems Engineering
       </form>
     </p>   
    </aside> 
+   
+               <aside class="five columns add-bottom">
+<dt style="text-align:center">
+<a class="btn" href="http://gritinaction.umbc.edu/" target="_blank">
+Visit our Blog
+</a>
+</dt>
+</aside>
    
       <aside  class="five columns add-bottom">
 

@@ -156,13 +156,7 @@ $lang = 'en';
       <h4>Cybersecurity Scholarship Opportunities</h4>
 
 
-      <p>Incoming cybersecurity students may wish to apply for the <a href="http://www.cisa.umbc.edu/scholarships.php" target="_blank">Information Assurance Scholarship Program</a> (IASF), an annual Department of Defense sponsored scholarship program that promotes the education, recruitment, and retention of rising junior and senior undergraduate and graduate students in information assurance and cybersecurity studies and students seeking post-baccalaureate certificates in information assurance disciplines.</p>
-
-
-      <p>Similarly, the federal Scholarship for Service (SFS) is a yearly awarded National Science Foundation sponsored scholarship program to promote the education, recruitment, and retention of rising junior and senior undergraduates and graduate students in information assurance studies. Detailed information and all forms may also be found at the <a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228" target="_blank">Official NSF SFS web site</a>.</p>
-
-
-      <p>Information on the IASF or SFS programs at UMBC can be found at the UMBC Center for Information Security and Assurance (CISA) <a href="http://www.cisa.umbc.edu/scholarships.php" target="_blank">website</a>.</p>
+      <p>Because this program is designed primarily for working professionals, graduate or teaching assistantships are not available. In many cases, students receive financial support from their employers. However, students accepted into the CYBR MPS program may apply for the Federal Cybercorps Scholarship for Service (SFS) program.  SFS provides full tuition, annual stipends, and other educational costs in exchange for working in a cybersecurity capability for the US government upon graduation. SFS requires US Citizenship, full-time enrollment, no other meaningful outside employment, and the ability to obtain a US Government security clearance. Once accepted to the CYBR MPS you may apply for SFS.  Contact Dr. Alan Sherman (sherman@umbc.edu) or visit: <a href="http://www.cisa.umbc.edu/scholarships.php" target="_blank">http://www.cisa.umbc.edu/scholarships.php</a> for more details and application information.</p>
 
 
       <h4>Financial Aid</h4>

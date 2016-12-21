@@ -75,7 +75,7 @@ $lang = 'en';
 <!-- START Content -->
    <h3>Student Forms</h3>
    <h4>Transfer Credit Forms: </h4>
-   <p>A maximum of 6 credits may be transferred. All transfer  credit is at the discretion of the graduate program director. For more  information about transfer credit, please consult the <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=168" target="_blank">graduate school catalog</a>.</p>
+   <p>A maximum of 6 credits may be transferred. All transfer  credit is at the discretion of the graduate program director. For more  information about transfer credit, please consult the <a href="http://gradschool.umbc.edu/students/catalog/" target="_blank">graduate school catalog</a>.</p>
    
    <ul><li><a href="http://gradschool.umbc.edu/students/forms/" target="_blank">Transfer of Credit Request Form</a></li></ul>
    
@@ -89,7 +89,7 @@ $lang = 'en';
    <h4>Inter-institutional Enrollment: </h4>
 <p>Graduate students  enrolled at UMBC may attend a course at another University System of Maryland  campus. Consult the graduate catalog for more information and to verify  eligibility:</p>
    <ul>
-   <li><a href="http://catalog.umbc.edu/index.php?catoid=4" target="_blank">Graduate School Catalog</a></li>
+   <li><a href="http://gradschool.umbc.edu/students/catalog/" target="_blank">Graduate School Catalog</a></li>
    <li><a href="http://gradschool.umbc.edu/students/forms/" target="_blank">Inter-Institutional Enrollment Form</a><br>
    </li>
    </ul>

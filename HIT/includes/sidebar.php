@@ -1,12 +1,10 @@
 <div class="five columns">
 
-     <aside class="five columns add-bottom" id="one">
-      <h3 style="color:#fff;">Upcoming Events</h3>
+    <aside class="five columns add-bottom" id="two">
+      <h3 style="color:#fff;">Upcoming Event</h3>
       <p style="text-align:center">
-<strong>Professional Programs Open House</strong><br>
-		Tuesday, October 25, 5:30-8:00PM<br>
-<a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=sidebar_hit">RSVP Now</a>
-      </p>
+Check back in December for Spring 2017 Open House<br/>
+	</p>
     </aside>
 
     <aside class="five columns add-bottom" id="two" style="display:none">
@@ -21,8 +19,8 @@
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>      <p style="text-align:center">
-Spring 2017 Application <br>
-Deadline: December 1 <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
+Apply Now for Spring<br>
+Classes begin Jan 30, 2017 <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
 </aside>
 
@@ -91,6 +89,14 @@ Deadline: December 1 <a class="btn" href="http://gradschool.umbc.edu/admissions/
       </form>
     </p>   
    </aside>   
+   
+               <aside class="five columns add-bottom">
+<dt style="text-align:center">
+<a class="btn" href="http://gritinaction.umbc.edu/" target="_blank">
+Visit our Blog
+</a>
+</dt>
+</aside>
    
    <aside  class="five columns add-bottom">
 

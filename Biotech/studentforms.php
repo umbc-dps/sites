@@ -93,7 +93,7 @@ $lang = 'en';
    </ul>
    
    <h4>Leave Of Absence:</h4>
-   <p>Please notify the graduate  program coordinator if you are planning a <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=362#leave-of-absence">leave of absence</a>. Failure to enroll  in class during a given semester, will result in the student being placed on  leave of absence. More than three consecutive leaves of absence require approval  of the Graduate Program Director and completion of <a href="http://gradschool.umbc.edu/students/forms/" target="_blank">LOA Form</a>.</p>
+   <p>Please notify the graduate  program coordinator if you are planning a leave of absence. Failure to enroll  in class during a given semester, will result in the student being placed on  leave of absence. More than three consecutive leaves of absence require approval  of the Graduate Program Director and completion of <a href="http://gradschool.umbc.edu/students/forms/" target="_blank">LOA Form</a>.</p>
    
    <h4>Graduation: </h4>
    <p>In order to graduate and receive your degree, you must complete the graduation application process. Click the graduation forms link to complete the online graduation application. Please consult the Graduate School website for online application, deadlines and commencement details.</p>

@@ -144,7 +144,7 @@ only screen and (max-width: 1023px),
 </p>
   
   <h5 style="text-align:center">We look forward to meeting you soon!</h5>
-  <p style="text-align:center">Please plan to park in the Traville Gateway Garage. You may access a map of directions <a href="http://www.shadygrove.umd.edu/about/visit" target="_blank">here</a>.</p>
+  <p style="text-align:center">Please plan to park in the Traville Gateway Garage. You may access a map of directions <a href="http://www.shadygrove.umd.edu/about-usg/directions-transportation" target="_blank">here</a>.</p>
      
      
      

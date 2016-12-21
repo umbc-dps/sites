@@ -27,8 +27,8 @@ var url = patharray[1];
 var url1 = patharray[2];
 
 if (
-changeurl == 'biotech' || 
-changeurl == 'shadygrove/biotech' || 
+//changeurl == 'biotech' || 
+//changeurl == 'shadygrove/biotech' || 
 changeurl == 'cyber' || 
 changeurl == 'shadygrove/cyber' || 
 changeurl == 'hit' || 

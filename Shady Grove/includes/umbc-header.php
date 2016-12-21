@@ -34,7 +34,7 @@
 
 
       <li id="umbc-nav-maps">
-        <a href="http://www.shadygrove.umd.edu/about/visit" target="_blank">Maps</a>
+        <a href="http://www.shadygrove.umd.edu/about-usg/directions-transportation" target="_blank">Maps</a>
       </li>
     </ul>
 

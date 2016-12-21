@@ -96,17 +96,19 @@ $lang = 'en';
     <h4>Why study cybersecurity at UMBC?<i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
-      <p>UMBC is uniquely positioned to provide education and training that respond to the state’s need for qualified technical professionals in the cybersecurity field:
+      <p>UMBC is uniquely positioned to provide education and training that respond to the state’s need for qualified technical professionals in the cybersecurity field:</p>
+ 
+<p><strong>Reputation and Affordability:</strong> UMBC continues to lead the U.S. News national university rankings for strong commitment to undergraduate teaching, tied with Yale at #6 on the list and ranked ahead of Stanford and Duke. In a new ranking of “Most Innovative Schools,” UMBC is #4 in the nation, joining MIT and Stanford in the top five.  UMBC has again been honored as one of the world’s top higher education institutions by both the Center for World University Rankings (CWUR) and Academic Ranking of World Universities (ARWU), which focus on such qualities as faculty research output and major awards.</p>
+ 
+<p>In 2015, Princeton Review featured UMBC in its 2015 Best Colleges Guide, highlighting UMBC’s standout academic reputation as a place where “students take education seriously.” As one student shared: “UMBC wants to see every student succeed—they provide you with the tools, people, and resources to make sure you get where you want to go in life.” Kiplinger’s Personal Finance and the selective Fiske Guide to Colleges have named UMBC a “Best Value” and a “Best Buy,” respectively. We’re a place where it’s cool to be smart, and where students can be confident investing in their education.</p>
+ 
+<p><strong>Academic Excellence:</strong> UMBC is dual-designated as an NSA/DHS Center of Academic Excellence for Cyber Defense Education (CDE) and Information Assurance Research. We are one of only a select few institutions holding multiple NSA/DHS designations for excellence in the cybersecurity discipline.</p>
+ 
+<p>The CAE educational designation includes (among other elements) a certification that our curriculum satisfies focus areas and knowledge units (KUs) as outlined in the NICE Framework. This framework aims to establish a common lexicon for students, universities, and employers for describing knowledge and skills needed for various cybersecurity jobs. The CAE research designation signifies UMBC’s demonstrated excellence in conducting quality interdisciplinary research activities pertaining to cybersecurity.</p>
+ 
+<p><strong>Convenient Location:</strong>  UMBC is located off of I-95 near the BWI Airport, approximately ten miles from Fort Meade (future home of DISA and the U.S. Cyber Command). UMBC is convenient to a host of federal agencies and government contractors that need cyber-related research, education, and training.</p>
+<br>
 
-      <ul class="square">
-        <li><strong>Reputation and Affordability:&nbsp;</strong> From 2009-2014, UMBC was ranked #1 in the <em>U.S. News and World Report's</em> list of "national up-and-coming" universities.&nbsp;Providing exceptional value at a public institution price, UMBC offers bachelor's, master's, and doctoral degrees in a variety of fields relevant for cybersecurity.&nbsp;UMBC is certified as a Center of Academic Excellence in Information Assurance Education (CAE) as well as a Center of Academic Excellence in Research (CAE-R) sponsored by the National Security Agency and Department of Homeland Security (DHS).&nbsp;Students attending UMBC are eligible to apply for scholarships and grants through the Department of Defense Information Assurance Scholarship Program.</li>
-
-        <li>
-          <strong>Industry Relevance:</strong> To ensure that UMBC’s cybersecurity programs are current, relevant, and responsive to the needs of industry, UMBC formed a <a href="advisoryboard.php">Cybersecurity Advisory Board</a> in 2009.&nbsp;Consisting of representatives from organizations such as MITRE, Northrop Grumman, Battelle, and others, the board continues to provide guidance on the development of UMBC’s cybersecurity programs.&nbsp;
-        </li>
-
-        <li><strong>Convenient Location: </strong>UMBC is conveniently located off of I-95 near the BWI Airport, approximately ten miles from Fort Meade (future home of DISA and the U.S. Cyber Command).&nbsp;UMBC is convenient to a host of federal agencies and government contractors that need cyber-related research, education, and training.&nbsp;</li>
-      </ul>
  </div>
   <div class="accordionheader">
     <h4>Are courses offered online?<i class="fa fa-angle-down"></i></h4></div>
@@ -117,15 +119,17 @@ $lang = 'en';
     <h4>What programs does UMBC offer in cybersecurity?<i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
-      <p>Undergraduate and graduate students have the option to complete concentrations in Information Assurance—as part of degree programs in computer science, information systems, electrical engineering, and computer engineering.</p>
+      <p>UMBC's Graduate Cybersecurity program offerings (certificates and master’s degrees) can be found <a href="http://www.umbc.edu/cyber/programs.php" target="_blank">here</a>.</p>
 
-      <p>In addition, UMBC offers two new graduate programs in cybersecurity:</p>
+<p>UMBC offers graduate cybersecurity programs at its Main Campus (Catonsville) and at the Universities at Shady Grove (Rockville).</p>
+ 
+<p>Current UMBC undergraduate and graduate students have the option of completing a track in cybersecurity as part of their degree programs.  Contact Dr. Alan Sherman (sherman@umbc.edu) for information.</p>
+ 
+<p>Current UMBC undergraduate students have the option of applying to the BS/MPS program in their junior or senior year and may take up to nine graduate credits that can be applied to both their undergraduate and graduate degrees. Students benefit by shortening the time to degree completion, experience the cost savings of taking graduate courses at undergraduate tuition rates, experience flexible learning options (some courses taught in evening or in hybrid format) and gain practical knowledge and skills.</p>
+ 
+<p>More info: <a href="http://www.umbc.edu/cyber/bsmps.php" target="_blank">http://www.umbc.edu/cyber/bsmps.php</a></p>
+</div>
 
-      <ul class="square">
-        <li><strong>Post-Baccalaureate Certificate in Professional Studies: Cybersecurity Strategy and Policy</strong>: This four-course post-baccalaureate certificate can be completed in a year.&nbsp;Because these courses are not technical (although a technical background may be helpful), this program is available to students with a variety of undergraduate backgrounds.&nbsp;Once accepted into the M.P.S.: Cybersecurity, all four courses count toward that degree.&nbsp;Students may choose to take this certificate by itself, or they may take this certificate and then later complete the master’s.</li>
-
-        <li><strong>Master's in Professional Studies: Cybersecurity:</strong> This ten-course master’s degree incorporates courses in cybersecurity strategy, policy, and management with more technical, hands-on cybersecurity courses.&nbsp;Rather than having to choose between a management or policy-oriented cybersecurity degree or a completely technical cybersecurity degree, the M.P.S. allows you to customize the mix of courses that best meets your career development needs.&nbsp;The master’s degree may be completed in two to three years, depending on how many courses you take each semester.&nbsp;Classes are offered fall, spring, and summer semesters. M.P.S. courses are offered in a classroom or hybrid (50% online, 50% classroom) format. This approach offers flexibility for students while also providing opportunities for in-person professional networking through a dynamic seminar and research experience.</li>
-      </ul>    </div>
   <div class="accordionheader">
     <h4>How does a Master in Professional Studies degree (M.P.S.) differ from a Master of Science degree (M.S.)?<i class="fa fa-angle-down"></i></h4></div>
 

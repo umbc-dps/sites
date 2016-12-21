@@ -342,7 +342,15 @@
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
 <li><a href="visit/infosession" target="_blank">Tuesday, December 6, 10:30 a.m.</a></li>
-<li><a href="visit/infosession" target="_blank">Wednesday, January 25, 5:00 p.m.</a></li>
+<li><a href="visit/infosession" target="_blank">Tuesday, February 21, 11:00 a.m.</a></li>
+</ul>
+
+<p class="date">Visit with Undergraduate Program Directors</p>
+<ul>
+<li><a href="visit/pd-politicalscience" target="_blank">Political Science - Wednesday, February 8, 12:00 p.m.</a></li>
+<li><a href="visit/pd-socialwork" target="_blank">Social Work - Tuesday, February 14, 12:00 p.m.</a></li>
+<li><a href="visit/pd-psychology" target="_blank"> Psychology - Wednesday, February 22, 5:30 p.m.</a></li>
+<li><a href="visit/pd-history" target="_blank"> History - Thursday, February 23, 5:00 p.m.</a></li>
 </ul>
 
 <!--

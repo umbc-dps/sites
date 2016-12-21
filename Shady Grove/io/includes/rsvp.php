@@ -55,19 +55,20 @@
 <h4>Dates</h4>
 <ul>
 <li class="io"><strong>I/O Psych Information Session</strong> | Tuesday, January 24, 2017 6:00PM - 7:30PM</li>
-<li class="gis"><strong>GIS  Information Session</strong> | Saturday, October 1, 2016 11:00AM - 12:30PM</li>
-<li class="cyber"><strong>Cybersecurity Program Director Visit </strong>| Tuesday, October 25, 2016 6:00PM - 7:30PM </li>
+<li class="gis"><strong>GIS  Information Session</strong> | Wednesday, March 8, 6:00PM - 7:30PM</span></li>
+<li class="cyber"><strong>Cybersecurity Information Session</strong> | Wednesday, March 8, 6:00PM - 7:30PM</li>
 </ul>
 
 <h4>Location</h4>
 <p>
 The Universities at Shady Grove<br>
-<span class="cyber">Building III (Camille Kendall Academic Center)​ Conference Room 4124<br></span>
-<span class="gis">Building III (Camille Kendall Academic Center)​ Room 4206<br></span>
+<span class="cyber">TBA<br></span>
+<span class="gis">TBA<br></span>
 <span class="io">Building III (Camille Kendall Academic Center) Room 3241<br></span>
 <a href="https://www.google.com/maps?saddr&daddr=9630+Gudelsky+Drive,+Rockville,+MD+20850&btnG=Search">9636 Gudelsky Drive, Rockville, Maryland 20850</a></p>
 
-<p>For a campus map, directions and parking information, visit: <a href="http://shadygrove.umd.edu/about/visit" target="_blank">http://shadygrove.umd.edu/about/visit</a></p>
+<p>For a campus map, directions and parking information, visit: <a href="http://shadygrove.umd.edu/about-usg/directions-transportation" target="_blank">http://shadygrove.umd.edu/about-usg/directions-transportation</a>
+</p>
 
 
 </div>
@@ -123,10 +124,14 @@ The Universities at Shady Grove<br>
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.6" id="entry_6" aria-label="Choose a Session " aria-required="true" required><option value=""></option>
-<option value="GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM" class="gis">GIS Information Session - Saturday, October 1, 2016 11:00AM - 12:30PM</option> <option value="Cybersecurity Program Director Visit - Tuesday, October 25, 2016 6:00PM - 7:30PM" class="cyber">Cybersecurity Program Director Visit - Tuesday, October 25, 2016 6:00PM - 7:30PM</option> <option value="I/O Psych Information Session - Tuesday, January 24, 2017 6:00PM - 7:30PM" class="io">I/O Psych Information Session - Tuesday, January 24, 2017 6:00PM - 7:30PM</option></select>
-
-<input type="hidden" name="draftResponse" value="[,,&quot;-3250447620442312080&quot;]
+<select name="entry.6" id="entry_6" aria-label="Choose a Session " aria-required="true" required>
+<option value=""></option>
+<option class='io' value="I/O Psych Information Session - Tuesday, January 24, 2017, 6-7:30 PM">I/O Psych Information Session - Tuesday, January 24, 2017, 6-7:30 PM</option> 
+<option class='cyber' value="Cybersecurity Information Session - Wednesday, March 8, 6 - 7:30 pm">Cybersecurity Information Session - Wednesday, March 8, 6 - 7:30 pm</option> 
+<option class='gis' value="GIS Information Session - Wednesday, March 8, 6 - 7:30 pm">GIS Information Session - Wednesday, March 8, 6 - 7:30 pm</option>
+</select>
+</div></div></div>
+<input type="hidden" name="draftResponse" value="[,,&quot;-7668960282876703051&quot;]
 ">
 <input type="hidden" name="pageHistory" value="0">
 
@@ -136,7 +141,7 @@ The Universities at Shady Grove<br>
 <input type="submit" name="submit" value="RSVP" id="ss-submit" class="jfk-button jfk-button-action">
 
 
-</div></div></div></div>
+</div>
 
 
 <script type='text/javascript' src='/static/forms/client/js/1359958175-formviewer_prd.js'></script>

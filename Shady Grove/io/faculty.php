@@ -90,7 +90,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" alt="UMBC Faculty Elliot Lasson" src="images/faculty/umbc-faculty-Elliott-Lasson.jpg">Dr. Elliot Lasson is Professor of the Practice and Graduate Program Director of the Masters in I/O Psychology at UMBC, where he has been teaching since 2009.  He has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.  Some of his research and applied interests are generational cohort differences in the workplace, the recruitment-selection process, and performance management.  At UMBC, he has taught several courses including Job Analysis. Methods of Assessment, and Seminar in Applied Social Psychology.  Dr. Lasson is often called upon by his students for career guidance and the facilitation of internship and employment opportunities.  He has also given popular workshops on behalf of the Universities at Shady Grove <a href="http://www.shadygrove.umd.edu/campus-services/career-services" target="_blank">Career & Internship Services Center </a>on topics such as workplace professionalism and preparing for job interviews.</p>
+  <p><img align="left" alt="UMBC Faculty Elliot Lasson" src="images/faculty/umbc-faculty-Elliott-Lasson.jpg">Dr. Elliot Lasson is Professor of the Practice and Graduate Program Director of the Masters in I/O Psychology at UMBC, where he has been teaching since 2009.  He has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.  Some of his research and applied interests are generational cohort differences in the workplace, the recruitment-selection process, and performance management.  At UMBC, he has taught several courses including Job Analysis. Methods of Assessment, and Seminar in Applied Social Psychology.  Dr. Lasson is often called upon by his students for career guidance and the facilitation of internship and employment opportunities.  He has also given popular workshops on behalf of the Universities at Shady Grove <a href="http://www.shadygrove.umd.edu/student-services/career-and-internship-center" target="_blank">Career & Internship Services Center </a>on topics such as workplace professionalism and preparing for job interviews.</p>
   
   <p>Dr. Lasson is a Human Resources professional with considerable experience in designing, validating, and implementing recruitment and staffing solutions. Elliot has led various organizational development, training, and change management initiatives and combines solution-oriented approach with a strategic “big picture” approach.</p>
   
@@ -161,6 +161,27 @@ $lang = 'en';
    <p>Dr. Perkins&rsquo; consulting experience has been with private, federal and non-profit sector organizations. Her clients have included: Toyota, Novartis Pharmaceuticals, McGraw-Hill, Family Matters of Greater Washington, Arlington Temple United Methodist Church, Department of Commerce, United States Air Force and Alabama Department of Transportation.</p>
    
    <p>She received a Ph.D. and M.S. in industrial/organizational psychology from the University of Georgia, and a B.S. in psychology from Howard University. She has additional training from The Coaches Institute and in the Skilled Facilitator technique. She is SPHR (Senior Professional Human Resource) certified. Dr. Perkins is a member of the American Psychological Association, Society for Human Resource Management, Society for Industrial and Organizational Psychology. Also, she is an active member of Alpha Kappa Alpha, Incorporated.</p>
+</div>
+
+<div class="accordionheader">
+  <h4><a id="rudd" href="#rudd"></a>David Rudd, MEd, CRP, CT/HRDC, CKM, CPT | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+   <p><img align="left" src="images/faculty/david-rudd.jpg" alt="David Rudd">Mr. Rudd’s expertise lies in training and performance improvement gained from serving 23 years in the U.S. Navy, in multiple federal agencies and the private sector.  He has led and managed employees in developing and implementing training and development programs and performance improvement projects.</p>
+   
+   <p>While in the Navy, Mr. Rudd spent considerable time as an instructor and developed an adult education program at the Navy’s Boot Camp that trained over 8,000 Sailors.  In addition, he has lead an overseas transition assistance program for military members and served as Director of Training & Development in multiple federal agencies.  In several agencies, he led performance improvement projects that significantly improved employee performance.  Mr. Rudd currently works for the Department of Justice.</p>
+   
+   <p>Mr. Rudd earned a MEd in Training & Performance Improvement, a MEd in Adult Education and Development, a Masters Certificate in Return on Investment (ROI) methodology and a BS in Business Administration.  He also earned the following certifications:</p>
+   
+   <ul>
+   		<li>Certified Return on Investment Professional (CRP) from the ROI Institute;</li>
+        <li>Certified Trainer/Human Resources Development Consultant (CT/HRDC) from the International Board of Certified Trainers;</li>
+        <li>Certified Knowledge Manager (CKM) from the Knowledge Management Institute; and</li>
+        <li>Certified Performance Technologist (CPT) from the International Society of Performance Improvement (ISPI).</li>
+    </ul>
+    
+    <p>You can view his Linkedin profile <a href="https://www.linkedin.com/in/david-rudd-med-crp-cpt-773a846" target="_blank">here</a>.</p>
 </div>
 
 <div class="accordionheader">

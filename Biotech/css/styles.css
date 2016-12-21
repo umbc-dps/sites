@@ -117,6 +117,15 @@ blockquote {
 	padding: 1px 10px 0;
 	position: relative
 }
+
+/* ASIDE FORM */
+form#ss-form {padding-left: 5%;}
+input#ss-submit {width: 93%;}
+.ss-form-entry input, .ss-form-entry select { width: 93%; margin-bottom: 10px; height: 20px }
+.ss-q-title{font-weight: bold}
+.ss-required-asterisk{text-align:right; font-style:italic; padding-right: 15px}
+
+
 /* BUTTON */
 aside .btn, input.btn  {
   width: 90%;
@@ -891,7 +900,6 @@ img.scale-with-grid {
 	padding-right: 0 !important;
 	text-align: center;
 }
-
 
 /* #Sidebar Contact Form
 ================================================== */

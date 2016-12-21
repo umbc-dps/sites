@@ -1,17 +1,16 @@
  <div class="five columns">
 
-    <aside class="five columns add-bottom" id="two">
+    <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
 
 
       <p style="text-align:center"><strong>UMBC I/O Psychology Info Session</strong><br>
       Tuesday, January 24, 2017, 6-7:30 PM<br>
-        <a class="btn" href="http://www.umbc.edu/shadygrove/io/infosession">RSVP Now</a>
+        <a class="btn" href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank">RSVP Now</a>
       </p>
     </aside>
-    </div>
+
     
-     <div class="five columns">
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>
 
@@ -21,9 +20,9 @@
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
 	</aside>
-    </div>
 
- <div class="five columns">
+
+
     <aside class="five columns add-bottom" id="three" style="display:none">
       <h3 style="color:#fff;">Past Event</h3>
 
@@ -32,9 +31,9 @@
         <a class="btn video" href="https://www.youtube.com/watch?v=ANHML0dJjYs">Watch Video</a>
       </p>
     </aside>
-    </div>
 
- <div class="five columns">
+
+
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">At a Glance</h3>
       

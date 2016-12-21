@@ -145,7 +145,6 @@ html::after {
 <li>Social Work Program Director - <strong>Ms. Katherine Morris, LCSW-C</strong>, <a href="mailto:kath@umbc.edu">kath@umbc.edu</a></li>
 </ul>
 
-<p>You may also set a pre-orientation appointment with <strong>Tim Cox</strong>, Assistant Director of Advising and Student Success, at <a href="mailto:thcox@umbc.edu">thcox@umbc.edu</a> or 301-738-6281.</p>
 </div>
 
 <div class="accordionheader">

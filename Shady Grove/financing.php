@@ -135,7 +135,7 @@ html::after {
 
           <div class="accordionbody">
       <p>For <strong>scholarship opportunities for current undergraduate and graduate students</strong> through UMBC, please click <a href="http://financialaid.umbc.edu/scholarships/" target="_blank">here</a>.</p>
-      <p>UMBC-Shady Grove students are also encouraged to complete the <strong>Universities at Shady Grove (USG) Scholarship Application</strong>. These scholarships are available to eligible USG students through private donors for both the fall and spring semesters. Please click <a href="http://shadygrove.umd.edu/admissions/financial-aid/scholarships" target="_blank">here</a> to access additional information.</p>
+      <p>UMBC-Shady Grove students are also encouraged to complete the <strong>Universities at Shady Grove (USG) Scholarship Application</strong>. These scholarships are available to eligible USG students through private donors for both the fall and spring semesters. Please click <a href="http://shadygrove.umd.edu/scholarships" target="_blank">here</a> to access additional information.</p>
       </div>
       
       <div class="accordionheader">

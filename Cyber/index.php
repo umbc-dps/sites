@@ -79,55 +79,57 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_cyber" target="_blank"><img src="images/10.jpg" alt="Professional Programs Open House"/></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/10.jpg" alt="Accepting Applications For Spring"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Open House</h3>
-<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Accepting Applications For Spring</h3>
+<small>Classes begin January 30.</small>
 
-<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_cyber" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 
-<p id="captionthree"><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_cyber" target="_blank">Professional Programs Open House</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications For Spring</a></p>
 
 </li>
    
 <!-- END SLIDE ONE -->
 
 
-<!-- Slide Two -->
+<!-- SLIDE TWO -->
 
 <li id="slide2">
 
-<a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank"><img alt="img01" src="images/cyber-art.jpg"></a>
+<a href="http://gritinaction.umbc.edu/senator-cardin/" target="_blank"><img src="images/CardinCyb.jpg" alt="Senator Ben Cardin Visits UMBC."/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>America is ‘dropping cyberbombs’ – but how do they work?</h3>
-<small>UMBC's Richard Forno and Anupam Joshi discuss what cyberbombs are and how the U.S. uses them.</small>
+<h3>Senator Ben Cardin Visits UMBC.</h3>
+<small>On November 28, Senator Ben Cardin visited UMBC and discussed current issues in global cybersecurity with students.</small>
 
-<p><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank" role="button" class="web-seemore">Read More</a></p></div>
+<p><a href="http://gritinaction.umbc.edu/senator-cardin/" role="button" class="web-seemore" target="_blank">Read about his visit!</a></p></div>
 
-<p id="captionthree"><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank">America is ‘dropping cyberbombs’ – but how do they work?</a></p>
+<p id="captionthree"><a href="http://gritinaction.umbc.edu/senator-cardin/" target="_blank">Senator Ben Cardin Visits UMBC</a></p>
 
 </li>
 
-<!-- END SLIDE TWO -->  
+<!---- END SLIDE TWO ----> 
+              
 
-<!-- SLIDE THREE --> 
+
+<!-- Slide THREE -->    
+
 <li id="slide3">
-      
-<a href="programcert#new"><img alt="img02" src="images/umbc_cyber5.png"></a>
 
+<a href="https://www.youtube.com/watch?v=CrOg72tecOI" class="video"><img src="images/DianeParr.jpg" alt="Meet Our Faculty: Diane Parr"/></a>
 <div class="carousel-caption-right wordwrap">
-<h3>New Cybersecurity Operations Certificate</h3>
-<small>This four-course graduate certificate is oriented towards students seeking broad exposure to cybersecurity principles, best practices, and technologies, and can be completed in a year.</small>
+<h3>Meet Our Faculty: Diane Parr</h3>
+<small>Diane Parr discusses how UMBC's graduate cybersecurity programs prepare professionals for today's competitive jobs.</small>
 
-<p><a href="programcert#new" class="web-seemore">Learn More</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=CrOg72tecOI"class="web-seemore video">Watch Now</a></p></div>
 
-<p id="captiontwo"><a href="programcert#new">New Cybersecurity Operations Certificate</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=CrOg72tecOI">Meet Our Faculty: Diane Parr</a></p>
 
 </li>
 
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE THREE -->
 
 <!-- SLIDE FOUR --> 
 
@@ -171,7 +173,7 @@ $lang = 'en';
 
       <p>UMBC provides technical  and managerial training education to respond to Maryland&rsquo;s and the nation&rsquo;s needs  for qualified cybersecurity professionals.</p>
       <ul class="square">
-        <li>UMBC is one of the few universities dual-designated as an <a href="https://www.nsa.gov/ia/academic_outreach/nat_cae/institutions.shtml" target="_blank">NSA/DHS Center of Academic Excellence for Information Assurance Education & Research</a>.</li>
+        <li>UMBC is one of the few universities dual-designated as an <a href="https://www.nsa.gov/what-we-do/information-assurance/" target="_blank">NSA/DHS Center of Academic Excellence for Cyber Defense Education (CDE) and Information Assurance Research</a>.</li>
         <li>Students are eligible to participate in federal scholarship programs,  including the NSF Federal Cybercorps, Scholarship For Service (SFS) and DOD  Information Assurance Scholarship Program (IASP). Open to US citizens only.</li>
 
         <li>UMBC is conveniently located off of I-95 near the BWI Airport, approximately ten miles from Fort Meade.</li>

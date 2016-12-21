@@ -67,12 +67,5 @@ td{padding:8px}
 
 <script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
 <script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
-
-<script>
-$(document).ready(function () {
-	ytTracker.init();
-});
-</script>
-
 </body>
 </html>

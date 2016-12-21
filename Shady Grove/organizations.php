@@ -153,7 +153,7 @@ html::after {
   </div>
   
   <br clear="all">
-<p>There are many other student organizations available to  you at The Universities at Shady Grove. For additional information on all student organizations, click <a href="http://shadygrove.umd.edu/campus-services/student-services/student-organizations" target="_blank">here</a>.</p>
+<p>There are many other student organizations available to  you at The Universities at Shady Grove. For additional information on all student organizations, click <a href="http://shadygrove.umd.edu/student-services/office-of-student-services/student-organizations" target="_blank">here</a>.</p>
 
 <br clear="all">
   

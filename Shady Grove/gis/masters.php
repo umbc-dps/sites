@@ -104,7 +104,7 @@ $lang = 'en';
  <p>Your application should include the following   documents:  <em>(Incomplete applications will not be reviewed.)</em></p>
  <ul>
    <li>Completed application including residency form (residency form determines in-state tuition eligibility)</li>
-   <li>Three letters of recommendation (if you choose to forego the online option, please see the paper form <a href="http://gradschool.umbc.edu/students/forms">here</a>)</li>
+   <li>Two letters of recommendation (if you choose to forego the online option, please see the paper form <a href="http://gradschool.umbc.edu/students/forms">here</a>)</li>
    <li>Statement of academic goals</li>
    <li><a href="documents/experienceform.doc">Experience Form</a></li>                          
    <li>Official transcript(s) from each college &amp; university attended</li>                

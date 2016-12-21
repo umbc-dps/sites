@@ -1,20 +1,17 @@
 <div class="five columns">
 
-     <aside class="five columns add-bottom" id="one"><h3 style="color:#fff;">Upcoming Events</h3>
-    <p style="text-align:center;">
-<strong>Professional Programs Open House</strong><br>
-		Tuesday, October 25, 5:30-8:00PM<br>
-<a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=sidebar_isd">RSVP Now</a>
-      </p>
+    <aside class="five columns add-bottom" id="two">
+      <h3 style="color:#fff;">Upcoming Event</h3>
+      <p style="text-align:center">
+Check back in December for Spring 2017 Open House<br/>
+	</p>
     </aside>
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p>Fall 2016 Certificate Application<br>
-        Deadline: July 1st<br>
-        Spring 2017 Master's Application<br>
+      <p>Spring 2017 Master's Priority Application<br>
       	Deadline: November 1st<br>
       	Spring 2017 Certificate Application<br>
         Deadline: December 1st<br>

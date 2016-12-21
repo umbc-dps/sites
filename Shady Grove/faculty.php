@@ -156,7 +156,7 @@ html::after {
 
           <div class="accordionbody">
       <ul>
-      	<li><a href="http://www.shadygrove.umd.edu/faculty/faculty-resources" target="_blank">Shady Grove Faculty Resources</a></li>
+      	<li><a href="http://www.shadygrove.umd.edu/student-services/center-for-counseling-and-consultation/faculty-staff-services" target="_blank">Shady Grove Faculty Resources</a></li>
         <li><a href="http://www.shadygrove.umd.edu/library/services/streaming-video" target="_blank">Films on  Demand</a></li>
         <li><a href="documents/FOD-VideoIntegrationTips.pdf" target="_blank">Integration</a></li>
         <li><a href="documents/FOD-UMBCwalkthrough.pdf" target="_blank">Features</a></li>

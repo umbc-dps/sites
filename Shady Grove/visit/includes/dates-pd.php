@@ -1,6 +1,4 @@
 <h5 class="poli">
-Wednesday, November 30, 12:00pm<br>
-Wednesday, December 7, 12:00pm<br>
 Wednesday, February 8, 12:00pm<br>
 Wednesday, February 15, 12:00pm<br>
 Wednesday, February 22, 12:00pm<br>

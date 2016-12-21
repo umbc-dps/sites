@@ -24,19 +24,24 @@ var patharray = window.location.pathname.split( '/' );
 var url = patharray[1];
 var url1 = patharray[2];
 
-if (url == 'shadygrove') {
+if (url == 'shadygrove' && url1 != 'biotech' ) {
 	$('#url').val('shadygrove/'+url1);
 	var val7 = 'http://www.umbc.edu/shadygrove/'+url1+'/documents/programguide.pdf'
 	var val8 = 'http://www.umbc.edu/shadygrove/'+url1+'/documents/planningform.pdf'
 	$('#programguide').val(val7);
 	$('#planningform').val(val8);
 	}
+	else if (url == 'biotech' || url1 == 'biotech' || url == 'dpsstage1' || url == 'eli') {
+		$('#url').val(url);
+		$('#programguide').val('');
+		$('#planningform').val('');
+	}
 	else { 
-	$('#url').val(url);
-	var val9 = 'http://www.umbc.edu/'+url+'/documents/programguide.pdf'
-	var val10 = 'http://www.umbc.edu/'+url+'/documents/planningform.pdf'
-	$('#programguide').val(val9);
-	$('#planningform').val(val10);
+		$('#url').val(url);
+		var val9 = 'http://www.umbc.edu/'+url+'/documents/programguide.pdf'
+		var val10 = 'http://www.umbc.edu/'+url+'/documents/planningform.pdf'
+		$('#programguide').val(val9);
+		$('#planningform').val(val10);
 	};
 
 // add required attribute to form inputs to force validation.

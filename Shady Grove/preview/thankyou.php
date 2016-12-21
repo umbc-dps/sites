@@ -108,7 +108,7 @@ tr.hidden-fields{height:0px!important; width:0px!important}
 
 <h5>
 <strong>WHEN:</strong> Thursday, September 29, 6:00 - 7:30 PM<br>
-<strong>WHERE:</strong> <a href="http://www.shadygrove.umd.edu/about/visit" target="_blank">The Universities at Shady Grove</a>, Building II - Multipurpose Room
+<strong>WHERE:</strong> <a href="http://www.shadygrove.umd.edu/about-usg/directions-transportation" target="_blank">The Universities at Shady Grove</a>, Building II - Multipurpose Room
 </h5>
 <br>
  

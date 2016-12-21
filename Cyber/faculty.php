@@ -153,9 +153,9 @@ $lang = 'en';
   <p><img align="left" src="images/faculty/umbc-faculty-Mike-Fluharty.jpg">M.P.S., Cybersecurity, University of Maryland, Baltimore County (UMBC)<br>
   B.S., Information Systems, University of Maryland, Baltimore County (UMBC)</p>
 
-  <p>Mike Fluharty is the Director of Professional Services and Health and Human Services (HHS) Security Operations at Defense Point Security (DPS).  He won the 2012 SANS National Cybersecurity Innovation Award for &quot;Using Continuous Automated Monitoring To Radically Reduce the Risk of Cyber Attacks Against Confidential Citizen Health Data&quot;.  Mr. Fluharty's speciality is understanding enterprise-wide security measures that include risk assessment during the development, design, and implementation.</p>
+  <p>Mike Fluharty is the Vice President of Security Engineering & Architecture and Cyber Operations at Defense Point Security (DPS). He won the 2012 SANS National Cybersecurity Innovation Award for "Using Continuous Automated Monitoring To Radically Reduce the Risk of Cyber Attacks Against Confidential Citizen Health Data". Mr. Fluharty's speciality is understanding enterprise-wide security measures, including risk assessment during the development, design, and implementation phases.</p>
 
-  <p>Mr. Fluharty has experience implementing and managing large security programs and operation centers.  He combines advanced network, security, and operating systems knowledge to provide security for mission critical assets in multiple agencies and commercial entities.</p>
+  <p>Mr. Fluharty has experience implementing and managing large security programs and operation centers. He combines advanced network, security, and operating systems knowledge to provide security for mission critical assets in multiple agencies and commercial entities.</p>
 </div>
 
 <div class="accordionheader">
@@ -302,13 +302,13 @@ $lang = 'en';
 </div>
 
 <div class="accordionbody">
-  <p>Ph.D., Georgetown University<br>
+  <p><img align="left" src="images/faculty/umbc-faculty-terry-thompson.jpg">Ph.D., Georgetown University<br>
   M.A., Wayne State University<br>
   B.A., Wayne State University</p>
 
-  <p>Terry Thompson, a member of UMBC&rsquo;s adjunct faculty since 2002, has over 35 years of experience with public and private sector security and program development. Most recently, Dr. Thompson worked for Booz Allen Hamilton where he led client engagements and business development activities for U.S. Government agencies in the Washington, D.C. area and UK Government activities while he was based in London. Primary focus areas included cyber security, cyber intelligence analysis, national cyber campaign, signals intelligence technical analysis, and national security.  In 2003, Terry was part of the Government-Contractor team that designed the organizational structure and defined the initial roles and mission for the National Cyber Security Division at the Department of Homeland Security. Prior to this position, Dr. Thompson was the Security Advisor the Secretary of the Maryland Department of Transportation and was with the National Security Agency for 27 years.</p>
+  <p>Dr. Terry Thompson has been a member of UMBC’s adjunct faculty since 2002.  He has developed and taught courses in cybersecurity, national security, and contemporary Russian politics at the graduate and undergraduate levels.  He has over 40 years of professional experience in security and intelligence including 30 years with the U.S. Government, most of which was at the National Security Agency.  He served for 12 years at Booz Allen Hamilton, retiring as a Vice President in 2014. During his Booz Allen career, Dr. Thompson led or participated in cybersecurity engagements with clients in the Middle East, Southeast Asia, the United Kingdom and with the U.S. Government. He helped Middle Eastern clients establish and evolve national cybersecurity programs, and contributed to their national strategies, resilience programs, and cyber human capital development.  In his initial Booz Allen assignment in 2003, Terry was part of the Government-Contractor team that designed the organizational structure and defined the initial roles and mission for the National Cyber Security Division at the Department of Homeland Security.</p>
 
-  <p>Dr. Thompson completed his B.A and M.A at Wayne State University and his Ph.D. in Russian Studies from Georgetown University.  He is a member of the Intelligence Studies Association, Armed Forces Communication and Electronics Association, and the American Political Science Association. Additionally, Dr. Thompson teaches at University of Maryland, University College.</p>
+  <p>Dr. Thompson completed his B.A and M.A at Wayne State University and his Ph.D. in Russian Studies from Georgetown University.  He has presented at cybersecurity conferences in Oman, Qatar, Saudi Arabia, and the United Arab Emirates and published in Network Middle East.  Dr. Thompson is a member of the Advisory Board for the Interdisciplinary Studies in Security and Privacy at New York University, Abu Dhabi.</p>
 </div>
 
 <div class="accordionheader">

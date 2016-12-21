@@ -97,77 +97,77 @@ $lang = 'en';
   </tr>
   <tr>
     <td>PSYC    601.1 (5404)</td>
-    <td>Capstone    Experience</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5404" target="_blank">Capstone    Experience</a></td>
     <td>N/A</td>
     <td>N/A</td>
     <td>Ethan Sanders</td>
   </tr>
   <tr>
     <td>PSYC 601.2 (5405)</td>
-    <td>Capstone Experience</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5405" target="_blank">Capstone Experience</a></td>
     <td>N/A</td>
     <td>N/A</td>
     <td>Elliot Lasson</td>
   </tr>
   <tr>
     <td>PSYC 601.3 (5406)</td>
-    <td>Program Evaluation</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5406" target="_blank">Program Evaluation</a></td>
     <td>Th</td>
     <td>06:00 PM - 09:00 PM</td>
     <td>John Milatzo</td>
   </tr>
   <tr>
     <td>PSYC 601.4 (6744)</td>
-    <td>Human Performance    Technology</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6744" target="_blank">Human Performance    Technology</a></td>
     <td>Sa</td>
     <td>09:00 AM - 12:00 PM</td>
     <td>David Rudd</td>
   </tr>
   <tr>
     <td>PSYC 601.5 (6324)</td>
-    <td>Advanced Statistics    for I/O</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6324" target="_blank">Advanced Statistics    for I/O</a></td>
     <td>Tu</td>
     <td>07:00 PM - 10:00 PM</td>
     <td>Kayo Sady</td>
   </tr>
   <tr>
     <td>PSYC 601.6 (6411)</td>
-    <td>Adv. Seminar:    Strategic Planning</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6411" target="_blank">Adv. Seminar:    Strategic Planning</a></td>
     <td>Sa</td>
     <td>09:00 AM - 12:00 PM</td>
     <td>David Poland</td>
   </tr>
   <tr>
     <td>PSYC 669.1 (5407)</td>
-    <td>Organizational    Behavior Management</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5407" target="_blank">Organizational    Behavior Management</a></td>
     <td>M</td>
     <td>07:00 PM - 10:00 PM</td>
     <td>Theodore Rosen</td>
   </tr>
   <tr>
     <td>PSYC 674.1 (6330)</td>
-    <td>Methods of    Assessment in I/O Psychology</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6330" target="_blank">Methods of    Assessment in I/O Psychology</a></td>
     <td>Th</td>
     <td>06:00 PM - 09:00 PM</td>
     <td>Elliot Lasson</td>
   </tr>
   <tr>
     <td>PSYC 674.2 (6412)</td>
-    <td>Methods of    Assessment in I/O Psychology</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6412" target="_blank">Methods of    Assessment in I/O Psychology</a></td>
     <td>Th</td>
     <td>06:00 PM - 09:00 PM</td>
     <td>Ed Rudow</td>
   </tr>
   <tr>
     <td>PSYC 677.1 (7338)</td>
-    <td>Professional    HR Practices</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7338" target="_blank">Professional    HR Practices</a></td>
     <td>W</td>
     <td>07:00 PM - 10:00 PM</td>
     <td>Ed    Rudow</td>
   </tr>
   <tr>
     <td>PSYC 677.2 (7339)</td>
-    <td>Professional HR    Practices</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7339" target="_blank">Professional HR    Practices</a></td>
     <td>W</td>
     <td>07:00 PM - 10:00 PM</td>
     <td>Sharron Dean</td>

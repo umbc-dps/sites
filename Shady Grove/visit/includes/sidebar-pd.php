@@ -144,7 +144,7 @@
 </aside>
 
 <aside class="six columns add-bottom">
-<a class="btn" href="http://www.shadygrove.umd.edu/about/visit/directions" target="_blank">Directions/Parking</a>
+<a class="btn" href="http://www.shadygrove.umd.edu/about-usg/directions-transportation" target="_blank">Directions/Parking</a>
 </aside>
 
 

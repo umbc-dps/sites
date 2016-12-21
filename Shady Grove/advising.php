@@ -133,7 +133,8 @@ html::after {
   </tr>
 </table>
 
-<p><strong>If you have questions or concerns about advising services, please contact Tim Cox, Assistant Director of Advising and Student Success, at <a href="mailto:thcox@umbc.edu">thcox@umbc.edu</a> or 301-738-6281.</strong></p> 
+<p><strong>If you have questions or concerns about advising services, please contact Ashley Waters, Associate Director, <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a>,  301-738-6175. 
+</strong></p> 
 </div>
 
 <div class="accordionheader">
