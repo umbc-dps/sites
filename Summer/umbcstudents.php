@@ -2,29 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>UMBC Students | Summer Programs at UMBC</title>
+<title>UMBC Students | Summer Session at UMBC</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Taking winter session courses is a great way to get ahead, boost your GPA or focus on a difficult course." />
+<meta name="description" content="Winter session GEP course offerings and requirements." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="UMBC Students | Summer Programs at UMBC" />
+<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/umbcstudents" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="Taking winter session courses is a great way to get ahead, boost your GPA or focus on a difficult course." />
+<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -36,71 +39,94 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
-        <h2>UMBC Students</h2>
+        <h2>Current UMBC Students</h2>
     <!-- END Page Title -->       
-      <div class="content">
+         <div class="content">
+   <div class="narrowchart">
+  <div id="accordion">
       
      <!-- Start Content --> 
-     
-<h4>Taking summer  session courses is a great way to get ahead, boost your GPA or focus on a  difficult course.</h4>
+<p>Registration for current UMBC students begins <strong>March 6</strong>.  No additional application is necessary.  Advising is recommended, but not required.</p>
 
-      <ul>
-        <li>Earn up to 16 credits during summer session.</li>
-        <li>To register for more than 16 credits during summer session, <a href="excesscredit" target="_blank">approval is needed</a>.</li>
 
-  <li>Currently enrolled UMBC students are eligible to register. No additional application is necessary.</li>
-  <li>Advising is recommended, but not required.</li>
-</ul>
-<h4>Spring 2016 Graduation/Summer Registration</h4>
-<p>If you have applied to graduate in spring 2016, you will be blocked from registering in future terms. To register in summer session, you must first submit an <a href="http://registrar.umbc.edu/contact/" target="_blank">RT ticket</a> to the Registrar’s Office to request permission to enroll.</p>
-<h4>Session II Courses with Session I Prerequisites</h4>
-<p>You will need to request a <a href="http://umbc.edu/summer/coursesprerequisites" target="_blank">prerequisite course override</a> for Session II courses if registered for the prerequisite course in Session I (example: CHEM 101 in Session I and CHEM 102 in Session II). You will also be required to drop your Session II course(s) if you do not earn the required prerequisite grade in Session I.</p>
-<h4>Four Year Guide to Graduation</h4>
-<p>Review UMBC’s <a href="https://apps.my.umbc.edu/pathways/" target="_blank">academic pathways</a> to see what courses are required for each major. Many general education and required courses are offered in the summer and winter sessions to help you stay on track and graduate on time.</p>
-<h4>Summer session scholarships</h4>
-<p>A limited number of full and partial tuition  <a href="scholarships">scholarships are available</a>.</p>
+<div class="accordionheader">
+	<h4>If you are blocked from Summer registration<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+<p>If  you applied for spring 2017 graduation you will be blocked from summer 2017  registration, and will need to submit an <a href="http://registrar.umbc.edu/contact/" target="_blank">RT ticket</a> to the  Registrar&rsquo;s Office to request summer 2017 registration permission.  If you did not apply for spring graduation  and are unable to register for summer session, <a href="contact">contact</a> the Office of Summer/Winter  Programs.
+</p>
+</div>
+
+
+<div class="accordionheader">
+	<h4>Registering for session II with session I prerequisites <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+<p>A prerequisite  course <a href="coursesprerequisites">override</a> is  required for Session II courses if you are registered for the prerequisite  course in Session I <em>(Example: Taking CHEM  101 in session I and trying to register for CHEM 102 in session II</em>).  You will be required to drop your session II  course(s) if you do not earn the required session I grade.
+
+</p>
+</div>
+
+<div class="accordionheader">
+	<h4>Four-year degree planning guide<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+<p><a href="https://apps.my.umbc.edu/pathways/" target="_blank">Academic  Pathways</a> provides a four-year guide to degree planning that  includes course requirements by major.  Many general education (GEP) and required courses  are offered in the summer and winter sessions to help you stay on track and  graduate on time.</p>
+</div>
+
+<div class="accordionheader">
+	<h4>Scholarships and financial aid<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+<p>A  limited number of full and partial tuition <a href="scholarships">scholarships</a> are available.  Consult with your advisor to see if you are  eligible for summer <a href="financialaid">financial aid</a>.</p>
+</div>
+
 
      <!-- END Content -->
-     
-	  </div>
+          </div></div></div>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>
@@ -112,7 +138,23 @@
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-  
+  <script>
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+$('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+</script> 
   
 </body>
 </html>

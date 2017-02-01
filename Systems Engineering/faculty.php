@@ -153,7 +153,7 @@ Ph.D., Applied Management and Decision Sciences, Walden University
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" src="images/faculty/umbc-faculty-Fred-Highland.gif">B.S., Computer Science, University of Rhode Island<br>
+  <p><img align="left" src="images/Fred-Highland.jpg">B.S., Computer Science, University of Rhode Island<br>
     M.S., Computer Science, University of Houston Clear Lake</p>
   <p>Other Certifications</p>
   <p>Federal Enterprise Architecture Certification <br>
@@ -172,7 +172,7 @@ Ph.D., Applied Management and Decision Sciences, Walden University
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" src="images/faculty/umbc-faculty-Jeff-Ray.gif">B.S. Civil Engineering,  University of Maryland<br>
+  <p><img align="left" src="images/Jeff-Ray.jpg">B.S. Civil Engineering,  University of Maryland<br>
     M.S. Civil Engineering, University of Maryland<br>
     M.S. Engineering Management, George Washington  University&nbsp;<br>
     J.D. University of Maryland School of Law<br>
@@ -198,7 +198,7 @@ Ph.D., Applied Management and Decision Sciences, Walden University
     Expert Systems Engineering Professional (ESEP) via International Council on Systems Engineering (INCOSE)<br>
     IEEE Senior</p>
     
-  <p>Mr. Martin has more than 25 years of experience as a General Engineer specializing in Systems Development and Procurement in the Defense Acquisition community. He is presently working as a Senior Systems Engineer for Serco, Inc. and is their representative for the INCOSE CAB. He&rsquo;s also is the company&rsquo;s lead for the Systems Engineering Community of Practice (CoP). He also teaches a CSEP preparation for UMBC Training Center. For the past few years he&rsquo;s been active in the Board of Directors for the Chesapeake Chapter of INCOSE (both as Communications Director and Program Director.)</p>
+  <p>Mr. Martin is a practicing Systems Engineer with over 30 years of experience specializing in Systems Development and Procurement in the Defense Acquisition community.  He has been everything from a Product Engineer for General Electric Products Division to a Software Systems Engineer for a multi-million dollar Navy program. Presently he’s working for a"Beltway Bandit" supporting a Local Government Agency. Paul has been involved with INCOSE since 2000 and in the past has served on the local Chesapeake INCOSE Chapter Board of Directors. He has also developed an INCOSE SEP Exam Preparation Course back in 2009 and  teaches the material for UMBC Training Center.</p>
 </div>
 
 <div class="accordionheader">

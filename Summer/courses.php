@@ -4,10 +4,9 @@
   
 <META http-equiv="REFRESH" content="2;URL=https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch">
 
-
+<?php include("includes/tracking.php"); ?>
     
-<title>Courses by Subject | UMBC Summer Session</title>
+<title>Courses by Subject | UMBC Winter Session</title>
 
 </head>
 
-<?php include("includes/tracking.php"); ?>

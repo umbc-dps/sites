@@ -2,8 +2,14 @@
 <aside class="five columns add-bottom">
 
 <h3 class="home-heading">Upcoming Event</h3>
-<p>Check back in December for Spring 2017 Open House<br>
+<center>
+<p><strong>Program Exploration Open House</strong><br>
+Saturday, April 1, 10:00AM - 12:00PM<br>
 </p>
+
+<a href="http://umbc.edu/openhouse">Save Your Spot!</a>
+</center>
+</aside>
 
 <aside class="five columns add-bottom">
 

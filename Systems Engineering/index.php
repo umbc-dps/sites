@@ -96,15 +96,15 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_se" target="_blank"><img src="images/8.png" alt="Professional Programs Open House"/></a>
+<a href="http://umbc.edu/openhouse" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Open House</h3>
-<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Program Exploration Open House</h3>
+<small>Join us on Saturday, April 1 to learn how UMBC's professional programs can advance your career.</small>
 
-<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_se" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
 
-<p id="captionthree"><a href="?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_se" target="_blank">Professional Programs Open House</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse" target="_blank">Program Exploration Open House</a></p>
 
 </li>
    
@@ -134,18 +134,19 @@ $lang = 'en';
 
 <li id="slide3">
 
-<a href="https://www.youtube.com/watch?v=azvXiQj8Bgo" class="video"><img src="images/f-highland.jpg" alt="Faculty Insights with Fred Highland"/></a>
+<a href="https://www.youtube.com/watch?v=NG68F7Ej1T4"><img src="images/SE-carousel1.jpg" alt="UMBC Professional Graduate Programs in Engineering"/></a>
 <div class="carousel-caption-right wordwrap">
-<h3>Faculty Insights with Fred Highland</h3>
-<small>Systems Engineer, Fred highland talks about his career in Systems Engineering</small>
+<h3>UMBC Professional Graduate Programs in Engineering</h3>
+<small>Programs that prepare students from broad-based survey courses to hands-on project-based courses.</small>
 
-<p><a href="https://www.youtube.com/watch?v=azvXiQj8Bgo" class="web-seemore video">Watch Now</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=NG68F7Ej1T4"class="web-seemore video">Watch Now</a></p></div>
 
-<p id="captionthree"><a href="https://www.youtube.com/watch?v=azvXiQj8Bgo" class="video">Faculty Insights with Fred Highland</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=NG68F7Ej1T4">UMBC Professional Graduate Programs in Engineering</a></p>
 
 </li>
 
-<!-- END SLIDE THREE -->
+<!-- END SLIDE THREE --> 
+
 
 </ul>
 

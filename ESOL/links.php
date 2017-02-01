@@ -6,8 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<link href="css/accordion.css" rel="stylesheet">
+<script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -43,7 +43,7 @@
     <div class="sixteen columns">
       <a href="index.php" style="text-decoration:none">
       <h1 class="remove-bottom home-header" style="margin-top: 40px">MA TESOL Program
-      </h1>
+      </h1></h1><div align="center" style="border-top:2px #E9AB13 solid"></div></h1><br><br>
       </a>
 
       

@@ -116,43 +116,95 @@ $lang = 'en';
 <h5><strong>Schedule:</strong></h5>
 <table id="schedule">
   <tr>
-   <td width="25%">Time</td>
-   <td width="25%">Description</td>
+    <td width="25%">Time</td>
+    <td width="25%">Description</td>
   </tr>
   <tr>
-    <td>9:00-9:15 a.m.</td>
-   <td>Introduction</td>
+    <td>8:30 - 9:00</td>
+    <td>Sign-in &amp; Breakfast</td>
   </tr>
   <tr>
-    <td>9:15-10:00 a.m.</td>
-   <td>Key Note Speaker</td>
+    <td>9:00 - 9:20</td>
+    <td>Introduction</td>
   </tr>
   <tr>
-    <td>10:00 - 12:00 p.m.</td>
-    <td>Oral Presentations</td>
+    <td>9:20 - 9:40</td>
+    <td>Student Speaker: Cassie Nelson</td>
   </tr>
   <tr>
-    <td>12:00 - 1:00 p.m.</td>
-   <td>Lunch</td>
+    <td>9:40 - 10:00</td>
+    <td>Student Speaker: Kenneth Childers </td>
   </tr>
   <tr>
-    <td>1:15 - 2:00 p.m.</td>
-   <td>Key Note Speaker</td>
+    <td>10:00 - 10:40</td>
+    <td>Keynote Speaker: ForteBio </td>
   </tr>
   <tr>
-    <td>2:00 - 4:00 p.m.</td>
-    <td>Oral Presentations</td>
+    <td>10:40 - 11:00</td>
+    <td>Nanotemper Technologies</td>
   </tr>
   <tr>
-    <td>4:00 - 5:45  p.m.</td>
-    <td>Poster Presentations, Company Exhibit</td>
+    <td>11:00 - 11:20 </td>
+    <td>Student Speaker: Scott Riley</td>
   </tr>
   <tr>
-    <td>5:45 - 6:00 p.m. </td>
-    <td>Award Presentation & Conclusion</td>
+    <td>11:20 - 11:40 </td>
+    <td>Student Speaker: Adil Zuber</td>
+  </tr>
+  <tr>
+    <td>11:40 - 12:00</td>
+    <td>Student Speaker: Kuangwen Hsieh</td>
+  </tr>
+  <tr>
+    <td>12:00 - 1:00</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>1:00 - 1:40 </td>
+    <td>Poster Presentations &amp; Company Exhibit Booth</td>
+  </tr>
+  <tr>
+    <td>1:40 - 2:20</td>
+    <td>Keynote Speaker: Dr. Geddes</td>
+  </tr>
+  <tr>
+    <td>2:20 - 2:40</td>
+    <td>Student Speaker: Janae Baptiste</td>
+  </tr>
+  <tr>
+    <td>2:40 - 3:00</td>
+    <td>Student Speaker: Sharlene Brown</td>
+  </tr>
+  <tr>
+    <td>3:00 - 3:20</td>
+    <td>Student Speaker: Christy Gaines</td>
+  </tr>
+  <tr>
+    <td>3:20 - 3:40</td>
+    <td>Student Speaker: Deepika Jaiswal</td>
+  </tr>
+  <tr>
+    <td>3:40 - 4:00</td>
+    <td>Student Speaker: Olutobi Oyinlade</td>
+  </tr>
+  <tr>
+    <td>4:00 - 4:20</td>
+    <td>Student Speaker: Danielle Schmitt</td>
+  </tr>
+  <tr>
+    <td>4:20 - 4:40</td>
+    <td>Student Speaker: Stacey Sova</td>
+  </tr>
+  <tr>
+    <td>4:40 - 4:50</td>
+    <td>Conclusion &amp; Award Presentation</td>
+  </tr>
+  <tr>
+    <td>4:50 - 5:00</td>
+    <td>Breakdown </td>
   </tr>
   </table>
-
+<br><br>
 <div id="contents" style="display:none"></div>
 
 </div>

@@ -72,12 +72,12 @@ table#sequence td:first-child { text-align:left }
   
 <!-- START Content -->
 
-<h3>Fall 2016 Schedule of Classes</h3>
+<h3>Spring 2017 Schedule of Classes</h3>
 
-<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
-  <strong>Advanced Registration Begins:</strong> April 4, 2016</span> (for students currently enrolled in spring 2016) <br>
-  <strong>Registration for Newly Admitted Students:</strong>  June 1, 2016</span><br>
-  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016</span><br>
+<p><strong>Semester Dates:</strong>  January 30, 2017 – May 16, 2017<br>
+  <strong>Advanced Registration Begins:</strong> October 31, 2016 (for students currently enrolled in fall 2016)<br>
+  <strong>Registration for Newly Admitted Students:</strong>  December 1, 2016<br>
+  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2017<br>
   <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
 <p>There may be more courses announced in the near future.  This list is not final.</p>
@@ -92,77 +92,93 @@ table#sequence td:first-child { text-align:left }
     <td width="10%">ROOM</td>
   </tr>
    <tr>
-     <td>ENMG 650 (2861)</td>
-     <td>Project Management</td>
+     <td>ENMG 650   (4450)  </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4450" target="_blank">Project Management</a></td>
      <td>Tuesday</td>
-     <td>4:30 – 7:00 PM</td>
-     <td>In Person</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 652 (2862)</td>
-     <td>Mgmt., Leadership and Communication</td>
-     <td>Thursday</td>
-     <td>4:30 - 7:00 PM</td>
-     <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 652 (4393)</td>
-     <td>Mgmt., Leadership and Communication</td>
-     <td>Monday</td>
-     <td>7:10 – 9:40 PM</td>
-     <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 656 2777)</td>
-     <td>Engineering Law &amp; Ethics</td>
-     <td>Wednesday</td>
      <td>6:00 - 8:45 PM</td>
      <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
+     <td>ITE 229</td>
+     </tr>
    <tr>
-     <td>ENMG 658 (2875)</td>
-     <td>Financial Management</td>
-     <td>Wednesday</td>
-     <td>7:10 – 9:40 PM</td>
-     <td>In Person</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 658 (5324)</td>
-     <td>Financial Management</td>
-     <td>Monday</td>
-     <td>6:00 - 8:45 PM</td>
-     <td>In Person</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 659 (6845)</td>
-     <td>Strategic Management</td>
-     <td>Tuesday</td>
-     <td>4:30 – 7:00 PM</td>
-     <td>In Person</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 663 (6118)</td>
-     <td>Advanced Project Management Applications</td>
+     <td>ENMG 650   (6690)</td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6690" target="_blank">Project Management</a></td>
      <td>Wednesday</td>
      <td>4:30 - 7:00 PM</td>
      <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
+     <td>ITE 239</td>
+     </tr>
    <tr>
-     <td>ENMG 668 (6510)</td>
-     <td>Project and SE Management</td>
+     <td>ENMG 652   (4476)</td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4476" target="_blank">Mgmt., Leadership and Communication</a></td>
+     <td>Monday</td>
+     <td>4:30 - 7:00 PM</td>
+     <td>Hybrid</td>
+     <td>ITE 231</td>
+     </tr>
+   <tr>
+     <td>ENMG 652   (5206)   </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5206">Mgmt., Leadership and Communication</a></td>
+     <td>Tuesday</td>
+     <td>4:30 - 7:00 PM</td>
+     <td>Hybrid</td>
+     <td>ITE 241</td>
+     </tr>
+   <tr>
+     <td>ENMG 656   (7319)  </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7319" target="_blank">Engineering Law & Ethics</a></td>
+     <td>Tuesday</td>
+     <td>6:00 - 8:45 PM</td>
+     <td>In Person</td>
+     <td>ITE 227</td>
+     </tr>
+   <tr>
+     <td>ENMG 658   (4451)</td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4451" target="_blank">Financial Management</a></td>
+     <td>Monday</td>
+     <td>7:10 - 9:40 PM</td>
+     <td>In Person</td>
+     <td>ITE 229</td>
+     </tr>
+   <tr>
+     <td>ENMG 658   (5212)</td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5212" target="_blank">Financial Management</a></td>
+     <td>Wednesday</td>
+     <td>6:00 - 8:45 PM</td>
+     <td>In Person</td>
+     <td>ITE 233</td>
+     </tr>
+   <tr>
+     <td>ENMG 661   (6591)  </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6591" target="_blank">Leading Virtual/Global Teams</a></td>
      <td>Thursday</td>
+     <td>7:10 - 9:40 PM</td>
+     <td>In Person</td>
+     <td>ITE 229</td>
+     </tr>
+   <tr>
+     <td>ENMG 668   (5150)   </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5150" target="_blank">Project and SE Management</a></td>
+     <td>Monday</td>
+     <td>4:30 - 7:00 PM</td>
+     <td>In Person</td>
+     <td>WEB</td>
+     </tr>
+   <tr>
+     <td>ENMG 680 (8317)</td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/8317" target="_blank">International Project Management</a></td>
+     <td>Thursday</td>
+     <td>4:30 - 7:00 PM</td>
+     <td>Online</td>
+     <td>ITE 229</td>
+     </tr>
+   <tr>
+     <td>ENMG 692 (6386)   </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6386" target="_blank">Principles of Organizational Learning</a></td>
+     <td>Monday</td>
      <td>7:10 – 9:40 PM</td>
      <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
+     <td>ITE 227</td>
+     </tr>
    </table>
 <br>
 <hr>
@@ -188,7 +204,7 @@ table#sequence td:first-child { text-align:left }
      <td>X</td>
    </tr>
    <tr>
-     <td>ENMG 654:  Leading Teams and Organizations*</td>
+     <td>ENMG 654:  Leading Teams and Organizations</td>
      <td></td>
      <td>X</td>
      <td></td>

@@ -156,7 +156,7 @@ table#sequence td{ text-align: center !important; width: 33%}
 <p>
 This academic program is a participant in the U.S. Department of Education Gainful Employment program.
 </p>
-<ul><li><a href="http://gradschool.umbc.edu/resources/careers/gainfulemploy/cit/" target="_blank">Gainful Employment Information</a></li></ul>   
+<ul><li><a href="http://ged.financialaid.umbc.edu/isd/Gedt.html" target="_blank">Gainful Employment Information</a></li></ul>   
  </div>
  
   <div class="accordionheader">
@@ -218,7 +218,7 @@ This academic program is a participant in the U.S. Department of Education Gainf
        <h5>Gainful Employment</h5>
        <p> This academic program is a participant in the U.S. Department of Education Gainful Employment program. </p>
        <ul>
-         <li><a href="http://gradschool.umbc.edu/resources/careers/gainfulemploy/isd/" target="_blank">Gainful Employment Information</a></li></ul>
+         <li><a href="http://ged.financialaid.umbc.edu/isd/Gedt.html" target="_blank">Gainful Employment Information</a></li></ul>
 </div>
       
   <div class="accordionheader">
@@ -268,7 +268,7 @@ This academic program is a participant in the U.S. Department of Education Gainf
         <h5>Gainful Employment</h5>
        <p> This academic program is a participant in the U.S. Department of Education Gainful Employment program. </p>
        <ul>
-         <li><a href="http://gradschool.umbc.edu/resources/careers/gainfulemploy/distedu/" target="_blank">Gainful Employment Information</a></li></ul>      
+         <li><a href="http://ged.financialaid.umbc.edu/isd/Gedt.html" target="_blank">Gainful Employment Information</a></li></ul>      
        
        </div>
       

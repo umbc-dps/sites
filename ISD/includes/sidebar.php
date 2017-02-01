@@ -1,11 +1,12 @@
-<div class="five columns">
-
-    <aside class="five columns add-bottom" id="two">
+<div class="five columns">    <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Upcoming Event</h3>
       <p style="text-align:center">
-Check back in December for Spring 2017 Open House<br/>
+		<strong>Program Exploration Open House</strong><br>
+Saturday, April 1, 10:00AM - 12:00PM<br>
+<a href="http://umbc.edu/openhouse" class="btn">Save Your Spot!</a>
 	</p>
     </aside>
+
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>

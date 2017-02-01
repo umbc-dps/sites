@@ -151,37 +151,32 @@ BEGIN MAIN
         <strong>Phone</strong>: 52827<br>
         <strong>E-Mail</strong>: <a href="mailto:jbarker@umbc.edu">jbarker@umbc.edu</a><br>
       </p></td>
-      <td width="31%" valign="top"><p><strong>Bateman, Carol</strong><br>
+      <td width="31%" valign="top"><p><strong>Barrow, Michelle</strong><br>
+          <strong>Title:</strong>  Coordinator<br>
+          <strong>Unit:</strong> Marketing<br>
+          <strong>Location:</strong> Sherman Hall 478<br>
+        Phone: <br>
+        <strong>E-Mail:</strong> <a href="mailto:mbarrow1@umbc.edu">mbarrow1@umbc.edu</a></p></td>
+      <td width="34%" valign="top"><p><strong>Bateman, Carol</strong><br>
           <strong>Title</strong>: <br>
           <strong>Unit</strong>: <br>
           <strong>Location</strong>: Sherman Hall 445<br>
           <strong>Phone</strong>: 58607<br>
           <strong>E-Mail</strong>: <a href="mailto:cbateman1@umbc.edu">cbateman1@umbc.edu</a></p></td>
-      <td width="34%" valign="top"><p><strong>Cardona, Dennise</strong><br>
+    </tr>
+    <tr>
+      <td bgcolor="#CCCCCC"><p><strong>Cardona, Dennise</strong><br>
           <strong>Title</strong>: Digital Content Specialist<br>
           <strong>Unit</strong>: Marketing<br>
           <strong>Location</strong>: Sherman Hall 480<br>
           <strong>Phone</strong>: 55602 <br>
           <strong>E-Mail</strong>: <a href="mailto:dcardona@umbc.edu">dcardona@umbc.edu</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
       <td bgcolor="#CCCCCC"><p><strong>Clements,&nbsp;Nancy</strong><br>
           <strong>Title</strong>: Academic Program Specialist <br>
           <strong>Unit</strong>: Professional Programs <br>
           <strong>Location</strong>: Sherman Hall 446<br>
           <strong>Phone</strong>: 55536<br>
           <strong>E-Mail</strong>: <a href="mailto:nancyc@umbc.edu">nancyc@umbc.edu</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Cox, Tim</strong><br>
-          <strong>Title</strong>:  Assistant Director            of Advising and Student Success<br>
-          <strong>Unit</strong>: Shady Grove Programs<br>
-          <strong>Location</strong>: Shady Grove Rm. 4131<br>
-          <strong>Phone</strong>: 301-738-6281<br>
-          <strong>E-Mail</strong>: <a href="mailto:thcox@umbc.edu">thcox@umbc.edu</a></p></td>
       <td bgcolor="#CCCCCC"><p><strong>Crosby, Sonya</strong><br>
           <strong>Title</strong>: Director <br>
           <strong>Unit</strong>: Professional Programs <br>
@@ -220,24 +215,30 @@ BEGIN MAIN
       <td bgcolor=""><p>&nbsp;</p></td>
     </tr>
     <tr>
-      <td bgcolor=""><p><strong>Ellis, Makeba</strong><br>
+      <td bgcolor="CCCCCC"><p><strong>Ellis, Makeba</strong><br>
           <strong>Title</strong>: Executive Administrative Assistant<br>
           <strong>Unit</strong>: DPS<br>
           <strong>Location</strong>: Sherman Hall 459 <br>
           <strong>Phone</strong>: 55604<br>
           <strong>E-Mail</strong>: <a href="mailto:makebaellis@umbc.edu">makebaellis@umbc.edu</a></p></td>
-      <td bgcolor=""><p><strong>England, Yuliya</strong><br>
+      <td bgcolor="CCCCCC"><p><strong>England, Yuliya</strong><br>
           <strong>Title</strong>: Assistant Director, Academic Programs<br>
           <strong>Unit</strong>: ELI<br>
           <strong>Location</strong>: UC 207<br>
           <strong>Phone</strong>: 55725<br>
           <strong>E-Mail</strong>: <a href="mailto:yengland@umbc.edu">yengland@umbc.edu</a></p></td>
-      <td bgcolor=""><p><strong>Foutz, Sarita </strong><br>
+      <td bgcolor="CCCCCC"><p><strong>Foutz, Sarita </strong><br>
           <strong>Title</strong>: Program Coordinator <br>
           <strong>Unit</strong>: ELI<br>
           <strong>Location</strong>: UC 207<br>
           <strong>Phone</strong>: 52697 <br>
           <strong>E-Mail</strong>: <a href="mailto:sarita1@umbc.edu">sarita1@umbc.edu</a></p></td>
+    </tr>
+    
+    <tr>
+      <td bgcolor="">&nbsp;</td>
+      <td bgcolor="">&nbsp;</td>
+      <td bgcolor="">&nbsp;</td>
     </tr>
     <tr>
       <td bgcolor=""><p>&nbsp;</p></td>
@@ -406,12 +407,12 @@ BEGIN MAIN
           <strong>Phone</strong>: 55609<br>
           <strong>E-Mail</strong>: <a href="mailto:co7@umbc.edu">co7@umbc.edu</a></p></td>
           
-      <td bgcolor="#CCCCCC"><p><strong>Penn, Josephine </strong><br>
-          <strong>Title</strong>: Program Management Specialist<br>
-          <strong>Unit</strong>: ELI<br>
-          <strong>Location</strong>: UC 207<br>
-          <strong>Phone</strong>: 52328<br>
-          <strong>E-Mail</strong>: <a href="mailto:jpenn@umbc.edu">jpenn@umbc.edu</a></p></td>
+      <td bgcolor="#CCCCCC"><p><strong>Panfile, Natalia</strong><br>
+          <strong>Title</strong>: Program Coordinator <br>
+          <strong>Unit</strong>: Summer, Winter and Special Programs<br>
+          <strong>Location</strong>: Sherman Hall 450<br>
+          <strong>Phone</strong>: 52713<br>
+          <strong>E-Mail</strong>: <a href="mailto:napan1@umbc.edu" target="_blank">napan1@umbc.edu</a></p></td>
           
             </tr>
     <tr>
@@ -421,14 +422,19 @@ BEGIN MAIN
     </tr>
     <tr>  
           
-      <td><p><strong>Randles, Scott</strong><br>
+      <td><p><strong>Penn, Josephine </strong><br>
+          <strong>Title</strong>: Program Management Specialist<br>
+          <strong>Unit</strong>: ELI<br>
+          <strong>Location</strong>: UC 207<br>
+          <strong>Phone</strong>: 52328<br>
+          <strong>E-Mail</strong>: <a href="mailto:jpenn@umbc.edu">jpenn@umbc.edu</a></p></td>
+
+      <td valign="top"><p><strong>Randles, Scott</strong><br>
           <strong>Title</strong>: Director <br>
           <strong>Unit</strong>: Finance and Administration <br>
           <strong>Location</strong>: Sherman Hall 456<br>
           <strong>Phone</strong>: 52747 <br>
           <strong>E-Mail</strong>: <a href="mailto:randles@umbc.edu">randles@umbc.edu</a></p></td>
-
-      <td valign="top"><p>&nbsp;</p></td>
           
       <td valign="top"><p>&nbsp;</p></td>
       <td valign="top"><p>&nbsp;</p></td>

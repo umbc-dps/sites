@@ -116,16 +116,15 @@ $lang = 'en';
  <p><img src="images/faculty/umbc-faculty-Craig-Behm.jpg" alt="UMBC Faculty Craig Behm" align="left" width="200">BA University of Maryland,  College Park<br>
    MBA Loyola University  Sellinger School of Business</p>
    
-<p>Craig Behm is the Executive Director of MedChi Network Services  (MNS), a firm that offers practice services and Accountable Care Organization  (ACO) management as a subsidiary of MedChi, the Maryland State Medical Society.  He created the initial formation strategy for MNS and executed on those plans to  form two distinct service lines advancing health care delivery. MNS is a state-designated management services  organization and a co-recipient of federal funding through the Maryland  Regional Extension Center, the Chesapeake Regional Information System for our  Patients (CRISP). Through that partnership, MNS is developing secure methods  for the effective utilization of electronic health records. CRISP is also the  state-designated Health Information Exchange, through which MNS is supporting  the real-time transfer of health information. MNS assisted hundreds of small  practices to reach Meaningful Use of certified EHRs, and continues to help with  implementation and optimization of IT systems.</p>
+<p>Craig Behm is a Director at Audacious Inquiry, a health  information technology and policy firm in Baltimore, Maryland. He primarily  serves as the Director of Hospital Services for the Chesapeake Regional  Information System for our Patients (CRISP), the state-designated health  information exchange. In that role, Mr. Behm works directly with hospitals and  their community partners to execute population health activities leveraging  technology and data. Previously, he was the program director for the reporting  and analytics services provided by CRISP. Mr. Behm is also an instructor at the  University of Maryland Baltimore County Master&rsquo;s program in Health Information  Technology, where he teaches students how to design, measure, prioritize, and  implement improvement efforts across complicated health care systems.</p>
 
-  <p>Mr. Behm is the Executive  Director of the three ACOs owned and operated by MNS. He performed a vital  role in the ACO formation process and leads clinical integration and quality  improvement actions.  All three ACOs were selected for the  competitive Advance Payment program (out of 33 total nationwide). Through those  groups, MNS is coordinating health care needs for over 25,000 Medicare  beneficiaries through a network of nearly 100 independent primary care  providers. Mr. Behm continues to facilitate the expansion of ACOs and  related services to enhance the private practice of medicine.</p>
-  
-  <p>Prior to joining MNS, Mr. Behm worked as a health care  business consultant for a small firm in the Baltimore region. He also worked at  Erickson Living, a large-scale developer and operator of continuing care  retirement communities. Mr. Behm holds a Bachelors of Arts from the University  of Maryland, College Park and a Masters of Business Administration from the  Loyola University Sellinger School of Business. </p>
-  
-  <p>Mr. Behm is teaching Process and  Quality Improvement with Health IT, which will provide an overview of quality measurement and process improvement as they  relate specifically to the health care industry. The purpose  of the class is to examine tools, techniques, and resources available to  health care professionals through effective use of health IT  and – most importantly – to successfully implement  them in a variety of health care settings.</p>
+  <p>Prior to joining Audacious Inquiry, Mr. Behm was the  Executive Director of MedChi Network Services (MNS), a firm that offers  practice services and Accountable Care Organization (ACO) management as a  subsidiary of MedChi, the Maryland State Medical Society. He created the  initial formation strategy for MNS and executed on those plans to form two  distinct service lines advancing health care delivery. MNS was a  state-designated management services organization and a co-recipient of federal  funding through the Maryland Regional Extension Center, operated by CRISP.  Through that partnership, MNS developed secure methods for the effective  utilization of electronic health records. MNS assisted hundreds of small  practices to reach Meaningful Use of certified EHRs, and continues to help with  implementation and optimization of IT systems.</p>
+  <p>While at MNS, Mr. Behm was also the Executive Director of  the three ACOs affiliated with MedChi. He performed a vital role in the ACO  formation process and led clinical integration and quality improvement actions.  All three ACOs were selected for the competitive Advance Payment program (out  of 33 total nationwide). Through those groups, MNS coordinated health care  needs for over 25,000 Medicare beneficiaries through a network of nearly 100  independent primary care providers. Mr. Behm facilitated the expansion of ACOs  and related services to enhance the private practice of medicine.</p>
+  <p>Earlier in his career, Mr. Behm worked as a health care  business consultant for a small firm in the Baltimore region. He also worked at  Erickson Living, a large-scale developer and operator of continuing care  retirement communities. Mr. Behm holds a Bachelors of Arts from the University  of Maryland, College Park and a Masters of Business Administration from the  Loyola University Sellinger School of Business.</p>
+  Mr. Behm is teaching Process and Quality Improvement with  Health IT, which will provide an overview of quality measurement and process  improvement as they relate specifically to the health care industry. The  purpose of the class is to examine tools, techniques, and resources available  to health care professionals through effective use of health IT and – most  importantly – to successfully implement them in a variety of health care  settings.</p>
    </div>
 
-   
+  
 <div class="accordionheader">  
 <h4><a id="evatt" href="#evatt"></a> 
 Angela Evatt, M.A., M.P.P. | Graduate Faculty<i class="fa fa-angle-down"></i></h4>
@@ -154,6 +153,22 @@ B.Sc., Computer Engineering, Ege University</p>
 <p>Dr. Koru is a tenured associate professor in the Department of Information Systems at UMBC. His research interests generally fall under health information technologies, health information privacy and security, IT in Health Services, and software engineering. He teaches a number of related courses at the undergraduate and graduate levels.</p>
 
 <p>He received a PhD degree and an MS Degree in Computer Science and Software Engineering, respectively, from the Southern Methodist University (SMU), Dallas, Texas. He received an MS Degree in Computer Engineering from Dokuz Eylul University, Izmir, Turkey and a B.Sc. Degree in Computer Engineering from Ege University, Izmir, Turkey.  He is a member of AMIA. He serves in the Policy Board for Health Information Exchange organized by the State of Maryland’s Maryland Health Care Commission (MHCC).</p>
+</div>
+
+<div class="accordionheader">  
+<h4><a id="mulhern" href="#mulhern"></a>John Paul Mulhern, MBA, LCSW-C | Graduate Faculty<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+ <p>MBA, Mount Saint Mary’s University<br>
+MSW, University of Baltimore</p>
+
+<p>Paul has over twenty years of experience in health IT as a licensed clinical provider and program manager. Paul has managed health it projects for private payer organizations including Magellan Health and Johns Hopkins.  Both organizations support public payer products including Medicare, Medicaid and Tricare as well as private/employer sponsored health plans.  Paul has also managed health IT projects for the Federal Government including the National Cancer Institute, the Department of Defense and the Department of Veteran Affairs.</p>
+
+<p>Paul’s health IT program/project management experience includes financial, technical and human management of healthcare programs as well as the entire lifecycle of healthcare clinical, claims and research information systems, which are utilized within those programs.  He has worked with senior healthcare leaders in public and private setting to identify and document high-level programmatic strategy and identify, prioritize and document projects to support the program goals in support of the broader strategic goals of the organization.  This includes designing and implementing systems to fulfill business objectives while maintaining focus on core business goals within a broader strategy, throughout the development and implementation of healthcare information systems.</p>
+
+<p>In all settings, Paul has collaborated with a broad spectrum of stakeholders including employees, contractors, clients, providers, researchers, regulators, advocates and more.  At UMBC, Paul managed bioinformatics research collaboration with the Baltimore VA before starting as a part time faculty.  Paul is a licensed social worker in the State of Maryland.</p>
+
 </div>
 
 
@@ -226,6 +241,20 @@ PMP, Project Management Professional</p>
 
 <p>Dr. Tsai holds a Ph.D. in Biomedical and Health  Informatics from the University of Washington in Seattle as well as master&rsquo;s  degree in Public Health Informatics from Emory University in Atlanta. She completed her postdoctoral fellowship at  Johns Hopkins University.</p>
 </div>
+
+<div class="accordionheader">
+  <h4><a id="behm" href="#behm"></a>Rose  Yesha, Ph.D. | Associate Graduate Program Director<i class="fa fa-angle-down"></i></h4>
+</div>
+  
+   <div class="accordionbody">
+ <p><img src="images/rose-yesha.jpg" alt="UMBC Faculty Craig Behm" align="left" width="200">Ph.D.,  Information Systems, Health Informatics, UMBC<br>
+   M.S., Health  Systems Management, University of Baltimore<br>
+   B.A.,  Psychology, UMBC</p>
+   
+<p>Dr. Rose  Yesha has an extensive background in health informatics, specifically within  the domains of electronic health records, medical case reports, and behavioral  health. Her research focuses on data mining large amounts of unstructured data  and clustering the data into meaningful patterns. Her research within  behavioral health has involved data mining mental health forum data and social  media data within the subsets of anxiety, depression, and addiction.  She has co-authored several current  publications in the field of healthcare informatics, which have appeared in  top-ranking journals.</p>
+
+<p>Dr. Yesha finished her PhD from UMBC in the  department of Information Systems, with a concentration in Health Informatics.  She has given guest lectures on her research involving behavioral health and  data mining at The University of Maryland School of Social Work as well as the  National Institute of Drug Abuse at Johns Hopkins University. She is currently  a post-doctoral researcher at Rutgers University-Newark in the field of  Management Science &amp; Information Systems.   </p>
+   </div>
 
 <div class="accordionheader">  
 <h4>Faculty with an interest in Health Information Technology: <i class="fa fa-angle-down"></i></h4>

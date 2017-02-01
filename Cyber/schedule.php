@@ -99,81 +99,95 @@ $lang = 'en';
     <td>Tuesday</td>
     <td>6:00 - 8:45 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
-  </tr>
+    <td>U572</td>
+    </tr>
   <tr>
     <td>CYBR  620   (5213)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6268" target="_blank">Introduction to Cybersecurity</a></td>
     <td>Tuesday</td>
     <td>6:00 - 8:45 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
-  </tr>
+    <td>3.014</td>
+    </tr>
   <tr>
     <td>CYBR  621   (5911)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5911" target="_blank">Cyber Warfare</a></td>
     <td>Wednesday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
-  </tr>
+    <td>3.013</td>
+    </tr>
   <tr>
     <td>CYBR  622   (4834)   </td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4834" target="_blank">Global Cyber Capabilities and Trends</a></td>
     <td>Wednesday</td>
     <td>7:10 - 9:40 PM</td>
     <td>Hybrid</td>
-    <td>TBD</td>
-  </tr>
+    <td>U572</td>
+    </tr>
   <tr>
     <td>CYBR  623   (4835)   </td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4835" target="_blank">Cybersecurity Law & Policy</a></td>
     <td>Monday</td>
     <td>4:30  - 7:00 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
-  </tr>
+    <td>3.013</td>
+    </tr>
   <tr>
     <td>CYBR  624   (6021)   </td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5681" target="_blank">Cybersecurity Project</a></td>
     <td>Tuesday</td>
     <td>4:30  - 7:00 PM</td>
     <td>Hybrid</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
+    <td>U572</td>
+    </tr>
+    <tr>
+      <td> CYBR 644 (8422)</td>
+    <td>Practitioner Development&nbsp; Lab</td>
+    <td>Wednesday</td>
+    <td>6:00 - 8:45 PM</td>
+    <td>In Person</td>
+    <td>Sherman    Hall 464</td>
+    <tr>
     <td>CYBR 650   (5912)   </td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5912" target="_blank">Cyber Operations Management</a></td>
     <td>Wednesday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
-  </tr>
+    <td>3.014</td>
+    </tr>
   <tr>
     <td>CYBR 658   (7117) </td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7117" target="_blank">Risk Analysis & Compliance</a></td>
     <td>Thursday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
-  </tr>
+    <td>3.014</td>
+    </tr>
   <tr>
     <td>CYBR 691   (7760)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7760" target="_blank">Special Topics:  Intro to Reverse  Engineering</a></td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7760" target="_blank">Special Topics: Intro to Reverse  Engineering</a></td>
     <td>Monday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
-  </tr>
+    <td>3.013</td>
+    </tr>
   <tr>
     <td>CYBR 691   (7761)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7761" target="_blank">Special Topics:  Insider Threat</a></td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7761" target="_blank">Special Topics: Insider Threat</a></td>
     <td>Thursday</td>
     <td>6:00  - 8:45 PM</td>
     <td>In Person</td>
-    <td>TBD</td>
-  </tr>
-  </table>
+    <td>3.013</td>
+    </tr>
+    <tr>
+      <td>CYBR 691    (8199)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7762" target="_blank">Special Topics: Enterprise Security</a></td>
+    <td>Tuesday</td>
+    <td>6:00 - 8:45 PM</td>
+    <td>In Person</td>
+    <td>3.013</td>
+    </table>
 
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions.php">Directions</a></strong>)</p>    
 <div id="contents" style="display:none"> </div>

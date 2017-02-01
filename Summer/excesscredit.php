@@ -2,30 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Excess Credit | Summer Programs at UMBC</title>
+<title>Winter Session Course Load | Summer Session at UMBC</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="This UMBC 2016 Summer Session, you can take up to 16 credits each summer session." />
+<meta name="description" content="During winter session you can register for no more than  4.5 credits, due to the condensed length of the term." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Excess Credit | Summer Programs at UMBC" />
+<meta property="og:title" content="Winter Session Course Load | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/excesscredit" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="This UMBC 2016 Summer Session, you can take up to 16 credits each summer session." />
+<meta property="og:url" content="http://www.umbc.edu/winter/excesscredit" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="During winter session you can register for no more than  4.5 credits, due to the condensed length of the term." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -37,91 +39,63 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
-        <h2>Summer/Winter Session Course Load</h2>
+        <h2>Excess Credits</h2>
     <!-- END Page Title -->       
   <div class="content">
   <div class="narrowchart">
   <div id="accordion">
      <!-- Start Content --> 
-     
+<p>Highly motivated and academically strong students may be granted permission to enroll in more than the designated maximum summer/winter course load limits.  Advanced approval is required by both your primary major advisor and the Office of Academic and Pre-Professional Advising to enroll in excess credits.</p>
 <div class="accordionheader">
-    <h4>Summer session  course load<i class="fa fa-angle-down"></i></h4>
+    <h4>Summer Session  Course Load<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">
-<ul>
-  <li>During the summer, you can register for up to 16 total  credits (no more than 8 credits in each of the two summer sessions).</li>
-  <li>If you attempt to enroll in more than 8 credits per  session, you will be blocked during online registration.</li>
-</ul>
+<p>During the summer, register for up to 16 total credits (8 credits maximum for each session).  Attempts to enroll in more than 8 credits per session are blocked.</p>
   </div>  
      
 <div class="accordionheader">
-    <h4>Winter session course load<i class="fa fa-angle-down"></i></h4>
+    <h4>Winter Session Course Load<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">
-<ul>
-  <li>During winter session you can register for no more than  4.5 credits, due to the condensed length of the term.</li>
-  <li>If you attempt to enroll in more than 4.5 credits, you  will be blocked during online registration.</li>
-</ul>
-<h4>Course load exceptions</h4>
-<ul>
-  <li>Highly motivated and academically strong students <strong>may</strong> be granted permission to enroll in  more than the designated course load limits.</li>
-  <li>Advanced approval is required by both the student's  primary major advisor and the Office of Academic and Pre-Professional Advising  to enroll in excess credits.</li>
-</ul>
-  </div>  
-     
+<p>Due to winter session’s condensed length, 4.5 is the maximum allowed credits.  Attempts to enroll in more than 4.5 credits are blocked.</p>
+</div>
+
 <div class="accordionheader">
-    <h4>How to request excess credit approval<i class="fa fa-angle-down"></i></h4>
+    <h4>How to Request Excess Credit Approval<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">
-<ul>
-  <li><a href="http://registrar.umbc.edu/files/2015/03/NEW-Excess-Credits-Form_3_10_15nm.pdf">Download</a> and complete an &quot;Enroll for  Excess Credit&quot; form.</li>
-  <li>Consult with your primary major advisor to verify  he/she agrees to approve the additional credits.</li>
-  <li>Obtain your advisor's signature on the form.</li>
-  <li>E-mail the completed and signed form to the Office of  Academic and Pre-Professional Advising for review at arc@umbc.edu.</li>
-  <li>Please allow at least a week before the start of  classes to process your request.</li>
-  <li>The Office of Academic and Pre-Professional Advising  will notify you by e-mail regarding whether your request to enroll in excess  credits is approved.</li>
-</ul>
-  </div>  
-     
-<p>
-
-    <h5>Questions about the excess credits process should be directed to:</h5>
-
-Office for Academic and Pre-Professional Advising<br>
-  Room 102 Academic Services Bldg<br>
-  410-455-2729<br>
-  <a href="mailto:arc@umbc.edu">arc@umbc.edu</a></p>
-
-
+<p><a href="http://registrar.umbc.edu/files/2015/03/NEW-Excess-Credits-Form_3_10_15nm.pdf" target="_blank">Download</a> and complete an "Enroll for Excess Credit" form.  Consult with your primary major advisor to verify he/she agrees to approve the additional credits, and obtain your advisor's signature on the form.  E-mail the completed/signed form to the Office of Academic and Pre-Professional <a href="http://advising.umbc.edu/" target="_blank">Advising</a> at <a href="mailto:arc@umbc.edu" target="new">arc@umbc.edu</a>.  Please allow at least one week for review.  Decisions are sent to the e-mail provided on your request.</p>
+  </div>
+  
      <!-- END Content -->
      
 	</div></div></div>
@@ -129,15 +103,16 @@ Office for Academic and Pre-Professional Advising<br>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>

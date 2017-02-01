@@ -2,20 +2,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Registration Tips | Summer Programs at UMBC</title>
+<title>Registration Tips | Summer Session at UMBC</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Here are some tips for registering for UMBC's 2015 Summer Session." />
+<meta name="description" content="Winter session GEP course offerings and requirements." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Registration Tips | Summer Programs at UMBC" />
+<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/registrationtips/" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
-<meta property="og:description" content="Here are some tips for registering for UMBC's 2015 Summer Session." />
+<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session GEP course offerings and requirements." />
 
 
 <!-- CSS -->
@@ -23,10 +24,10 @@
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -52,9 +53,9 @@
  </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
@@ -64,7 +65,7 @@
  <div class="sixteen columns">
   <div class="eleven columns alpha" style="padding-top:1em;">
   <!-- Page Title -->
-        <h2>Registration Tips</h2>
+        <h2>Registration Assistance</h2>
     <!-- END Page Title -->       
 	<div class="content">
 		<div class="narrowchart">
@@ -72,47 +73,47 @@
       
      <!-- Start Content --> 
 
-
-
-<ul>
-  <li>Use your smart phone, mobile device, or computer to register through <a href="http://my.umbc.edu/topics/classes-and-grades" target="_blank"><em>my</em>UMBC</a>.</li>
-
-  <li>Courses with <a href="coursesprerequisites">prerequisites</a> may require permission to register.
-  </li>
-</ul>
-
+<p>
+Advising is not required, but highly recommended for summer registration.
+</p>
 
   <div class="accordionheader">
-    <h4>Schedule adjustment period<i class="fa fa-angle-down"></i></h4>
+    <h4>How to register<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
-<p>During the <a href="scheduleadjustment">Schedule Adjustment Period</a> (the first four days of Session I and II), you can add, drop or swap courses (for same number of credits) with no academic or financial penalty.</p>
+<p><a href="https://webadmin.umbc.edu/admin/User/Create" target="_blank">Create</a> your <em>my</em>UMBC account if have not done so already, then <a href="http://my.umbc.edu/" target="_blank">log-in</a> to <em>my</em>UMBC.  Follow the step-by-step <a href="http://registrar.umbc.edu/services/registration/Information-About-Registration/" target="_blank">instructions</a>.</p>
+</div>
 
-  <li>Use <a href="http://my.umbc.edu/topics/classes-and-grades" target=
-  "_blank"><em>my</em>UMBC</a> to add or drop summer courses through June 3 for Session I and July 14 for Session II with no academic or financial penalty.
-  </li>
+  <div class="accordionheader">
+    <h4>Mobile registration<i class="fa fa-angle-down"></i></h4>
+  </div>
 
-  <li>After June 3 and July 15, please be aware of the <a href="scheduleadjustment">schedule adjustment period</a>.
-  </li>
+<div class="accordionbody">
+<p>Use your smart phone or <a href="https://www.youtube.com/watch?v=hXIWIzOsn5w" class="video">mobile device</a> to  register.</p>
 </div>
 
 
   <div class="accordionheader">
-    <h4>How to search the online schedule of classes<i class="fa fa-angle-down"></i></h4>
+    <h4>How to register for course with prerequisites<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
+<p>Courses  with <a href="all-courses#prereq">prerequisites</a> may  require <a href="coursesprerequisites">permission</a> to  register.  All <a href="visitingstudents">visiting</a> students are initially  blocked when they try to register for UMBC courses with prerequisites.
+</p>
 
-<ul>
-  <li><em>my</em>UMBC displays the entire catalog of UMBC course subjects, but not all subjects are offered each semester.
-  </li>
 
-  <li><a href="http://www.umbc.edu/summer/courses" target="_blank">View courses offered</a> by subject during summer session. 
-  </li>
+</div>
 
-  <li>Within the course listings, course descriptions provide information about seat availability, additional fees, class format and enrollment requirements.</li>
-</ul></div>
+
+  <div class="accordionheader">
+    <h4>How to register for more than 8 credits per session<i class="fa fa-angle-down"></i></h4>
+  </div>
+
+<div class="accordionbody">
+<p>Enroll  in up to 8 credits per session for a maximum 16 total credits during summer. Permission  to enroll in excess credits requires advanced approval from your primary major  advisor and the Office of Academic and Pre-Professional Advising. Request <a href="excesscredit">permission</a> at least one week  before classes begin. 
+</p>
+</div>
 
 
   <div class="accordionheader">
@@ -120,116 +121,58 @@
   </div>
 
 <div class="accordionbody">
+<p>Use <a href="http://my.umbc.edu/"><em>my</em>UMBC</a> to place  your name on a waitlist. Check the box &quot;Waitlist if class is  full&quot; when registering. If the class has a waitlist you will be  notified of your position.</p>
 
-<ul>
-  <li>If a course if full, use <em>my</em>UMBC to place your name on a
-  waitlist.</li>
+<p>
+If a seat opens in a closed course, the top eligible person  on the waitlist is automatically enrolled. You will not be automatically enrolled if  you have a time conflict with another course or if you try to enroll for excess  credits without <a href="excesscredit.php">approval</a>.  <strong>May 27</strong> is the last day students will automatically be enrolled for Session  I.  <strong>July 7</strong> is the last day students will automatically be enrolled for Session  II.  After these dates, <a href="contact">contact</a> the Office of Summer and  Winter Programs for assistance regarding seat availability.</p>
 
-  <li>When adding the class during registration, check the box "Waitlist if
-  class is full" and continue the enrollment process.</li>
-
-  <li>If the class has a waitlist, you will be notified of your position on the
-  waitlist after you have completed registration.</li>
-  
-  <li>If a seat opens in a closed course, and you are in the top position on the waitlist, you will be automatically enrolled in the course.</li>
-
-  <li>You will NOT be automatically enrolled from a waitlist if you have a time
-  conflict with another course, or if you try to enroll for excess credits
-  (without approval).</li>
-
-  <li>The last day  students will
-    automatically be enrolled in classes from the waitlists is <strong>May 27</strong> for Session I, and <strong>July 8</strong> for Session II. After those dates, contact the Office of Summer and Winter Programs for assistance regarding seat availability.
-  </li>
-
-  <li><a href="https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists" target=
-    "_blank">Learn more about waitlists</a>.
-  </li>
-</ul></div>
-
-
-  <div class="accordionheader">
-    <h4>Multiple component courses<i class="fa fa-angle-down"></i></h4>
-  </div>
-
-<div class="accordionbody">
-
-<ul>
-  <li>Multiple component courses are those courses  that incorporate two or more formats (e.g. lecture and discussion, or lecture and  lab). </li>
-  <li>STEM courses are often offered as multiple  component courses.</li>
-  <li>If you are registering for a multiple component  course, you must enroll in <strong>all  components</strong> of that course. </li>
-  <li>Components for a course are listed under &ldquo;Class  Details&rdquo; in the online schedule of classes.</li>
-</ul>
 </div>
 
 
   <div class="accordionheader">
-    <h4>Credit limits and excess credit approval<i class="fa fa-angle-down"></i></h4>
+    <h4>Registering for multiple component courses<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
+<p>Multiple  component courses incorporate two or more formats such as lecture and discussion,  or lecture and lab.  <a href="stem">STEM</a> courses often have multiple  course components.  If you are  registering for a multiple component course, you must enroll in <strong>all  components</strong> of that course. Course components are listed under &ldquo;Class  Details&rdquo; in the online schedule of classes.
 
-<ul>
-  <li>You can enroll in up to 8 credits per session (maximum 16 total credits in summer session) or 4.5 credits in winter session.  </li>
-
-  <li>Permission to enroll in excess credits requires advanced approval from your primary major advisor and the Office of Academic and Pre-Professional Advising.</li>
-
-  <li>Request <a href="excesscredit">excess credit approval</a> at least one week before classes begin.  
-  </li>
-</ul></div>
+</p>
+</div>
 
 
   <div class="accordionheader">
-    <h4>Course time conflicts<i class="fa fa-angle-down"></i></h4>
+    <h4>Registering for a course you’ve already taken twice<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
 
-<ul>
-  <li>You are not permitted to register for more than one course that meets at the same time or overlaps in meeting patterns. The registration system will block your enrollment.</li>
+<p>
 
-  <li>If there are extenuating circumstances, you may be permitted to register for courses that share a time conflict if the overlap is minimal and both instructors agree to the exception.
-  </li>
 
-  <li>•	To request a time conflict exception, complete a <a href="http://registrar.umbc.edu/files/2012/06/Time-Conflict-Exceptions-Form.pdf"
-  target="_blank">time conflict form</a>, obtain written approval from both instructors, and submit the signed form to the Registrar’s Office before the end of the <a href="scheduleadjustment">Schedule Adjustment Period</a>.</li>
 
-</ul></div>
+You  may not register for the same course more than two times. You are considered  registered for a course if you are enrolled after the end of the schedule  adjustment period.  You may <a href="https://bsg1.ps.umbc.edu/prd/OUE/oue_exceptions.php?form=repeat" target="_blank">petition</a> the Office of Undergraduate Education (OUE) for a  third and final attempt of a course taken at UMBC [or] another institution.  An attempt is defined as enrollment in a UMBC  course (or its equivalent at another institution) in which the student has  received a grade or an official withdrawal noted on the transcript. </p></div>
 
 
   <div class="accordionheader">
-    <h4>Course repeat policy<i class="fa fa-angle-down"></i></h4>
+    <h4>Registering for courses with a time conflict<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
+<p>You  are not permitted to register for courses that meets at the same time or  overlaps in meeting patterns. The registration system will block your  enrollment.  If there are extenuating  circumstances, you may be permitted to register for courses that share a time  conflict if the overlap is minimal and BOTH instructors agree to the exception.    To request a time conflict exception,  complete a time conflict <a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">form</a>,  obtain written approval from both instructors, and submit the signed form to  the Registrar&rsquo;s Office before the end of the schedule adjustment <a href="scheduleadjustment">period</a>.
 
-<ul>
-  <li>You may not register for a course more than two times. You are considered registered for a course if you are enrolled after the end of the schedule adjustment period. You may <a href="https://bsg1.ps.umbc.edu/prd/OUE/oue_exceptions.php?form=repeat" target="_blank">petition</a> the Office of Undergraduate Education (OUE) for a third and final attempt of a course taken at UMBC [or] another institution.</li>
-
-  <li>An attempt is defined as enrollment in a UMBC course (or its equivalent
-  at another institution) in which the student has received a grade or an
-  official withdrawal noted on the transcript. More information on Repeating
-  Courses is detailed in the <a href=
-  "http://catalog.umbc.edu/content.php?catoid=3&navoid=106" target=
-  "_blank">Undergraduate Catalog (under Repeating Courses)</a>.
-  </li>
-
-  <li><a href="http://academicpolicy.umbc.edu/home/undergraduate-petitions/" target="_blank">Course        Petition Student Checklist</a></li>
-</ul></div>
+</p>
+</div>
 
 
   <div class="accordionheader">
-    <h4>Independent study courses<i class="fa fa-angle-down"></i></h4>
+    <h4>Registering for an independent study course<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
 
-<ul>
-  <li>Academic departments schedule independent study courses on an &ldquo;as
-  needed&rdquo; basis. To request the course be added to the schedule, contact
-  the appropriate academic department before the <a href="importantdates"
-    target="_blank">final day</a> to register.
-  </li>
-</ul>
+<p>Academic  departments schedule independent study courses on an &ldquo;as needed&rdquo; basis. To  request the course be added to the schedule, contact the appropriate academic  department before the <a href="importantdates">final</a> day to register.
+
+</p>
 
 </div>
 
@@ -242,15 +185,16 @@
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>

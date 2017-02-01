@@ -113,7 +113,7 @@
 		<tr>
       <td>eli</td>
       <td></td>
-      <td>co7@umbc.edu</td>
+      <td>eli@umbc.edu</td>
       <td></td>
       <td></td>
       <td>We have received your request and will contact you soon. We hope that you will apply to the English Language Institute at the University of Maryland, Baltimore County! We look forward to further contact with you and to helping you reach your goals in learning English and beyond. Thank you again for your interest in our programs!</td>

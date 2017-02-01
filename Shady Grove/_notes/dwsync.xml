@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name=".DS_Store" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="130965585610000000" remote="131154863810000000" Dst="1" />
-<file name="accommodations.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131188704320000000" remote="131188704320000000" Dst="1" />
+<file name="accommodations.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131292424215444568" remote="131292424220000000" Dst="1" />
 <file name="advising.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131254243460000000" remote="131254243460000000" Dst="1" />
 <file name="apply.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131214606174237513" remote="131214642180000000" Dst="1" />
 <file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131100356550000000" remote="131154863810000000" Dst="1" />
@@ -12,7 +12,7 @@
 <file name="forms.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131211862170000000" remote="131211898170000000" Dst="1" />
 <file name="graduate.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131164472100000000" remote="131164508100000000" Dst="1" />
 <file name="history.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131249917030000000" remote="131249917030000000" Dst="1" />
-<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131261260370000000" remote="131261260370000000" Dst="1" />
+<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131303670656947053" remote="131303670650000000" Dst="1" />
 <file name="internships.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131167115870680774" remote="131167151870000000" Dst="1" />
 <file name="newlyadmitted.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131254242680000000" remote="131254242680000000" Dst="1" />
 <file name="organizations.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131262930878855617" remote="131262934370000000" Dst="1" />
@@ -26,7 +26,7 @@
 <file name="selfserviceportal.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131179001470000000" remote="131212032270000000" Dst="1" />
 <file name="servicelearning.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131164484520000000" remote="131164520520000000" Dst="1" />
 <file name="sgst101.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131155029818856429" remote="131155065810000000" Dst="1" />
-<file name="socialwork.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131236171790000000" remote="131236171790000000" Dst="1" />
+<file name="socialwork.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131297486590000000" remote="131297486590000000" Dst="1" />
 <file name="staff.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131254242410000000" remote="131254242410000000" Dst="1" />
 <file name="studentresources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131212045288473121" remote="131212081290000000" Dst="1" />
 <file name="studentsuccess.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131262934393785378" remote="131262934390000000" Dst="1" />
@@ -38,4 +38,6 @@
 <file name="finals.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131157400717251327" remote="131157436720000000" Dst="1" />
 <file name="commencement.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131211959733498223" remote="131211995730000000" Dst="1" />
 <file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131261296782844396" remote="131261296790000000" Dst="1" />
+<file name="index-draft.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131297424380000000" remote="131297424380000000" Dst="1" />
+<file name="crosscampusenrollmentdraft.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131302816260000000" remote="131302816260000000" Dst="1" />
 </dwsync>

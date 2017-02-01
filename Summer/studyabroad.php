@@ -2,29 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Study Abroad | Summer Programs at UMBC</title>
+<title>Study Abroad | Summer Session at UMBC</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="The Study Abroad Program is offered this Summer Session. Check to see what options are available here!" />
+<meta name="description" content="Winter session GEP course offerings and requirements." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Study Abroad | Summer Programs at UMBC" />
+<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/studyabroad" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="The Study Abroad Program is offered this Winter Session. Check to see what options are available here!" />
+<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -36,94 +39,81 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
-        <h2>Study Abroad </h2>
+        <h2>Travel Study 2017</h2>
     <!-- END Page Title -->       
       <div class="content">
       
      <!-- Start Content --> 
 
-<h3><strong>Italy Study Abroad: June 30 - July 29</strong></h3>
-<p><strong>POLI 469: Special Topics in Comparative Politics: Italian Politics (3 Credits)</strong></p>
-<img src="images/italy.png" style="width:100%">
-<h4>Course Overview</h4>
+<h4>Spain</h4>
+<h4>March 17-26, 2017</h4>
 
-<p>POLI 469 introduces the complicated world of Italian politics, and an appreciation of the difficulties that Italian politicians face when trying to endorse political change. It focuses on institutional analysis - the study of the decision making process in government itself. It also presents the important role the Italian economy plays in the European Union, and how Italy is responding to ongoing economic problems and the current migrant crisis. </p>
+<p><img src="images/spain.jpg" style="width:100%"/></p>
 
-<p>Dr. Carolyn Forestiere, who spent several years studying and working in Italy, presents a foundation for understanding not only Italian politics, but also the politics of other European Union countries as well. </p>
+<p>Join the UMBC Ancient Studies Department this spring for their 51 st annual study tour, and see Spain from Barcelona to Merida (and all points between!):</p>
 
-<h4>The Country</h4>
-<p>Located in the heart of Tuscany, Siena is a small, peaceful city (somewhat off the beaten path) that provides an authentic Italian daily living experience. Siena also lies within easy distance of most of Italy’s most popular and well-traveled hotspots, such as Florence and Rome, Venice, Milan, and Naples.</p>
+<ul>
+<li>Carrer del Pardis (four columns from a temple of Augustus) and the Roman Walls</li>
+	<li>Plaça Vila de Madrid (Roman Necropolis)	  </li>
+	<li>Picasso Museum	  </li>
+	<li>Forum of Caesaraugusta and the Museum of the Public Baths</li>
+	<li>Moorish palace and fortification Alcazaba </li>
+And much, much more!
 
-<p>Students from all majors are encouraged to apply. </p>
-<p>For detailed information <a href="https://www.youtube.com/watch?v=1q7_OXqbGtU" class="video">view a brief video</a> or contact Dr. Forestiere at <a href="mailto:forestie@umbc.edu">forestie@umbc.edu</a>.</p>
-<hr>
+</ul>
 
-<h3><strong>Poland Study Abroad: July 11 - August 5</strong></h3>
-<p><strong>POLI 372: Transitioning States &amp; Nations (3 Credits)</strong></p>
-<img src="images/poland.png" style="width:100%">
-<h4>Course Overview</h4>
-<p>Poland—the country that sparked the fall of communism in Europe—becomes a laboratory to study democratization and nation-building.</p>
-<p>POLI 372 traces modern Poland’s tragic path from multiculturalism to ethnic homogeneity, as well as its triumphant path from imperial subject to independent state. The program includes visits to sites in Krakow, Gdansk and Warsaw and illuminates the historical and cultural factors that have helped create the current democratic Polish nation.</p>
-<p>The program is led by Dr. Brian Grodsky, an expert on democratization and human rights, who has spent several years in Poland as a researcher, reporter, and U.S. diplomat.</p>
+<h4>Earn UMBC Credits</h4>
+<p>The trip can be taken as a three-credit course in the Winter 2017 term (ANCS 301) - winter session tuition applies. Scholarships are available to Ancient Studies majors who take the course for credit.
+</p>
 
-<h4>The Country</h4>
-<p>Poland offers a number of natural attractions, from beaches on the Baltic coast and expansive lakes in the north, to the beautiful Tatry mountains in the south. Students will also have opportunities to travel outside of class.</p>
-<p>Students from all majors are encouraged to apply.</p>
-<p>For detailed information <a href="https://docs.google.com/a/umbc.edu/viewer?a=v&pid=sites&srcid=dW1iYy5lZHV8YnJpYW4tZ3JvZHNreXxneDoxN2MwNjdmYjA2NWVmY2Iy" target="_blank">download the brochure</a>, <a href="https://www.youtube.com/watch?v=A1LLWTHjPjE" class="video">view a brief video</a>, or contact Dr. Grodsky at <a href="mailto:bgrodsky@umbc.edu">bgrodsky@umbc.edu</a> </p>
+<h4>Apply Soon!</h4>
+<p>Spaces are limited, so reserve yours today! An initial deposit of $350.00 is due by <strong>Monday, September 26, 2016</strong>.</p>
 
+<p>For more information (including a detailed itinerary and application) visit the <a href="http://ancientstudies.umbc.edu/files/2016/08/Info-and-Application-Forms-Spain-2017-1.pdf" target="_blank">Ancient Studies Department website</a>.</p>
 
-<hr>
-
-<h3><strong>Study Abroad Deadlines</strong></h3>
-<p>Summer 2016 online study abroad applications are due no later than March 10, and supplementary application materials are due March 11, 2016. </p>
-<p>For more information, visit <a href="http://studyabroad.umbc.edu" target="_blank">studyabroad.umbc.edu</a>.</p>
-
-<h3><strong>Reduced Program Cost</strong></h3>
-<p>Tuition costs to enroll in POLI 372 and POLI 469 will be waived for Summer Session 2016 to make these faculty-led study abroad programs more affordable for UMBC students. Students are responsible for all other program costs, including airfare, in-country transportation, meals, etc.</p>
 
 
      <!-- END Content -->
-     </div>
-	
-        
+             </div>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>

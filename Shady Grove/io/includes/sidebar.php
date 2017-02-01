@@ -1,5 +1,6 @@
  <div class="five columns">
 
+<!--
     <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
 
@@ -9,7 +10,7 @@
         <a class="btn" href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank">RSVP Now</a>
       </p>
     </aside>
-
+-->
     
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>

@@ -96,7 +96,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionbody">
-<p><img src="images/faculty/umbc-faculty-Sheldon-Broedel.gif" alt="Dr. Sheldon Broedel" align="left"/>B.S., Biology, State University of New York at Geneseo<br>
+<p><img src="images/sheldon-broedel.jpg" alt="Dr. Sheldon Broedel" align="left"/>B.S., Biology, State University of New York at Geneseo<br>
   M.S., Microbial Genetics, UMBC<br>
   Ph.D., Microbial Genetics, UMBC</p>
   
@@ -132,14 +132,11 @@ Ph.D., Applied Management and Decision Sciences, Walden University
 </div>
 
 <div class="accordionbody">
-  <p><img src="images/faculty/umbc-faculty-Michelle-Jones.jpg" alt="Michelle Jones" align="left" />B.S., Business  Administration, University of Baltimore<br>
-  M.S., Accounting and Business Advisory Services, Towson University and  University of Baltimore</p>
-  
-<p>Michelle  Jones has over 20 years of experience in various accounting management  positions.  Currently, she serves as the Corporate Controller of The Kane  Company, the parent company of Office Movers, Office Shredding, Office Archives  and Kane Third Party Logistics, based in Elkridge Maryland.  In this role, she is responsible for  overseeing the day-to-day accounting and managing a staff of ten in the accounts  receivables and collections, accounts payable, payroll and financial reporting  departments. Ms. Jones is also responsible for handling year-end financial and  bank audits, reporting and filing payroll and unemployment taxes and serves on  the company&rsquo;s executive committee.  Since  starting at The Kane Company, Ms. Jones has successfully participated in a  payroll system implementation and conversion. </p>
-
-<p>From  2011- 2013, Ms. Jones worked as Corporate Controller at ASG Security, where she  managed all aspects of the financial, bank and tax audits and worked closely  with the CFO on acquisitions.  From 2008  to 2011, Ms. Jones served as Controller of CBS Radio in Washington, DC, where  she was responsible for all accounting functions for five radio stations, including  financial reporting, budgeting and forecasting, payroll, human resources,  accounts payable and receivables, and credit and collections. While at CBS, Ms.  Jones prepared the annual revenue and expense budgets and participated on  several tactical initiatives, including the re-launch of the HFStival music  concert. Previously, Ms. Jones served for 16 years at The Baltimore Sun holding  various accounting positions. While at The Baltimore Sun, Ms. Jones  assisted in a financial reporting and general ledger software conversion,  helped develop and completed Sarbanes-Oxley documentation and testing matrices  and developed compensation plans used in labor union negotiations. </p>
-
-<p>Ms. Jones holds  a B.S. in Business from the University of Baltimore, and a joint M.S. in  Accounting and Business Advisory Services from Towson University and the University  of Baltimore. She is also a Certified Public Accountant (CPA).</p>
+  <p><img src="images/faculty/umbc-faculty-Michelle-Jones.jpg" alt="Michelle Jones" align="left" />B.S., Business Administration, University of  Baltimore<br>
+M.S., Accounting and Business Advisory Services, Towson University and  University of Baltimore</p>
+  <p>   Michelle  Jones has over 20 years of experience in various accounting management  positions. Currently, she serves as the Chief Financial Officer of Troika  Entertainment, a touring musical theater company that produces shows throughout  North America  and the world. In this  role, she is responsible for overseeing all of the financial, administrative and human  resources aspects of the company. </p>
+  <p>Prior  to joining Troika Entertainment, Ms. Jones held several Corporate Controller positions  managing the day-to-day accounting  of accounts receivables and collections, accounts payable, payroll and  financial reporting.  Ms. Jones has also  been responsible for year-end financial and bank audits, reporting and filing  payroll, sales tax and personal property taxes, budgeting and forecasting.  She has also participated in several system  implementations, worked on acquisitions, helped develop and complete Sarbanes-Oxley  documentation and has developed compensation plans used in labor union  negotiations. </p>
+  <p>Ms.  Jones holds a B.S. in Business from the University of Baltimore, and a joint  M.S. in Accounting and Business Advisory Services from Towson University and  the University of Baltimore. She is also a Certified Public Accountant (CPA).</p>
 </div>
 
 <div class="accordionheader">
@@ -163,7 +160,7 @@ M.S., Engineering Management, UMBC, 2014 | Graduate, U.S. Army Computer Science 
 </div>
 
 <div class="accordionbody">
-  <p>Doctor of Philosophy: University of Maryland, College Park<br>
+  <p><img src="images/Sam-Negahban.jpg" alt="" width="193" height="250" align="left"/>Doctor of Philosophy: University of Maryland, College Park<br>
   MS: Civil Engineering (Construction Management, Water  Resources), Drexel University<br>
   BS: Civil Engineering (Construction Management,  Transportation), Drexel University<br>
   Fluent in Persian-Farsi<br>
@@ -247,7 +244,7 @@ M.S., Engineering Management, UMBC, 2014 | Graduate, U.S. Army Computer Science 
 </div>
 
 <div class="accordionbody">
-  <p><img src="images/faculty/umbc-faculty-Jeff-Ray.gif" alt="Jeff Ray" align="left" />B.S. Civil Engineering, University of Maryland<br>
+  <p><img src="images/Jeff-Ray.jpg" alt="Jeff Ray" align="left" />B.S. Civil Engineering, University of Maryland<br>
 M.S. Civil Engineering, University of Maryland<br>
 M.S.  Engineering Management, George Washington University <BR>
   J.D.   University of Maryland School of Law<br>
@@ -317,9 +314,9 @@ M.P.S., Cybersecurity Strategy and Policy, University of Maryland Baltimore Coun
   <p><img src="images/faculty/umbc-faculty-James-Ziegler.gif" alt="Jim Ziegler" align="left" />B.S., Accounting, Towson University<br>
 M.B.A., Loyola College</p>
 
-<p>James Ziegler, a financial officer with 25 years of experience,  is currently employed at Mid-Atlantic Sports Network (MASN) in Baltimore,  MD.   In his current position, Mr.  Ziegler manages a staff of seven professionals and is responsible for all  facets of Accounting, Financial Reporting, Cash Management, Human Resources and  Traffic related activities.  During his  tenure at MASN, he has successfully implemented a five year business plan and  assisted in the network achieving its short and long term financial goals.</p>
+<p>James Ziegler, a financial officer with 25 years of experience, is Vice President of Finance and Administration at Mid-Atlantic Sports Network (MASN) in Baltimore, MD.   In his current position, Mr.  Ziegler manages a staff of seven professionals and is responsible for all  facets of Accounting, Financial Reporting, Cash Management, Human Resources and  Traffic related activities.  During his  tenure at MASN, he has successfully implemented a five year business plan and  assisted in the network achieving its short and long term financial goals.</p>
 
-<p>Mr. Ziegler holds a B.S. in Accounting from Towson University and a M.B.A.  with a Finance Concentration from Loyola College. He is also a Certified Public Accountant  (CPA).  </p>
+<p>Mr. Ziegler holds a B.S. in Accounting from Towson University and a M.B.A.  with a Finance Concentration from Loyola College. He is also a Certified Public Accountant  (CPA).</p>
 </div>
 
 

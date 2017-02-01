@@ -58,8 +58,8 @@
 		<img src="../images/reu-workshop-slider.jpg" alt="img02"/>
 	</a>
 	<div class="carousel-caption-right wordwrap">
-		<h3>Summer Session 2016</h3>
-		<small>Earn up to 16 credits during Summer Session. Session starts May 31.</small>
+		<h3>Summer Session 2017</h3>
+		<small>Earn up to 16 credits during Summer Session. Session starts May 30.</small>
 		<p>
 			<a href=".." role="button" class="web-seemore" target="_blank">Learn More</a>
 		</p>
@@ -67,7 +67,7 @@
   <!-- Update Mobile Content -->
 	<p id="captionone">
 		<a href="http://www.umbc.edu/summer">
-			Summer Session starts May 31
+			Summer Session starts May 30
 		</a>
 	</p>
 </li>
@@ -75,7 +75,7 @@
 <!-- END Slide One -->
                  
 
-<!-- Slide Two -->
+<!-- Slide Two --
           
 <li id="slide2">
 	<a href="http://www.umbc.edu/summer/events#S2">
@@ -89,13 +89,13 @@
 			<a href="http://surf.umbc.edu/" role="button" class="web-seemore" target="_blank">Learn More</a>
 		</p>
 	</div>
-  <!-- Update Mobile Content -->
+
 	<p id="captiontwo">
     	<a href="http://surf.umbc.edu">Summer Undergraduate Research Fest</a>
 	</p>
 </li>
           
-          <!-- END Slide Two -->
+          -- END Slide Two -->
          
         </ul>
         <div id="dotcontainer"></div>
@@ -110,24 +110,24 @@
     <div style="display:inline; float:left;"> 
       <!-- NEW ROW -->
 <dl class="eleven columns alpha">
-<h3><strong>What Is Summer STEM?</strong></h3>
+<h3><strong>Summer STEM 2017</strong></h3>
 <h6>Summer STEM at UMBC promotes academic success in science, technology, engineering and mathematics by providing high-quality, introductory STEM courses and academic support during UMBC's summer sessions. Summer STEM at UMBC offers the required courses STEM majors need to graduate on time and is open to visiting students, incoming new students, and current UMBC students.</h6>
 </dl>
 
 <br clear="all">
 <br>
-	<h3><strong>May 31 – August 19</strong></h3>
+	<h3><strong>May 30 – August 18</strong></h3>
       <dl class="four columns alpha">
         <dt>Summer Session I</dt>
-        <dd> 4 week: May 31 — June 24 </dd>
-        <dd>6 week: May 31 — July 8 </dd>
-        <dd>8 week: May 31 — July 22 </dd>
-        <dd>12 week: May 31 — August 19 </dd>
+        <dd> 4 week: May 30 — June 23 </dd>
+        <dd>6 week: May 30 — July 7 </dd>
+        <dd>8 week: May 30 — July 21 </dd>
+        <dd>12 week: May 30 — August 18 </dd>
       </dl>
       <dl class="four columns omega">
         <dt>Summer Session II</dt>
-        <dd>4 week: July 11 — August 5</dd>
-        <dd>6 week: July 11 — August 19</dd>
+        <dd>4 week: July 10 — August 4</dd>
+        <dd>6 week: July 10 — August 18</dd>
       </dl>
       </dl>
 </div>

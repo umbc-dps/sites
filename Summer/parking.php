@@ -2,30 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Parking | Summer Programs at UMBC</title>
+<title>Parking | Summer Session at UMBC</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Parking permits are still required during the Winter Session. Need to get one? Check out the info here!" />
+<meta name="description" content="Winter session GEP course offerings and requirements." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Parking | Summer Programs at UMBC" />
+<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/parking" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="Parking permits are still required during the Winter Session. Need to get one? Check out the info here!" />
+<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -41,27 +43,27 @@
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
         <h2>Parking Permits</h2>
     <!-- END Page Title -->       
@@ -70,6 +72,7 @@
   <div id="accordion">      
      <!-- Start Content --> 
 
+<p>Summer session parking permits are available after May 1.  Winter session parking permits are available after December 1.</p>
 
 
 <div class="accordionheader">
@@ -77,108 +80,87 @@
   </div>
 
 <div class="accordionbody">
-    <ul>
-      <li>UMBC parking permits are required to park on campus.</li>
-      <li>Parking permits should be secured several weeks in  advance to ensure they are received before the start of classes.</li>
-      <li>A valid UMBC permit must be displayed on all vehicles  parked in non-metered lots or on roadways from 7:00 am until 7:00 p.m. (Monday  through Thursday) and from 7:00 am until 3:30 p.m. on Friday. </li>
-      <li>Students must park in <a href="http://www.umbc.edu/parking/fsstud.htm">assigned  parking zones</a>.</li>
-      <li>During the summer and winter sessions, the modified  zone plan allows student permit holders to park in Zones A, B or C.</li>
-      <li>Parking permits can only be issued to registered  students.</li>
-      <li> <a href="http://about.umbc.edu/visitors-guide/directions/">Directions to UMBC and campus map</a></li>
-    </ul>
+	<p>
+UMBC parking permits are required to park on <a href="http://about.umbc.edu/visitors-guide/directions/" target="_blank">campus</a>.  Parking permits should be secured several weeks in advance to ensure they are received before classes begin.  A valid UMBC permit must be displayed on all vehicles parked in non-metered lots or on roadways from 7:00 am until 7:00 p.m. (Monday through Thursday) and from 7:00 am until 3:30 p.m. on Friday.
+   </p>
     </div>
 
 <div class="accordionheader">
-    <h4>Current UMBC students<i class="fa fa-angle-down"></i></h4>
+    <h4>Where students can park<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
-    <ul>
-      <li>Display  your current parking permit (if still valid)</li>
-    </ul>
+	<p>Students  must park in assigned parking <a href="http://parking.umbc.edu/permits-2/student-permits/" target="_blank">zones</a>.  During the summer and winter sessions the  modified zone plan allows student permit holders to park in Zones A, B or C.  Parking permits can only be issued to  registered students.
+    </p>
     </div>
 
 <div class="accordionheader">
-    <h4>New and/or visiting UMBC students:<i class="fa fa-angle-down"></i></h4>
+    <h4>Current UMBC Students<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
-    <ul>
-      <li>Winter session parking permits are available after  December 1.</li>
-      <li>Summer session parking permits are available after May  1.</li>
-      <li>You must be registered in your course(s) before  applying for a parking permit.</li>
-      <li>Allow 2 business days for your course registration to  update in the parking system.</li>
-      <li>The permit cost is included in your special session  fees.</li>
-      <li>Vehicles must be registered online - please be sure to  use Internet Explorer when ordering your parking permit online (as other  browsers don't work with our parking system).  </li>
-      <li>Permits can either be picked up in person or ordered  online and mailed.</li>
-      <li>Parking permits should be secured several weeks in  advance to ensure they are received before the start of classes.</li>
-    </ul>
+	<p>Display your current parking permit if it is still valid.
+    </p>
     </div>
 
 <div class="accordionheader">
-    <h4>Online vehicle registration:</strong>&nbsp;<i class="fa fa-angle-down"></i></h4>
+    <h4>New or visiting students<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
-    <ul>
-      <li>Log on to <a href="https://my.umbc.edu/"><em>my</em>UMBC</a>.</li>
-      <li>Under &quot;Topics&quot; (at the top of the page)  choose the &quot;Parking and Transportation&quot; option.</li>
-      <li>Under &quot;Parking Services&quot;, choose &quot;Manage  Parking Account&quot;.</li>
-      <li>Under &quot;Manage Your Vehicles&quot; add your  vehicle.</li>
-    </ul>
-    </div>
+	<P>You must be registered in your course(s) before applying for a parking permit.  Allow 2 business days for your course registration information to update in the parking system.  The permit cost is included in your special session fees.  Vehicles must be registered online.  Be sure to use <strong>Internet Explorer/Microsoft Edge</strong>, as other browsers don't work with our parking system.  Permits can be picked up in person or ordered online and mailed.  Parking permits should be secured several weeks in advance to ensure their receipt before the start of classes.
+    </P>
+        </div>
 
 <div class="accordionheader">
-    <h4>Obtain student permit by mail:<i class="fa fa-angle-down"></i></h4>
+    <h4>Online vehicle registration<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
-    <ul>
-      <li>Log onto <a href="http://my.umbc.edu/go/parking">Parking  Account Management</a></li>
-      <li>Click on &quot;Purchase Permits&quot;</li>
-      <li>Follow the prompts to order your permit.</li>
-      <li>There is no additional charge for the student permit.</li>
-      <li>UMBC is not responsible for permit lost in the mail. </li>
-      <li>Your vehicle(s) must be registered with UMBC to order a  permit.</li>
-    </ul>
+	<p>Log  on to <a href="https://my.umbc.edu/" target="_blank"><em>my</em>UMBC</a>, and under  &quot;Topics&quot; choose the &quot;Parking &amp; Transportation&quot; option. Click  on &quot;Parking Account Management&quot; and then click on the &ldquo;VEHICLES&rdquo; tab  at the top of the page to register your vehicle.
+    </p>
     </div>
-
+    
+    
 <div class="accordionheader">
-    <h4>Obtain student permit in person:<i class="fa fa-angle-down"></i></h4>
+    <h4>Have your parking permit mailed to you<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
-    <ul>
-      <li>Do not order the permit online.</li>
-      <li>Student permits are distributed at the Parking Services  Office in the Facilities Management Building on Poplar Ave.</li>
-      <li>Take a valid ID (UMBC campus card or drivers license  accepted for summer/winter session students only).</li>
-      <li>Your vehicle(s) must be registered with UMBC to obtain  a permit.</li>
-    </ul>
+	<p>Log  on to <a href="http://my.umbc.edu/topics/parking-and-transportation" target="_blank"><em>my</em>UMBC</a> &ldquo;Parking Account Management&rdquo; and click on &quot;PERMITS&quot; tab  at the top of the page. Follow the prompts to order your permit. There  is no additional charge for the student permit. UMBC is not responsible for  permit lost in the mail.  Your vehicle(s)  must be registered with UMBC before you can order a permit.</p>
     </div>
+    
+  <div class="accordionheader">
+    <h4>Pick up your parking permit in person<i class="fa fa-angle-down"></i></h4>
+  </div>
 
+<div class="accordionbody">
+	<p>Do  not order the permit online.  If you do,  it will be mailed to you.  Your vehicle  must be registered online and you must be registered in your course(s) before  picking up your parking permit.  Allow 2  business days for your course registration information to update in the parking  system.  Student permits are distributed  at the Parking Services <a href="http://parking.umbc.edu/" target="_blank">Office</a> in the  Facilities Management Building on <a href="http://about.umbc.edu/visitors-guide/campus-map/" target="_blank">Poplar Ave</a>.  Take a valid ID (UMBC campus card or driver&rsquo;s  license accepted for summer/winter session students only).  </p>
+    </div>  
+    
 <p>
-<h5>Contact Parking Services</h5>
+<h5>Contact</h5>
 
 
-Parking Services, 410-455-2551, <a href="parking@umbc.edu">parking@umbc.edu</a>, 7:30 a.m.  - 3:30 p.m.</p>
-
-
-     <!-- END Content -->
-     
-	</div></div></div>
-        
+Office of Parking Services<br>
+<a href="http://parking.umbc.edu" target="_blank">http://parking.umbc.edu</a>
+<br>
+410-455-2551<br>
+<a href="mailto:parking@umbc.edu">parking@umbc.edu</a><!-- END Content -->
+          </div></div></div>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>

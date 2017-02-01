@@ -2,26 +2,29 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>All Courses | Summer Programs at UMBC</title>
+<title>All Summer 2017 Courses | Summer Session at UMBC</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Filter & search through all courses offered this Summer." />
+<meta name="description" content="Use your smart phone, mobile device, or computer to register through myUMBC." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="All Courses | Summer Programs at UMBC" />
+<meta property="og:title" content="All Summer 2017 Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/summer/all-courses" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="Filter & search through all courses offered this Summer." />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
+<meta property="og:description" content="Use your smart phone, mobile device, or computer to register through myUMBC." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
 <script src="js/modernizr.custom.js"></script>
@@ -36,34 +39,38 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main" style="background:#FFF">  
-	<div id="summer-heading">
-    <a href="index" class="head-link">
-    <h1 class="remove-bottom">
-    <img src="images/summer-heading.png" style="width:100%" id="head-image">
+<div class="container column" id="main">  <div  id="winter-heading">
+    <a href="index">
+    <h1 class="remove-bottom" id="summer-heading">
+    <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
-  <div class="sixteen columns">
- <br>
- 
-<h2 class="page-title">Summer 2016 Courses</h2>
+ <div class="sixteen columns">
+
+  <!-- Page Title -->
+        <br>
+<h2>Summer 2017 Courses</h2>
+    <!-- END Page Title -->       
+
+      
+     <!-- Start Content --> 
 <p>Click on the "More Details" links to provide additional information related to your current search<span class="hide-stem"> (which is shown in the "Search" box)</span>.</p>
 <p>You can switch your current search criteria by clicking on the links to the right of any of the following options: Format &amp; Location, Dates &amp; Times, GEPs, or Prerequisites.</p>
 
@@ -88,14 +95,20 @@
 <a href="#" class="time details">Show Times</a> 
 <a href="#" class="time no-time details" style="display:none">Hide Times</a> |
 
-<a href="#" class="sessions details">Show Sessions</a> 
-<a href="#" class="sessions no-sessions details" style="display:none">Hide Sessions</a> |
-
 <a href="#" class="prereq details">Show Prerequisites</a> 
 <a href="#" class="prereq no-prereq details" style="display:none">Hide Prerequisites</a> |
 
 <a href="#" class="gep details">Show GEPs</a> 
-<a href="#" class="gep no-gep details" style="display:none">Hide GEPs</a>
+<a href="#" class="gep no-gep details" style="display:none">Hide GEPs</a> |
+
+<a href="#" class="campus details">Show Campus</a> 
+<a href="#" class="campus no-campus details" style="display:none">Hide Campus</a> |
+
+<a href="#" class="format details">Show Format</a> 
+<a href="#" class="format no-format details" style="display:none">Hide Format</a> |
+
+<a href="#" class="days details">Show Days</a> 
+<a href="#" class="days no-days details" style="display:none">Hide Days</a>
 
 <span class="location">
 <br>
@@ -111,23 +124,23 @@
 <strong>Dates &amp; Times: </strong>
 <a href="#" class="category">Morning</a> 
 <a href="#" class="category">Afternoon</a> 
-<a href="#" class="category last">Evening</a> 
-<!-- Remove for the sessions to go away 
+<a href="#" class="category">Evening</a> 
+<!-- Remove for the sessions to go away -->
 <a href="#" class="category">Session 1</a> 
 <a href="#" class="category">Session 2</a> 
 <a href="#" class="category last">12 Week Courses</a>
--->
 </span>
 <br>
 
 <span class="geps">
 <strong>GEPs:</strong> 
-<a href="#" class="category">Arts and Humanities</a> 
-<a href="#" class="category">Culture</a> 
-<a href="#" class="category">Language</a> 
-<a href="#" class="category">Math</a>
+<a href="#" class="category">Arts and Humanities (AH)</a> 
+<a href="#" class="category">Culture (C)</a> 
+<a href="#" class="category">Language (L)</a> 
+<a href="#" class="category">Math (M)</a>
 <a href="#" class="category">Science (S)</a> 
-<a href="#" class="category last">Social Science (SS)</a> <br>
+<a href="#" class="category">Social Science (SS)</a> 
+<a href="#" class="category last">Writing Intensive (WI)</a><br>
 </span>
 
 
@@ -211,6 +224,9 @@ $('td:nth-child(5)').hide();
 $('td:nth-child(6)').hide();
 $('td:nth-child(7)').hide();
 $('td:nth-child(8)').hide();
+$('td:nth-child(9)').hide();
+$('td:nth-child(10)').hide();
+$('td:nth-child(11)').hide();
 $('td:nth-child(12)').hide();
 $('td:nth-child(13)').hide();
 $('td:nth-child(14)').hide();
@@ -220,80 +236,96 @@ $('td:nth-child(17)').hide();
 $('td:nth-child(18)').hide();
 $('td:nth-child(19)').hide();
 $('td:nth-child(20)').hide();
-$('td:nth-child(21)').hide();
 $('.stem').hide();
 
 $( '.instructors' ).live( 'click', function() {
-  $('td:nth-child(15)').show();
+  $('td:nth-child(13)').show();
   $('a.instructors').toggle();
 });
 
 $( '.no-instructors' ).live( 'click', function() {
-  $('td:nth-child(15)').hide();
-  
+  $('td:nth-child(13)').hide();
 });
 
 $( '.time' ).live( 'click', function() {
-  $('td:nth-child(12)').show();
-  $('td:nth-child(13)').show();
+  $('td:nth-child(10)').show();
+  $('td:nth-child(11)').show();
   $('a.time').toggle();
 });
 
 $( '.no-time' ).live( 'click', function() {
-  $('td:nth-child(12)').hide();
-  $('td:nth-child(13)').hide();
-});
-
-$( '.sessions' ).live( 'click', function() {
-  $('td:nth-child(5)').show();
-  $('td:nth-child(6)').show();
-  $('a.sessions').toggle();
-});
-
-$( '.no-sessions' ).live( 'click', function() {
-  $('td:nth-child(5)').hide();
-  $('td:nth-child(6)').hide();
+  $('td:nth-child(10)').hide();
+  $('td:nth-child(11)').hide();
 });
 
 $( '.gep' ).live( 'click', function() {
-  $('td:nth-child(7)').show();
-  $('td:nth-child(8)').show();
+  $('td:nth-child(5)').show();
+  $('td:nth-child(6)').show();
   $('a.gep').toggle();
 });
 
 $( '.no-gep' ).live( 'click', function() {
-  $('td:nth-child(7)').hide();
-  $('td:nth-child(8)').hide();
+  $('td:nth-child(5)').hide();
+  $('td:nth-child(6)').hide();
 });
 
 $( '.prereq' ).live( 'click', function() {
-  $('td:nth-child(16)').show();
+  $('td:nth-child(15)').show();
   $('a.prereq').toggle();
 });
 
 $( '.no-prereq' ).live( 'click', function() {
-  $('td:nth-child(16)').hide();
+  $('td:nth-child(15)').hide();
 });
+
+$( '.campus' ).live( 'click', function() {
+  $('td:nth-child(7)').show();
+  $('a.campus').toggle();
+});
+
+$( '.no-campus' ).live( 'click', function() {
+  $('td:nth-child(7)').hide();
+});
+
+$( '.format' ).live( 'click', function() {
+  $('td:nth-child(8)').show();
+  $('a.format').toggle();
+});
+
+$( '.no-format' ).live( 'click', function() {
+  $('td:nth-child(8)').hide();
+});
+
+$( '.days' ).live( 'click', function() {
+  $('td:nth-child(9)').show();
+  $('a.days').toggle();
+});
+
+$( '.no-days' ).live( 'click', function() {
+  $('td:nth-child(9)').hide();
+});
+
 
 $('a.category').not('a.last').after( ' | ' );
 $('a.category-stem').not('a.last').after( ' | ' );
 
-/*Hide Session 1 Class*/
+/*Hide Session 1 Class
 var session1 = 'Session 1';
 $("#table tr td:contains('" + session1  + "')").each(function() {
     if ($(this).text() == session1) {
         $(this).parent().remove();
     }  
 });
+*/
 
-
-/*Hide 12 Week Classes*/
+/*Hide 12 Week Classes
 var twelveWeek = '12 Week';
 $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
     if ($(this).text() == twelveWeek) {
         $(this).parent().remove();
     }  
 });
+*/
 
 
 /* Creates Hash Functionality */
@@ -306,7 +338,7 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 	
 	$( document ).ready(function() {
         if (hash == 'prereq') {
-			$('td:nth-child(16)').show();
+			$('td:nth-child(15)').show();
   			$('a.prereq').toggle();
 			$("#search").val('Has Prerequisite');
 			$("#search").trigger(e);
@@ -314,19 +346,26 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 	
 	$( document ).ready(function() {
         if (hash == 'gep') {
-			$('td:nth-child(7)').show();
-			$('td:nth-child(8)').show();
+			$('td:nth-child(5)').show();
+			$('td:nth-child(6)').show();
 			$('a.gep').toggle();
 			$("#search").val('Has GEP');
+			$("#search").trigger(e);
+	}});
+	
+	$( document ).ready(function() {
+        if (hash == 'evening') {
+			$('td:nth-child(10)').show();
+			$('td:nth-child(11)').show();
+			$('a.time').toggle();
+			$("#search").val('Evening');
 			$("#search").trigger(e);
 	}});
 
 /* Creates Special STEM page.*/
 	$( document ).ready(function() {
         if (hash == 'STEM') {
-			$('td:nth-child(5)').show();
-			$('td:nth-child(6)').show();
-			$('td:nth-child(21)').show();
+			$('td:nth-child(20)').show();
 			$('a.sessions').toggle();
 			$('.stem').show();
 			$("#search").val('STEM');
@@ -347,7 +386,7 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 	$('.course-link').each(function() {
 	var courseURL = $(this).text();
 	var title = $(this).closest('td').siblings(':nth-child(3)').text();
-	var courseFullURL = 'https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2166/' + courseURL;
+	var courseFullURL = 'https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2170/' + courseURL;
 	$(this).attr("href", courseFullURL);
 	$(this).text(title);
 	$(this).attr("target", "_blank");

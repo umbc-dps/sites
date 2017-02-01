@@ -103,24 +103,41 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_engm" target="_blank"><img src="images/8.png" alt="Professional Programs Open House"/></a>
+<a href="http://umbc.edu/openhouse" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Open House</h3>
-<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Program Exploration Open House</h3>
+<small>Join us on Saturday, April 1 to learn how UMBC's professional programs can advance your career.</small>
 
-<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_engm" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
 
-<p id="captionthree"><a href="?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_engm" target="_blank">Professional Programs Open House</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse" target="_blank">Program Exploration Open House</a></p>
 
 </li>
    
 <!-- END SLIDE ONE -->
 
-
-<!-- SLIDE Two --> 
+<!-- SLIDE TWO --> 
 
 <li id="slide2">
+
+<a href="http://gritinaction.umbc.edu/blogs/" target="_blank"><img src="images/blog.jpg" alt="Our 5 Favorite Career Blogs"/></a>
+
+<div class="carousel-caption wordwrap">
+<h3>Our 5 Favorite Career Blogs</h3>
+<small>We put together a list of some of our favorite blogs.</small>
+
+<p><a href="http://gritinaction.umbc.edu/blogs/" role="button" class="web-seemore" target="_blank">Check out the list!</a></p></div>
+
+<p id="captionthree"><a href="http://gritinaction.umbc.edu/blogs/" target="_blank">Our 5 Favorite Career Blogs</a></p>
+
+</li>
+
+<!-- END SLIDE TWO -->
+
+<!-- SLIDE THREE --> 
+
+<li id="slide3">
 
 <a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="video"><img alt="img01" src="images/4.png"></a>
 
@@ -136,25 +153,24 @@ $lang = 'en';
 
 </li>
 
-<!-- END SLIDE Two --> 
+<!-- END SLIDE THREE --> 
 
-<!-- SLIDE Three --> 
+<!-- SLIDE FOUR -->    
 
-<li id="slide3">
+<li id="slide4">
 
-<a href="faculty#jones"><img src="images/jones.jpg" alt="Meet Our Faculty: Michelle Jones"/></a>
+<a href="https://www.youtube.com/watch?v=59teMksi3VM"><img src="images/EM-carousel1.jpg" alt="Meet Our Faculty: Dr. Toby Gouker"/></a>
+<div class="carousel-caption wordwrap">
+<h3>Meet Our Faculty: Dr. Toby Gouker</h3>
+<small>Dr. Gouker dicusses the unique focus of the Engineering Management Program at UMBC</small>
 
-<div class="carousel-caption-right wordwrap">
-<h3>Meet Our Faculty: Michelle Jones</h3>
-<small>Jones has over 20 years of experience in various accounting management positions and is a Certified Public Accountant.</small>
+<p><a href="https://www.youtube.com/watch?v=59teMksi3VM"class="web-seemore video">Watch Now</a></p></div>
 
-<p><a href="faculty#jones" role="button" class="web-seemore">Read More</a></p></div>
-
-<p id="captionthree"><a href="faculty#jones">Meet Our Faculty: Michelle Jones</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=59teMksi3VM">Meet Our Faculty: Dr. Toby Gouker</a></p>
 
 </li>
 
-<!-- END SLIDE Three --> 
+<!-- END SLIDE FOUR --> 
       
     </ul>
 

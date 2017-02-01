@@ -167,15 +167,15 @@ BEGIN MAIN
 
 <li id="slide1">
 
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/6.jpg" alt="Apply Now for Spring 2017"/></a>
+<a href="http://umbc.edu/openhouse" target="_blank"><img src="images/6.jpg" alt="Program Exploration Open House"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Apply Now for Spring 2017</h3>
-<small>Classes begin January 30.</small>
+<h3>Program Exploration Open House</h3>
+<small>Join us on Saturday, April 1 to learn how UMBC's professional programs can advance your career.</small>
 
-<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
+<p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
 
-<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now for Spring 2017</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse" target="_blank">Program Exploration Open House</a></p>
 
 </li>
 
@@ -185,15 +185,16 @@ BEGIN MAIN
 
 <li id="slide2">
 
-<a href="http://gritinaction.umbc.edu/senator-cardin/" target="_blank"><img src="images/CardinPP2.jpg" alt="Senator Ben Cardin Visits UMBC."/></a>
+<a href="http://gritinaction.umbc.edu/blogs/" target="_blank"><img src="images/blogopp.jpg" alt="Our 5 Favorite Career Blogs"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Senator Ben Cardin Visits UMBC.</h3>
-<small>On November 28, Senator Ben Cardin visited UMBC and discussed current issues in global cybersecurity with students.</small>
+<h3>Our 5 Favorite Career Blogs.</h3>
+<small>We put together a list of some of our favorite blogs.</small>
 
-<p><a href="http://gritinaction.umbc.edu/senator-cardin/" role="button" class="web-seemore" target="_blank">Read about his visit!</a></p></div>
+<p><a href="http://gritinaction.umbc.edu/blogs/" role="button" class="web-seemore" target="_blank">Check out the list!</a></p></div>
 
-<p id="captionthree"><a href="http://gritinaction.umbc.edu/senator-cardin/" target="_blank">Senator Ben Cardin Visits UMBC</a></p>
+<p id="captionthree"><a href="http://gritinaction.umbc.edu/blogs/" target="_blank">Our 5 Favorite Career Blogs.</h3>
+</a></p>
 
 </li>
 

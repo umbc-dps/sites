@@ -231,18 +231,13 @@ B.S., Case Western Reserve University</p>
 
           <div class="accordionbody">
            <p><strong>Graduate Faculty<br>
-           </strong><img alt="Michelle Jones" src="images/faculty/umbc-faculty-Michelle-Jones.jpg" align="left">B.S., Business Administration, University of Baltimore<br>
-            M.S., Accounting and Business Advisory Services, Towson University and University of Baltimore</p>
+           </strong><img alt="Michelle Jones" src="images/faculty/umbc-faculty-Michelle-Jones.jpg" align="left">B.S., Business Administration, University of BaltimoreB.S., Business Administration, University of  Baltimore<br>
+M.S., Accounting and Business Advisory Services, Towson University and  University of Baltimore</p>
+  <p>   Michelle  Jones has over 20 years of experience in various accounting management  positions. Currently, she serves as the Chief Financial Officer of Troika  Entertainment, a touring musical theater company that produces shows throughout  North America  and the world. In this  role, she is responsible for overseeing all of the financial, administrative and human  resources aspects of the company. </p>
+  <p>Prior  to joining Troika Entertainment, Ms. Jones held several Corporate Controller positions  managing the day-to-day accounting  of accounts receivables and collections, accounts payable, payroll and  financial reporting.  Ms. Jones has also  been responsible for year-end financial and bank audits, reporting and filing  payroll, sales tax and personal property taxes, budgeting and forecasting.  She has also participated in several system  implementations, worked on acquisitions, helped develop and complete Sarbanes-Oxley  documentation and has developed compensation plans used in labor union  negotiations. </p>
+  <p>Ms.  Jones holds a B.S. in Business from the University of Baltimore, and a joint  M.S. in Accounting and Business Advisory Services from Towson University and  the University of Baltimore. She is also a Certified Public Accountant (CPA).</p>
+</div>
 
-
-            <p>Michelle Jones has over 20 years of experience in various accounting management positions. Currently, she serves as the Corporate Controller of ASG Security, a Top-10 U.S. Security Company based in Beltsville, Maryland. In her role, she is responsible for overseeing the day-to-day accounting and financial reporting activities. She manages all aspects of ASG’s financial, bank and tax audits, and works closely with the CFO on acquisitions and other financial matters, in addition to managing a staff of seven in the Corporate Accounting and the Accounting Operations groups. Since starting with ASG in 2011, Ms. Jones has successfully rebuilt the accounting team helping to streamline the financial reporting process and successfully managing all aspects of the company’s annual financial statement and semi-annual bank audits.</p>
-
-
-            <p>From 2008 to 2011, Ms. Jones served as Controller of CBS Radio in Washington, DC, where she was responsible for all accounting functions for five radio stations, including financial reporting, budgeting and forecasting, payroll, human resources, accounts payable and receivables, and credit and collections. While at CBS, Ms. Jones prepared the annual revenue and expense budgets and participated on several tactical initiatives, including the re-launch of the HFStival music concert. Previously, Ms. Jones served for 16 years at The Baltimore Sun holding various accounting positions. While at The Baltimore Sun, Ms. Jones assisted in a financial reporting and general ledger software conversion, helped develop and completed Sarbanes-Oxley documentation and testing matrices and developed compensation plans used in labor union negotiations.</p>
-
-            <p>Ms. Jones holds a B.S. in Business from the University of Baltimore, and a joint M.S. in Accounting and Business Advisory Services from Towson University and the University of Baltimore. She is also a Certified Public Accountant (CPA).</p>
-
-          </div>
 
 
           <div class="accordionheader">

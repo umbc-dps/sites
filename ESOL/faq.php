@@ -6,8 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<link href="css/accordion.css" rel="stylesheet">
+<script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -43,7 +43,7 @@
     <div class="sixteen columns">
       <a href="index.php" style="text-decoration:none">
       <h1 class="remove-bottom home-header" style="margin-top: 40px">MA TESOL Program
-      </h1>
+      </h1></h1><div align="center" style="border-top:2px #E9AB13 solid"></div></h1><br><br>
       </a>
 
       
@@ -114,34 +114,40 @@
       <p>Students  who choose the non-thesis option attend a project seminar class, undertake an  internship, and take a written comprehensive exam at the end of the program.  Thesis option students develop a research proposal and write a thesis under the  guidance of an advisor and other faculty members. The thesis preparation takes  the place of the project seminar, internship and comprehensive examination. The  thesis option requires 3 more credits than the non-thesis option.</p>
     </div> 
     <div class="accordionheader">
-    <h4>6. How  difficult is it to be admitted into the program?<i class="fa fa-angle-down"></i></h4>
+    <h4>6. What can I expect for the comprehensive exam?<i class="fa fa-angle-down"></i></h4>
+    </div>
+        <div class="accordionbody">
+      <p>This exam requires you to write a response to a "real-life" problem in the TESOL field.  It is expected that you will prepare your response by drawing on your studies in the MA TESOL program. You will have from 8:30 am on Friday until 4:30 pm on Monday to prepare your response. You may use any of your personal or library resources to write your response. Your response is limited to ten double-spaced pages including your bibliography.  APA style is required.  No sample questions will be distributed.</p>
+    </div> 
+    <div class="accordionheader">
+    <h4>7. How  difficult is it to be admitted into the program?<i class="fa fa-angle-down"></i></h4>
     </div>
 
     <div class="accordionbody">
       <p>The program has high standards for admission. Applicants  first must meet the University of Maryland Graduate School Baltimore admission  requirements (see graduate catalog). All applications are screened by the  program's admissions committee. Final decisions are based on the applicants'  past academic experience, GRE scores, recommendations, and letters of intent.  We actively recruit students from diverse backgrounds and academic preparations.  At present, approximately 10-20 new students are accepted each semester.</p>
     </div> 
     <div class="accordionheader">
-    <h4>7. What is  K-12 ESOL Certification? How could it be useful to me?<i class="fa fa-angle-down"></i></h4>
+    <h4>8. What is  K-12 ESOL Certification? How could it be useful to me?<i class="fa fa-angle-down"></i></h4>
     </div>
 
     <div class="accordionbody">
       <p>Obtaining  K-12 ESOL Certification will enable you to be hired as an ESOL teacher in a  Maryland public school system. ESOL teachers in Maryland teach English language  learners in a variety of ways depending on their job placement. Opportunities  are available at both elementary and secondary levels. ESOL teachers teach  self-contained classes, pull-out classes and in inclusion situations depending  on the system and placement they receive. Maryland ESOL Certification is  recognized in many other states and in American schools overseas. Each state  has its own requirements for certification and may require additional training,  but Maryland certification standards are similar to and more rigorous than  those of most other states.</p>
     </div> 
     <div class="accordionheader">
-    <h4>8. How much  more course work does it take to get the M.A. plus K-12 ESOL Certification?<i class="fa fa-angle-down"></i></h4></div>
+    <h4>9. How much  more course work does it take to get the M.A. plus K-12 ESOL Certification?<i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
       <p>The  non-certification option requires 36 credits including a 3-credit internship.  The certification option requires 42 total credits including 6 additional  credits of internship.</p>
     </div> 
     <div class="accordionheader">
-    <h4>9. Do I need  to decide now if I want to pursue K-12 ESOL Certification in addition to the  M.A.?<i class="fa fa-angle-down"></i></h4>
+    <h4>10. Do I need  to decide now if I want to pursue K-12 ESOL Certification in addition to the  M.A.?<i class="fa fa-angle-down"></i></h4>
     </div>
 
     <div class="accordionbody">
       <p>No. You  can decide to pursue certification after you have started taking courses at  UMBC. Once on campus, you can talk more extensively with your academic advisor  and with students who are already studying for certification so that you can  make a more informed decision.</p>
     </div> 
     <div class="accordionheader">
-    <h4>10. Can I get  credit toward the MA for courses that I have already taken?<<i class="fa fa-angle-down"></i></h4>
+    <h4>11. Can I get  credit toward the MA for courses that I have already taken?<i class="fa fa-angle-down"></i></h4>
     </div>
 
     <div class="accordionbody">

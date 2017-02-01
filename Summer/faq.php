@@ -2,30 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>FAQs | Summer Programs at UMBC</title>
+<title>FAQs | Summer Session at UMBC</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="This UMBC 2016 Summer Session, you can take up to 16 credits each summer session." />
+<meta name="description" content="Winter session FAQs." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="FAQs | Summer Programs at UMBC" />
+<meta property="og:title" content="FAQs | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/faq" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="This UMBC 2016 Summer Session, you can take up to 16 credits each summer session." />
+<meta property="og:url" content="http://www.umbc.edu/winter/faq" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session FAQs." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -34,7 +36,7 @@
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 </head>
 
-<body data-gr-c-s-loaded="true" cz-shortcut-listen="true">
+<body>
 
 <div id="skip-content">
  <a href="#main-content">Skip to Main Content</a>
@@ -51,9 +53,9 @@
  </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
@@ -63,233 +65,149 @@
  <div class="sixteen columns">
   <div class="eleven columns alpha" style="padding-top:1em;">
   <!-- Page Title -->
-    <h2>FAQs</h2>
+    <h2>FAQs &amp; Student Services</h2>
   <!-- END Page Title -->    
    <div class="content">
   <div class="narrowchart">
  <div id="accordion">   
    <!-- Start Content --> 
-		<h3>Campus Information</h3>  
-    
- 
-<div class="accordionheader">
-  <h4>What is <em>my</em>UMBC?<i class="fa fa-angle-down"></i></h4>
+
+ <div class="accordionheader">
+  <h4>Is academic support available?<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">
-<ul>
-<li>A web-based portal to various services and online community resources at UMBC.</li>
-<li>Use <a href="http://my.umbc.edu/"><em>my</em>UMBC</a> to register for courses, view account balances, online bill payment, register for a parking permit, check university e-mail and check grades.</li>
-</ul>
-</div>  
+<p>The Learning Resources Center (LRC) provides <a href="academicsupport.php" target="_blank">academic support</a> for most 100 and 200 level biology, chemistry, and physics courses, as well as most mathematics and statistics courses.  Academic support is also available for ANY written assignment in ANY summer course. </p>
+ </div>  
+
+		
+ <div class="accordionheader">
+  <h4>Can my parents see my schedule, grades, or financial information?<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+<p><em>my</em>UMBC’s profile <a href="http://my.umbc.edu/settings/profile-sharing" target="_blank">sharing</a> allows you to grant permission for others to see your schedule, grades, or financial information.  Learn <a href="https://wiki.umbc.edu/display/faq/Profile+Sharing" target="_blank">more</a> about profile sharing and important information about sharing <a href="http://sbs.umbc.edu/disclosure-of-information/profile-sharing/" target="_blank">financial information</a>.</p>
+<p> How to Share Your Profile (<a href="https://www.youtube.com/watch?v=aErJqmbk8fU" class="video">video</a>)</p>
+ </div>  
   
 </li>
 <div class="accordionheader">
-  <h4>How do I create a <em>my</em>UMBC account?<i class="fa fa-angle-down"></i></h4>
+  <h4>When will I be billed? How do I pay my bill?<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">
-<ul>
- <li>Create your account with your date of birth and UMBC Campus ID (which you will receive from the Admissions Office).</li>
- <li>Visit the <a href="https://webadmin.umbc.edu/admin"><em>my</em>UMBC WebAdmin page</a>.</li>
- <li>Click on <a href="https://webadmin.umbc.edu/admin/User/Create">Create my Account</a>.</li>
-</ul>
+<p>Billing due dates are determined by registration <a href="http://www.umbc.edu/summer/financialdates" target="_blank">dates</a>.  UMBC bills students <a href="http://www.umbc.edu/summer/billing" target="_blank">electronically</a> - paper bills are not issued.</p>
  </div> 
    
-<div class="accordionheader">
-  <h4>How do I forward my UMBC e-mail to another e-mail account?<i class="fa fa-angle-down"></i></h4>
-</div>
-
- <div class="accordionbody">
-  <p>View how to <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=33851010">forward</a> your UMBC e-mails to an already existing e-mail account (Hotmail, Gmail, etc.).</p>
-</div>
-
-<div class="accordionheader">
-  <h4>When will I be billed?  How do I pay my bill?<i class="fa fa-angle-down"></i></h4>
-</div>
-
- <div class="accordionbody">
-    <ul>
-      <li>Your billing date and due date are determined by your <a href="financialdates" target="_blank">registrations date</a>.</li>
-      <li>UMBC bills students electronically - paper bills are not issued.</li>
-      <li>Information on how to view your account (and pay your bill) <a href="billing" target="_blank">can be found here</a>.</li>
-    </ul>
-</div>
-
-<div class="accordionheader">
-  <h4>Are scholarships or financial aid available?
-<i class="fa fa-angle-down"></i></h4>
-</div>
-
- <div class="accordionbody">
-          <ul>
-            <li>A limited number of full and partial <a href="scholarships" target="_blank">course scholarships</a> are available to UMBC degree-seeking students.</li>
-            <li><a href="financialaid" target="_blank">Financial aid</a> (loans and/or grants) may be available for eligible UMBC students who are making satisfactory academic progress (SAP).</li>
-          </ul>
-</div>
-
-<div class="accordionheader">
-  <h4>How do I get a parking permit?
-<i class="fa fa-angle-down"></i></h4>
-</div>
-
- <div class="accordionbody">
-          <ul>
-            <li>Current UMBC students must display a valid permit.</li>
-            <li>New or visiting students must <a moz-do-not-send="true" href="http://www.umbc.edu/summer/parking">request a permit</a> to park on the UMBC campus in non-metered lots or on roadways <br>
-              from 7:00 am until 7:00 p.m. (Monday through Thursday) and            from 7:00 am until 3:30 p.m. on Friday. </li>
-          </ul>
- </div>
-
-<div class="accordionheader">
-  <h4>Where can I eat on campus during summer &amp; winter session?<i class="fa fa-angle-down"></i></h4>
-</div>
-
- <div class="accordionbody">
-  <ul>
-  <li>On-campus dining is available summer &amp; winter session. <a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=_summerSession">UMBC Dining Services</a> will post open venues and hours closer to the start of the session.</li>
-  <li><a href="http://www.dineoncampus.com/umbc/show.cfm?cmd=_summerSession">Meal Plans</a> are also available for Summer Session.</li></ul>
-</div>
- 
-<div class="accordionheader">
-  <h4>How can I get help, when I need it?<i class="fa fa-angle-down"></i></h4>
-</div>
-
- <div class="accordionbody">
-<ul>
-<li>Submit an online <a href="faq"><em>my</em></a> <a href="https://rt.umbc.edu/UMBC/RequestHelp.html">UMBC Help Ticket</a>. Use myUMBC Help Tickets for billing issues, computing/technology support, questions about your class schedule, grades, etc.</li>
-<li>Access the myUMBC Help Ticket site and login with your myUMBC user name and password.</li>
-<li>Additional administrative support information can be found <a href="deptcontact">here</a>.</li>
-</ul>
-</div>   
-
 <div class="accordionheader">
   <h4>Is on-campus housing available?<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">
-<ul>
-  <li>Students living in continuous occupancy, 9-month housing may remain on campus during January for Winter Session.  </li>
-  <li><a href="housing" target="_blank">Click here</a> for Summer Session information.</li>
-</ul>
+  <p>A limited amount of summer <a href="http://www.umbc.edu/summer/housing" target="_blank">housing</a> options are available.
+</p>
 </div>
-<br>
 
-   <h3>Course Information</h3>
-  
+<div class="accordionheader">
+  <h4>When can I order my textbooks?<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+    <p>Summer session <a href="http://www.umbc.edu/summer/textbooks" target="_blank">textbooks</a> are available in May at the UMBC Bookstore or can be ordered online. Please be aware of the <a href="http://www.umbc.edu/summer/importantdates" target="_blank">last day</a> textbooks in the same condition as purchased can be returned for a full refund with a sales receipt.</p>
+</div>
+
+<div class="accordionheader">
+  <h4>Are parking permits required?
+<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+    <p>Parking permits are required during summer session. If you do not have a valid permit, be sure to request a UMBC <a href="http://www.umbc.edu/summer/parking" target="_blank">parking permit</a> several weeks in advance to ensure it arrives before the start of classes. Summer session parking permits are available after May 1.</p>
+</div>
+
+<div class="accordionheader">
+  <h4>How can I check my final grades?
+<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+      <p>Log-in to <a href="http://my.umbc.edu/" target="_blank"><em>my</em>UMBC</a> to check your final grades.  Highlight the Topics menu, then select "Classes & Grades".  Select "Student Grades” and then select the desired "Term/Semester".  Click “Continue” to see your grades.</p>
+ </div>
+
+<div class="accordionheader">
+  <h4>How do I order a transcript once my class ends?<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+  <p>Order official UMBC transcripts for a minimum fee through <a href="http://registrar.umbc.edu/services/records/" target="_blank">Parchment Inc.</a>, UMBC’s online transcript partner.  You can download and print an unofficial transcript through <a href="http://my.umbc.edu/topics/classes-and-grades" target="_blank"><em>my</em>UMBC</a>.</p>
+</div>
+ 
+<div class="accordionheader">
+  <h4>How do I request help?<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+	<p>Submit an online <em>my</em>UMBC Help <a href="https://rt.umbc.edu/UMBC/RequestHelp.html" target="_blank">Ticket</a> for questions about your class schedule, grades, billing issues, computing/technology support etc.</p>
+</div>   
+
+<div class="accordionheader">
+  <h4>How do I know which administrative office to contact?
+<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+	<p>The Office of Academic Standards and Policy compiled a detailed <a href="http://academicpolicy.umbc.edu/home/whom-do-i-contact/" target="_blank">list</a> of UMBC administrative offices and their various roles and responsibilities.</p>
+</div>
+
  <div class="accordionheader">
-  <h4>I received a registration error indicating that I do not have the  appropriate prerequisites, what should I do now? <i class="fa fa-angle-down"></i></h4>
+  <h4>How do I get a UMBC ID card?<i class="fa fa-angle-down"></i></h4>
  </div>
  <div class="accordionbody">
- <ul>
- <li>Students must have successfully satisfied the UMBC prerequisite requirements -- or be currently enrolled in the prerequisite course(s) -- before registering in courses with prerequisite requirements.</li>
-  <li>Follow the instructions on the <a href="coursesprerequisites">Course Prerequisites</a> page to complete a Prerequisite Override Request.</li>
-  </ul>
+ <p>Obtain a <a href="http://campuscard.umbc.edu/about/" target="_blank">campus card</a> (student ID) at the Campus Card Center located on the 1st floor of the University Center.  The UMBC Campus Card is an integral part of campus life. It establishes your identity at UMBC, provides access to various services such as the Library and RAC, opens doors as part of access control, and with the depositing of funds, buys services and merchandise both on campus and at participating stores in the surrounding communities.</p>
 </div> 
 
-
  <div class="accordionheader">
-  <h4>Why can't I use <em>my</em>UMBC to change my schedule?<i class="fa fa-angle-down"></i></h4>
+  <h4>Are accommodations available?<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
- 	<ul>
-                                                                     <li>During the <a href="scheduleadjustment" target="_blank">Schedule Adjustment Period</a> students can use <em>my</em>UMBC to add, drop or swap courses.</li>
-                                                                     <li>Schedule changes are limited once the Schedule Adjustment Period ends - please see <a href="importantdates" target="_blank">academic dates/deadlines</a>.</li>
-                                                                     <li>After the Schedule Adjustment Period, students must submit an <a href="http://registrar.umbc.edu/contact/" target="_blank">RT Help Ticket</a> to the Registrar's Office for any schedule change requests.</li>
-              </ul>
+ 	<p>Accommodations are delivered on a case by case basis in order to determine what is appropriate for each student.  An individualized in-person intake appointment is offered to all students who submit a SDS registration form with appropriate documentation of disability.  For more information or to request services visit the <a href="http://sds.umbc.edu/" target="_blank">SDS</a> website.</p>
  </div>
  
  
  
  <div class="accordionheader">
-  <h4>I am enrolled in a course, what should I do before it begins?<i class="fa fa-angle-down"></i></h4>
+  <h4>What are my dining options on campus?<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
-  <ul>
-  <li>Review the list of resources on the <a href="services">student services</a> page.</li>
-  <li>Make sure you have taken care of all of your campus information, including - campus ID, E2Campus alerts, parking, regularly check UMBC e-mail, etc. Also, ensure you have reviewed all of the course information, including - blackboard access, textbooks, regularly check UMBC e-mail, etc.</li>
-  </ul>
+  <p>UMBC <a href="https://new.dineoncampus.com/umbc" target="_blank">Dining Services</a> will post open venues and hours closer to the start of the session.  Meal Plans are also available.
 </div>
 
 
  <div class="accordionheader">
+  <h4>What is <em>my</em>UMBC and how do I access my UMBC e-mail?</h4>
+ </div>
+
+ <div class="accordionbody">
+  <p><em>my</em>UMBC is a web-based portal to various services and online community resources at UMBC.  Use <a href="http://my.umbc.edu/" target="_blank"><em>my</em>UMBC</a> to register for courses, view account balances, online bill payment, register for a parking permit, check university e-mail and check grades. <a href="https://webadmin.umbc.edu/admin/User/Create" target="_blank">Create</a> your account with your date of birth and UMBC Campus ID.  Check your UMBC e-mail account on a regular basis (faculty often provide information prior to the start of classes).  You can <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=33851010" target="_blank">forward</a> your UMBC e-mails to an already existing e-mail account (Hotmail, Gmail, etc.).</p>
+</div>
+
+  <div class="accordionheader">
   <h4>What is Blackboard?<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
-  <p>UMBC uses Blackboard, an online learning management system, for online, hybrid, and many in-person courses. When you register for a class, you are automatically enrolled in Blackboard.</p>
-  <ul>
-   <li>Be sure to <a href="http://blackboard.umbc.edu/">log-in to your Blackboard account</a> early to check for updates - faculty often post course information/materials before the session begins.</li>
-   <li> <a href="https://wiki.umbc.edu/display/faq/Getting+Started+in+Blackboard">Learn more about Blackboard</a></li>
-  </ul>
+<p>Blackboard is an online learning management system, for online, hybrid, and many in-person courses.  When you register for a class, you are automatically enrolled in Blackboard. <a href="https://blackboard.umbc.edu/webapps/login/" target="_blank">Log-in</a> to your Blackboard account early to check for updates - faculty often post course information/materials before the session begins.  Learn <a href="https://wiki.umbc.edu/display/faq/Getting+Started+in+Blackboard" target="_blank">more</a> about Blackboard.</p>
 </div>
 
   <div class="accordionheader">
-  <h4>How can my parents see my schedule or grades?<i class="fa fa-angle-down"></i></h4>
+  <h4>How do I sign up for E2Campus emergency text alerts?<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
-You can grant permission to let others see your schedule or grades through &ldquo;profile sharing&rdquo; in <em>my</em>UMBC. <br>
-      <ul>
-        <li>Share some of your <em>my</em>UMBC information with anyone who has a <em>my</em>UMBC, Google, or Facebook account.  <br>
-        </li>
-        <li>Learn more about <a href="https://wiki.umbc.edu/display/faq/Profile+Sharing" target="_blank">Profile Sharing</a>.</li>
-        <li><a href="https://www.youtube.com/watch?v=aErJqmbk8fU" target="_blank" class="video">How to Share Your Profile</a></li>
-      </ul>
- 
+    <p>Use <em>my</em>UMBC to sign-up for <a href="https://my.umbc.edu/alerts" target="_blank">E2Campus</a> an emergency alert text-messaging system that notifies subscribers of any campus-related emergency such as a potential safety hazard or campus closure due to weather.</p>
 </div>
-
-  <div class="accordionheader">
-  <h4>How do I transfer my UMBC grades to my home institution?<i class="fa fa-angle-down"></i></h4>
- </div>
-
- <div class="accordionbody">
-    <p>Once your final grades have been posted to <em>my</em>UMBC, you can order an official copy of your transcript  through <a href="http://registrar.umbc.edu/services/records/">Parchment Inc.</a> (UMBC&rsquo;s online transcript partner) to be sent to your home institution.  There is a fee associated with ordering an official transcript.</p>
-</div>
-
-  <div class="accordionheader">
-  <h4>How do I register for more than 4.5 credits during winter session and/or 16 credits during summer session?<i class="fa fa-angle-down"></i></h4>
- </div>
-
- <div class="accordionbody">
-
-      <ul>
-        <li>Permission to enroll in excess credits requires advanced approval from your primary major advisor and the Office of Academic and Pre-Professional Advising.</li>
-        <li>Request <a href="excesscredit" target="_blank">excess credit approval</a> at least one week before classes begin.</li>
-      </ul>
- 
-</div>
-
-
-  <div class="accordionheader">
-  <h4>How do I add myself to a course waitlist?<i class="fa fa-angle-down"></i></h4>
- </div>
-
- <div class="accordionbody">
-
-      <ul>
-        <li>If a course if full, use myUMBC to place your name on a waitlist.</li>
-        <li>When adding the class during registration, check the box "Waitlist if class is full" and continue the enrollment process.</li>
-        <li>If the class has a waitlist, you will be notified of your position on the waitlist after you have completed registration.</li>
-        <li><a href="registrationtips" target="_blank">Click here</a> for more information.</li>
-      </ul>
-</div>
-
-
-  <div class="accordionheader">
-  <h4>What accommodations are available?<i class="fa fa-angle-down"></i></h4>
- </div>
-
- <div class="accordionbody">
- <p>
- The mission of Student Disability Services (SDS) at the University of Maryland, Baltimore County (UMBC), is to provide necessary accommodations to ensure all campus programs and services are accessible to <strong>enrolled</strong> UMBC students with disabilities.
- </p>
- 
- <p>For more information (or to request services) visit the <a href="http://sss.umbc.edu/" target="_blank">SDS website</a>.</p>
- </div>
- <br>
 
      <!-- END Content -->
      
@@ -298,15 +216,16 @@ You can grant permission to let others see your schedule or grades through &ldqu
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>

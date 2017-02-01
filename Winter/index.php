@@ -64,26 +64,26 @@
 
          <!-- Slide One  -->
           
-          <li id="slide1">  <a href="http://gritgoing.umbc.edu/?p=1178"><img src="images/featured/poli446.jpg" alt="Featured Course: The Politics of Poverty" target="_blank"></a>
+          <li id="slide1">  <a href="https://new.dineoncampus.com/UMBC/where-to-eat"><img src="images/food.jpg" alt="UMBC Winter Dining" target="_blank"></a>
             <div class="carousel-caption wordwrap">
-              <h3>Featured Course: The Politics of Poverty <br>(POLI 446)</h3>
-              <small>Study poverty and the welfare state from ideologically diverse perspectives in this online course that fulfills the Writing Intensive GEP.</small>
-              <p><a href="http://gritgoing.umbc.edu/?p=1178" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+              <h3>Winter Dining Options & Hours</h3>
+              <small>View dining options for Winter Session.</small>
+              <p><a href="https://new.dineoncampus.com/UMBC/where-to-eat" role="button" class="web-seemore" target="_blank">Learn more</a></p>
             </div>
-            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1178" target="_blank">Featured Course: The Politics of Poverty</a></p>
+            <p id="captiontwo"><a href="https://new.dineoncampus.com/UMBC/where-to-eat" target="_blank">Winter Dining Options & Hours</a></p>
           </li>
           
           <!-- END Slide One --> 
           
           <!-- Slide Two -->
           
-          <li id="slide2"> <a href="http://gritgoing.umbc.edu/?p=1112"><img src="images/featured/phil248.jpg" alt="Featured Course: Introduction to Scientific Reasoning" target="_blank"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Featured Course: Introduction to Scientific Reasoning <br>(PHIL 248)</h3>
-              <small>This winter, learn how people reason their way through complex issues as you fulfill the Arts & Humanities GEP.</small>
-              <p><a href="http://gritgoing.umbc.edu/?p=1112" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+          <li id="slide2"> <a href="http://my.umbc.edu/groups/seb/events"><img src="images/1.jpg" alt="Winter Events" target="_blank"></a>
+            <div class="carousel-caption-right wordwrap">
+              <h3>Winter Session Events</h3>
+              <small>UMBC's Student Events Board hosts events all Winter long.</small>
+              <p><a href="http://my.umbc.edu/groups/seb/events" role="button" class="web-seemore" target="_blank">Learn more</a></p>
             </div>
-            <p id="captiontwo"><a href="http://gritgoing.umbc.edu/?p=1112" target="_blank">Featured Course: Intro to Scientific Reasoning</a></p>
+            <p id="captiontwo"><a href="http://my.umbc.edu/groups/seb/events" target="_blank">Winter Session Events</a></p>
           </li>
           
           <!-- END Slide Two --> 
@@ -106,16 +106,14 @@
         <br>
         <h3><strong>Winter Session 2017</strong></h3>
         <h4>January 3 - 27</h4>
-        <br>
-        <h4>This winter, stay on track to graduate on time (or early) and move one step closer to starting your career.</h4><br>
+        <p>View your final grades via your <em><a href="http://my.umbc.edu/" target="_blank">myUMBC</a></em> account.</p>
         
-        <ul style="padding-left:40px; font-size:14pt">
-        	<li style="list-style:square"><strong>December 21</strong> is the deadline for visiting students to apply for Winter Session 2017.  Applications cannot be accepted after this date.</li>
-
-<li style="list-style:square">UMBC will be closed from Friday, December 23, 2016 through January 2, 2017. If you need to reach the Office of Summer & Winter Programs during this time, please <a href="contact">contact us</a> by submitting a help ticket.</li>
-<ul>
-        <h4>Register Now - Let us help you GRIT Going!</h4>
-        </dl>
+        <p>Order official UMBC transcripts through <a href="http://registrar.umbc.edu/services/records/" target="_blank">Parchment Inc.</a>, UMBC&rsquo;s online transcript partner.  Unofficial transcripts can be downloaded and printed through <em>my</em>UMBC.</p>
+        
+        <p><a href="https://my.umbc.edu/alerts" target="_blank">Sign-up for E2Campus</a>, an emergency alert text-messaging system that notifies subscribers of any campus-related emergency (such as a potential safety hazard or campus closure due to weather).</p>
+        
+        <p>Be sure to join us again for <a href="http://www.umbc.edu/summer/" target="_blank">Summer Session 2017</a>!</p>
+      </dl>
     </div>
       
   </div>

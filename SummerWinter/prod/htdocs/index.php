@@ -90,7 +90,7 @@
 
       <section class="module content">
         <div class="container">
-          <h2>May 31 - August 19, 2016</h2>
+          <h2>May 30 - August 18, 2017</h2>
           <p>Summer Session allows you to fit in another semester (up to 16 credits) outside of the traditional Fall/Spring calendar. 
 Get the credits you need to get ahead! Think of all that extra time you'll have if you graduate early...</p>
           <p>
@@ -106,7 +106,7 @@ Get the credits you need to get ahead! Think of all that extra time you'll have 
   <footer>
     <div class="container">
       <div class="copyright">
-    <p>© 2015 Office of Summer, Winter and Special Programs • 410-455-2335 • Sherman Hall East 4th Floor • <a href="mailto:summerwinter@umbc.edu">summerwinter@umbc.edu</a></p>
+    <p>© <script>document.write(new Date().getFullYear())</script> Office of Summer, Winter and Special Programs • 410-455-2335 • Sherman Hall East 4th Floor • <a href="mailto:summerwinter@umbc.edu">summerwinter@umbc.edu</a></p>
       </div>
     </div>
   </footer><!-- /footer -->

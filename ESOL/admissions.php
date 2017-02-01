@@ -8,7 +8,7 @@
     <meta charset="UTF-8" />
     <title>Cybersecurity at UMBC</title><link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -43,7 +43,7 @@
     <div class="sixteen columns">
       <a href="index.php" style="text-decoration:none">
       <h1 class="remove-bottom home-header" style="margin-top: 40px">MA TESOL Program
-      </h1>
+      </h1><div align="center" style="border-top:2px #E9AB13 solid"></div></h1><br><br>
       </a>
 
       
@@ -55,40 +55,54 @@
 <!-- START Content --> 
 
 
-<h3>Admissions</h3>
-<p>Applicants  for admission to the TESOL M.A. Program and the ESOL Post Baccalaureate  Certificate Program must meet the general requirements for admission to the&nbsp;<a href="http://www.umbc.edu/gradschool/" target="_blank">University of Maryland  Graduate School, Baltimore County.</a>&nbsp; 
-<ul>
-  <li>To be  considered, the applicant must have a 3.0 GPA (on a 4.0 scale).</li>
-  <li>International  students must have a minimum of 213+ on the computer-based TOEFL, 80+ on the  internet-based TOEFL, or 6.5+ on the IELTS.</li>
+<h3><strong>Admission Requirements </strong></h3>
+
+<h4><strong>MA  TESOL Program </strong></h4>
+<ul type="square">
+  <li>Bachelor&rsquo;s       degree with a minimum 3.0 GPA </li>
+  <li>Three letters of       recommendations </li>
+  <li>Statement of       purpose explaining your interest in the field </li>
+  <li>Official test       scores—<strong>one</strong> of the following       options: </li>
+  <ul type="circle">
+    <li>153+ on the GRE        verbal test OR </li>
+    <li>297+ GRE composite        score (verbal + math) OR </li>
+    <li>527+ on the        Praxis I test </li>
+    <li>Passing scores        on each of the three Praxis Core assessments: 156+ on reading, 162+ on        writing, and 150+ on math </li>
+  </ul>
+  <li>Second language       speakers of English must also have a TOEFL score of 213+ on the computer-based       test or 80+ on the internet-based test or an IELTS score of 6.5+.</li>
 </ul>
-<h4>Applications</h4>
-<p>Admission  to the&nbsp;<strong>TESOL MA</strong>&nbsp;Program is on a competitive basis.  Applicants should have:</p>
-<ul>
-  <li>an  undergraduate degree with a minimum of a 3.0 GPA,</li>
-  <li>3  references,</li>
-  <li>153+ on the GRE verbal test or a 297+ composite  score (verbal + math)</li>
-  <li>a  statement of purpose that shows interest in the field,</li>
-  <li>Second language speakers of English must also have  a TOEFL score of 213+ on the computer-based test or 80+ on the internet-based  test or an IELTS score of 6.5+</li>
+<h4><strong>ESOL  Certificate Program </strong></h4>
+<ul type="square">
+  <li>Bachelor&rsquo;s       degree with a minimum 3.0 GPA </li>
+  <li>Two letters of recommendations </li>
+  <li>Statement of       purpose explaining your interest in the field </li>
+  <li>Official test       scores—<strong>one</strong> of the following       options: </li>
+  <ul type="circle">
+    <li>153+ on the GRE        verbal test OR </li>
+    <li>297+ GRE composite        score (verbal + math) OR </li>
+    <li>527+ on the        Praxis I test </li>
+    <li>Passing scores        on each of the three Praxis Core assessments: 156+ on reading, 162+ on        writing, and 150+ on math </li>
+    <li>Maryland        teaching certification </li>
+  </ul>
+  <li>Second language       speakers of English must also have a TOEFL score of 213+ on the computer-based       test or 80+ on the internet-based test or an IELTS score of 6.5+.</li>
 </ul>
-<p>Admission  to the&nbsp;<strong>Certificate Program</strong>&nbsp;is also on a competitive basis. Applicants  should have:</p>
-<ul>
-  <li>an  undergraduate degree with a minimum of a 3.0 GPA,</li>
-  <li>2  references,</li>
-  <li>153+ on the GRE verbal test or a 297+ composite  score (verbal + math) OR 527+ on the Praxis I test OR current Maryland state  teaching certification</li>
-  <li>Second language speakers of English must also have  a TOEFL score of 213+ on the computer-based test or 80+ on the internet-based  test or an IELTS score of 6.5+</li>
-</ul>
-<p>The  Program's application review process is on-going, following the admissions  deadlines set by the Graduate School. The Program's Admissions Committee meets  to decide periodically throughout the review cycle. Favorable consideration is  given to applications received early in the review cycle. Applicants who are  not admitted during the review cycle will be notified. In some cases, they will  be asked if they want to be considered in the next review cycle. An applicant's  file is considered complete and ready for review when all documents have been  submitted.<br>
-  Decisions  for admission into the ESOL Program for the<em>&nbsp;</em><em>fall semester</em><em>&nbsp;</em>are made by the following  dates:</p>
-<ul>
-  <li>International  applicants - February 28</li>
-  <li>Domestic  Applicants - April 15 (preferred) or August 1</li>
-</ul>
-<p>Decisions  for admission into the ESOL/Bilingual MA Program for the&nbsp;<em>spring  semester</em><em>&nbsp;</em>are  made by the following dates:</p>
-<ul>
-  <li>International  applicants - October 31</li>
-  <li>Domestic  applicants - October 31</li>
-</ul>
-<p><a href="intstudents.php">More  admission details for international students.</a></p>
+<h4>Admission Deadlines</h4>
+
+  <p>The   program's application review process is ongoing. Applications will be   reviewed when they are complete. An applicant's file is considered   complete and ready for review when all required documents have been   submitted. Applicants who are not admitted during the review cycle will   be notified. </p>
+  <p>Applications for admission into the TESOL Program for the <strong><em>fall semester </em></strong>must be complete by the following dates:</p>
+  <ul>
+    <li>International applicants - April 1</li>
+    <li>Domestic Applicants -  August 1</li>
+  </ul>
+  <p>Applications for admission into the TESOL Program for the <em><strong>spring semester</strong></em><em><strong> </strong></em>must be complete by the following dates:</p>
+  <ul>
+    <li>International applicants - November 1</li>
+    <li>Domestic Applicants -  January 1</li>
+  </ul>
+
+
+  <p>Only domestic students may apply for summer admission. Applications for admission into the TESOL Program for the <em><strong>summer session </strong></em>must be complete by May 1.</p>
+  <p><a href="intstudents.php">More  admission details for international students.</a></p>
  </div>
     <!-- SIDEBAR -->
     <?php include("includes/sidebar.php"); ?><!-- END SIDEBAR -->

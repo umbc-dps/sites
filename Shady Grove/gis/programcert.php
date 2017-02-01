@@ -116,7 +116,7 @@ $lang = 'en';
 <p>
 This academic program is a participant in the U.S. Department of Education Gainful Employment program.
 </p>
-<ul><li><a href="http://gradschool.umbc.edu/resources/careers/gainfulemploy/gis/" target="_blank">Gainful Employment Information</a></li></ul> 
+<ul><li><a href="http://ged.financialaid.umbc.edu/gis/Gedt.html" target="_blank">Gainful Employment Information</a></li></ul> 
 
 
 

@@ -90,7 +90,7 @@ $lang = 'en';
 
 <div class="carousel-caption-right wordwrap">
 <h3>UMBC Cybersecurity Info Session</h3>
-<small>Visit us on Wednesday, March 8, to learn about our Cybersecurity Master's degree offered in Rockville, MD.</small>
+<small>Visit us on Thursday, April 6, to learn about our Cybersecurity Master's degree offered in Rockville, MD.</small>
 
 <p><a href="infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
 

@@ -8,7 +8,7 @@
     <meta charset="UTF-8" />
     <title>Cybersecurity at UMBC</title><link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -43,7 +43,7 @@
     <div class="sixteen columns">
       <a href="index.php" style="text-decoration:none">
       <h1 class="remove-bottom home-header" style="margin-top: 40px">MA TESOL Program
-      </h1>
+      </h1></h1><div align="center" style="border-top:2px #E9AB13 solid"></div></h1><br><br>
       </a>
 
       
@@ -62,7 +62,14 @@
   <li><a href="documents/Fall 2014 Newsletter.pdf" target="_blank">Fall 2014 Newsletter</a></li>
   <li><a href="documents/Spring 2015 Newsletter.pdf" target="_blank">Spring 2015 Newsletter</a></li>
   <li><a href="documents/Fall 2015 NEWSLETTER.pdf" target="_blank">Fall 2015 Newsletter</a></li>
-</ul>
+  <li><a href="documents/Spring 2016 Newsletter.pdf" target="_blank">Spring 2016 Newsletter</a></li>
+  <li><a href="documents/Fall 2016 Newsletter.pdf" target="_blank">Fall 2016 Newsletter</a></li>
+  </ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
   </div>
     <!-- SIDEBAR -->
     <?php include("includes/sidebar.php"); ?><!-- END SIDEBAR -->

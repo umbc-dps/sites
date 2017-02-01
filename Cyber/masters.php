@@ -77,7 +77,10 @@ $lang = 'en';
  <h3>Admissions: Master's Degree </h3>
  <h4>Application Dates</h4>
 <p>The application deadline for Spring 2017 is <strong>December 1</strong><br>
-Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
+  Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
+  
+  <p>The application deadline for Fall 2017 is <strong>August 1</strong><br>
+  Fall 2017 Classes Start: <strong>August 30, 2017</strong></p>
 
  <h4>Admissions Requirements:</h4>
  <p>Applicants to the MPS degree program are expected to have current IT or cybersecurity industry experience and/or a solid academic background in computer science, information systems, or a field related to working in cybersecurity. Those without such backgrounds must demonstrate other relevant professional or academic expertise that may qualify them for admission.</p>

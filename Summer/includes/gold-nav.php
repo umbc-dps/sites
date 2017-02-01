@@ -1,24 +1,20 @@
-    <nav role="navigation" id="site-menu">
+<nav role="navigation" id="site-menu">
   <ul id="menu-main" class="menu">
-  <li><a href="http://umbc.edu/summer/index">Home</a></li>
-  <li><a href="http://umbc.edu/summer/#">Course Info</a>
-      <ul class="sub-menu">
-  <li><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">View Course Schedule</a></li>
-  <li><a class="video" href="https://www.youtube.com/watch?v=hXIWIzOsn5w">How to Search Course Schedule</a></li>
-  <!--
-  		<li><a href="http://umbc.edu/summer/documents/catalog.pdf" target="_blank">Download Catalog</a></li>
-        -->
-        <li><a href="http://umbc.edu/summer/coursesprerequisites">Courses with Prerequisites</a></li>
-        <li><a href="http://umbc.edu/summer/gep">General Education Program (GEP) Courses</a></li>
-        <li><a href="http://umbc.edu/summer/hybrid">Hybrid/Online Courses</a></li>
-        <li><a href="http://umbc.edu/summer/shadygrove">Shady Grove Courses</a></li>
-        <li><a href="http://umbc.edu/summer/all-courses#evening">Evening Courses</a></li>
-        <li><a href="http://umbc.edu/summer/documents/catalog.pdf" target="_blank">Download Catalog</a></li>
+  <li><a href="index">Home</a></li>
+  <li><a href="">Course Info</a>
+  	  <ul class="sub-menu">
+      	<li><a href="https://www.youtube.com/watch?v=hXIWIzOsn5w" class="video">How to Search Schedule</a></li>
+      	<li><a href="http://registrar.umbc.edu/services/registration/" target="_blank">How to Use Schedule Planner</a></li>
+      	<li><a href="http://umbc.edu/summer/gep">General Education Program (GEP) Courses</a></li>
+      	<li><a href="http://umbc.edu/summer/hybrid">Hybrid/Online Courses</a></li>
+      	<li><a href="http://umbc.edu/summer/shadygrove">Shady Grove Courses</a></li>
+      	<li><a href="http://umbc.edu/summer/coursesprerequisites">Courses with Prerequisites</a></li>
+      	<li><a href="http://umbc.edu/summer/courses">View Schedule of Classes</a></li>
       </ul>
     </li>
-    <li><a href="http://umbc.edu/summer/#">Register/Apply</a>
+    <li><a href="#">Register/Apply</a>
       <ul class="sub-menu">
-        <li><a href="http://umbc.edu/summer/registrationtips">Registration Tips</a></li>
+        <li><a href="http://umbc.edu/summer/registrationtips">Registration Assistance</a></li>
         <li><a href="http://umbc.edu/summer/scheduleadjustment">Schedule Adjustment</a></li>
         <li><a href="https://highpoint-prd.ps.umbc.edu/app/dashboard" target="_blank">Register Through myUMBC</a></li>
         <li><a href="http://umbc.edu/summer/visitingstudents">Apply (Visiting Students)</a> </li>
@@ -30,7 +26,7 @@
         <li><a href="http://umbc.edu/summer/financialdates">Financial Deadlines</a></li>
       </ul>
     </li>
-    <li><a href="http://umbc.edu/summer/tuition">Tuition &amp; Fees</a>
+    <li><a href="http://umbc.edu/summer/tuition">Tuition/Bills</a>
       <ul class="sub-menu">
         <li><a href="http://umbc.edu/summer/tuition">Tuition</a></li>
         <li><a href="http://umbc.edu/summer/billing">Paying Your Bill</a></li>
@@ -38,14 +34,7 @@
         <li><a href="http://umbc.edu/summer/scholarships">Scholarships</a></li>
       </ul>
     </li>
-        <li><a href="http://umbc.edu/summer/services">Student Services</a>       
-          <ul class="sub-menu">
-          	<li><a href="http://umbc.edu/summer/services">Student Services</a></li>
-            <li><a href="http://umbc.edu/summer/events">Events</a></li>
-          </ul>
-        </li>   
-    <li><a href="http://umbc.edu/summer/faq">FAQs</a></li>
-    <li><a href="http://umbc.edu/summer/stem">Summer STEM</a></li>   
-  </ul>
-      
-    </nav>
+        <li><a href="http://umbc.edu/summer/faq">FAQs/Student Services</a></li>       
+		<li><a href="http://umbc.edu/summer/events">Events</a></li>
+	</ul>      
+</nav>

@@ -2,29 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Housing | Summer Programs at UMBC</title>
+<title>Housing | Summer Session at UMBC</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="On-campus housing is offered during summer session." />
+<meta name="description" content="Winter session GEP course offerings and requirements." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Housing | Summer Programs at UMBC" />
+<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/housing" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="On-campus housing is offered during winter session." />
+<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -36,74 +39,55 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
         <h2>Housing</h2>
-    <!-- END Page Title -->       
-      <div class="content">
-      
+    <!-- END Page Title -->             
      <!-- Start Content -->
      
-       <p><strong>On-campus housing is offered during summer &amp; winter session.</strong></p>
+       <p>The summer housing <a href="http://reslife.umbc.edu/housing/summer-housing-application/" target="_blank">application</a> typically opens on or around March 20th.</p>
+       <p>Summer housing is limited, so please plan accordingly.  Apply for on campus housing through the online application.  You must have a UMBC ID to log in.  If you have any questions, contact the Residential Life Operations Team at 410-455-8832 (8:30 am – 4:30 pm).  Current UMBC students may submit a <em>my</em>UMBC <a href="http://reslife.umbc.edu/help-umbc-users/" target="_blank">Help Ticket</a>.</p>
 
-	<h5>Summer Session</h5>
-	<p><a href="http://www.umbc.edu/reslife/apply/summer.html" target="_blank">Summer 2016 housing</a> is available in Hillside and Terrace Apartments. Each apartment has four single occupancy bedrooms, a bathroom, a dining room/living room area and a kitchen.</p>
-	<p><strong>Eligibility</strong></p>
-	<p>To be eligible for on campus summer housing, you must be:</p>
-	<ul>
-	  <li>enrolled in at least one summer course or academic internship</li>
-	  <li>employed full-time by UMBC</li>
-	  <li>participating in a UMBC sponsored program during your entire stay on campus</li>
-	  </ul>
-	<p><strong>Apply</strong></p>
-	<ul>
-	  <li>Current UMBC students can <a href="http://www.umbc.edu/reslife/apply/summer.html" target="_blank">apply now</a> for summer housing.</li>
-	  <li>Visiting students must first apply for summer admission and register for classes before applying for summer housing.</li>
-	  <li>The priority deadline to apply for summer housing is May 2, 2016.       </li>
-	</ul>
-	<h5>Winter Session</h5>
-    <p>During winter session, students living in continuous occupancy, 9-month housing may remain on campus during January.  Potomac Hall, several floors in Harbor Hall, and the apartments (including Walker Avenue) are available to UMBC students who already have 9-month housing.</p>
-	<h5>Questions?</h5>
-	<p>Contact the Residential Life Operations Team at <strong>410-455-8832</strong> (8:30 am – 4:30 pm).  Current UMBC students may submit a <a href="https://rt.umbc.edu/UMBC/RequestHelp.html" target="_blank"><i>my</i>UMBC Help Ticket</a>.	
-       
-     <!-- END Content -->	  </p>
-      </div>
+
+     <!-- END Content -->
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>
@@ -115,7 +99,23 @@
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-  
+  <script>
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+$('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+</script> 
   
 </body>
 </html>

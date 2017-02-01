@@ -4,13 +4,13 @@
       </aside>
       </a>
 
-
+<!--
       <a href="../all-courses#STEM" class="studenttype" target="_blank">
       <aside class="five columns add-bottom" id="four">
         <h3 class="students">STEM Courses</h3>
       </aside>
       </a> 
-      
+-->      
       <a href="../academicsupport" class="studenttype" target="_blank">
       <aside class="five columns add-bottom" id="five">
         <h3 class="students">Academic Support</h3>

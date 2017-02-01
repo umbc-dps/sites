@@ -36,15 +36,15 @@ table.dates, table.f-dates {
 
 table.dates td:first-letter { text-transform: uppercase!important }
 table.dates { width: 100% }
-table.dates tr:nth-child(odd) { background: #FCECCF }
+table.dates tr:nth-child(odd) { background: #FEEAAD }
 table.dates td { text-align: center; vertical-align: middle; padding: 3px; border:1px #7f5e05 solid; font-size: 90% }
-table.dates td:first-child { font-weight:bold; text-align: left; }
+table.dates td:first-child { font-weight:bold; text-align: center; }
 
 table.f-dates td:first-letter { text-transform: uppercase!important }
 table.f-dates { width: 100% }
-table.f-dates tr:nth-child(odd) { background: #FCECCF }
-table.f-dates td { text-align: center; vertical-align: middle; padding: 3px; border:1px #7f5e05 solid; font-size: 90% }
-table.f-dates tr:first-child { font-weight:bold; background:#E9AB13 }
+table.f-dates tr:nth-child(odd) { background: #FEEAAD }
+table.f-dates td { text-align: center; vertical-align: middle; padding: 3px; border:0px!important; font-size: 90% }
+table.f-dates tr:first-child { font-weight:bold; background:#E8AB22 }
 
 
 
@@ -56,9 +56,9 @@ table.courses {
 }
 table.courses td:first-letter { text-transform: uppercase!important }
 table.courses { width: 100% }
-table.courses tr:nth-child(odd) { background: #FCECCF }
+table.courses tr:nth-child(odd) { background: #FEEAAD }
 table.courses td { text-align: center; vertical-align: middle; padding: 3px; border:1px #7f5e05 solid; font-size: 90% }
-table.courses tr:first-child { font-weight:bold; background:#E9AB13 }
+table.courses tr:first-child { font-weight:bold; background:#E8AB22 }
 
 
 
@@ -107,12 +107,13 @@ body{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #333;
 	background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NTAxNzRCQjg1NDE1MTFFMUFDMURBRjU5QjZDQkEzOUQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NTAxNzRCQjk1NDE1MTFFMUFDMURBRjU5QjZDQkEzOUQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1MDE3NEJCNjU0MTUxMUUxQUMxREFGNTlCNkNCQTM5RCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1MDE3NEJCNzU0MTUxMUUxQUMxREFGNTlCNkNCQTM5RCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pvd16nsAAAAsSURBVHjaYvz//z8DNsACod6/fw8kBQUF4WxGXDqY3oMBXB+czUgHOwACDACKXi4HGGnT1AAAAABJRU5ErkJggg%3D%3D')}
 #main {
-	background: url(../images/paw-prints-16.jpg) bottom right no-repeat #fff;
+	/*background: url(../images/paw-prints-16.jpg) bottom left no-repeat #fff;*/
+	background-color: #FFF;
 	margin-bottom:0px; padding-top:10px;
 }
 a {
 	color: #c00;
-	text-decoration: none
+	text-decoration: none;
 }
 a:hover, a:focus {
 	color: #900;
@@ -699,7 +700,7 @@ hr {
 ================================================== */
 a, a:visited {
 	color: #ce181e;
-	text-decoration: underline;
+	text-decoration: none!important;
 	outline: 0;
 }
 a:hover, a:focus {
@@ -757,11 +758,16 @@ img.scale-with-grid {
 }
 /* #Buttons
 ================================================== */
-.five .button{
+.five .button {
 	width:300px; text-align:center;  background:#414042; color:#fff; border:1px solid #414042; text-decoration:none;
 }
 .five .button:hover{
-	background:#E9AB13;
+	background:#E8AB22; 
+}
+.five  .gold{  background:#E8AB22;  color:#000;border:1px solid #ffc20e; 
+}
+.five   .gold:hover{
+	background:#414042; color:#fff;
 }
 .button,  button,  input[type="submit"],  input[type="reset"],  input[type="button"] {
 	background: #ffcc00;
@@ -801,7 +807,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 }
 .button:hover,  button:hover,  input[type="submit"]:hover,  input[type="reset"]:hover,  input[type="button"]:hover {
 	color: #000;
-	background: #e9ab13; /* Old browsers */
+	background: #E8AB22; /* Old browsers */
 	text-decoration: none;
 	border: 1px solid #888;
 	border-top: 1px solid #aaa;
@@ -809,7 +815,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 }
 .button:active,  button:active,  input[type="submit"]:active,  input[type="reset"]:active,  input[type="button"]:active {
 	border: 1px solid #666;
-	background: #e9ab13; /* Old browsers */ 
+	background: #E8AB22; /* Old browsers */ 
 	color: #000;
 }
 .button.full-width,  button.full-width,  input[type="submit"].full-width,  input[type="reset"].full-width,  input[type="button"].full-width {
@@ -919,13 +925,13 @@ aside p, aside dl {
 	color: #fff;
 }
 h3.students {
-	position: absolute;
+	/* position: absolute;
 	bottom: 0;
 	padding: 0;
-	margin: 0;
-	background: #E9AB13;
+	margin: 0; */
+	background: #414042;
 	color: #FFF;
-	width: 100%;
+	/* width: 100%; */
 	text-align: center;
 }
 aside:hover h3.students { background: #414042 }
@@ -934,17 +940,31 @@ aside:hover h3.students { background: #414042 }
 	background-color: transparent;
 }
 #summer-heading {
-  background:#E9AB13; 
+  background:#E8AB22; 
   
 
   margin: auto;
+}
+#winterdog {
+	background:url(../images/winter-dog-fade.jpg) top left no-repeat #fff;
+	}
+#winter-heading {
+  background:#414042; 
+    margin: auto;
 }
 #summer-heading h1 {
 	color: #fff;
 	padding: .25em;
 }
-
+#winter-heading h1 {
+	color: #fff;
+	padding: .25em;
+}
 #summer-heading a{
+	text-decoration: none;
+}
+
+#winter-heading a {
 	text-decoration: none;
 }
 
@@ -1416,7 +1436,7 @@ word-wrap: break-word; /* IE 5+ */
   text-shadow: none;
 }
 
-#captionone, #captiontwo, #captionthree { text-align:center; background:#000; width:100%; padding:.5em; display:none; margin-bottom:0; color:#fff; }
+#captionone, #captiontwo, #captionthree { text-align:center; background:#000; /*width:100%; =JLD */ padding:.5em; display:none; margin-bottom:0; color:#fff; }
 
 
 dt {font-weight:bold;margin-bottom:5px; text-transform:uppercase;}
@@ -1930,7 +1950,7 @@ table.dates td:first-letter { text-transform: uppercase!important }
 
 table.dates td { padding: 3px; border:2px #FFF solid; vertical-align:middle }
 
-table.f-dates td { padding: 10px; border:1px #414042 solid; vertical-align:middle }
+table.f-dates td { padding: 10px; border:0px!important; vertical-align:middle }
 
 table.f-dates { width:100% ; display:block; }
 
@@ -1951,6 +1971,8 @@ div#session1, div#session2 { float:none; width:100% }
 	@media only screen and (max-width: 479px) {
 		
 #summer-heading h1 {line-height:1em;}
+	
+#winter-heading h1 {line-height:1em;}
 body {background-image:none;}
 .optional { display:none;}
 
@@ -1961,9 +1983,10 @@ body {background-image:none;}
   .carousel-caption-right-top p, .carousel-caption-right-top small,
   .carousel-caption, .wordwrap, #cbp-fwslider div { display:none;}
 
-#captionone, #captiontwo, #captionthree {display:block; padding:1em; font-weight:bold;  }
+#captionone, #captiontwo, #captionthree {display:block; padding:1em; font-weight:bold; margin:0px; }
 #captionone a, #captiontwo a, #captionthree a { color:#fff;}	 
 #one, #two, #three, #four, #five, #six, #seven {background:none; height:20px; width:100%}
 #one:hover, #two:hover, #three:hover, #four:hover, #five:hover, #six:hover, #seven:hover {outline:none;}	  
 .button{width:92.5%!important}
+ 
 }

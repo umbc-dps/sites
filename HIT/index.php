@@ -101,43 +101,42 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_hit" target="_blank"><img src="images/6.png" alt="Professional Programs Open House"/></a>
+<a href="http://umbc.edu/openhouse" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Professional Programs Open House</h3>
-<small>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</small>
+<h3>Program Exploration Open House</h3>
+<small>Join us on Saturday, April 1 to learn how UMBC's professional programs can advance your career.</small>
 
-<p><a href="http://www.umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_hit" role="button" class="web-seemore" target="_blank">RSVP Now</a></p></div>
+<p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
 
-<p id="captionthree"><a href="?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=carousel_hit" target="_blank">Professional Programs Open House</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse" target="_blank">Program Exploration Open House</a></p>
 
 </li>
 
 <!-- END Slide One --> 
 
-<!-- Slide Two -->              
+<!-- Slide TWO -->    
 
 <li id="slide2">
 
-<a href="faculty.php#tsai" target="_blank"><img alt="img01" src="images/HIT-Terry-Tsai.jpg"></a>
+<a href="https://www.youtube.com/watch?v=7xAN9q6LtqM"><img src="images/hit-carousel1.jpg" alt="Unique Strengths of the Health IT Program"/></a>
+<div class="carousel-caption wordwrap">
+<h3>Unique Strengths of the Health IT Program</h3>
+<small>Program Director, Dr. Krystl Haerian, discusses the collaboration and interdisciplinary background of students.</small>
 
-<div class="carousel-caption-right wordwrap">
-<h3>Meet Our Faculty: Terry Tsai</h3>
-<small>Classes taught by distinguished professionals.</small>
+<p><a href="https://www.youtube.com/watch?v=7xAN9q6LtqM"class="web-seemore video">Watch Now</a></p></div>
 
-<p><a href="faculty.php#tsai" class="web-seemore" target="_blank">Read More</a></p></div>
-
-<p id="captionone"><a href="faculty.php#tsai" target="_blank">Meet Our Faculty: Terry Tsai</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=7xAN9q6LtqM">Unique Strengths of the Health IT Program</a></p>
 
 </li>
 
-<!-- END Slide Two --> 
+<!-- END SLIDE TWO --> 
 
 <!-- Slide THREE -->    
 
 <li id="slide3">
 
-<a href="https://www.youtube.com/watch?v=IOoV3DWIp-A" class="video"><img src="images/jeff.jpg" alt="Course Insights with Jeff Ostrow"/></a>
+<a href="https://www.youtube.com/watch?v=IOoV3DWIp-A" class="video"><img src="images/faculty/umbc-faculty-Jeff-Ostrow.jpg" alt="Course Insights with Jeff Ostrow"/></a>
 <div class="carousel-caption-right wordwrap">
 <h3>Course Insights with Jeff Ostrow</h3>
 <small>Health IT Graduate Faculty, Jeff Ostrow, discusses the highlights of his course: Educational Technologies in Healthcare.</small>

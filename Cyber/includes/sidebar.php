@@ -1,11 +1,12 @@
-<div class="five columns">
-
-    <aside class="five columns add-bottom" id="two">
+<div class="five columns">    <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Upcoming Event</h3>
       <p style="text-align:center">
-Check back in December for Spring 2017 Open House<br/>
+		<strong>Program Exploration Open House</strong><br>
+Saturday, April 1, 10:00AM - 12:00PM<br>
+<a href="http://umbc.edu/openhouse" class="btn">Save Your Spot!</a>
 	</p>
     </aside>
+
     
     <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Past Event</h3>
@@ -21,8 +22,8 @@ Check back in December for Spring 2017 Open House<br/>
 
 
       <p style="text-align:center">
-Apply Now for Spring<br>
-Classes begin Jan 30, 2017 <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
+Apply Now for Fall<br>
+Deadline: August 1st<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
       </p>
 </aside>
 

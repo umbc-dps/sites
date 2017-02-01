@@ -5,7 +5,7 @@
 
 
       <p style="text-align:center"><strong>UMBC Cybersecurity Info Session</strong><br>
-      Wednesday, March 8, 6-7:30 pm<br>
+      Thursday, April 6, 6-7:30 pm<br>
         <a class="btn" href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank">RSVP Now</a>
       </p>
     </aside>

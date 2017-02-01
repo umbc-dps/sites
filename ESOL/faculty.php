@@ -8,7 +8,7 @@
     <meta charset="UTF-8" />
     <title>Cybersecurity at UMBC</title><link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -43,7 +43,7 @@
     <div class="sixteen columns">
       <a href="index.php" style="text-decoration:none">
       <h1 class="remove-bottom home-header" style="margin-top: 40px">MA TESOL Program
-      </h1>
+      </h1></h1><div align="center" style="border-top:2px #E9AB13 solid"></div></h1><br><br>
       </a>
 
       
@@ -61,11 +61,11 @@
     <br>
     Part-time faculty add a significant and important variety of professional  expertise to the program. Together, the program's instructional staff have had  considerable experience with K-12, adult, and university programs, both ESOL  and bilingual, throughout the U.S. and abroad.</p>
   <hr>
-  <p><strong>John Nelson, Ph.D.</strong>&nbsp;(McGill University) (Program Co-Director)<br>
-ESOL/FL testing and evaluation, TESOL methods, English grammar <br>
-<a href="http://www.umbc.edu/education/faculty/bio/nelson.php" target="_blank">Dr. Nelson's faculty homepage.</a> <br>
+  <p><strong>Doaa Rashed, M.A. </strong>(UMBC) (Program Director)<br>
+    Intercultural communication, second language acquisition, <br>
+    ESOL/FL testing and evaluation, English grammar<br>
 <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
-<strong>Sarah J. Shin, Ph.D.</strong><strong>&nbsp;</strong>(University of Michigan)  (Program Co-Director)<strong><br>
+<strong>Sarah J. Shin, Ph.D.</strong><strong>&nbsp;</strong>(University of Michigan)<strong><br>
 </strong>Bilingualism, TESOL methods, heritage language education, language policy<br>
 <a href="http://www.umbc.edu/education/faculty/bio/shin.php" target="_blank">Dr. Shin's faculty homepage.</a> <br>
 <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
@@ -73,7 +73,7 @@ ESOL/FL testing and evaluation, TESOL methods, English grammar <br>
 ESOL/FL testing and evaluation, second language acquisition<br>
 <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
 <strong>Mary Tabaa, M.A.</strong>&nbsp;(UMBC) (Online/Off-Campus Coordinator);<br>
-English grammar, linguistics, instructional design<br>
+English grammar, linguistics, instructional design, internship seminar<br>
 <a href="http://www.umbc.edu/education/faculty/bio/tabaa.php">Mary Tabaa's faculty homepage.</a> <br>
 <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
 <strong>Renee Burgos, M.A.</strong><strong>&nbsp;</strong>(UMBC)<br>
@@ -85,20 +85,19 @@ TESOL methods<br>
 <strong>JoAnn (Jodi) Crandall, Ph.D.</strong> (Georgetown University) <br>
 Content-based language learning, second language literacy, language  teacher education, first and second language writing, ESL in the community  college<br>
 <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
-<strong>Heidi&nbsp;J. Faust,  M.Ed. TESOL&nbsp;</strong>(Associate Director of  TESOL Professional Training Programs, UMBC);<br>
+<strong>Yuliya England, Ph.D.</strong> (Assistant Director, English Language Institute) <br>
+    Speaking and listening, adult ESOL<img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
+    <strong>Heidi&nbsp;J. Faust,  M.Ed. TESOL&nbsp;</strong>(Associate Director of  TESOL Professional Training Programs, UMBC);<br>
     Intercultural communication,  TESOL methods <br>
     <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
     <strong>Michael Glennon, M.A. </strong>(McDaniel College)<br>
     Educational technology, instructional design<br>
-  <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
-  <strong>Colleen Grisham, M.A.</strong>&nbsp;(UMBC)<br>
+    <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
+    <strong>Colleen Grisham, M.A.</strong>&nbsp;(UMBC)<br>
     Reading and writing instruction<br>
     <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
     <strong>Laura Hook, M.A.</strong> (UMBC)&nbsp;(Maryland  State Department of Education)<br>
     TESOL methods, Project Seminar<br>
-    <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
-    <strong>Chuck Hodell, Ph.D.</strong>&nbsp;(Instructional Systems Development  Program, UMBC)<br>
-    Instructional design <br>
     <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
     <strong>Adriana Medina L</strong><strong>ó</strong><strong>pez-Portillo, Ph.D.</strong>&nbsp;(Department of Modern Languages,  Linguistics, &amp; Intercultural Communication, UMBC)<br>
     Intercultural communication, intercultural training, Mexican cultural studies<br>
@@ -106,28 +105,20 @@ Content-based language learning, second language literacy, language  teacher edu
     <strong>Ana Oskoz, Ph.D.</strong>&nbsp;(Department of Modern Languages, Linguistics,  &amp; Intercultural Communication, UMBC)<br>
     Technology in the foreign language classroom, second language acquisition,  language teaching and curriculum development<br>
     <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
-    <strong>Doaa Rashed, M.A.</strong><br>
-    Second language acquisition, ESOL/FL testing and evaluation<br>
-    <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
     <strong>Maria Reamore, M.A.</strong><br>
     Internship supervision and instruction, reading and writing instruction<br>
     <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
     <strong>Sara Rosen, M.A.</strong> (Boston University)<strong><br>
-    </strong>Internship supervision and instruction<br>
-  <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
-  <strong>Ron Schwartz, M.A.</strong><br>
-    Intercultural communication, Project Seminar<br>
+      </strong>Internship supervision and instruction<br>
     <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
-    <strong>Hollis Stein,</strong><strong>&nbsp;</strong><strong>M.A.</strong>&nbsp;(former ESOL Program Supervisor,  Prince George's County Public Schools)<br>
-    Internship Seminar Phase 2<br>
+    <strong>Ron Schwartz, M.A.</strong><br>
+    Intercultural communication, Project Seminar<br>
     <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
     <strong>Ray Terhorst, M.A.</strong><strong>&nbsp;</strong>(UMBC)<br>
     TESOL methods, educational technology<br>
     <img src="images/LineV1.gif" width="482" height="2" alt="Black Line"><br>
     <strong>Yeji  Yoon, M.A. </strong><strong>(UMBC)</strong><strong><br>
-    </strong>Instructional design, Project Seminar</p>
-</p>
-</div>
+    </strong>Instructional design, Project Seminar</p></div>
   </div>
     <!-- SIDEBAR -->
     <?php include("includes/sidebar.php"); ?><!-- END SIDEBAR -->

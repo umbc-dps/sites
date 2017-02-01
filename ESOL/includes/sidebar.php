@@ -1,13 +1,12 @@
     <aside class="five columns add-bottom" id="one">
-  <h3 style="color:#fff;">ESOL Program Directors</h3>
+  <h3 style="color:#fff;">ESOL Program Director</h3>
 
 
-  <p><strong>John Nelson, Ph.D.</strong>, Co-Director<br />
-    410-455-2379 <br />
-  <a href="mailto:jnelson@umbc.edu">jnelson@umbc.edu </a><br />
-    <strong>Sarah Shin, Ph.D.</strong>, Co-Director<br />
-    410-455-2485 <br />
-  <a href="mailto:shin@umbc.edu">shin@umbc.edu</a></p>
+  <p>
+  <strong>Doaa Rashed</strong><br>
+  410-455-3061
+  <br>
+  <a href="mailto:doaa1@umbc.edu">doaa1@umbc.edu</a></p>
 </aside>
 
 
@@ -15,8 +14,11 @@
       <h3 style="color:#fff;">Deadlines for Completion of Application:</h3>
 
 
-      <p>For Fall Semester: February 28th for international applicants and April 15th for domestic applicants.<br />
-      For Spring Semester: October 31st for both international and domestic applicants. </p>
+      <p><strong>Fall semester:</strong> August 1 for domestic applicants; April 1 for international applicants.<br>
+        <strong>Spring semester:</strong> January 1 for domestic applicants; November 1 for international applicants.<br>
+        <strong>Summer session:</strong> May 1 for domestic applicants only.<br>
+      We offer rolling admissions. <br>
+      Applications are reviewed when they are complete.</p>
 </aside>
 
 
@@ -25,8 +27,8 @@
 
 
       <p>
-        To apply to the MA TESOL or ESOL Certificate Program   at UMBC, submit an application directly to the <a href="http://www.umbc.edu/gradschool/admissions/apply.php" target="_blank">UMBC Graduate School</a>. If you need assistance, contact us at <a href="mailto:esol@umbc.edu">esol@umbc.edu</a>.<br />
+        To apply to the MA TESOL or ESOL Certificate Program at UMBC, submit an application directly to the <a href="http://www.umbc.edu/gradschool/admissions/apply.php" target="_blank">UMBC Graduate School</a>. If you need assistance, contact us at <a href="mailto:esol@umbc.edu">esol@umbc.edu</a>.<br />
           <br />
-Interested applicants who miss the deadlines may take up to 2 courses in the  program as non-degree students with permission from the program directors.  Taking these courses does not ensure entrance into the program, but if  accepted, they can be applied to the MA degree.</p>
+Interested applicants who miss the deadlines may take up to 2 courses in the program as non-degree students with permission from the program director. Taking these courses does not ensure entrance into the program, but if a student is accepted, the courses can be applied toward the MA degree.</p>
  
     </aside>

@@ -2,20 +2,22 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Tuition | Summer Programs at UMBC</title>
+<title>Tuition & Fees | Summer Session at UMBC</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Check out the tuition and fees for UMBC's 2016 Summer Session here!" />
+<meta name="description" content="Winter session GEP course offerings and requirements." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Tuition | Summer Programs at UMBC" />
+<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/tuition" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="Check out the tuition and fees for UMBC's 2016 Summer Session here!" />
+<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
@@ -37,31 +39,30 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
-
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
         <h2>Tuition & Fees</h2>
     <!-- END Page Title -->       
@@ -71,40 +72,20 @@
       
      <!-- Start Content --> 
      
-<p>Summer session tuition is based on UMBC’s standard part-time credit rate for Maryland residents and non-residents.  Only two mandatory fees – an auxiliary facilities fee and a flat $20 summer session fee – are charged in summer session – a substantial cost savings for summer students. </p>
+<p>Summer session tuition is based on UMBC’s standard part-time credit rate for Maryland residents and non-residents. Only two mandatory fees – an auxiliary facilities fee and a flat $20 summer session fee – are charged in summer session – a substantial cost savings for summer students.</p>
 
 <p class="tuition-links"><strong>See Costs For:</strong> <a href="#" class="tuition-link-md">Maryland Resident - Undergraduate</a> | <a href="#" class="tuition-link-non">Non-Maryland Resident - Undergraduate</a></p>
 
 <?php include("includes/tuition-charts.php"); ?>
 
-<p>For graduate tuition rates, or more information about UMBC tuition and fees, visit the Student Business Services <a href="http://sbs.umbc.edu" target="_blank">website</a>.  </p>
-
-<!--
-  <li><a href="http://sbs.umbc.edu/winter-2016-tuition/" target="_blank">View 2016 tuition &amp; fees</a>.</li>
-  <li>Summer & winter session tuition is based on UMBC&rsquo;s standard credit hour tuition rate. To calculate the tuition cost of a summer course, multiply the credit hour rate X number of course credits.</li>
-
-  <li>Standard summer/winter fees are limited to an auxiliary facilities fee ($22 per credit hour) and a summer/winter session fee ($20).</li>
-
-  <li>In addition to the standard tuition and fees, some courses may have additional fees (such as lab or materials fees), which are noted in the <a href="courses">online</a> Schedule of Classes under "Class Attributes."</li>
--->
+<br>
 
 <div class="accordionheader">
-	<h4>Schedule adjustment<i class="fa fa-angle-down"></i></h4>
+	<h4>Graduate tuition rates<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-<ul>
-  <li>During <a href="scheduleadjustment">schedule adjustment period</a> use the &quot;swap&quot; option to
-  simultaneously add and drop a class (with the same number of credits) without
-  financial or academic penalty.
-  </li>
-
-  <li>If you add a course on the <a href="importantdates">
-    first day of the session</a> or later, a non-refundable $20 <a href=
-    "http://sbs.umbc.edu/billing/late-fees/" target="_blank">late registration
-    fee</a> will be charged.
-  </li>
-</ul>
+<p>Visit  the <a href="http://sbs.umbc.edu/" target="_blank">Student Business Services (SBS)</a> to view summer  graduate tuition rates.</p> 
 </div>
 
 <div class="accordionheader">
@@ -112,68 +93,39 @@
 </div>
 
 <div class="accordionbody">
-      <ul>
-        <li>Tuition and auxiliary fees are fully refunded through the <a href="http://umbc.edu/summer/financialdates" target="_blank">first day of the session</a>.</li>
-        <li>After the first day of the session, refunds are pro-rated based on the date the course was dropped.</li>
-        <li>View summer 2016 <a href="http://umbc.edu/summer/financialdates" target="_blank">refund schedule</a>.</li>
-      </ul>
+<p>Tuition  and auxiliary fees are fully refunded through the first day of the session.  After the first day of the session, refunds  are <a href="financialdates">pro-rated</a> based on the  date the course was dropped.</p>
 </div>
 
 <div class="accordionheader">
-	<h4>Financial Aid<i class="fa fa-angle-down"></i></h4>
+	<h4>Scholarships and financial aid<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <ul>
-    <li>Financial aid may be available to Pell Grant eligible UMBC students who are making satisfactory academic progress (SAP).</li>
-    <li><strong>Priority Deadline:</strong> April 15, 2016</li>
-    <li><strong>Final Deadline:</strong> June 24, 2016</li>
-    <li>Contact the Office of Financial Aid and Scholarships for <a href="http://financialaid.umbc.edu/summer-winter-aid/summer-aid-application/" target="_blank">more information</a>.</li>
-  </ul>
+	<p>The Office of Summer/Winter Programs offers a limited number  of <a href="scholarships.php">scholarships</a> to  eligible students. <a href="financialaid.php">Financial aid</a> may be available to Pell Grant eligible UMBC students who are making  satisfactory academic progress (SAP).</p>
 </div>
-
-<div class="accordionheader">
-	<h4>Tuition Cost Calculators<i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p>Use the appropriate cost calculator to estimate UMBC charges, financial aid, and out-of-pocket expenses for the Summer 2016 semester.</p>
-      <ul>
-        <li><a href="http://financialaid.umbc.edu/cost-calculators/summer-2016-undergraduate/" target="_blank">Undergraduate Cost Calculator</a></li>
-        <li><a href="http://financialaid.umbc.edu/cost-calculators/summer-2016-graduate/" target="_blank">Graduate Cost Calculator</a></li>
-      </ul>
-</div>
-
 
 <div class="accordionheader">
 	<h4>Pay Your Bill<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <ul>
-    <li>Pay your bill in installments with the optional <a href="http://sbs.umbc.edu/summer-2016-payment-plan/" target="_blank">Summer Payment Plan</a></li>
-    <li>Additional billing information can be <a href="billing">found here</a></li>
-  </ul>
-</div>
+<p>Be  sure to pay your <a href="billing.php">bill</a> on time  to avoid a late payment fee.  An optional  installment <a href="billing.php">payment plan</a> is  also available.</div>
 
-
-
-      <!-- END Content -->
-     
-	</div></div></div>
-        
+     <!-- END Content -->
+          </div></div></div>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>
@@ -202,9 +154,14 @@ $('h4').click(function() {
 	ga('send', 'event',  'accordion', 'click', linkText);
 });
 $( document ).ready(function() {
+	if (hash == '#non-resident') {
+		$('.non-resident').show();
+		$('.resident').hide();
+	}
+	else {
 	$('.resident').show();
 	$('.non-resident').hide();
-});
+}});
 $('.tuition-link-non').click(function() {
 	$('.non-resident').show();
 	$('.resident').hide();
@@ -217,6 +174,7 @@ $('.tuition-links a').click(function() {
 	var mdText = $(this).text();
 	ga('send', 'event',  'details', 'click', mdText);
 });
+
 </script> 
   
 </body>

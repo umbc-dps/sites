@@ -74,7 +74,7 @@ $lang = 'en';
   <div class="cbp-fwslider" id="cbp-fwslider">
     <ul>
 
-<!-- Slide ONE -->    
+<!-- Slide ONE --   
 
 <li id="slide1">
 
@@ -92,12 +92,12 @@ $lang = 'en';
 
 </li>
 
-<!-- END SLIDE ONE --> 
+-- END SLIDE ONE --> 
 
 
 
 <!-- SLIDE TWO --> 
-<li id="slide2">
+<li id="slide1">
       
 <a href="http://www.umbc.edu/shadygrove/io/advisoryboard"  target="_blank"><img alt="img02" src="images/2.jpg"target="_blank"></a>
 
@@ -114,7 +114,7 @@ $lang = 'en';
 <!-- END SLIDE TWO --> 
 
 <!-- SLIDE THREE -->
-<li id="slide3">
+<li id="slide2">
 
 <a href="http://www.umbc.edu/shadygrove/io/faculty.php"  target="_blank">
 	<img alt="img02" src="images/Lasson.jpg"target="_blank">
@@ -132,7 +132,7 @@ $lang = 'en';
 <!-- END SLIDE THREE -->
 
 <!-- SLIDE FOUR -->
-<li id="slide4">
+<li id="slide3">
 
 <a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A"><img src="images/IO-Carousel1.jpg" alt="Meet Our Alumni: Aubrey Moore"/></a>
 <div class="carousel-caption-right wordwrap">

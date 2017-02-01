@@ -78,12 +78,12 @@ table#sequence td:first-child { text-align:left }
   
 <!-- START Content -->
 
-<h3>Fall 2016 Schedule of Classes</h3>
+<h3>Spring 2017 Schedule of Classes</h3>
 
-<p><strong>Semester Dates:</strong>  August 31, 2016 – December 13, 2016<br>
-  <strong>Advanced Registration Begins:</strong> April 4, 2016</span> (for students currently enrolled in spring 2016) <br>
-  <strong>Registration for Newly Admitted Students:</strong>  June 1, 2016</span><br>
-  <strong>Last Day to Add/Drop a Class:</strong> September 14, 2016</span><br>
+<p><strong>Semester Dates:</strong>  January 30, 2017 – May 16, 2017<br>
+  <strong>Advanced Registration Begins:</strong> October 31, 2016 (for students currently enrolled in fall 2016)<br>
+  <strong>Registration for Newly Admitted Graduate Students:</strong> December 1, 2016<br>
+  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2017<br>
 	<strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
   <table id="schedule">
@@ -97,53 +97,45 @@ table#sequence td:first-child { text-align:left }
   <TD width="10%">Room</TD>
 </TR>
   <tr>
-    <td>ENEE 660 (5385)</td>
-    <td>Systems Engineering Principles</td>
-    <td>Thursday</td>
-    <td>4:30 - 7:00 PM</td>
-    <td>Hybrid</td>
-    <td>ITE 231</td>
-  </tr>
-  <tr>
-    <td>ENEE 663 (6056)</td>
-    <td>System Implementation, Integration and Tests</td>
-    <td>Monday</td>
-    <td>4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE 231</td>
-  </tr>
-  <tr>
-    <td>ENEE 664 (7686)</td>
-    <td>Advanced Systems Architecture </td>
+    <td>ENEE  661 (1132)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/1132" target="_blank">Systems  Architecture & Design</a></td>
     <td>Tuesday</td>
     <td>4:30 - 7:00 PM</td>
     <td>In Person</td>
-    <td>ITE 239</td>
-  </tr>
+    <td>ITE 237</td>
+    </tr>
   <tr>
-    <td>ENEE 669 (6066)</td>
-    <td>Math and MATLAB</td>
+    <td>ENEE  661 (6780)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6780" target="_blank">Systems  Architecture & Design</a></td>
     <td>Wednesday</td>
     <td>4:30 - 7:00 PM</td>
-    <td>Hybrid</td>
-    <td>ITE 233</td>
-  </tr>
+    <td>In Person</td>
+    <td>ITE 231</td>
+    </tr>
   <tr>
-    <td>ENEE 670 (2873)</td>
-    <td>Systems Engineering Project</td>
-    <td>Thursday </td>
+    <td>ENEE  662   (6266)   </td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6266" target="_blank">System  Modeling, Simulation & Analysis</a></td>
+    <td>Thursday</td>
     <td>4:30 - 7:00 PM</td>
     <td>In Person</td>
     <td>ITE 229</td>
-  </tr>
+    </tr>
   <tr>
-    <td>ENEE 672 (6880)</td>
-    <td>Decision Analysis</td>
+    <td>ENEE  667   (6333)   </td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6333" target="_blank">Advanced  System Engineering Processes</a></td>
+    <td>Monday </td>
+    <td>4:30 - 7:00 PM</td>
+    <td>In Person</td>
+    <td>ITE 239</td>
+    </tr>
+  <tr>
+    <td>ENEE  670   (7910)   </td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7910" target="_blank">Systems  Engineering Project</a></td>
     <td>Wednesday</td>
     <td>4:30-7:00 PM</td>
-    <td>In-Person</td>
-    <td>ITE 229</td>
-  </tr>
+    <td>Hybrid</td>
+    <td>ITE 227</td>
+    </tr>
   </table>
   
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions.php">Directions</a></strong>)</p>

@@ -112,6 +112,14 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
+  <h4><a id="anderson" href="#anderson"></a>Lance Anderson, PhD <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p><img align="left" alt="Lance Anderson" src="images/advisoryboard/LanceAnderson.jpg">​​Dr. Lance Anderson the Director of the Civilian Government Line of Business with HumRRO.  Dr. Anderson has over 25 years’ experience conducting I-O research. He has directed projects on hiring and promotional system development, standards development, development of educational and training requirements, leadership development, and assessment of persons with disabilities. He has developed and validated a wide range of hiring assessments, including experience checklists, multiple-choice knowledge exams, situational judgment tests, work samples, accomplishment records, and in-basket exams. Having performed this work for hundreds of types of jobs. Dr. Anderson is also an expert psychometrician with experience analyzing and interpreting data with a wide variety of techniques, including test equating, regression adjusted for multivariate-range-restriction, errors-in-variables analysis, etc. Much of his work has been in highly litigious environments, including projects under consent decree. Dr. Anderson has provided employment-related litigation support services, depositions, and reports to address litigation. Dr. Anderson is also an experienced project manager, having successfully managed dozens of federal projects ranging in values up to several million dollars.</p>
+</div>
+
+<div class="accordionheader">
   <h4><a id="bach" href="#bach"></a>Susan Bach <i class="fa fa-angle-down"></i></h4>
 </div>
 
@@ -125,15 +133,6 @@ $lang = 'en';
 
 
 <div class="accordionheader">
-  <h4><a id="baker" href="#baker"></a>David Baker, PhD <i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p><img align="left" alt="David Baker" src="images/advisoryboard/baker.jpg">​​Dr. David Baker is the Executive Vice President of the Center for Research, Evaluation and Implementation (CREI) at IMPAQ International.  CREI consists of IMPAQ’s Health Policy, Labor Policy, Human Services, Education, and International Development Divisions. Approximately 180 research staff work in CREI. Throughout his time at IMPAQ, David has held significant leadership roles, including Vice President and Senior Vice President of IMPAQ’s Health Division, Chief Program Officer (this role included oversight of IMPAQ’s Survey Division) and now Executive Vice President of CREI.</p>
-  <p>David also has a diverse research background having supported projects on aircrew and air traffic control training, teacher preparation, human and team performance measurement and now patient safety and quality improvement. He has led needs analyses, developed training programs for teams and individuals, conducted national surveys, and evaluated important federal initiatives. He is most known for his work on the Agency for Healthcare Research and Quality’s TeamSTEPPS® program which is used by health care professionals world-wide to improve care quality. He is a recognized expert on team performance, team training, and training evaluation. He holds a PhD in Industrial and Organizational Psychology from the University of South Florida. He is a Fellow of the Society for Industrial and Organizational Psychology and has published and presented over 100 papers on his research.</p>
-</div>
-
-<div class="accordionheader">
   <h4><a id="dye" href="#dye"></a>David A. Dye, PhD <i class="fa fa-angle-down"></i></h4>
 </div>
 
@@ -143,6 +142,14 @@ $lang = 'en';
 <p>David is a Past President of the Personnel Testing Council of Metropolitan Washington (PTC-MW) and the International Personnel Assessment Council (IPAC), in which he led the development of the association’s HR certification program.   He holds a Top Secret Security clearance and is an ICF-certified Executive Coach.  Dr. Dye received his Ph.D. from The George Washington University in Industrial and Organizational Psychology.  He is a frequent contributor to Federal news and media outlets, and has presented internationally and published book chapters and articles in various professional journals, including Public Personnel Management, Personality and Individual Differences, and International Journal of Selection and Assessment.</p>
 </div>
 
+
+<div class="accordionheader">
+  <h4><a id="fleisher" href="#fleisher"></a>Matt Fleisher, PhD <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p><img align="left" alt="Matt Fleisher" src="images/advisoryboard/Matt_Fleisher_FTI.JPG">Dr. Matthew Fleisher, SPHR is a Senior Manager of Global Talent Analytics at FTI Consulting, a global business advisory firm. His responsibilities include developing and deploying a human capital analytics program to support more than 4,700 employees in 30 countries, identifying and leveraging key performance indicators and metrics to inform the business, and offering strategic advice to leaders grounded in descriptive and predictive analytics. Prior to joining FTI, he was a Manager of Talent Management Analytics at Marriott International, adjunct faculty in the HRD Weekend Master's Program at The George Washington University, a Research Scientist at the Human Resources Research Organization, an instructor at The University of Tennessee, and an intern at Procter & Gamble. He has published research in the Journal of Applied Psychology, the International Journal of Management Education, the Journal of Research in Personality, Learning and Individual Differences, and Military Psychology. He was also the 2016 President of the <a href="www.ptcmw.org" target="_blank">Personnel Testing Council of Metropolitan Washington</a> and is an Adjunct Faculty member in Georgetown University’s SCS HRM Master’s Program. He earned a Ph.D. in 2011 from The University of Tennessee in Industrial and Organizational Psychology with a minor in Statistics.</p>
+</div>
 
 <div class="accordionheader">
   <h4><a id="hall" href="#hall"></a>Gerri Mason Hall<i class="fa fa-angle-down"></i></h4>
@@ -164,18 +171,6 @@ $lang = 'en';
   <p><img align="left" src="images/advisoryboard/heil.jpg" alt="Michael Heil">Michael Heil, Ph.D.  Mike is a Director with Aon Hewitt. He currently serves as Project Director for several efforts within the Assessment and Selection Service Line, which is part of Aon Hewitt's Talent, Rewards & Performance practice. In this role, he leads the development, implementation, and maintenance of assessment solutions; identifies and proposes innovative assessment strategies; and consults with key stakeholders to identify the best solutions to their assessment needs. Mike is also a Psychologist-in-Residence at American University, where he teaches I/O Psychology.</p> 
 
 <p>Mike was a member of team that won the 2000 SIOP M. Scott Myers Award for Applied Research in the Workplace. He has a Ph.D. in Industrial/Organizational Psychology from Kansas State University.</p>
-<br clear="all">
-</div>
-
-<div class="accordionheader">
-  <h4><a id="hyatt" href="#hyatt"></a>Steve Hyatt <i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p><img align="left" src="images/advisoryboard/hyatt.jpeg" alt="Steve Hyatt">Steve Hyatt is the Chief Human Resources Officer for Offit Kurman, a law firm serving clients throughout the mid-Atlantic region of the USA. His primary responsibilities include recruiting, hiring, developing and retaining the best legal and support team in the country. In addition, he serves as a member of Offit Kurman's strategic leadership team.</p>
-
-<p>Steve is a graduate of the University of Connecticut, where he earned a BS in Marketing. He is also an accredited Trainer/Facilitator with Achieve Global. Steve is a published author and his book Life is Just a Piece of Kugel is available on Amazon.  He resides in McLean CA with his wife Linda and his father.</p>
-
 <br clear="all">
 </div>
 

@@ -93,15 +93,15 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img src="images/10.jpg" alt="Accepting Applications For Spring"/></a>
+<a href="http://umbc.edu/openhouse" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Accepting Applications For Spring</h3>
-<small>Classes begin January 30. </small>
+<h3>Program Exploration Open House</h3>
+<small>Join us on Saturday, April 1 to learn how UMBC's professional programs can advance your career.</small>
 
-<p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
+<p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
 
-<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications For Spring</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse" target="_blank">Program Exploration Open House</a></p>
 
 </li>
 
@@ -125,9 +125,27 @@ $lang = 'en';
                
 <!-- END SLIDE TWO -->
 
-<!-- Slide THREE -->    
+<!-- SLIDE THREE --> 
 
 <li id="slide3">
+
+<a href="http://gritinaction.umbc.edu/blogs/" target="_blank"><img src="images/blog.jpg" alt="Our 5 Favorite Career Blogs"/></a>
+
+<div class="carousel-caption wordwrap">
+<h3>Our 5 Favorite Career Blogs</h3>
+<small>We put together a list of some of our favorite blogs.</small>
+
+<p><a href="http://gritinaction.umbc.edu/blogs/" role="button" class="web-seemore" target="_blank">Check out the list!</a></p></div>
+
+<p id="captionthree"><a href="http://gritinaction.umbc.edu/blogs/" target="_blank">Our 5 Favorite Career Blogs</a></p>
+
+</li>
+
+<!-- END SLIDE THREE -->
+
+<!-- Slide FOUR -->    
+
+<li id="slide4">
 
 <a href="https://www.youtube.com/watch?v=VBlEecFnaWk" class="video"><img src="images/Lachan.jpg" alt="UMBC Class of 2016 Profile: Lachan Rajbhandari"/></a>
 <div class="carousel-caption-right wordwrap">
@@ -140,7 +158,7 @@ $lang = 'en';
 
 </li>
 
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE FOUR --> 
                
 
 </ul>

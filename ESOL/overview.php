@@ -8,7 +8,7 @@
     <meta charset="UTF-8" />
     <title>Cybersecurity at UMBC</title><link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href="css/styles.css" rel="stylesheet">
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -43,7 +43,7 @@
     <div class="sixteen columns">
       <a href="index.php" style="text-decoration:none">
       <h1 class="remove-bottom home-header" style="margin-top: 40px">MA TESOL Program
-      </h1>
+      </h1></h1><div align="center" style="border-top:2px #E9AB13 solid"></div></h1><br><br>
       </a>
 
       
@@ -87,7 +87,8 @@
   <li>EDUC 672: Bilingualism</li>
   <li>EDUC 689: Instructional  Technology for ESOL Teachers</li>
   <li>EDUC 670: Theories of Language  Learning in the ESOL Classroom/MLL 670: Second Language Acquisition &amp; Learning: From Theory to Practice</li>
-</ul>
+  </ul>
+<p>Students who do not complete a thesis are required to take a comprehensive examination. </p>
 <p><strong><a id="option2"></a>OPTION 2 MASTER OF ARTS IN TESOL WITH THESIS (39 CREDITS)</strong></p>
 <p>Thesis students develop a  research proposal and write a thesis under the guidance of an advisor and two  or more committee members. Students may do thesis research in the United States  or abroad. Thesis students take the  same required and elective courses as in Option 1, less the Project Seminar  (EDUC 794) and Internship (EDUC 792S). In addition, thesis students must  complete at least two research courses and 6 credits of thesis research.</p>
 <ul>
@@ -95,7 +96,8 @@
   <li>EDUC 684: Introduction to  Field Research Methods in School or Community (Elective)</li>
   <li>EDUC 771: Research  Designs in Education (Required)</li>
   <li>EDUC 799: Master&rsquo;s Thesis  Research (Required - 6 credits)</li>
-</ul>
+  </ul>
+<p>Students who do not complete a thesis are required to take a comprehensive examination. </p>
 <p><strong><a id="option3"></a>OPTION 3 MASTER OF ARTS IN TESOL WITH K-12  CERTIFICATION (42 CREDITS)</strong></p>
 <p>Because of Maryland  State Department of Education requirements, students who choose the Certification  option take the required courses in Option 1 and the following courses, which  are also required.</p>
 <ul>
@@ -110,7 +112,7 @@
 <p>The K-12 Certification option includes 100  days of internship experience in public elementary and secondary schools over  two semesters. EDUC 791S and EDUC 792L replace EDUC 792S in Option 1.</p>
 <p><strong><a id="option4"></a>OPTION 4 MASTER OF ARTS IN TESOL WITH THESIS AND  K-12 CERTIFICATION (51 CREDITS)</strong></p>
 <p>Combining Certification with a Thesis requires fulfilling the  requirements for both options. </p>
-<h4><strong>ESOL Certificate</strong></h4>
+<h4>ESOL Certificate</h4>
 <p><br>
   The Graduate ESOL Certificate  is a 4-course program.<br>
   Two courses (6  credits) are required: </p>
@@ -152,17 +154,17 @@
 <p><br>
   This academic program is a participant in the U.S. Department of Education Gainful Employment program. </p>
 <UL>
-  <LI><A href="http://gradschool.umbc.edu/resources/careers/gainfulemploy/tesol/" target="_blank">Gainful Employment Information</A></LI>
+  <LI><A href="http://ged.financialaid.umbc.edu/tesol/Gedt.html" target="_blank">Gainful Employment Information</A></LI>
 </UL>
 <HR>
-<h4><a name="INT" id="co5"></a>Internships and/or K -12 Student Teaching</h4>
-<p><br>
-  The non-certification  internship is a field-oriented experience in a setting consistent with the  student's professional preparation and career goals. It provides the student  with the opportunity to put into practice the skills and knowledge acquired in  the program's courses. The internships requires a minimum of 40 hours in an  instructional situation.  It can last  from 3 to 6 months and can be done in the United States or abroad.  The program has internship agreements with  institutions in Ecuador, Mexico, Bolivia, and Peru.  Students can be paid for work done for the  internship.<br>
-  <br>
-  Students who add the K -12 ESOL Certification option to their program are  required to do 2 semesters of student observation/teaching in K -12 ESOL public  school programs in the Baltimore/Washington area. This internship is  experienced at both elementary and secondary schools.  The internship requires spending 100 days in  the public schools plus attending seminars each semester where they discuss  aspects of their internship experiences.</p>
+<h4><a name="INT" id="co5"></a>Internships</h4>
+<h6>Non-certification internship: </h6>
+<p>The non-certification internship is a field-oriented experience in a setting consistent with the student's professional preparation and career goals. It provides the student with the opportunity to put into practice the skills and knowledge acquired in the program's courses. The internships requires a minimum of 40 hours of direct instruction in an instructional situation.  It can last from 3 to 6 months and can be done in the United States or abroad. The internship cannot be tutoring or online teaching. Prior approval of the program and internship responsibilities is required.  The MA TESOL program has internship agreements with institutions in Ecuador, Mexico, Bolivia, and Peru.  Students can be paid for work done for the internship. </p>
+<h6>K-12 Certification Internship: </h6>
+<p>Students who add the K -12 ESOL Certification option to their program are required to do 2 semesters of student observation/teaching in K -12 ESOL public school programs in the Baltimore/Washington area. This internship is experienced at both elementary and secondary schools. K-12 internship starts in the fall and continues until the spring. The internship requires spending 100 days in the public schools (20 days in the fall and 80 days in the spring) plus attending seminars each semester where they discuss aspects of their internship experiences.</p>
 <HR>
 <h4><a name="TR" id="co6"></a>Thesis Research</h4>
-<p><br>
+<p>
   Thesis option students develop a research proposal and write a thesis under the guidance of an advisor   and several faculty advisors. Thesis students can do their thesis research in   the United States or abroad. Many of our students who have gone on to doctoral   programs have found their thesis experience helpful. </p>
   </div>
     <!-- SIDEBAR -->

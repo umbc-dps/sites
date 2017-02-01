@@ -2,29 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hybrid | Summer Programs at UMBC</title>
+<title>Hybrid/Online Courses | Summer Session at UMBC</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Hybrid and Online Courses are offered this year during UMBC's 2016 Summer Session. Check out what is offered here!" />
+<meta name="description" content="Winter session GEP course offerings and requirements." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Hybrid | Summer Programs at UMBC" />
+<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/summer/hybrid" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="Hybrid and Online Courses are offered thisyear during UMBC's 2016 Summer Session. Check out what is offered here!" />
+<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -36,85 +39,80 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
         <h2>Hybrid/Online Courses</h2>
     <!-- END Page Title -->       
-      <div class="content">
-      
+   <div class="content">
+  <div class="narrowchart">
+ <div id="accordion">       
      <!-- Start Content --> 
 
+<div class="accordionheader">
+  <h4>Hybrid Courses<i class="fa fa-angle-down"></i></h4>
+</div>
 
-<h4>Hybrid Courses</h4>
+ <div class="accordionbody">
 
-<ul>
-  <li>
-    Hybrid courses
-    blend in-person and online learning.
-  </li>
+<p>Hybrid courses blend in-person and online learning.  Most hybrid courses reduce the number of in-class meetings by replacing some in-person classes with online, out-of-class, or interactive learning activities Hybrid courses require more independent learning on the part of the student than an in-person class.<br>
+<!--A wide variety of <a href="http://umbc.edu/summer/all-courses#hybrid" target="_blank">hybrid courses</a> are offered during summer session.-->
+</p>
+  </div>
 
-  <li>Most hybrid courses reduce the number of in-class meetings by replacing some in-person classes with online, out-of-class, or interactive learning activities.</li>
-  <li>Hybrid courses require more independent learning on the part of the student than an in-person class. </li>
-  <li> View summer 2016 <a href="all-courses#hybrid" target="_blank">hybrid courses offered</a>. <br>
-  </li>
-</ul>
+<div class="accordionheader">
+  <h4>Online Courses<i class="fa fa-angle-down"></i></h4>
+</div>
 
-<h4>Online Courses</h4>
+ <div class="accordionbody">
+<p>Online courses use Blackboard (UMBC's course management system) and emphasize self-directed independent student learning.  Students do not come to campus for class meetings, but instead manage their own learning online.  Online courses eliminate in-person class meetings entirely and move all learning experiences online, using web-based, multi-media resources, commercial software, and automatically evaluated assessments with guided feedback.  In the Schedule of Classes, “Days & Times” are listed as “TBA” for online courses.  
+<!--A wide variety of <a href="http://umbc.edu/summer/all-courses#online" target="_blank">online courses</a> are offered during summer session.--></p>
+</div>
 
-<ul>
-  <li>
-    Online courses
-    use Blackboard (UMBC's course management system) and emphasize
-    self-directed independent student learning.
-  </li>
-
-
-  <li>Students do not come to campus for class meetings, but instead manage
-  their own learning online.</li>
-  <li>Online  courses eliminate in-person class meetings entirely and move all learning  experiences online, using web-based, multi-media resources, commercial  software, and automatically evaluated assessments with guided feedback.</li>
-  <li>In  the Schedule of Classes, &ldquo;Days &amp; Times&rdquo; are listed as &ldquo;TBA&rdquo; for online  courses.</li>
-  <li>View summer 2016 <a href="all-courses#online" target="_blank">online courses offered</a>.</li>
-</ul>
+</div>
+</div>
 
      <!-- END Content -->
      
-		</div>
+	</div>
+        
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>
@@ -126,7 +124,23 @@
 <script src="js/scripts.js"></script> 
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-  
+  <script>
+$( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: false,
+      collapsible: true,
+      header:"div.accordionheader"
+    });
+    var hash = window.location.hash;
+    var anchor = $('a[href$="'+hash+'"]');
+    if (anchor.length > 0){
+        anchor.click();
+    }
+$('h4').click(function() {
+	var linkText = $(this).text();
+	ga('send', 'event',  'accordion', 'click', linkText);
+});
+</script> 
   
 </body>
 </html>

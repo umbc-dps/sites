@@ -99,14 +99,31 @@ html::after {
           </div>
 
           <div class="accordionbody">
-        <p>To apply for accommodations, please follow the instructions below:</p>
-        <ol>
-        <li>Download and complete the <a href="documents/RequestForServices.pdf" target="_blank">“Request for Services” application</a>.</li>
-        <li>Bring completed application and supporting documentation from a physician/counselor to Ashley Waters in III-4135.</li>
-        </ol>
-        <p>Dr. Waters will then submit the application to Student Disability Services. Once your application is reviewed, Dr. Waters will receive the approved accommodations and notify you and your instructors. </p>
-        <p>Please note: Shady Grove students do not need to complete a SSS Accommodation Card noting a class schedule for any semester at UMBC-Shady Grove. Dr. Waters will pull them from the system automatically approximately three weeks before the semester begins or upon receipt of your accommodations memo, whichever comes first.</p>
-        </div>
+        <p><br>
+          To apply for accommodations, please following the instructions below: </p>
+        <p>1.      Submit the <a href="https://umbc-accommodate.symplicity.com/public_accommodation/" target="_blank">Request For Services Intake</a> online with a copy of your documentation of disability/diagnosis attached/uploaded from an appropriately qualified provider. Eligibility must be established before services can be provided. </p>
+        <p>Disability documentation should reflect the following: </p>
+        <ul>
+          <li>The credentials of the evaluator </li>
+          <li>A specific diagnosis on the evaluator&rsquo;s/agency letterhead </li>
+          <li>The diagnostic methodology used/assessment method </li>
+          <li>The functional impact on the individual </li>
+          <li>The expected progression or stability of the disability </li>
+          <li>Current and past accommodations, services, and/or treatment plan </li>
+          <li>Specific recommendations for academic or housing accommodations </li>
+        </ul>
+        <p>If you are requesting accommodations due to a temporary condition or medical injury, you can download the <a href="http://sds.umbc.edu/files/2016/09/UMBC_ADA_MedicalInquiryForm-4.pdf" target="_blank">Temporary Condition/Injury Form</a> for medical verification. </p>
+        <p>2.  If you cannot submit your supporting documentation through our online system, please contact Dr. Ashley Waters at <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a>. </p>
+        <p>3. Once the registration form and documentation are received, they will be reviewed by the SDS Disability Specialist. Please allow up to 2 weeks processing time as we have many files to review. Once your eligibility for services is approved, you will receive instructions to schedule an intake appointment. This can be done any time after your eligibility is approved. For Shady Grove students, this intake can be done via phone. </p>
+        <p>At the intake appointment you will discuss: </p>
+        <ul type="disc">
+          <li>Accommodations and services </li>
+          <li>Campus and local resources </li>
+          <li>SDS policies and procedures </li>
+          <li>Student responsibilities </li>
+        </ul>
+        <p>4. If accommodations are approved, you will receive an email from Dr. Ashley Waters with next steps. </p>
+          </div>
 
       <div class="accordionheader">
             <h4><a id="eligibility" href="#eligibility"></a>Eligibility<i class="fa fa-angle-down"></i></h4>

@@ -73,14 +73,13 @@ $lang = 'en';
  <h3>Resources</h3>
  <h4>UMBC Career Services Center</h4>
  <p>
-   The <a href="http://www.careers.umbc.edu/index.php" target="_blank">UMBC Career Service Center</a> features an extensive list of career-related resources along with announcements on upcoming recruitment events, local job fairs and career related workshops.</p>
+   The <a href="http://www.careers.umbc.edu" target="_blank">UMBC Career Center</a> features an extensive list of career-related resources along with announcements on upcoming recruitment events, local job fairs and career related workshops.</p>
    
 <h4>Job Search Sites</h4>
    <ul><li><a href="http://www.careercornerstone.org/" target="_blank">Sloan Career Cornerstone Center</a></li>
    <li><a href="http://www.ieee.org/careers" target="_blank">IEEE Career &amp; Employment Resources</a></li>
    <li><a href="http://www.engcen.com/" target="_blank">Engineering Central</a></li>
    <li><a href="http://www.ihireengineering.com/" target="_blank">iHireEngineering</a> </li>
-   <li><a href="http://www.engineering-jobs.com/" target="_blank">Engineering Jobs</a></li>
    <li><a href="http://www.thinkenergygroup.com/" target="_blank">Think energygroup.com</a>
    </li>
 </ul>

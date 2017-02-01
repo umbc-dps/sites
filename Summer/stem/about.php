@@ -80,36 +80,42 @@
       <div class="content">
      
   <div class="accordionheader">
+    <h4>Why UMBC?<i class="fa fa-angle-down"></i></h4></div>
+
+    <div class="accordionbody">
+      <p>UMBC  has earned a <a href="http://www.umbc.edu/innovate/">reputation</a> for its innovative culture,  commitment to undergraduate research and excellence in STEM education. At UMBC,  we help prepare the next generation of scientists, engineers, mathematicians  and health professionals to excel in their chosen fields.</p>
+      
+      <p>Experience  Summer STEM at UMBC and see why we've been named &quot;<a href="http://news.umbc.edu/u-s-news-again-honors-umbc-as-a-national-leader-in-innovation-and-teaching/" target="_blank">one of America's most innovative  colleges</a>&quot;  by <em>U.S. News and World Report</em> for five years running.</p>
+</div>
+    
+      <div class="accordionheader">
+    <h4>Why should I participate in Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4></div>
+
+    <div class="accordionbody">
+      <p>Summer STEM at UMBC focuses on student academic success. Summer courses  provide students the opportunity to stay on track, catch up, or get ahead with  course work. Summer is a great time to keep concepts fresh in mind and allow  efforts to be focused on one academic topic. Classes are also smaller and  additional <a href="academicsupport">support</a> is  available for many key courses.</p>
+</div>
+    
+  <div class="accordionheader">
     <h4>Who can participate in Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
-      <p>Any student enrolled in a STEM course during the summer session is automatically part of Summer STEM at UMBC.</p>
-    </div>
+        <p>Any  student enrolled in a STEM course during the summer session is automatically  part of Summer STEM at UMBC.  Students not  currently enrolled at UMBC first need to <a href="http://www.umbc.edu/summer/visitingstudents">apply</a> as  a visiting student.</p>
+       
+        </div>
+        
+        
   <div class="accordionheader">
-    <h4>Who can enroll in STEM courses during the summer session?<i class="fa fa-angle-down"></i></h4></div>
-
-    <div class="accordionbody">
-      <ul>
-        <li><a href="http://www.umbc.edu/summer/umbcstudents" target="_blank">Current UMBC students</a></li>
-        <li><a href="http://www.umbc.edu/summer/incomingstudents" target="_blank">Incoming UMBC students</a> (those admitted to UMBC in fall 2016)</li>
-        <li><a href="http://www.umbc.edu/summer/visitingstudents" target="_blank">Visiting students</a> (students from other institutions admitted for summer 2016)</li>
-        <li>
-          <p><a href="http://www.umbc.edu/undergraduate/apply/early_enroll.html" target="_blank">High school students</a> (qualified high school students who are eligible for early admission to UMBC).</p>
-        </li>
-      </ul>
-      <p>
- </div>
-  <div class="accordionheader">
-    <h4>I am a high school student, can I participate in Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4>
+    <h4>Can high school students participate in Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4>
   </div>
 
     <div class="accordionbody">
-      <p>UMBC offers both <strong>credit </strong>and <strong>non-credit</strong> options for high school students.</p>
-      <p>Qualified high school students can get a jump start on college by enrolling in summer courses at UMBC. Most credits earned can be applied to degree programs at UMBC or are transferable to other colleges and universities. High school students must meet <a href="http://www.umbc.edu/undergraduate/apply/early_enroll.html" target="_blank">early admission</a> requirements to enroll in credit courses at UMBC.</p>
-      <p>Non-credit STEM programs are also available for middle and high school students through UMBC&rsquo;s <a href="http://see.umbc.edu/" target="_blank">Summer Enrichment Experience (SEE)</a>.  A variety of one or two week programs in science, engineering, technology, arts and humanities are offered.</p>
-    </div>
+      <p>UMBC offers both <strong>credit </strong>and <strong>non-credit</strong> options  for high school students.</p>
+        <p>Qualified high school students can get a jump start on college by  enrolling in summer courses at UMBC. Most credits earned can be applied to  degree programs at UMBC or are transferable to other colleges and universities.  High school students must meet <a href="http://www.umbc.edu/undergraduate/apply/early_enroll.html" target="_blank">early  admission</a> requirements to enroll in credit courses at UMBC.</p>
+       <p> Non-credit STEM programs are also available for middle and high school  students through UMBC&rsquo;s <strong>Summer Enrichment Experience</strong> (<a href="http://see.umbc.edu/">SEE</a>).  A variety of one or two  week programs in science, engineering, technology, arts and humanities are  offered.</p>
+</div>
+    
   <div class="accordionheader">
-    <h4>Why should I participate in Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4></div>
+    <h4>What courses are offered during Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
       <p>Summer STEM at UMBC is focused on student academic success. Summer courses provide students the opportunity to stay on track, catch up, or get ahead with course work. Summer is a great time to keep concepts fresh in mind and allow efforts to be focused on one academic topic. In addition, classes are smaller and additional support is available for many key courses.</p>    
@@ -124,42 +130,7 @@
     <h4>What courses are offered during Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4></div>
 
     <div class="accordionbody">
-      <p>Courses are offered in Chemistry, Physics, Biology, Engineering, Computer Science, Geography, Information Systems, Mathematics, and Statistics.</p>
-      <p>Check out the "<a href="http://www.umbc.edu/summerstem/courseinfo" target="_blank">Course Information</a>" page for details about specific course offerings.</p>
-    </div>
-  <div class="accordionheader">
-    <h4>How do I order transcripts for the courses taken during Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4></div>
-
-    <div class="accordionbody">
-      <p>To order transcripts, follow the information provided by the <a href="http://registrar.umbc.edu/services/records/" target="_blank">UMBC Registrar's Office</a>.</p>    
-      </div>
-
-  <div class="accordionheader">
-    <h4>Why UMBC?<i class="fa fa-angle-down"></i></h4></div>
-
-    <div class="accordionbody">
-      <p>UMBC has <a href="http://www.umbc.edu/innovate/" target="_blank">earned a reputation for its innovative culture</a>, commitment to undergraduate research and excellence in STEM education. At UMBC, we help prepare the next generation of scientists, engineers, mathematicians and health professionals to excel in their chosen fields.</p>
-      <p>Experience Summer STEM at UMBC and see why we've been named "<a href="http://bestcolleges.umbc.edu" target="_blank">one of America's most innovative colleges</a>" by <em>U.S. News and World Report</em> for five years running.</p>
-    </div>
-  <div class="accordionheader">
-    <h4>When did Summer STEM at UMBC start?<i class="fa fa-angle-down"></i></h4></div>
-
-    <div class="accordionbody">
-      <p>Summer STEM at UMBC began in 2013. It is a collaborative effort between the <a href="http://www.umbc.edu/CNMS/" target="_blank">College of Natural and Mathematical Sciences</a> with its Departments of <a href="http://www.umbc.edu/biosci/" target="_blank">Biological Sciences</a>, <a href="http://chemistry.umbc.edu" target="_blank">Chemistry &amp; Biochemistry</a>, <a href="http://www.math.umbc.edu/" target="_blank">Mathematics &amp; Statistics</a>, and <a href="http://physics.umbc.edu/" target="_blank">Physics</a>, and the <a href="http://www.umbc.edu/summer/" target="_blank">Office of Summer, Winter &amp; Special Programs</a>.</p>    
-      </div>
-  <div class="accordionheader">
-    <h4>What is the speed of light?<i class="fa fa-angle-down"></i></h4></div>
-
-    <div class="accordionbody">
-      <p>In case curious minds are wondering, light travels at a constant, finite speed of 186,000 miles per second.</p>
-      <p style="font-size:8pt">(source: <a href="https://www.grc.nasa.gov/www/k-12/Numbers/Math/Mathematical_Thinking/how_fast_is_the_speed.htm" target="_blank">https://www.grc.nasa.gov/www/k-12/Numbers/Math/Mathematical_Thinking/how_fast_is_the_speed.htm</a>)</p>
-    </div>
-  <div class="accordionheader">
-    <h4>What is the largest known prime number?<i class="fa fa-angle-down"></i></h4></div>
-
-    <div class="accordionbody">
-      <p>There is no such thing as the absolute largest prime number, but mathematicians and hobbyists keep searching for the next largest prime number. Discovered in 2013, at 17425170 digits long,  2<sup>57885161</sup> - 1 is the largest known prime number.</p>
-      <p style="font-size:8pt">(source: <a href="http://primes.utm.edu/largest.html" target="_blank">http://primes.utm.edu/largest.html</a>)</p>
+      <p>A wide selection of Chemistry,  Physics, Biology, Engineering, Computer Science, Geography, Information Systems,  Mathematics, and Statistics courses are offered during summer session.</p>
     </div>
     </div>
     </div>

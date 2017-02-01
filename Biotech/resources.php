@@ -107,7 +107,7 @@ $lang = 'en';
   <li><a href="http://www.nih.gov" target="_blank">National Institutes of Health</a></li>
   <li><a href="http://www.pda.org/" target="_blank">Parental Drug Association </a></li>
   <li><a href="http://www.prweb.com/releases/2011/3/prweb8187453.htm"  target="_blank">Regulatory Affairs Professional Society </a></li>
-  <li><a href="http://www.simhq.org/"  target="_blank">Society for Industrial Microbiology </a></li>
+  <li><a href="http://www.simbhq.org/"  target="_blank">Society for Industrial Microbiology </a></li>
   <li><a href="http://www.usda.gov" target="_blank">U.S. Department of Agriculture</a></li>
   <li><a href="http://www.energy.gov/sciencetech/index.htm" target="_blank">U.S. Department of Engery </a></li>
   <li><a href="http://www.uspto.gov" target="_blank">U.S. Patent Office </a></li>

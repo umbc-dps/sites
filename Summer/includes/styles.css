@@ -759,7 +759,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 }
 .button:hover,  button:hover,  input[type="submit"]:hover,  input[type="reset"]:hover,  input[type="button"]:hover {
 	color: #000;
-	background: #e9ab13; /* Old browsers */
+	background: #E8AB22; /* Old browsers */
 	 
 	border: 1px solid #888;
 	border-top: 1px solid #aaa;
@@ -767,7 +767,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 }
 .button:active,  button:active,  input[type="submit"]:active,  input[type="reset"]:active,  input[type="button"]:active {
 	border: 1px solid #666;
-	background: #e9ab13; /* Old browsers */ 
+	background: #E8AB22; /* Old browsers */ 
 }
 .button.full-width,  button.full-width,  input[type="submit"].full-width,  input[type="reset"].full-width,  input[type="button"].full-width {
 	width: 100%;

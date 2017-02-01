@@ -107,36 +107,22 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
+<a href="http://publicservicescholars.umbc.edu/" target="_blank">
 <div class="image mobile-left">
-	<img src="images_homepage/teaching.jpg" alt="One">
+	<img src="images_homepage/md.png" alt="One">
 </div>
-<div class="content-details left">
-<a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/">&raquo;</a>
-<div class="title">It's Not Too Late to Apply!</div>
-<div class="tagline">There's still time to apply for Spring 2017! Be sure to submit your Common Application to UMBC by our final deadline of December 1!  Contact Chelsea Moyer at <a href="mailto:csmoyer@umbc.edu">csmoyer@umbc.edu</a> with any questions.  </div>
-<a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Today!</a>
+<div class="content-details right">
+<a class="mobile-seemore" href="http://publicservicescholars.umbc.edu/">&raquo;</a>
+<div class="title">Become a Maryland Public Service Scholar</div>
+<div class="tagline">Learn more about these paid, full time summer internship fellows programs at an information here at USG on 2/8 at 12PM in III-4203.</div>
+<a class="web-seemore" href="http://publicservicescholars.umbc.edu/" target="_blank">Learn More</a>
 </div>
 </a>
 </div>
+
 
 
 <div class="panel panel-2">
-<a href="http://www.umbc.edu/shadygrove/documents/FinalExamSchedule.pdf" target="_blank">
-<div class="image mobile-left">
-	<img src="images_homepage/studying.jpg" alt="One">
-</div>
-<div class="content-details right">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/documents/FinalExamSchedule.pdf">&raquo;</a>
-<div class="title">Final Exams are Here!</div>
-<div class="tagline">Final Exams are now upon us. Find your exam information on your syllabi and/or through USG's schedule.</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/documents/FinalExamSchedule.pdf" target="_blank">Final Exam Schedule</a>
-</div>
-</a>
-</div>
-
-
-<div class="panel panel-3">
 <a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">
 <div class="image mobile-center">
 <img src="images_homepage/truegrit.jpg" alt="Two">
@@ -152,18 +138,20 @@
 
 
 
-<!-- Hide Carousels --
-<div class="panel panel-5">
-<div class="image mobile-left"><img src="images_homepage/5.jpg" alt="5"></div>
+
+<div class="panel panel-3">
+<a href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">
+<div class="image mobile-left"><img src="images_homepage/parking.jpg" alt="Three"></div>
 <div class="content-details right">
-<a class="mobile-seemore" href="#">&raquo;</a>
-<div class="title">National Potato Thread</div>
-<div class="tagline">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-<a class="web-seemore" href="#">Read more &raquo;</a>
+<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">&raquo;</a>
+<div class="title">Spring Parking Permits</div>
+<div class="tagline">If you don't have an annual parking permit, it is time to get your Spring permit to ensure you are covered to park on campus. 
+</div>
+<a class="web-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">Parking Website &raquo;</a>
 </div>
 </div>
 
-
+<!-- Hide Carousels --
   <div class="panel panel-6">
 <div class="image mobile-left"><img src="images_homepage/6.jpg" alt="6"></div>
 <div class="content-details right">
@@ -181,11 +169,12 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/teaching-small.jpg" alt="1"></li>
-<li class="item-2"><img src="images_homepage/studying-small.jpg" alt="2"></li>
-<li class="item-3"><img src="images_homepage/truegrit_sm.jpg" alt="3"></li>
+<li class="item-1"><img src="images_homepage/md_sm.png" alt="1"></li>
+
+<li class="item-2"><img src="images_homepage/truegrit_sm.jpg" alt="2"></li>
+
+<li class="item-3"><img src="images_homepage/parking-small.jpg" alt="3"></li>
 <!-- Hide Preview Images --
-<li class="item-5"><img src="images_homepage/5_tmb.jpg" alt="5"></li>
 <li class="item-6"><img src="images_homepage/6_tmb.jpg" alt="6"></li>
 --> 
 </ul></div>
@@ -341,7 +330,6 @@
 
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
-<li><a href="visit/infosession" target="_blank">Tuesday, December 6, 10:30 a.m.</a></li>
 <li><a href="visit/infosession" target="_blank">Tuesday, February 21, 11:00 a.m.</a></li>
 </ul>
 

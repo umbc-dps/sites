@@ -90,20 +90,36 @@ $lang = 'en';
   </tr>
   <tr>
     <td>BTEC 654 (4447)</td>
-   <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4447" target="_blank">Emerging Topics in Biotechnology (Capstone)</a></td>
-   <td>Wednesday</td>
-   <td>6:00 - 8:45 PM</td>
-   <td>In Person</td>
-   <td>U572</td>
-  </tr>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4447" target="_blank">Emerging Topics in Biotechnology (Capstone)</a></td>
+    <td>Wednesday</td>
+    <td>6:00 - 8:45 PM</td>
+    <td>In Person</td>
+    <td>U572</td>
+    </tr>
+  <tr>
+    <td>BTEC 655 (8424)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/8424" target="_blank">Emerging Topics Seminar</a></td>
+    <td>Wednesday</td>
+    <td>6:00 - 8:45 PM</td>
+    <td>In Person</td>
+    <td>U506</td>
+    </tr>
+  <tr>
+    <td>BTEC 658    (8429)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/8429" target="_blank">Principles of Downstream Processing</a></td>
+    <td>Tuesday</td>
+    <td>6:00 - 8:45 PM</td>
+    <td>In Person</td>
+    <td>Sherman    Hall 464</td>
+    </tr>
   <tr>
     <td>BTEC 662 (7229) </td>
-   <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7229" target="_blank">Good Manufacturing Practices for Bioprocess</a></td>
-   <td>Thursday</td>
-   <td>6:00  - 8:45 PM</td>
-   <td>In  Person</td>
-   <td>PAHB 108</td>
-  </tr>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7229" target="_blank">Good Manufacturing Practices for Bioprocess</a></td>
+    <td>Thursday</td>
+    <td>6:00  - 8:45 PM</td>
+    <td>In  Person</td>
+    <td>PAHB 108</td>
+    </tr>
   <tr>
     <td>BTEC 665 (4477)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4477" target="_blank">Mgmt, Leadership and Communication</a></td>
@@ -111,23 +127,31 @@ $lang = 'en';
     <td> 4:30 - 7:00 PM</td>
     <td>Hybrid</td>
     <td>ITE 231</td>
-  </tr>
+    </tr>
   <tr>
     <td>BTEC 665   (5201)   </td>
-   <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5201" target="_blank">Mgmt, Leadership and Communication</a></td>
-   <td>Tuesday</td>
-   <td>4:30 - 7:00 PM</td>
-   <td>Hybrid</td>
-   <td>ITE 241</td>
-  </tr>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5201" target="_blank">Mgmt, Leadership and Communication</a></td>
+    <td>Tuesday</td>
+    <td>4:30 - 7:00 PM</td>
+    <td>Hybrid</td>
+    <td>ITE 241</td>
+    </tr>
   <tr>
-    <td>BTEC 670 (4475)</td>
-   <td>Legal and Ethical Issues</td>
-   <td>Wednesday</td>
-   <td>6:00 - 8:45 PM</td>
-   <td>In Person</td>
-   <td>ITE 237</td>
-  </tr>
+    <td>BTEC 680 (4448)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4448" target="_blank">Financial Management</a></td>
+    <td>Monday</td>
+    <td>7:10 - 9:40 PM</td>
+    <td>In Person</td>
+    <td>ITE 233</td>
+    </tr>
+  <tr>
+    <td>BTEC 680 (5202)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5202" target="_blank">Financial Management</a></td>
+    <td>Wednesday</td>
+    <td>7:10 - 9:40 PM</td>
+    <td>In Person</td>
+    <td>ITE 229</td>
+    </tr>
   <tr>
     <td>BTEC 685 (5925)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5925" target="_blank">Project Management</a></td>
@@ -135,7 +159,7 @@ $lang = 'en';
     <td> <span data-term="goog_972126465" tabindex="0">6:00 - 8:45 PM</span></td>
     <td>Hybrid</td>
     <td>ITE 229</td>
-  </tr>
+    </tr>
   <tr>
     <td>BTEC 685 (6693)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6693" target="_blank">Project Management</a></td>
@@ -143,7 +167,7 @@ $lang = 'en';
     <td>4:30 - 7:00 PM</td>
     <td>Hybrid</td>
     <td>ITE 239</td>
-  </tr>
+    </tr>
   <tr>
     <td>ENCH 666 (6267)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6267" target="_blank">Biotechnology GMP Facilities Design</a></td>
@@ -151,7 +175,7 @@ $lang = 'en';
     <td>6:00 - 8:45 PM</td>
     <td>In Person</td>
     <td>PAHB 108</td>
-  </tr>
+    </tr>
   </table>
 
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions.php">Directions</a></strong>)</p>

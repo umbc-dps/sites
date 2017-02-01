@@ -6,15 +6,15 @@
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905538617324" remote="131160906500000000" Dst="2" />
 <file name="directions2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905539157378" remote="131160906500000000" Dst="2" />
 <file name="directions3.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905539997462" remote="131160906500000000" Dst="2" />
-<file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905540717534" remote="131160906500000000" Dst="2" />
+<file name="faculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131293297553596304" remote="131293297550000000" Dst="1" />
 <file name="infosession.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905542547717" remote="131160906510000000" Dst="2" />
 <file name="international.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131193724650000000" remote="131193724650000000" Dst="2" />
 <file name="locations.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905543867849" remote="131160906510000000" Dst="2" />
-<file name="masters.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131171383880488376" remote="131171384040000000" Dst="2" />
+<file name="masters.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131302670064105170" remote="131302670240000000" Dst="1" />
 <file name="orientation.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905545097972" remote="131160906510000000" Dst="2" />
 <file name="programmaster.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905545788041" remote="131160906510000000" Dst="2" />
 <file name="rsvp.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905546308093" remote="131160906510000000" Dst="2" />
-<file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131170488930000000" remote="131170488930000000" Dst="2" />
+<file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131293351597580303" remote="131293351600000000" Dst="1" />
 <file name="studentforms.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905547608223" remote="131160906520000000" Dst="2" />
 <file name="studentresources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905548248287" remote="131160906520000000" Dst="2" />
 <file name="thankyou.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905548868349" remote="131160906520000000" Dst="2" />
@@ -23,5 +23,5 @@
 <file name="confirm.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131160905535076970" remote="131160906490000000" Dst="2" />
 <file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131078795395368496" remote="131078795620000000" Dst="2" />
 <file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="130996104770000000" remote="131061518730000000" Dst="2" />
-<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131177335861364276" remote="131177336140000000" Dst="2" />
+<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/hit/" local="131302676447463093" remote="131302676450000000" Dst="1" />
 </dwsync>

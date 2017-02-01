@@ -129,7 +129,6 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-	Wednesday, January 25, 5:00pm<br>
 	Tuesday, February 21, 11:00am<br>
     Friday, March 24, 1:00pm<br>
 	Saturday, April 22: 12:30pm<br>
@@ -173,6 +172,19 @@ For a campus map, directions and parking information, please click <a href="htt
         
 </div>
 
+
+
+<div class="accordionheader">
+		<h4>Undergraduate Information Session Webinar<i class="fa fa-angle-down"></i></h4>
+	</div>
+    
+	<div class="accordionbody">
+<p>
+	Thursday, March 16 at 12:00pm</p>
+	    
+    <a href="https://attendee.gotowebinar.com/register/1618054885695459841" target="_blank" class="button btn-sm">
+	    Register here</a>
+</div>
        
 
 <hr>
@@ -191,10 +203,7 @@ For a campus map, directions and parking information, please click <a href="htt
     
 <div class="accordionbody"> 
 <p>    
-Tuesday, January 24, 2017, 6-7:30 PM</p>
-
-<p><a href="http://www.umbc.edu/shadygrove/io/infosession" target="_blank" class="button btn-sm">
-	    Info Session RSVP</a></p>
+Check back soon for new opportunities.</p>
 </div>
 
 	<div class="accordionheader">
@@ -203,19 +212,23 @@ Tuesday, January 24, 2017, 6-7:30 PM</p>
     
 <div class="accordionbody"> 
 <p>    
-Check back soon for more info session opportunities.
-</p>
+Tuesday, April 6, 2017, 6-7:30 PM</p>
+
+<p><a href="http://www.umbc.edu/shadygrove/gis/infosession" target="_blank" class="button btn-sm">
+	    Info Session RSVP</a></p>
 
 </div>
 
 	<div class="accordionheader">
-		<h4>Cybersecurity Program Director Visit<i class="fa fa-angle-down"></i></h4>
+		<h4>Cybersecurity Info Session<i class="fa fa-angle-down"></i></h4>
 	</div>
     
 <div class="accordionbody"> 
 <p>    
-Check back soon for more info session opportunities.
-</p>
+Tuesday, April 6, 2017, 6-7:30 PM</p>
+
+<p><a href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank" class="button btn-sm">
+	    Info Session RSVP</a></p>
 
 </div>
 

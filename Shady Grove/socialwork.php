@@ -278,7 +278,19 @@ html::after {
 <p><strong><a href="mailto:wiechelt@umbc.edu">Wiechelt, Dr. Shelly</a></strong><br>
     <strong>Courses:</strong> SOWK 470: Social Work Research, SOWK 395: Addictive Behavior Patterns<br>
     <strong>Research/Clinical Areas:</strong> Substance abuse, trauma, diverse populations</p>
-    
+<hr>
+<p><strong>Diebel, Kersha</strong><br>
+    <strong>Courses:</strong> SOWK 260: Introduction to Social Welfare, Social Policy and Social Work I<br>
+    <strong>Research/Clinical Areas: </strong>Reproductive health, social & economic development, community organizing, and health policy.</p>
+<hr> 
+<p><strong>Elie, Oswald</strong><br>
+    <strong>Courses:</strong> SOWK 372 Social Work and Healthcare<br>
+    <strong>Research/Clinical Areas: </strong>Substance Abuse, Traumatic Brain Injury (TBI), Mental Health, Military and Civilian Healthcare.</p>
+<hr>
+<p><strong>Kemah, Tenneh Johnson</strong><br>
+    <strong>Courses:</strong> SOWK 360 Social Welfare, Social Policy and Social Work 2<br>
+    <strong>Research/Clinical Areas: </strong>Substance Abuse, Traumatic Brain Injury (TBI), Mental Health, Military and Civilian Healthcare.</p>
+
 </div>  
 </div>
 </div><br clear-"all">

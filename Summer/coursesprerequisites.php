@@ -2,30 +2,32 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Courses Prerequisites | Summer Programs at UMBC</title>
+<title>Course Prerequisites | Summer Session at UMBC</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Course Prerequisites information for students applying for UMBC's 2016 Summer Session courses." />
+<meta name="description" content="Students must have successfully satisfied the UMBC prerequisite requirements -- or be currently enrolled in the prerequisite course(s) -- before registering in courses with prerequisite requirements." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Courses Prerequisites | Summer Programs at UMBC" />
+<meta property="og:title" content="Course Prerequisites | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.http://umbc.edu/winter/coursesprerequisites" />
-<meta property="og:image" content="http://www.umbc.edu/summer/images/2.jpg" />
-<meta property="og:description" content="Course Prerequisites information for students applying for UMBC's 2016 Summer Session courses." />
+<meta property="og:url" content="http://www.umbc.edu/winter/courseprerequisites" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:description" content="Students must have successfully satisfied the UMBC prerequisite requirements -- or be currently enrolled in the prerequisite course(s) -- before registering in courses with prerequisite requirements." />
+
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
 <link href="css/magnetic-popup.css" rel="stylesheet">
-<link href="http://umbc.edu/dps/css/accordion.css" rel="stylesheet">
+<link href="css/accordion.css" rel="stylesheet">
 
 <!-- Javascript -->
-<script src="http://umbc.edu/dps/js/modernizr.custom.js"></script>
+<script src="js/modernizr.custom.js"></script>
 
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -37,31 +39,31 @@
 <body>
 
 <div id="skip-content">
-<a href="#main-content">Skip to Main Content</a>
+ <a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
-  <!-- UMBC header -->
-      <?php include("includes/umbc-header.php"); ?>
-  <!-- END umbc header -->
-  <div id="site-menu-background">
-    <!-- gold toolbar -->
-      <?php include("includes/gold-nav.php"); ?>
-    <!-- END gold toolbar --> 
-  </div>
+ <!-- UMBC header -->
+   <?php include("includes/umbc-header.php"); ?>
+ <!-- END umbc header -->
+ <div id="site-menu-background">
+  <!-- gold toolbar -->
+   <?php include("includes/gold-nav.php"); ?>
+  <!-- END gold toolbar --> 
+ </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="summer-heading">
+<div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom">
+    <h1 class="remove-bottom" id="summer-heading">
     <img src="images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
+ <div class="sixteen columns">
+  <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
   <h2>Course Prerequisites</h2>
     <!-- END Page Title --> 
@@ -72,135 +74,40 @@
       
      <!-- Start Content --> 
       
-<p>Students must have successfully satisfied the UMBC prerequisite requirements -- or be currently enrolled in the prerequisite course(s) -- before registering in courses with prerequisite requirements.</p>
+<p>You must have successfully satisfied the UMBC prerequisite requirements or be currently enrolled in the prerequisite course(s) before registering in summer 2017 courses with prerequisite requirements.</p>
+
 
 <div class="accordionheader">
-    <h4>View Courses With Prerequisite Requirements<i class="fa fa-angle-down"></i></h4>
+    <h4>Minimum grade requirements<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">
 
-<ul>
-    <a href="all-courses#prereq" target="_blank">Courses with prerequisites</a>
-</ul>
+<p>If you wish to take a summer course that has a prerequisite requirement, and you are currently enrolled in the prerequisite course during the spring semester, you will be granted permission to enroll in the summer course. However, you may be required to verify that your final grade in the spring course meets the minimum grade requirement for the summer course. If the minimum grade criteria is not earned in the spring course, <strong>you must drop your summer course</strong>. Please be aware of the schedule adjustment <a href="http://umbc.edu/summer/importantdates" target="_blank">deadlines</a> and the <a href="http://umbc.edu/summer/financialdates" target="_blank">refund</a> schedule <strong>BEFORE</strong> you enroll.</p>
 </div>
 
-<div class="accordionheader">
-<h4>Search Class Schedule For Course Prerequisites<i class="fa fa-angle-down"></i></h4>
+  <div class="accordionheader">
+    <h4>How to request a prerequisite override<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">
-
-<ul>
-  <li>Go to the <a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch">online schedule of classes</a>.</li>
-  <li>Search by Subject and Catalog #</li>
-  <li>Click on the arrow &gt; at the right side of the screen</li>
-  <li>Look under Enrollment Requirements<br>
-  </li>
-</ul>
+<p>If you receive a registration error indicating that you do not have the appropriate prerequisites, or that you need consent to register, submit a prerequisite override <a href=" https://in-eforms-prd1.ps.umbc.edu/psw-content-forms-server/fs?form=efDPS_CoursePermissions" target="_blank">request</a> to the Office of Summer and Winter Programs. The prerequisite override does<strong> NOT</strong> guarantee your enrollment in the course, so you will want to register as soon as possible to secure your seat in the class.</p>
  </div>   
   
   <div class="accordionheader">
-    <h4>Minimum Grade Requirement<i class="fa fa-angle-down"></i></h4>
-  </div>
-
-  <div class="accordionbody">
-<ul>
-  <li>Students currently enrolled in a course that has a &ldquo;C or better
-  prerequisite requirement" for a summer or winter course will be granted permission to enroll in the
-  upcoming session, but may be required to verify their final grade once
-  current course grades are published.</li>
-
-  <li>Students must drop their course if the minimum grade criteria of the
-  prerequisite course is not met.</li>
-
-  <li>Please be aware of the <a href="importantdates">schedule adjustment deadlines</a> and the refund
-  schedule <strong>BEFORE</strong> you enroll.
-  </li>
-</ul>
- </div>   
-  
-  <div class="accordionheader">
-<h4>Prerequisite Override Request<i class="fa fa-angle-down"></i></h4>
+<h4>How to request a prerequisite override – visiting students<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">
 
-<ul>
-  <li>If you receive a registration error indicating that you do not have the
-  appropriate prerequisites, or that you need consent to register, submit a
-  <a href="contact">prerequisite override request</a> to
-  the Office of Summer and Winter Programs.
-  </li>
+<p>Visiting students who attempt to enroll in a course with prerequisite course requirements will initially be BLOCKED from registering. UMBC’s online registration system cannot automatically verify that the prerequisites have been met at a visiting student’s home institution, even when a transcript has been submitted.</p>
 
-  <li>Students granted a prerequisite override will be given a student-specific
-  registration code to enroll.</li>
+<p>If you receive a registration error indicating that you do not have the appropriate prerequisites to enroll in a summer class, or that you need consent to register, submit a <a href="https://eforms.ps.umbc.edu/imagenowforms/fs?form=efDPS_CoursePermissions" target="_blank">request</a> to the Office of Summer and Winter Programs to have your transcript reviewed. If you have successfully met the prerequisite requirements at your home institution, you will be granted a prerequisite override that will enable you to register.</p>
 
-  <li>Please be aware that a prerequisite override does NOT guarantee your
-  enrollment in the course.&nbsp;</li>
-  
-
-
-  <li>You are still required to register as soon as possible through
-  <em>my</em>UMBC to secure your seat in the class.</li>
-
-</ul>
- </div>   
-  
-  <div class="accordionheader">
-<h4>What to Include in Your Prerequisite Override Request
-<i class="fa fa-angle-down"></i></h4>
+<p>A prerequisite override does <strong>NOT</strong> guarantee your enrollment in the course. Once you are granted permission to enroll, you must register as soon as possible to secure your seat in the class. <a href="http://umbc.edu/summer/contact" target="_blank">Contact</a> the Office of Summer and Winter Programs for assistance.
+</p>
   </div>
-
-  <div class="accordionbody">
-<ul>
-  <li>Your name and UMBC campus ID#.</li>
-
-  <li>The name and number of the UMBC course(s) you wish to enroll in.</li>
-
-  <li>The name and
-  number of the course(s) from your home institution that fulfills the UMBC
-  prerequisite course requirement.</li>
-
-  <li>A copy of your
-  unofficial transcript (if you did not previously submit a transcript with
-  your admission application) that includes the prerequisite course(s) and
-  final grade received.</li>
-
-
-      <li>Please be sure that your transcript clearly shows your name and the name of your home institution.</li>
-        <li>
-    Submit <a href="contact">prerequisite override
-    request</a>.
-  </li>
-</ul>
- </div>   
   
-  <div class="accordionheader">
-<h4>Special Information for Visiting Students<i class="fa fa-angle-down"></i></h4>
-  </div>
-
-  <div class="accordionbody">
-
-<ul>
-  <li>UMBC's registration system does not recognize non-UMBC students&rsquo;
-  prior course history, so visiting students are blocked from registering in
-  any UMBC course with prerequisite requirements.</li>
-
-  <li>Even if you submit your transcript with your admissions application, your
-  non-UMBC course history will NOT be entered into UMBC's registration
-  system.</li>
-
-  <li>When you apply for a prerequisite override, your transcript will be
-  reviewed manually to verify that the appropriate prerequisite requirements
-  have been met.</li>
-  
-  <li><a href="contact">Contact</a> the Office of Summer and
-Winter Programs for assistance.</li>
-</ul>
-</div>
-
-
      <!-- END Content -->
      
 	</div></div></div>
@@ -208,15 +115,16 @@ Winter Programs for assistance.</li>
     <!-- /eleven columns -->
 	</div>
     <!-- SIDEBAR --> 
-    <div class="five columns omega" style="float:right;"> 
-      <?php include("includes/student-types.php"); ?>
+    <div class="five columns omega" style="float:right;padding-top:1em;"> 
+      <?php include("includes/student-types-interior.php"); ?>
     </div>
     <!-- /five columns omega --> 
     <!-- END TOP SIDEBAR-->
   </div>
 
   <footer id="site-footer" class="clearfix">
-    <?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
+    <?php include("includes/social.php"); ?>
     <?php include("includes/tracking.php"); ?>
   </footer>
 </div>
