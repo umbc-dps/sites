@@ -71,10 +71,10 @@
         <div class="narrowchart">
           <div id="accordion">
             <!-- Start Content -->
-            <p>The Office of Summer &amp; Winter Programs awards a limited  number of full and partial scholarships to UMBC degree-seeking students who  have a high GPA are close to graduating. Financial need (determined by the  2016/2017 FAFSA) and the percentage of courses taken at UMBC is also  considered.</p>
+            <p>The Office of Summer &amp; Winter Programs awards a limited  number of full and partial scholarships to UMBC degree-seeking students who  have a high GPA and are close to graduating. Financial need (determined by the  2016/2017 FAFSA) and the percentage of courses taken at UMBC are also  considered.</p>
             
             <div class="accordionheader">
-              <h4>Full scholarships awards</h4>
+              <h4>Full scholarships awards<i class="fa fa-angle-down"></i></h4>
             </div>
             <div class="accordionbody">
 				<p>Full scholarships cover tuition up to 4 credits for ONE summer session course, based on UMBC’s in-state undergraduate or graduate tuition rate.</p>
@@ -173,10 +173,7 @@ Applications that do not meet the minimum qualifications and  requirements are n
               <h4>Apply<i class="fa fa-angle-down"></i></h4>
             </div>
             <div class="accordionbody">
-              <ul>
-                <li>
-                  The summer scholarship application will go live on February 1, 2017.</li>
-              </ul>
+              <p><a href="scholarshipapplication.php">Apply now</a> - the deadline to apply is 5:00 pm on on May 5.</p>
             </div>
 <br>
 <br>

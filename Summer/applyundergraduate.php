@@ -5,18 +5,18 @@
 <title>Application Process for Undergraduate Students | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Use your smart phone, mobile device, or computer to register through myUMBC." />
+<meta name="description" content="Apply by May 24 for Summer Session I and by July 5 for Summer Session II!" />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Application Process for Graduate Students | Summer Session at UMBC" />
+<meta property="og:title" content="Application Process for Undergraduate Students | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/applygraduate" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Use your smart phone, mobile device, or computer to register through myUMBC." />
+<meta property="og:url" content="http://www.umbc.edu/summer/applyundergraduate" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/6.jpg" />
+<meta property="og:description" content="Apply by May 24 for Summer Session I and by July 5 for Summer Session II!" />
 
 
 <!-- CSS -->
@@ -73,29 +73,43 @@
       
      <!-- Start Content --> 
 
-<p>Admission decisions are sent to the e-mail address provided on your application.</p>
-<p>Session I application deadline:	May 24<br>
-  Session II application deadline: July 5 </p>
-
-  <div class="accordionheader">
-    <h4>How to Apply<i class="fa fa-angle-down"></i></h4>
+<p>The deadlines for visiting students to apply for summer admission are:</p>
+<p><strong>Session I:	May 24<br>
+  Session II: July 5 </strong></p>
+  <p>After these deadline dates, the summer application is no longer available.</p>
+<div class="accordionheader">
+    <h4>How to apply<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
   <p>Online applications are managed by our trusted partner <a href="http://www.collegenet.com/elect/app/app" target="_blank">CollegeNET</a> and are safe and secure.</p>
-  <p><a href="https://applyweb.collegenet.com/account/new/create?origin=https%3A%2F%2Fwww.applyweb.com%2Fshibboleth%2Fgatekeeper%3Fdest%3Dhttps%253A%252F%252Fwww.applyweb.com%252Fumbc%252F" target="_blank">Create</a> your CollegeNET account and keep a record of your CollegeNET user name and password. If you save and end your session before you submit your application, you will need your user name and password to regain access the application. Once you create your CollegeNET account, choose the <a href="https://www.applyweb.com/umbc/index.ftl" target="_blank">Visiting Student</a> option to log in to CollegeNET and complete the visiting student application. </p>
+  
+  <p> <a href="https://applyweb.collegenet.com/account/new/create?origin=https%3A%2F%2Fwww.applyweb.com%2Fshibboleth%2Fgatekeeper%3Fdest%3Dhttps%253A%252F%252Fwww.applyweb.com%252Fumbc%252F" target="_blank">Create</a> your CollegeNET account and keep a record of your CollegeNET user name and password. Once you create your CollegeNET account, choose the <a href="https://www.applyweb.com/umbc/index.ftl" target="_blank">Visiting Student</a> option to log in to CollegeNET and complete the visiting student application.</p>
+  
+  <p>If you save and end your session before you submit your application, you will need your CollegeNET user name and password to reopen the online application.</p>
 </div>
 
 
   <div class="accordionheader">
-    <h4>Application Confirmation<i class="fa fa-angle-down"></i></h4>
+    <h4>Application confirmation<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
 
-<p>An e-mail confirmation from CollegeNET is sent immediately after you submit your application. Once your application is forward to UMBC from CollegeNet, you will receive another email confirmation. The UMBC confirmation e-mail will include your UMBC campus ID. It typically takes 3 - 5 business days for UMBC to process applications.</p>
+<p>When you successfully complete and submit your application, you’ll get an immediate confirmation email from <strong>CollegeNET</strong>, which will then forward your application to UMBC within 24 hours.</p>
+
+<p>When UMBC receives your application from CollegeNET, you will get an email from UMBC’s Office of Summer and Winter Programs confirming that your application has been received.</p>
 </div>
 
+<div class="accordionheader">
+    <h4>Summer admission<i class="fa fa-angle-down"></i></h4>
+  </div>
+
+<div class="accordionbody">
+
+<p>It typically takes 3 - 5 business days for UMBC to process visiting student applications and reach an admission decision.  Admission decisions are initially sent to applicants by email. UMBC will also send a follow up admissions decision letter to an applicant’s current mailing address.  The admissions email and letter will include a UMBC campus ID number, which you will use to create a <em>my</em>UMBC account and <a href="https://csprd-web.ps.umbc.edu/psp/csprd/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_LIST.GBL?PORTALPARAM_PTCNAV=HC_SSR_SSENRL_LIST&EOPP.SCNode=HRMS&EOPP.SCPortal=EMPLOYEE&EOPP.SCName=HCCC_ENROLLMENT&EOPP.SCLabel=Enrollment&EOPP.SCPTfname=HCCC_ENROLLMENT&FolderPath=PORTAL_ROOT_OBJECT.CO_EMPLOYEE_SELF_SERVICE.HCCC_ENROLLMENT.HC_SSR_SSENRL_LIST&IsFolder=false" target="_blank">register</a> for classes.</p>
+</div>
+        
      <!-- END Content -->
      
 	</div></div></div>

@@ -65,6 +65,7 @@
   <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
         <h2>Tuition & Fees</h2>
+        <p><em>The information listed below reflects summer 2016 tuition rates.  Summer 2017 tuition rates will be posted at a later date.</em></p>
     <!-- END Page Title -->       
    <div class="content">
   <div class="narrowchart">
@@ -105,7 +106,7 @@
 </div>
 
 <div class="accordionheader">
-	<h4>Pay Your Bill<i class="fa fa-angle-down"></i></h4>
+	<h4>Pay your bill<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">

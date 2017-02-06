@@ -5,7 +5,7 @@
 <title>FAQs | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session FAQs." />
+<meta name="description" content="Find information about academic support services, schedules, grades, parking, housing and more here!" />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -14,9 +14,9 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="FAQs | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/faq" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session FAQs." />
+<meta property="og:url" content="http://www.umbc.edu/summer/faq" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/think-create-engage.jpg" />
+<meta property="og:description" content="Find information about academic support services, schedules, grades, parking, housing and more here!" />
 
 
 <!-- CSS -->
@@ -104,7 +104,7 @@
 </div>
 
  <div class="accordionbody">
-  <p>A limited amount of summer <a href="http://www.umbc.edu/summer/housing" target="_blank">housing</a> options are available.
+  <p>Summer <a href="http://www.umbc.edu/summer/housing" target="_blank">housing</a> is available in on-campus apartments at UMBC. A limited number of spaces in UMBC’s residence halls may also be available.
 </p>
 </div>
 
@@ -131,7 +131,7 @@
 </div>
 
  <div class="accordionbody">
-      <p>Log-in to <a href="http://my.umbc.edu/" target="_blank"><em>my</em>UMBC</a> to check your final grades.  Highlight the Topics menu, then select "Classes & Grades".  Select "Student Grades” and then select the desired "Term/Semester".  Click “Continue” to see your grades.</p>
+      <p>Log-in to <a href="http://my.umbc.edu/" target="_blank"><em>my</em>UMBC</a> to check your final grades.  Highlight the Topics menu, then select "Classes & Grades."  Select "Student Grades” and then select the desired "Term/Semester."  Click “Continue” to see your grades.</p>
  </div>
 
 <div class="accordionheader">
@@ -209,6 +209,22 @@
     <p>Use <em>my</em>UMBC to sign-up for <a href="https://my.umbc.edu/alerts" target="_blank">E2Campus</a> an emergency alert text-messaging system that notifies subscribers of any campus-related emergency such as a potential safety hazard or campus closure due to weather.</p>
 </div>
 
+ <div class="accordionheader">
+  <h4>Where can I find information about diversity and support groups on campus?<i class="fa fa-angle-down"></i></h4>
+ </div>
+
+ <div class="accordionbody">
+ 	<p>UMBC is one of the most diverse campuses in the nation.  Our diversity is reflected through the activities of groups such as the <a href="http://osl.umbc.edu/diversity/mosaic" target="_blank">Mosaic Center</a> for Culture and Diversity, the <a href="http://osl.umbc.edu/diversity/interfaith/" target="_blank">Interfaith Center</a>, the <a href="http://womenscenter.umbc.edu/" target="_blank">Women’s Center</a> , <a href="http://osl.umbc.edu/lgbtq" target="_blank">LGBTQ resources</a> (and many others). These groups exemplify our commitment to diversity and what it brings to campus life, while supporting students to build their awareness and knowledge of diverse people, cultures and belief systems.</p>
+ </div>
+
+<div class="accordionheader">
+  <h4>What student organizations are available at UMBC?<i class="fa fa-angle-down"></i></h4>
+ </div>
+
+ <div class="accordionbody">
+ 	<p><a href="http://osl.umbc.edu/orgs/" target="_blank">Student organizations</a> are created and run by current UMBC students and offer a <a href="http://osl.umbc.edu/orgs/list/" target="_blank">wide array</a> of opportunities to get involved in your campus and local communities. Joining a student organization will broaden your perspectives, open opportunities, and deepen your connection and passion with interests and issues important to you.</p>
+ </div>
+ 
      <!-- END Content -->
      
 	</div></div></div>

@@ -5,19 +5,18 @@
 <title>Academic Support | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session billing details." />
+<meta name="description" content="UMBC is dedicated to student success. Here are the academic support resources available for Summer Session 2017." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Billing | Summer Session at UMBC" />
+<meta property="og:title" content="Academic Support | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/billing" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session billing details." />
-
+<meta property="og:url" content="http://www.umbc.edu/summer/academicsupport" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/tutoring.jpg" />
+<meta property="og:description" content="UMBC is dedicated to student success. Here are the academic support resources available for Summer Session 2017." />
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>

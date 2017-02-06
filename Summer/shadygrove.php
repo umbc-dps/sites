@@ -76,20 +76,25 @@
 
 <p>USG parking <a href="https://shadygrove.umd.edu/about-usg/directions-transportation/parking">permits</a> are required on <a href="https://shadygrove.umd.edu/about-usg/campus-map-tour/printable-campus-map">campus</a>.  Public transportation <a href="https://shadygrove.umd.edu/about-usg/directions-transportation/public-transportation">options</a> are also available.</p>
 
+<p>View <a href="all-courses#shady%20grove">Shady Grove courses</a> offered this summer.  UMBC <a href="all-courses#online">online courses</a> are also  open to USG students.</p>
+
 <div class="accordionheader">
 	<h4>Who can attend<i class="fa fa-angle-down"></i></h4>
   </div>
     
 <div class="accordionbody">
 <p>During summer and winter sessions, classes  at the&nbsp;Universities at Shady Grove are open to&nbsp;<strong>all</strong> UMBC  students, including:  main campus UMBC  students, current UMBC at USG students, incoming transfer students, and visiting  students from other college and universities.</p>
-
-<p>During the fall/spring semesters, only those  students admitted to a designated USG degree program may attend classes at USG.</p>
 </div>
 
-<!--
-<h4>Summer courses</h4>
-<p><a href="http://umbc.edu/summer/all-courses#shady%20grove">View</a> the summer 2017 UMBC courses offered at the  Shady Grove campus.  UMBC <a href="http://umbc.edu/summer/all-courses#online">online</a> courses are also  open to USG students.<strong></strong></p>
--->
+<div class="accordionheader">
+	<h4>Parking and public transportation<i class="fa fa-angle-down"></i></h4>
+  </div>
+    
+<div class="accordionbody">
+	<p>USG parking <a href="https://shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">permits</a> are required on <a href="https://shadygrove.umd.edu/about-usg/campus-map-tour/printable-campus-map" target="_blank">campus</a>.  Public transportation <a href="https://shadygrove.umd.edu/about-usg/directions-transportation/public-transportation" target="_blank">options</a> are also available.</p>
+</div>
+
+
 </div></div>
      <!-- END Content -->
       </div>

@@ -74,11 +74,11 @@
  
 <p>During the first four days of Session I and II, you can add courses, swap courses or drop courses.</p>
 
-<p style="text-align:center">
-<strong style="font-size:150%">Changes that can be made during the schedule adjustment period:</strong><br>
-May  30 - June 2 (Session I) <br>
-July 10 - July 13 (Session II)
-</p>
+<p>
+<strong style="font-size:150%">Schedule Adjustment Periods:</strong>
+<br>
+<strong>May  30 - June 2 (Session I) <br>
+July 10 - July 13 (Session II)</strong></p>
 
 <div class="accordionheader">
     <h4>Add a course:<i class="fa fa-angle-down"></i></h4>
@@ -110,7 +110,7 @@ July 10 - July 13 (Session II)
 <br>
 <br>
 
-<h3 style="font-size:150%"><strong>Changes that can be made after the schedule adjustment period</strong></h3>
+<h3 style="font-size:150%"><strong>Schedule changes after the Schedule Adjustment Period</strong></h3>
 <p>After  June 2 (Session I) or July 13 (Session II), submit a <em>my</em>UMBC <a href="http://registrar.umbc.edu/contact/">Help Request</a> to the Registrar's Office for the following changes: </p>
 
 

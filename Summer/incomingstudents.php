@@ -78,7 +78,7 @@
 
 
 <div class="accordionheader">
-  <h4>How To Change Start Date From Fall To Summer<i class="fa fa-angle-down"></i></h4>
+  <h4>How to change start date from fall to summer<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
@@ -87,7 +87,7 @@
 
 
 <div class="accordionheader">
-  <h4>What To Do After You Change Your Start Date<i class="fa fa-angle-down"></i></h4>
+  <h4>What to do after you change your start date<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
@@ -98,7 +98,7 @@
 
 
 <div class="accordionheader">
-  <h4>Summer Bridge Program For New Freshmen<i class="fa fa-angle-down"></i></h4>
+  <h4>Summer bridge program for new freshmen<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
@@ -109,7 +109,7 @@
 
 
 <div class="accordionheader">
-  <h4>Four-Year Degree Planning Guide<i class="fa fa-angle-down"></i></h4>
+  <h4>Four-year degree planning guide<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
@@ -118,11 +118,11 @@
 
 
 <div class="accordionheader">
-  <h4>Introductory Math Requirements<i class="fa fa-angle-down"></i></h4>
+  <h4>Introductory math requirements<i class="fa fa-angle-down"></i></h4>
  </div>
 
  <div class="accordionbody">
-<p>UMBC’s <a href="http://fye.umbc.edu/files/2016/03/mathPathHandoutFINAL.pdf" target="_blank">MATH PATH</a> illustrates introductory math course requirements for incoming STEM and non-STEM majors.</p>
+<p>UMBC’s <a href="documents/Math_Path_Flyer_2017-07.pdf" target="_blank">MATH PATH</a> illustrates introductory math course requirements for incoming STEM and non-STEM majors.</p>
 </div>
 
      <!-- END Content -->

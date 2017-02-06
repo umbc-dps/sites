@@ -1,6 +1,6 @@
 <nav role="navigation" id="site-menu">
   <ul id="menu-main" class="menu">
-  <li><a href="index">Home</a></li>
+  <li><a href="http://umbc.edu/summer">Home</a></li>
   <li><a href="">Course Info</a>
   	  <ul class="sub-menu">
       	<li><a href="https://www.youtube.com/watch?v=hXIWIzOsn5w" class="video">How to Search Schedule</a></li>
@@ -9,7 +9,9 @@
       	<li><a href="http://umbc.edu/summer/hybrid">Hybrid/Online Courses</a></li>
       	<li><a href="http://umbc.edu/summer/shadygrove">Shady Grove Courses</a></li>
       	<li><a href="http://umbc.edu/summer/coursesprerequisites">Courses with Prerequisites</a></li>
+        <li><a href="http://umbc.edu/summer/all-courses#evening">Evening Courses</a></li>
       	<li><a href="http://umbc.edu/summer/courses">View Schedule of Classes</a></li>
+        
       </ul>
     </li>
     <li><a href="#">Register/Apply</a>

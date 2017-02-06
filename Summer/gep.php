@@ -72,9 +72,11 @@
       
      <!-- Start Content --> 
 
-<p>UMBC undergraduate students are <a href="http://oue.umbc.edu/home/general-education/" target="_blank">required</a> to complete a series of general education (GEP) courses as part of the foundation of a liberal arts education.  
+<p>UMBC undergraduate students are <a href="http://oue.umbc.edu/home/general-education/" target="_blank">required</a> to complete a series of general education (GEP) courses as part of the foundation of a liberal arts education.  </p>
 
-<!--A wide variety of <a href="all-courses.php#gep" target="_blank">GEP courses</a> are offered during summer session.-->
+
+<p>
+View all <a href="all-courses.php#gep" target="_blank">GEP courses</a> offered during summer session.
 
 </p>
 

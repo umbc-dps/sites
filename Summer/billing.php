@@ -5,7 +5,7 @@
 <title>Billing | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session billing details." />
+<meta name="description" content="Summer session billing details." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -14,9 +14,9 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Billing | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/billing" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session billing details." />
+<meta property="og:url" content="http://www.umbc.edu/summer/billing" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/payment.jpg" />
+<meta property="og:description" content="Summer session billing details." />
 
 
 <!-- CSS -->
@@ -79,7 +79,7 @@
   </div>
 
 <div class="accordionbody">
-<a  href="http://my.umbc.edu/" target="_blank">Log-in</a> to <em>my</em>UMBC and highlight the "Topics" menu.  Select "Billing &amp; Personal Finances", and then select <a href="http://sbs.umbc.edu/billing/account-inquiry/" target="_blank">&quot;Account Inquiry&quot;</a>.
+<a  href="http://my.umbc.edu/" target="_blank">Log-in</a> to <em>my</em>UMBC and highlight the "Topics" menu.  Select "Billing &amp; Personal Finances," and then select <a href="http://sbs.umbc.edu/billing/account-inquiry/" target="_blank">&quot;Account Inquiry.&quot;</a>
 </div>
 
 
@@ -89,17 +89,17 @@
 
 <div class="accordionbody">
 
-<a  href="http://my.umbc.edu/" target="_blank">Log-in</a> to <em>my</em>UMBC and highlight the "Topics" menu.  Select "Billing &amp; Personal Finances" and then select <a href="http://sbs.umbc.edu/payments/" target="_blank">&quot;Payments &amp; Billing&quot;</a>.
+<a  href="http://my.umbc.edu/" target="_blank">Log-in</a> to <em>my</em>UMBC and highlight the "Topics" menu.  Select "Billing &amp; Personal Finances" and then select <a href="http://sbs.umbc.edu/payments/" target="_blank">&quot;Payments &amp; Billing.&quot;</a>
 </div>
 
 
   <div class="accordionheader">
-    <h4>Optional payment plan<i class="fa fa-angle-down"></i></h4>
+    <h4>Optional monthly payment plan<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
 
-<p>Pay your tuition with an interest free <a href="http://sbs.umbc.edu/payment-plan-faq/" target="_blank">installment</a> plan.  Enroll by 04/19/2017 to spread your bill over 3 payment dates: 4/20/17, 5/19/17, and 6/20/17.  Enroll by 5/19/17 to spread your bill over 2 payment dates: 5/20/17 and 6/20/17.</p>
+<p>Pay your tuition with an interest free monthly <a href="http://sbs.umbc.edu/payment-plan-faq/" target="_blank">payment</a> plan.  Enroll by April 19 to spread your bill over three payment dates: April 20, May 20, and June 20.  Enroll by May 19 to spread your bill over two payment dates: May 20 and June 20.</p>
   </div>
 
      <!-- END Content -->

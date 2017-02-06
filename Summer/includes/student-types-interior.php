@@ -25,7 +25,8 @@
     <br>
 <a href="http://gritgoing.umbc.edu" class="button" target="_blank">Visit Our Blog</a><br>
 <a href="contact" class="button">Contact Us</a><br><br>
-<a href="courses" class="button gold">View Schedule of Classes</a> 
+<a href="courses" class="button gold">Register For Classes</a> 
+<a href="all-courses" class="button gold">View All Courses</a> 
 
 </aside>
 </div>

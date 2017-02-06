@@ -17,8 +17,8 @@
 <meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
 <meta property="og:description" content="Summer STEM at UMBC promotes academic success in science, technology, engineering and mathematics." />
 
-<link href="../includes/styles.css" rel="stylesheet">
-<link href="../includes/stem-style.css" rel="stylesheet">
+<link href="../css/styles.css" rel="stylesheet">
+<link href="../css/stem-style.css" rel="stylesheet">
 <script src="../includes/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="../images/favicon.ico">
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
@@ -26,7 +26,6 @@
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 </head>
 <body>
-<div id="skip-content"><a href="../#main-content">Skip to Main Content</a></div>
 <div id="container-header-background">
   <!-- UMBC header -->
       <?php include("../includes/umbc-header.php"); ?>
@@ -41,15 +40,17 @@
 </div>
 <!-- BEGIN MAIN -->
 <div class="container column" id="main">
+<div id="summer-heading-stem">
   <a href="http://umbc.edu/summer/stem">
-  <div id="summer-heading-stem">
     <h1 class="remove-bottom">Summer STEM</h1>
-  </div>
   </a>
-  <div class="sixteen columns">
-    <div class="eleven columns alpha" style="padding-top:1em;">
-      <div id="cbp-fwslider" class="cbp-fwslider">
-        <ul>
+</div>  
+
+<div class="sixteen columns">
+	<div class="eleven columns alpha" style="padding-top:1em;">
+		<div id="cbp-fwslider" class="cbp-fwslider">
+
+<ul>
         
 <!-- Slide One -->
          
@@ -97,61 +98,76 @@
           
           -- END Slide Two -->
          
-        </ul>
-        <div id="dotcontainer"></div>
-      </div>
-      <!-- /cbp-fwslider --></div>
-    <!-- /eleven columns -->
-    <div class="five columns omega" style="float:right;"> 
-      <!-- SIDEBAR --> 
+</ul>
+<div id="dotcontainer"></div>
+</div>
+      
+<!-- /cbp-fwslider -->
+</div>
+<!-- /eleven columns -->
+    
+<div class="five columns omega" style="float:right;"> 
+<!-- SIDEBAR -->
       <?php include("../includes/stem-menu.php"); ?>
-    <!-- /five columns omega --> 
-    <!-- END TOP SIDEBAR-->
-    <div style="display:inline; float:left;"> 
-      <!-- NEW ROW -->
-<dl class="eleven columns alpha">
+</div>
+<!-- /five columns omega --> 
+<!-- END TOP SIDEBAR-->
+
+<div style="display:inline; float:left;"> 
+	<dl class="eleven columns alpha">
 <h3><strong>Summer STEM 2017</strong></h3>
 <h6>Summer STEM at UMBC promotes academic success in science, technology, engineering and mathematics by providing high-quality, introductory STEM courses and academic support during UMBC's summer sessions. Summer STEM at UMBC offers the required courses STEM majors need to graduate on time and is open to visiting students, incoming new students, and current UMBC students.</h6>
+
+  <table class="f-dates">
+    <tr>
+      <td>Session</td>
+      <td>Start Date</td>
+      <td>4 Weeks Ends</td>
+      <td>6 Weeks Ends</td>
+      <td>8 Weeks Ends</td>
+      <td>12 Weeks Ends</td>
+    </tr>
+    <tr>
+      <td>I</td>
+      <td>May 30</td>
+      <td>June 23</td>
+      <td>July 07</td>
+      <td>July 21</td>
+      <td>August 18</td>
+    </tr>
+    <tr>
+      <td>II</td>
+      <td>July 10</td>
+      <td>August 04</td>
+      <td>August 18</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+
+<br>
+
+<p style="font-size:7pt; text-align:center">Summer STEM at UMBC is a collaborative effort between the <a href="http://www.umbc.edu/CNMS/" target="_blank">College of Natural and Mathematical Sciences</a>,<br> and the <a href="http://www.umbc.edu/summer/" target="_blank">Office of Summer, Winter &amp; Special Programs</a>.</p>
+
+
+        <br><br>
+<br>
+
+
 </dl>
 
-<br clear="all">
-<br>
-	<h3><strong>May 30 – August 18</strong></h3>
-      <dl class="four columns alpha">
-        <dt>Summer Session I</dt>
-        <dd> 4 week: May 30 — June 23 </dd>
-        <dd>6 week: May 30 — July 7 </dd>
-        <dd>8 week: May 30 — July 21 </dd>
-        <dd>12 week: May 30 — August 18 </dd>
-      </dl>
-      <dl class="four columns omega">
-        <dt>Summer Session II</dt>
-        <dd>4 week: July 10 — August 4</dd>
-        <dd>6 week: July 10 — August 18</dd>
-      </dl>
-      </dl>
 </div>
-
-
-
-<br>
-<br>
-<dl class="ten columns" style="text-align:center">
-<!-- <h4>Learn more about <a href="http://umbc.edu/summer" target="_blank">Summer Session 2016</a>, including how to apply and register.</h4> -->
-<br>
-<p style="font-size:7pt">Summer STEM at UMBC is a collaborative effort between the <a href="http://www.umbc.edu/CNMS/" target="_blank">College of Natural and Mathematical Sciences</a>,<br> and the <a href="http://www.umbc.edu/summer/" target="_blank">Office of Summer, Winter &amp; Special Programs</a>.</p>
-</dl>
-
-  </div>
-
-    </div>
-  </div>
 </div>
-  <footer id="site-footer" class="clearfix">
-    <?php include("../includes/footer.php"); ?>
-    <?php include("../includes/tracking.php"); ?>
-  </footer>
+</div>     
+
+<footer id="site-footer" class="clearfix">
+  <?php include("../includes/footer.php"); ?>
+  <?php include("../includes/social.php"); ?>
+  <?php include("../includes/tracking.php"); ?>
+</footer>
 <!-- container --> 
+
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
  

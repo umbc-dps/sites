@@ -5,7 +5,7 @@
 <title>Contact Us | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Thank you for your interest in UMBC Winter Session 2017!" />
+<meta name="description" content="Thank you for your interest in UMBC Summer Session 2017!" />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -14,9 +14,9 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Contact Us | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/contact" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Thank you for your interest in UMBC Winter Session 2017!" />
+<meta property="og:url" content="http://www.umbc.edu/summer/contact" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/think-create-engage.jpg" />
+<meta property="og:description" content="Thank you for your interest in UMBC Summer Session 2017!" />
 
 
 <!-- CSS -->

@@ -39,43 +39,42 @@
 <body>
 
 <div id="skip-content">
- <a href="#main-content">Skip to Main Content</a>
+<a href="#main-content">Skip to Main Content</a>
 </div>
 
 <div id="container-header-background">
- <!-- UMBC header -->
-   <?php include("includes/umbc-header.php"); ?>
- <!-- END umbc header -->
- <div id="site-menu-background">
-  <!-- gold toolbar -->
-   <?php include("includes/gold-nav.php"); ?>
-  <!-- END gold toolbar --> 
- </div>
+  <!-- UMBC header -->
+      <?php include("includes/umbc-header.php"); ?>
+  <!-- END umbc header -->
+  <div id="site-menu-background">
+    <!-- gold toolbar -->
+      <?php include("includes/gold-nav.php"); ?>
+    <!-- END gold toolbar --> 
+  </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="winter-heading">
-    <a href="index">
-    <h1 class="remove-bottom" id="summer-heading">
-    <img src="images/summer-heading.png" style="width:100%">
+<div class="container column" id="main" style="background:#FFF">  
+	<div id="summer-heading">
+    <a href="index" class="head-link">
+    <h1 class="remove-bottom">
+    <img src="images/summer-heading.png" style="width:100%" id="head-image">
     </h1>
     </a>
   </div>
 
 
- <div class="sixteen columns">
+  <div class="sixteen columns">
+ <br>
+<h2 class="page-title">Summer 2017 Courses</h2>
 
-  <!-- Page Title -->
-        <br>
-<h2>Summer 2017 Courses</h2>
     <!-- END Page Title -->       
-
-      
+     
      <!-- Start Content --> 
 <p>Click on the "More Details" links to provide additional information related to your current search<span class="hide-stem"> (which is shown in the "Search" box)</span>.</p>
 <p>You can switch your current search criteria by clicking on the links to the right of any of the following options: Format &amp; Location, Dates &amp; Times, GEPs, or Prerequisites.</p>
 
 <div class="stem">
-<h4>The 2016 list of Summer STEM courses includes previous course syllabi and 2016 course start dates.</h4>
+<h4>The 2017 list of Summer STEM courses includes previous course syllabi and 2017 course start dates.</h4>
 
 <p>The <strong>course syllabi</strong> are based on prior semesters and  should be used as a planning tool. Current course syllabi are distributed by  course instructions at the beginning of each course. <em>Please note that there  may not be a course syllabus for every listed course.</em><br>
   </p>
@@ -88,30 +87,9 @@
 <strong>Search:</strong> <input type="text" id="search" placeholder="Type to search" height="30px">
 </p>
 
-<p style="font-size:125%; line-height:125%">
-<strong>More Details: </strong><a href="#" class="instructors details">Show Instructors</a> 
-<a href="#" class="instructors no-instructors details" style="display:none">Hide Instructors</a> |
-
-<a href="#" class="time details">Show Times</a> 
-<a href="#" class="time no-time details" style="display:none">Hide Times</a> |
-
-<a href="#" class="prereq details">Show Prerequisites</a> 
-<a href="#" class="prereq no-prereq details" style="display:none">Hide Prerequisites</a> |
-
-<a href="#" class="gep details">Show GEPs</a> 
-<a href="#" class="gep no-gep details" style="display:none">Hide GEPs</a> |
-
-<a href="#" class="campus details">Show Campus</a> 
-<a href="#" class="campus no-campus details" style="display:none">Hide Campus</a> |
-
-<a href="#" class="format details">Show Format</a> 
-<a href="#" class="format no-format details" style="display:none">Hide Format</a> |
-
-<a href="#" class="days details">Show Days</a> 
-<a href="#" class="days no-days details" style="display:none">Hide Days</a>
+<p style="font-size:115%; line-height:125%">
 
 <span class="location">
-<br>
 <strong>Format &amp; Location:</strong>
 <a href="#" class="category">Hybrid</a>
 <a href="#" class="category">Online</a>
@@ -128,9 +106,10 @@
 <!-- Remove for the sessions to go away -->
 <a href="#" class="category">Session 1</a> 
 <a href="#" class="category">Session 2</a> 
-<a href="#" class="category last">12 Week Courses</a>
-</span>
+<a href="#" class="category last">12 Week Course</a>
 <br>
+</span>
+
 
 <span class="geps">
 <strong>GEPs:</strong> 
@@ -157,7 +136,7 @@
 <a href="#" class="category-stem" name="*MATH">Mathematics</a> 
 <a href="#" class="category-stem" name="*PHYS">Physics</a>
 <a href="#" class="category-stem" name="*SCI">Science</a>
-<a href="#" class="category-stem last" name="*STAT">Statistics</a> <br> 
+<a href="#" class="category-stem last" name="*STAT">Statistics</a><br> 
 </span>
 
 
@@ -165,8 +144,34 @@
 <span class="prereq1">
 <strong>Prerequisites:</strong> 
 <a href="#" class="category">Has Prerequisite</a> 
-<a href="#" class="category last">No Prerequisite</a> 
+<a href="#" class="category last">No Prerequisite</a><br><br>
 </span>
+
+
+
+<strong>More Details: </strong><a href="#" class="instructors details">Show Instructors</a> 
+<a href="#" class="instructors no-instructors details" style="display:none">Hide Instructors</a> |
+
+<a href="#" class="time details">Show Times</a> 
+<a href="#" class="time no-time details" style="display:none">Hide Times</a> |
+
+<a href="#" class="sessions details">Show Sessions</a> 
+<a href="#" class="sessions no-sessions details" style="display:none">Hide Sessions</a> |
+
+<a href="#" class="prereq details">Show Prerequisites</a> 
+<a href="#" class="prereq no-prereq details" style="display:none">Hide Prerequisites</a> |
+
+<a href="#" class="gep details">Show GEPs</a> 
+<a href="#" class="gep no-gep details" style="display:none">Hide GEPs</a> |
+
+<a href="#" class="campus details">Show Campus</a> 
+<a href="#" class="campus no-campus details" style="display:none">Hide Campus</a> |
+
+<a href="#" class="format details">Show Delivery Mode</a> 
+<a href="#" class="format no-format details" style="display:none">Hide Delivery Mode</a> |
+
+<a href="#" class="days details">Show Days</a> 
+<a href="#" class="days no-days details" style="display:none">Hide Days</a>
 
 </p>
 
@@ -236,73 +241,78 @@ $('td:nth-child(17)').hide();
 $('td:nth-child(18)').hide();
 $('td:nth-child(19)').hide();
 $('td:nth-child(20)').hide();
+$('td:nth-child(21)').hide();
+$('td:nth-child(22)').hide();
 $('.stem').hide();
 
 $( '.instructors' ).live( 'click', function() {
-  $('td:nth-child(13)').show();
+  $('td:nth-child(15)').show();
   $('a.instructors').toggle();
 });
-
 $( '.no-instructors' ).live( 'click', function() {
-  $('td:nth-child(13)').hide();
+  $('td:nth-child(15)').hide();
+  
 });
-
 $( '.time' ).live( 'click', function() {
-  $('td:nth-child(10)').show();
-  $('td:nth-child(11)').show();
+  $('td:nth-child(12)').show();
+  $('td:nth-child(13)').show();
   $('a.time').toggle();
 });
-
 $( '.no-time' ).live( 'click', function() {
-  $('td:nth-child(10)').hide();
-  $('td:nth-child(11)').hide();
+  $('td:nth-child(12)').hide();
+  $('td:nth-child(13)').hide();
 });
-
-$( '.gep' ).live( 'click', function() {
+$( '.sessions' ).live( 'click', function() {
   $('td:nth-child(5)').show();
   $('td:nth-child(6)').show();
-  $('a.gep').toggle();
+  $('a.sessions').toggle();
 });
-
-$( '.no-gep' ).live( 'click', function() {
+$( '.no-sessions' ).live( 'click', function() {
   $('td:nth-child(5)').hide();
   $('td:nth-child(6)').hide();
 });
-
+$( '.gep' ).live( 'click', function() {
+  $('td:nth-child(7)').show();
+  $('td:nth-child(8)').show();
+  $('a.gep').toggle();
+});
+$( '.no-gep' ).live( 'click', function() {
+  $('td:nth-child(7)').hide();
+  $('td:nth-child(8)').hide();
+});
 $( '.prereq' ).live( 'click', function() {
-  $('td:nth-child(15)').show();
+  $('td:nth-child(17)').show();
   $('a.prereq').toggle();
 });
-
 $( '.no-prereq' ).live( 'click', function() {
-  $('td:nth-child(15)').hide();
+  $('td:nth-child(17)').hide();
 });
 
 $( '.campus' ).live( 'click', function() {
-  $('td:nth-child(7)').show();
+  $('td:nth-child(9)').show();
   $('a.campus').toggle();
 });
 
 $( '.no-campus' ).live( 'click', function() {
-  $('td:nth-child(7)').hide();
+  $('td:nth-child(9)').hide();
 });
 
 $( '.format' ).live( 'click', function() {
-  $('td:nth-child(8)').show();
+  $('td:nth-child(10)').show();
   $('a.format').toggle();
 });
 
 $( '.no-format' ).live( 'click', function() {
-  $('td:nth-child(8)').hide();
+  $('td:nth-child(10)').hide();
 });
 
 $( '.days' ).live( 'click', function() {
-  $('td:nth-child(9)').show();
+  $('td:nth-child(11)').show();
   $('a.days').toggle();
 });
 
 $( '.no-days' ).live( 'click', function() {
-  $('td:nth-child(9)').hide();
+  $('td:nth-child(11)').hide();
 });
 
 
@@ -338,7 +348,7 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 	
 	$( document ).ready(function() {
         if (hash == 'prereq') {
-			$('td:nth-child(15)').show();
+			$('td:nth-child(17)').show();
   			$('a.prereq').toggle();
 			$("#search").val('Has Prerequisite');
 			$("#search").trigger(e);
@@ -346,8 +356,8 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 	
 	$( document ).ready(function() {
         if (hash == 'gep') {
-			$('td:nth-child(5)').show();
-			$('td:nth-child(6)').show();
+			$('td:nth-child(7)').show();
+			$('td:nth-child(8)').show();
 			$('a.gep').toggle();
 			$("#search").val('Has GEP');
 			$("#search").trigger(e);
@@ -355,17 +365,33 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 	
 	$( document ).ready(function() {
         if (hash == 'evening') {
-			$('td:nth-child(10)').show();
-			$('td:nth-child(11)').show();
+			$('td:nth-child(12)').show();
+			$('td:nth-child(13)').show();
 			$('a.time').toggle();
 			$("#search").val('Evening');
+			$("#search").trigger(e);
+	}});
+	
+		$( document ).ready(function() {
+        if (hash == 'online' || hash == 'hybrid') {
+			$('td:nth-child(10)').show();
+			$('a.format').toggle();
+			$("#search").val(hash);
+			$("#search").trigger(e);
+	}});
+	
+		$( document ).ready(function() {
+        if (hash == 'shadygrove') {
+			$('td:nth-child(9)').show();
+			$('a.campus').toggle();
+			$("#search").val('Shady Grove');
 			$("#search").trigger(e);
 	}});
 
 /* Creates Special STEM page.*/
 	$( document ).ready(function() {
         if (hash == 'STEM') {
-			$('td:nth-child(20)').show();
+			$('td:nth-child(22)').show();
 			$('a.sessions').toggle();
 			$('.stem').show();
 			$("#search").val('STEM');
@@ -377,7 +403,7 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 			$('#head-image').attr('src','images/stem.jpg');
 			$('#summer-heading .remove-bottom').css('background-color', '#FFF');
 			$('.head-link').attr('href', 'stem');
-			$(".page-title:contains('Summer 2016 Courses')").html("Summer STEM 2016 Courses");
+			$(".page-title:contains('Summer 2017 Courses')").html("Summer STEM 2017 Courses");
 			$('.searchbox').hide();
 			$('.hide-stem').hide();
 	}});
@@ -386,7 +412,7 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 	$('.course-link').each(function() {
 	var courseURL = $(this).text();
 	var title = $(this).closest('td').siblings(':nth-child(3)').text();
-	var courseFullURL = 'https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2170/' + courseURL;
+	var courseFullURL = 'https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/' + courseURL;
 	$(this).attr("href", courseFullURL);
 	$(this).text(title);
 	$(this).attr("target", "_blank");

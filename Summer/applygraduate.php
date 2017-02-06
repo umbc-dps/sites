@@ -5,7 +5,7 @@
 <title>Application Process for Graduate Students | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Use your smart phone, mobile device, or computer to register through myUMBC." />
+<meta name="description" content="Apply for summer courses through UMBC's Graduate School as a Non-Degree Applicant." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -14,9 +14,9 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Application Process for Graduate Students | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/applygraduate" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Use your smart phone, mobile device, or computer to register through myUMBC." />
+<meta property="og:url" content="http://www.umbc.edu/summer/applygraduate" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/visiting-310.jpg" />
+<meta property="og:description" content="Apply online through UMBC's Graduate School as a Non-Degree Applicant." />
 
 
 <!-- CSS -->
@@ -76,17 +76,18 @@
 <p>Admission decisions are sent to the e-mail address provided on your application.</p>
 
   <div class="accordionheader">
-    <h4>Apply Online<i class="fa fa-angle-down"></i></h4>
+    <h4>Apply online<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">
-<p><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply</a> online through UMBC's Graduate School as a Non-Degree Applicant. Online applications are managed by our trusted partner, <a href="http://www.collegenet.com/elect/app/app" target="_blank">CollegeNET</a> and are safe and secure.  First time applicants must <a href="https://applyweb.collegenet.com/account/new/create?origin=https%3A%2F%2Fwww.applyweb.com%2Fcgi-bin%2Fapplymenu%3Finstcode%3Dumbcg" target="_blank">create</a> their CollegeNET account before applying.  A non-refundable application <a href="http://sbs.umbc.edu/tuition-info/mandatory-fees/" target="_blank">fee</a> of $50 is required to apply online.</p>
+<p>Students who plan to enroll for summer graduate courses at UMBC should <a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">apply</a> online through UMBC's Graduate School as a non-degree applicant. Online applications are managed by our trusted partner, <a href="http://www.collegenet.com/elect/app/app" target="_blank">CollegeNET</a> and are safe and secure. First time applicants must <a href="https://applyweb.collegenet.com/account/new/create?origin=https%3A%2F%2Fwww.applyweb.com%2Fcgi-bin%2Fapplymenu%3Finstcode%3Dumbcg" target="_blank">create</a> their CollegeNET account before applying. A non-refundable application <a href="http://sbs.umbc.edu/tuition-info/mandatory-fees/" target="_blank">fee</a> of $50 is required to apply online.</p>
 
+<p>An admission decision will be sent to the email address provided on your application.</p>
 </div>
 
 
   <div class="accordionheader">
-    <h4>Submit a Paper Application<i class="fa fa-angle-down"></i></h4>
+    <h4>Submit a paper application<i class="fa fa-angle-down"></i></h4>
   </div>
 
 <div class="accordionbody">

@@ -73,23 +73,21 @@
       
      <!-- Start Content --> 
      
-<p>The visiting student application will be available on <strong>February 6</strong>.</p>
-
-<p>
-  Students who attend another college/university must first  apply for UMBC admission.  Visiting  student admission is only valid for the current summer.  Returning visiting students must re-apply.  Applications cannot be accepted after the  below deadline dates:</p>
-  <p>
-  Session I application deadline: May 24<br>
-  Session II application deadline: July 5
-  </p>
+<p>UMBC welcomes students from other colleges and universities who want to earn transferable credits during summer session. The deadlines for visiting students to apply for summer admission are:</p>
+<p><strong>Session I: 	May 24<br>
+  Session II: 	July 5</strong> </p>
+<p>After these deadline dates, the summer application is no longer available.</p>
 
 <div class="accordionheader">
   <h4>Visiting student requirements<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-<p>You  must be in good academic standing at your home institution. If you attend  another University of Maryland System (USM) school, please be aware that USM  inter-institutional enrollment only applies to fall and spring semesters.  Students from other USM schools who wish to enroll in summer or winter session  at UMBC must apply as visiting students.
+<p>You must apply to UMBC as a <strong>visiting student</strong> and be admitted before you can register. Your admission is for a single summer term. If you plan to take classes at UMBC for multiple consecutive terms, or if you intend to enroll in the fall or spring semesters, please apply as a <strong><a href="http://undergraduate.umbc.edu/apply/nondegree.php" target="_blank">non-degree-seeking</a> student</strong>.</p>
 
-</p>
+<p>You must be in good academic standing at your home institution for summer admission to UMBC.  While a transcript is not required for admission, many courses have <a href="http://umbc.edu/summer/all-courses#prereq" target="_blank">prerequisite</a> requirements. If you intend to enroll in a course with prerequisites, you’ll need to provide a transcript from your home institution confirming that you meet the prerequisite requirements before you will be given <a href="coursesprerequisites.php" target="_blank">permission</a> to enroll.<strong>We recommend that you submit an unofficial copy of your transcript when you apply</strong>.</p>
+
+<p>If you attend another University of Maryland System (USM) school, you must still apply as a visiting student, as USM inter-institutional enrollment is not available in summer or winter sessions.</p>
 </div>
 
   
@@ -108,29 +106,44 @@
 </div>
 
 <div class="accordionheader">
-	<h4>What to do after you're admitted<i class="fa fa-angle-down"></i></h4>
+	<h4>Admitted students<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-<p>Once admitted, <a href="https://webadmin.umbc.edu/admin/User/Create">create</a> your <em>my</em>UMBC account with your UMBC campus ID  number and birthdate. Use <em>my</em>UMBC to <a href="registrationtips">register</a> for courses.<strong>  </strong>Visiting  students are initially blocked from UMBC courses with prerequisite  requirements, and must submit a prerequisite override <a href="coursesprerequisites">request</a>.</p>
+<p>You must be admitted as a visiting student before you can enroll in summer classes.</p>
 
-<p>Once registered, you are automatically enrolled in Blackboard, UMBC&rsquo;s online learning management system.  Log-in to your <a href="https://blackboard.umbc.edu/webapps/login/">Blackboard</a> account early to check for updates as faculty often post course  information/materials before the session begins, and check your UMBC <a href="http://my.umbc.edu/">e-mail</a> account on a regular basis for important information  prior to the start of classes.</p>
-
-<p>Be aware of important <a href="importantdates">academic</a> and <a href="financialdates">financial</a> dates/deadlines, including  schedule adjustment dates, when to pay your bill, and refund dates. Review the <a href="faq">FAQ/Services</a> page for important information  concerning parking permits, textbooks, student ID cards, transcripts, bill  payment, campus text alerts, etc.</p>
-
+<p>Once you are admitted, taking these steps will help ensure that your summer experience is a good one.
+	<ul>
+	  <li><a href="https://webadmin.umbc.edu/admin/User/Create" target="_blank">Create</a> your <em>my</em>UMBC account using the UMBC campus ID number provided in your admission letter. Use <em>my</em>UMBC to <a href="http://umbc.edu/summer/registrationtips" target="_blank">register</a> online for courses.</li>
+	  <li>If you attempt to enroll in courses with prerequisite requirements you will initially be BLOCKED from registering. Learn <a href="http://umbc.edu/summer/coursesprerequisites" target="_blank">more</a> about how to enroll in courses with prerequisites.</li>
+	  <li>Once registered, you are automatically enrolled in Blackboard, UMBC’s online learning management system. Log-in to your <a href="https://blackboard.umbc.edu/webapps/login/" target="_blank">Blackboard</a> account <strong>early</strong> to check for updates. Faculty often post course information/assignments in Blackboard before the session begins.</li>
+	  <li>Regularly check your UMBC <a href="http://my.umbc.edu/" target="_blank">e-mail</a> account. The university will communicate with you through this account. Learn how to forward your UMBC account to another email account <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=33851010" target="_blank">here</a>.</li>
+	  <li>Be aware of important <a href="http://umbc.edu/summer/importantdates" target="_blank">academic</a> and <a href="http://umbc.edu/summer/financialdates" target="_blank">financial</a> dates/deadlines, including schedule adjustment dates, when to pay your <a href="http://umbc.edu/summer/billing" target="_blank">bill</a>, and refund dates.</li>
+	  <li>Review <a href="http://umbc.edu/summer/faq" target="_blank">FAQ/Services</a> for information about parking permits, textbooks, student ID cards, transcripts, and bill payment. </li>
+	  <li>Once the session ends, request an official <a href="http://registrar.umbc.edu/services/records/" target="_parent">transcript</a>. You can also download an unofficial transcript through <a href="http://my.umbc.edu/" target="_blank"><em>my</em>UMBC</a>.</li>
+	</ul>
+</p>
 
 </div>
 
 <div class="accordionheader">
-	<h4>Pre-college students (High School & Middle School)<i class="fa fa-angle-down"></i></h4>
+	<h4>Pre-college students<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-<p>UMBC offers both&nbsp;<strong>credit&nbsp;</strong>and&nbsp;<strong>non-credit</strong>&nbsp;options  for pre-college students.</p>
+<p>UMBC offers both&nbsp;<strong>credit&nbsp;</strong>and&nbsp;<strong>non-credit</strong>&nbsp;options  pre-college (high school & middle school) students.</p>
 
-<p>Most credits earned can be applied to degree programs at  UMBC or are transferable to other colleges and universities.   Qualified high school students can get a jump  start on college by enrolling in summer courses at UMBC. High school students  must meet&nbsp;early admission&nbsp;<a href="http://undergraduate.umbc.edu/apply/early-enrollment.php">requirements</a> to enroll in credit courses at UMBC.</p>
+<h5>Credit Courses</h5>
 
-<p>Non-credit programs are also available for middle and high  school students through UMBC&rsquo;s<strong> <a href="http://see.umbc.edu/" target="_blank">Summer  Enrichment Experience (SEE)</a></strong>. A  variety of one or two week programs in science, engineering, technology, arts  and humanities are offered.</p>
+<p>High school graduates can get a jump start on college in summer session. <a href="http://www.umbc.edu/summer/incomingstudents" target="_blank">Incoming</a> UMBC fall students can take summer classes that are required during their first year, including introductory math and writing courses.</p>
+
+<p>High school graduates who will attend other colleges or universities in the fall can also take summer classes at UMBC. Most credits earned are transferable to other institutions.</p>
+
+<p>Current high school students (rising juniors or seniors) are also eligible to enroll in summer session if they meet early admission <a href="http://undergraduate.umbc.edu/apply/early-enrollment.php" target="_blank">requirements</a>. Most credits earned can be applied to degree programs at UMBC or are transferable to other colleges and universities.</p>
+
+<h5>Non-credit Programs</h5>
+
+<p>UMBC’s <a href="http://see.umbc.edu/" target="_blank">Summer Enrichment Experience (SEE)</a> offers a variety of fun and stimulating academic programs for middle and high school students. One and two week programs are available in science, engineering, technology, arts and humanities.</p>
 </div>
 
 

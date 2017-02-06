@@ -14,8 +14,8 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Financial Aid | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/financialaid" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:url" content="http://www.umbc.edu/summer/financialaid" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/6.jpg" />
 <meta property="og:description" content="Financial aid may be available for eligible UMBC students who are making satisfactory academic progress." />
 
 

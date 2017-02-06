@@ -68,17 +68,21 @@
         <h2>Textbooks</h2>
     <!-- END Page Title -->       
       <div class="content">
-      
+      <div id="accordion">
      <!-- Start Content --> 
      
-<p>
+<p>Summer session textbooks are  available in May at the UMBC Bookstore or can be ordered online. Please be aware of the <a href="http://umbc.edu/summer/importantdates">last day</a> textbooks in the same condition as purchased can be returned for a full refund  with a sales receipt.</p>
 
-</p>
+	<div class="accordionheader">
+  		<h4>Search and purchase textbooks and course materials online<i class="fa fa-angle-down"></i></h4>
+	</div>
+
+ 	<div class="accordionbody">
+    	<p>UMBC’s Bookstore <a href="http://bookstore.umbc.edu/home.aspx" target="_blank">website</a> includes the textbooks and materials required for most summer classes. <a href="http://bookstore.umbc.edu/SelectTermDept.aspx" target="_blank">Search</a> by term, department, course number and section. Next, click on "Add Course."  When you’ve added all courses to "Your Current Course List," click on "Get Course Materials," and follow the instructions to purchase. </p>
+     </div>
+    </div>
      <!-- END Content -->
-             <p>Summer session textbooks are  available in May at the UMBC Bookstore or can be ordered online. Please be aware of the <a href="http://umbc.edu/summer/importantdates">last day</a> textbooks in the same condition as purchased can be returned for a full refund  with a sales receipt.</p>
              
-             <p>  <strong>How  to search online for textbooks and course materials</strong><br>
-Begin your search by <a href="http://bookstore.umbc.edu/SelectTermDept.aspx" target="_blank">selecting</a> term,  department, course number and section. <strong>  </strong>Next,<strong> </strong>click on &quot;Add Course&quot;.<strong>  </strong>When all of your courses have been added  to &quot;Your Current Course List&quot;, click on &quot;Get Course  Materials&quot;, and follow the instructions to purchase your course materials.</p>
 
       </div>
     <!-- /eleven columns -->

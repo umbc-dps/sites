@@ -125,8 +125,8 @@
 		<br>
         <h2><strong>Registration Begins March 6</strong></h2>
         <em><h4>Graduate on time (or early)!</h4></em>
-        <p>Summer 2017 schedule of classes is available now. The summer admission application for visiting students will be available on February 6.
-</p>
+        <p>Visiting students from other colleges and universities must first <a href="visitingstudents">apply to UMBC</a> and be admitted before you can register.</p>
+
 
         <h5><strong>Summer Session Dates</strong></h5>
         <table class="f-dates">

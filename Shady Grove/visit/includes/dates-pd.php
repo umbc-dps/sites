@@ -2,7 +2,8 @@
 Wednesday, February 8, 12:00pm<br>
 Wednesday, February 15, 12:00pm<br>
 Wednesday, February 22, 12:00pm<br>
-Wednesday, March 1, 12:00pm
+Wednesday, March 1, 12:00pm<br>
+Wednesday, March 8, 12:00pm
 </h5>
 
 <h5 class="socialwork">

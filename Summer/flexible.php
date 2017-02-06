@@ -2,10 +2,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>GEP Courses | Summer Session at UMBC</title>
+<title>Online, Hybrid, and In-Person Courses | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="We're flexible at UMBC! Summer courses are offered on our main campus, online, and at our Shady Grove Campus." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -14,8 +14,8 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="We're Flexible | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/flexible" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:url" content="http://www.umbc.edu/summer/flexible" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/bk.jpg" />
 <meta property="og:description" content="We're flexible!" />
 
 

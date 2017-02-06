@@ -17,9 +17,9 @@
 <meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
 <meta property="og:description" content="Summer STEM at UMBC promotes academic success in science, technology, engineering and mathematics." />
 
-<link href="../includes/styles.css" rel="stylesheet">
-<link href="../includes/accordion.css" rel="stylesheet">
-<link href="../includes/stem-style.css" rel="stylesheet">
+<link href="../css/styles.css" rel="stylesheet">
+<link href="../css/accordion.css" rel="stylesheet">
+<link href="../css/stem-style.css" rel="stylesheet">
 <script src="includes/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="../images/favicon.ico">
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">

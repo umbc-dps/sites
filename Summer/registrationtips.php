@@ -121,10 +121,7 @@ Advising is not required, but highly recommended for summer registration.
   </div>
 
 <div class="accordionbody">
-<p>Use <a href="http://my.umbc.edu/"><em>my</em>UMBC</a> to place  your name on a waitlist. Check the box &quot;Waitlist if class is  full&quot; when registering. If the class has a waitlist you will be  notified of your position.</p>
-
-<p>
-If a seat opens in a closed course, the top eligible person  on the waitlist is automatically enrolled. You will not be automatically enrolled if  you have a time conflict with another course or if you try to enroll for excess  credits without <a href="excesscredit.php">approval</a>.  <strong>May 27</strong> is the last day students will automatically be enrolled for Session  I.  <strong>July 7</strong> is the last day students will automatically be enrolled for Session  II.  After these dates, <a href="contact">contact</a> the Office of Summer and  Winter Programs for assistance regarding seat availability.</p>
+<p>Once a class reaches its seat capacity, it will close and a waitlist will open. Since students often change their schedule, seats may reopen in a closed course during the registration period. Use <a href="http://my.umbc.edu/"><em>my</em>UMBC</a> to place  your name on a waitlist. Check the box &quot;Waitlist if class is full&quot; when registering. If the class has a waitlist you will be  notified of your position on the list.</p>
 
 </div>
 
@@ -158,7 +155,7 @@ You  may not register for the same course more than two times. You are considere
   </div>
 
 <div class="accordionbody">
-<p>You  are not permitted to register for courses that meets at the same time or  overlaps in meeting patterns. The registration system will block your  enrollment.  If there are extenuating  circumstances, you may be permitted to register for courses that share a time  conflict if the overlap is minimal and BOTH instructors agree to the exception.    To request a time conflict exception,  complete a time conflict <a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">form</a>,  obtain written approval from both instructors, and submit the signed form to  the Registrar&rsquo;s Office before the end of the schedule adjustment <a href="scheduleadjustment">period</a>.
+<p>You  are not permitted to register for courses that meet at the same time or  overlap in meeting patterns. The registration system will block your  enrollment.  If there are extenuating  circumstances, you may be permitted to register for courses that share a time  conflict if the overlap is minimal and BOTH instructors agree to the exception.    To request a time conflict exception,  complete a time conflict <a href="http://registrar.umbc.edu/forms/exceptionappeals-request-forms/" target="_blank">form</a>,  obtain written approval from both instructors, and submit the signed form to  the Registrar&rsquo;s Office before the end of the schedule adjustment <a href="scheduleadjustment">period</a>.
 
 </p>
 </div>

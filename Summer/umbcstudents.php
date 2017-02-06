@@ -71,36 +71,38 @@
    <div class="narrowchart">
   <div id="accordion">
       
-     <!-- Start Content --> 
-<p>Registration for current UMBC students begins <strong>March 6</strong>.  No additional application is necessary.  Advising is recommended, but not required.</p>
-
-
-<div class="accordionheader">
-	<h4>If you are blocked from Summer registration<i class="fa fa-angle-down"></i></h4>
+     <!-- Start Content -->
+     <p>Are you on track to graduate in four years? Summer session is a great way for UMBC students to catch up or get ahead. Registration begins <strong>March 6</strong>.  No application is necessary – currently enrolled students are eligible to register for summer session.  Advising is recommended, but not required.</p>
+     <div class="accordionheader">
+	<h4>Summer schedule planning<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-<p>If  you applied for spring 2017 graduation you will be blocked from summer 2017  registration, and will need to submit an <a href="http://registrar.umbc.edu/contact/" target="_blank">RT ticket</a> to the  Registrar&rsquo;s Office to request summer 2017 registration permission.  If you did not apply for spring graduation  and are unable to register for summer session, <a href="contact">contact</a> the Office of Summer/Winter  Programs.
-</p>
+<p><a href="https://apps.my.umbc.edu/pathways/" target="_blank">Academic Pathways</a> is a degree-planning guide that allows you to search by major for a complete list of the courses you’ll need to graduate from UMBC in four years. Many general education (GEP) and required courses are offered in the summer and winter sessions to help you stay on track and graduate on time.</p>
+<p><a href="https://wiki.umbc.edu/display/faq/College+Scheduler" target="_blank">College Scheduler</a> is a web-based planning tool that helps you plan a schedule of classes that works best for you. Use College Scheduler to choose the courses that are offered when you want to take them. Access to College Scheduler requires an active <a href="http://my.umbc.edu/" target="_blank"><em>my</em>UMBC</a> account.</p>
 </div>
 
 
 <div class="accordionheader">
-	<h4>Registering for session II with session I prerequisites <i class="fa fa-angle-down"></i></h4>
+	<h4>Registering for session II with session I prerequisites<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-<p>A prerequisite  course <a href="coursesprerequisites">override</a> is  required for Session II courses if you are registered for the prerequisite  course in Session I <em>(Example: Taking CHEM  101 in session I and trying to register for CHEM 102 in session II</em>).  You will be required to drop your session II  course(s) if you do not earn the required session I grade.
-
-</p>
+<p>Some courses offered in Session II require prerequisite courses that are offered in Session I. If you attempt to register in the Session II course and have not yet completed the prerequisites for that course, you’ll be blocked from enrolling. If you are currently enrolled in, or plan to enroll in, the prerequisite course in Session I, you can request an <a href="http://www.umbc.edu/summer/coursesprerequisites" target="_blank">override</a> that will allow you to enroll in the Session II course.</p>
+<p><em>For example: You are taking or are scheduled to take CHEM 101 in Session I and you attempt to register for CHEM 102 in Session II.  You will be blocked. You can request an override that will allow you to enroll in CHEM 102 before you complete CHEM 101, thereby ensuring you can secure a seat in CHEM 102.</em></p>
+<p><strong>If you do not earn the required grade in the Session I course to meet the prerequisite requirement in the Session II course, you will be required to drop your Session II course(s).</strong></p>
 </div>
 
 <div class="accordionheader">
-	<h4>Four-year degree planning guide<i class="fa fa-angle-down"></i></h4>
+	<h4>Registration blocks<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-<p><a href="https://apps.my.umbc.edu/pathways/" target="_blank">Academic  Pathways</a> provides a four-year guide to degree planning that  includes course requirements by major.  Many general education (GEP) and required courses  are offered in the summer and winter sessions to help you stay on track and  graduate on time.</p>
+<p>There are a number of reasons why you might be blocked from enrolling in a summer course, including <a href="http://umbc.edu/summer/coursesprerequisites" target="_blank">prerequisite</a> course requirements, attempting to enroll in <a href="http://umbc.edu/summer/excesscredit" target="_blank">too many</a> credits, <a href="http://umbc.edu/summer/registrationtips" target="_blank">time conflicts</a>, and <a href="http://umbc.edu/summer/financialdates" target="_blank">overdue</a> bills.</p>
+
+<p>If you have applied to graduate from UMBC in May 2017, and attempt to register in summer session, you will be blocked from enrolling. Submit an <a href="http://registrar.umbc.edu/contact/" target="_blank">RT ticket</a> to the Registrar’s Office to request permission to enroll.</p>
+
+<p>If you are unable to register for summer session, <a href="http://umbc.edu/summer/contact" target="_blank">contact</a> the Office of Summer and Winter Programs for assistance.</p>
 </div>
 
 <div class="accordionheader">
@@ -108,7 +110,7 @@
 </div>
 
 <div class="accordionbody">
-<p>A  limited number of full and partial tuition <a href="scholarships">scholarships</a> are available.  Consult with your advisor to see if you are  eligible for summer <a href="financialaid">financial aid</a>.</p>
+<p>A limited number of full and partial tuition <a href="scholarships.php" target="_blank">scholarships</a> are available for qualified students.  For some students, financial aid may also be available in summer session. Consult with your financial aid advisor to see if you are eligible for summer <a href="financialaid.php" target="_blank">financial aid</a>.</p>
 </div>
 
 

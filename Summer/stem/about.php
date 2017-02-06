@@ -18,9 +18,9 @@
 <meta property="og:description" content="Summer STEM at UMBC promotes academic success in science, technology, engineering and mathematics." />
 
 
-<link href="../includes/styles.css" rel="stylesheet">
-<link href="../includes/accordion.css" rel="stylesheet">
-<link href="../includes/stem-style.css" rel="stylesheet">
+<link href="../css/styles.css" rel="stylesheet">
+<link href="../css/accordion.css" rel="stylesheet">
+<link href="../css/stem-style.css" rel="stylesheet">
 <script src="includes/modernizr.custom.js"></script>
 <link rel="shortcut icon" href="../images/favicon.ico">
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
@@ -114,12 +114,7 @@
        <p> Non-credit STEM programs are also available for middle and high school  students through UMBC&rsquo;s <strong>Summer Enrichment Experience</strong> (<a href="http://see.umbc.edu/">SEE</a>).  A variety of one or two  week programs in science, engineering, technology, arts and humanities are  offered.</p>
 </div>
     
-  <div class="accordionheader">
-    <h4>What courses are offered during Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4></div>
 
-    <div class="accordionbody">
-      <p>Summer STEM at UMBC is focused on student academic success. Summer courses provide students the opportunity to stay on track, catch up, or get ahead with course work. Summer is a great time to keep concepts fresh in mind and allow efforts to be focused on one academic topic. In addition, classes are smaller and additional support is available for many key courses.</p>    
-      </div>
   <div class="accordionheader">
     <h4>What is the application process for Summer STEM at UMBC?<i class="fa fa-angle-down"></i></h4></div>
 

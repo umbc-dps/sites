@@ -2,10 +2,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Application Process for Graduate Students | Summer Session at UMBC</title>
+<title>Permanent Address Information | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Use your smart phone, mobile device, or computer to register through myUMBC." />
+<meta name="description" content="Applicants seeking in-state residency status as a Maryland resident must first download, complete and submit a signed residency form to the Office of Summer, Winter, and Special Programs for review and approval." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -14,8 +14,8 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Permanent Address Information | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/address" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
+<meta property="og:url" content="http://www.umbc.edu/summer/address" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/paw-prints.jpg" />
 <meta property="og:description" content="Applicants seeking in-state status as a Maryland resident must first download, complete and submit a signed residency form." />
 
 

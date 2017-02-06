@@ -109,7 +109,9 @@
       
      
      <!-- Start Content --> 
-   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>  
+     
+     <h4>Learn how to make a difference – make this summer count!</h4>
+   <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom. Explore concepts of civic engagement, pursue service learning or undergraduate research, and broaden your perspective this summer. Most courses fulfill UMBC’s general education requirements, and summer scholarships are available for qualified students.</p>  
      
   <!-- Modal Baltimore -->
   

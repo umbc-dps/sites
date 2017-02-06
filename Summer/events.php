@@ -5,7 +5,7 @@
 <title>Events | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="There's more to winter at UMBC than what happens in the classroom." />
+<meta name="description" content="There's more to summer at UMBC than what happens in the classroom." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -14,9 +14,9 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Events | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/events" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="There's more to winter at UMBC than what happens in the classroom." />
+<meta property="og:url" content="http://www.umbc.edu/summer/events" />
+<meta property="og:image" content="http://www.umbc.edu/winter/images/survivalguide.jpg" />
+<meta property="og:description" content="There's more to summer at UMBC than what happens in the classroom." />
 
 
 <!-- CSS -->
@@ -71,11 +71,10 @@
   <div class="narrowchart">
  <div id="accordion">
      <!-- Start Content --> 
-<p>There's more to summer at UMBC than what happens in the classroom!  Have fun, and be part of a dynamic learning community while you discover what it takes to be a successful professional.
-</p>
+<p>There's more to summer at UMBC than what happens in the classroom!  While you’re taking summer classes, take advantage of the cultural, fitness and fun activities that UMBC offers.</p>
 
 <div class="accordionheader">
-  <h4>Student Events Board (SEB)<i class="fa fa-angle-down"></i></h4>
+  <h4>Student events<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">
@@ -107,7 +106,7 @@
 </div>
 
 <div class="accordionheader">
-  <h4>UMBC Fitness and Wellness classes<i class="fa fa-angle-down"></i></h4>
+  <h4>Fitness and wellness classes<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">

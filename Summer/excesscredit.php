@@ -2,21 +2,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Winter Session Course Load | Summer Session at UMBC</title>
+<title>Summer Session Course Load | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="During winter session you can register for no more than  4.5 credits, due to the condensed length of the term." />
+<meta name="description" content="Earn up to 16 credits this summer at UMBC! Students are allowed to register for a maximum of 8 credits per session. Highly motivated and academically strong students may be granted permission to enroll in more." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Winter Session Course Load | Summer Session at UMBC" />
+<meta property="og:title" content="Summer Session Course Load | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/excesscredit" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="During winter session you can register for no more than  4.5 credits, due to the condensed length of the term." />
+<meta property="og:url" content="http://www.umbc.edu/Summer/excesscredit" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/reu-workshop-slider.jpg" />
+<meta property="og:description" content="Earn up to 16 credits this summer at UMBC! Students are allowed to register for a maximum of 8 credits per session. Highly motivated and academically strong students may be granted permission to enroll in more." />
 
 
 <!-- CSS -->
@@ -73,7 +73,7 @@
      <!-- Start Content --> 
 <p>Highly motivated and academically strong students may be granted permission to enroll in more than the designated maximum summer/winter course load limits.  Advanced approval is required by both your primary major advisor and the Office of Academic and Pre-Professional Advising to enroll in excess credits.</p>
 <div class="accordionheader">
-    <h4>Summer Session  Course Load<i class="fa fa-angle-down"></i></h4>
+    <h4>Summer session  course load<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">
@@ -81,7 +81,7 @@
   </div>  
      
 <div class="accordionheader">
-    <h4>Winter Session Course Load<i class="fa fa-angle-down"></i></h4>
+    <h4>Winter session course load<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">
@@ -89,7 +89,7 @@
 </div>
 
 <div class="accordionheader">
-    <h4>How to Request Excess Credit Approval<i class="fa fa-angle-down"></i></h4>
+    <h4>How to request excess credit approval<i class="fa fa-angle-down"></i></h4>
   </div>
 
   <div class="accordionbody">

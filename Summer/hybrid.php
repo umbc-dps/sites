@@ -79,8 +79,10 @@
 
  <div class="accordionbody">
 
-<p>Hybrid courses blend in-person and online learning.  Most hybrid courses reduce the number of in-class meetings by replacing some in-person classes with online, out-of-class, or interactive learning activities Hybrid courses require more independent learning on the part of the student than an in-person class.<br>
-<!--A wide variety of <a href="http://umbc.edu/summer/all-courses#hybrid" target="_blank">hybrid courses</a> are offered during summer session.-->
+<p>Hybrid courses blend in-person and online learning.  Most hybrid courses reduce the number of in-class meetings by replacing some in-person classes with online, out-of-class, or interactive learning activities Hybrid courses require more independent learning on the part of the student than an in-person class.</p>
+
+<p>
+View all <a href="http://umbc.edu/summer/all-courses#hybrid" target="_blank">hybrid courses</a> offered during summer session.
 </p>
   </div>
 
@@ -89,8 +91,10 @@
 </div>
 
  <div class="accordionbody">
-<p>Online courses use Blackboard (UMBC's course management system) and emphasize self-directed independent student learning.  Students do not come to campus for class meetings, but instead manage their own learning online.  Online courses eliminate in-person class meetings entirely and move all learning experiences online, using web-based, multi-media resources, commercial software, and automatically evaluated assessments with guided feedback.  In the Schedule of Classes, “Days & Times” are listed as “TBA” for online courses.  
-<!--A wide variety of <a href="http://umbc.edu/summer/all-courses#online" target="_blank">online courses</a> are offered during summer session.--></p>
+<p>Online courses use Blackboard (UMBC's course management system) and emphasize self-directed independent student learning.  Students do not come to campus for class meetings, but instead manage their own learning online.  Online courses eliminate in-person class meetings entirely and move all learning experiences online, using web-based, multi-media resources, commercial software, and automatically evaluated assessments with guided feedback.  In the Schedule of Classes, “Days & Times” are listed as “TBA” for online courses. </p>
+
+<p>
+View all <a href="http://umbc.edu/summer/all-courses#online" target="_blank">online courses</a> offered during summer session.</p>
 </div>
 
 </div>

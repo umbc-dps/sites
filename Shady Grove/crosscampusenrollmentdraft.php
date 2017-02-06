@@ -66,10 +66,30 @@ html::after {
 }
 
 
-
-
-	
-
+/*Mobile Responsive iFrame*/
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper2 {
+	position: relative;
+	padding-bottom: 150%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe, .videoWrapper2 iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+@media screen and (max-width:799px) {
+.videoWrapper2 iframe {height: 275%}
+.videoWrapper2 {margin-bottom: 275%}
+}
 
 </style>
 
@@ -111,12 +131,10 @@ html::after {
       <p>Questions about the practice or this form can be directed to
       <a href="mailto:shadygrove@umbc.edu">shadygrove@umbc.edu</a>.</p>
 
-      <p align="center">
-      <a href="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLScLGG_IH1xVEI9GqdewyCOpHOgItrLhAWDNC
-
-22RXEsfvNbtzg/viewform" target="_blank" class="button">Fill Out a Request Form</a>
-      </p>
-
+		<div class="videoWrapper2">
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLGG_IH1xVEI9GqdewyCOpHOgItrLhAWDNC22RXEsfvNbtzg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        </div>
+<br>
 </div>
     </div> 
 	<!-- END Content -->

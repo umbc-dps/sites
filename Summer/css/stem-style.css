@@ -1,6 +1,7 @@
 #summer-heading-stem {
-	background-image:url(http://www.umbc.edu/winterstem/images/subpg_header_stem_v5.jpg);
-	height:163px;
+	background-image:url(../images/stem.jpg);
+	height:113px;
+	margin: auto;
 }
 #summer-heading-stem h1 {
 	color: #fff;
@@ -23,20 +24,18 @@ h3.students {
 	width: 100%;
 	text-align: center;
 }
-#one:hover, #two:hover, #three:hover, #four:hover, #five:hover, #six:hover, #seven:hover, #stem:hover, #thinkcreateengage:hover {
-	outline: 3px solid #EA2020;
-}
+
 #four {
-	background: url(http://umbc.edu/winter/images/stem-courses-280x168-1.png) top left no-repeat;
+	background: url('../images/classroom_325x180.jpg') top left no-repeat;
 }
 #five {
-	background: url(http://umbc.edu/winter/images/stem-support-280x168-1.png) top left no-repeat;
+	background: url('../images/group-325x180.jpg') top left no-repeat;
 }
 #six {
-	background: url(http://umbc.edu/winter/images/stem-events-280x168.png) top left no-repeat;
+	background: url('../images/lecture-325x180.jpg') top left no-repeat;
 }
 #seven {
-	background: url(http://umbc.edu/winter/images/stem-faq-280x168.png) top left no-repeat;
+	background: url('../images/classroom-325x180.jpg') top left no-repeat;
 }
 
 table#courses { width: 90% }

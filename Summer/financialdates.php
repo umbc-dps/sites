@@ -5,7 +5,7 @@
 <title>Financial Dates | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Important winter session financial dates." />
+<meta name="description" content="Find summer billing and refund dates here, as well as scholarship application deadlines." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -14,9 +14,9 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Financial Dates | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/financialdates" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Important winter session financial dates." />
+<meta property="og:url" content="http://www.umbc.edu/summer/financialdates" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/payment.jpg" />
+<meta property="og:description" content="Find summer billing and refund dates here, as well as scholarship application deadlines." />
 
 
 <!-- CSS -->
