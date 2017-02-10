@@ -88,7 +88,7 @@ $lang = 'en';
 
   <strong>Example:</strong> SUBSCRIBE ISDTS-L jdoe@umbc.edu</p>
 
-<p><strong>NOTE:</strong> Nothing else should be in the body of your e-mail message except this command. Program alumni and other training and development professionals are encouraged to subscribe. For more information on electronic mailing lists, see <a href="https://lists.umbc.edu/lists/help#faq_owner_addsubscribers" target="_blank">Sympa Help</a>.</p>
+<p><strong>NOTE:</strong> Nothing else should be in the body of your e-mail message except this command. Program alumni and other training and development professionals are encouraged to subscribe. For more information on electronic mailing lists, see <a href="https://lists.umbc.edu/sympa/help" target="_blank">Sympa Help</a>.</p>
 
 <h4>Joining the Alumni Listserv</h4>
 <p>If you are an alumni of UMBC’s ISD – Training System Master’s program, or the post-baccalaureate certificates in ISD, Instructional Technology (formerly Computer and Web-based Training) or Distance Education, sign-up for our alumni listserv. This listserv keeps alumni informed of special events, career and professional networking opportunities and professional development seminars.</p>
@@ -99,7 +99,7 @@ $lang = 'en';
 
   <strong>Example:</strong> SUBSCRIBE ISDAlumni jdoe@umbc.edu</p>
 
-<p><strong>NOTE:</strong> Nothing else should be in the body of your e-mail message except this command. For more information on electronic mailing lists, see <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=60293499" target="_blank">Sympa Help</a>.</p>
+<p><strong>NOTE:</strong> Nothing else should be in the body of your e-mail message except this command. For more information on electronic mailing lists, see <a href="https://lists.umbc.edu/sympa/help" target="_blank">Sympa Help</a>.</p>
 <div id="contents" style="display:none"></div>
 
 <!-- END Content -->

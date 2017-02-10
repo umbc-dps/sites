@@ -67,7 +67,7 @@ html::after {
 }
 
 
-option[value*="History"], option[value*="Political Science"], option[value*="Social Work"], .history, .poli, .socialwork  {display:none}
+option[value*="History"], option[value*="Political Science"], option[value*="Social Work"], .history, .poli, .socialwork  {display:none!important}
 
 
 </style>
@@ -172,6 +172,22 @@ $('h4').click(function() {
   $(function() {
     $( "#tabs" ).tabs();
   });
+</script>
+ 
+ <script>
+var vars = [], hash;
+    var q = document.URL.split('?')[1];
+    if(q != undefined){
+        q = q.split('&');
+        for(var i = 0; i < q.length; i++){
+            hash = q[i].split('=');
+            vars.push(hash[1]);
+            vars[hash[0]] = hash[1];
+        }
+}
+$("#entry_1155602363").attr("value", vars['email']);
+$("#entry_1835283191").attr("value", vars['first']);
+$("#entry_741179195").attr("value", vars['last']);
 </script>
  
 </body>

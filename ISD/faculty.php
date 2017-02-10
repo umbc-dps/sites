@@ -240,19 +240,6 @@ $lang = 'en';
 
 <p><strong>E-mail</strong>: <a href="mailto:paul.kellermann@umbc.edu">paul.kellermann@umbc.edu</a></p>
 </div>
- 
- 
- <div class="accordionheader">
-  <h4><a href="petska" id="petska"></a>Deborah Petska | Adjunct Instructor</h4>
- </div>
-
-<div class="accordionbody">
-  <p>B.S., University of Maryland, College Park<br>
-M.A., University of Maryland, Baltimore County</p>
- 
- <p>Ms. Petska is the Director of Workplace Learning at Danya International, Inc. She serves as Danya&rsquo;s internal consultant for a variety of classroom and online training initiatives. She has provided instructional design expertise to many Government-sponsored training initiatives, including a multi-stage pilot training on strategic planning to  eliminate health disparities. Ms. Petska has an extensive background in instructional systems development, adult learning theory, training evaluation design, data collection and analysis; project planning, execution, and management; strategic and tactical analysis; and process improvement. She currently teaches EDUC 603 Instructional Systems Development II and EDUC 689C Project Management for Training Professionals.<BR>
-   <strong>E-Mail:</strong> <a href="mailto:dpetsk1@umbc.edu">dpetsk1@umbc.edu</a></p>
-   </div>
    
  <div class="accordionheader">
   <h4><a href="raudenbush" id="raudenbush"></a>Linda Raudenbush <i class="fa fa-angle-down"></i>| Adjunct Instructor</h4>

@@ -279,7 +279,7 @@ div.subject{background-color:#E0C586;}
             <p>The ISD program gives students the opportunity to receive career services.  Students can take advantage of the services and resources available through   the <a href="http://www.careers.umbc.edu" target="_blank">UMBC Career Service Center</a>.Services include resume review, job search strategies and guidance, job interview preparation and more. In person or phone appointments may be scheduled online (via UMBCworks), in person (Math/Psychology 212), or by phone (410-455-2216).  To schedule an appointment please visit  <a href="http://careers.umbc.edu/aboutus/appointments" target="_blank">http://careers.umbc.edu/aboutus/appointments/</a></p>
             
             <p>
-The program also   regularly receives employment notifications from area businesses that are posted   on the <A href="https://wiki.umbc.edu/display/isdjobs/Home">Job Openings Page</A> and distributed through the Jobs' Listserv. All students should make sure they   subscribe to this list in order to receive these announcements. The program   faculty and staff are available to assist student in locating job opportunities.   </p>
+The program also   regularly receives employment notifications from area businesses that are posted   on the <A href="https://wiki.umbc.edu/display/isdjobs/Home">Job Openings Page</A> and distributed through the <a href="http://umbc.edu/isd/listserv" target="_blank">Jobs' Listserv</a>. All students should make sure they   subscribe to this list in order to receive these announcements. The program   faculty and staff are available to assist student in locating job opportunities. </p>
           </div>
           
           

@@ -1,5 +1,4 @@
 <h5 class="poli">
-Wednesday, February 8, 12:00pm<br>
 Wednesday, February 15, 12:00pm<br>
 Wednesday, February 22, 12:00pm<br>
 Wednesday, March 1, 12:00pm<br>
@@ -8,7 +7,7 @@ Wednesday, March 8, 12:00pm
 
 <h5 class="socialwork">
 Tuesday, February 14, 12:00pm<br>
-Wednesday, March 28, 5:30pm<br>
+Tuesday, March 28, 5:30pm<br>
 Friday, April 28, 12:00pm
 </h5>
   

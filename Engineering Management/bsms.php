@@ -79,8 +79,8 @@ $lang = 'en';
    <li>Contact <a href="mailto:mooretg@umbc.edu">Dr. Thomas Moore</a>, Graduate Program Director to discuss interest and plan of study.</li>
    <li>Complete the <a href="http://gradschool.umbc.edu/files/2015/10/accelerated_BA_MA_application_form.pdf" target="_blank">Accelerated Bachelor's/Master's Application Form</a>.</li>
    <li>Submit copy of undergraduate transcripts to Graduate School.</li>
+   <li>Once approved, complete the <a href="http://gradschool.umbc.edu/files/2015/10/undergrad_request_for_grad_credit.pdf" target="_blank">Approval for Undergraduates to take Courses for Graduate Credit</a>.</li>
    <li>One semester prior to completion of bachelor's degree, submit an <a href="https://www.applyweb.com/umbcg" target="_blank">application</a> for the Master's in Engineering Management program to the Graduate School. The graduate school application fee is waived ($50 online/$70 paper).</li>
-   <li>Once admitted, complete transfer of credits <a href="http://gradschool.umbc.edu/files/2015/10/request_transfer_credit_REV_MAR_12_2013.pdf" target="_blank">form</a> to Graduate School for nine credits.</li>
  </ul>
 
 

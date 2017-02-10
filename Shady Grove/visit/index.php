@@ -163,7 +163,7 @@ For a campus map, directions and parking information, please click <a href="htt
 	<p>
         <strong>Social Work:</strong><br>
 		Tuesday, February 14, 12:00pm<br>	
-		Wednesday, March 28, 5:30pm<br>
+		Tuesday, March 28, 5:30pm<br>
 		Friday, April 28, 12:00pm</p>
   
   <a href="pd" target="_blank" class="button btn-sm"> 

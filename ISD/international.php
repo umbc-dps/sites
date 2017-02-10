@@ -106,7 +106,7 @@ $lang = 'en';
    <li><a href="http://gradschool.umbc.edu/files/2015/10/degree_application.pdf">Completed application for admission and residency forms</a> (or online application and residency forms)</li>
    <li><a href="http://gradschool.umbc.edu/files/2015/10/recommendation_form.pdf">Three letters of recommendations</a></li>
    <li>Graduate School Statement of Goals (included in online or paper application)</li>
-   <li>Official transcripts from undergraduate institution(s)</li>
+   <li>Official transcripts from all higher education institution(s) (Or WES evaluation)</li>
    <LI>Non-refundable application fee ($50 online, $70 paper) </LI>
  </ul>
  <h4>Mailing Instructions </h4>

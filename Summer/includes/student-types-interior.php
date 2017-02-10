@@ -1,5 +1,5 @@
 <center style="background-color:#FEEAAD; width:95%;"><br>
-	<a href="stem"><img src="images/stemlogo.gif" style="width:70%;"></a><br><br></center>
+	<a href="stem"><img src="http://umbc.edu/summer/images/stemlogo.gif" style="width:70%;"></a><br><br></center>
 
  
 <aside class="five columns add-bottom" style="width:100%;margin:0;">

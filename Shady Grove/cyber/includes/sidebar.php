@@ -2,12 +2,22 @@
 
 <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
+            <p style="text-align:center"><strong>Cyber Talk</strong><br>
+      Thursday, February 23, 6:00-8:00 pm<br>
+        <a class="btn" href="talks" target="_blank">RSVP Now</a>
 
 
-      <p style="text-align:center"><strong>UMBC Cybersecurity Info Session</strong><br>
+      
+      <hr style="margin-bottom:0px">
+      
+            <p style="text-align:center"><strong>UMBC Cybersecurity Info Session</strong><br>
       Thursday, April 6, 6-7:30 pm<br>
         <a class="btn" href="http://www.umbc.edu/shadygrove/cyber/infosession" target="_blank">RSVP Now</a>
       </p>
+
+      </p>
+
+
     </aside>
 
     <aside class="five columns add-bottom" id="two">

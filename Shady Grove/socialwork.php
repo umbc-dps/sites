@@ -99,13 +99,13 @@ html::after {
         
           <!-- Slide One -->
           <li id="slide1">
-          <a href="pat#kahn"><img src="images/beth-cocker.png" alt="img03" target="_blank"></a>
-            <div class="carousel-caption-right wordwrap">
-              <h3>Introducing Liana Kahn</h3>
-              Liana is a current social work student, member of UMBC's Peer Advisory Team, and is interested in combining her interest in health and nutrition with her social work practice!
-<p><a href="pat#kahn" role="button" class="web-seemore" target="_blank">Meet Liana</a></p>
+          <a href="visit/pd-socialwork" target="_blank"><img src="images/morris2.jpg" alt="img03" target="_blank"></a>
+            <div class="carousel-caption wordwrap">
+              <h3>Meet Katie Morris, LCSW-C, Program Director</h3>
+             Visit with Social Work Program Director, Katie Morris, LCSW-C, and current social work students to learn more about our program and the opportunities that await you as a future social worker!
+<p><a href="visit/pd-socialwork" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
             </div>
-            <p id="captionthree"><a href="pat#kahn" target="_blank">Meet Liana Kahn, Social Work Student!</a></p>
+            <p id="captionthree"><a href="visit/pd-socialwork" target="_blank">Meet Katie Morris, LCSW-C, Program Director</a></p>
           </li>
          <!-- END Slide One -->
 

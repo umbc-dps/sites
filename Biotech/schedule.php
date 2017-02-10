@@ -68,6 +68,57 @@ $lang = 'en';
  <div class="eleven columns">
  
 <!-- START Content -->
+ <h3>Summer 2017 Schedule of Classes</h3>
+ 
+<p><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session II - 12 Weeks (May 30, 2017 - August 18, 2017)<strong><br>
+Advanced Registration Begins: </strong>March 6, 2017<strong><br>
+  <strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
+	<strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+<table id="schedule">
+  <tr>
+   <td>Course Number/Class Number</td>
+   <td width="25%">Course Title</td>
+   <td width="10%">Day</td>
+   <td width="20%">Time </td>
+   <td width="10%">Format</td>
+   <td width="10%">Classroom</td>
+  </tr>
+  <tr>
+    <td>BTEC 665 (1040)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1040" target="_blank">Mgmt, Leadership and Communication</a></td>
+    <td>Monday</td>
+    <td>4:30 - 7:40 PM</td>
+    <td>Hybrid</td>
+    <td>TBD</td>
+    </tr>
+  <tr>
+    <td>BTEC 655 (2509)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2509" target="_blank">Mgmt, Leadership and Communication</a></td>
+    <td>Tuesday</td>
+    <td>4:30 - 7:40 PM</td>
+    <td>Hybrid</td>
+    <td>TBD</td>
+    </tr>
+  <tr>
+    <td>BTEC 680 (1470)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1470" target="_blank">Financial Management</a></td>
+    <td>Wednesday</td>
+    <td>4:30 - 7:40 PM</td>
+    <td>In Person</td>
+    <td>TBD</td>
+    </tr>
+  <tr>
+    <td>BTEC 685 (2022) </td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2022" target="_blank">Project Management</a></td>
+    <td>Tuesday</td>
+    <td>6:00  - 9:15 PM</td>
+    <td>Hybrid</td>
+    <td>TBD</td>
+    </tr>
+  </table>
+  <p></p>
+  <p>*Course held at UMBC Tech South (<a href="http://www.umbc.edu/biotech/directions.php" target="_blank">directions</a>)</p>
  
 <h3>Spring 2017 Schedule of Classes</h3>
 

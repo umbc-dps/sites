@@ -93,7 +93,7 @@ $lang = 'en';
      <li><a href="http://gradschool.umbc.edu/graduation/reqs" target="_blank">Degree Requirements and Deadlines</a></li>
      <li><a href="http://commencement.umbc.edu/academic-regalia-for-graduate-candidates" target="_blank">Academic Cap &amp; Gown</a></li>
    </ul>
-   <p>The application process is not complete until you submit the Supplemental application by the above deadlines. The supplemental application will be sent to you via your UMBC e-mail account after you complete the online application. (Please allow a few days to receive the supplemental application link from the Graduate School).</p>
+   <p>The application process is not complete until you submit the Supplemental application by the deadlines. The supplemental application will be sent to you via your UMBC e-mail account after you complete the online application. (Please allow a few days to receive the supplemental application link from the Graduate School).</p>
    <p>The supplemental application requests you to contact your department to ensure the confirmation of courses are received. Send Renee Eisenhuth an e-mail (<a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a>) with the courses and the degree you applied to receive, to have this requirement submitted to the Graduate School.</p>
    <p>You must have the program plan of study on your student account to complete the online graduation application.</p>
    <p>More Information about graduation: </strong><a href="http://commencement.umbc.edu/graduate-commencement">Commencement Newsletter</a></p>
@@ -107,8 +107,8 @@ Normally, the fall exam occurs on a weekend either late October/ early November;
    </p>
    <p>Current dates for upcoming exams are:</p>
    <ul>
-     <li><strong>Fall 2016:</strong> October 21 - 24, 2016</li>
      <li><strong>Spring  2017:</strong> March 31 - April 3, 2017</li>
+     <li><strong>Summer  2017:</strong> June 30 - July 3, 2017</li>
    </ul>
    <h4>Applying for the Exam: </h4>
    

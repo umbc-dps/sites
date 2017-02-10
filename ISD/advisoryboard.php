@@ -56,7 +56,7 @@ $lang = 'en';
 <p>UMBC&rsquo;s Instructional Systems Development Advisory Board is comprised of working professionals in the field of instructional design, training, instructional technology, performance improvement, eLearning, workplace learning and more.  They represent a variety of organizations such as IBM, Booz Allen Hamilton, National Security Agency, Oracle Software, CitiFinancial, Aerotek, McCormick &amp; Company, Centers for Medicare and Medicaid and more.</p>
 <p>Their role is to provide the university with ideas and feedback concerning the program curriculum, marketing, students services, employer needs, emerging trends in the field, and more.  The board also provides students with coaching and mentoring, internships, applied learning opportunities and career guidance.</p>
 <div class="accordionheader">
-  <h4><a href="rafi" id="rafi"></a>Rafi Ahmad | Manager/Adjunct Instructor<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="rafi" id="rafi"></a>Rafi Ahmad | Director of Instructional Design/Adjunct Instructor<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -319,7 +319,7 @@ $lang = 'en';
   <STRONG>E-mail:</STRONG> <A href="mailto:raudenbu@umbc.edu">raudenbu@umbc.edu</A></p>
 </div>
 <div class="accordionheader">
-  <h4><a href="miket" id="rafi22"></a>Mike Thorpe | Training Manager at Serco<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="miket" id="rafi22"></a>Mike Thorpe | Program Director- Training at Serco<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -363,6 +363,28 @@ Over the past 32 years, Dr. Weinstein has been appointed as a  member of eight D
 </ul>
 <p><br>
   <strong>E-mail</strong>: <a href="mailto:stuarthw@umbc.edu">stuarthw@umbc.edu</a></p>
+</div>
+
+<div class="accordionheader">
+  <h4><a href="catherine" id="catherine"></a>Catherine Zaranis | CEO and Co-Founder of Perform-Link LLC/Adjunct Instructor</h4>
+</div>
+
+<div class="accordionbody">
+
+ <p>M.A. University of Maryland, Baltimore County<br>
+   B.A. Franklin and Marshall College</p>
+   
+ <p>Catherine Zaranis is an award winning Performance Consultant, Instructional Designer and Educator. In 2012, she founded, Perform-Link, LLC. Perform-link enables individual and organizational excellence by continuously improving quality, systems and leadership to support the mission and the bottom line.</p>
+ 
+ <p>Catherine has led the re-design of instructional content for over 100+ courses for public and private sector clients, government, non-for-profits and higher education. Her high quality and high energy programs are well researched and delivered in a memorable down-to-earth style. </p>
+ 
+ <p>Catherine teaches EDUC 689 Connecting ISD and HPI. Prior to joining the University of Maryland Baltimore County (UMBC) Instructional Systems Development Faculty, Catherine was a successful Senior Leadership Development Consultant with Management Concepts, in Tyson's Corner, Virginia.</p>
+ 
+ <p>She is recognized by industry thought leaders for her expertise in Human Performance Imporment, Consulting, Leadership, Coaching, Learning Technologies, Instructional Systems Development, Training and Inter-Cultural Sensitivity.</p>
+ 
+ <p>Selected to participate in the highly competitive NSF DC I-Corps Program (2014); Received top honors (#1) during the Annual ISPI European Conference Business Simulation (2013); Received an ISPI Chapter of Excellence Award during her term as President (2011); Received the prestigious &quot;UMBC Dr. Marvin Cook Award&quot; for Outstanding Academic Excellence, Service and Entrepreneurship (2010).</p>
+ 
+ <p><strong>E-mail</strong>: <a href="mailto:Cathz1@umbc.edu">Cathz1@umbc.edu</a></p>
 </div>
           
           <div id="contents" style="display:none"></div>

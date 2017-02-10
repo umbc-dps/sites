@@ -96,28 +96,31 @@ html::after {
         <ul>
 
           <!-- Slide One -->
-          <li id="slide1"><a href="https://www.youtube.com/watch?v=7xOc2rYLcws" class="video"><img src="images/hist-slide.jpg" alt="img03"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>History in the making at UMBC!</h3>
-              Think studying history is solely about focusing on the past? Check out how UMBC-Shady Grove History students apply what they learn in the classroom to "real world" opportunities today! 
-<p><a href="https://www.youtube.com/watch?v=7xOc2rYLcws" class="web-seemore video">View Video!</a></p>
-            </div>
-            <p id="captionthree"><a href="https://www.youtube.com/watch?v=7xOc2rYLcws" class="video">History in the making at UMBC!</a></p>
+          <li id="slide1">
+                      <a href="visit/pd-history" target="_blank">
+            	<img src="images/andrew-nolan.png" alt="img03">
+            </a>
+                        <div class="carousel-caption-right wordwrap">
+                          <h3>Meet Dr. Nolan, Program Director</h3>
+                          Visit with Dr. Nolan to learn about our history program as well as internship and career opportunities in the history field.  Meet current history students, too!
+            <p><a href="visit/pd-history" class="web-seemore" target="_blank">RSVP Today!</a></p>
+                        </div>
+                        <p id="captionone"><a href="visit/pd-history" target="_blank">Meet Dr. Nolan, Program Director</a></p>
           </li>
          <!-- END Slide One -->
         
          
           <!-- Slide Two -->
           <li id="slide2">
-          <a href="mailto:csmoyer@umbc.edu">
-          <img src="images/history-capstone.jpg" alt="img02">
-          </a>
-            <div class="carousel-caption wordwrap">
-              <h3>Attend our History Students' Capstones!</h3>
-              Meet current students and view first-hand the knowledge they have gained during their time in our history program. 
-<p><a href="mailto:csmoyer@umbc.edu" role="button" class="web-seemore">RSVP to Chelsea Moyer!</a></p>
-            </div>
-            <p id="captionthree"><a href="mailto:csmoyer@umbc.edu">RSVP to Chelsea Moyer!</a></p>
+            <a href="https://www.youtube.com/watch?v=7xOc2rYLcws" class="video">
+            	<img src="images/hist-slide.jpg" alt="img03">
+            </a>
+                        <div class="carousel-caption wordwrap">
+                          <h3>History in the making at UMBC!</h3>
+                          Think studying history is solely about focusing on the past? Check out how UMBC-Shady Grove History students apply what they learn in the classroom to "real world" opportunities today! 
+            <p><a href="https://www.youtube.com/watch?v=7xOc2rYLcws" class="web-seemore video">View Video!</a></p>
+                        </div>
+                        <p id="captionthree"><a href="https://www.youtube.com/watch?v=7xOc2rYLcws" class="video">History in the making at UMBC!</a></p>
           </li>
          <!-- END Slide Two -->
          

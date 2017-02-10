@@ -97,14 +97,13 @@ html::after {
 
           <!-- Slide One -->
           <li id="slide1">
-          <a href="pat#noy"><img src="images/beth-cocker.png" alt="img03"></a>
-            <div class="carousel-caption wordwrap">
-              <h3>Introducing 
-              Ashley Noy</h3>
-              Ashley is a current psychology student, member of UMBC's Peer Advisory Team, and enjoys being involved on campus. Check out her advice for transfer students!
-				<p><a href="pat#noy" role="button" class="web-seemore" target="_blank">Meet Ashley</a></p>
+          <a href="visit/pd-psychology"><img src="images/alonso-students.jpg" alt="img03"></a>
+            <div class="carousel-caption-right wordwrap">
+              <h3>Meet Dr. Alonso & psychology students!</h3>
+              Visit with Pyschology Program Director, Dr. Alonso, and current  students to learn more about our psychology program and the opportunities available!
+				<p><a href="visit/pd-psychology" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
             </div>
-            <p id="captionthree"><a href="pat#noy">Meet Ashley, Current Psychology Student</a></p>
+            <p id="captionthree"><a href="visit/pd-psychology">Meet Dr. Alonso & psychology students!</a></p>
             
           </li>
          <!-- END Slide One -->

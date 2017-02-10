@@ -83,6 +83,19 @@ background-attachment:fixed;
 
           <!-- Slide One -->
           <li id="slide1">
+            <a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03"></a>
+                <div class="carousel-caption wordwrap">
+                  <h3>Check out Wednesday Wipeout!</h3>
+                  Meet Dr. Dasgupta and engage in discussion surrounding current local, state, and national events with UMBC-Shady Grove students on Wednesdays at 12pm! Make connections & learn more.
+    <p><a href="visit/pd-politicalscience" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
+                </div>
+                <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Check out Wednesday Wipeout!</a></p>
+            
+          </li>
+         <!-- END Slide One -->
+       
+          <!-- Slide Two -->
+          <li id="slide2">
             <a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video"><img src="images/polisci-video.png" alt="img03" target="_blank"></a>
                 <div class="carousel-caption wordwrap">
                   <h3>Political science is more than politics!</h3>
@@ -90,21 +103,6 @@ background-attachment:fixed;
     <p><a href="https://www.youtube.com/watch?v=EOh07F8guP8" role="button" class="web-seemore video" target="_blank">View Video</a></p>
                 </div>
                 <p id="captionthree"><a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video">Video: Poli Sci More Than Politics</a></p>
-            
-          </li>
-         <!-- END Slide One -->
-       
-          <!-- Slide Two -->
-          <li id="slide2">
-            <a href="http://undergraduate.umbc.edu/apply/shady-grove.php">
-            <img src="images/pat.png" alt="img03" target="_blank">
-            </a>
-                <div class="carousel-caption wordwrap">
-                  <h3>Final Application Deadline!</h3>
-                  Don't forget to apply by our final deadline of December 1st!
-    <p><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" role="button" class="web-seemore" target="_blank">Apply Today!</a></p>
-                </div>
-                <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Final Application Deadline!</a></p>
           </li>
         <!-- END Slide Two -->
          

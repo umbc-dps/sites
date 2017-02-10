@@ -110,10 +110,15 @@ $lang = 'en';
 <br>
 <hr>
   
-<h3>Schedule of Classes Fall 2016</h3>
-  <p><strong>Last Day of the Semester:</strong>&nbsp;December 13, 2016<br>
-    <strong>Fall 2016 Academic Calendar:</strong>&nbsp;<a href="http://registrar.umbc.edu/files/2012/06/Fall-2016-Academic-Calendar_FINAL_updated-12.9.pdf">Click Here</a><br>
-  </p>
+<h3>Schedule of Classes Spring 2017</h3>
+  <p><strong>Current Student Registration Begins: </strong>October 31, 2016<br>
+    <strong>New Master/Certificate Student Registration Begins: </strong>December 1, 2016<br>
+    <strong>Non-Degree Student Registration  Begins: </strong>January 23, 2017<br>
+    <strong>Semester Begins: </strong>January 30, 2017<br>
+    <strong>Last Day of Schedule Adjustment  Period:</strong> February 10,  2017<br>
+  <strong>Last Day of the Semester:</strong> May 16, 2017<br>
+  <strong>View</strong> <a href="http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING.pdf">Full Academic Calendar</a></p>
+  
 <table id="schedule">
   <TR>
     <TD width="64">Course   &amp;  
@@ -124,111 +129,97 @@ $lang = 'en';
     <TD width="10%">Room</TD>
 </TR>
   <tr>
-    <td>EDUC 602 – 04 (2150)</td>
-    <td>Instructional Systems Development    I</td>
-    <td>Online Asynchronous</td>
-    <td>Hodell, C.&nbsp;</td>
+    <td>EDUC 602 – 04 (2823)</td>
+    <td>Instructional Systems    Development I</td>
+    <td>Online Asynchronous<</td>
+    <td>Hodell, C.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 603 – 01 (2152)</td>
-    <td>Instructional Systems Development    II</td>
-    <td>Online Asynchronous&nbsp;</td>
+    <td>EDUC 603 – 01 (2008)</td>
+    <td>Instructional Systems    Development II</td>
+    <td>Online Asynchronous</td>
     <td>Campos, J.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 605 – 02 (2153)</td>
+    <td>EDUC 605 – 01 (2010)</td>
     <td>The Adult Learner</td>
     <td>Online Asynchronous</td>
     <td>Hodell, C.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 647 – 01 (2158)</td>
-    <td>Distance Training</td>
-    <td>Online Asynchronous with synchronous sessions on 9/1, 9/21, 10/11, 11/10, and one on either 12/6, 12/7, or 12/8</td>
-    <td>Weinstein, S.</td>
+    <td>EDUC 643 – 01 (2014)</td>
+    <td>Principles of Distance    Education</td>
+    <td>Online Asynchronous</td>
+    <td>Berge, Z.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 671 – 01 (2154)</td>
-    <td>Principles of Training and Development</td>
-    <td>Online Asynchronous</td>
-    <td>Berge, Z.</td>
+    <td>EDUC 648 – 01 (2016)</td>
+    <td>Consulting</td>
+    <td>Online Asynchronous with some    synchronous online sessions</td>
+    <td>Buelow, J.</td>
     <td>n/a</td>
   </tr>
    <tr>
-    <td>EDUC 671 – 01 (2155)</td>
-    <td>Principles of Training and Development</td>
-    <td>Online Asynchronous</td>
-    <td>Berge, Z.</td>
+     <td>EDUC 671 – 01 (2027)</td>
+     <td>Principles of Training and    Development</td>
+     <td>Online Asynchronous</td>
+     <td>Berge, Z.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 681 – 01 (2156)</td>
-    <td>Survey of Instructional Technology Applications</td>
-    <td>Synchronous Online – Mondays 7:10 – 9:40 p.m.</td>
+    <td>EDUC 681 – 01 (2030)</td>
+    <td>Survey of Instructional    Technology Applications</td>
+    <td>Synchronous Online – Mondays    7:10 – 9:40 p.m.</td>
     <td>Kellerman, P.</td>
     <td>n/a</td>
   </tr>
+  <tr>
+    <td>EDUC 681 – 02 (8194)</td>
+    <td>Survey of Instructional    Technology Applications</td>
+    <td>Synchronous Online – Wednesdays    7:10 – 9:40 p.m</td>
+    <td>Young, P.</td>
+    <td>n/a</td>
+  </tr>
    <tr>
-     <td>EDUC 681 – 02 (8237)</td>
-     <td>Survey of Instructional Technology Applications</td>
-     <td>Synchronous Online – Wednesdays 7:10 – 9:40 p.m.</td>
-     <td>Kellerman, P.</td>
+     <td>EDUC 682 – 01 (4561)</td>
+     <td>Instructional Technology Design    and Development</td>
+     <td>Synchronous Online – Wednesdays    7:10 – 9:40 p.m.</td>
+     <td>Berthau, C.</td>
      <td>n/a</td>
    </tr>
    <tr>
-    <td>EDUC 682 – 01 (2157)</td>
-    <td>Survey of Instructional Technology Applications</td>
-    <td>Synchronous Online – Wednesdays 7:10 – 9:40 p.m.</td>
-    <td>Ira, K.</td>
+     <td>EDUC 683 – 01 (2031)</td>
+     <td>Multi-Media Project Management</td>
+     <td>First Two Thursdays will be Synchronous Online 7:10 – 9:40 p.m.; remaining course will be online asynchronous</td>
+     <td>Ahmad, R.</td>
     <td>n/a</td>
   </tr>
    <tr>
-    <td>EDUC 683 – 01 (4783)</td>
-    <td>Multi-Media Project Management</td>
-    <td>First Two Thursdays will be Synchronous Online 7:10 – 9:40 p.m.; remaining course will be online asynchronous</td>
-    <td>Ahmad, R.</td>
+     <td>EDUC 771 – 01 (2036)</td>
+     <td>Research Designs in Education</td>
+     <td>Online Asynchronous<</td>
+     <td>Curran, K.</td>
     <td>n/a</td>
   </tr>
   <tr>
-    <td>EDUC 689 – 01 (6567)</td>
-    <td>Advance Special Topics in Education: Portfolio Development & Talent Management</td>
-    <td>Online Asynchronous</td>
-    <td>Williams, G.</td>
-    <td>n/a</td>
-  </tr>
-   <tr>
-    <td>EDUC 689 – 03 (2233)</td>
-    <td>Advance Special Topics in Education: Design for How People Learn</td>
-    <td>Online Asynchronous</td>
-    <td>Campos, J.</td>
-    <td>n/a</td>
-  </tr>
-   <tr>
-    <td>EDUC 771 – 03 (2258)</td>
-    <td>Research Designs in Education</td>
-    <td>Online Asynchronous</td>
-    <td>Curran, K.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>EDUC 792T – 01 (2255)</td>
+    <td>EDUC 792T – 01 (2039)</td>
     <td>ISD Internship-Training</td>
     <td>Online Asynchronous</td>
     <td>Williams, G.</td>
     <td>n/a</td>
   </tr>
-  <tr>
-    <td>EDUC 794 – 02 (5089)</td>
-    <td>ISD Project Seminar</td>
-    <td>Online Asynchronous</td>
-    <td>Williams, G.</td>
-    <td>n/a</td>
-  </tr>
-</table>
+   <tr>
+     <td>EDUC 794 – 02 (2042)</td>
+     <td>ISD Project Seminar</td>
+     <td>Online Asynchronous</td>
+     <td>Williams, G.</td>
+     <td>n/a</td>
+   </tr>
+   </table>
 <br>
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions3">Directions</a></strong>)</p>
 <hr>
@@ -334,13 +325,6 @@ $lang = 'en';
    <tr>
      <td><a href="courses#EDUC689" target="_blank">EDUC 689: Connecting    ISD and Human Performance Improvement</a></td>
      <td>Elective </td>
-     <td>Online</td>
-     <td></td>
-     <td></td>
-   </tr>
-   <tr>
-     <td><a href="courses#EDUC689-6" target="_blank">EDUC 689: Design for How People Learn</a></td>
-     <td>MA Elective </td>
      <td>Online</td>
      <td></td>
      <td></td>

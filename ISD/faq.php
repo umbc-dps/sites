@@ -179,7 +179,7 @@ h4{font-weight:normal !important; font-size:10pt}
    <a href="" id=""></a>Students applying for the Master&rsquo;s degree must submit   the following materials:</p>
  <UL type="disc">
    <LI><a href="http://gradschool.umbc.edu/admissions/apply">Completed application for admission</a></LI>
-   <LI><a href="http://gradschool.umbc.edu/files/2015/10/residency_form.pdf" target="_blank">Completed residency forms</a></LI>
+   <LI><a href="http://gradschool.umbc.edu/files/2016/08/residency_form.pdf" target="_blank">Completed residency forms</a></LI>
    <LI><a href="http://gradschool.umbc.edu/files/2015/10/recommendation_form.pdf" target="_blank">Three recommendations</a></LI>
    <LI><a href="http://gradschool.umbc.edu/files/2015/10/goals_research_interests.pdf" target="_blank">Graduate School Statement of Goals</a></LI>
    <LI>Official transcripts from undergraduate institution(s)</LI>                     
@@ -223,7 +223,7 @@ h4{font-weight:normal !important; font-size:10pt}
 
 
           <div class="accordionbody">
-            <p>No, an  interview is not required, but   prospective students who may have questions concerning the program can request   an interview.&nbsp;This is an opportunity for you to discuss your career plans and   see how the program can help you reach your goals.&nbsp; Contact Dr. Chuck Hodell,   the assistant graduate program director at <a href="mailto:hodell@umbc.edu">hodell@umbc.edu</a>.&nbsp; </p>
+            <p>No, an  interview is not required, but   prospective students who may have questions concerning the program can request   an interview. This is an opportunity for you to discuss your career plans and   see how the program can help you reach your goals. Contact Dr. Gregory Williams, the program director at <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a>. </p>
 </div>
 
 
@@ -248,7 +248,7 @@ h4{font-weight:normal !important; font-size:10pt}
    <STRONG>SPRING APPLICATION DEADLINE:</STRONG> November 1<BR>
    <STRONG>SUMMER   APPLICATION DEADLINE:</STRONG> March 1 <BR>
    <BR>
-   Applications   that are received at least 6 weeks prior to the start of the semester receive   priority. Applications received in this timeframe normally are processed in time   for the start of the semester, but there are no guarantees.</p>
+   Applications   that are received at least 8 weeks prior to the start of the semester receive   priority. Applications received in this timeframe normally are processed in time   for the start of the semester, but there are no guarantees.</p>
 </div>
 
 
@@ -266,7 +266,7 @@ h4{font-weight:normal !important; font-size:10pt}
 Students applying for the   Post-Baccalaureate certificate must submit the following materials:</p>
  <UL type="disc">
    <LI><a href="http://gradschool.umbc.edu/admissions/apply">Completed application for admission</a></LI>
-   <LI><a href="http://gradschool.umbc.edu/files/2015/10/residency_form.pdf" target="_blank">Completed residency forms</a></LI>
+   <LI><a href="http://gradschool.umbc.edu/files/2016/08/residency_form.pdf" target="_blank">Completed residency forms</a></LI>
    <LI>Unofficial or official transcripts from undergraduate   institution (copies issued to student OK)     </LI>                
    <LI>Non-refundable $50 application fee (online applications)</LI>
  </UL>
@@ -330,7 +330,7 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 </div>
 
 
-<div class="accordionbody"><a href="" id=""></a>Monthly payment   plans are also available.&nbsp; Check the Student Business Services website at <A href="http://www.umbc.edu/bursar/mpp" title="http://www.umbc.edu/bursar/mpp" target="_blank"> http://www.umbc.edu/sbs/mpp.htm </A> for more   details.</p>
+<div class="accordionbody"><a href="" id=""></a>Monthly payment   plans are also available. Check the Student Business Services website at <a href="http://sbs.umbc.edu/payment-plan/" target="_blank"> http://sbs.umbc.edu/payment-plan/</a> for more   details.</p>
 </div>
 
 
@@ -345,7 +345,7 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 
 
           <div class="accordionbody">
-            <p>UMBC&rsquo;s online courses are administered through a campus management system called Blackboard. It is accessed through the student e-mail account you receive when you first become a student at UMBC. The course is structured around a detailed syllabus that provides students with an assignment schedule and other information they will need to complete the course. Most communication within the course takes place on the Discussion Board, an area on your course website where you participate in class discussions and submit assignments. Tutorials for posting to the Discussion board are available on Blackboard that can be found here.</p>
+            <p>UMBC&rsquo;s online courses are administered through a campus management system called Blackboard. It is accessed through the student e-mail account you receive when you first become a student at UMBC. The course is structured around a detailed syllabus that provides students with an assignment schedule and other information they will need to complete the course. Most communication within the course takes place on the Discussion Board, an area on your course website where you participate in class discussions and submit assignments. Tutorials for posting to the Discussion board are available on Blackboard that can be found <a href="https://wiki.umbc.edu/display/faq/Blackboard" target="_blank">here</a>.</p>
 </div>
 
 
@@ -356,17 +356,6 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 
           <div class="accordionbody">
             <p>An asynchronous online course is an eLearning class that does not require students and instructors to be online at the same time. A synchronous online course is an eLearning class that requires students and instructors to be online at the same time. Students can log-in from a PC at any location, as long as it has an internet connection. Please consult the schedule of classes for which method of online delivery and times. </p>
-</div>
-
-
-<div class="accordionheader">
-            <h4><a href="" id=""></a>Can I complete the entire Master&rsquo;s program   and Certificate programs online?<i class="fa fa-angle-down"></i></h4>
-</div>
-
-
-          <div class="accordionbody">
-            <p>Yes. All of the required courses and many   electives for the Master&rsquo;s   program can be completed online. Students can complete the entire Master&rsquo;s degree online (with carefully selected   electives). And all the Instructional Systems Development, Instructional   Technology,&nbsp;and the Distance Education certificates can&nbsp;all be completed   online.<BR>
- </p>
 </div>
 
 
@@ -500,12 +489,12 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 
 
 
-<div class="accordionbody"><a href="" id=""></a>All ISD students must first complete the <a href="advising">advising</a> process for authorization to register. Then register for classes online through MyUMBC. Please check   the <a href="http://www.umbc.edu/registrar" target="_blank">Registrar's website</a> for   details.&nbsp; </p>
+<div class="accordionbody"><a href="" id=""></a>All ISD students must first complete the <a href="advising">advising</a> process for authorization to register. Then register for classes online through MyUMBC. Please check   the <a href="http://registrar.umbc.edu/services/registration/" target="_blank">Registrar's website</a> for   details. </p>
 </div>
 
 
 <div class="accordionheader">
-            <h4><a href="" id=""></a>I am a student in the   Master's/certificate program.&nbsp; I do not plan to take any courses in the upcoming   semester.&nbsp; What do I need to do?<i class="fa fa-angle-down"></i></h4>
+            <h4><a href="" id=""></a>I am a student in the   Master's/certificate program. I do not plan to take any courses in the upcoming   semester. What do I need to do?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 
@@ -520,7 +509,7 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 
 
 
-<div class="accordionbody"><a href="" id=""></a>The Graduate School requires ALL graduate students who   have been admitted to a program (Certificate or Master's) to complete the <strong><u>Academic Integrity Tutorial </u></strong>found on the UMBC Blackboard   Site. Failure to complete the tutorial and pass the test will result in   your&nbsp;registration being blocked for future terms. Information and instructions   for completing the tutorial can be found <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=360#academic-integrity">here</a>.</p>
+<div class="accordionbody"><a href="" id=""></a>The Graduate School requires ALL graduate students who   have been admitted to a program (Certificate or Master's) to complete the <strong><u>Academic Integrity Tutorial </u></strong>found on the UMBC Blackboard   Site. Failure to complete the tutorial and pass the test will result in   your&nbsp;registration being blocked for future terms. Information and instructions   for completing the tutorial can be found <a href="http://gradschool.umbc.edu/students/integrity/">here</a>.</p>
 </div>
 
 
@@ -579,18 +568,18 @@ The Master's program has 7 required courses and 5   electives courses.&nbsp;A va
 
 
 <div class="accordionbody">
-<p>Courses are   offered in the Fall, Spring and Summer.&nbsp;Check   the ISD program <a href="schedule">Course Schedule</a> on the ISD program website for mode of delivery each semester. </p>
+<p>Courses are   offered in the Fall, Spring and Summer. Check   the ISD program <a href="http://www.umbc.edu/isd/schedule#sequence">Course Schedule</a> on the ISD program website for mode of delivery each semester. </p>
 </div>
 
 
 <div class="accordionheader">
-            <h4><a href="" id=""></a>Does the program accept transfer credits?&nbsp;   What is process and criteria for transferring credit?<i class="fa fa-angle-down"></i></h4>
+            <h4><a href="" id=""></a>Does the program accept transfer credits? What is process and criteria for transferring credit?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 
 
 <div class="accordionbody">
-  <p><a href="" id=""></a>Yes, a maximum   of 6 credits (2 courses) may be transferred into UMBC from other schools.&nbsp;The   course may be considered an ISD elective.&nbsp;The course must be at the graduate level, must have been   taken less than five years ago, and may not have been used to earn another   degree. Additional criteria and the process to transfer credits can be found on   the <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=362#transfer-credit-" target="_blank">Graduate School website</a>. </p>
+  <p><a href="" id=""></a>Yes, a maximum   of 6 credits (2 courses) may be transferred into UMBC from other schools.&nbsp;Tansfer courses may only be considered for an ISD elective.&nbsp;The course must be at the graduate level, must have been   taken less than five years ago, and may not have been used to earn another   degree. Additional criteria and the process to transfer credits can be found on   the <a href="http://catalog.umbc.edu/content.php?catoid=14&navoid=720#transfer-credit-" target="_blank">Graduate School website</a>. </p>
   <p>All   12 hours (4 courses) taken for an ISD certificate must be taken at UMBC. These ISD UMBC graduate certificates courses may be   applied towards the Master's degree.</p>
   </p>
 </div>

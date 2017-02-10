@@ -82,9 +82,11 @@ $lang = 'en';
    <p>This annual award is presented to an outstanding student who has demonstrated academic excellence, service and entrepreneurship.</p>
    
 <center>
- <h5>2015 Recipient: Merrie Winfrey</h5>
+ <h5>2016 Recipient: Shelby Byrd</h5>
 <br>
 
+ <h5>2015 Recipient: Merrie Winfrey</h5>
+<br>
  
  <h5>2014 Recipient: Mary Lynn McPherson</h5>
  <p><img src="images/mary-lynn-mcpherson.png" alt="-" width="225" height="140"></p>

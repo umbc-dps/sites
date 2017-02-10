@@ -77,9 +77,9 @@ $lang = 'en';
 <!-- START Content --> 
  <h3>Admissions: Master's Degree </h3>
  <h4>Application Dates</h4>
- <p>The application deadline for Fall is <strong>June 1</strong>.  </p>
- <p>The application deadline for Spring is <strong>November 1</strong>.</p>
- <p>The application deadline for Summer is <strong>March 1</strong>.</p>
+ <p>For best consideration, the priority deadline for Fall is <strong>June 1</strong>.  </p>
+ <p>For best consideration, the priority deadline for Spring is <strong>November 1</strong>.</p>
+ <p>For best consideration, the priority deadline for Summer is <strong>March 1</strong>.</p>
    <p>Non-Degree application deadlines are one week prior to the start of the semester.</p>
  <h4>Admissions Requirements:</h4>
   <UL>
@@ -110,14 +110,14 @@ $lang = 'en';
    <li><a href="http://gradschool.umbc.edu/files/2015/10/degree_application.pdf">Completed application for admission and residency forms</a> (or online application and residency forms)</li>
    <li><a href="http://gradschool.umbc.edu/files/2015/10/recommendation_form.pdf">Three letters of recommendations</a></li>
    <li>Graduate School Statement of Goals (included in online or paper application)</li>
-   <li>Official transcripts from undergraduate institution(s)</li>
+   <li>Official transcripts from all post-secondary institution(s)</li>
    <LI>Non-refundable application fee ($50 online, $70 paper) </LI>
  </ul>
  <h4>Mailing Instructions </h4>
  <p><strong>All application documents should be mailed to:</strong> <br>
    Renee Eisenhuth, Program Coordinator<br>
    ISD - Training Systems Graduate Program<br>
-   1450 Rolling Road<br>
+   1450 S. Rolling Road<br>
    Halethorpe, MD 21227</p>
  <p>Or To<strong>:</strong> <br>
    University of Maryland, Baltimore County<br>

@@ -21,21 +21,21 @@
 
 <!-- CSS -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700' rel='stylesheet' type='text/css'>
-<link href="css/font-awesome.min.css" rel="stylesheet">
-<link href="css/styles.css" rel="stylesheet">
-<link href="css/magnetic-popup.css" rel="stylesheet">
-<link href="css/accordion.css" rel="stylesheet">
-<link rel="stylesheet" href="css/jquery.modal.css" type="text/css" media="screen" />
+<link href="../css/font-awesome.min.css" rel="stylesheet">
+<link href="../css/styles.css" rel="stylesheet">
+<link href="../css/magnetic-popup.css" rel="stylesheet">
+<link href="../css/accordion.css" rel="stylesheet">
+<link rel="stylesheet" href="../css/jquery.modal.css" type="text/css" media="screen" />
 
 <!-- Javascript -->
-<script src="js/modernizr.custom.js"></script>
+<script src="../js/modernizr.custom.js"></script>
 
 
 <!-- Favicons -->
-<link rel="shortcut icon" href="images/favicon.ico">
-<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+<link rel="shortcut icon" href="../images/favicon.ico">
+<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 
 <style>
 .seven.columns{
@@ -58,7 +58,7 @@
 }
 
 .baltimore{
-	background-image:url('images/baltimore.jpg');
+	background-image:url('../images/baltimore.jpg');
 	background-size:cover;
 	font-size:300%;
 	font-weight: bold;
@@ -66,7 +66,7 @@
 
 
 .health{
-	background-image:url('images/baltimore.jpg');
+	background-image:url('../images/baltimore.jpg');
 	background-size:cover;
 	font-size:300%;
 	font-weight: bold;
@@ -82,11 +82,11 @@
 
 <div id="container-header-background">
  <!-- UMBC header -->
-   <?php include("includes/umbc-header.php"); ?>
+   <?php include("../includes/umbc-header.php"); ?>
  <!-- END umbc header -->
  <div id="site-menu-background">
   <!-- gold toolbar -->
-   <?php include("includes/gold-nav.php"); ?>
+   <?php include("../includes/gold-nav.php"); ?>
   <!-- END gold toolbar --> 
  </div>
 </div>
@@ -94,7 +94,7 @@
 <div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
     <h1 class="remove-bottom" id="summer-heading">
-    <img src="images/summer-heading.png" style="width:100%">
+    <img src="../images/summer-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
@@ -166,9 +166,9 @@
   </div>
 
   <footer id="site-footer" class="clearfix">
-	<?php include("includes/footer.php"); ?>
-    <?php include("includes/social.php"); ?>
-    <?php include("includes/tracking.php"); ?>
+	<?php include("../includes/footer.php"); ?>
+    <?php include("../includes/social.php"); ?>
+    <?php include("../includes/tracking.php"); ?>
   </footer>
 </div>
 <!-- container --> 
@@ -176,10 +176,10 @@
 <script src="//code.jquery.com/jquery-1.12.0.js"></script> 
 <script src="//code.jquery.com/jquery-migrate-1.3.0.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<script src="js/jquery.modal.js" type="text/javascript" charset="utf-8"></script>
-<script src="js/scripts.js"></script> 
-<script src="js/jquery.magnific-popup.js"></script>
-<script src="js/popup.js"></script>
+<script src="../js/jquery.modal.js" type="text/javascript" charset="utf-8"></script>
+<script src="../js/scripts.js"></script> 
+<script src="../js/jquery.magnific-popup.js"></script>
+<script src="../js/popup.js"></script>
   <script>
 $( "#accordion" ).accordion({
       heightStyle: "content",

@@ -79,7 +79,7 @@ $lang = 'en';
       <h3>Program Costs</h3>
 
 
-      <h4>Tuition and Fees for the Fall 2016 Academic Term</h4>
+      <h4>Tuition and Fees for the Spring 2017 Academic Term</h4>
 
 
       <p>Here is a breakdown of typical costs for a student taking one (three-credit) <strong>in-person</strong> course:</p>
@@ -251,7 +251,7 @@ $lang = 'en';
 	  <li><a href="http://www.umbc.edu/financialaid" target="_blank">UMBC Financial Aid </a> </li>
 	  <li><a href="http://gradschool.umbc.edu/funding/assistantships">Graduate Assistantships</a></li>
 	  <li><a href="http://veterans.umbc.edu">Veteran's Office</a></li>
-	  <li><a href="http://www.umbc.edu/bursar/mpp.htm" target="_blank">UMBC Payment Plan</a></li>
+	  <li><a href="http://sbs.umbc.edu/payment-plan/" target="_blank">UMBC Payment Plan</a></li>
 	  <li><a href="https://wiki.umbc.edu/display/isdjobs/Home">Jobs</a> </li>
 	  </ul>
 

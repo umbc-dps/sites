@@ -107,15 +107,15 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://publicservicescholars.umbc.edu/" target="_blank">
+<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
 <div class="image mobile-left">
-	<img src="images_homepage/md.png" alt="One">
+	<img src="images_homepage/truegrit.jpg" alt="One">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://publicservicescholars.umbc.edu/">&raquo;</a>
-<div class="title">Become a Maryland Public Service Scholar</div>
-<div class="tagline">Learn more about these paid, full time summer internship fellows programs at an information here at USG on 2/8 at 12PM in III-4203.</div>
-<a class="web-seemore" href="http://publicservicescholars.umbc.edu/" target="_blank">Learn More</a>
+<a class="mobile-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php">&raquo;</a>
+<div class="title">March 1st is Approaching: Get Priority! </div>
+<div class="tagline">Apply and submit your official transcripts by our undergraduate priority deadline of March 1st to automatically be considered for UMBC merit scholarships!</div>
+<a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Today!</a>
 </div>
 </a>
 </div>
@@ -123,15 +123,15 @@
 
 
 <div class="panel panel-2">
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">
+<a href="http://studyabroad.umbc.edu/" target="_blank">
 <div class="image mobile-center">
-<img src="images_homepage/truegrit.jpg" alt="Two">
+<img src="images_homepage/studyabroad.jpg" alt="Two">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">&raquo;</a>
-<div class="title">Apply Now for our Graduate Programs</div>
-<div class="tagline">Want to become a UMBC Retriever? We are now accepting applications for Cybersecurity, GIS, and IO Psychology!</div>
-<a class="web-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now!</a>
+<a class="mobile-seemore" href="http://studyabroad.umbc.edu/" target="_blank">&raquo;</a>
+<div class="title">Join us for Study Abroad 101!</div>
+<div class="tagline">Interested in studying abroad but don't know how to start the process? Schedule an appointment with Caylie from the Study Abroad Office at crzidwick@umbc.edu on February 16th to learn the answers. </div>
+<a class="web-seemore" href="http://studyabroad.umbc.edu/" target="_blank">Apply Now!</a>
 </div>
 </a>
 </div>
@@ -169,9 +169,9 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/md_sm.png" alt="1"></li>
+<li class="item-1"><img src="images_homepage/truegrit_sm.jpg" alt="1"></li>
 
-<li class="item-2"><img src="images_homepage/truegrit_sm.jpg" alt="2"></li>
+<li class="item-2"><img src="images_homepage/studyabroad_sm.jpg" alt="2"></li>
 
 <li class="item-3"><img src="images_homepage/parking-small.jpg" alt="3"></li>
 <!-- Hide Preview Images --
@@ -289,9 +289,10 @@
 </p>
 
 <p>
-<a href="http://my.umbc.edu/groups/sgfaculty/events/40979" target="_blank">Faculty Meet and Greet - August 18, 2016</a><br>
-<a href="http://my.umbc.edu/groups/sgfaculty/events/41492 " target="_blank">Faculty Appreciation Day - October 18, 2016</a></p>
-
+<a href="http://my.umbc.edu/groups/sgfaculty/events/46940" target="_blank"> Faculty Appreciation Day - March 1, 2017</a><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Tech Talk – Feb 21, 2017</a><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Student Preparation – Mar 29, 2017</a><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Student Accountability – Apr 27, 2017</a><br>
 </div>
 
 <div class="column3">

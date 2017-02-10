@@ -95,7 +95,6 @@ $lang = 'en';
 !------------------------->
 
 
-
 <!------- Accordion 2 ------
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
@@ -109,7 +108,6 @@ $lang = 'en';
     <p>Test test test test test.</p>
 </div>
 !------------------------->
-
 
 
 <!------- Accordion 3 ------
@@ -127,7 +125,6 @@ $lang = 'en';
 !------------------------->
 
 
-
 <!------- Accordion 4 ------
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
@@ -141,7 +138,6 @@ $lang = 'en';
     <p>Test test test test test.</p>
 </div>
 !------------------------->
-
 
 
 <!------- Accordion 5 ------
@@ -160,55 +156,208 @@ $lang = 'en';
 
 
 
-<!------- Accordion 6 ------
+<!------- Start Accordion 6 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    1/27/17 - Spring 2017 Starts Monday
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p>The spring 2017 semester starts Monday, January 30,  2016. Below you will see some quick links for information and assistance.</p>
+    <p><strong>Spring 2017  Registration:</strong> If  you have not received authorization or registered for a spring 2017 course, you  should do so now. A late registration fee will be charged if you register after  January 29, 2017. </p>
+    <p><strong>Academic Integrity  Web-Based Tutorial:</strong> This is required for all new Master&rsquo;s or certificate graduate students admitted  for the spring 2017 semester. It needs to be completed by the second week of  the semester, <a href="http://catalog.umbc.edu/content.php?catoid=14&navoid=718">http://catalog.umbc.edu/content.php?catoid=14&amp;navoid=718</a>.  (You must self-enroll for  the tutorial through Blackboard).</p>
+    <p><strong>Textbooks and  Materials: </strong><a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a><strong> </strong></p>
+    <p><strong>Add/Drop Refund  Schedule:</strong> The  refund schedule and schedule adjustment period for spring 2017 may be found on  the Student Business Services (SBS) website here, <a href="http://sbs.umbc.edu/spring-2017-dropwithdrawal/">http://sbs.umbc.edu/spring-2017-dropwithdrawal/</a>  </p>
+    <p><strong>E-Billing Information  and Schedule:</strong> Tuition Billing is completed by the Student Business Services (SBS) Office and  is done electronically. Check your UMBC emails to see when your bill is  available. <a href="http://sbs.umbc.edu/billing/">http://sbs.umbc.edu/billing/</a></p>
+    <p><strong>Spring 2017  Graduation/Diploma Applications:</strong> If you are finishing your Master&rsquo;s or Certificate courses this spring 2017  semester your online graduation application is due February 15, 2017. <a href="http://umbc.edu/isd/graduation">http://umbc.edu/isd/graduation</a></p>
+    <p><strong>Blackboard Help and  Instructions:</strong> If  you do not see your online course listed within Blackboard, this means that the  course has not been opened/activated by the instructor to date. All courses  should be opened for access by the end of day the first day of the semester, <a href="https://wiki.umbc.edu/display/faq/Blackboard">https://wiki.umbc.edu/display/faq/Blackboard</a>. </p>
+    <p><strong>Spring 2017  Academic Calendar:</strong> <a href="http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING-2.pdf">http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING-2.pdf</a></p>
+    <p>If you encounter difficulties within your course you  should contact your instructor immediately. Do not wait until it is too late.</p>
+    <p>If you missed an ISD current student email check our  website: <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a></p>
 </div>
-!------------------------->
+<!------- End Accordion 6 ------>
 
 
 
-<!------- Accordion 7 ------
+<!------- Start Accordion 7 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    1/10/2017 - Less Than Three Weeks for Spring
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>Spring 2017 Begins in Less than three weeks!</strong></p>
+    <p><strong>Spring 2017 Important Dates: </strong><a href="http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING-2.pdf">http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING-2.pdf</a> <br>
+      January 23, 2017: Non-degree  registration begins<br>
+      January 29, 2017: Last  day to cancel spring 2017 registration<br>
+      January 30, 2017: First  day of spring 2017 (and beginning of late registration)<br>
+      February 10, 2017: Last  day to add a course or drop without a grade of &ldquo;W&rdquo; on transcript<br>
+      February 15, 2017: Last  day to apply for spring 2017 graduation<br>
+      April 10, 2017: Last  day to withdraw from individual courses with a grade of &ldquo;W&rdquo; on transcript<br>
+      May 26, 2017: Last day  to withdraw from UMBC for spring semester (must be submitted via myUMBC Help  request)</p>
+    <p><strong>Spring 2017 Registration: </strong>If you have not requested authorization  to register or registered online for the spring 2017 semester, you should do so  immediately. Authorization does not reserve a seat in a course for a student.  Students must register online through their myUMBC accounts. (Online registration  instructions <a href="http://registrar.umbc.edu/services/registration/Information-About-Registration/">http://registrar.umbc.edu/services/registration/Information-About-Registration/</a>) <br>
+      Spring 2017 Advising  and Registration instructions may be found on the student communication page, <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>. </p>
+    <p><strong>Spring 2017 Diploma Requests</strong>: Student completing the requirements  for their Master&rsquo;s degree or certificate diploma in the spring 2017 semester,  must submit their online graduation application by February 15, 2017. Information  about graduation and diploma applications may be found here, <a href="http://umbc.edu/isd/graduation">http://umbc.edu/isd/graduation</a>. </p>
+    <p><strong>Quick Links:</strong><br>
+      <strong>Spring 2017 Textbooks: </strong><a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a> <br>
+      <strong>Portfolio Requirement: </strong><a href="http://www.umbc.edu/isd/portfolio">http://www.umbc.edu/isd/portfolio</a><strong> </strong><br>
+      <strong>Comprehensive Exam: </strong><a href="http://umbc.edu/isd/graduation#exam">http://umbc.edu/isd/graduation#exam</a><strong> </strong><br>
+      <strong>Student Business Services (Billing): </strong><a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a><strong> </strong><br>
+      <strong>Spring 2017 Financial Date: </strong><a href="http://sbs.umbc.edu/spring-2017-dropwithdrawal/">http://sbs.umbc.edu/spring-2017-dropwithdrawal/</a></p>
 </div>
-!------------------------->
+<!------- End Accordion 7 ------>
 
 
 
-<!------- Accordion 8 ------
+<!------- Start Accordion 8 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    12/20/2016 - End of Term Reminders
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Thank you for a wonderful semester!</p>
+    <p>Fall 2016 grades are due January 4, 2017, and posted January 10th <a href="http://registrar.umbc.edu/academic-calendar/grading-schedule/">http://registrar.umbc.edu/academic-calendar/grading-schedule/</a>.  (Some grades may be available to view on your myUMBC account prior to that  date.)</p>
+    <p><strong>University Closing Over Winter  Break: UMBC will be closed starting Friday, December 23, 2016. The campus will  reopen January 3, 2017.</strong></p>
+    <p>Don&rsquo;t forget to <strong>request  authorization and register</strong> for your <strong>winter  2017 or spring 2017</strong> course(s). Some courses are close to capacity.</p>
+    <p>The <strong>spring 2017 (May)  graduation/diploma application is open</strong>. If you are finishing your plan of  study, be sure to apply. (<a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>) </p>
+    <p><strong>Winter Academic Deadlines/Calendar:</strong>&nbsp;<a href="http://www.umbc.edu/winter/importantdates">http://www.umbc.edu/winter/importantdates</a><br>
+      <strong>Winter Financial Dates/Refund Schedule:</strong><strong>&nbsp;</strong><a href="http://www.umbc.edu/winter/financialdates">http://www.umbc.edu/winter/financialdates</a><br>
+      <strong>Spring 2017 Academic Calendar:</strong>&nbsp;<a href="http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING-2.pdf">http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING-2.pdf</a><br>
+      <strong>Spring 2017 Drop/Withdrawal Schedule:</strong>&nbsp;<a href="http://sbs.umbc.edu/spring-2017-dropwithdrawal/">http://sbs.umbc.edu/spring-2017-dropwithdrawal/</a><br>
+      <strong>Spring 2017 ISD Textbooks:</strong>&nbsp;<a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a><br>
+      <strong>Student Communication Page:</strong> <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a> (for past ISD Current Student Emails)</p>
+Have a safe and happy winter break.</div>
+<!------- End Accordion 8 ------>
+
+
+
+<!------- Start Accordion 9 ------>
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/6/2016 - Diploma Applications Winter Spring Calendars
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>May 2017 Diploma Applications</strong> are now open. If you plan to finish  your plan of study May 2017, (or already finished) the online graduation  application is available from December 1st to February 15th.  Information about applying for you diploma and links may be found here, <a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>.  (If you previously applied for graduation but did not graduate you must  re-apply).</p>
+    <p><strong>Fall Course Evaluations</strong> for fall 2016 will be a campus wide online  survey system. Information will be sent directly to students taking a course.  The survey window is November 30th to December 13th. (<a href="http://oir.umbc.edu/student-course-evaluations/">http://oir.umbc.edu/student-course-evaluations/</a>) <br>
+      <strong>Fall Academic Calendar:</strong> <a href="http://registrar.umbc.edu/files/2016/09/Fall-2016-Academic-Calendar_FINAL_updated-09.20.16.pdf">http://registrar.umbc.edu/files/2016/09/Fall-2016-Academic-Calendar_FINAL_updated-09.20.16.pdf</a> Last day for a <u>complete semester</u> withdraw from UMBC is December 13th  and must be done through a myUMBC Help Request.<br>
+      Fall 2016 Grades are  not scheduled to be posted to transcripts until January 10, 2017, <a href="http://registrar.umbc.edu/academic-calendar/grading-schedule/">http://registrar.umbc.edu/academic-calendar/grading-schedule/</a>. </p>
+    <p><strong>Winter 2017 Course</strong> EDUC 689: Advance Special Topics – Managing Your  Career registration is ongoing. If you want to take the course be sure to request  authorization to register.<br>
+      <strong>Winter Academic Deadlines/Calendar:</strong> <a href="http://www.umbc.edu/winter/importantdates">http://www.umbc.edu/winter/importantdates</a><br>
+      <strong>Winter Financial Dates/Refund Schedule: </strong><a href="http://www.umbc.edu/winter/financialdates">http://www.umbc.edu/winter/financialdates</a></p>
+    <p><strong>Spring 2017 Registration</strong> has begun for new Master and certificate  students. New and continuing students need to submit their advising forms to  Dr. Hodell for authorization, then register online. Spring 2017 advising and  registration instructions may be found here, <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>,  from October 24, 2016.<br>
+      <strong>Spring 2017 Academic Calendar:</strong> <a href="http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING-2.pdf">http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING-2.pdf</a><br>
+      <strong>Spring 2017 Drop/Withdrawal Schedule:</strong> <a href="http://sbs.umbc.edu/spring-2017-dropwithdrawal/">http://sbs.umbc.edu/spring-2017-dropwithdrawal/</a><br>
+      <strong>Spring 2017 ISD Textbooks:</strong> <a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a></p>
+    <p><strong>Student Business Services Office</strong> handles all e-billing and  payments, in addition to the payment plan (you have until December 19th  to enroll in the 4 installment payment plan). Visit their website to review  their information: <a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a>.</p>
+    <p><strong>New Student Welcome Page</strong> has helpful information for new students, <a href="http://umbc.edu/isd/welcome">http://umbc.edu/isd/welcome</a>. Be sure to  complete the Academic Tutorial for spring 2017 when it becomes available.</p>
 </div>
-!------------------------->
+<!------- End Accordion 9 ------>
+
+
+<!------- Start Accordion 10 ------>
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    11/22/2016 - New Student Evaluations and Reminders</h4>
+</div>
+<div class="accordionbody">
+    <p><strong>Fall Student Evaluations</strong> <br>
+This fall 2016, UMBC will begin to  use a campus wide online survey system for student course evaluations. The  online survey will include both close-ended responses and open-ended direct  instruction feedback form questions. It is expected that each class survey will  take approximately 10 to 20 minutes.</p>
+    <ul type="disc">
+      <li>Students will receive an email       communication from StudentCourseEvaluations@umbc.edu with a link to the       surveys for courses they are enrolled. Surveys may be accessed via these       links or via Blackboard</li>
+      <li>The survey window for fall 2016       is November 30th through December 13th</li>
+      <li>The secure online system grants       24/7 access during the evaluation period.</li>
+    </ul>
+    <p>Below are a couple of  links for additional information.<br>
+      <a href="https://wiki.umbc.edu/display/faq/Student+Course+Evaluations">https://wiki.umbc.edu/display/faq/Student+Course+Evaluations</a><br>
+      <a href="http://oir.umbc.edu/student-course-evaluations/">http://oir.umbc.edu/student-course-evaluations/</a><br>
+      <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=67994620">https://wiki.umbc.edu/pages/viewpage.action?pageId=67994620</a></p>
+    <p>&nbsp;</p>
+    <p><strong>UMBC will be closed  Thursday, November 24, 2016 and reopen Monday, November 28, 2016.</strong></p>
+    <p><strong>Winter and spring 2017  advance advising and registration has begun</strong>. Be sure to submit your advising forms for authorization.  Advising and registration instructions may be found on the student  communication page,&nbsp;<a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=67994620">https://wiki.umbc.edu/pages/viewpage.action?pageId=67994620</a>.&nbsp;</p>
+    <p><strong>Textbooks Spring 2017:</strong>&nbsp;http://umbc.edu/isd/textbooks</p>
+    <p><strong>Student Billing and  Payments:</strong>&nbsp;Student Business  Services (SBS) office handles all billing and payments. Additional information  may be found on their website,&nbsp;<a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a>.</p>
+    <p><strong>May Graduate</strong>: The Graduate School's online graduation  application is scheduled to open December 1st for May graduation. If you are  planning on graduation May 2017 be sure to read the graduation information  section of the website,&nbsp;<a href="http://umbc.edu/isd/graduation">http://umbc.edu/isd/graduation</a></p>
+    <p><strong>New  Master and Certificate Student Registration:</strong>&nbsp;Will begin December 1st.</p>
+</div>
+<!------- End Accordion 10 ------>
 
 
 
-<!------- Accordion 9 ------>
+<!------- Start Accordion 11 ------>
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    11/14/2016 - Tomorrow Last Day for Fall Withdrawl
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p><strong>Tomorrow is the last day to withdraw from a fall 2016 course with a  grade of &ldquo;W&rdquo;. (Fall 2016 Academic Calendar: <a href="http://registrar.umbc.edu/files/2016/09/Fall-2016-Academic-Calendar_FINAL_updated-09.20.16.pdf">http://registrar.umbc.edu/files/2016/09/Fall-2016-Academic-Calendar_FINAL_updated-09.20.16.pdf</a>)</strong><br>
+      <br>
+Winter and Spring 2017 registration is underway. If you are looking to register  for the winter 2017 course, please send Renee a request at <a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a>. Spring 2017 registration  instructions were sent out October 24, 2017 (<a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>).</p>
+    <p>Remember that authorization  does not reserve a seat in the course. You must register online through your  myUMBC account. (Newly admitted Master&rsquo;s and certificate student may register  starting December 1st.)</p>
+    <p><strong>Billing:</strong> UMBC bills students electronically. You may find  additional information here, <a href="http://sbs.umbc.edu/billing/">http://sbs.umbc.edu/billing/</a>,  including the billing schedule.</p>
+    <p><strong>Payments:</strong> The Student Business Services office handles billing and  payments any you may view their website for additional information, <a href="http://sbs.umbc.edu/payments/">http://sbs.umbc.edu/payments/</a>.</p>
+    <p><strong>Payment Plan: </strong>You do not have to registered for a spring 2017 course  to enroll in the spring 2017 payment plan. Find additional information here, <a href="http://sbs.umbc.edu/spring-2017-payment-plan/">http://sbs.umbc.edu/spring-2017-payment-plan/</a>.</p>
+</div>
+<!------- End Accordion 11 ------>
+
+
+
+<!------- Start Accordion 12 ------>
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    10/24/2016 - Spring 2017 Advising and Registration Instructions
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p><strong><u>Pre-Advising Hints</u></strong><strong>:</strong> <br>
+      <strong>Courses by Semester:</strong> Look for tentative long range schedule  options, <a href="http://www.umbc.edu/isd/schedule#sequence">http://www.umbc.edu/isd/schedule#sequence</a> <br>
+      <strong>Course Descriptions  and Prerequisites:</strong> <a href="http://www.umbc.edu/isd/courses">http://www.umbc.edu/isd/courses</a> <br>
+      <strong>Advising Form and  Process: </strong><a href="http://www.umbc.edu/isd/advising">http://www.umbc.edu/isd/advising</a> Be sure your form is completely and  correctly filled out. Blank and incomplete forms have been sent in the past,  delaying advising. <br>
+      <strong>Applying for  Graduation, Comprehensive Exam Dates and Portfolio Information: </strong><a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a> <br>
+      <strong>Holds: </strong>Make sure you do not have any holds on  your account. A hold will prevent you from registering. <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450">https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450</a></p>
+    <p><strong>Review the Schedule Prior to Sending  Authorization Requests. </strong>(Multiple semesters may be listed, make  sure you are viewing the correct semester). <a href="http://www.umbc.edu/isd/schedule">http://www.umbc.edu/isd/schedule</a></p>
+    <p><strong>Spring 2017 Registration Instructions:</strong> <br>
+      (Registration is a  three step process) </p>
+    <ol start="1" type="1">
+      <li><strong>Advising:</strong> All students must contact Dr. Hodell, <a href="mailto:hodell@umbc.edu">hodell@umbc.edu</a>, to receive academic advising, every       semester. Advising should be completed through email. Please allow Dr.       Hodell 7 - 10 days to review and approve your course selections. Be sure       to send your finalized form only. Requesting changes after submitting your       advising form will move your request to the end of the list. (See link       above for advising form and instructions).<strong></strong></li>
+      <li><strong>Authorization:</strong> After Dr. Hodell approves your course       selection your authorization will be entered into the registration system.       You will be able to register after the dates shown below. More       authorizations than total number of spaces in a course may be entered.<strong></strong></li>
+      <li><strong>Online       Registration:</strong> After students are authorized, they may register online via myUMBC       according to the dates below. Authorization does not guarantee a seat in a       course. You must register online and are advised to do so as soon as       possible. Instructions for how to register online may be found here: <a href="http://registrar.umbc.edu/services/registration/Information-About-Registration/">http://registrar.umbc.edu/services/registration/Information-About-Registration/</a><strong> </strong></li>
+    </ol>
+    <p><strong>Registration  Schedule:</strong> <br>
+      <strong>October 31, 2016: </strong>Advance registration begins for current Graduate  Students<br>
+      <strong>December 1, 2016: </strong>New Graduate Student Registration Begins <br>
+      <strong>January 23, 2017:</strong> Non-Degree Student Registration Begins </p>
+    <p><strong>Wait List:</strong> ISD courses automatically have the  Student Administration (SA) System hold any wait lists. The ISD department  cannot prioritize the wait list, nor can we override the wait list. Read the  &ldquo;Student Frequently Asked Questions&rdquo; about waitlists prior to placing yourself  on one, <a href="https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists">https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists</a>. </p>
+    <p><strong>Authorization  Information and Notes:</strong> <br>
+      The ISD Department  will give authorizations to student who request them and are approved. This  will result in some courses having more authorizations issued than available  seats in a course. We will also continue to give authorization to courses that  are full. <br>
+      Authorization does  not guarantee a student a seat in the course. Students must register online  through their myUMBC account to have a space in the course. If you opt to put  yourself on the waitlist for a course that is full be sure to read about wait  lists in the link above. </p>
+    <p><u>Put your campus ID on  your authorization request.</u> <br>
+      Students interested  in EDUC 792T and EDUC 794 should contact Dr. Williams directly at <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a> prior to requesting authorization to discuss their internship or  final project. You must include in your email to Dr. Hodell that you have  spoken to Dr. Williams before Dr. Hodell will approve. </p>
+</div>
+<!------- End Accordion 12 ------>
+
+
+
+<!------- Start Accordion 13 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -229,11 +378,11 @@ $lang = 'en';
       Last Day for a complete semester withdrawal =  December 13th (must be done via myUMBC Help Request)</p>
     <p><strong>Holds: </strong>Will prevent you from future  registration. Make sure you do not have one and get it resolved if you do, <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450">https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450</a>. </p>
     <p><strong>Student  Business Services:</strong> They handle  billing and payments, <a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a>. </p></div>
+<!------- End Accordion 13 ------>
 
 
 
-
-<!------- Accordion 10 ------>
+<!------- Start Accordion 14 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -250,11 +399,11 @@ There will be an elective course offered  during the 2017 winter session for stu
     <p>Follow this link to view the video on YouTube  for more course information, <a href="https://www.youtube.com/watch?v=VbaK2igIfKA&feature=youtu.be">https://www.youtube.com/watch?v=VbaK2igIfKA&amp;feature=youtu.be</a><u> </u></p>
     <p>Please let me know if you have any questions.</p>
 </div>
+<!------- End Accordion 14 ------>
 
 
 
-
-<!------- Accordion 1 ------>
+<!------- Start Accordion 15 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -278,10 +427,10 @@ There will be an elective course offered  during the 2017 winter session for stu
     <p>If you encounter difficulties within your course, you should contact your instructor immediately. Professors have their contact information on their syllabus.    </p>
     <p>Please contact Renee Eisenhuth at <a href="mailto:reisen@umbc.edu" target="_blank">reisen@umbc.edu</a> if you have any questions.</p>
 </div>
+<!------- End Accordion 15 ------>
 
 
-
-<!------- Accordion 2 ------>
+<!------- Start Accordion 16 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -303,10 +452,10 @@ There will be an elective course offered  during the 2017 winter session for stu
       Our program  is committed to your success during your studies here at UMBC. We will use your  UMBC email account as our primary means of communication with you. If you think  you have missed an email check our Communications page, <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>. <br>
       If you  encounter difficulties within your course you should contact your instructor  immediately.</p>
 </div>
+<!------- End Accordion 16 ------>
 
 
-
-<!------- Accordion 3 ------>
+<!------- Start Accordion 17 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -330,10 +479,10 @@ There will be an elective course offered  during the 2017 winter session for stu
       December 13, 2016: Last Day of the Semester<br>
   <strong>Academic Integrity  Web-Based Tutorial: </strong>This is required for new Masters of Certificate  graduate students admitted for the fall 2015 semester. You will have to  self-enroll for the tutorial through Blackboard. The deadline to complete the  tutorial is Thursday, September 15, 2016.  <a href="http://gradschool.umbc.edu/students/integrity/">http://gradschool.umbc.edu/students/integrity/</a></p>
 </div>
+<!------- End Accordion 17 ------>
 
 
-
-<!------- Accordion 4 ------>
+<!------- Start Accordion 18 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -351,10 +500,10 @@ There will be an elective course offered  during the 2017 winter session for stu
       Please  remember that authorization does not reserve a seat in a course and you do need  to register online after receiving authorization.<br>
       (Note:  EDUC 681 may be concurrently taken with EDUC 602).</p>
 </div>
+<!------- End Accordion 18 ------>
 
 
-
-<!------- Accordion 5 ------>
+<!------- Start Accordion 19 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -373,10 +522,10 @@ There will be an elective course offered  during the 2017 winter session for stu
   <strong>Textbooks and Materials:</strong>&nbsp;<a href="http://www.umbc.edu/isd/textbooks">http://www.umbc.edu/isd/textbooks</a> <br>
   <strong>Student Business Services  Office:</strong>&nbsp;To find information about e-billing,  payments, drop/withdrawal fees, and late fees go to the Student Business  Services Office website:&nbsp;<a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a></p>
 </div>
+<!------- End Accordion 19 ------>
 
 
-
-<!------- Accordion 6 ------>
+<!------- Start Accordion 20 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -411,10 +560,10 @@ November 15, 2016: Last  Day to withdraw from individual courses with a grade of
       <strong>ISD Current Student Page:</strong> <a href="http://www.umbc.edu/isd/current">http://www.umbc.edu/isd/current</a>,  find links to advising information, class schedule, policies, student welcome  information, graduation, and comprehensive exam/portfolio requirement  information.</p>
     <p>UMBC will be closed  Monday, July 4, 2016.</p>
 </div>
+<!------- End Accordion 20 ------>
 
 
-
-<!------- Accordion 7 ------>
+<!------- Start Accordion 21 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -437,7 +586,7 @@ If you are graduating  from the Master&rsquo;s program be sure to review the por
       If you encounter  difficulties within your course, you should contact your instructor  immediately. Most professors have their email address on their syllabus. DO NOT  disappear from the course, your grades could be affected.</p>
     <p>Please let me know if  you have any questions.</p>
 </div>
-
+<!------- End Accordion 21 ------>
 
 
 

@@ -13,7 +13,7 @@
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p>Spring 2017 Master's Application Deadline: November 1st; Spring 2017 Certificate Application Deadline: December 1st
+      <p>Summer 2017 Master's Priority Application Deadline: March 1st; Summer 2017 Certificate Application Deadline: April 1st; Fall 2017 Master's Priority Application Deadline: June 1st; Fall 2017 Certificate Application Deadline: July 1st
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>

@@ -118,7 +118,7 @@ $lang = 'en';
  <p><strong>All application documents should be mailed to:</strong> <br>
    Renee Eisenhuth, Program Coordinator<br>
    ISD - Training Systems Graduate Program<br>
-   1450 Rolling Road<br>
+   1450 S. Rolling Road<br>
    Halethorpe, MD 21227</p>
  <p><strong>Or to:</strong> <br>
 University of Maryland, Baltimore County<br>

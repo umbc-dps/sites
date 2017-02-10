@@ -32,7 +32,7 @@ body {
 #video-container {
 	position: absolute;
 	top: 50px;
-	margin-top: -225px;
+	margin-top: -175px;
 	left: 0;
 	height: 100%;
 	overflow: hidden;
@@ -228,7 +228,7 @@ div#messages {position: relative; padding-left:10%}
       <ul id="menu-main" class="menu">
         <li><a href="http://professionalprograms.umbc.edu">Professional Programs</a></li>
         <li><a href="http://umbc.edu/shadygrove">Universities at Shady Grove</a></li>
-        <li><a href="http://umbc.edu/winter">Winter Session</a></li>
+        <li><a href="http://umbc.edu/summer">Summer Session</a></li>
         <li><a href="http://umbc.edu/eli">English Language Institute</a></li>
         <li><a href="http://www.umbctraining.com/">Professional Training</a></li>
         <li><a href="http://shrivercenter.umbc.edu">Shriver Center</a>
@@ -249,16 +249,16 @@ BEGIN MAIN
   <div id="videooverlay">
     <div id="pp-heading">
       <h1 class="remove-bottom"><img src="images/dpslogo-tr-wh-ds.png"></h1>
-		<div style="height:300px;"></div>
+		<div style="height:400px;"></div>
       <!-- <p><img src="images/dps-logo.jpg" alt="Division of Professional Studies Home Page" class="scale-with-grid first-child last-child" height="29" width="348"></p>--> 
     </div>
   </div>
   <!-- /pp-heading -->
   <div id="video-container">
     <video autoplay loop class="fillWidth">
-      <source src="video/DPS-Site-Video-12-2016.mp4" type="video/mp4">
+      <source src="video/DPS-Site-Video-2-2017.mp4" type="video/mp4">
       <source src="video/DPS-Site-Video-6-2015.ogv" type="video/ogv">
-      <source src="video/DPS-Site-Video-12-2016.webm" type="video/webm">
+      <source src="video/DPS-Site-Video-2-2017.webm" type="video/webm">
       <img src="images/placeholder.jpg"  alt="Your browser does not support the <code>video</code> element. You should try Firefox." height="1080" width="1920"> </video>
   </div>
 </div>
@@ -282,9 +282,9 @@ BEGIN MAIN
       </div>
       
        <div>
-        <a href="http://umbc.edu/winter" style="text-decoration:none">
-        <h3 class="home-heading">Winter Session 2017</h3></a>
-       <p>Winter Session is a great way for current, incoming and visiting students to earn credit and move one step toward graduation.</p>
+        <a href="http://umbc.edu/summer" style="text-decoration:none">
+        <h3 class="home-heading">Summer Session 2017</h3></a>
+       <p>Summer Session is a great way for current, incoming and visiting students to earn credit and move one step toward graduation.</p>
       </div>
       
       <div>

@@ -74,6 +74,57 @@ $lang = 'en';
   
 <!-- START Content -->
 
+<h3>Summer 2017 Schedule of Classes</h3>
+ 
+<p><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session II - 12 Weeks (May 30, 2017 - August 18, 2017)<strong><br>
+Advanced Registration Begins: </strong>March 6, 2017<strong><br>
+  <strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
+	<strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+<table id="schedule">
+  <tr>
+    <td width="18%">COURSE/CLASS<br>NUMBER</td>
+    <td width="21%">COURSE TITLE </td>
+    <td width="13%">DAY</td>
+    <td width="17%">TIME</td>
+    <td width="17%">FORMAT</td>
+    <td width="14%">ROOM</td>
+  </tr>
+  <tr>
+    <td>CYBR 622 (2514)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2514" target="_blank">Global Cyber Capabilities and Trends</a></td>
+    <td>Wednesday</td>
+    <td>7:10 - 10:20 PM</td>
+    <td>In Person</td>
+    <td>3.014</td>
+  </tr>
+  <tr>
+    <td>CYBR 623 (2515)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2515" target="_blank">Cybersecurity Law & Policy</a></td>
+    <td>Monday</td>
+    <td>6:00 - 9:10 PM</td>
+    <td>In Person</td>
+    <td>3.013</td>
+  </tr>
+  <tr>
+    <td>CYBR 691(2512)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2512" target="_blank">Special Topics: Introduction to Forensics</a></td>
+    <td>Thursday</td>
+    <td>6:00 - 9:10 PM</td>
+    <td>In Person</td>
+    <td>3.014</td>
+  </tr>
+  <tr>
+    <td>CYBR 691(2687)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2687" target="_blank">Special Topics: Software Security</a></td>
+    <td>Monday</td>
+    <td>7:10 - 10:20 PM</td>
+    <td>In Person</td>
+    <td>3.014</td>
+  </tr>
+  </table>
+<p></p>
+<p>*Course held at UMBC BW Tech South (<a href="http://www.umbc.edu/cyber/directions.php" target="_blank">directions</a>)</p>
 <h3>Spring 2017 Schedule of Classes</h3>
 
 <p><strong>Semester Dates:</strong> January 30, 2017 – May 16, 2017<br>
