@@ -1,11 +1,11 @@
 <div class="five columns">
-
-     <aside class="five columns add-bottom" id="one"><h3 style="color:#fff;">Upcoming Events</h3>
-    <p style="text-align:center;">
-<strong>Professional Programs Open House</strong><br>
-		Tuesday, October 25, 5:30-8:00PM<br>
-<a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_fall16&utm_source=umbc.edu&utm_medium=referral&utm_content=sidebar_isd_career">RSVP Now</a>
-      </p>
+    <aside class="five columns add-bottom" id="two">
+      <h3 style="color:#fff;">Upcoming Event</h3>
+      <p style="text-align:center">
+		<strong>Program Exploration Open House</strong><br>
+Saturday, April 1, 10:00AM - 12:00PM<br>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=isd_sidebar" class="btn">Save Your Spot!</a>
+	</p>
     </aside>
 
 

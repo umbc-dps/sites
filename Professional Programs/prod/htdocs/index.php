@@ -224,15 +224,17 @@ BEGIN MAIN
 
 <li id="slide4">
 
-<a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank"><img alt="Reading on campus" src="images/2.jpg"></a>
+<a href="http://www.umbc.edu/shadygrove/cyber/talks" target="_blank">
+<img src="images/cybertalks370.jpg" alt="cyber talk"/></a>
 
-<div class="carousel-caption-right wordwrap">
-<h3>Grit Isn't Just For Students</h3>
-<small>According to the Education Advisory Board, grit can improve adults' work and personal lives. </small>  
+
+<div class="carousel-caption wordwrap">
+<h3>Cyber Talk</h3>
+<small>Join us for an exciting and engaging discussion highlighting special topics such as the operation of 4G LTE cellular networks and threats posed to mobile technology</small>  
           
-<p><a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank" class="web-seemore">Read more</a></p></div>
+<p><a href="http://www.umbc.edu/shadygrove/cyber/talks" class="web-seemore">RSVP Here!</a></p></div>
 
-<p id="captionthree"><a href="https://www.eab.com/daily-briefing/2016/02/18/grit-isnt-just-for-students-it%20can-improve-adults-work-and-personal-lives-too" target="_blank">Grit Isn't Just For Students</a></p>
+<p id="captionthree"><a href="http://www.umbc.edu/shadygrove/cyber/talks" target="_blank">Cyber Talk</a></p>
  
 </li>
 
@@ -276,6 +278,8 @@ BEGIN MAIN
 </div>
   
 <!--- END SIDEBAR --->
+<br>
+<!--- END FOOTER --->
 
 </div>
   <footer id="site-footer" class="clearfix" style="font-size:8pt">

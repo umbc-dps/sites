@@ -1,0 +1,39 @@
+<link href="cps_style.css" rel="stylesheet" type="text/css" />
+<tr><td colspan="4" height="23" bgcolor="#000000">
+
+<script language="javascript" src="http://www.umbc.edu/javascript/dropdown.js" type="text/javascript"></script>
+<ul id="nav" class="navBar">
+<li style="width:1px;"><img src="images/tcl.gif" border="0" height="23" alt="" />
+<li style="width:94px;"><a href="http://www.umbc.edu/cps" class="home">HOME</a></li>
+<li style="width:102px;"><a class="home">PROGRAMS</a>
+		<ul>
+		<li><a href="http://www.umbc.edu/biotech">Biotechnology</a></li>
+		<li><a href="http://www.umbc.edu/biotech/programs/biochemicalregulatoryengineering.html" target="_blank">Biochemical  Regulatory Engineering</a></li>
+        <li><a href="http://www.umbc.edu/cyber">Cyber Security</a></li>
+		<li><a href="http://www.umbc.edu/engm">Engineering Management</a></li>           
+		<li><a href="http://www.umbc.edu/esol/">ESOL</a></li>
+		<li><a href="http://www.umbc.edu/shadygrove/gis">Geographic Information Systems</a></li>
+		<li><a href="http://www.umbc.edu/isd">Instructional Systems Design</a></li>
+		<li><a href="http://www.umbc.edu/shadygrove/io">I/O Psychology</a></li>
+		<li><a href="http://www.umbc.edu/se">Systems Engineering</a></li>
+</ul>
+</li>
+<li style="width:130px;"><a class="home" href="http://www.umbc.edu/summer">SUMMER/WINTER</a></li>
+<li style="width:190px;"><a class="home">PROFESSIONAL TRAINING</a> <ul>
+<li><a href="http://www.umbc.edu/elc">English Language Center</a></li>
+<li><a href="http://www.umbc.edu/trainctr">UMBC Training Centers</a></li>
+</ul></li>
+<li style="width:114px;"><a class="home">SHADY GROVE</a>
+ <ul>
+<li><a href="http://www.umbc.edu/shadygrove/admissions/undergraduateadmissions.html">Undergraduate</a></li>
+<li><a href="http://www.umbc.edu/shadygrove/admissions/graduateadmissions.html">Graduate</a></li>
+</ul></li>
+<li style="width:144px;"><a href="http://www.umbc.edu/gradschool/" target="_blank" class="home">GRADUATE SCHOOL</a></li>
+
+<li style="width:105px;"><a href="contactus/ContactReq.php" class="home">CONTACT US</a></li>
+</li>
+</ul>
+</td></tr>
+<tr>
+<td height="1" bgcolor="#ffffff"><img src="images/spacer.gif" border="0" height="1" alt="" /></td>
+</tr>

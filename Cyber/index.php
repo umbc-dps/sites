@@ -79,15 +79,15 @@ $lang = 'en';
 
 <li id="slide1">
 
-<a href="http://umbc.edu/openhouse" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
 
 <div class="carousel-caption wordwrap">
 <h3>Program Exploration Open House</h3>
 <small>Join us on Saturday, April 1 to learn how UMBC's professional programs can advance your career.</small>
 
-<p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
+<p><a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
 
-<p id="captionthree"><a href="http://umbc.edu/openhouse" target="_blank">Program Exploration Open House</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" target="_blank">Program Exploration Open House</a></p>
 
 </li>
    
@@ -118,14 +118,16 @@ $lang = 'en';
 
 <li id="slide3">
 
-<a href="https://www.youtube.com/watch?v=CrOg72tecOI" class="video"><img src="images/DianeParr.jpg" alt="Meet Our Faculty: Diane Parr"/></a>
-<div class="carousel-caption-right wordwrap">
-<h3>Meet Our Faculty: Diane Parr</h3>
-<small>Diane Parr discusses how UMBC's graduate cybersecurity programs prepare professionals for today's competitive jobs.</small>
+<a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" target="_blank">
+ <img alt="cyber talk" src="images/cybertalks2.jpg"> </a>
+ 
+<div class="carousel-caption wordwrap">
+  <h3>Cyber Talk!</h3>
+  <small>Join us for an exciting and engaging discussion highlighting special topics such as the operation of 4G LTE cellular networks and threats posed to mobile technology</small>
+  
+  <p><a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" class="web-seemore">RSVP Here!</a></p></div>
 
-<p><a href="https://www.youtube.com/watch?v=CrOg72tecOI"class="web-seemore video">Watch Now</a></p></div>
-
-<p id="captionthree"><a href="https://www.youtube.com/watch?v=CrOg72tecOI">Meet Our Faculty: Diane Parr</a></p>
+<p id="captionthree"><a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel">Cyber Talk!</a></p>
 
 </li>
 

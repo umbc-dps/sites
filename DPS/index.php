@@ -29,16 +29,6 @@ body {
 	/* padding: 10em 0px; */
 	min-width: 100%;
 }
-#video-container {
-	position: absolute;
-	top: 50px;
-	margin-top: -175px;
-	left: 0;
-	height: 100%;
-	overflow: hidden;
-	z-index: -1;
-	min-width: 100%;
-}
 video {
 	min-width: 100%;
 }
@@ -158,6 +148,32 @@ div#messages {position: relative; padding-left:10%}
 	float: none;
 	margin-right: 10px; 
 	width:100%
+}
+}
+
+@media screen and (min-width:1400px) {
+	#video-container {
+	position: absolute;
+	top: 50px;
+	margin-top: -150px;
+	left: 0;
+	height: 100%;
+	overflow: hidden;
+	z-index: -1;
+	min-width: 100%;
+}
+}
+
+@media screen and (min-width:641px) and (max-width:1399px) {
+	#video-container {
+	position: absolute;
+	top: 50px;
+	margin-top: 0px;
+	left: 0;
+	height: 100%;
+	overflow: hidden;
+	z-index: -1;
+	min-width: 100%;
 }
 }
 

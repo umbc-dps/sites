@@ -3,12 +3,25 @@
 
 <h3 class="home-heading">Upcoming Event</h3>
 <center>
-<p><strong>Program Exploration Open House</strong><br>
-Saturday, April 1, 10:00AM - 12:00PM<br>
+<p><strong>Cyber Talk - Discussion on Cybersecurity</strong><br>
+Thursday, February 23, 6:00-8:00PM<br>
 </p>
 
-<a href="http://umbc.edu/openhouse">Save Your Spot!</a>
+<a href="http://www.umbc.edu/shadygrove/cyber/talks">Register Here!</a>
 </center>
+
+<hr style="margin-bottom:10px">
+
+<center>
+<p><strong>UMBC Cybersecurity Info Session</strong><br>
+Thursday, April 6, 6:00-7:30PM<br>
+</p>
+
+<a href="http://www.umbc.edu/shadygrove/cyber/infosession">RSVP Now</a>
+</center>
+
+
+
 </aside>
 
 <aside class="five columns add-bottom">

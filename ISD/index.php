@@ -85,15 +85,15 @@ $lang = 'en';
             
 <li id="slide1">
 
-<a href="http://umbc.edu/openhouse" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=isd_carousel" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
 
 <div class="carousel-caption wordwrap">
 <h3>Program Exploration Open House</h3>
 <small>Join us on Saturday, April 1 to learn how UMBC's professional programs can advance your career.</small>
 
-<p><a href="http://umbc.edu/openhouse" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
+<p><a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=isd_carousel" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
 
-<p id="captionthree"><a href="http://umbc.edu/openhouse" target="_blank">Program Exploration Open House</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=isd_carousel" target="_blank">Program Exploration Open House</a></p>
 
 </li>
 

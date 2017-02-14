@@ -15,7 +15,7 @@
 
 
       <p style="text-align:center"><strong>Fall 2017 Application</strong><br> 
-		Deadline: March 1<br>
+		Deadline: August 1<br>
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
 	</aside>

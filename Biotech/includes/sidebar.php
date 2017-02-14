@@ -3,7 +3,7 @@
       <p style="text-align:center">
 		<strong>Program Exploration Open House</strong><br>
 Saturday, April 1, 10:00AM - 12:00PM<br>
-<a href="http://umbc.edu/openhouse" class="btn">Save Your Spot!</a>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=biotech_sidebar" class="btn">Save Your Spot!</a>
 	</p>
     </aside>
 

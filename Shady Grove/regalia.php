@@ -109,10 +109,10 @@ Please follow the following steps to order your regalia and have it delivered to
 
 <h4>Step 1 - Ordering</h4>
 <ul>
-<li>Online ordering of regalia opens on September 29 through <a href="https://herffjones.com/umbc" target="_blank"> Herff Jones</a>.</li>
-<li>Order by October 10, 2016 to avoid a late fee.</li>
-<li>On October 11, a $25 expedited shipping fee will be applied.</li>
-<li>October 18th is the last day to order online.</li>
+<li>Online ordering of regalia opens on March 1 through <a href="https://herffjones.com/umbc" target="_blank"> Herff Jones</a>.</li>
+<li>Order by March 10, 2017 to avoid a late fee.</li>
+<li>On March 11, a $25 expedited shipping fee will be applied.</li>
+<li>March 14th is the last day to order online.</li>
 </h5>
 <br>
 
@@ -122,7 +122,7 @@ Please follow the following steps to order your regalia and have it delivered to
 
 <br>
 
-<p style="background-color:#ffcc00; padding: 10px;"><strong>Note:</strong> You must order online and submit the information via the google form if you would like your order delivered to USG.  If you adhere to all of the guidelines and deadlines above, you will receive an e-mail when your items are available for pick-up at Shady Grove in December. You will not need to travel to main campus for ordering, nor for pick up.</p>
+<p style="background-color:#ffcc00; padding: 10px;"><strong>Note:</strong> You must order online and submit the information via the google form if you would like your order delivered to USG.  If you adhere to all of the guidelines and deadlines above, you will receive an e-mail when your items are available for pick-up at Shady Grove in April. You will not need to travel to main campus for ordering, nor for pick up.</p>
 
 <p style="text-align:center; font-weight:bold">Visit <a href="http://commencement.umbc.edu/" target="_blank">UMBC's Commencement Page</a>, for more information on Commencement, including directions to the venue and special accommodations for guests.</p>
   
