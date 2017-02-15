@@ -85,13 +85,15 @@ $lang = 'en';
 <!-- START Content -->
  <h3>Thank You!</h3>
  
- <p><strong>Date:</strong> Tuesday, October 20, 2015 <br>
-   <strong>Time:</strong> 6:30 p.m. - 7:30 p.m. <br>
-   <strong>Location:</strong> <a href="http://about.umbc.edu/visitors-guide/directions/" target="_blank">UMBC - Information Technology/Engineering (ITE) Building, Room 233</a></p>
+<p>
+ <strong>Date:</strong> Wednesday, March 8, 2017 <br>
+ <strong>Time:</strong> 12:00 p.m. - 1:00 p.m. <br>
+ <strong>Location:</strong> <a href="http://about.umbc.edu/visitors-guide/directions/" target="_blank">UMBC's Information Technology/Engineering (ITE) Building, Room 239</a>
+</p>
    
- <p>Thank you for registering for the UMBC's Health IT Information Session.</p>
+ <p>Thank you for registering for the UMBC's Health IT Lunch & Learn.</p>
  
- <p>Your submission is confirmed and we look forward to seeing you at the event. A reminder email with more details on directions and the session will be sent to you two weeks prior to the Info Session.</p>
+ <p>Your submission is confirmed and we look forward to seeing you at the event.</p>
  
  <p><strong>Additional questions? </strong><br>
 Contact <a href="mailto:gambino@umbc.edu">Lisa Gambino</a></p>
@@ -100,12 +102,12 @@ Contact <a href="mailto:gambino@umbc.edu">Lisa Gambino</a></p>
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">10/20/2015 6:30 PM</span>
-    <span class="end">10/20/2015 7:30 PM</span>
+    <span class="start">03/08/2017 12:00 PM</span>
+    <span class="end">03/08/2017 1:00 PM</span>
     <span class="timezone">America/New_York</span>
-    <span class="title">UMBC Health IT Info Session</span>
-    <span class="description">Attendees will learn more about UMBC, the Health Information Technology field, as well as program curriculum and format. Participants will also have the opportunity to submit questions.</span>
-    <span class="location">Engineering Building 21250</span>
+    <span class="title">UMBC Health IT Lunch & Learn</span>
+    <span class="description">Attendees will learn more about UMBC, the Health Information Technology field, as well as program curriculum and format.</span>
+    <span class="location">UMBC's Information Technology/Engineering (ITE) Building, Room 239</span>
     <span class="organizer">UMBC Professional Programs</span>
     <span class="organizer_email">gambino@umbc.edu</span>
     <span class="all_day_event">false</span>
@@ -117,7 +119,7 @@ Contact <a href="mailto:gambino@umbc.edu">Lisa Gambino</a></p>
 
 <center>
 <h4>Tell Your Friends &amp; Colleagues: 
-<a href="https://twitter.com/intent/tweet?text=I%27m%20Attending%20UMBC%27s%20Graduate%20Health%20IT%20Info%20Session!%20http%3A%2F%2Fumbc.edu%2Fhit/infosession%20(via%20%40UMBC_DPS)" onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
+<a href="https://twitter.com/intent/tweet?text=I%27m%20Attending%20UMBC%27s%20Graduate%20Health%20IT%20Lunch%20and%20Learn!%20http%3A%2F%2Fumbc.edu%2Fhit/infosession%20(via%20%40UMBC_DPS)" onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
  return false;" onmousedown="ga('send', 'event', 'share', 'click', 'twitter');"><img src="images/twitter.png" width="20"></a>
  
  <a href="https://www.facebook.com/sharer/sharer.php?u=http://umbc.edu/hit/infosession" onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
@@ -126,7 +128,7 @@ Contact <a href="mailto:gambino@umbc.edu">Lisa Gambino</a></p>
  <a href="https://plus.google.com/share?url=http://umbc.edu/hit/infosession" onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
  return false;" onmousedown="ga('send', 'event', 'share', 'click', 'google-plus');"><img src="images/googleplus.png" width="20"></a>
  
- <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://umbc.edu/hit/infosession&title=UMBC%20Health%20IT%20Graduate%20Info%20Session%20&summary=Join%20us%20on%20Tuesday%2C%20October%2020%2C%202015%20for%20an%20information%20session%20on%20the%20UMBC%20Health%20Information%20Technology%20Master%27s%20Program." onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
+ <a href="http%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Fmini%3Dtrue%26url%3Dhttp%3A%2F%2Fumbc.edu%2Fhit%2Finfosession%26title%3DUMBC%20Health%20IT%20Lunch%20and%20Learn%26summary%3DJoin%20us%20on%20Wednesday%2C%20March%203%2C%202017%20to%20learn%20about%20our%20BS%20to%20MPS%20program%20for%20Health%20IT." onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
  return false;" onmousedown="ga('send', 'event', 'share', 'click', 'linkedin');"><img src="images/linkedin.png" width="20"></a>
 </h4>
 </center>

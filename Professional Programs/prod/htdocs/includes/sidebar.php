@@ -7,17 +7,28 @@
 Thursday, February 23, 6:00-8:00PM<br>
 </p>
 
-<a href="http://www.umbc.edu/shadygrove/cyber/talks">Register Here!</a>
+<a href="http://umbc.edu/shadygrove/cyber/talks?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=pp_sidebar">Register Here!</a>
 </center>
 
 <hr style="margin-bottom:10px">
 
 <center>
-<p><strong>UMBC Cybersecurity Info Session</strong><br>
+      <p style="text-align:center"><strong>Program Exploration Open House</strong>    
+      <br>
+      Saturday, April 1, 10:00-12:00PM <br>
+      <a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=pp_sidebar" class="btn">Save Your Spot!</a>
+      
+      </p>
+</center>
+
+<hr style="margin-bottom:10px">
+
+<center>
+<p><strong>UMBC Cybersecurity & GIS Info Sessions</strong><br>
 Thursday, April 6, 6:00-7:30PM<br>
 </p>
 
-<a href="http://www.umbc.edu/shadygrove/cyber/infosession">RSVP Now</a>
+<a href="http://umbc.edu/shadygrove/visit?utm_campaign=infosessions_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=pp_sidebar#grad">RSVP Now</a>
 </center>
 
 
@@ -38,29 +49,13 @@ Thursday, April 6, 6:00-7:30PM<br>
 <li>
 <a href="https://www.youtube.com/watch?v=DcLtcXd_86k" class="video">Chinese Cyber Power Webinar</a>
 </li>
-
-<li>
-<a href="https://www.youtube.com/watch?v=ecx3c_h-IgU"  class="video">Cybersecurity Virtual Info Session</a>
-</li>
-  
   
 <li><a href="https://www.youtube.com/watch?v=1a8KUqejD3U"  class="video">Getting a Job in Biotechnology Webinar</a>
-</li>
-
-<li><a href="https://www.youtube.com/watch?v=ZMQH20Gj9ZU" class="video">Biotechnology Virtual Info Session</a><br />
-</li>
-
-<li><a href="https://www.youtube.com/watch?v=Iya3IKmLKio" class="video">Health IT Virtual Info Session</a><br />
 </li>
 
 <li><a href="https://www.youtube.com/watch?v=MeKNbJCejoM" class="video">DIY Remote Sensing Webinar</a><br />
 </li>
 
-<li><a href="https://www.youtube.com/watch?v=UBgR7ZKXDTg" class="video">GIS Virtual Info Session</a><br />
-</li>
-
-<li><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="video">I/O Virtual Info Session</a><br />
-</li>
 </ul>
 
 </p> 

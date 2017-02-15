@@ -1,3 +1,11 @@
+<?php 
+//CAPTCHA VARIABLES
+require_once __DIR__ . '/autoload.php';
+$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
+$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
+$lang = 'en';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,48 +38,17 @@
 <style>
 #four{display:none}
 
-#tfa_0-T, .supportInfo, div.lengthIndicator{
-	display:none!important;
-}
-form#tfa_0, form#tfa_0 .section, form#tfa_0 label{background-color:transparent!important;}
-form#tfa_0 .section, form#tfa_0 div{
-	margin:0px!important;
-	padding:0px!important;
-}
-form#tfa_0, form#tfa_0 .group, form#tfa_0 .oneField, form#tfa_0 .section{width:100%!important}
 
-form#tfa_0 input, form#tfa_0 select, form#tfa_0{height:20px;}
+form#ss-form {padding-left: 15%;}
+input#ss-submit {width: 85%;}
+div#ss-item{text-align:center}
+form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
+.ss-form-entry input, .ss-form-entry select { width: 85%; margin-bottom: 15px; }
+.ss-q-title{font-weight: bold}
+.ss-required-asterisk{text-align:right; font-style:italic; padding-right: 15%}
+.cyber, .gis{display:none}
 
-form#tfa_0 select{width:270px;}
 
-form#tfa_0 .oneField{padding-bottom:10px!important}
-
-form#tfa_0 label{
-	font-weight: bold;
-	font-size: 11pt;
-}
-form#tfa_0 input.primaryAction{
-	font-weight:bold;
-	margin-top:20px!important;
-	text-align:center!important;
-	height:30px;
-}
-.wForm{
-	min-height:660px!important; 
-	width:100%!important; 
-	padding:0px!important; 
-	margin:0px!important; 
-	overflow:hidden!important
-	}
-
-/*Hide Fields*/
-#tfa_766-D, #tfa_331-D, #tfa_807-D, #tfa_808-D, #tfa_809-D, #tfa_816-D, #tfa_817-D{display:none}
-
-@media screen and (max-width:640px) {
-
-#tfa_24-D, #tfa_26-D, #tfa_84-D, #tfa_375-D {display:none}
-
-}
 </style>
 
 <body>
@@ -117,22 +94,27 @@ form#tfa_0 input.primaryAction{
 
         <p>Thank you for your interest in the UMBC Cybersecurity programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
   
- 
-<div id="form">    
+	<form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'contact_us');">        
         
-<?php
-//Set stream options
-$context = stream_context_create(array('http' => array('ignore_errors' => true)));
-if(!isset($_GET['tfa_next'])) {
-$qs = ' ';
-if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
-echo file_get_contents('https://umbc.secure.force.com/form?formID=217734'.$qs);
-} else {
-echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
-}
-?>
+		<div id="form">
+         
+		</div>
         
         <table id="contact2">
+          <tr>
+           <td colspan="2" align="center">
+           <div class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
+           <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=<?php echo $lang; ?>">
+           </script>
+           <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha" required>
+           </td>
+          </tr>
+
+          <tr>
+            <td align="center" colspan="2">
+            	<input type="submit" name="submit" value="Submit" style="width:100px; height:auto">
+            </td>
+          </tr>
           
           <tr>
             <td colspan="2" style="border-bottom: 2px #E9AB13 solid;"><strong>For more information on the program, please contact:</strong>
@@ -155,7 +137,7 @@ echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],fals
             </td>
           </tr>
         </table>
-      </div>
+      </form>
 
     
     <div id="contents" style="display:none">  
@@ -170,19 +152,31 @@ echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],fals
     <br clear="all">
 		<?php include("includes/footer.php"); ?>
         <?php include("includes/tracking.php"); ?>
-
 	<br>
     <!--END footer -->
   </div>
   <!-- container -->
 
+<script>
+	var programname = "cyber";
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
+<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
+<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-
+<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
+<!--Remove Comment for Programs without Program Guides--
+<script>$('#programguide').val(''); $('#planningform').val('');</script>
+-->
+<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 <script>
 $(document).ready(function () {
@@ -190,73 +184,6 @@ $(document).ready(function () {
 });
 </script>
 
-<script>
-var vars = [], hash;
-    var q = window.location.href.split('?')[1];
-    if(q != undefined){
-        q = q.split('&');
-        for(var i = 0; i < q.length; i++){
-            hash = q[i].split('=');
-            vars.push(hash[1]);
-            vars[hash[0]] = hash[1];
-        }
-}
-</script>
-
-<script>
-var url = window.location.pathname.split('/')[1];
-$(window).load(function() {
-	$("#tfa_807").attr("value",url);
-});
-</script>
-
-
-<script>
-/* Set Program */
-$('select#tfa_331').find('option').each(function(){
-         if($(this).text() == 'Cybersecurity')
-            this.selected = true;
-    });
-
-/* Set Campus */
-$('select#tfa_766').find('option').each(function(){
-         if($(this).text() == 'Main Campus')
-            this.selected = true;
-    });
-	
-	
-/* Set Program Coordinator */
-$('select#tfa_809').find('option').each(function(){
-         if($(this).text() == 'Lisa Gambino - 00550000006H4P4')
-            this.selected = true;
-    });
-	
-/*Set Program Coordinator Email */
-$("#tfa_816").attr("value", 'gambino@umbc.edu');
-
-/*Set Email Body */
-$("#tfa_817").val('UMBC’s Cybersecurity program reflects the interdisciplinary nature of the modern cybersecurity environment offering students the necessary educational experience required for successful and effective cybersecurity practice in today’s workforce. Since our program blends both the technical and non-technical aspects of cybersecurity, our graduates share a common understanding of the operational cybersecurity environment and also have the opportunity to expand their knowledge on specific cybersecurity interests.');
-</script>
-
-
-<script>
-$(window).load(function() {
-	$("#tfa_11").attr("value", vars['first']);
-	$("#tfa_12").attr("value", vars['last']);
-	$("#tfa_20").attr("value", vars['email']);
-});
-</script>
-
-
-<script>
-$('#tfa_0').submit(function() {
-  ga('send', 'event', 'inquiry', 'submit', 'contact_us');
-});
-ga(function(tracker) {
-  var clientId = tracker.get('clientId');
-  $("#tfa_808").attr("value", clientId)
-});
-</script>
 
 </body>
 </html>

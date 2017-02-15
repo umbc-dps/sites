@@ -47,7 +47,7 @@
   <!-- END umbc header -->
   <div id="site-menu-background"> 
     <!-- gold toolbar -->
-    <?php include("includes/gold-nav.php"); ?>
+    <?php //include("includes/gold-nav.php"); ?>
     <!-- END gold toolbar --> 
   </div>
 </div>
@@ -64,18 +64,19 @@
 
          <!-- Slide One  -->
           
-          <li id="slide1">  <a href="https://new.dineoncampus.com/UMBC/where-to-eat"><img src="images/food.jpg" alt="UMBC Winter Dining" target="_blank"></a>
+          <li id="slide1">  
+          <img src="images/10.jpg" alt="UMBC Winter Dining" target="_blank">
             <div class="carousel-caption wordwrap">
-              <h3>Winter Dining Options & Hours</h3>
-              <small>View dining options for Winter Session.</small>
-              <p><a href="https://new.dineoncampus.com/UMBC/where-to-eat" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+              <h3>Winter Session 2018</h3>
+              <small>January 2 - 26, 2018. Registration Opens October 22, 2017.</small>
+             
             </div>
-            <p id="captiontwo"><a href="https://new.dineoncampus.com/UMBC/where-to-eat" target="_blank">Winter Dining Options & Hours</a></p>
+            <p id="captiontwo"><a href="#">Winter Session 2018: Jan 2 - 26</a></p>
           </li>
           
           <!-- END Slide One --> 
           
-          <!-- Slide Two -->
+          <!-- Slide Two --
           
           <li id="slide2"> <a href="http://my.umbc.edu/groups/seb/events"><img src="images/1.jpg" alt="Winter Events" target="_blank"></a>
             <div class="carousel-caption-right wordwrap">
@@ -86,7 +87,7 @@
             <p id="captiontwo"><a href="http://my.umbc.edu/groups/seb/events" target="_blank">Winter Session Events</a></p>
           </li>
           
-          <!-- END Slide Two --> 
+          -- END Slide Two --> 
           
           
         </ul>
@@ -104,15 +105,14 @@
       
       <dl class="eleven columns alpha">
         <br>
-        <h3><strong>Winter Session 2017</strong></h3>
-        <h4>January 3 - 27</h4>
-        <p>View your final grades via your <em><a href="http://my.umbc.edu/" target="_blank">myUMBC</a></em> account.</p>
+        <h3><strong>Winter Session 2018</strong></h3>
+        <h4>January 2 - 26</h4>
+        <p>Winter 2018 schedule of classes will go live <strong>September 17, 2017</strong>.</p>
         
-        <p>Order official UMBC transcripts through <a href="http://registrar.umbc.edu/services/records/" target="_blank">Parchment Inc.</a>, UMBC&rsquo;s online transcript partner.  Unofficial transcripts can be downloaded and printed through <em>my</em>UMBC.</p>
+        <p>Registration begins <strong>October 22, 2017</strong>.</p>
         
-        <p><a href="https://my.umbc.edu/alerts" target="_blank">Sign-up for E2Campus</a>, an emergency alert text-messaging system that notifies subscribers of any campus-related emergency (such as a potential safety hazard or campus closure due to weather).</p>
-        
-        <p>Be sure to join us again for <a href="http://www.umbc.edu/summer/" target="_blank">Summer Session 2017</a>!</p>
+        <p>Visiting students from other colleges and universities must first apply and be admitted to UMBC before registering for winter courses.  The visiting student winter 2018 application will go live <strong>October 2, 2017</strong>.</p>
+
       </dl>
     </div>
       

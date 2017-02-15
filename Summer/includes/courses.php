@@ -2089,6 +2089,30 @@
 <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
   <tr>
+    <td class="subject">ECAC</td>
+    <td class="classNumber">330</td>
+    <td class="course-title">Principles of Taxation</td>
+    <td class="number"><a href="" class="course-link">2692</a></td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>Off Campus</td>
+    <td>Online</td>
+    <td>None</td>
+    <td>12:00 AM</td>
+    <td>12:00 AM</td>
+    <td></td>
+    <td>TBA</td>
+    <td>ECAC 330</td>
+    <td>You must have completed ECON121 with a grade of C or better to take this course.</td>
+    <td>Has Prerequisite</td>
+    <td></td>
+    <td></td>
+    <td>*ECAC</td>
+    <td class="syllabus">&nbsp;</td>
+  </tr>
+  <tr>
   <td class="subject">ECON</td>
   <td class="classNumber">101</td>
   <td class="course-title">Prin Of Microeconomics</td>
