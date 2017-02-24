@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Special Programs | Summer Session at UMBC</title>
+<title>GEP Courses | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="Winter session GEP course offerings and requirements." />
@@ -24,7 +24,6 @@
 <link href="../css/font-awesome.min.css" rel="stylesheet">
 <link href="../css/styles.css" rel="stylesheet">
 <link href="../css/magnetic-popup.css" rel="stylesheet">
-<link href="../css/accordion.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/jquery.modal.css" type="text/css" media="screen" />
 
 <!-- Javascript -->
@@ -37,62 +36,19 @@
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 
+
 <style>
-.seven.columns{
-	background-color:  #000;
-	height: 250px;
-	line-height:250px;
-	text-align:center;
-}
-.seven.columns span.v-center {
-  display: inline-block;
-  vertical-align: middle;
-  line-height: normal;
-}
-
-.seven a{
-	color: #FFF!important;
-	display:block;
-	background-color:rgba(0,0,0,.5);
-	text-decoration:none!important;
-}
-.seven a:hover{
-	color: #FFF!important;
-	display:block;
-	background-color:rgba(0,0,0,0)
-}
-
-.baltimore{
-	background-image:url('../images/baltimore.jpg');
-	background-size:cover;
-	font-size:300%;
-	font-weight: bold;
-}
-
-
-.health{
-	background-image:url('../images/fruitcart.jpg');
-	background-size:cover;
-	font-size:300%;
-	font-weight: bold;
-}
-
-.csj{
-	background-image:url('../images/protest.jpg');
-	background-size:cover;
-	font-size:300%;
-	font-weight: bold;
-	background-color:#FFF;
-}
-
-.studyabroad{
-	background-image:url('../images/italy.png');
-	background-size:cover;
-	font-size:300%;
-	font-weight: bold;
-}
+.accordionheader {color:#000; margin-top:8px; text-align: left;}
+.accordionbody {background: transparent; padding-top:10px;}
+.accordionbody ul li {list-style:square}
+.accordionheader:hover{cursor:pointer}
+.accordionheader h4{font-size:24pt; font-weight:bold; padding:5px; line-height:14pt}
 </style>
+
 </head>
+
+
+
 
 <body>
 
@@ -111,79 +67,42 @@
  </div>
 </div>
 <!-- BEGIN MAIN -->
-<div class="container column" id="main">  <div  id="winter-heading">
-    <a href="index">
-    <h1 class="remove-bottom" id="summer-heading">
-    <img src="../images/summer-heading.png" style="width:100%">
+<div class="container column" id="main">
+  <div  id="winter-heading">
+    <a href="http://www.umbc.edu/summer/specialprograms">
+    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FFBD21">
+    <img src="../images/specialprograms-baltimore.png" style="width:100%">
     </h1>
     </a>
   </div>
 
 
- <div class="sixteen columns" style="padding-top:1em;">
-  <!-- Page Title -->
-        <div align="center"><img src="../images/specialprograms.png" style="width:50%"></div>
-    <!-- END Page Title -->       
-	<div class="content">
-		<div class="narrowchart">
-      
-     
-     <!-- Start Content --> 
-     
-     <h4>Learn how to make a difference – make this summer count!</h4>
-   <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom. Explore concepts of civic engagement, pursue service learning or undergraduate research, and broaden your perspective this summer. Most courses fulfill UMBC’s general education requirements, and summer scholarships are available for qualified students.</p>  
-     
-  <!-- Modal Baltimore -->
-  
-  <div class="one column">&nbsp;</div>
+<div class="sixteen columns" style="padding-top:1em;">
+
+   <div class="content">
+  <div class="narrowchart">
+ <div id="accordion">   
+   <!-- Start Content --> 
 
 
-  <!-- Link to open the modal -->
-  <div class="seven columns baltimore">
-  	<a href="programs#baltimore" target="_blank">
-      <span class="v-center">
-        Discover Baltimore
-      </span>
-    </a>
-  </div>
+ <img src="../images/baltimore_xlg.jpg" style="width:98%; padding:5px">
+  <h4>Discover Baltimore</h4>
+ <p>Baltimore, our “neighbor to the north,” offers wide-ranging opportunities as a living classroom where you can discover many facets of this historic and complex city. Get off campus and engage in hands-on experiential learning by exploring Baltimore’s urban neighborhoods, its rich and complex racial history, architectural heritage and vibrant street culture, museums and civically engaged contemporary art, and diverse musical and literary traditions. Some summer classes will regularly meet downtown in UMBC’s new city classroom near Hollins Market, where you can actively learn and discover first-hand what makes Baltimore such a unique and special city. </p>
 
 
-  <!-- Link to open the modal -->
-  <div class="seven columns csj">
-  	<a href="programs#csj" target="_blank">
-      <span class="v-center">
-      	Culture & Social Justice
-      </span>
-    </a>
-  </div>
-  
-  <br clear="all"><br>
-  
-  
-  <div class="one column">&nbsp;</div>
+<ul><strong>Courses:</strong><br><br>
+<li>AFST 100: Introduction to the Black  Experience</li>
+<li> AMST 310: Gender and Inequality in America</li>
+<li>ANTH 311: Urban Anthropology</li>
+<li>ART 216: Studies  in Visual Culture:  Prehistory through  the 1750s</li>
+<li>ART 392: Topics  in Art or Media I:  Soundscapes:  Baltimore</li>
+<li>GWST 310: Gender and Inequality in America</li>
+<li>HIST 411: Service  Learning in Public History:  Explore  Baltimore Heritage</li>
+<li>MUSC 333: Race and Jazz</li>
+</ul>
+</div>  
  
-
-  <!-- Link to open the modal -->
-  <div class="seven columns health">
-  	<a href="programs#health" target="_blank">
-      <span class="v-center">
-      	Health & Social Inequalities
-      </span>
-    </a>
-  </div>
-
-
-  <!-- Link to open the modal -->
-  <div class="seven columns studyabroad">
-      <a href="programs#studyabroad" target="_blank">
-        <span class="v-center">
-            Study Abroad
-        </span>
-      </a>
-  </div>
-
-
-<br clear="all"><br>
+ 
      <!-- END Content -->
      
 	</div></div>
@@ -226,8 +145,5 @@ $('h4').click(function() {
 });
 </script> 
 
-
-
-  
 </body>
 </html>

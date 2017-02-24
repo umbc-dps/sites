@@ -10,7 +10,7 @@ $lang = 'en';
 <html>
 <head>
 
-<title>Directions | Cybersecurity at UMBC</title>
+<title>Orientation | Cybersecurity at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="The Master’s in Professional Studies in Cybersecurity prepares experienced professionals to fill management and leadership roles." />
 

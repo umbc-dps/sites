@@ -19,7 +19,7 @@
     <dd><a href="#">Academic</a> &amp; <a href="#">Financial</a></dd>
 
     <br>
-    <a class="button gold" href="#" target="_blank">Download Catalog</a><br>
+    <a class="button gold" href="/documents/catalog.pdf" target="_blank">Download Catalog</a><br>
 	<a class="button gold" href="#" target="_blank">View All Courses</a>
   </dl>
 </aside>

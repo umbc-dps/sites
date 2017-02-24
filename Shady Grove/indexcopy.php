@@ -123,21 +123,6 @@
 
 
 <div class="panel panel-2">
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/classroom.jpg" alt="Three"></div>
-<div class="content-details right">
-<a class="mobile-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">&raquo;</a>
-<div class="title">Interested in our Fall 2017 Cohort?</div>
-<div class="tagline">Now accepting applications for our IO Psychology Program! The March 1 application deadline is quickly approaching.
-</div>
-<a class="web-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Today! &raquo;</a>
-</div>
-</div>
-
-
-
-
-<div class="panel panel-3">
 <a href="http://www.umbc.edu/uhs/" target="_blank">
 <div class="image mobile-center">
 <img src="images_homepage/3.jpg" alt="Two">
@@ -151,7 +136,23 @@
 </a>
 </div>
 
-<!-- Hide Carousels --
+
+
+
+<div class="panel panel-3">
+<a href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">
+<div class="image mobile-left"><img src="images_homepage/parking.jpg" alt="Three"></div>
+<div class="content-details right">
+<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">&raquo;</a>
+<div class="title">Spring Parking Permits</div>
+<div class="tagline">If you don't have an annual parking permit, it is time to get your Spring permit to ensure you are covered to park on campus. 
+</div>
+<a class="web-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">Parking Website &raquo;</a>
+</div>
+</a>
+</div>
+
+
 <div class="panel panel-4">
 <a href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">
 <div class="image mobile-left"><img src="images_homepage/katie_morris.jpg" alt="4"></div>
@@ -164,7 +165,7 @@
 </a>
 </div>  
 
-
+<!-- Hide Carousels --
   <div class="panel panel-6">
 <div class="image mobile-left"><img src="images_homepage/6.jpg" alt="6"></div>
 <div class="content-details right">
@@ -183,13 +184,12 @@
 <div class="playlist"><ul>
 <li class="item-1"><img src="images_homepage/truegrit_sm.jpg" alt="1"></li>
 
-<li class="item-2"><img src="images_homepage/classroom_tmb.jpg" alt="3"></li>
+<li class="item-2"><img src="images_homepage/3_tmb.jpg" alt="2"></li>
 
-<li class="item-3"><img src="images_homepage/3_tmb.jpg" alt="2"></li>
-<!-- Hide Preview Images --
+<li class="item-3"><img src="images_homepage/parking-small.jpg" alt="3"></li>
 <li class="item-4"><img src="images_homepage/katie_morris_tmb.jpg" alt="4"></li>
 
-
+<!-- Hide Preview Images --
 <li class="item-6"><img src="images_homepage/6_tmb.jpg" alt="6"></li>
 --> 
 </ul></div>

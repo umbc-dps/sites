@@ -12,7 +12,7 @@
 <file name="forms.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131211862170000000" remote="131211898170000000" Dst="1" />
 <file name="graduate.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131164472100000000" remote="131164508100000000" Dst="1" />
 <file name="history.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131310470545036130" remote="131310470540000000" Dst="1" />
-<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131310481042485911" remote="131310481040000000" Dst="1" />
+<file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131323566788431765" remote="131323566790000000" Dst="1" />
 <file name="internships.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131167115870680774" remote="131167151870000000" Dst="1" />
 <file name="newlyadmitted.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131254242680000000" remote="131254242680000000" Dst="1" />
 <file name="organizations.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131262930878855617" remote="131262934370000000" Dst="1" />
@@ -41,4 +41,5 @@
 <file name="index-draft.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131297424380000000" remote="131297424380000000" Dst="1" />
 <file name="crosscampusenrollmentdraft.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131305315766711975" remote="131305315770000000" Dst="1" />
 <file name="newfaculty.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131306166801641183" remote="131306166810000000" Dst="1" />
+<file name="indexcopy.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygrove/" local="131322693167802367" remote="131322693170000000" Dst="1" />
 </dwsync>

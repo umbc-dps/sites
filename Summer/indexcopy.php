@@ -103,7 +103,25 @@
     	<a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" target="_blank">Featured Course: Animal Behavior</a>
 	</p>
 </li>
-<!-- END Slide Two -->           
+<!-- END Slide Two -->
+
+<!-- Slide Three -->
+<li id="slide2">
+	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
+    	<img src="images/featured/gwst310.jpg" alt="Featured Course: Gender and Inequality in America">
+	</a>
+	<div class="carousel-caption wordwrap">
+		<h3>Featured Course: Gender and Inequality in America <br>(GWST 310)</h3>
+		<small>Examine the ways in which gender, race, and class shape individual experiences in American society. (Arts & Humanities GEP) </small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1272" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	</div>
+	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">Featured Course: Gender and Inequality in America</a>
+	</p>
+</li>
+<!-- END Slide Three -->
+
+      
 </ul>
 <div id="dotcontainer"></div>
 </div>
