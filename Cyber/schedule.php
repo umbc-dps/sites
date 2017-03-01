@@ -76,8 +76,8 @@ $lang = 'en';
 
 <h3>Summer 2017 Schedule of Classes</h3>
  
-<p><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session II - 12 Weeks (May 30, 2017 - August 18, 2017)<strong><br>
-Advanced Registration Begins: </strong>March 6, 2017<strong><br>
+<p><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session II - 12 Weeks (May 30, 2017 - August 18, 2017)<br>
+<strong>Advanced Registration Begins: </strong>March 6, 2017</strong><br>
   <strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
 	<strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
@@ -115,6 +115,14 @@ Advanced Registration Begins: </strong>March 6, 2017<strong><br>
     <td>3.014</td>
   </tr>
   <tr>
+    <td>ENMG 652 (1041)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1041" target="_blank">Mgmt, Leadership and Communication</a></td>
+    <td>Monday</td>
+    <td>4:30 - 7:40 PM</td>
+    <td>Hybrid</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
     <td>CYBR 691(2687)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2687" target="_blank">Special Topics: Software Security</a></td>
     <td>Monday</td>
@@ -125,12 +133,15 @@ Advanced Registration Begins: </strong>March 6, 2017<strong><br>
   </table>
 <p></p>
 <p>*Course held at UMBC BW Tech South (<a href="http://www.umbc.edu/cyber/directions.php" target="_blank">directions</a>)</p>
-<h3>Spring 2017 Schedule of Classes</h3>
 
-<p><strong>Semester Dates:</strong> January 30, 2017 – May 16, 2017<br>
-  <strong>Advanced Registration Begins: </strong>October 31, 2016 (for students currently enrolled in fall 2016) <br>
-  <strong>Registration For Newly Admitted Students:</strong> December 1, 2016<br>
-  <strong>Last Day to Add/Drop a Class: </strong>February 10, 2017<br>
+<hr>
+
+<h3>Fall 2017 Schedule of Classes</h3>
+
+<p><strong>Semester Dates:</strong> August 30, 2017 - December 12, 2017<br>
+  <strong>Advanced Registration Begins: </strong>April 3, 2017 (for students currently enrolled in spring 2017) <br>
+  <strong>Registration For Newly Admitted Students:</strong> June 1, 2017<br>
+  <strong>Last Day to Add/Drop a Class: </strong>September 13, 2017<br>
   <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
 <p>There may be more courses announced in the near future.  This list is not final.</p>
@@ -145,101 +156,63 @@ Advanced Registration Begins: </strong>March 6, 2017<strong><br>
     <td width="14%">ROOM</td>
   </tr>
   <tr>
-    <td>CYBR  620   (4833)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5213" target="_blank">Introduction to Cybersecurity</a></td>
-    <td>Tuesday</td>
-    <td>6:00 - 8:45 PM</td>
-    <td>In Person</td>
-    <td>U572</td>
-    </tr>
-  <tr>
-    <td>CYBR  620   (5213)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6268" target="_blank">Introduction to Cybersecurity</a></td>
+    <td>CYBR  620   (5246)</td>
+    <td>Introduction to Cybersecurity</td>
     <td>Tuesday</td>
     <td>6:00 - 8:45 PM</td>
     <td>In Person</td>
     <td>3.014</td>
     </tr>
   <tr>
-    <td>CYBR  621   (5911)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5911" target="_blank">Cyber Warfare</a></td>
+    <td>CYBR  621   (4912)</td>
+    <td>Cyber Warfare</td>
     <td>Wednesday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>3.013</td>
-    </tr>
+    <td>3.014</td>
+  </tr>
   <tr>
-    <td>CYBR  622   (4834)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4834" target="_blank">Global Cyber Capabilities and Trends</a></td>
-    <td>Wednesday</td>
-    <td>7:10 - 9:40 PM</td>
-    <td>Hybrid</td>
-    <td>U572</td>
-    </tr>
-  <tr>
-    <td>CYBR  623   (4835)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/4835" target="_blank">Cybersecurity Law & Policy</a></td>
+    <td>CYBR  623   (4863)   </td>
+    <td>Cybersecurity Law & Policy</td>
     <td>Monday</td>
+    <td>7:10  - 9:40 PM</td>
+    <td>In Person</td>
+    <td>3.013</td>
+  </tr>
+  <tr>
+    <td>CYBR  624   (5849)   </td>
+    <td>Cybersecurity Project</td>
+    <td>Tuesday</td>
     <td>4:30  - 7:00 PM</td>
+    <td>Hybrid</td>
+    <td>U638</td>
+    </tr>
+  <tr>
+    <td>CYBR 650   (5565)   </td>
+    <td>Cyber Operations Management</td>
+    <td>Wednesday</td>
+    <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
     <td>3.013</td>
     </tr>
   <tr>
-    <td>CYBR  624   (6021)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5681" target="_blank">Cybersecurity Project</a></td>
-    <td>Tuesday</td>
-    <td>4:30  - 7:00 PM</td>
-    <td>Hybrid</td>
-    <td>U572</td>
-    </tr>
-    <tr>
-      <td> CYBR 644 (8422)</td>
-    <td>Practitioner Development&nbsp; Lab</td>
-    <td>Wednesday</td>
-    <td>6:00 - 8:45 PM</td>
-    <td>In Person</td>
-    <td>Sherman    Hall 464</td>
-    <tr>
-    <td>CYBR 650   (5912)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5912" target="_blank">Cyber Operations Management</a></td>
-    <td>Wednesday</td>
-    <td>7:10 - 9:40 PM</td>
-    <td>In Person</td>
-    <td>3.014</td>
-    </tr>
-  <tr>
-    <td>CYBR 658   (7117) </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7117" target="_blank">Risk Analysis & Compliance</a></td>
+    <td>CYBR 658   (6566) </td>
+    <td>Risk Analysis & Compliance</td>
     <td>Thursday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
     <td>3.014</td>
     </tr>
   <tr>
-    <td>CYBR 691   (7760)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7760" target="_blank">Special Topics: Intro to Reverse  Engineering</a></td>
+    <td>CYBR 691   (6569)</td>
+    <td>Special Topics: Software Security</td>
     <td>Monday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>3.013</td>
+    <td>3.014</td>
     </tr>
-  <tr>
-    <td>CYBR 691   (7761)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7761" target="_blank">Special Topics: Insider Threat</a></td>
-    <td>Thursday</td>
-    <td>6:00  - 8:45 PM</td>
-    <td>In Person</td>
-    <td>3.013</td>
-    </tr>
-    <tr>
-      <td>CYBR 691    (8199)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7762" target="_blank">Special Topics: Enterprise Security</a></td>
-    <td>Tuesday</td>
-    <td>6:00 - 8:45 PM</td>
-    <td>In Person</td>
-    <td>3.013</td>
-    </table>
-
+</table>
+<p></p>
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions.php">Directions</a></strong>)</p>    
 <div id="contents" style="display:none"> </div>
 

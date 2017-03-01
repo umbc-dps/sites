@@ -189,7 +189,7 @@ html::after {
 <p><a href="http://catalog.umbc.edu/preview_program.php?catoid=12&poid=2236&returnto=556" target="_blank">Major Requirements Specific to History</a></p>
 
 <h3><strong>Additional Advising Resources</strong></h3>
-<p>Additional advising resources are available <a href="advising.php"><strong>here</strong></a><strong>.</strong> For more information on degree  requirements, please contact the UMBC-Shady Grove Program Coordinator at 301-738-6184.</p>
+<p>Additional advising resources are available <a href="advising.php"><strong>here</strong></a><strong>.</strong> For more information on degree  requirements, please contact the UMBC-Shady Grove  Assistant Director of Undergraduate Recruitment and Retention at 301-738-6184.</p>
   </div>
 
             <h3>Minor Requirements</h3>

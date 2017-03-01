@@ -38,25 +38,25 @@
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 
 <style>
-.seven.columns{
+.eight.columns{
 	background-color:  #000;
 	height: 250px;
 	line-height:250px;
 	text-align:center;
 }
-.seven.columns span.v-center {
+.eight.columns span.v-center {
   display: inline-block;
   vertical-align: middle;
   line-height: normal;
 }
 
-.seven a{
+.eight a{
 	color: #FFF!important;
 	display:block;
 	background-color:rgba(0,0,0,.5);
 	text-decoration:none!important;
 }
-.seven a:hover{
+.eight a:hover{
 	color: #FFF!important;
 	display:block;
 	background-color:rgba(0,0,0,0)
@@ -71,7 +71,7 @@
 
 
 .health{
-	background-image:url('../images/fruitcart.jpg');
+	background-image:url('../images/market2.jpg');
 	background-size:cover;
 	font-size:300%;
 	font-weight: bold;
@@ -113,8 +113,8 @@
 <!-- BEGIN MAIN -->
 <div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom" id="summer-heading">
-    <img src="../images/summer-heading.png" style="width:100%">
+    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FFBD21">
+    <img src="../images/specialprograms-header.png" style="width:100%">
     </h1>
     </a>
   </div>
@@ -122,7 +122,7 @@
 
  <div class="sixteen columns" style="padding-top:1em;">
   <!-- Page Title -->
-        <div align="center"><img src="../images/specialprograms.png" style="width:50%"></div>
+        
     <!-- END Page Title -->       
 	<div class="content">
 		<div class="narrowchart">
@@ -130,27 +130,24 @@
      
      <!-- Start Content --> 
      
-     <h4>Learn how to make a difference – make this summer count!</h4>
-   <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom. Explore concepts of civic engagement, pursue service learning or undergraduate research, and broaden your perspective this summer. Most courses fulfill UMBC’s general education requirements, and summer scholarships are available for qualified students.</p>  
-     
   <!-- Modal Baltimore -->
   
-  <div class="one column">&nbsp;</div>
+ 
 
 
   <!-- Link to open the modal -->
-  <div class="seven columns baltimore">
-  	<a href="programs#baltimore" target="_blank">
+  <div class="eight columns baltimore" style="margin:0px 3px 0px 0px">
+  	<a href="baltimore" target="_blank">
       <span class="v-center">
         Discover Baltimore
       </span>
     </a>
-  </div>
+  </div> 
 
 
   <!-- Link to open the modal -->
-  <div class="seven columns csj">
-  	<a href="programs#csj" target="_blank">
+  <div class="eight columns csj" style="margin:0px">
+  	<a href="csj" target="_blank">
       <span class="v-center">
       	Culture & Social Justice
       </span>
@@ -160,12 +157,11 @@
   <br clear="all"><br>
   
   
-  <div class="one column">&nbsp;</div>
  
 
   <!-- Link to open the modal -->
-  <div class="seven columns health">
-  	<a href="programs#health" target="_blank">
+  <div class="eight columns health" style="margin:0px 3px 0px 0px">
+  	<a href="health" target="_blank">
       <span class="v-center">
       	Health & Social Inequalities
       </span>
@@ -174,8 +170,8 @@
 
 
   <!-- Link to open the modal -->
-  <div class="seven columns studyabroad">
-      <a href="programs#studyabroad" target="_blank">
+  <div class="eight columns studyabroad" style="margin:0px">
+      <a href="studyabroad" target="_blank">
         <span class="v-center">
             Study Abroad
         </span>
@@ -184,6 +180,13 @@
 
 
 <br clear="all"><br>
+
+
+   <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom.</p> 
+   
+   <p>Most courses fulfill UMBC’s general education requirements, and summer scholarships are available for qualified students.</p>
+
+<br>
      <!-- END Content -->
      
 	</div></div>

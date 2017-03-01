@@ -123,7 +123,7 @@ td p{width:100%}
           <div class="accordionbody">
             <img src="images/faculty/ChelseaMoyer.gif" align="left" style="padding-right:15px" />
             <p>
-            	<strong>Program Coordinator (Undergraduate)</strong><br>
+            	<strong> Assistant Director of Undergraduate Recruitment and Retention</strong><br>
                 <a href="mailto:csmoyer@umbc.edu"> csmoyer@umbc.edu</a> | 301-738-6184<br>
 				<strong>Office:</strong> III-4157</strong>
             </p>

@@ -70,8 +70,8 @@ $lang = 'en';
 <!-- START Content -->
  <h3>Summer 2017 Schedule of Classes</h3>
  
-<p><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session II - 12 Weeks (May 30, 2017 - August 18, 2017)<strong><br>
-Advanced Registration Begins: </strong>March 6, 2017<strong><br>
+<p><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session II - 12 Weeks (May 30, 2017 - August 18, 2017)</strong><br>
+<strong>Advanced Registration Begins: </strong>March 6, 2017<br>
   <strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
 	<strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
@@ -119,7 +119,7 @@ Advanced Registration Begins: </strong>March 6, 2017<strong><br>
   </table>
   <p></p>
   <p>*Course held at UMBC Tech South (<a href="http://www.umbc.edu/biotech/directions.php" target="_blank">directions</a>)</p>
- 
+ <hr>
 <h3>Spring 2017 Schedule of Classes</h3>
 
 <p><strong>Semester Dates:</strong> January 30, 2017 – May 16, 2017<strong><br>

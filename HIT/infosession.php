@@ -214,14 +214,16 @@ var vars = [], hash;
             vars[hash[0]] = hash[1];
         }
 }
-$("#tfa_20").attr("value", vars['email']);
+var currentLocation = window.location.href.split('?')[0];
+/* $("#tfa_20").attr("value", vars['email']);
 $("#tfa_11").attr("value", vars['first']);
-$("#tfa_12").attr("value", vars['last']);
+$("#tfa_12").attr("value", vars['last']); */
 $("#tfa_432").attr("value", vars['utm_campaign']);
 $("#tfa_428").attr("value", vars['utm_source']);
 $("#tfa_430").attr("value", vars['utm_medium']);
 $("#tfa_434").attr("value", vars['utm_content']);
 $("#tfa_436").attr("value", vars['utm_term']);
+$("#tfa_445").attr("value", currentLocation);
 
 </script>
 

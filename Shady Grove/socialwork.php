@@ -199,7 +199,7 @@ html::after {
 <p><a href="http://catalog.umbc.edu/preview_program.php?catoid=12&poid=2333&returnto=556" target="_blank">Major Requirements Specific to Social Work</a></p>
 
 <h4><strong>Additional Advising Resources</strong></h4>
-<p>Additional advising resources are available <strong><a href="advising" target="_blank">here</a></strong>. For more information on degree  requirements, please contact the UMBC-Shady Grove Program Coordinator at 301-738-6184.</p>
+<p>Additional advising resources are available <strong><a href="advising" target="_blank">here</a></strong>. For more information on degree  requirements, please contact the UMBC-Shady Grove  Assistant Director of Undergraduate Recruitment and Retention at 301-738-6184.</p>
   </div>
 
             <h3>Minor Requirements</h3>

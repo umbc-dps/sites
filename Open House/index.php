@@ -158,7 +158,7 @@ aside p, aside dl {
 <h6>Participate in Program Exploration Sessions where you'll hear from program directors & faculty to learn more about our programs.</h6>
 <br>
 
-<h6>Learn about UMBC Graduate Programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology and Systems Engineering.</h6>
+<h6>Learn about UMBC Graduate Programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology, Systems Engineering, Technical Management.</h6>
 <br>
 
 

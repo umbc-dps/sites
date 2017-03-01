@@ -117,7 +117,7 @@ tr.hidden-fields{height:0px!important; width:0px!important}
 
   <p>Thank you for registering for UMBC-Shady Grove Undergraduate Preview Night! You will receive an email confirmation shortly.</p>
   
-  <p> Should you have any questions or concerns, please feel free to contact <a href="mailto:csmoyer@umbc.edu">Chelsea Moyer</a>, Program Coordinator.</p>
+  <p> Should you have any questions or concerns, please feel free to contact <a href="mailto:csmoyer@umbc.edu">Chelsea Moyer</a>,  Assistant Director of Undergraduate Recruitment and Retention.</p>
 
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">

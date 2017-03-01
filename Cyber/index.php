@@ -118,16 +118,17 @@ $lang = 'en';
 
 <li id="slide3">
 
-<a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" target="_blank">
- <img alt="cyber talk" src="images/cybertalks2.jpg"> </a>
+<a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" target="_blank">
+<img src="images/DianeParr.jpg"  alt=""/>
+ </a>
  
-<div class="carousel-caption wordwrap">
-  <h3>Cyber Talk!</h3>
-  <small>Join us for an exciting and engaging discussion highlighting special topics such as the operation of 4G LTE cellular networks and threats posed to mobile technology</small>
+<div class="carousel-caption-right wordwrap">
+  <h3>Congressman Lieu Welcomes Diana Parr to DC Team</h3>
+  <small>Diana Parr, adjunct instructor for the Cybersecurity Graduate Program and Senior Brookings Fellow has been selected to join Congressman Ted W. Lieu's (D| Los Angeles County) legislative team in Capitol Hill.</small>
   
-  <p><a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" class="web-seemore">RSVP Here!</a></p></div>
+  <p><a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" class="web-seemore" target="_blank">Find Out More</a></p></div>
 
-<p id="captionthree"><a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel">Cyber Talk!</a></p>
+<p id="captionthree"><a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" target="_blank">Congressman Lieu Welcomes UMBC's Own Diana Parr to DC Team</a></p>
 
 </li>
 

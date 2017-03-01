@@ -75,15 +75,13 @@ $lang = 'en';
   <div class="eleven columns">
   
 <!-- START Content -->
-
-<h3>Spring 2017 Schedule of Classes</h3>
-<p align="left"><strong>Semester Dates:</strong> January 30, 2017 – May 16, 2017<strong><br>
-Advanced Registration Begins: </strong>October 31, 2016 (for students currently enrolled in fall 2016)<strong><br>
-Registration For Newly Admitted Graduate Students:</strong> December 1, 2016<br>
-<strong>Last Day to Add/Drop a Class:</strong> February 10, 2017<br>
-  <br>
+<h3>Summer 2017 Schedule of Classes</h3>
+<p align="left"><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session II - 12 weeks (May 30, 2017 - August 18, 2017)<br>
+<strong>
+Advanced Registration Begins: </strong>March 6, 2017</strong><br>
+<strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
   <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-<br>
+
 
 <table id="schedule">
   <tr>
@@ -95,53 +93,81 @@ Registration For Newly Admitted Graduate Students:</strong> December 1, 2016<br>
     <td width="15%">ROOM</td>
   </tr>
   <tr>
-    <td valign="bottom">HIT  658   (6738)</td>
-    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6738" target="_blank">Health  Informatics I</a></td>
+    <td valign="bottom">HIT  760   (2571)</td>
+    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2571" target="_blank">Health  Informatics Capstone</a></td>
+    <td valign="bottom">Thursday</td>
+    <td valign="bottom">4:30 - 7:40 PM</td>
+    <td valign="bottom">Hybrid</td>
+    <td>TBD</td>
+    </tr>
+</table>
+
+<hr>
+
+<h3>Fall 2017 Schedule of Classes</h3>
+<p align="left"><strong>Semester Dates:</strong> August 30, 2017 - December 12, 2017<strong><br>
+Advanced Registration Begins: </strong>April 3, 2017 (for students currently enrolled in spring 2017)<strong><br>
+Registration For Newly Admitted Graduate Students:</strong> June 1, 2017<br>
+<strong>Last Day to Add/Drop a Class: </strong>September  13, 2017<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+<table id="schedule">
+  <tr>
+    <td width="15%">COURSE/CLASS<br>NUMBER</td>
+    <td width="20%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="15%">FORMAT</td>
+    <td width="15%">ROOM</td>
+  </tr>
+  <tr>
+    <td valign="bottom">HIT  658   (6365)</td>
+    <td valign="bottom">Health  Informatics I</td>
     <td valign="bottom">Wednesday</td>
     <td valign="bottom">6:00 - 8:45 PM</td>
     <td valign="bottom">In Person</td>
-    <td>ITE 241</td>
+    <td>TBD</td>
     </tr>
   <tr>
-    <td valign="bottom">HIT  663   (7786)</td>
-    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7786" target="_blank">Health  IT Policy & Administration</a></td>
-    <td valign="bottom">Tuesday</td>
-    <td valign="bottom">7:10  - 9:40 PM</td>
-    <td valign="bottom">In Person</td>
-    <td>ITE 241</td>
-    </tr>
-  <tr>
-    <td valign="bottom">HIT  674   (6740)</td>
-    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6740" target="_blank">Process  &amp; Quality Improvement <br>with Health IT </a></td>
+    <td valign="bottom">HIT  664   (7863)</td>
+    <td valign="bottom">Health  IT Law and Ethics</td>
     <td valign="bottom">Monday</td>
+    <td valign="bottom">4:30  - 7:00 PM</td>
+    <td valign="bottom">In Person</td>
+    <td>TBD</td>
+    </tr>
+  <tr>
+    <td valign="bottom">HIT  674   (7871)</td>
+    <td valign="bottom">Process  &amp; Quality Improvement <br>with Health IT </td>
+    <td valign="bottom">Tuesday</td>
     <td valign="bottom">7:10 - 9:40 PM</td>
     <td valign="bottom">In Person</td>
-    <td>ITE 241</td>
+    <td>TBD</td>
     </tr>
   <tr>
-    <td valign="bottom">HIT  723   (7355)</td>
-    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7355" target="_blank">Public Health Informatics</a></td>
+    <td valign="bottom">HIT  723   (6739)</td>
+    <td valign="bottom">Public Health Informatics</td>
     <td valign="bottom">Thursday</td>
     <td valign="bottom">4:30 - 7:00 PM</td>
     <td valign="bottom">Hybrid</td>
-    <td>ITE 241</td>
+    <td>TBD</td>
     </tr>
   <tr>
-    <td valign="bottom">HIT  759   (7359)</td>
-    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7359" target="_blank">Health  Informatics II</a></td>
-    <td valign="bottom">Thursday</td>
+    <td valign="bottom">HIT  750   </td>
+    <td valign="bottom">Data Analytics</td>
+    <td valign="bottom">Monday</td>
     <td valign="bottom">4:30 - 7:00 PM</td>
-    <td valign="bottom">Hybrid</td>
-    <td>ITE 239</td>
-    </tr>
+    <td valign="bottom">In Person</td>
+    <td>TBD</td>
+  </tr>
   <tr>
-    <td valign="bottom">HIT  760   (7787)</td>
-    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7787" target="_blank">Health  Informatics Capstone</a></td>
+    <td valign="bottom">HIT  759   (6741)</td>
+    <td valign="bottom">Health  Informatics II</td>
     <td valign="bottom">Wednesday</td>
     <td valign="bottom">6:00 - 8:45 PM</td>
     <td valign="bottom">Hybrid</td>
-    <td>SON 206</td>
-    </tr>
+    <td>TBD</td>
+  </tr>
   </table>
 
 <p>&nbsp;</p>

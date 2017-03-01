@@ -131,7 +131,7 @@ only screen and (max-width: 1023px),
 
 <ul>
   <li>Visit with our Program Directors! At the USG Open House, you will have an opportunity to meet and discuss your next steps in the transfer process with our <strong>History, Political Science, Psychology,</strong> and <strong>Social Work Program Directors</strong>.  </li>
-  <li>Interested in applying to one of UMBC-Shady Grove's undergraduate programs for Spring 2017? Meet with Chelsea Moyer, Program Coordinator, from <strong>10:30am-11:30am (Building III, Room 3211) </strong>to receive assistance in beginning your Common Application!</li>
+  <li>Interested in applying to one of UMBC-Shady Grove's undergraduate programs for Spring 2017? Meet with Chelsea Moyer,  Assistant Director of Undergraduate Recruitment and Retention, from <strong>10:30am-11:30am (Building III, Room 3211) </strong>to receive assistance in beginning your Common Application!</li>
   <li>Additionally, if you would like in-depth, step-by-step information regarding the transfer process, application, and admission process as well as financial aid and scholarship opportunities, UMBC-Shady Grove will be hosting an <strong>Undergraduate Information Session</strong> on October 29th following the Open House from <strong>12:30pm-1:30pm</strong> in the <strong>Camille Kendall Academic Center (Building III), Room 3156</strong>.</li> 
 </ul> 
 

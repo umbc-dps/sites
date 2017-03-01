@@ -99,7 +99,7 @@ html::after {
       <div class="content">
 <h3>Admitted Student Checklist</h3>
             
-<p>Congratulations on your admission to UMBC at The Universities at Shady Grove!  We look forward to welcoming you to the UMBC-Shady Grove community and meeting you at Orientation and Course Selection Day. Should you have any questions related to the Admitted Student Checklist, please contact Chelsea Moyer, Program Coordinator, at <a href="mailto:csmoyer@umbc.edu">csmoyer@umbc.edu</a> or 301-738-6184.</p>
+<p>Congratulations on your admission to UMBC at The Universities at Shady Grove!  We look forward to welcoming you to the UMBC-Shady Grove community and meeting you at Orientation and Course Selection Day. Should you have any questions related to the Admitted Student Checklist, please contact Chelsea Moyer,  Assistant Director of Undergraduate Recruitment and Retention, at <a href="mailto:csmoyer@umbc.edu">csmoyer@umbc.edu</a> or 301-738-6184.</p>
 
 <p>As you begin your educational journey at UMBC, please refer to the checklist below to get started with next steps:</p>
 

@@ -1,6 +1,10 @@
 <center style="background-color:#FEEAAD; width:95%;"><br>
-	<a href="stem"><img src="http://umbc.edu/summer/images/stemlogo.gif" style="width:70%;"></a><br><br></center>
-
+	<a href="stem"><img src="http://umbc.edu/summer/images/stemlogo.gif" style="width:70%;"></a><br><br>
+</center>
+    <br>
+<center style="background-color:#FEEAAD; width:95%;">
+    <a href="specialprograms"><img src="images/specialprograms.png" style="width:100%; padding-top:15px; padding-bottom:10px"></a><br>
+</center>
  
 <aside class="five columns add-bottom" style="width:100%;margin:0;">
 <!--

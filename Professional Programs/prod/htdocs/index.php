@@ -185,15 +185,16 @@ BEGIN MAIN
 
 <li id="slide2">
 
-<a href="http://gritinaction.umbc.edu/blogs/" target="_blank"><img src="images/blogopp.jpg" alt="Our 5 Favorite Career Blogs"/></a>
+<a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" target="_blank">
+<img src="images/DianeParr.jpg" width="640" height="370" alt=""/></a>
 
-<div class="carousel-caption wordwrap">
-<h3>Our 5 Favorite Career Blogs.</h3>
-<small>We put together a list of some of our favorite blogs.</small>
+<div class="carousel-caption-right wordwrap">
+<h3>Congressman Welcomes Diana Parr to DC</h3>
+<small>Diana Parr, adjunct instructor for the Cybersecurity Graduate Program was selected to join Congressman Ted W. Lieu's legislative team in Capitol Hill.</small>
 
-<p><a href="http://gritinaction.umbc.edu/blogs/" role="button" class="web-seemore" target="_blank">Check out the list!</a></p></div>
+<p><a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" role="button" class="web-seemore" target="_blank">Find Out More</a></p></div>
 
-<p id="captionthree"><a href="http://gritinaction.umbc.edu/blogs/" target="_blank">Our 5 Favorite Career Blogs.</h3>
+<p id="captionthree"><a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" target="_blank">Congressman Lieu Welcomes Diana Parr to DC Team</h3>
 </a></p>
 
 </li>
@@ -224,17 +225,18 @@ BEGIN MAIN
 
 <li id="slide4">
 
-<a href="http://www.umbc.edu/shadygrove/cyber/talks" target="_blank">
-<img src="images/cybertalks370.jpg" alt="cyber talk"/></a>
+<a href="http://news.umbc.edu/umbc-is-featured-in-the-baltimore-sun-for-enhancing-the-student-experience-in-and-out-of-the-classroom/?csid=492374" target="_blank"> 
+
+<img src="images/Elliot-Lasson-UMBC-2596-e1486671626806-640x370.jpg" width="665" height="370" alt=""/></a>
 
 
-<div class="carousel-caption wordwrap">
-<h3>Cyber Talk</h3>
-<small>Join us for an exciting and engaging discussion highlighting special topics such as the operation of 4G LTE cellular networks and threats posed to mobile technology</small>  
-          
-<p><a href="http://www.umbc.edu/shadygrove/cyber/talks" class="web-seemore">RSVP Here!</a></p></div>
+<div class="carousel-caption-right wordwrap">
+  <h3>UMBC highlighted in The Baltimore Sun</h3>
+  <small>Baltimore Sun's latest special section on education emphasizes how UMBC is enhancing the student experience in and out of the classroom.</small>  
+  
+  <p><a href="http://news.umbc.edu/umbc-is-featured-in-the-baltimore-sun-for-enhancing-the-student-experience-in-and-out-of-the-classroom/?csid=492374" class="web-seemore">Check It Out!</a></p></div>
 
-<p id="captionthree"><a href="http://www.umbc.edu/shadygrove/cyber/talks" target="_blank">Cyber Talk</a></p>
+<p id="captionthree"><a href="http://news.umbc.edu/umbc-is-featured-in-the-baltimore-sun-for-enhancing-the-student-experience-in-and-out-of-the-classroom/?csid=492374" target="_blank">UMBC highlighted in The Baltimore Sun</a></p>
  
 </li>
 
