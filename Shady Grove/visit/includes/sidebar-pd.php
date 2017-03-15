@@ -87,7 +87,8 @@
 <select name="entry.82693912" id="entry_82693912" aria-label="Please Select Program of Interest:  " aria-required="true" required hidden>
 <option value=""></option>
 <option value="History">History</option> 
-<option value="Political Science" selected>Political Science</option> <option value="Psychology">Psychology</option> 
+<option value="Political Science">Political Science</option> 
+<option value="Psychology">Psychology</option> 
 <option value="Social Work">Social Work</option>
 </select>
 <div class="required-message"></div></div></div></div>
@@ -116,7 +117,7 @@
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
 <select name="entry.865173428" id="entry_865173428" aria-label="Please select Visit with Undergraduate Program Director  " aria-required="true" required><option value=""></option>
-<option value="History: Thursday, February 23: 5:00pm">History: Thursday, February 23: 5:00pm</option> <option value="History: Wednesday, April 12: 1:00pm">History: Wednesday, April 12: 1:00pm</option> <option value="Political Science: Wednesday, February 15: 12:00pm">Political Science: Wednesday, February 15: 12:00pm</option> <option value="Political Science: Wednesday, February 22: 12:00pm">Political Science: Wednesday, February 22: 12:00pm</option> <option value="Political Science: Wednesday, March 1: 12:00pm">Political Science: Wednesday, March 1: 12:00pm</option> <option value="Political Science: Wednesday, March 8: 12:00pm">Political Science: Wednesday, March 8: 12:00pm</option>  <option value="Psychology: Wednesday, February 22: 5:30pm">Psychology: Wednesday, February 22: 5:30pm</option> <option value="Psychology: Thursday, April 13: 12:30pm">Psychology: Thursday, April 13: 12:30pm</option> <option value="Social Work: Tuesday, February 14: 12:00pm">Social Work: Tuesday, February 14: 12:00pm</option> <option value="Social Work: Tuesday, March 28: 5:30pm">Social Work: Tuesday, March 28: 5:30pm</option> <option value="Social Work: Friday, April 28: 12:00pm">Social Work: Friday, April 28: 12:00pm</option></select>
+<option value="History: Wednesday, April 12: 12:00pm">History: Wednesday, April 12: 12:00pm</option> <option value="Political Science: Wednesday, March 8: 12:00pm">Political Science: Wednesday, March 8: 12:00pm</option> <option value="Political Science: Wednesday, March 15: 12:00pm">Political Science: Wednesday, March 15: 12:00pm</option> <option value="Political Science: Wednesday, March 29: 12:00pm">Political Science: Wednesday, March 29: 12:00pm</option> <option value="Political Science: Wednesday, April 5: 12:00pm">Political Science: Wednesday, April 5: 12:00pm</option> <option value="Psychology: Thursday, April 13: 12:30pm">Psychology: Thursday, April 13: 12:30pm</option> <option value="Social Work: Tuesday, March 28: 5:30pm">Social Work: Tuesday, March 28: 5:30pm</option> <option value="Social Work: Friday, April 28: 12:00pm">Social Work: Friday, April 28: 12:00pm</option></select>
 
 <div class="required-message"></div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-select"><div class="ss-form-entry">

@@ -29,7 +29,7 @@ $lang = 'en';
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href="../css/accordion.css" rel="stylesheet">
+<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script src="../js/modernizr.custom.js"></script>
@@ -161,6 +161,24 @@ $lang = 'en';
    <p>Dr. Perkins&rsquo; consulting experience has been with private, federal and non-profit sector organizations. Her clients have included: Toyota, Novartis Pharmaceuticals, McGraw-Hill, Family Matters of Greater Washington, Arlington Temple United Methodist Church, Department of Commerce, United States Air Force and Alabama Department of Transportation.</p>
    
    <p>She received a Ph.D. and M.S. in industrial/organizational psychology from the University of Georgia, and a B.S. in psychology from Howard University. She has additional training from The Coaches Institute and in the Skilled Facilitator technique. She is SPHR (Senior Professional Human Resource) certified. Dr. Perkins is a member of the American Psychological Association, Society for Human Resource Management, Society for Industrial and Organizational Psychology. Also, she is an active member of Alpha Kappa Alpha, Incorporated.</p>
+</div>
+
+
+<div class="accordionheader">
+  <h4><a id="poland" href="#poland"></a>David G. Poland, M.A. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+   <p><img align="left" src="images/faculty/david-poland.jpg" alt="Lesley Perkins">David Poland has over forty years of experience in the development and management of counseling, training, employee assistance, occupational and environmental health services in the hospital, community, correctional and transportation industry environments.</p>
+
+	<p>Dave has designed and managed employee assistance and critical incident stress management programs; served as the Chairman of the Board for a non-profit residential treatment facility in Maryland; and, managed a transportation employer’s pre-placement, periodic, surveillance, fitness for duty and drug/alcohol testing programs.</p>
+
+	<p>Dave is an Adjunct Instructor for the Graduate/Professional Studies Program at McDaniel College, Westminster, Maryland. He has been a guest lecturer giving presentations addressing human resource challenges in today’s workplace for undergraduate and graduate programs at the University of Maryland, University of Baltimore, Johns Hopkins University and Marymount University. Dave has also tutored middle school students as part of his employer’s business-school partnership program and served as a mentor for Hartwick College’s professional “shadowing” program for graduating seniors.</p>
+
+	<p>Dave has critically reviewed the scriptographic <em>Preventing Workplace Violence—What You Can Do</em> at the request of Channing L. Bete Company, Inc., publisher.</p>
+
+	<p>Dave received his Masters in Clinical Psychology from Loyola College, completed the “Federal Workplace Mediation” certificate program from the Northern Virginia Mediation Service and been a Certified Employee Assistance Professional.  
+</p>
 </div>
 
 <div class="accordionheader">

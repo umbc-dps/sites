@@ -118,17 +118,17 @@ $lang = 'en';
 
 <li id="slide3">
 
-<a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" target="_blank">
-<img src="images/DianeParr.jpg"  alt=""/>
+<a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">
+<img src="images/md.jpg"  alt=""/>
  </a>
  
 <div class="carousel-caption-right wordwrap">
-  <h3>Congressman Lieu Welcomes Diana Parr to DC Team</h3>
-  <small>Diana Parr, adjunct instructor for the Cybersecurity Graduate Program and Senior Brookings Fellow has been selected to join Congressman Ted W. Lieu's (D| Los Angeles County) legislative team in Capitol Hill.</small>
+  <h3>Tina Williams Recognized by University System of Maryland</h3>
+  <small>Adjunct instructor Tina Williams has been contracted by USM to implement cybersecurity engagement and innovation activities with the National Cybersecurity Center of Excellence.</small>
   
-  <p><a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" class="web-seemore" target="_blank">Find Out More</a></p></div>
+  <p><a href="http://www.usmd.edu/newsroom/news/1699" class="web-seemore" target="_blank">Read More</a></p></div>
 
-<p id="captionthree"><a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" target="_blank">Congressman Lieu Welcomes UMBC's Own Diana Parr to DC Team</a></p>
+<p id="captionthree"><a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">Tina Williams Recognized by University System of Maryland</a></p>
 
 </li>
 

@@ -21,7 +21,7 @@ $lang = 'en';
   <meta content="The Master’s in Professional Studies in Geographic Information Systems prepares experienced professionals to fill management and leadership roles."><link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href="../css/accordion.css" rel="stylesheet">
+<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script src="../js/modernizr.custom.js"></script>

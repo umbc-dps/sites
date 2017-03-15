@@ -129,9 +129,8 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-	Tuesday, February 21, 11:00am<br>
-    Friday, March 24, 1:00pm<br>
-	Saturday, April 22: 12:30pm<br>
+	Friday, March 24, 1:00pm<br>
+	Saturday, April 22, 12:30pm<br>
 	Thursday, May 18, 3:00pm<br>
 	  <br>
 	  <a href="infosession" target="_blank" class="button btn-sm">
@@ -146,25 +145,25 @@ For a campus map, directions and parking information, please click <a href="htt
 	<div class="accordionbody">
 <p>
 		<strong>History:</strong><br>
-		Thursday, February 23, 5:00pm<br>
-		Wednesday, April 12, 1:00pm</p>      
+		Wednesday, April 12, 12:00pm</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-		Wednesday, February 8, 12:00pm<br>
-		Wednesday, February 15, 12:00pm<br>
-		Wednesday, February 22, 12:00pm<br>
-		Wednesday, March 1, 12:00pm</p>  
+        Wednesday, March 8, 12:00pm<br>
+        Wednesday, March 15, 12:00mp<br>
+        Wednesday, March 29, 12:00pm<br>
+        Wednesday, April 5, 12:00pm
+   </p>  
 	
     <p>
         <strong>Psychology:</strong><br>
-		Wednesday, February 22, 5:30pm<br>
 		Thursday, April 13, 12:30pm<br>
     </p>
+    
 	<p>
         <strong>Social Work:</strong><br>
-		Tuesday, February 14, 12:00pm<br>	
 		Tuesday, March 28, 5:30pm<br>
-		Friday, April 28, 12:00pm</p>
+		Friday, April 28, 12:00pm
+    </p>
   
   <a href="pd" target="_blank" class="button btn-sm"> 
   		
@@ -180,7 +179,7 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-	Thursday, March 16 at 12:00pm</p>
+	Thursday, March 16, 12:00pm</p>
 	    
     <a href="https://attendee.gotowebinar.com/register/1618054885695459841" target="_blank" class="button btn-sm">
 	    Register here</a>

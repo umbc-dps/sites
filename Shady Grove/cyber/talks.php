@@ -10,25 +10,25 @@ $lang = 'en';
 <html>
 <head>
 
-<title>Cyber Talks: Cybersecurity and Cellular Technology | Cybersecurity | UMBC at Shady Grove</title>
+<title>Cyber Talks: Cyber Investigations | Cybersecurity | UMBC at Shady Grove</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="The ten-course master's degree combines courses in cybersecurity strategy, policy, and management with more technical, hands-on cybersecurity course." />
+<meta name="description" content="The UMBC Cybersecurity Program is proud to bring you Cyber Talk, a new speaker series that highlights special topics in Cybersecurity." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBC_DPS">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Cyber Talks: Cybersecurity and Cellular Technology | Cybersecurity | UMBC at Shady Grove" />
+<meta property="og:title" content="Cyber Talks: Cyber Investigations | Cybersecurity | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/cyber/programmaster" />
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/bk.jpg" />
-<meta property="og:description" content="The ten-course master's degree combines courses in cybersecurity strategy, policy, and management with more technical, hands-on cybersecurity course." />
+<meta property="og:description" content="The UMBC Cybersecurity Program is proud to bring you Cyber Talk, a new speaker series that highlights special topics in Cybersecurity." />
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href="../css/accordion.css" rel="stylesheet">
+<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script src="../js/modernizr.custom.js"></script>
@@ -117,29 +117,26 @@ aside .btn:hover{
 
  
 <!-- END Page Header -->
-<br><br><a href="http://www.umbc.edu/shadygrove/cyber/talks"><img src="images/talks.jpg" style="width:100%"></a><br><br>
+<br><br><a href="http://www.umbc.edu/shadygrove/cyber/talks"><img src="images/talks2.jpg" style="width:100%"></a><br><br>
   <div class="ten columns" style="min-height:750px">
   
 <!-- START Content --> 
 <p><em>Presented by the <a href="http://umbc.edu/shadygrove/cyber">UMBC at Shady Grove Cybersecurity Program</a></em></p>
  
 <h5> 
-<strong>WHEN:</strong> Thursday, February 23, 6:00 - 8:00 pm<br>
+<strong>WHEN:</strong> Thursday, April 27, 6:00 - 8:00 pm<br>
 <strong>WHERE:</strong> The Universities at Shady Grove<br>
-Building III (Camille Kendall Academic Center) Room 3241<br>
+Building III (Camille Kendall Academic Center) Room 4230<br>
 9636 Gudelsky Drive, Rockville, Maryland 20850
 </h5>
 <br>
-
- <p>​​The UMBC Cybersecurity Program is proud to bring you Cyber Talk, a new speaker series that highlights special topics in Cybersecurity.</p>
+<p>The UMBC Cybersecurity Program is proud to bring you Cyber Talk, a new speaker series that highlights special topics in Cybersecurity.</p>
+<p>Join us at The Universities at Shady Grove (USG) for an informative and engaging discussion on digital forensic techniques and how these techniques are used in the incident response and Cyber investigations. Participants will have the opportunity to ask questions and hear about the latest trends in industry.</p>
+ <h4>Topic: Cyber Investigations</h4>
+ <p>This Cyber talk will include an overview of recent advances in digital forensics and Cyber trends and highlight case studies from Mr. Conroy’s years of experience as a digital forensic examiner. These case studies will walk through digital forensics analyses from an attempted murder case and a theft of intellectual property case. The case studies will also cover volume shadow copy forensics, mobile device forensics/iPhone backup analysis, and use of anti-forensic tools by the subject in an attempt to cover his tracks. </p>
  
- <p>​Join us at The Universities at Shady Grove (USG) for an informative and engaging discussion on the operation of cellular networks and the threats posed to mobile technology. Participants will have the opportunity to ask questions and hear about the latest trends in industry.</p>
- 
- <h4>Topic: Cybersecurity and Cellular Technology</h4>
- <p>Cellular technology plays an increasingly large role in society as it has become the primary portal to the internet for a large segment of the population. One of the main drivers making this change possible is the deployment of modern 4G LTE cellular technologies. This talk serves as a guide to the fundamentals of how cellular networks operate and explores the evolution of 2G GSM, 3G UMTS and 4G cellular security architectures. This is followed by an analysis of the threats posed to cellular networks and supporting mitigations. Although the talk discusses older GSM and UMTS technologies - it is heavily focused on LTE.</p>
- 
- <h4>Speaker: Joshua Franklin</h4>
- <p>Joshua is a Security Engineer at the National Institute of Standards and Technology (NIST) focusing on cellular security, electronic voting, and public safety. Prior to NIST, Joshua worked at the U.S. Election Assistance Commission gathering extensive experience with voting technologies. After graduating from Kennesaw State University with a Bachelors of Science in Information Systems, he received a Masters of Science in Information Security and Assurance from George Mason University.</p>
+ <h4>Speaker: John Conroy</h4>
+ <p>John Conroy has been a Montgomery County Police Officer since 2002, where he currently holds the rank of Detective Sergeant. His current assignment is the supervisor of the Electronic and Technical Surveillance Unit. Sergeant Conroy has previously been assigned as a Patrol Supervisor in the 4th District and, prior to promotion to Sergeant, held Detective assignments in the Computer Crimes Unit, the Major Crimes Division/Robbery Section, and the Criminal Investigations Division/Silver Spring Investigative Section. Sergeant Conroy has conducted over 600 computer and cell phone forensic examinations and holds several certifications in digital forensics and cyber investigations from the Department of Defense Cyber Investigations Training Academy (DCITA) and the International Association of Computer Investigative Specialists (IACIS).</p>
 
 
 <div id="contents" style="display:none"></div>
@@ -202,6 +199,7 @@ var vars = [], hash;
             vars[hash[0]] = hash[1];
         }
 }
+var currentLocation = window.location.href.split('?')[0];
 $("#tfa_20").attr("value", vars['email']);
 $("#tfa_11").attr("value", vars['first']);
 $("#tfa_12").attr("value", vars['last']);
@@ -210,13 +208,14 @@ $("#tfa_428").attr("value", vars['utm_source']);
 $("#tfa_430").attr("value", vars['utm_medium']);
 $("#tfa_434").attr("value", vars['utm_content']);
 $("#tfa_436").attr("value", vars['utm_term']);
-
+$("#tfa_439").attr("value", currentLocation);
 </script>
 
 
 <script>
 $('#tfa_0').submit(function() {
   ga('send', 'event', 'lead', 'submit', 'cyber_talks');
+  fbq('track', 'CompleteRegistration');
 });
 ga(function(tracker) {
   var clientId = tracker.get('clientId');

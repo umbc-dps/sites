@@ -48,6 +48,10 @@
         <li>
           <a href="studentresources.php">Campus Resources</a>
         </li>
+        
+        <li>
+          <a href="documents/newsletter.pdf" target="_blank">Current Student Newsletter</a>
+        </li>
       </ul>
     </li>
 

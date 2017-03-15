@@ -113,10 +113,22 @@
 
 <img src="../images/baltimore_xlg.jpg" style="width:100%">
 <h2>Discover Baltimore</h2>
-<p>Get off campus and engage in hands-on experiential learning by exploring Baltimore’s urban neighborhoods, its rich and complex racial history, architectural heritage and vibrant street culture, museums and civically engaged contemporary art, and diverse musical and literary traditions. </p>
+<p>Enroll in courses designed specifically to deepen your knowledge of the history, art, politics, and culture of the city. Take those credits out of the classroom and make the city your home this summer!</p>
 
 
 <div id="notaccordion">
+	<h3 class="na-header"><a href="#ANTH" id="ANTH"></a>Anthropology (ANTH)<i class="fa fa-angle-down"></i></h3>
+		<div class="na-body">
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#ANTH311" id="ANTH311"></a>ANTH 311: Urban Anthropology<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>ANTH 311 explores community engaged anthropology and ethnographic fieldwork with a focus on social and environmental justice in Baltimore City. Learn first-hand about the role of urban public art and gardens, housing opportunities through Habitat for Humanities, community health center Marian House, the urban environmental agency Biohabitats, and a community food bank and garden in East Baltimore. </p>
+                    <p>This course provides a broad perspective of human life in an urban context through cross-cultural comparisons of topics such as social justice, environment, language, race and ethnicity, economics, gender, politics, ritual, art, and religion. Learn about the history of anthropological research in urban centers and current issues in the anthropology of cities. Examine various anthropological approaches to understanding human behavior, and gain insights to other cultures as well as our own. Discussions include topics of health, urban social subgroups, communities, education, environment, art and media. </p>
+					<p class="na-details">4W1 – Tues/Thurs/Fri 9-12:10 pm<br>Lion Brothers Bldg<br>GEP - SS<br>Jana Rehak</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2643">Register</a></center>
+				</div>
+			</div>
+		</div>
 	<h3 class="na-header"><a href="#ART" id="ART"></a>Art (ART)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
 			<div id="notaccordion">
@@ -149,18 +161,7 @@
 			</div>
 		</div>  
 
-	<h3 class="na-header"><a href="#ANTH" id="ANTH"></a>Anthropology (ANTH)<i class="fa fa-angle-down"></i></h3>
-		<div class="na-body">
-			<div id="notaccordion">
-				<h3 class="na-header"><a href="#ANTH311" id="ANTH311"></a>ANTH 311: Urban Anthropology<i class="fa fa-angle-down"></i></h3>
-				<div class="na-body">
-                	<p>ANTH 311 explores community engaged anthropology and ethnographic fieldwork with a focus on social and environmental justice in Baltimore City. Learn first-hand about the role of urban public art and gardens, housing opportunities through Habitat for Humanities, community health center Marian House, the urban environmental agency Biohabitats, and a community food bank and garden in East Baltimore. </p>
-                    <p>This course provides a broad perspective of human life in an urban context through cross-cultural comparisons of topics such as social justice, environment, language, race and ethnicity, economics, gender, politics, ritual, art, and religion. Learn about the history of anthropological research in urban centers and current issues in the anthropology of cities. Examine various anthropological approaches to understanding human behavior, and gain insights to other cultures as well as our own. Discussions include topics of health, urban social subgroups, communities, education, environment, art and media. </p>
-					<p class="na-details">4W1 – Tues/Thurs/Fri 9-12:10 pm<br>Lion Brothers Bldg<br>GEP - SS<br>Jana Rehak</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2643">Register</a></center>
-				</div>
-			</div>
-		</div>
+
 
 	<h3 class="na-header"><a href="#HIST" id="HIST"></a>History (HIST)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">

@@ -184,7 +184,7 @@
 
    <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom.</p> 
    
-   <p>Most courses fulfill UMBC’s general education requirements, and summer scholarships are available for qualified students.</p>
+   <p>Most courses fulfill UMBC’s <a href="http://umbc.edu/summer/all-courses.php#gep">general education requirements</a>, and summer scholarships are available for qualified students.</p>
 
 <br>
      <!-- END Content -->

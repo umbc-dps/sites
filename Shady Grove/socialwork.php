@@ -107,19 +107,24 @@ html::after {
             </div>
             <p id="captionthree"><a href="visit/pd-socialwork" target="_blank">Meet Katie Morris, LCSW-C, Program Director</a></p>
           </li>
+
          <!-- END Slide One -->
 
-          <!-- Slide Two --
+          <!-- Slide Two -->
           <li id="slide2">
-          <a href="mailto:swsa-usg@umbc.edu"><img src="images/socialwork2.jpg" alt="Caroline Tice" target="_blank"></a>
+          <a href="http://bit.ly/2mwsmT1" target="_blank">
+          
+          
+          <img src="images/alonso-students.jpg" alt="" target="_blank">
+          </a>
             <div class="carousel-caption-right wordwrap">
-              <h3>SWSA Monthly Meeting</h3>
-             Discuss upcoming activities & events to support our school and the community on 11/1 and 11/4. This is a great, fun way to get involved in the community & be active on campus while making a difference!
-<p><a href="mailto:swsa-usg@umbc.edu" role="button" class="web-seemore" target="_blank">Contact SWSA</a></p>
+              <h3>Social Work Career Roundtable</h3>
+             Meet SOWK professionals who will discuss their experiences and share advice. This is an opportunity to network and discuss your career goals. 3/17 at 12pm in II-1432.
+<p><a href="http://bit.ly/2mwsmT1" role="button" class="web-seemore" target="_blank">RSVP Today!</a></p>
             </div>
-            <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu" target="_blank">SWSA Monthly Meeting</a></p>
+            <p id="captionthree"><a href="http://bit.ly/2mwsmT1" target="_blank">Social Work Career Roundtable</a></p>
           </li>
-         -- END Slide Two -->
+         <!-- END Slide Two -->
          
          <!-- Slide Three --
           <li id="slide3">

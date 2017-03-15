@@ -21,7 +21,7 @@
   <td>Has GEP</td>
   <td>STEM</td>
   <td>*Subject</td>
-  <td>Syllabus</td>
+  <td>Sample Syllabi</td>
   </tr>
   <tr>
   <td class="subject">AFST</td>
@@ -1922,8 +1922,8 @@
   </tr>
   <tr>
   <td class="subject">CMSC</td>
-  <td class="classNumber">491</td>
-  <td class="course-title">Spec Topics In Comp Sci</td>
+  <td class="classNumber">491A</td>
+  <td class="course-title">Spec Topics In Comp Sci: Social Media Mining</td>
   <td class="number"><a href="" class="course-link">2563</a></td>
  <td>8 Weeks</td>
  <td>Session 1</td>
@@ -1944,6 +1944,32 @@
  <td>*CMSC</td>
 <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
+  
+    <tr>
+  <td class="subject">CMSC</td>
+  <td class="classNumber">491B</td>
+  <td class="course-title">Spec Topics In Comp Sci: NoSQL Database Concepts</td>
+  <td class="number"><a href="" class="course-link">2700</a></td>
+ <td>8 Weeks</td>
+ <td>Session 1</td>
+ <td></td>
+ <td></td>
+ <td>Main Campus</td>
+ <td>In Person</td>
+ <td>TuTh</td>
+ <td>6:00 PM</td>
+ <td>8:20 PM</td>
+ <td>Evening</td>
+ <td>Ray, George Martin</td>
+ <td>CMSC 491</td>
+ <td></td>
+ <td>No Prerequisite</td>
+ <td></td>
+ <td>STEM</td>
+ <td>*CMSC</td>
+<td class="syllabus"><a href="" class="syllabus-link"></a></td>
+  </tr>
+  
   <tr>
   <td class="subject">CYBR</td>
   <td class="classNumber">622</td>
@@ -3577,52 +3603,52 @@
 <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
   <tr>
-  <td class="subject">ENME</td>
-  <td class="classNumber">321</td>
-  <td class="course-title">Transfer Processes</td>
-  <td class="number"><a href="" class="course-link">2416</a></td>
- <td>6 Weeks</td>
- <td>Session 1</td>
- <td></td>
- <td></td>
- <td>Main Campus</td>
- <td>In Person</td>
- <td>TuTh</td>
- <td>5:00 PM</td>
- <td>8:10 PM</td>
- <td>Evening</td>
- <td>Zhu, Liang</td>
- <td>ENME 321</td>
- <td>You must have completed ENME320 with a grade of &quot;C&quot; or better.</td>
- <td>Has Prerequisite</td>
- <td></td>
- <td>STEM</td>
- <td>*ENME</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
+    <td class="subject">ENME</td>
+    <td class="classNumber">321</td>
+    <td class="course-title">Transfer Processes</td>
+    <td class="number"><a href="" class="course-link">2416</a></td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>MW</td>
+    <td>5:00 PM</td>
+    <td>8:10 PM</td>
+    <td>Evening</td>
+    <td>Zhu, Liang</td>
+    <td>ENME 321</td>
+    <td>You must have completed ENME320 with a grade of &quot;C&quot; or better.</td>
+    <td>Has Prerequisite</td>
+    <td></td>
+    <td>STEM</td>
+    <td>*ENME</td>
+    <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
   <tr>
-  <td class="subject">ENME</td>
-  <td class="classNumber">360</td>
-  <td class="course-title">Vibrations</td>
-  <td class="number"><a href="" class="course-link">1149</a></td>
- <td>6 Weeks</td>
- <td>Session 2</td>
- <td></td>
- <td></td>
- <td>Main Campus</td>
- <td>In Person</td>
- <td>MTh</td>
- <td>5:00 PM</td>
- <td>8:10 PM</td>
- <td>Evening</td>
- <td>Howle Jr., Douglas B</td>
- <td>ENME 360</td>
- <td>You must have completed ENME220 and ENME221 and ENME303 and MATH225 all with a grade of &quot;C&quot; or better.</td>
- <td>Has Prerequisite</td>
- <td></td>
- <td>STEM</td>
- <td>*ENME</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
+    <td class="subject">ENME</td>
+    <td class="classNumber">360</td>
+    <td class="course-title">Vibrations</td>
+    <td class="number"><a href="" class="course-link">1149</a></td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>TuTh</td>
+    <td>5:00 PM</td>
+    <td>8:10 PM</td>
+    <td>Evening</td>
+    <td>Staff</td>
+    <td>ENME 360</td>
+    <td>You must have completed ENME220 and ENME221 and ENME303 and MATH225 all with a grade of &quot;C&quot; or better.</td>
+    <td>Has Prerequisite</td>
+    <td></td>
+    <td>STEM</td>
+    <td>*ENME</td>
+    <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
   <tr>
   <td class="subject">ENME</td>
@@ -7219,102 +7245,6 @@
     <td>Takacs,    Laszlo</td>
     <td>PHYS 122L</td>
     <td>You must    complete PHYS 122 or PHYS 122H with a grade of C or higher or be concurrently    enrolled in PHYS 122 or PHYS 122H.</td>
-    <td>Has Prerequisite</td>
-    <td></td>
-    <td>STEM</td>
-    <td>*PHYS</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
-  </tr>
-  <tr>
-     <td class="subject">PHYS</td>
-     <td class="classNumber">299</td>
-     <td class="course-title">Directed Research</td>
-    <td class="number"><a href="" class="course-link">2552</a></td>
-    <td>12    Weeks</td>
-    <td>12    Week Course</td>
-    <td></td>
-    <td></td>
-    <td>Main    Campus</td>
-    <td>In Person</td>
-    <td>None</td>
-    <td>Unknown</td>
-    <td>Unknown</td>
-    <td></td>
-    <td>Hayden,    L M</td>
-    <td>PHYS 299</td>
-    <td>You must    complete PHYS 122L and PHYS 224</td>
-    <td>Has Prerequisite</td>
-    <td></td>
-    <td>STEM</td>
-    <td>*PHYS</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
-  </tr>
-  <tr>
-     <td class="subject">PHYS</td>
-     <td class="classNumber">450</td>
-     <td class="course-title">Special Topics</td>
-    <td class="number"><a href="" class="course-link">1578</a></td>
-    <td>12    Weeks</td>
-    <td>12    Week Course</td>
-    <td></td>
-    <td></td>
-    <td>Main    Campus</td>
-    <td>In Person</td>
-    <td>None</td>
-    <td>12:00 AM</td>
-    <td>12:00    AM</td>
-    <td></td>
-    <td>Hayden,    L M</td>
-    <td>PHYS 450</td>
-    <td></td>
-    <td>No Prerequisite</td>
-    <td></td>
-    <td>STEM</td>
-    <td>*PHYS</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
-  </tr>
-  <tr>
-     <td class="subject">PHYS</td>
-     <td class="classNumber">499</td>
-     <td class="course-title">Senior Research</td>
-    <td class="number"><a href="" class="course-link">2261</a></td>
-    <td>12    Weeks</td>
-    <td>12    Week Course</td>
-    <td></td>
-    <td></td>
-    <td>Main    Campus</td>
-    <td>In Person</td>
-    <td>None</td>
-    <td>12:00 AM</td>
-    <td>12:00    AM</td>
-    <td></td>
-    <td>Hayden,    L M</td>
-    <td>PHYS 499</td>
-    <td>You must    complete PHYS122L and PHYS324</td>
-    <td>Has Prerequisite</td>
-    <td></td>
-    <td>STEM</td>
-    <td>*PHYS</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
-  </tr>
-  <tr>
-     <td class="subject">PHYS</td>
-     <td class="classNumber">499H</td>
-     <td class="course-title">Senior Research Project</td>
-    <td class="number"><a href="" class="course-link">2038</a></td>
-    <td>12    Weeks</td>
-    <td>12    Week Course</td>
-    <td></td>
-    <td></td>
-    <td>Main    Campus</td>
-    <td>In Person</td>
-    <td>None</td>
-    <td>12:00 AM</td>
-    <td>12:00    AM</td>
-    <td></td>
-    <td>Hayden,    L M</td>
-    <td>PHYS 499H</td>
-    <td>You must    complete PHYS122L and PHYS321 and PHYS324</td>
     <td>Has Prerequisite</td>
     <td></td>
     <td>STEM</td>

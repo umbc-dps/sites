@@ -5,11 +5,15 @@
 
 
 <center>
-<p><strong>UMBC Cybersecurity Info Session</strong><br>
-Thursday, April 6, 6:00-7:30PM<br>
-</p>
+<p><strong>UMBC Professional Programs Open House</strong><br>
+Saturday, April 1, 10:00-12:00PM<br>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=professionalprograms.umbc.edu&utm_medium=referral&utm_content=pp_sidebar">RSVP Now</a>
 
+<hr style="margin-bottom:10px">
+<strong>UMBC Shady Grove Cybersecurity Info Session</strong><br>
+Thursday, April 6, 6:00-7:30PM<br>
 <a href="http://www.umbc.edu/shadygrove/cyber/infosession">RSVP Now</a>
+</p>
 </center>
 
 
@@ -79,7 +83,7 @@ Watch our past virtual information sessions:</p>
      </aside>
       <br>
 
-      <aside class="five columns add-bottom">
+      <aside class="five columns add-bottom contact">
       <h3 class="home-heading">Contact Us</h3>
 	<p>
      	<form action="process.php" method="post" id="dpsform">
@@ -108,7 +112,7 @@ Watch our past virtual information sessions:</p>
      
      </aside>
      
-       <aside class="five columns add-bottom">
+       <aside class="five columns add-bottom alumni-video">
         <h3 class="home-heading">Featured Video</h3>
          
 <small>Arti Deore, Cybersecurity Graduate Program Alumnus</small>

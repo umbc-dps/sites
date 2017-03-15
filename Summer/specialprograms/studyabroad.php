@@ -112,8 +112,8 @@
 <!-- Start Content --> 
 
 
-<h2>Study Abroad</h2>
-<p>Every summer, UMBC offers short term study abroad programs taught by UMBC faculty.  Summer faculty-led study abroad programs are tuition free. You pay only the program costs, which vary by destination. </p>
+<h2>Faculty Led Study Abroad</h2>
+<p>Every summer, UMBC offers short term study abroad programs taught by UMBC faculty. Earn valuable credits while gaining substantive understanding of other cultures and perspectives. Summer faculty-led study abroad programs are <strong>tuition free</strong>. </p>
 <p>Students from all majors are encouraged to apply.</p>
 
 

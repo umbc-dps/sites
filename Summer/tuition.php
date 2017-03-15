@@ -5,18 +5,18 @@
 <title>Tuition & Fees | Summer Session at UMBC</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="Summer session tuition is based on UMBC’s standard part-time credit rate for Maryland residents and non-residents." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
+<meta property="og:title" content="Tuition & Fees | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/tuition" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
+<meta property="og:description" content="Summer session tuition is based on UMBC’s standard part-time credit rate for Maryland residents and non-residents." />
 
 
 <!-- CSS -->
@@ -65,7 +65,6 @@
   <div class="eleven columns alpha" style="padding-top:1em;">
     <!-- Page Title -->
         <h2>Tuition & Fees</h2>
-        <p><em>The information listed below reflects summer 2016 tuition rates.  Summer 2017 tuition rates will be posted at a later date.</em></p>
     <!-- END Page Title -->       
    <div class="content">
   <div class="narrowchart">
@@ -86,7 +85,7 @@
 </div>
 
 <div class="accordionbody">
-<p>Visit  the <a href="http://sbs.umbc.edu/" target="_blank">Student Business Services (SBS)</a> to view summer  graduate tuition rates.</p> 
+<p>Visit  the <a href="http://sbs.umbc.edu/summer-2017-graduate/" target="_blank">Student Business Services (SBS)</a> to view summer  graduate tuition rates.</p> 
 </div>
 
 <div class="accordionheader">

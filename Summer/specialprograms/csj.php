@@ -113,7 +113,7 @@
 
 <img src="../images/csj-no-text.png" style="width:100%">
 <h2>Culture & Social Justice</h2>
-<p>Social justice advocates eliminating inequalities among people by actively promoting equality, fairness and dignity for all human beings. This summer, explore a variety of timely courses that focus on the theme of Culture & Social Justice. </p>
+<p>This summer, explore a variety of timely courses that focus on the theme of culture and social justice. They offer a view of social issues and practices from various perspectives, including the intersectional analysis of race, class, and gender. </p>
 
 
 <div id="notaccordion">
@@ -125,7 +125,9 @@ Introduction to the Black Experience<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>AFST 100 surveys the historical and sociocultural ties that link people of African descent worldwide and explores African roots in world civilizations. Learn about the black experience in the African Diaspora, with particular attention to North America, the United States, Maryland and specifically, Baltimore. </p>
                   <p>Students will have the opportunity to visit the National Great Blacks in Wax Museum, the Reginald F. Lewis Museum of Maryland African American History & Culture, and/or the Frederick Douglass-Isaac Myers Maritime Park Museum. Museum visits are for Extra Credit enrichment on the student's own time. The majority of the regular work will either be in class or online.</p>
-				  <p class="na-details">12W1 – Wed 6-9:10 pm<br>GEP - AH<br>Karen Sutton</p>
+                  <P><em>Note: The course will meet in person on Wednesdays, May 31, June 7, July 12, July 19, Aug 2 and Aug 16. The online sessions will be held on June 14, 21, 28, July 26 and Aug 9.</em></P>
+                  
+				  <p class="na-details">12W1 – HYBRID Wed 6-9:10 pm<br>GEP - AH<br>Karen Sutton</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2486">Register</a></center>
 				</div>
 			</div>
@@ -141,7 +143,7 @@ Introduction to the Black Experience<i class="fa fa-angle-down"></i></h3>
 			</div>
             
            <div id="notaccordion">
-				<h3 class="na-header"><a href="#AFST245" id="AFST245"></a>AFST 245
+				<h3 class="na-header"><a href="#AFST245" id="AFST245"></a>AFST 245 / MUSC 215
 Introduction to Black Music<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                     <p>AFST 245 surveys the traditional music of Africans and delineates elements utilized in Black music of the western hemisphere. The course outlines the musical heterogeneity of Africans and allows students to gain greater understanding of African music and culture, its impact on the development of Black music in the Americas, and its influence on international trends in music. In this way, the humanist impulse at the center of African people's musical propensity will be revealed, and students' awareness will broaden and deepen in regards to the many genres, contexts, functions, and meanings of traditional African music.</p>
@@ -157,7 +159,8 @@ Black Women in Cross-Cultural Perspective
 <i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                     <p>AFST 245 surveys the traditional music of Africans and delineates elements utilized in Black music of the western hemisphere. The course outlines the musical heterogeneity of Africans and allows students to gain greater understanding of African music and culture, its impact on the development of Black music in the Americas, and its influence on international trends in music. In this way, the humanist impulse at the center of African people's musical propensity will be revealed, and students' awareness will broaden and deepen in regards to the many genres, contexts, functions, and meanings of traditional African music.</p>
-                    <p class="na-details">4W2 – Tues/Thur/Fri 9–12:10 pm<br>GEP - C<br>Tammy Sanders Henderson</p>
+                    <P><em>Note: The first two weeks will be online; the last two weeks will meet in person.</em></P>
+                    <p class="na-details">4W2 – HYBRID Tues/Thur/Fri 9–12:10 pm<br>GEP - C<br>Tammy Sanders Henderson</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2336">Register</a></center>
 				</div>
 		  </div>            
@@ -221,11 +224,12 @@ Black Women in Cross-Cultural Perspective
             
             
 			<div id="notaccordion">
-				<h3 class="na-header"><a href="#GWST322" id="GWST322"></a>GWST 322 / AFST 347: 
+				<h3 class="na-header"><a href="#GWST322" id="GWST322"></a>GWST 322 / AFST 347 / MLL 322: 
 Gender, Race, and Media<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>This course critically examines how ideologies of gender, race, class, ethnicity and sexuality are produced and disseminated in a range of media genres and forms such as film, television, music, advertising, news, visual and performing arts, the Internet, radio, and print media. As consumers and producers of media, students will learn to assess how media articulates, creates, and enforces identities and power. Students will practice tools of critical reading and thinking, such as textual analysis, visual discourse analysis, and the basics of media literacy. Recommended Preparation: GWST 100 and (200 or 210).</p>
-					<p class="na-details">6W1 – HYBRID Tues 1–4:10 pm<br>GEP - AH<br>Kathryn Kein </p>
+					<p class="na-details">6W1 – HYBRID Tues 1–4:10 pm<br>
+				  GEP - AH and C<br>Kathryn Kein </p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2624">Register</a></center>
 				</div>
 			</div>
@@ -258,7 +262,7 @@ From Samurai to "Salariman": Japanese History through Film and Literature<i clas
 				<h3 class="na-header"><a href="#HIST402" id="HIST402"></a>HIST 402: The American South Since Reconstruction<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>This course will examine the contours of life in the American South since the end of the Civil War. Given the South's history of segregation, race is central to understanding Southern identity. We will explore life on both sides of the color line, and will consider ways in which racial identity interacted with class and gender to inform economic development, political and social change, and popular culture in the nineteenth and twentieth century South. Recommended Preparation: HIST 101 or HIST102, plus junior/senior status.</p>
-					<p class="na-details">4W2 – SHADY GROVE Mon/Wed 1–4:10 pm<br>Andrew Nolan</p>
+					<p class="na-details">4W2 – SHADY GROVE Mon/Thur/Fr 1–4:10 pm<br>Andrew Nolan</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2626">Register</a></center>
 				</div>
 			</div>
@@ -316,7 +320,8 @@ From Samurai to "Salariman": Japanese History through Film and Literature<i clas
 				<h3 class="na-header"><a href="#PSYC230" id="PSYC230"></a>PSYC 230: Psychology and Culture<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>Building on students' familiarity (from PSYC 100) with basic concepts and research methods in contemporary American psychology, this course explores the ways in which these ideas are related to cultural variation, both internationally and within the United States. The findings of cross-cultural research are examined in four major fields of psychology: cognitive, develop- mental, personality and social. Implications are considered for interpretation of personal experience and for applications of psychology in professional practice and public policy.</p>
-					<p class="na-details">6W1 – Tues/Thur 9–12:10 pm<br>GEP – C<br>Donald Knight 
+					<p class="na-details">6W1 – Tues/Thur 9–12:10 pm<br>
+					GEP – C and SS<br>Donald Knight 
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2208">Register</a></center>
 				</div>
 			</div>   
@@ -341,7 +346,8 @@ Diversity & Pluralism: An Interdisciplinary Perspective
 <i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>An analysis of race, ethnicity, class, gender and sexual orientation in society. The goal of the course is to have students understand the sociocultural nature of human identity and diversity. In addition, the course will explore ways of enhancing communication across the boundaries that divide groups in a pluralistic society. Small group discussion of course material will take place throughout the semester.</p>
-					<p class="na-details">6W2 – Tues/Thur 1–4:10 pm<br>GEP - C<br>Bryan Ellys</p>
+					<p class="na-details">6W2 – Tues/Thur 1–4:10 pm<br>
+					GEP - C and SS<br>Bryan Ellys</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2637">Register</a></center>
 				</div>
 			</div>
@@ -350,22 +356,12 @@ Diversity & Pluralism: An Interdisciplinary Perspective
 				<h3 class="na-header"><a href="#SOCY321" id="SOCY321"></a>SOCY 321: Race and Ethnic Relations<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>Sociological analysis of the types of minority-majority group relations and the effects of these relationships on society and the groups and the individuals involved. Recommended Preparation: SOCY 101 or ANTH 211.</p>
-					<p class="na-details">6W1 – Tues/Thur 9–12:10 pm <br>GEP - SS<br>Karon Phillips </p>
+					<p class="na-details">6W1 – Mon/Wed 6-9:10pm <br>GEP - SS<br>Karon Phillips </p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2014">Register</a></center>
 				</div>
 			</div>
             
-           <div id="notaccordion">
-				<h3 class="na-header"><a href="#SOCY374" id="SOCY374"></a>SOCY 374: 
-Social Work with Immigrants and Refugees
-<i class="fa fa-angle-down"></i></h3>
-				<div class="na-body">
-                	<p>This course provides an introduction to the information and skills necessary for generalist social work practice with immigrants and refugees. Its purpose is defined as the restoration, maintenance, and enhancement of the social functioning of individuals, families, groups, organizations, and communities and the promotion of social justice. Recommended Preparation: SOWK 200 or SOWK 260.</p>
-					<p class="na-details">4W2 – HYBRID Wed/Thur 9–11:15 am<br>GEP - C<br>Joshua Okundaye</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2152">Register</a></center>
-				</div>
-			</div>
-           
+
            <div id="notaccordion">
 				<h3 class="na-header"><a href="#SOCY606" id="SOCY606"></a>SOCY 606 / LLC 606: 
 Social Inequality and Social Policy<i class="fa fa-angle-down"></i></h3>
@@ -377,13 +373,23 @@ Social Inequality and Social Policy<i class="fa fa-angle-down"></i></h3>
 			</div>
              
 		</div>
-
         
+        <h3 class="na-header"><a href="#SOWK" id="SOWK"></a>Social Work (SOWK)<i class="fa fa-angle-down"></i></h3>
+		<div class="na-body">
+                <div id="notaccordion">
+				<h3 class="na-header"><a href="#SOWK374" id="SOWK374"></a>SOWK 374: 
+Social Work with Immigrants and Refugees
+<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>This course provides an introduction to the information and skills necessary for generalist social work practice with immigrants and refugees. Its purpose is defined as the restoration, maintenance, and enhancement of the social functioning of individuals, families, groups, organizations, and communities and the promotion of social justice. Recommended Preparation: SOWK 200 or SOWK 260.</p>
+					<p class="na-details">4W2 – HYBRID Wed/Thur 9–11:15 am<br>GEP - C<br>Joshua Okundaye</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2152">Register</a></center>
+				</div>
+			</div>
+    </div>          
 </div> 
 
-<hr>
-
-<p>Courses address relevant social issues from various perspectives (including the intersectional analysis of race, class, and gender) while promoting critical thinking and writing skills.</p>
+<br>
 
 </div>  
  

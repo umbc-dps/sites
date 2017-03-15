@@ -29,7 +29,7 @@ $lang = 'en';
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href="../css/accordion.css" rel="stylesheet">
+<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script src="../js/modernizr.custom.js"></script>
@@ -79,7 +79,7 @@ $lang = 'en';
 <!-- START Content --> 
  <h3>Admissions: Master's Degree </h3>
  <h4>Application Dates</h4>
- <p>The application deadline for Fall 2017 is <strong>March 1</strong>.</p>
+ <p>The application deadline for Fall 2017 is <strong>April 1</strong>.</p>
  <h4>Admissions Requirements:</h4>
  <p>Admissions decisions are based on a match of the applicant's interests, work experience, academic background, scholarship and personal goals for the programs. Minimum admission requirements are listed below.</p>
  <ul>

@@ -32,77 +32,56 @@
 </head>
 
 <style>
-/* ASIDE FORM */
-form#ss-form {padding-left: 5%;}
-input.jfk-button{width:100%; height: 10%!important}
-.ss-form-entry input, .ss-form-entry select { width: 93%; margin-bottom: 10px; height: 20px }
-.ss-q-title{font-weight: bold}
-.ss-required-asterisk{text-align:right; font-style:italic; padding-right: 15px}
-ul.ss-choices input {width:auto; margin-bottom: 0px; height: auto}
-ul.ss-choices li {list-style-type:none;}
-.ss-q-help{font-style:italic;}
-#ss-form textarea{width: 93%}
-
-/* BUTTON */
-aside .btn, input.btn  {
-  width: 95%;
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  text-align:center;
-  margin-top:5px;
+@media only screen and (max-width: 799px)  {
+.container .ten.columns{min-height:500px}
+#tfa_84-D, #tfa_418-D, #tfa_420-D{display:none}
+}
+@media only screen and (min-width: 800px) and (max-width: 1023px)  {
+.container .ten.columns{min-height:1200px}
 }
 
-.btn, input.btn {
-  -webkit-border-radius: 9;
-  -moz-border-radius: 9;
-  border-radius: 9px;
-  color: #000 !important;
-  background: #FEB500 !important;
-  padding: 5px 10px 5px 10px;
-  text-decoration: none;
+#talks-form p strong{color:#FFF!important}
+#tfa_0-T, .supportInfo, div.lengthIndicator{
+	display:none!important;
 }
-aside#four input.btn{
-  font-size: 10pt !important;
-  border: 0;
-  text-shadow: none;
-  -webkit-border-radius: 9;
-  -moz-border-radius: 9;
-  border-radius: 9px;
+form#tfa_0, form#tfa_0 .section, form#tfa_0 label{background-color:transparent!important;}
+form#tfa_0 label, form#tfa_0 .section, form#tfa_0 input, form#tfa_0 div{
+	margin:0px!important;
+	padding:0px!important;
 }
-
-.btn:hover, input.btn:hover  {
-  background: #F9E1A7 !important;
-  text-decoration: none;
-  color: #FFF;
+form#tfa_0 div{
+	width:100%;
 }
-
-.web-seemore {
-border: 1px solid #666;
-box-shadow: 0px 0px 2px 0px #333;
-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, .5);
-display: block;
-color: #fff;
-overflow: hidden;
-padding: 4px 8px;
-font-size: 13px;
-text-align: center;
-line-height: 1em;
-text-decoration: none;
-margin: 3% 0 -3%;
-text-align:center;
-background-color: #E9AB13;
+form#tfa_0 input{
+	width:95%!important;
+	height:25px;
 }
-
-.web-seemore:hover, .web-seemore:focus {
-background-color: #E0C586;
-color: #FFF;
-text-shadow: none;
-text-decoration:none;
+form#tfa_0 select{
+	width:95%!important;
+	height:25px;
 }
-
-a.web-seemore { color: #FFF !important}
-
+form#tfa_0 textarea{
+	width:95%!important;
+	height:75px;
+}
+form#tfa_0{
+	margin-left:5%;
+}
+form#tfa_0 label{
+	font-weight: bold;
+	padding-top:10px!important;
+}
+form#tfa_0 input.primaryAction{
+	font-weight:bold;
+	margin-top:20px!important;
+	text-align:center!important;
+	display:block;
+	height:30px;
+}
+div.actions{
+	display:inline-block;
+	text-align:center!important;
+}
 #one {background-image:url(images/sprinkles.png);}
 
 aside {
@@ -182,7 +161,7 @@ aside p, aside dl {
 
 <!-- SIDEBAR -->
 <aside class="six columns add-bottom">
-<?php include("includes/sidebar.php"); ?>
+<?php include("includes/sidebar2.php"); ?>
 </aside>
 
 <!-- END SIDEBAR -->
@@ -227,25 +206,38 @@ var vars = [], hash;
             vars[hash[0]] = hash[1];
         }
 }
-$("#entry_255730786").attr("value", vars['email']);
-$("#entry_1150361143").attr("value", vars['first']);
-$("#entry_289066688").attr("value", vars['last']);
-$("#entry_1564723259").attr("value", vars['utm_campaign']);
-$("#entry_316914651").attr("value", vars['utm_source']);
-$("#entry_1181504791").attr("value", vars['utm_medium']);
-$("#entry_743634000").attr("value", vars['utm_content']);
-$("#entry_1166118258").attr("value", vars['utm_term']);
-$("#entry_1066578197").attr("value", vars['gclid']);
+var currentLocation = window.location.href.split('?')[0];
+$("#tfa_20").attr("value", vars['email']);
+$("#tfa_11").attr("value", vars['first']);
+$("#tfa_12").attr("value", vars['last']);
+$("#tfa_432").attr("value", vars['utm_campaign']);
+$("#tfa_428").attr("value", vars['utm_source']);
+$("#tfa_430").attr("value", vars['utm_medium']);
+$("#tfa_434").attr("value", vars['utm_content']);
+$("#tfa_436").attr("value", vars['utm_term']);
+$("#tfa_445").attr("value", currentLocation);
 </script>
  
- <script>
-  /*** Stops from picking more than 2 programs ***/
-$('input.ss-q-checkbox[type=checkbox]').change(function(e){
-   if ($('input.ss-q-checkbox[type=checkbox]:checked').length > 2) {
-        $(this).prop('checked', false)
-        alert("Please select up to 2 programs.");
-   }
-})
+
+
+<script>
+$('#tfa_0').submit(function() {
+  ga('send', 'event', 'lead', 'submit', 'open_house');
+  fbq('track', 'CompleteRegistration');
+});
+ga(function(tracker) {
+  var clientId = tracker.get('clientId');
+  $("#tfa_437").attr("value", clientId)
+});
 </script>
+
+
+<script>
+$(document).ready(function () {
+	ytTracker.init();
+});
+</script>
+
+
 </body>
 </html>

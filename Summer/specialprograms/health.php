@@ -113,7 +113,7 @@
 
 <img src="../images/market2_xlg.jpg" style="width:100%">
 <h2>Health & Social Inequalities</h2>
-<p>It is increasingly clear that social, psychological, economic, and institutional inequalities act as powerful predictors of both health outcomes and quality of life.  Health & Social Inequalities courses identify how important social factors influence individual health behaviors, health conditions, longevity and mortality, and provide a framework for thinking about health “outside the traditional box” of a medical model.</p>
+<p>It is increasingly clear that social, psychological, economic, and institutional inequalities act as powerful predictors of both health outcomes and quality of life. Health & Social Inequalities courses identify how important social factors influence individual health behaviors, health conditions, longevity and mortality, and provide a framework for thinking about health “outside the traditional box” of a medical model. </p>
 
 
 <div id="notaccordion">
@@ -150,7 +150,7 @@
 				<h3 class="na-header"><a href="#EHS200" id="EHS200"></a>EHS 200: Concepts of Emergency Health Services<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>This is a survey course that provides an overview of the operation of emergency health service systems. The history of EMS, the interface of public and private organizations, and review of the various personnel who constitute these systems are examined in relation to their impact on the health care delivery system.</p>
-					<p class="na-details">4W1 – ONLINE<br>4W2 – ONLINE<br>GEP - SS<br>Diane Flint </p>
+					<p class="na-details">4W1 – ONLINE<br>4W2 – ONLINE<br>GEP - SS<br>Jaeyoung Yang </p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2454">Register</a></center>
 				</div>
 			</div>
@@ -172,7 +172,7 @@
 				<h3 class="na-header"><a href="#HAPP405" id="HAPP405"></a>HAPP 405: Contemporary Issues in Long Term Care<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>This course surveys a very important service and policy component of the health care system. A brief history of the evolution of long-term care provides the foundation to analyze issues such as social, economic and political environments, as well as credentialing, insurance and reimbursement. Various management functions will be examined, including financing, regulation, staffing and education. Case studies will introduce the student to community profile, demographics and housing alternatives.</p>
-					<p class="na-details">6W1 – Tues/Thur 6-9:10 pm<br>Jamie Trevitt </p>
+					<p class="na-details">6W1 – Tues/Thur 6-9:10 pm<br>Paul Coakley</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1021">Register</a></center>
 				</div>
 			</div>
@@ -241,7 +241,8 @@ Abnormal Psychology<i class="fa fa-angle-down"></i></h3>
 Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>An analysis of race, ethnicity, class, gender and sexual orientation in society. The goal of the course is to have students understand the sociocultural nature of human identity and diversity. In addition, the course will explore ways of enhancing communication across the boundaries that divide groups in a pluralistic society. Small group discussion of course material will take place throughout the semester.</p>
-					<p class="na-details">6W2 – Tues/Thur 1-4:10 pm<br>GEP - C<br>Bryan Ellis</p>
+					<p class="na-details">6W2 – Tues/Thur 1-4:10 pm<br>
+					GEP - C and SS<br>Bryan Ellis</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1066">Register</a></center>
 				</div>
 			</div>
@@ -250,7 +251,7 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
 				<h3 class="na-header"><a href="#SOCY300" id="SOCY300"></a>SOCY 300: Methodology of Social Research<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>Principles of social research, including examination of issues in research design, measurement, sampling and computer applications. Course considers both issues in the logic of science and practical problems of data collection.</p>
-					<p class="na-details">6W1 – Tues/Thur 1-4:10 pm<br>Dena Smith</p>
+					<p class="na-details">6W1 – HYBRID Tues/Thur 1-4:10 pm<br>Dena Smith</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2638">Register</a></center>
 				</div>
 			</div>
@@ -259,7 +260,7 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
 				<h3 class="na-header"><a href="#SOCY321" id="SOCY321"></a>SOCY 321: Race and Ethnic Relations<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>Sociological analysis of the types of minority-majority group relations and the effects of these relationships on society and the groups and the individuals involved. Recommended Preparation: SOCY 101 or ANTH 211.</p>
-					<p class="na-details">6W1 – Tues/Thur 9–12:10 pm <br>GEP - SS<br>Karon Phillips </p>
+					<p class="na-details">6W1 – Mon/Wed 6-9:10 pm<br>GEP - SS<br>Karon Phillips </p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2014">Register</a></center>
 				</div>
 			</div>
@@ -268,7 +269,7 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
 				<h3 class="na-header"><a href="#SOCY351" id="SOCY351"></a>SOCY 351: Medical Sociology<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>Introduction to the field of health and illness behavior and health care institutions, including the sociocultural context of health orientations. Recommended Preparation: SOCY 101 or ANTH 211 or consent of instructor.</p>
-					<p class="na-details">6W1 – HYBRID Wed 1-4:10 pm<br>John Schumacher</p>
+					<p class="na-details">6W1 – ONLINE<br>John Schumacher</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2498">Register</a></center>
 				</div>
 			</div>
@@ -314,9 +315,7 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
         
 </div> 
 
-<hr>
-
-<p>hese courses are recommended for students pursuing careers in the health professions, or for anyone seeking to understand the dramatic impact of social factors on individual and community health, wellness, and quality of life. </p>
+<br>
 
 </div>  
  

@@ -77,7 +77,7 @@
     </a>
 	<div class="carousel-caption wordwrap">
 		<h3>Summer Session 2017</h3>
-		<small>Registration begins March 6.</small><br>
+		<small>Registration Now Opened!</small><br>
         <a href="courses" role="button" class="web-seemore" target="_blank">View Courses</a></p>
 	</div>
 	<p id="captiontwo">
@@ -91,24 +91,6 @@
 
 <!-- Slide Two -->
 <li id="slide2">
-	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
-    	<img src="images/featured/gwst310.jpg" alt="Featured Course: Gender and Inequality in America">
-	</a>
-	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: Gender and Inequality in America <br>(GWST 310)</h3>
-		<small>Examine the ways in which gender, race, and class shape individual experiences in American society. (Arts & Humanities GEP) </small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1272" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-	</div>
-	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">Featured Course: Gender and Inequality in America</a>
-	</p>
-</li>
-<!-- END Slide Two --> 
-
-
-
-<!-- Slide Three -->
-<li id="slide3">
 	<a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" target="_blank">
     	<img src="images/featured/biol480.jpg" alt="Featured Course: Animal Behavior">
 	</a>
@@ -121,8 +103,7 @@
     	<a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" target="_blank">Featured Course: Animal Behavior</a>
 	</p>
 </li>
-<!-- END Slide Three -->   
-         
+<!-- END Slide Two -->           
 </ul>
 <div id="dotcontainer"></div>
 </div>
@@ -142,7 +123,7 @@
 <div style="display:inline; float:left;"> 
 	<dl class="eleven columns alpha">
 		<br>
-        <h2><strong>Registration Begins March 6</strong></h2>
+        <h2><strong>Registration Now Opened!</strong></h2>
         <em><h4>Graduate on time (or early)!</h4></em>
         <p>Visiting students from other colleges and universities must first <a href="visitingstudents">apply to UMBC</a> and be admitted before you can register.</p>
 

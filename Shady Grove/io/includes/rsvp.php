@@ -74,7 +74,7 @@ The Universities at Shady Grove<br>
 </div>
 
 <div class="ss-required-asterisk" aria-hidden="true">* Required</div></div></div>
-<div class="ss-form"><form action="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLSd58XSZD8qmgzjSKB7BwFiysRVHBqHYCNAzKao2ReZwJFaxbQ/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0;">
+<div class="ss-form"><form action="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLSd58XSZD8qmgzjSKB7BwFiysRVHBqHYCNAzKao2ReZwJFaxbQ/formResponse" method="POST" id="ss-form" target="_self" onsubmit="ga('send', 'event', 'lead', 'submit', 'infosession'); fbq('track', 'CompleteRegistration');"><ol role="list" class="ss-question-list" style="padding-left: 0;">
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_2"><div class="ss-q-title">First Name

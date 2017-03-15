@@ -70,7 +70,7 @@
 		<div id="cbp-fwslider" class="cbp-fwslider">
 
 <ul>
-<!-- Slide One -->
+<!-- Slide One --
 <li id="slide1">  
 	<a href="courses">
     	<img src="images/6.jpg" alt="Registration begins March 6.">
@@ -86,27 +86,27 @@
         </a>
 	</p>
 </li>
-<!-- END Slide One --> 
+-- END Slide One --> 
           
 
 <!-- Slide Two -->
 <li id="slide2">
-	<a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" target="_blank">
-    	<img src="images/featured/biol480.jpg" alt="Featured Course: Animal Behavior">
+	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">
+    	<img src="images/featured/social.jpg" alt="Featured Faculty: Erin L. Berry">
 	</a>
 	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: Animal Behavior <br>(BIOL 480)</h3>
-		<small>Explore the fascinating ways animals interact with each other and their environments. (Writing Intensive GEP)</small>
-		<p><a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+		<h3>Featured Faculty: Erin L. Berry</h3>
+		<small>Meet the instructor of MCS 222, Professor Erin Berry, and learn how she gets students excited to take their learning outside of the classroom.</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1343" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" target="_blank">Featured Course: Animal Behavior</a>
+    	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">Featured Faculty: Erin L. Berry</a>
 	</p>
 </li>
 <!-- END Slide Two -->
 
 <!-- Slide Three -->
-<li id="slide2">
+<li id="slide3">
 	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
     	<img src="images/featured/gwst310.jpg" alt="Featured Course: Gender and Inequality in America">
 	</a>
@@ -121,6 +121,37 @@
 </li>
 <!-- END Slide Three -->
 
+<!-- Slide Four -->
+<li id="slide4">
+	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">
+    	<img src="images/featured/baltimore.png" alt="Special Programs">
+	</a>
+	<div class="carousel-caption wordwrap">
+		<h3>Special Programs</h3>
+		<small>Learn by experience this summer by enrolling in courses that provide hands-on learning opportunities or by participating in a study abroad program.</small>
+		<p><a href="http://www.umbc.edu/summer/specialprograms/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	</div>
+	<p id="captiontwo">
+    	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">Special Programs</a>
+	</p>
+</li>
+<!-- END Slide Four -->
+
+<!-- Slide Five -->
+<li id="slide5">
+	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">
+    	<img src="images/featured/jdst390.jpg" alt="Featured Course: Coen Brothers: Genre &amp; Irony">
+	</a>
+	<div class="carousel-caption wordwrap">
+		<h3>Featured Course: Coen Brothers: Genre &amp; Irony <br>(JDST 390)</h3>
+		<small>The Dude abides by this course that analyzes films by brothers Ethan and Joel Coen.</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1316" target="_blank" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	</div>
+	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">Featured Course: Coen Brothers: Genre &amp; Irony</a>
+	</p>
+</li>
+<!-- END Slide Five -->
       
 </ul>
 <div id="dotcontainer"></div>

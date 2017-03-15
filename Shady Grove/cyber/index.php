@@ -138,17 +138,17 @@ $lang = 'en';
 
 <li id="slide2">
 
-<a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476" target="_blank"><img src="images/cyber-art.jpg" alt="Read more"/></a> 
+<a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">
+<img src="images/md.jpg"  alt=""/>
+ </a>
+ 
+<div class="carousel-caption-right wordwrap">
+  <h3>Tina Williams Recognized by University System of Maryland</h3>
+  <small>Adjunct instructor Tina Williams has been contracted by USM to implement cybersecurity engagement and innovation activities with the National Cybersecurity Center of Excellence.</small>
+  
+  <p><a href="http://www.usmd.edu/newsroom/news/1699" class="web-seemore" target="_blank">Read More</a></p></div>
 
-<div class="carousel-caption wordwrap">
-<h3>America is ‘dropping cyberbombs’ – but how do they work?</h3>
-<small>UMBC's Richard Forno and Anupam Joshi discuss what cyberbombs are and how the U.S. uses them.</small>
-
-<p><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476
-" role="button" class="web-seemore" target="_blank">Read More</a></p></div>
-
-<p id="captionthree"><a href="http://theconversation.com/america-is-dropping-cyberbombs-but-how-do-they-work-58476
-" target="_blank">America is ‘dropping cyberbombs’ – but how do they work?</a></p>
+<p id="captionthree"><a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">Tina Williams Recognized by University System of Maryland</a></p>
 
 </li>
 
@@ -158,15 +158,15 @@ $lang = 'en';
 
 <li id="slide3">
 
-<a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank"><img alt="img04" src="images/umbc_cyber1.png"></a>
 
 <div class="carousel-caption wordwrap">
-<h3>UMBC Class of 2016 Profile: Arti Deore Choudhary</h3>
-<small>CYBR MPS student Arti Deore Choudhary is heading to Amazon — she thanks cybersecurity faculty for honing her leadership skills.</small>
+<h3>Accepting Applications for Fall 2017</h3>
+<small>Classes begin Wednesday, August 30.</small>
 
-<p><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" class="web-seemore" target="_blank">Read More</a></p></div>
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" class="web-seemore" target="_blank">Apply Now!</a></p></div>
 
-<p id="captionthree"><a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank">UMBC Class of 2016 Profile: Arti Deore Choudhary</a></p>
+<p id="captionthree"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications for Fall 2017</a></p>
  
 </li>
 

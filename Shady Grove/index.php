@@ -107,15 +107,15 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
+<a href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">
 <div class="image mobile-left">
-	<img src="images_homepage/truegrit.jpg" alt="One">
+	<img src="images_homepage/diane.jpg" alt="One">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php">&raquo;</a>
-<div class="title">March 1st is Approaching: Get Priority! </div>
-<div class="tagline">Apply and submit your official transcripts by our undergraduate priority deadline of March 1st to automatically be considered for UMBC merit scholarships!</div>
-<a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Today!</a>
+<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd">&raquo;</a>
+<div class="title">Visit with our Program Directors!</div>
+<div class="tagline">Meet our Program Directors and current students to learn about our undergraduate programs in History, Political Science, Psychology & Social Work and how a UMBC degree may best fit YOU! </div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">Apply Today!</a>
 </div>
 </a>
 </div>
@@ -123,30 +123,31 @@
 
 
 <div class="panel panel-2">
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/classroom.jpg" alt="Three"></div>
+<a href="https://www.shadygrove.umd.edu/admissions-aid/visit-usg/graduate-open-house" target="_blank">
+<div class="image mobile-left"><img src="images_homepage/io.jpg" alt="Three"></div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">&raquo;</a>
-<div class="title">Interested in our Fall 2017 Cohort?</div>
-<div class="tagline">Now accepting applications for our IO Psychology Program! The March 1 application deadline is quickly approaching.
+<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/admissions-aid/visit-usg/graduate-open-house" target="_blank">&raquo;</a>
+<div class="title">Attend the USG Graduate Open House!</div>
+<div class="tagline">Stop by USG's Graduate Student Open House on Thursday, March 2 at 6 PM to hear details about all of UMBC's programs at Shady Grove!
 </div>
-<a class="web-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Today! &raquo;</a>
+<a class="web-seemore" href="https://www.shadygrove.umd.edu/admissions-aid/visit-usg/graduate-open-house" target="_blank">Join Us! &raquo;</a>
 </div>
+</a>
 </div>
 
 
 
 
 <div class="panel panel-3">
-<a href="http://www.umbc.edu/uhs/" target="_blank">
+<a href="http://umbc.edu/go/schedule/" target="_blank">
 <div class="image mobile-center">
-<img src="images_homepage/3.jpg" alt="Two">
+<img src="images_homepage/7.jpg" alt="Two">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://www.umbc.edu/uhs/" target="_blank">&raquo;</a>
-<div class="title">Don't Wait to Turn in Your Health Waiver!</div>
-<div class="tagline">All new transfer students for Spring 2017 are required to complete a Health Insurance Waiver by February 28th. Students can bring their forms to Caitlin in III-4159.</div>
-<a class="web-seemore" href="http://www.umbc.edu/uhs/" target="_blank">Visit the UHS website</a>
+<a class="mobile-seemore" href="http://umbc.edu/go/schedule/" target="_blank">&raquo;</a>
+<div class="title">Summer 2017 Registration</div>
+<div class="tagline">Summer 2017 Registration Begins: 3/6, take advantage of the opportunity to continue progression towards your Master's or Certificate program.</div>
+<a class="web-seemore" href="http://umbc.edu/go/schedule/" target="_blank">Register Now</a>
 </div>
 </a>
 </div>
@@ -181,11 +182,11 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/truegrit_sm.jpg" alt="1"></li>
+<li class="item-1"><img src="images_homepage/diane_tmb.jpg" alt="1"></li>
 
-<li class="item-2"><img src="images_homepage/classroom_tmb.jpg" alt="3"></li>
+<li class="item-2"><img src="images_homepage/io-small.jpg" alt="3"></li>
 
-<li class="item-3"><img src="images_homepage/3_tmb.jpg" alt="2"></li>
+<li class="item-3"><img src="images_homepage/7_tmb.jpg" alt="2"></li>
 <!-- Hide Preview Images --
 <li class="item-4"><img src="images_homepage/katie_morris_tmb.jpg" alt="4"></li>
 

@@ -10,25 +10,25 @@ $lang = 'en';
 <html>
 <head>
 
-<title>Cyber Talks: Cybersecurity and Cellular Technology | Cybersecurity | UMBC at Shady Grove</title>
+<title>Cyber Talks: Cyber Investigations | Cybersecurity | UMBC at Shady Grove</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="The ten-course master's degree combines courses in cybersecurity strategy, policy, and management with more technical, hands-on cybersecurity course." />
+<meta name="description" content="The UMBC Cybersecurity Program is proud to bring you Cyber Talk, a new speaker series that highlights special topics in Cybersecurity." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBC_DPS">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Cyber Talks: Cybersecurity and Cellular Technology | Cybersecurity | UMBC at Shady Grove" />
+<meta property="og:title" content="Cyber Talks: Cyber Investigations | Cybersecurity | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/cyber/programmaster" />
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/bk.jpg" />
-<meta property="og:description" content="The ten-course master's degree combines courses in cybersecurity strategy, policy, and management with more technical, hands-on cybersecurity course." />
+<meta property="og:description" content="The UMBC Cybersecurity Program is proud to bring you Cyber Talk, a new speaker series that highlights special topics in Cybersecurity." />
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href="../css/accordion.css" rel="stylesheet">
+<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script type="text/javascript" src="https://addthisevent.com/libs/1.6.0/ate.min.js"></script>
@@ -126,9 +126,9 @@ aside .btn:hover{
 <p><em>Presented by the <a href="http://umbc.edu/shadygrove/cyber">UMBC at Shady Grove Cybersecurity Program</a></em></p>
  
 <h5> 
-<strong>WHEN:</strong> Thursday, February 23, 6:00 - 8:00 pm<br>
+<strong>WHEN:</strong> Thursday, April 27, 6:00 - 8:00 pm<br>
 <strong>WHERE:</strong> The Universities at Shady Grove<br>
-Building III (Camille Kendall Academic Center) Room 3241<br>
+Building III (Camille Kendall Academic Center) Room 4230<br>
 9636 Gudelsky Drive, Rockville, Maryland 20850
 </h5>
 <br>
@@ -141,11 +141,11 @@ Building III (Camille Kendall Academic Center) Room 3241<br>
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">2/23/2017 6:00 PM</span>
-    <span class="end">2/23/2017 8:00 PM</span>
+    <span class="start">4/27/2017 6:00 PM</span>
+    <span class="end">4/27/2017 8:00 PM</span>
     <span class="timezone">America/New_York</span>
     <span class="title">Cyber Talks</span>
-    <span class="description">​Join us at The Universities at Shady Grove (USG) for an informative and engaging discussion on the operation of cellular networks and the threats posed to mobile technology.</span>
+    <span class="description">​Join us at The Universities at Shady Grove (USG) for an informative and engaging discussion on digital forensic techniques and how these techniques are used in the incident response and Cyber investigations.</span>
     <span class="location">9636 Gudelsky Drive, Rockville, Maryland 20850</span>
     <span class="organizer">UMBC at Shady Grove Cybersecurity Program</span>
     <span class="organizer_email">rjones@umbc.edu</span>

@@ -66,7 +66,7 @@ html::after {
 
 }
 
-option[value*="Political Science"], option[value*="Psychology"], option[value*="Social Work"], .poli, .psych, .socialwork  {display:none!important}
+option[value*="Political Science"], option[value*="Psychology"], option[value*="Social Work"], .poli, .psych, .socialwork {display:none!important}
 
 </style>
 
@@ -186,6 +186,7 @@ var vars = [], hash;
 $("#entry_1155602363").attr("value", vars['email']);
 $("#entry_1835283191").attr("value", vars['first']);
 $("#entry_741179195").attr("value", vars['last']);
+$('#entry_82693912').val('History');
 </script>
  
 </body>

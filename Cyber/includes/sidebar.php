@@ -1,11 +1,5 @@
 <div class="five columns">    <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Upcoming Event</h3>
-      <p style="text-align:center">
-		<strong>Cyber Talk - Discussion on Cybersecurity</strong><br>
-Thursday, February 23, 6:00-8:00PM<br>
-<a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_sidebar" class="btn">Register Here!</a>
-	</p>
-    <hr style="margin-bottom:0px">
       <p style="text-align:center"><strong>Program Exploration Open House</strong>    
       <br>
       Saturday, April 1, 10:00-12:00PM <br>
