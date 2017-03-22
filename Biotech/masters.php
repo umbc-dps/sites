@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -34,6 +26,7 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"><link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 <body>
   <div id="skip-content">
@@ -69,17 +62,15 @@ $lang = 'en';
 
   <div class="eleven columns">
   
-<!-- START Content --> 
- <h3>Admissions: Master's Degree </h3>
- <h4>Application Dates</h4>
-<p>The application deadline for Spring 2017 is <strong>December 1</strong><br>
+<!-- START Content -->
+<h3>Biotechnology Graduate Program Admissions: Master's Degree </h3>
+<h4>Application Dates</h4>
+<p>The application deadline for the Master's in Biotechnology program for Spring 2017 is <strong>December 1</strong><br>
   Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
-  
-  <p>The application deadline for Fall 2017 is <strong>August 1</strong><br>
+<p>The application deadline for the MS in Biotechnology program for Fall 2017 is <strong>August 1</strong><br>
   Fall 2017 Classes Start: <strong>August 30, 2017</strong></p>
-
- <h4>Admissions Requirements:</h4>
- <p>An undergraduate degree in Biology, Chemistry, or Chemical/Biochemical Engineering or other Bachelor's degree that includes sufficient credits from relevant courses in the life sciences</p>
+<h4>Biotech Programs Admissions Requirements:</h4>
+<p>An undergraduate degree in Biology, Chemistry, or Chemical/Biochemical Engineering or other Bachelor's degree that includes sufficient credits from relevant courses in the life sciences</p>
  <ul>
    <li>GRE scores are not required for admission</li>                
    <li>Applicants should have a minimum undergraduate GPA of 3.0 on a 4.0 scale</li>
@@ -117,7 +108,7 @@ UMBC Graduate School, MPS: Biotechnology <br>
 
  <!-- END Content -->
 
-  <div id="contents" style="display:none"></div>
+  
  
 </div>
   
@@ -136,26 +127,18 @@ UMBC Graduate School, MPS: Biotechnology <br>
 <!-- container --> 
 
 
-<script>
-	var programname = "bio";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -163,5 +146,8 @@ $(document).ready(function () {
 });
 </script>
 
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

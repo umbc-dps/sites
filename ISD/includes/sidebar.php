@@ -13,8 +13,8 @@ Saturday, April 1, 10:00AM - 12:00PM<br>
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p>Summer 2017 Master's Priority Application Deadline: March 1st; Summer 2017 Certificate Application Deadline: April 1st;<br>
-      	Fall 2017 Master's Priority Application Deadline: June 1st; Fall 2017 Certificate Application Deadline: July 1st<br>
+      <p><strong>Summer 2017 Master's Priority Application Deadline:</strong> March 1st<br><strong> Summer 2017 Certificate Application Deadline:</strong> April 1st<br></p>
+      	<p><strong>Fall 2017 Master's Priority Application Deadline:</strong> June 1st<br><strong> Fall 2017 Certificate Application Deadline:</strong> July 1st<br> </p>
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>      </p>
   </aside>
 
@@ -65,25 +65,31 @@ Saturday, April 1, 10:00AM - 12:00PM<br>
     </aside>
 
 
-        <aside class="five columns add-bottom" id="four">   
+<aside class="five columns add-bottom" id="four">   
 <h3 style="color:#fff;">Request Information</h3>
 
-  <p>
-    
-    <form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'request_info');">
-    
-    <div id="sidebar-contact">
-    </div>
-             
-    <div class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
-    	<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=<?php echo $lang; ?>">
-		</script>
-        <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha" required>
-    <br>
-		<input type="submit" name="submit" value="Submit" style="height:auto;">
-      </form>
-    </p>   
-   </aside>   
+<div id="form">    
+        
+<?php
+//Set stream options
+$context = stream_context_create(array('http' => array('ignore_errors' => true)));
+if(!isset($_GET['tfa_next'])) {
+$qs = ' ';
+if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
+echo file_get_contents('https://umbc.secure.force.com/form?formID=217734'.$qs);
+} else {
+echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
+}
+?>
+</div>
+
+
+<script>
+$('aside #tfa_0').submit(function() {
+  ga('send', 'event', 'inquiry', 'submit', 'request_info');
+});
+</script>
+</aside>  
    
    
    

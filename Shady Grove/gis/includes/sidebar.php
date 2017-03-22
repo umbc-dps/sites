@@ -73,25 +73,31 @@
       </dl> 
     </aside>
     
-        <aside class="five columns add-bottom" id="four">   
+ <aside class="five columns add-bottom" id="four">   
 <h3 style="color:#fff;">Request Information</h3>
 
-  <p>
-    
-    <form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'request_info');">
-    
-    <div id="sidebar-contact">
-    </div>
-             
-    <div class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
-    	<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=<?php echo $lang; ?>">
-		</script>
-        <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha" required>
-    <br>
-		<input type="submit" name="submit" value="Submit" style="height:auto;">
-      </form>
-    </p>   
-   </aside>    
+<div id="form">    
+        
+<?php
+//Set stream options
+$context = stream_context_create(array('http' => array('ignore_errors' => true)));
+if(!isset($_GET['tfa_next'])) {
+$qs = ' ';
+if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
+echo file_get_contents('https://umbc.secure.force.com/form?formID=217734'.$qs);
+} else {
+echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
+}
+?>
+</div>
+
+
+<script>
+$('aside #tfa_0').submit(function() {
+  ga('send', 'event', 'inquiry', 'submit', 'request_info');
+});
+</script>
+</aside>    
    
             <aside class="five columns add-bottom">
 <dt style="text-align:center">

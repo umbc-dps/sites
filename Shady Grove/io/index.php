@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html><head>
 
@@ -30,7 +22,7 @@ $lang = 'en';
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
+<link href="../css/accordion.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script src="../js/modernizr.custom.js"></script>
@@ -39,7 +31,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
   <div id="skip-content">
@@ -145,7 +140,25 @@ $lang = 'en';
 
 </li>
 <!-- END SLIDE FOUR -->
-      
+
+<!-- SLIDE FIVE -->
+<li id="slide4">
+
+<a href="http://gradschool.umbc.edu/admissions/apply/"  target="_blank">
+	<img alt="img02" src="images/umbc_io.jpg"target="_blank">
+</a>
+
+<div class="carousel-caption wordwrap">
+<h3>Interested in our Fall 2017 Cohort?</h3>
+<small>We are accepting applications for our IO Psychology Program! The March 1 application deadline is quickly approaching.</small>
+
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank" class="web-seemore">Apply Now</a></p></div>
+
+<p id="captiontwo"><a href="http://gradschool.umbc.edu/admissions/apply/">Interested in our Fall 2017 Cohort?</a></p>
+
+</li>
+<!-- END SLIDE FIVE -->
+    
     </ul>
 
     <div id="dotcontainer">
@@ -158,28 +171,25 @@ $lang = 'en';
 <h3>UMBC I/O Psychology Graduate Programs</h3>
 
       <p>The Industrial/Organizational Psychology program at UMBC-Shady Grove in Rockville, MD offers a Master of Professional Studies in I/O Psychology. UMBC&rsquo;s program is a unique, highly applied program, providing graduate training focused on developing skills that are relevant in today's job market, exploring and integrating important topics including organizational behavioral management, human factors, and professional human resources practice, and helping students develop a professional portfolio while building strong relationships with faculty practitioners and industry professionals.</p>
-      
-    <p>Upon completion of the program, students gain advanced knowledge in Statistical Methods and Data Analysis, Ethical, Legal and Professional Contexts, Measurements of Individual Differences, Criterion Development, Job and Task Analysis, Employee Selection, Placement and Classification, Performance Appraisal and Feedback, Work Motivation, and Organizational Behavior.</p>
-
+      <p>Upon completion of the Master's in Industrial Organizational Psychology&nbsp;program, students gain advanced knowledge in Statistical Methods and Data Analysis, Ethical, Legal and Professional Contexts, Measurements of Individual Differences, Criterion Development, Job and Task Analysis, Employee Selection, Placement and Classification, Performance Appraisal and Feedback, Work Motivation, and Organizational Behavior.</p>
       <h3>Why Industrial/Organizational Psychology?</h3>
 
       <ul>
-        <li>According to the United States Department of Labor Bureau of Labor Statistics, I/O Psychology positions are expected to increase by 26% from 2008 to 2018.
-        </li>
-        <li>There are many diverse career paths available, including working in the private sector, governmental, education, or consulting. Industrial/Organizational psychologists contribute to an organization's success by improving the performance, satisfaction, safety, health and well-being of its employees with many career opportunities opening up with the completion of a Master&rsquo;s degree.      </li>
+        <li>According to the United States Department of Labor Bureau of Labor Statistics, I/O Psychologist positions are expected to increase by 26% from 2008 to 2018. </li>
+        <li>There are many diverse career paths available for those with an I/O Psychology degree, including working in the private sector, governmental, education, or consulting. Industrial/Organizational psychologists contribute to an organization's success by improving the performance, satisfaction, safety, health and well-being of its employees with many career opportunities opening up with the completion of a Master’s degree. </li>
       </ul>
 
 
     <h3>Why UMBC?</h3>
 
       <ul>
-        <li>UMBC's Industrial/Organization Psychology Graduate Program is led by a distinguished faculty of practitioners in the field.</li>
+        <li>UMBC's Industrial/Organization Psychology Master's Programs are led by a distinguished faculty of practitioners in the field.</li>
         <li>Program includes an Advisory board comprised of representatives from business, industry and government who provide valuable input on program and curriculum development. </li>
         <li>Classes are offered at UMBC-Shady Grove in Rockville, MD, which is conveniently located near Baltimore, Washington D.C. and Northern Virginia. Classes are offered in a flexible format, designed for busy working professionals, with in-person classes offered in the early evening.</li>
       </ul>
     
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>  
   
@@ -217,27 +227,14 @@ $lang = 'en';
 
 <!-- END container -->
 
-
-<script>
-	var programname = "io";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <script>
@@ -325,6 +322,10 @@ $(document).ready(function () {
 </script>
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>
 

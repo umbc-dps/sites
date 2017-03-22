@@ -6,6 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is a fit for you." />
 
+<meta name="google-site-verification" content="iNv2dm65X5VqSZjqdgzOM8zkHZU8bwycQ0ihWPQU3QA" />
+
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@umbc_dps">
@@ -154,6 +156,8 @@ aside p, aside dl {
 <h4 style="font-weight:bold">Questions?</h4>
 <h5>If you have questions, please contact: 
 <a href="mailto:dps@umbc.edu">dps@umbc.edu</a></h5><br>
+<br>
+
 
 
 <!-- END Content -->

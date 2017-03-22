@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,7 +24,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
   <div id="skip-content">
@@ -105,6 +100,7 @@ $lang = 'en';
    <li><a href="courses#ISD1" target="_blank">EDUC 602: Instructional Systems Design</a></li>
    <li><a href="courses#principles-in-training-and-development" target="_blank">EDUC 671: Principles in Training and Development</a></li>
    <li><a href="courses#strategic-planning" target="_blank">Strategic Planning</a></li>
+   <li><a href="courses#total-rewards" target="_blank">Total Rewards</a></li>
   <li>Other relevant graduate course(s) approved by  the I/O Psychology Graduate Program Director</li>
 </ul>
 
@@ -307,6 +303,16 @@ the development of performance management and employee selection system. </p>
   </div>
 
 
+<div class="accordionheader">
+  <h4><a href="#total-rewards" id="strategic-planning"></a>Total Rewards<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p>The course provides and overview of contemporary organization’s total rewards programs. We will cover and discuss compensation, benefits and other reward and recognition programs in the context of an organization’s business strategy. We will review and discuss the roles and challenges of managing a total rewards program in today’s organizations.</p>
+
+  </div>
+
+
 <div class="accordionheader" style="background-color:#E0C586">
   <h4>Capstone Course (3 credit hours)</h4>
 </div>
@@ -327,7 +333,7 @@ the development of performance management and employee selection system. </p>
 
         <br>
         
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
     </div>
@@ -340,27 +346,14 @@ the development of performance management and employee selection system. </p>
   <!--END footer -->
    <!-- container -->
 
-
-<script>
-	var programname = "io";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
@@ -391,5 +384,9 @@ $(document).ready(function () {
 </script>
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

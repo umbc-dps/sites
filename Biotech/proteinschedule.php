@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,6 +27,7 @@ $lang = 'en';
   <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
   <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"><link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 
 <body>
@@ -131,7 +124,7 @@ $lang = 'en';
     <!--END footer -->
   </div>
   <!-- container -->
-<div id="contents" style="display:none"></div>
+
 
 <script>
 	var programname = "usg";
@@ -188,5 +181,8 @@ $("#entry_1244612739").attr("value", vars['first']);
 $("#entry_1812444790").attr("value", vars['last']);
 </script>
 
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

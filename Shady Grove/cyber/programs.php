@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,7 +27,10 @@ $lang = 'en';
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png"></head>
+<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
+</head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -76,7 +71,7 @@ $lang = 'en';
 <h4>Graduate Programs</h4>
 
 <ul>     
-   <LI><A href="programmaster.php">Master's in Professional Studies: Cybersecurity</A>
+   <LI><A href="programmaster.php">Master's of Professional Studies: Cybersecurity</A>
      (30 credits)
    </LI>
    <LI><a href="programbsmps.php">Accelerated BS/MPS Program Option</a></LI>
@@ -96,7 +91,7 @@ $lang = 'en';
 
  
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
   
@@ -114,26 +109,16 @@ $lang = 'en';
 </div>
 <!-- container --> 
 
-<script>
-	var programname = "cyber-sg";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <?php include("includes/tracking.php"); ?>
@@ -144,5 +129,8 @@ $(document).ready(function () {
 });
 </script>
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>

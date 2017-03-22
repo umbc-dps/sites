@@ -1,10 +1,4 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <html>
@@ -36,7 +30,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -88,7 +85,7 @@ $lang = 'en';
    </ul>
    
    <h4>Leave Of Absence:</h4>
-   <p>Please notify the graduate  program coordinator if you are planning a <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=362#leave-of-absence">leave of absence</a>. Failure to enroll  in class during a given semester, will result in the student being placed on  leave of absence. More than three consecutive leaves of absence require approval  of the Graduate Program Director and completion of <a href="http://gradschool.umbc.edu/students/forms/" target="_blank">LOA Form</a>.</p>
+   <p>Please notify the graduate  program coordinator if you are planning a <a href="http://catalog.umbc.edu/content.php?catoid=14&navoid=720#leave-of-absence">leave of absence</a>. Failure to enroll  in class during a given semester, will result in the student being placed on  leave of absence. More than three consecutive leaves of absence require approval  of the Graduate Program Director and completion of <a href="http://gradschool.umbc.edu/students/forms/" target="_blank">LOA Form</a>.</p>
    
    <h4>Graduation: </h4>
    <p>In order to graduate and receive your degree, you must complete the graduation application process. Click the graduation forms link to complete the online graduation application. Please consult the Graduate School website for online application, deadlines and commencement details.</p>
@@ -96,7 +93,7 @@ $lang = 'en';
    <ul><li><a href="http://gradschool.umbc.edu/graduation/commencement/" target="_blank">Commencement Information</a></li></ul>
  
     
-<div id="contents" style="display:none"></div>
+
 <!-- END CONTENT -->
 
   </div>
@@ -115,26 +112,18 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "engm";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -143,6 +132,9 @@ $(document).ready(function () {
 </script>
 
 
+
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

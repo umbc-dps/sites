@@ -333,6 +333,41 @@ html::after {
 
 </div>
 
+<div class="accordionheader">
+            <h4><a id="mccormack" href="#mccormack"></a>Claire McCormack, History and Political Science<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody">
+<img src="images/PAT/claire-mccormack.jpg" align="left" class="pat-team">
+    
+<p>
+    <strong>An interesting personal fact…</strong><br>
+    I am committed to having at least one of hour “me” time each day. I believe it is absolutely critical to center and relax your mind, and have some moments away from the stress of everyday life. Whether it be working out, cooking, or catching up on my favorite TV show- I make time for it! 
+</p>
+
+<p>
+    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
+    It was very important to me to transfer to a school with small class sizes, quality education standards, and professors who were readily available to their students. I also wanted to stay close to home in order to continue working at my current job and build professional connections within the DC community. Financially, UMBC- Shady Grove was much more “do-able” than other institutions that offer my fields of study. Finally, I needed a vibrant, diverse community to plant my roots in. UMBC-Shady Grove exceeded all of the criteria I had, and when I visited, I realized it was the perfect fit. 
+</p>
+
+
+<p>
+    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
+    UMBC- Shady Grove has a plethora of extracurricular activities and internship connections. Beyond being a member of the Peer Advisory Team (PAT), I am involved with the Political Science Student Organization (PSSO), where I serve as Co-President. I am also a member of the weekly political and current events discussion group, affectionately known as “Wednesday Wipeout”. From time to time, I enjoy partaking in Shady Grove-wide social justice and service events. Work wise, I intern for the United States Food and Drug Administration part-time during the school year and full-time in the summer months. 
+</p>
+
+<p>
+    <strong>What are your plans following graduation?</strong><br>
+    Directly after graduation, I hope to travel for a month or so throughout the Northwest United States and Canada. After that much needed rest and exploration, I hope to work for a year or two within the government and then pursue a graduate degree. I am looking into the possibility of law school or a Masters in Political Management. My ultimate goal is to serve the public through politics and policy work, either domestically and/or internationally.
+</p>
+
+<p>
+    <strong>What is your advice for prospective students?</strong><br>
+    My biggest piece of advice is to get involved and integrate yourself into the UMBC-Shady Grove community. Get to know your professors by attending office hours, and connect with your classmates via study sessions. Take advantage of the abundance of resources available to students, such as the Center for Academic Success (CAS) or the recreation center. And attend club meetings! There is something for everyone here, and the best way to succeed is to have a positive, encouraging community around you and a great school/life balance. 
+</p>
+
+</div>
+
 
 <div class="accordionheader">
             <h4><a id="membreno" href="#membreno"></a>Adriana Membreno, Social Work<i class="fa fa-angle-down"></i></h4>
@@ -437,7 +472,7 @@ As for extracurricular activities, I would have to say joining the Peer Advisory
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    Following graduation, I hope to be accepted into the Psychology Program at the University of Maryland, and begin working on my Masters in Clinical Psychology. I also hope to become more involved in homeless shelters and help the children feel a little push of positivity to get through their day. I see myself working with kids once I receive my Master’s degree.
+    Following graduation, I hope to be accepted into the Psychology Program at the University of Maryland, and begin working on my Master's of Clinical Psychology. I also hope to become more involved in homeless shelters and help the children feel a little push of positivity to get through their day. I see myself working with kids once I receive my Master’s degree.
 </p>
 
 <p>

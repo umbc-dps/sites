@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,7 +35,10 @@ $lang = 'en';
 <link href="../images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="../images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -120,7 +115,7 @@ This academic program is a participant in the U.S. Department of Education Gainf
 
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
   
@@ -139,26 +134,18 @@ This academic program is a participant in the U.S. Department of Education Gainf
 <!-- container --> 
 
 
-<script>
-	var programname = "gis";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
 <script>
@@ -189,5 +176,8 @@ $(document).ready(function () {
 });
 </script>
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>

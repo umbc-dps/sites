@@ -2,7 +2,6 @@
 <dwsync>
 <file name=".DS_Store" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130682275610000000" remote="130785930680000000" Dst="2" />
 <file name=".DS_Store" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygvsite/" local="130682275610000000" remote="130782406240000000" Dst="2" />
-<file name="submit.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygvsite/" local="130782449603796164" remote="130782449680000000" Dst="2" />
 <file name="menu.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygvsite/" local="130782465194823389" remote="130782465200000000" Dst="2" />
 <file name="sidebar.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygvsite/" local="130783356625403262" remote="130783356640000000" Dst="2" />
 <file name="footer.php" server="gl.umbc.edu//afs/umbc.edu/public/www/shadygvsite/" local="130782476361758389" remote="130782476430000000" Dst="2" />
@@ -13,13 +12,15 @@
 <file name="header.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130782482421178389" remote="130785930680000000" Dst="2" />
 <file name="menu.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130825785138495720" remote="130825785150000000" Dst="2" />
 <file name="rsvp-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130863864543094549" remote="130863864560000000" Dst="2" />
-<file name="sidebar.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131329603003868584" remote="131329603020000000" Dst="1" />
-<file name="submit.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130798105241431592" remote="130945870690000000" Dst="2" />
 <file name="umbc-header.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130978728424067500" remote="130978692860000000" Dst="2" />
-<file name="tracking.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131236275777857496" remote="131236281800000000" Dst="1" />
+<file name="tracking.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131236275777857496" remote="131236245800000000" Dst="2" />
 <file name="webinar-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130876726780000000" remote="130876726780000000" Dst="2" />
-<file name="sidebar-old" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130946833480000000" remote="130946833480000000" Dst="2" />
 <file name="program-info.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131226721457501998" remote="131226721540000000" Dst="2" />
-<file name="contact-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131060823840220159" remote="131060859840000000" Dst="1" />
+<file name="contact-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131060823840220159" remote="131060823840000000" Dst="2" />
 <file name="google-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130952873076783773" remote="131060825780000000" Dst="2" />
+<file name="sf-contact-inputs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131341570899408886" remote="131341570900000000" Dst="2" />
+<file name="sidebar-old.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131329603003868584" remote="131341430220000000" Dst="2" />
+<file name="sidebar.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131342556411373939" remote="131342556410000000" Dst="2" />
+<file name="sidebar1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="131341426650000000" remote="131341426650000000" Dst="2" />
+<file name="sidebar-google-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/cyber/" local="130946833480000000" remote="131341435680000000" Dst="2" />
 </dwsync>

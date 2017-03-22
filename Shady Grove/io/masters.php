@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -42,7 +34,10 @@ $lang = 'en';
 
 
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -76,12 +71,12 @@ $lang = 'en';
 
   <div class="eleven columns">
   
-<!-- START Content --> 
- <h3>Admissions: Master's Degree </h3>
- <h4>Application Dates</h4>
+<!-- START Content -->
+<h3>Admissions: Master's in I/O Psychology </h3>
+<h4>Application Dates</h4>
  <p>The application deadline for Fall 2017 is <strong>April 1</strong>.</p>
  <h4>Admissions Requirements:</h4>
- <p>Admissions decisions are based on a match of the applicant's interests, work experience, academic background, scholarship and personal goals for the programs. Minimum admission requirements are listed below.</p>
+ <p>Admissions decisions for I/O Psychology programs are based on a match of the applicant's interests, work experience, academic background, scholarship and personal goals. Minimum admission requirements are listed below.</p>
  <ul>
    <li>GRE scores are not required for admission</li>
    <li>B.A. or B.S. in Psychology or a bachelor&rsquo;s degree in a related field with required prerequisite coursework, which included an introductory psychology course and a research methods or statistics course.</li>                
@@ -120,7 +115,7 @@ UMBC Graduate School, MPS: I/O Psychology <br>
 
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
   
@@ -139,28 +134,14 @@ UMBC Graduate School, MPS: I/O Psychology <br>
 </div>
 <!-- container --> 
 
-
-
-<script>
-	var programname = "io";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -174,5 +155,9 @@ $(document).ready(function () {
 </script>
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

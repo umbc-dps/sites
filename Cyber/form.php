@@ -24,8 +24,7 @@
   <link href="images/favicon.ico" rel="shortcut icon">
   <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-  <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"><link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 <style>
 #four{display:none}
@@ -158,9 +157,7 @@ echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],fals
       </div>
 
     
-    <div id="contents" style="display:none">  
-    	  
-    </div>
+    
     
     </div>
     <!-- SIDEBAR -->
@@ -189,6 +186,8 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 <script>
 var vars = [], hash;

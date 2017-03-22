@@ -91,20 +91,53 @@
 
 <!-- Slide Two -->
 <li id="slide2">
-	<a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" target="_blank">
-    	<img src="images/featured/biol480.jpg" alt="Featured Course: Animal Behavior">
+	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
+    	<img src="images/featured/gwst310.jpg" alt="Featured Course: Gender and Inequality in America">
 	</a>
 	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: Animal Behavior <br>(BIOL 480)</h3>
-		<small>Explore the fascinating ways animals interact with each other and their environments. (Writing Intensive GEP)</small>
-		<p><a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+		<h3>Featured Course: Gender and Inequality in America <br>(GWST 310)</h3>
+		<small>Examine how gender, race, and class shape individual experiences in American society. (Arts & Humanities GEP) </small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1272" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/featured-course-animal-behavior/" target="_blank">Featured Course: Animal Behavior</a>
+    	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">Featured Course: Gender and Inequality in America</a>
 	</p>
 </li>
-<!-- END Slide Two -->           
+<!-- END Slide Two -->
+
+<!-- Slide Three -->
+<li id="slide3">
+	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">
+    	<img src="images/featured/baltimore.png" alt="Special Programs">
+	</a>
+	<div class="carousel-caption wordwrap">
+		<h3>Special Programs</h3>
+		<small>Go beyond the traditional classroom and broaden your perspective – make your summer count!</small>
+		<p><a href="http://www.umbc.edu/summer/specialprograms/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	</div>
+	<p id="captiontwo">
+    	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">Special Programs</a>
+	</p>
+</li>
+<!-- END Slide Three -->
+
+<!-- Slide Four -->
+<li id="slide4">
+	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">
+    	<img src="images/featured/jdst390.jpg" alt="Featured Course: Coen Brothers: Genre &amp; Irony">
+	</a>
+	<div class="carousel-caption wordwrap">
+		<h3>Featured Course: Coen Brothers: Genre &amp; Irony <br>(JDST 390)</h3>
+		<small>The Dude abides! Analyze the iconic Coen Brothers’ films, and their take on irony and post-ironic culture.</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1316" target="_blank" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	</div>
+	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">Featured Course: Coen Brothers: Genre &amp; Irony</a>
+	</p>
+</li>
+<!-- END Slide Four -->          
 </ul>
+
 <div id="dotcontainer"></div>
 </div>
       

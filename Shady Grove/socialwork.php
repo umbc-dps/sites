@@ -110,7 +110,7 @@ html::after {
 
          <!-- END Slide One -->
 
-          <!-- Slide Two -->
+          <!-- Slide Two --
           <li id="slide2">
           <a href="http://bit.ly/2mwsmT1" target="_blank">
           
@@ -124,7 +124,7 @@ html::after {
             </div>
             <p id="captionthree"><a href="http://bit.ly/2mwsmT1" target="_blank">Social Work Career Roundtable</a></p>
           </li>
-         <!-- END Slide Two -->
+         -- END Slide Two -->
          
          <!-- Slide Three --
           <li id="slide3">

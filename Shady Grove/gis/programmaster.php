@@ -1,16 +1,8 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
 
-<title>Master's in Professional Studies | Geographic Information Systems | UMBC at Shady Grove</title>
+<title>Master's of Professional Studies | Geographic Information Systems | UMBC at Shady Grove</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="The ten-course master's degree combines courses in cybersecurity strategy, policy, and management with more technical, hands-on cybersecurity course." />
 
@@ -19,7 +11,7 @@ $lang = 'en';
 <meta name="twitter:site" content="@UMBC_DPS">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Master's in Professional Studies | Geographic Information Systems | UMBC at Shady Grove" />
+<meta property="og:title" content="Master's of Professional Studies | Geographic Information Systems | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/gis/programmaster" />
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/bk.jpg" />
@@ -39,7 +31,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -76,7 +71,7 @@ $lang = 'en';
   
 <!-- START Content --> 
 
- <h3>Master's in Professional Studies: Geographic Information Systems </h3>
+ <h3>Master's of Professional Studies: Geographic Information Systems </h3>
  <p>UMBC's Master of Professional Studies (M.P.S.): Geographic Information Systems (GIS) is for early to mid-career professionals interested in an understanding of GIS that goes beyond &ldquo;GIS as a tool for analysis&rdquo;. This forward-looking program is developing the next generation of GIS professionals: those that have a fundamental understanding of the importance of geography as well as an advanced knowledge of the technologies involved in the end-to-end development of advanced Geographic Information Systems.</p>
  <p>The two-year program provides students with the knowledge, tools and techniques of database management, application development, and analytical assessment to appropriately address GIS requirements and answer spatial questions. Upon completing the program, students will be able to demonstrate technical leadership in planning, implementing, and managing the enterprise GIS.</p>
  <h5>The curriculum addresses five specific areas: </h5>
@@ -117,7 +112,7 @@ $lang = 'en';
 </ul>
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
 
@@ -137,26 +132,18 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "gis";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -168,5 +155,8 @@ $(document).ready(function () {
 });
 </script>
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>

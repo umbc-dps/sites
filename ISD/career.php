@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -50,7 +42,13 @@ div.subject{background-color:#E0C586;}
 .accordionheader h4, .accordionbody h4 {font-weight:normal; font-size:14px}
 .subject h4{font-weight:bold; font-size:12pt}
 </style>
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -307,11 +305,12 @@ The program also   regularly receives employment notifications from area busines
               <a href="http://www.dice.com" target="_blank">www.dice.com</a><a href="www.dice.com" target="_blank"></a><br>
               <a href="http://jobs.td.org" target="_blank">http://jobs.td.org/</a><br>
               <a href="http://www.indeed.com" target="_blank">www.indeed.com/</a><a href="www.indeed.com" target="_blank"></a><br>
-            <a href="http://www.simplyhired.com" target="_blank">www.simplyhired.com</a><a href="www.simplyhired.com" target="_blank"></a></p>
+            <a href="http://www.simplyhired.com" target="_blank">www.simplyhired.com</a><a href="www.simplyhired.com" target="_blank"></a><br>
+            <a href="https://www.linkedin.com/jobs/" target="_blank" >https://www.linkedin.com/jobs/</a> (<a href="https://www.linkedin.com/salary" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=https://www.linkedin.com/salary&source=gmail&ust=1486841696034000&usg=AFQjCNHzzGsTz4FnXfaratrEDdT6Cny8rg">https://www.linkedin.com/salary</a>)</p>
           </div>
 <br>
 
-<div id="contents" style="display:none"></div>
+
 
 <!-- END Content -->
 
@@ -354,26 +353,18 @@ The program also   regularly receives employment notifications from area busines
 
 <!-- END container -->
 
-      <script>
-	var programname = "isd";
-</script>
+      
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -470,7 +461,13 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
-      
+<?php include("includes/sf-contact-inputs.php"); ?>
+
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
+
 </html>
 

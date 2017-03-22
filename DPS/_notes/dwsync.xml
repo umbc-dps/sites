@@ -16,4 +16,7 @@
 <file name="index1.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131243159035526491" remote="131243159030000000" Dst="1" />
 <file name="index2.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131243163805084854" remote="131243163810000000" Dst="1" />
 <file name="mailchimp.html" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131339019519060861" remote="131339019520000000" Dst="2" />
+<file name="facilities.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131286120130000000" remote="131286120130000000" Dst="2" />
+<file name="news.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131342487143877600" remote="131342487140000000" Dst="2" />
+<file name="confirm.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131342486888122027" remote="131342486890000000" Dst="2" />
 </dwsync>

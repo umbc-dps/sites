@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,7 +20,7 @@ $lang = 'en';
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
+<link href="../css/accordion.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script src="../js/modernizr.custom.js"></script>
@@ -36,7 +28,10 @@ $lang = 'en';
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png"></head>
+<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
+</head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -72,8 +67,10 @@ $lang = 'en';
   
 <!-- START Content --> 
  <h3>Admissions: Master's Degree </h3>
- <h4>Application Dates</h4><p>The application deadline for Fall 2017 is <strong>August 1</strong>.  <br>
-   Spring semester begins: January 30, 2017</p>
+ <h4>Application Dates</h4><p>The application deadline for Spring 2017 is <strong>December 1</strong><br>
+   Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
+ <p>The application deadline for Fall 2017 is <strong>August 1</strong><br>
+   Fall 2017 Classes Start: <strong>August 30, 2017</strong></p>
  <h4>Admissions Requirements:</h4>
  <p>Applicants to the MPS degree program are expected to have current IT or  cybersecurity industry experience and/or a solid academic background in  computer science, information systems, or a related field.&nbsp; Those without  technical backgrounds must demonstrate other relevant professional or academic  expertise that may qualify them for admission.</p>
  <ul>
@@ -114,7 +111,7 @@ UMBC Graduate School, MPS: Cybersecurity <br>
 
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
   
@@ -132,26 +129,16 @@ UMBC Graduate School, MPS: Cybersecurity <br>
 </div>
 <!-- container --> 
 
-<script>
-	var programname = "cyber-sg";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <?php include("includes/tracking.php"); ?>
@@ -162,5 +149,8 @@ $(document).ready(function () {
 });
 </script>
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>

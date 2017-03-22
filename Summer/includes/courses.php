@@ -2100,11 +2100,11 @@
  <td></td>
  <td></td>
  <td>Main Campus</td>
- <td>Hybrid</td>
- <td>None</td>
- <td>12:00 AM</td>
- <td>12:00 AM</td>
- <td></td>
+ <td>In Person</td>
+ <td>MW</td>
+ <td>6:00 PM</td>
+ <td>9:10 PM</td>
+ <td>Evening</td>
  <td>Hardy, Timothy W.</td>
  <td>ECAC 329</td>
  <td>Must have completed ECON121 and ECON122 with a grade of &quot;C&quot; or better to take this course.</td>

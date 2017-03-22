@@ -24,55 +24,11 @@
   <link href="images/favicon.ico" rel="shortcut icon">
   <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-  <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
   
+<link href='http://umbc.edu/dps/css/sf-contact-us.css' rel='stylesheet'>
 </head>
-<style>
-#four{display:none}
-
-#tfa_0-T, .supportInfo, div.lengthIndicator{
-	display:none!important;
-}
-form#tfa_0, form#tfa_0 .section, form#tfa_0 label{background-color:transparent!important;}
-form#tfa_0 .section, form#tfa_0 div{
-	margin:0px!important;
-	padding:0px!important;
-}
-form#tfa_0, form#tfa_0 .group, form#tfa_0 .oneField, form#tfa_0 .section{width:100%!important}
-
-form#tfa_0 input, form#tfa_0 select, form#tfa_0{height:20px;}
-
-form#tfa_0 select{width:270px;}
-
-form#tfa_0 .oneField{padding-bottom:10px!important}
-
-form#tfa_0 label{
-	font-weight: bold;
-	font-size: 11pt;
-}
-form#tfa_0 input.primaryAction{
-	font-weight:bold;
-	margin-top:20px!important;
-	text-align:center!important;
-	height:30px;
-}
-.wForm{
-	min-height:660px!important; 
-	width:100%!important; 
-	padding:0px!important; 
-	margin:0px!important; 
-	overflow:hidden!important
-	}
-
-/*Hide Fields*/
-#tfa_766-D, #tfa_331-D, #tfa_807-D, #tfa_808-D, #tfa_809-D, #tfa_816-D, #tfa_817-D{display:none}
-
-@media screen and (max-width:640px) {
-
-#tfa_24-D, #tfa_26-D, #tfa_84-D, #tfa_375-D {display:none}
-
-}
-</style>
 
 <body>
   <div id="skip-content">
@@ -158,9 +114,7 @@ echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],fals
       </div>
 
     
-    <div id="contents" style="display:none">  
-    	  
-    </div>
+    
     
     </div>
     <!-- SIDEBAR -->
@@ -190,6 +144,7 @@ $(document).ready(function () {
 });
 </script>
 
+
 <script>
 var vars = [], hash;
     var q = window.location.href.split('?')[1];
@@ -203,40 +158,8 @@ var vars = [], hash;
 }
 </script>
 
-<script>
-var url = window.location.pathname.split('/')[1];
-$(window).load(function() {
-	$("#tfa_807").attr("value",url);
-});
-</script>
 
-
-<script>
-/* Set Program */
-$('select#tfa_331').find('option').each(function(){
-         if($(this).text() == 'Cybersecurity')
-            this.selected = true;
-    });
-
-/* Set Campus */
-$('select#tfa_766').find('option').each(function(){
-         if($(this).text() == 'Main Campus')
-            this.selected = true;
-    });
-	
-	
-/* Set Program Coordinator */
-$('select#tfa_809').find('option').each(function(){
-         if($(this).text() == 'Lisa Gambino - 00550000006H4P4')
-            this.selected = true;
-    });
-	
-/*Set Program Coordinator Email */
-$("#tfa_816").attr("value", 'gambino@umbc.edu');
-
-/*Set Email Body */
-$("#tfa_817").val('UMBC’s Cybersecurity program reflects the interdisciplinary nature of the modern cybersecurity environment offering students the necessary educational experience required for successful and effective cybersecurity practice in today’s workforce. Since our program blends both the technical and non-technical aspects of cybersecurity, our graduates share a common understanding of the operational cybersecurity environment and also have the opportunity to expand their knowledge on specific cybersecurity interests.');
-</script>
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 
 <script>
@@ -251,10 +174,6 @@ $(window).load(function() {
 <script>
 $('#tfa_0').submit(function() {
   ga('send', 'event', 'inquiry', 'submit', 'contact_us');
-});
-ga(function(tracker) {
-  var clientId = tracker.get('clientId');
-  $("#tfa_808").attr("value", clientId)
 });
 </script>
 

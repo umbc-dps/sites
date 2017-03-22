@@ -1,10 +1,4 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <html>
@@ -35,7 +29,11 @@ $lang = 'en';
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
+
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -74,7 +72,7 @@ $lang = 'en';
   
  <p>Courses  are developed and taught by senior systems engineers and address the entire  systems engineering life cycle, including requirements analysis, systems  architecture and design, modeling, simulation and analysis, and system  implementation and test. Classes are held at convenient late afternoon or early  evening times to meet the needs of working professionals.</p>
  
- <p>The  post-baccalaureate certificate in Systems Engineering is designed to allow the student to  rapidly acquire the fundamental skills in Systems Engineering. The certificate program can be completed in  three semesters (approximately 10 months of classes) and has a simplified <a href="certificate.php">admissions  process</a>. Credits from the certificate program can be transferred to several  Masters of Science programs: MS in Systems Engineering, MS in Electrical Engineering,  MS in Computer Science, or MS in Engineering Management. </p>
+ <p>The  post-baccalaureate certificate in Systems Engineering is designed to allow the student to  rapidly acquire the fundamental skills in Systems Engineering. The certificate program can be completed in  three semesters (approximately 10 months of classes) and has a simplified <a href="certificate.php">admissions  process</a>. Credits from the certificate program can be transferred to several  Masters of Science programs: MS of Systems Engineering, MS of Electrical Engineering, MS of Computer Science, or MS of Engineering Management. </p>
  
  <p>This certificate requires five (5)  courses. </p>
  <h5>The following four (4) foundation  courses: </h5>
@@ -103,7 +101,7 @@ This academic program is a participant in the U.S. Department of Education Gainf
 <ul><li><a href="http://ged.financialaid.umbc.edu/sys/Gedt.html" target="_blank">Gainful Employment Information</a></li></ul>
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END CONTENT -->
 
 
@@ -123,26 +121,18 @@ This academic program is a participant in the U.S. Department of Education Gainf
 <!-- container --> 
 
 
-<script>
-	var programname = "se";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -152,5 +142,9 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

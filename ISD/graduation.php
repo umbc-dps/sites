@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,7 +33,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
 
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -109,6 +104,7 @@ Normally, the fall exam occurs on a weekend either late October/ early November;
    <ul>
      <li><strong>Spring  2017:</strong> March 31 - April 3, 2017</li>
      <li><strong>Summer  2017:</strong> June 30 - July 3, 2017</li>
+     <li><strong>Fall 2017:</strong> October 27 - October 30, 2017</li>
    </ul>
    <h4>Applying for the Exam: </h4>
    
@@ -129,7 +125,7 @@ Normally, the fall exam occurs on a weekend either late October/ early November;
    <p>When you are ready to share your portfolio please contact Dr. Williams at <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a>.</p>
    
    
-  <div id="contents" style="display:none"></div>
+  
 
 <!-- END Content -->
 
@@ -152,26 +148,18 @@ Normally, the fall exam occurs on a weekend either late October/ early November;
   </div>
   <!-- container --> 
    
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -180,6 +168,10 @@ $(document).ready(function () {
 </script>
 
    
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>
 

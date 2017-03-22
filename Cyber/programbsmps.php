@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,6 +28,7 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
 
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 <body>
   <div id="skip-content">
@@ -71,12 +64,12 @@ $lang = 'en';
 
   <div class="eleven columns">
   
-<!-- START Content --> 
- <h3>Accelerated BS/MPS Program Option</h3>
- <p><em>Note: For Academic Year 2015/16 this program is only offered to CMSC students.</em></p>
+<!-- START Content -->
+<h3>Accelerated Cybersecurity Degree: BS/MPS Program Option</h3>
+<p><em>Note: For Academic Year 2015/16 this program is only offered to CMSC students.</em></p>
  <p>UMBC Computer Science majors also considering a Master of Professional Studies (MPS) degree in Cybersecurity may apply for admission to an accelerated course of study leading to the Bachelor of Science in Computer Science and Master of Professional Studies in Cybersecurity degrees. This program is open to full-time and part-time students.</p>
  <p>The Cybersecurity BS/MPS program has two phases. In Phase I, undergraduate students may take up to nine (9) credits of graduate level course work, subject to the restrictions listed below, which may be applied towards the requirements of both degrees. Students typically apply for Phase I of the program after completing CMSC 313, 331, and 341. Phase II corresponds to admission into the MPS program.</p>
- <p>Admission to Phase I is based on the student's academic record, an evaluation of the student's Statement of Purpose, and an interview. Students may apply for admission into the BS/MPS program at any time after completing CMSC 201, CMSC 202, CMSC 203, CMSC 313, CMSC 331, CMSC 341, MATH 151, MATH 152, and MATH 221.</p>
+ <p>Admission to Phase I is based on the student's academic record, an evaluation of the student's Statement of Purpose, and an interview. Students may apply for admission into the Accelerated Cyber Security degree program at any time after completing CMSC 201, CMSC 202, CMSC 203, CMSC 313, CMSC 331, CMSC 341, MATH 151, MATH 152, and MATH 221.</p>
  <p>Applicants to Phase I are expected to have an overall GPA of 3.0 or higher and an average of 3.5 or higher in their computer science courses.</p>
  <p>Once admitted to Phase I, the student may take up to nine (9) credits of graduate level Computer Science and Cybersecurity courses (excluding CMSC 698 699, CYBR 624) that can be applied towards the requirements for both the Bachelors and MPS degrees provided they receive a B or higher grade. The student selects these three (3) graduate courses in consultation with his or her faculty advisor, such as:</p>
  
@@ -106,7 +99,7 @@ $lang = 'en';
   
   <p>
   Students are responsible for meeting any course prerequisites indicated.</p>    
-<div id="contents" style="display:none"> </div>
+
 
 </div>
 <!-- END Content -->
@@ -128,26 +121,18 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "cyber";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -156,6 +141,8 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

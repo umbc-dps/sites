@@ -132,6 +132,9 @@ For a campus map, directions and parking information, please click <a href="htt
 	Friday, March 24, 1:00pm<br>
 	Saturday, April 22, 12:30pm<br>
 	Thursday, May 18, 3:00pm<br>
+    Thursday, June 15, 12:00pm<br>
+    Saturday, July 22, 12:30pm<br>
+    Wednesday, August 9, 4:30pm<br>
 	  <br>
 	  <a href="infosession" target="_blank" class="button btn-sm">
 	    Info Session RSVP</a></p>
@@ -148,10 +151,11 @@ For a campus map, directions and parking information, please click <a href="htt
 		Wednesday, April 12, 12:00pm</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-        Wednesday, March 8, 12:00pm<br>
-        Wednesday, March 15, 12:00mp<br>
         Wednesday, March 29, 12:00pm<br>
-        Wednesday, April 5, 12:00pm
+        Wednesday, April 5, 12:00pm<br>
+        Wednesday, April 12, 12:00pm<br>
+        Wednesday, April 19, 12:00pm<br>
+		Wednesday, April 26, 12:00pm
    </p>  
 	
     <p>
@@ -172,7 +176,7 @@ For a campus map, directions and parking information, please click <a href="htt
 </div>
 
 
-
+<!--
 <div class="accordionheader">
 		<h4>Undergraduate Information Session Webinar<i class="fa fa-angle-down"></i></h4>
 	</div>
@@ -184,7 +188,7 @@ For a campus map, directions and parking information, please click <a href="htt
     <a href="https://attendee.gotowebinar.com/register/1618054885695459841" target="_blank" class="button btn-sm">
 	    Register here</a>
 </div>
-       
+  -->     
 
 <hr>
 </div>

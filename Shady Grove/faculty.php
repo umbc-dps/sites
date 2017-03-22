@@ -297,13 +297,26 @@ Camille Kendall Academic Center, III-3156</strong><br>
 <a href="http://my.umbc.edu/groups/sgfaculty/events/44762" target="_blank">RSVP</a><br>
 <em>We invite all faculty, new and returning, to join us for a light dinner to meet fellow instructors, understand important UMBC-Shady Grove procedures, and receive updates on services at USG. This event will be a great resource to all who attend.</em></p>
 
+<h5>Chew Chat Connect Series: Tech Talk</h5>
+    <p><strong>Feb 21, 2017</strong><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">RSVP Coming Soon!</a><br>
+</p>
+
 <h5>Faculty Appreciation Day</h5>
-    <p><strong>Tuesday, April 1, 2017 • 10 a.m. – 6 p.m.<br>
+    <p><strong>Tuesday, March 1, 2017 • 10 a.m. – 6 p.m.<br>
 Camille Kendall Academic Center, III-4124</strong><br>
-<a href="" target="_blank">RSVP Coming Soon!</a><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/events/46940" target="_blank">RSVP Coming Soon!</a><br>
       <em>We can never say thank you enough for what you do as instructors! Enjoy this day celebrating you, our faculty, with treats and refreshments available in III-4124 as mid-terms are upon us!</em></p>
 
+<h5>Chew Chat Connect Series: Student Preparation</h5>
+    <p><strong>Mar 29, 2017</strong><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">RSVP Coming Soon!</a><br>
+</p>
 
+<h5>Chew Chat Connect Series: Student Accountability</h5>
+    <p><strong>Apr 27, 2017</strong><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">RSVP Coming Soon!</a><br>
+</p>
       </div> 
     </div>
     </div>

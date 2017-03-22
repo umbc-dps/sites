@@ -1,18 +1,10 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html><head>
 
 <title>Geographic Information Systems | UMBC at Shady Grove</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="The Master’s in Professional Studies in Geographic Information Systems prepares experienced professionals to fill management and leadership roles." />
-
+<meta name="google-site-verification" content="iNv2dm65X5VqSZjqdgzOM8zkHZU8bwycQ0ihWPQU3QA" />
 
 
 <!-- Twitter Card data -->
@@ -29,7 +21,7 @@ $lang = 'en';
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
+<link href="../css/accordion.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script src="../js/modernizr.custom.js"></script>
@@ -39,7 +31,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
   
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
   <div id="skip-content">
@@ -100,15 +95,15 @@ $lang = 'en';
 <!-- SLIDE TWO --> 
 <li id="slide2">
       
-<a href="https://www.youtube.com/watch?v=6QyOjhcJEss" class="video"><img alt="img02" src="images/umbc_gis.png"></a>
+<a href="http://woolpert.com/resource/woolpert-geospatial-scientist-named-asprs-fellow-earns-outstanding-service-award/" target="_blank"><img alt="img02" src="images/abdullah.png"></a>
 
-<div class="carousel-caption wordwrap">
-<h3>GIS Program Director, Erwin Villiger</h3>
-<small>Dr. Erwin Villiger talks about UMBC's GIS Graduate Program and how the program delivers the fundamental knowledge and skills necessary to succeed as a GIS professional.</small>
+<div class="carousel-caption-right wordwrap">
+<h3>Distinguished Faculty Highlight</h3>
+<small>Dr. Qassim Abdullah was doubly honored by the American Society of Photogrammetry and Remote Sensing (ASPRS) at the annual Imaging and Geospatial Information Society (IGIS) conference in Baltimore.</small>
 
-<p><a href="https://www.youtube.com/watch?v=6QyOjhcJEss" class="web-seemore video">Watch Now</a></p></div>
+<p><a href="http://woolpert.com/resource/woolpert-geospatial-scientist-named-asprs-fellow-earns-outstanding-service-award/" class="web-seemore" target="_blank">Congratulations!</a></p></div>
 
-<p id="captiontwo"><a href="https://www.youtube.com/watch?v=6QyOjhcJEss" class="video">GIS Program Director, Erwin Villiger</a></p>
+<p id="captiontwo"><a href="http://woolpert.com/resource/woolpert-geospatial-scientist-named-asprs-fellow-earns-outstanding-service-award/" target="_blank">Distinguished Faculty: Dr. Qassim Abdullah</a></p>
 
 </li>
 <!-- END SLIDE TWO -->  
@@ -130,7 +125,26 @@ $lang = 'en';
 
 <!-- END SLIDE THREE -->  
 
-      
+<!-- Slide FOUR -->    
+
+<li id="slide4">
+
+<a href="http://gradschool.umbc.edu/admissions/apply/"  target="_blank">
+	<img alt="img04" src="images/7gis.jpg"target="_blank">
+</a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>Accepting Applications for Fall 2017</h3>
+<small>Classes begin August 30.</small>
+
+<p><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank" class="web-seemore">Apply Now</a></p></div>
+
+<p id="captiontwo"><a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Accepting Applications for Fall 2017</a></p>
+
+</li>
+
+<!-- END SLIDE FOUR -->
+     
     </ul>
 
     <div id="dotcontainer">
@@ -164,7 +178,7 @@ $lang = 'en';
 
     
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>  
   
@@ -202,26 +216,18 @@ $lang = 'en';
 
 <!-- END container -->
 
-<script>
-	var programname = "gis";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $( function() {
@@ -307,6 +313,9 @@ $(document).ready(function () {
 });
 </script>
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>
 

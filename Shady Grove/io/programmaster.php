@@ -1,16 +1,8 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
 
-<title>Master's in Professional Studies | Industrial/Organizational Psychology | UMBC at Shady Grove</title>
+<title>Master's of Professional Studies | Industrial/Organizational Psychology | UMBC at Shady Grove</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="The ten-course master's degree combines courses in I/O Psychology strategy, policy, and management with more technical, hands-on I/O Psychology course." />
 
@@ -19,7 +11,7 @@ $lang = 'en';
 <meta name="twitter:site" content="@UMBC_DPS">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Master's in Professional Studies | Industrial/Organizational Psychology | UMBC at Shady Grove" />
+<meta property="og:title" content="Master's of Professional Studies | Industrial/Organizational Psychology | UMBC at Shady Grove" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/shadygrove/io/programmaster" />
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/bk.jpg" />
@@ -41,7 +33,10 @@ $lang = 'en';
 
 
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -77,7 +72,7 @@ $lang = 'en';
   
 <!-- START Content --> 
 
- <h3>Master's in Professional Studies: I/O Psychology </h3>
+ <h3>Master's of Professional Studies: I/O Psychology </h3>
  <p>UMBC's Master of Professional Studies (M.P.S.): Industrial/Organizational Psychology is designed to provide advanced education to early/mid-career professionals in the areas of human capital functions, personnel selection, and training and organizational management.
  </p>
  <p>The two-year program provides students with the knowledge, tools and techniques to evaluate and explore organizational behavioral management, human factors, and human resource practices based on the needs of the current job market. Upon completing the program, students will have also completed a professional capstone experience, developing a professional portfolio while building relationships with those in industry.</p>
@@ -118,7 +113,7 @@ $lang = 'en';
 </ul>
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
 
@@ -138,28 +133,14 @@ $lang = 'en';
 </div>
 <!-- container --> 
 
-
-
-<script>
-	var programname = "io";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -173,5 +154,9 @@ $(document).ready(function () {
 </script>
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

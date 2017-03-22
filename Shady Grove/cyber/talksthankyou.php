@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,7 +20,7 @@ $lang = 'en';
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
 <link href="../css/styles.css" rel="stylesheet">
-<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
+<link href="../css/accordion.css" rel="stylesheet">
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
 
 <script type="text/javascript" src="https://addthisevent.com/libs/1.6.0/ate.min.js"></script>
@@ -86,7 +78,10 @@ aside .btn:hover{
 	background-color:#3C7B46!important;
 }
 </style>
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 
 <body>
@@ -141,11 +136,11 @@ Building III (Camille Kendall Academic Center) Room 4230<br>
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">4/27/2017 6:00 PM</span>
-    <span class="end">4/27/2017 8:00 PM</span>
+    <span class="start">2/23/2017 6:00 PM</span>
+    <span class="end">2/23/2017 8:00 PM</span>
     <span class="timezone">America/New_York</span>
     <span class="title">Cyber Talks</span>
-    <span class="description">​Join us at The Universities at Shady Grove (USG) for an informative and engaging discussion on digital forensic techniques and how these techniques are used in the incident response and Cyber investigations.</span>
+    <span class="description">​Join us at The Universities at Shady Grove (USG) for an informative and engaging discussion on the operation of cellular networks and the threats posed to mobile technology.</span>
     <span class="location">9636 Gudelsky Drive, Rockville, Maryland 20850</span>
     <span class="organizer">UMBC at Shady Grove Cybersecurity Program</span>
     <span class="organizer_email">rjones@umbc.edu</span>
@@ -155,7 +150,7 @@ Building III (Camille Kendall Academic Center) Room 4230<br>
 </center>
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
 
@@ -174,26 +169,16 @@ Building III (Camille Kendall Academic Center) Room 4230<br>
 </div>
 <!-- container --> 
 
-<script>
-	var programname = "cyber-sg";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <?php include("includes/tracking.php"); ?>
@@ -235,5 +220,8 @@ ga(function(tracker) {
 });
 </script>
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>

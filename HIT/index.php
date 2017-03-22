@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +31,10 @@ $lang = 'en';
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 
 <body>
@@ -80,21 +75,21 @@ $lang = 'en';
     <ul>
     
 
-<!-- SLIDE TWO --    
-<li id="slide2">
+<!-- SLIDE FOUR -->
+<li id="slide4">
 
-<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank"><img alt="img01" src="images/5.png"></a>
+<a href="http://umbc.edu/hit/infosession" target="_blank"><img alt="img02" src="images/7.jpg"></a>
 
-<div class="carousel-caption-right wordwrap">
-<h3>Register for Spring 2016</h3>
-<small>Spring 2016 semester begins <br>January 25.</small>  
-          
-<p><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank" class="web-seemore">View Classes</a></p></div>
+<div class="carousel-caption wordwrap">
+<h3>Health Information Technology Lunch & Learn</h3>
+<small>Are you a junior or senior considering a graduate program upon bachelor completion? Join us for an informational lunch about the benefits of applying to the Accelerated Bachelor's/Master's program.</small>
 
-<p id="captionthree"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" target="_blank">Register for Spring 2016</a></p>
+<p><a href="http://umbc.edu/hit/infosession" target="_blank" class="web-seemore">RSVP now!</a></p></div>
+
+<p id="captionthree"><a href="http://umbc.edu/hit/infosession" target="_blank">Health Information Technology Lunch & Learn</a></p>
 
 </li>
--- END SLIDE TWO -->
+<!-- END SLIDE FOUR -->
 
 
 <!-- Slide One -->              
@@ -147,23 +142,7 @@ $lang = 'en';
 
 </li>
 
-<!-- END SLIDE THREE --> 
-
-<!-- SLIDE THREE --
-<li id="slide3">
-
-<a href="http://www.healthit.gov/achieving-MU/ONC_Encourage_HealthIT_FS.PDF" target="_blank"><img alt="img02" src="images/4.jpg"></a>
-
-<div class="carousel-caption-right wordwrap">
-<h3>Health IT Job Outlook</h3>
-<small>According to the Bureau of Labor Statistics, the number of health IT jobs across the country is expected to increase by 20% from 2008 to 2018.</small>
-
-<p><a href="http://www.healthit.gov/achieving-MU/ONC_Encourage_HealthIT_FS.PDF" target="_blank" class="web-seemore">Read More</a></p></div>
-
-<p id="captionthree"><a href="http://www.healthit.gov/achieving-MU/ONC_Encourage_HealthIT_FS.PDF" target="_blank">Health IT Job Outlook</a></p>
-
-</li>
--- END SLIDE THREE --> 
+<!-- END SLIDE THREE -->  
 
       
     </ul>
@@ -174,30 +153,25 @@ $lang = 'en';
 
 
 <!-- START Content -->
-
-<h3>UMBC Health Information Technology Graduate Programs</h3>
-
-      <p>UMBC's in-person Health Information Technology program is designed to prepare professionals in computer science, information systems, health care, and other fields to fill a range of opportunities within the health care profession. </p>
-      <p>      Opportunities to work in Health Information Technology exist in: Clinical Care Informatics, Research/Clinical Trial Informatics, Management Consulting, Managed Care, Pharmaceuticals, Government and Consumer Electronics.</p>
+<h3>UMBC Health Information Technology Degree Programs</h3>
+<p>UMBC's in-person Master's in Health Information Technology program is designed to prepare professionals in computer science, information systems, health care, and other fields to fill a range of opportunities within the health care profession. </p>
+<p>      Opportunities to work in Health Information Technology exist in: Clinical Care Informatics, Research/Clinical Trial Informatics, Management Consulting, Managed Care, Pharmaceuticals, Government and Consumer Electronics.</p>
       <h3>Why Health Information Technology?</h3>
 
     <p class="optional">Health Information Technology is a critical domain of global competition that reaches across the social, economic and political realms. Health IT professionals play a critical role in improving the quality of health care by preventing errors and increasing efficiencies through technology. Pressing national priorities about reducing healthcare costs, improving the quality of care, and obtaining better health outcomes have created a great demand for professionals who can assist with the exchange of information in an electronic environment. </p>
-      <p class="optional">With its large population and dynamic health and health care environment, Baltimore-Washington is one of the most promising regions in the nation for graduate programs in the Health Information Technology.<br>
+    <p class="optional">With its large population and dynamic health and health care environment, Baltimore-Washington is one of the most promising regions in the nation to earn a Health Information Technology Master's degree.<br>
     </p>
-
     <h3>Why UMBC?</h3>
 
       <p>UMBC is uniquely positioned to provide education and training that respond to the state’s need for qualified technical professionals in the field of healthcare. About UMBC: </p>
       <ul class="square">
         <li>For six years running (2009-2014), UMBC was ranked #1 in the U.S. News and World Report’s list of “national up-and-coming” universities.</li>
-
-        <li>Baltimore-region employers exhibit great demand for graduates of applied, technical programs, such as the UMBC Health Information Technology program.</li>
-
+        <li>Baltimore-region employers exhibit great demand for graduates of applied, technical programs, such as the UMBC Health IT programs.</li>
         <li>UMBC’s Health IT program is sensitive to working professionals and work life balance by offering evening, weekend, hybrid course options.</li>
       </ul>
     
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  
    
@@ -230,26 +204,16 @@ $lang = 'en';
 
 <!-- END container -->
 
-<script>
-	var programname = "hit";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -334,6 +298,9 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>    
+
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

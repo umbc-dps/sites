@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,7 +30,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -84,13 +79,17 @@ $lang = 'en';
   <h4>Course Locations</h4>
   <p>In-person courses will be located at the <a href="directions">South Campus location</a>.</p>
   
-  <h3>Schedule of Classes Winter 2017</h3>
-  <p><strong>Registration Begins:</strong>  October 24, 2016<br>
-  <strong>Session Dates:</strong>  January 3 – January 27, 2017<br>
-  <strong>Last Day of Schedule Adjustment Period:</strong>  January 6, 2017<br>
-  <strong>Winter 2017 Academic Calendar/Important Dates:</strong> <a href="http://www.umbc.edu/winter/importantdates">http://www.umbc.edu/winter/importantdates</a><br>
-    <strong>Winter 2017 Financial Dates:</strong> <a href="http://www.umbc.edu/winter/financialdates">http://www.umbc.edu/winter/financialdates</a></p>
+  <h3>Schedule of Classes Summer 2017</h3>
+  <p><strong>Registration Begins: </strong>March 6, 2017<br>
+  	<strong> Non-Degree Student Registration Begins: </strong>May 23, 2017					<br><strong>12 Week Session Dates: </strong>May 30-August 18,2017<br>
+    <strong> Last Day of 12 Week Schedule Adjustment Period: </strong> June 2, 2017<br>
+    <strong>View</strong> <a href="http://umbc.edu/summer/importantdates">Summer 2017 Academic Calendar</a> <br>
+    <strong>View</strong> <a href="http://umbc.edu/summer/financialdates">Summer 2017 Financial Calendar</a></p>
+    <br>
+    <i>*All Courses are in the twelve-week session unless noted</i>
+    <br>
     
+  
 <table id="schedule">
   <TR>
     <TD width="64">Course   &amp;  
@@ -98,24 +97,66 @@ $lang = 'en';
     <TD width="64">Course Title</TD>
     <TD width="64">Day/Time</TD>
     <TD width="64">Instructor</TD>
-</TR>
+    </TR>
   <tr>
-    <td>EDUC 689 – 01 (1015)</td>
-    <td>Advance Special Topics: Managing Your Career</td>
+    <td>EDUC 602 – 02 (1900)</td>
+    <td>Instructional Systems    Development I</td>
+    <td>Online Asynchronous</td>
+    <td>Hodell, C.</td>
+    </tr>
+  <tr>
+    <td>EDUC 603 – 01 (1050)</td>
+    <td>Instructional Systems    Development II</td>
+    <td>Online Asynchronous</td>
+    <td>Campos, J.</td>
+    </tr>
+  <tr>
+    <td>EDUC 605 – 01 (1051)</td>
+    <td>The Adult Learner</td>
+    <td>Online Asynchronous</td>
+    <td>Hodell, C.</td>
+    </tr>
+  <tr>
+    <td>EDUC 641 – 01 (1052)</td>
+    <td>Online Classroom</td>
+    <td>Online Asynchronous</td>
+    <td>Berge, Z.</td>
+    </tr>
+  <tr>
+    <td>EDUC 671 – 01 (1053)</td>
+    <td>Principles of Training and Development</td>
+    <td>In-Person, Tuesdays 6:00-9:00PM in Room U638</td>
+    <td>Weinstein, S..</td>
+    </tr>
+   <tr>
+     <td>EDUC 681 – 01 (1064)</td>
+     <td>Survey of Instructional Technology Applications</td>
+     <td>Synchronous Online - Mondays 7:10-9:40PM</td>
+     <td>Kellerman, P.</td>
+    </tr>
+  <tr>
+    <td>EDUC 689 – 03 (2216)</td>
+    <td>Advance Special Topics: Portfolio Development and Talent Management</td>
+    <td>Online Asynchronous</td>
+    <td>Williams, G.</td>
+    </tr>
+  <tr>
+    <td>EDUC 792T – 01 (1054)</td>
+    <td>ISD Internship-Training</td>
     <td>Online Asynchronous</td>
     <td>Williams, G.</td>
   </tr>
-</table>
-
-<br>
-<hr>
-  
+   <tr>
+     <td>EDUC 794 – 01 (1154)</td>
+     <td>ISD Project Seminar</td>
+     <td>Online Asynchronous</td>
+     <td>Williams, G.</td>
+     </tr>
+ </table>
+ <hr>
+ <br> 
 <h3>Schedule of Classes Spring 2017</h3>
-  <p><strong>Current Student Registration Begins: </strong>October 31, 2016<br>
-    <strong>New Master/Certificate Student Registration Begins: </strong>December 1, 2016<br>
-    <strong>Non-Degree Student Registration  Begins: </strong>January 23, 2017<br>
-    <strong>Semester Begins: </strong>January 30, 2017<br>
-    <strong>Last Day of Schedule Adjustment  Period:</strong> February 10,  2017<br>
+  <p><strong>Semester Begins: </strong>January 30, 2017<br>
   <strong>Last Day of the Semester:</strong> May 16, 2017<br>
   <strong>View</strong> <a href="http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING.pdf">Full Academic Calendar</a></p>
   
@@ -221,7 +262,10 @@ $lang = 'en';
    </tr>
    </table>
 <br>
-<p>*Course held at UMBC BW Tech South (<strong><a href="directions3">Directions</a></strong>)</p>
+<p>&nbsp;</p>
+<hr>
+<br>
+<p>&nbsp;</p>
 <hr>
   
 <a id="sequence"></a><h3>Sequence of ISD Courses</h3>
@@ -356,7 +400,7 @@ $lang = 'en';
 <br>
 
   
-  <div id="contents" style="display:none"></div>
+  
 
 <!-- END Content -->
 
@@ -380,26 +424,18 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -410,5 +446,9 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

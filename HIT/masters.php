@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,7 +30,10 @@ $lang = 'en';
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
   <div id="skip-content">
@@ -74,26 +69,23 @@ $lang = 'en';
 
   <div class="eleven columns">
   
-<!-- START Content --> 
- <h3>Admissions: Master's Degree </h3>
- <h4>Application Dates</h4>
-<p>The application deadline for Spring 2017 is <strong>December 1</strong><br>
+<!-- START Content -->
+<h3>Admissions: Master's in Health Information Technology</h3>
+<h4>Application Dates</h4>
+<p>The application deadline for Spring 2017 Health Information Technology programs is <strong>December 1</strong><br>
   Spring 2017 Classes Start: <strong>January 30, 2017</strong></p>
-  
-  <p>The application deadline for Fall 2017 is <strong>August 1</strong><br>
+<p>The application deadline for Fall 2017 Health Information Systems degree programs is <strong>August 1</strong><br>
   Fall 2017 Classes Start: <strong>August 30, 2017</strong></p>
-
- <h4>Admissions Requirements:</h4>
- <p>An undergraduate degree in Information Systems, Computer  Engineering, Computer Science, Health Education, or a degree related to  healthcare professional practice or healthcare management is recommended.  However, degrees from other fields may be acceptable given relevant work  experience in the health care operations field. The M.P.S. program is best suited  for applicants who have professional experience in the health care or technology fields.</p>
- <ul>
+<h4>Health Information Technology Master's Program Admissions Requirements:</h4>
+<p>An undergraduate degree in Information Systems, Computer  Engineering, Computer Science, Health Education, or a degree related to  healthcare professional practice or healthcare management is recommended.  However, degrees from other fields may be acceptable given relevant work  experience in the health care operations field. The Master's in Health Technology program is best suited  for applicants who have professional experience in the health care or technology fields.</p>
+<ul>
    <li>GRE scores are not required for admission</li>                
    <li>Applicants should have a minimum undergraduate GPA of 3.0 on a 4.0 scale (Applicants with an appropriate level of knowledge and professional experience in the IT or Health Information Technology fields are strongly encouraged to apply.)</li>                                                          
    <li>International applicants should refer to the <a href="international.php">International Admission Page</a> for special admission information. </li>                 
    </ul>
  <h4>Application Process:</h4>
- <p>Applications for the Master's program&nbsp;are accepted for the Fall and Spring semesters. </p>
-
-<ul>
+ <p>Applications for the Master's in Health IT program&nbsp;are accepted for the Fall and Spring semesters. </p>
+ <ul>
    <li style="list-style-type:decimal"><a href="http://gradschool.umbc.edu/admissions/apply" target="_new">Apply online</a>
      <ul>
        <li>Select proposed program Health Information  Technology  &gt;&gt; Health Information  Technology  MPS</li>
@@ -116,14 +108,12 @@ $lang = 'en';
    <li>Non-refundable application fee ($50 online) </li>
  </ul>
  <h4>Mailing Instructions </h4>
- <p><strong>All application documents should be mailed to:</strong> <br>
-UMBC Graduate School, MPS: Health Information Technology <br>
+ <p><strong>Application documents for all Healthcare IT programs should be mailed to:</strong> <br>
+   UMBC Graduate School, MPS: Health Information Technology <br>
    1000 Hilltop Circle<br>
    Baltimore, MD 21250</p>
- <p>If you require further assistance, please contact <a href="mailto:gambino@umbc.edu">Lisa Gambino</a> or call 410-455-3034. </p>
-
-
-<div id="contents" style="display:none"></div>
+ <p>If you require further assistance or would like to learn more about what makes UMBC one of the best Health Information Technology schools in the region, please contact <a href="mailto:gambino@umbc.edu">Lisa Gambino</a> or call 410-455-3034. </p>
+ 
 <!-- END Content -->
 
  
@@ -143,26 +133,16 @@ UMBC Graduate School, MPS: Health Information Technology <br>
 <!-- container --> 
 
 
-<script>
-	var programname = "hit";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -171,6 +151,9 @@ $(document).ready(function () {
 </script>
 
 
+
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

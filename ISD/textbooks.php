@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,7 +36,10 @@ $lang = 'en';
 <style>
 table#schedule td:last-child{text-align:left;}
 </style>
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
  <a href="#main-content">Skip to Main Content</a>
@@ -89,7 +84,7 @@ Please refer to the list provided for required course texts, by semester. If you
 <h4><br>
 </h4>
 <hr>
-<h4>List of Textbooks for Spring 2017:</h4>
+<h4>List of Textbooks for Summer 2017:</h4>
 <table id="schedule">
   <tr>
     <td width="30%">Course Name/Section</td>
@@ -97,20 +92,20 @@ Please refer to the list provided for required course texts, by semester. If you
     <td width="55%" style="text-align:center">Textbooks and Materials</td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 602 section 04: <br>
-      Instructional Systems Development I (#2823)</p></td>
+    <td><p align="center">EDUC 602 section 02: <br>
+      Instructional Systems Development I (#1900)</p></td>
     <td><p align="center">Hodell, C.</p></td>
     <td><p><strong>Required:</strong><br>
       Hodell, C. (2016). <em>ISD From the Ground Up</em>,    (4th ed.). ATD Press.
       ISBN: 978-1562869984</p></td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 603 section 01:    Instructional Systems Development II (#2008)</p></td>
+    <td><p align="center">EDUC 603 section 01:    Instructional Systems Development II (#1050)</p></td>
     <td><p align="center">Campos, J.</p></td>
     <td><p><strong>None</strong></p></td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 605 section 01: The Adult    Learner (#2010)</p></td>
+    <td><p align="center">EDUC 605 section 01: The Adult    Learner (#1051)</p></td>
     <td><p align="center">Hodell, C.</p></td>
     <td><p><strong>Required:</strong><br>
       Galbraith, M. (2004). <em>Adult Learning Methods</em> (3rd    ed.). Malabar, FL: Kreiger Publishing Co.<br>
@@ -120,28 +115,23 @@ Please refer to the list provided for required course texts, by semester. If you
       ISBN: 978-1856178112</p></td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 643 section 01: Principles    of Distance Education (#2014)</p></td>
+    <td><p align="center">EDUC 641 section 01: The Online Classroom (#1052)</p></td>
     <td><p align="center">Berge, Z.</p></td>
     <td><p><strong>Required:</strong><br>
-      Moore, M.G. &amp; Kearsley, G. (2012). <em>Distance    Education: A Systems View on Online Learning </em>(3rd ed.). Cengage    Learning.<br>
-      ISBN: 978-1111520991</p></td>
+    Salmon, G. (2011).<em> E-Moderating: The Key to Online Teaching and Learning </em>(3rd ed.). New York: Routledge.<br>
+      ISBN: 978-0415881746</p></td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 648 section 01: Consulting    (#2016)</p></td>
-    <td><p align="center">Buelow, J.</p></td>
-    <td><p><strong>Required:</strong><br>
-      Block, P. (2011). <em> Flawless Consulting.</em> (3rd    ed.). Pfeiffer<br>
-      ISDN:978-0470620748</p></td>
-  </tr>
-  <tr>
-    <td><p align="center">EDUC 671 section 01: Principles    of Training &amp; Development (#2027)</p></td>
-    <td><p align="center">Berge, Z.</p></td>
+    <td><p align="center">EDUC 671 section 01: Principles    of Training &amp; Development (#1053)</p></td>
+    <td><p align="center">Weinstein, S.</p></td>
     <td><p><strong>Required:</strong><br>
       Biech, E. (Ed.) (2015).<em>ASTD Handbook The Definitive    Reference for Training and Development</em>(2nd ed.).ASTD.<br>
-      ISBN: 978-156286913</p></td>
+      ISBN: 978-1562869137</p>
+      <p>Pollock, V.  (2014). <em>The Field Guide to the 6Ds: How  to Use the Six Disciplines to Transform Learning into Business Results.</em> (1st  ed.) Pfeiffer</p>
+ISBN: 978-1118648131<br></td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 681 section 01: Survey of    Instructional Technology Applications (#2030)</p></td>
+    <td><p align="center">EDUC 681 section 01: Survey of    Instructional Technology Applications (#1064)</p></td>
     <td><p align="center">Kellerman, P.</p></td>
     <td><p><strong>Required:</strong><br>
       Software: <strong><u>Adobe Captivate 9</u></strong><br>
@@ -150,60 +140,24 @@ Please refer to the list provided for required course texts, by semester. If you
       ISBN: 978-1932733846</p></td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 681 section 02: Survey of    Instructional Technology Applications (#8194)</p></td>
-    <td><p align="center">Young, P.</p></td>
-    <td><p><strong>Required:</strong><br>
-      Software: <strong><u>Adobe Captivate 9</u></strong><br>
-      <br>
-      Siegel, K. (2015). <em>Adobe Captivate 9: The    Essentials Workbook</em>. IconLogic, Inc.<br>
-      ISBN: 978-1932733846<strong> </strong></p></td>
+    <td><p align="center">EDUC 689 section 03: Advance Special Topics: Portfolio Development and Talent Management (#2216)</p></td>
+    <td><p align="center">Williams, G.</p></td>
+    <td><p><strong>None</strong><br>
+    </p></td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 682 section 01:    Instructional Technology Design and Development (#4561)</p></td>
-    <td><p align="center">Berthau, C.</p></td>
-    <td><p><strong>Required:</strong><br>
-      Software: <strong><u>Adobe Captivate 9</u></strong><br>
-      <br>
-      Siegel, K. (2015).<em>Adobe Captivate 9: Beyond the    Essentials</em>. IconLogic, Inc.<br>
-      ISBN: 978-1932733877</p></td>
-  </tr>
-  <tr>
-    <td><p align="center">EDUC 683 section 01:    Multi-Media Project Management (#2031)</p></td>
-    <td><p align="center">Ahmad, R.</p></td>
-    <td><p><strong>Required:</strong><br>
-      Software:<strong><u>Adobe Captivate</u></strong><br>
-      Clark, R., &amp; Mayer, R. (2016).<em> e-Learning and the    Science of Instruction</em> (4th ed.). Wiley<br>
-      ISBN: 978-1119158660</p></td>
-  </tr>
-  <tr>
-    <td><p align="center">EDUC 771 section 01:  Research    Designs in Education (#2036)</p></td>
-    <td><p align="center">Curran, K.</p></td>
-    <td><p><strong>Required:</strong><br>
-      Clardy, A. (1997) <em>Studying your workforce:    Applied Research Methods and Tools for the Training and Development    Practitioner</em>. Sage Publications.<br>
-      ISBN: 978-0803973220<br>
-      <br>
-      Fowler, F. J. (1995). <em>Improving survey questions:    design and evaluation</em>. Thousand Oaks, CA. Sage Publications.<br>
-      ISBN: 978-0803945838<br>
-      <br>
-      Krueger, R. (2015).<em> Focus Groups: A Practical Guide for    Applied Research</em>, (5th ed.) Sage Publications. <br>
-      ISBN: 978-1483365244<br>
-      <br>
-      Rubin, H. (2011). <em>Qualitative Interviewing: the    art of hearing data</em>. (3rd ed.) Thousand Oaks, CA. Sage Publications.<br>
-      ISBN: 978-1412978378.</p></td>
-  </tr>
-  <tr>
-    <td><p align="center">EDUC 792T section 01: ISD    Internship-Training (#2039)</p></td>
+    <td><p align="center">EDUC 792T section 01: ISD    Internship-Training (#1054)</p></td>
     <td><p align="center">Williams, G.</p></td>
     <td><p><strong>None</strong></p></td>
   </tr>
   <tr>
-    <td><p align="center">EDUC 794 section 02: ISD    Project Seminar (#2042)</p></td>
+    <td><p align="center">EDUC 794 section 01: ISD    Project Seminar (#1154)</p></td>
     <td><p align="center">Williams, G.</p></td>
     <td><p><strong>None</strong></p></td>
   </tr>
   </table>
 <br>
-<div id="contents" style="display:none"></div>
+
 
 <!-- END Content -->
 
@@ -227,26 +181,18 @@ Please refer to the list provided for required course texts, by semester. If you
 <!-- container --> 
 
 
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -257,6 +203,10 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>
 

@@ -125,9 +125,9 @@ html::after {
     
     <!-- Start Content -->   
       <div class="content">
-  		<h3>Thursday, April 25, 2017, 11:00 a.m. - 3:00 p.m.<br>
+  		<h3>Thursday, April 25, 2017, 12:00 a.m. - 3:00 p.m.<br>
 USG II - Multi-purpose Room</h3>
-  		<p>Share in this unique community service event as we join together to make an impact with local organizations including Family Services, Inc., Community Ministries of Rockville, and local community shelters.</p>
+  		<p>Share in this unique community service event as we join together to make an impact with local organizations including Heartly House, Interfaith Works, and local community organizations.</p>
 
 		<div class="videoWrapper2">
 			<iframe src="https://docs.google.com/forms/d/16xGStGrEXQIdte4Fv3wmg7Xk1KQ37Y5jtlLscrFzeXQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

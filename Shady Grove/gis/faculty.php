@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -25,31 +17,25 @@ $lang = 'en';
 <meta property="og:image" content="http://www.umbc.edu/shadygrove/images/bk.jpg" />
 <meta property="og:description" content="The Master’s in Professional Studies in Geographic Information Systems prepares experienced professionals to fill management and leadership roles." />
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 <link href='../css/magnific-popup.css' rel='stylesheet'>
-<link href='../css/accordion.css' rel='stylesheet'>
-<link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
-
 <link href="../css/styles.css" rel="stylesheet">
-<link href='../css/magnific-popup.css' rel='stylesheet'>
-<link href='../css/accordion.css' rel='stylesheet'>
+<link href='http://umbc.edu/dps/css/accordion.css' rel='stylesheet'>
 <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
-
 
 <script src="../js/modernizr.custom.js"></script>
-<link href="../images/favicon.ico" rel="shortcut icon">
 
-<link href="../images/apple-touch-icon.png" rel="apple-touch-icon">
-<link href="../images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-<link href="../images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
 
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 
 <style>
-.accordionbody { padding-top:5px; }
 .accordionbody img { padding: 0px 10px 5px 0px; width: 200px }
-.accordionbody ul{ margin-left:25px; }
 </style>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -96,9 +82,9 @@ $lang = 'en';
 <div class="accordionbody">
 <p><img src="images/faculty/umbc-faculty-Erwin-Villiger.jpg" alt="Erwin Villiger" align="left" width="200"/></p>
 
-<p>Dr. Erwin Villiger founded the MPS in GIS program in 2008 and has served as its Program Director since its launch. He began his career in geospatial technology with the Central Intelligence Agency (CIA) as an Imagery Analyst and Remote Sensing Scientist. During his time with the CIA, he worked to introduce GIS to the analytic workforce. In 1997, he resigned from the CIA to pursue a Ph.D. in Environmental Science at George Mason University (GMU) where he managed the GIS and Remote Sensing computer labs for the Department of Geography and Earth System Science. While at GMU, he founded Global View Inc. to provide consulting services in the geospatial arena. In 1999, he accepted a 2-year position as a Senior Scientist with Earth Satellite Corporation in Rockville, MD where he managed the Center for National Security and Policy Support. Dr. Villiger currently serves as a Research Scientist with ISciences, LLC., a sustainability science, human security, and Earth information products company.</p>
+<p>Dr. Erwin Villiger founded the MPS of GIS program in 2008 and has served as its Program Director since its launch. He began his career in geospatial technology with the Central Intelligence Agency (CIA) as an Imagery Analyst and Remote Sensing Scientist. During his time with the CIA, he worked to introduce GIS to the analytic workforce. In 1997, he resigned from the CIA to pursue a Ph.D. in Environmental Science at George Mason University (GMU) where he managed the GIS and Remote Sensing computer labs for the Department of Geography and Earth System Science. While at GMU, he founded Global View Inc. to provide consulting services in the geospatial arena. In 1999, he accepted a 2-year position as a Senior Scientist with Earth Satellite Corporation in Rockville, MD where he managed the Center for National Security and Policy Support. Dr. Villiger currently serves as a Research Scientist with ISciences, LLC., a sustainability science, human security, and Earth information products company.</p>
     
-  <p>Dr. Villiger has taught geography and GIS courses for Johns Hopkins University and George Mason University. In addition he has developed a number of GIS education programs for professionals and workforce development. Dr. Villiger earned his BA in Geography, MS in Geographic and Cartographic Sciences with specialties in remote sensing and geographic information systems, and his PhD in Environmental Science and Public Policy.</p>
+  <p>Dr. Villiger has taught geography and GIS courses for Johns Hopkins University and George Mason University. In addition he has developed a number of GIS education programs for professionals and workforce development. Dr. Villiger earned his BA in Geography, MS of Geographic and Cartographic Sciences with specialties in remote sensing and geographic information systems, and his PhD in Environmental Science and Public Policy.</p>
   
   <p>You can view Dr. Villiger&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/in/erwinvilliger" target="_blank">here</a>.</p></div>
   
@@ -187,7 +173,7 @@ $lang = 'en';
   
   <p>Mr. Evans received his Bachelor of Science (1996) and  Master of Engineering (1997) degrees in Chemical Engineering from Cornell  University in Ithaca, NY. His professional interests and expertise are in the  area of enterprise GIS technology - particularly in geodata management and  spatial databases, systems architecture, and cloud computing. He has also  earned several certifications from Esri's Technical Certification program,  including&nbsp;Enterprise  Geodatabase Management Professional, Enterprise System Design Associate,&nbsp;Enterprise  Administration Associate, and Web Application Developer Associate.</p>
   
-  <p>Mr. Evans teaches GES 671, Spatial Database and System Design,  and GES 771, Advanced Spatial Data Management, and he began working as an  instructor at UMBC when the MPS in GIS program was launched in 2008.</p>
+  <p>Mr. Evans teaches GES 671, Spatial Database and System Design,  and GES 771, Advanced Spatial Data Management, and he began working as an  instructor at UMBC when the MPS of GIS program was launched in 2008.</p>
   
 <p>You can view Mr. Evans's public LinkedIn profile&nbsp;<a href="http://www.linkedin.com/in/owenjevans" target="_top">here</a>.</p>
 </div>
@@ -215,7 +201,7 @@ $lang = 'en';
   
   <p>Susan Kalweit, a Principal with  Booz Allen Hamilton, has more than 25 years of professional experience, and has  been instructing our Professional Seminar in Geospatial Intelligence for  multiple semesters. At Booz Allen  Hamilton, Ms. Kalweit and her team support the Central Intelligence Agency and  the National Geospatial-Intelligence Agency with analytic, targeting, and GIS  services and solutions. She is  experienced in program and technical management, cost and schedule control, intelligence  analysis, budget development, and mission oversight. Additionally, she has experience drafting  national strategy documents, establishing strategic partnerships, developing  functional requirements, and researching and developing innovative imagery and  geospatial technologies. Prior to her  employment at Booz Allen Hamilton, Ms. Kalweit enjoyed a 17 year career with  the National Geospatial-Intelligence Agency (NGA) and its predecessor  organizations, where she was recognized for her outstanding achievements with  the NIMA Outstanding Woman of the Year Award, the Meritorious Unit Citation,  and the Distinguished Civilian Service Award. </p>
   
-  <p>With M.S. degrees from the Industrial College of the Armed  Forces and Marymount University, Ms. Kalweit is a member of the US Geospatial  Intelligence Foundation Academic Advisory Committee and the Penn State  University Masters in GIS Program Advisory Board. Among her achievements with the USGIF is the  establishment of a USGIF Accreditation Program for Geospatial Intelligence  Certificate Programs
+  <p>With M.S. degrees from the Industrial College of the Armed  Forces and Marymount University, Ms. Kalweit is a member of the US Geospatial  Intelligence Foundation Academic Advisory Committee and the Penn State  University Master's of GIS Program Advisory Board. Among her achievements with the USGIF is the  establishment of a USGIF Accreditation Program for Geospatial Intelligence  Certificate Programs
    offered by post-secondary institutions. </p>
    
   <p>You  can view Ms. Kalweit&rsquo;s public LinkedIn profile <a href="http://www.linkedin.com/pub/kalweit-susan/1/8a2/a02" target="_blank">here</a>.</p>
@@ -294,7 +280,7 @@ $lang = 'en';
  
     
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
 </div>
@@ -314,26 +300,18 @@ $lang = 'en';
 </div>
 <!-- container --> 
 
-<script>
-	var programname = "gis";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>
@@ -364,5 +342,8 @@ $(document).ready(function () {
 });
 </script>
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>

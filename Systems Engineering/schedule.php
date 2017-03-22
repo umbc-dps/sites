@@ -1,10 +1,4 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <html>
@@ -43,7 +37,11 @@ table#sequence td { text-align: center; vertical-align: middle; padding: 3px; bo
 table#sequence tr:first-child { font-weight:bold }
 table#sequence td:first-child { text-align:left }
 </style>
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
+
 </head>
+
 <body>
   <div id="skip-content">
  <a href="#main-content">Skip to Main Content</a>
@@ -78,12 +76,12 @@ table#sequence td:first-child { text-align:left }
   
 <!-- START Content -->
 
-<h3>Spring 2017 Schedule of Classes</h3>
+<h3>Fall 2017 Schedule of Classes</h3>
 
-<p><strong>Semester Dates:</strong>  January 30, 2017 – May 16, 2017<br>
-  <strong>Advanced Registration Begins:</strong> October 31, 2016 (for students currently enrolled in fall 2016)<br>
-  <strong>Registration for Newly Admitted Graduate Students:</strong> December 1, 2016<br>
-  <strong>Last Day to Add/Drop a Class:</strong> February 10, 2017<br>
+<p><strong>Semester Dates:</strong>  August 30, 2017 – December 12, 2017<br>
+  <strong>Advanced Registration Begins:</strong> April 3, 2017 (for students currently enrolled in spring 2017)<br>
+  <strong>Registration for Newly Admitted Graduate Students:</strong> June 1, 2017<br>
+  <strong>Last Day to Add/Drop a Class:</strong> September 13, 2017<br>
 	<strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
 
   <table id="schedule">
@@ -97,45 +95,53 @@ table#sequence td:first-child { text-align:left }
   <TD width="10%">Room</TD>
 </TR>
   <tr>
-    <td>ENEE  661 (1132)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/1132" target="_blank">Systems  Architecture & Design</a></td>
+    <td>ENEE  660 (5244)<br>ENMG 660 (7906)</td>
+    <td>Systems Engineering Principles</td>
+    <td>Thursday</td>
+    <td>4:30 - 7:00 PM</td>
+    <td>Online</td>
+    <td>WEB</td>
+    </tr>
+  <tr>
+    <td>ENEE  663 (5874)</td>
+    <td>Systems Implementation, Integration and Tests</td>
+    <td>Monday</td>
+    <td>4:30 - 7:00 PM</td>
+    <td>In Person</td>
+    <td>TBD</td>
+    </tr>
+  <tr>
+    <td>ENEE  664 (7084)</td>
+    <td>Advanced Systems Architecture</td>
     <td>Tuesday</td>
     <td>4:30 - 7:00 PM</td>
     <td>In Person</td>
-    <td>ITE 237</td>
+    <td>TBD</td>
     </tr>
   <tr>
-    <td>ENEE  661 (6780)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6780" target="_blank">Systems  Architecture & Design</a></td>
+    <td>ENEE  669  (5881)   </td>
+    <td>Math and MATLAB</td>
     <td>Wednesday</td>
-    <td>4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE 231</td>
-    </tr>
+    <td>7:10 - 9:40 PM</td>
+    <td>Hybrid</td>
+    <td>TBD</td>
+  </tr>
   <tr>
-    <td>ENEE  662   (6266)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6266" target="_blank">System  Modeling, Simulation & Analysis</a></td>
-    <td>Thursday</td>
-    <td>4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE 229</td>
-    </tr>
+    <td>ENEE  670 (2806)</td>
+    <td>Systems  Engineering Project</td>
+    <td>Wednesday</td>
+    <td>7:10-9:40 PM</td>
+    <td>Hybrid</td>
+    <td>TBD</td>
+  </tr>
   <tr>
-    <td>ENEE  667   (6333)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6333" target="_blank">Advanced  System Engineering Processes</a></td>
-    <td>Monday </td>
-    <td>4:30 - 7:00 PM</td>
-    <td>In Person</td>
-    <td>ITE 239</td>
-    </tr>
-  <tr>
-    <td>ENEE  670   (7910)   </td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7910" target="_blank">Systems  Engineering Project</a></td>
+    <td>ENEE  672 (6551)</td>
+    <td>Decision Analysis </td>
     <td>Wednesday</td>
     <td>4:30-7:00 PM</td>
-    <td>Hybrid</td>
-    <td>ITE 227</td>
-    </tr>
+    <td>In Person </td>
+    <td>TBD</td>
+  </tr>
   </table>
   
 <p>*Course held at UMBC BW Tech South (<strong><a href="directions.php">Directions</a></strong>)</p>
@@ -233,7 +239,7 @@ table#sequence td:first-child { text-align:left }
 <br>
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END CONTENT -->
 
 
@@ -253,26 +259,18 @@ table#sequence td:first-child { text-align:left }
 <!-- container --> 
 
 
-<script>
-	var programname = "se";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -282,5 +280,9 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

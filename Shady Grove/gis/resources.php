@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,7 +22,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
   <div id="skip-content">
@@ -278,7 +273,7 @@ $lang = 'en';
 
 
         <div class="accordionbody">
-          <p>This Masters in Professional Studies in Geographic Information Systems offered by UMBC is unique in a number of ways.</p>
+          <p>This Master's of Professional Studies in Geographic Information Systems offered by UMBC is unique in a number of ways.</p>
           <ul>
             <li>Explicitly developed courses</li>
             <li>Designed to meet the current and future needs of the geospatial industry</li>
@@ -295,11 +290,11 @@ $lang = 'en';
           <p>This program is being built from the ground up to meet the needs that industry has identified. It is not hampered by legacy curriculum and can specifically adopt the latest guidelines in this respect. It focuses on the direction the industry is going with less reliance on individual GIS analysts solving problems and more on the development of systems where most of the functions and capabilities are developed on the systems side.</p>
           
           
-<h5>Different from other Masters in GIS or Geography</h5>
+<h5>Different from other Master's of GIS or Geography</h5>
 
           <p>Many recent programs focused on GIS utilize their existing geography courses and instructors to tailor (actually repackage) their courses as something appropriate for GIS professionals. This results in disconnected courses without a clear relationship to GIS as a technology or even specific elements of GIS in an enterprise context. These programs are still valuable but perhaps more accurately characterized as a technical geography masters. <br>
           </p>
-          <p>The UMBC MPS in GIS reflects a paradigm shift in GIS. Until relatively recently, GIS has consistently been considered a valuable tool for analysis, especially of spatial phenomena. Analysts &ldquo;build&rdquo; a GIS to address and analyze a specific problem or perform an ongoing task. Such programs are not focused on the development of an Information System for leveraging the value of geographic information on an ongoing basis. Often as an integral part of an organizations business practices.<br>
+          <p>The UMBC MPS of GIS reflects a paradigm shift in GIS. Until relatively recently, GIS has consistently been considered a valuable tool for analysis, especially of spatial phenomena. Analysts &ldquo;build&rdquo; a GIS to address and analyze a specific problem or perform an ongoing task. Such programs are not focused on the development of an Information System for leveraging the value of geographic information on an ongoing basis. Often as an integral part of an organizations business practices.<br>
           </p>
           <p>If you are interested in developing advanced technology skills with regards to GIS, this is the program from you. If you are interested in GIS from the project/program manager perspective and being involved in the development of GIS systems, this is the program for you. <br>
           </p>
@@ -600,7 +595,7 @@ $lang = 'en';
                
         <br>
         
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
     </div>
@@ -612,26 +607,18 @@ $lang = 'en';
   <!--END footer -->
    <!-- container -->
 
-<script>
-	var programname = "gis";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script>
@@ -660,5 +647,8 @@ $(document).ready(function () {
 });
 </script>
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>

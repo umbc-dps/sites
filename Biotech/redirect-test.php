@@ -85,6 +85,7 @@ var aParts = a.split(".");
 var nVisits = aParts[5];
 
 </script> 
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"><link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head> 
 
 <body> 
@@ -96,7 +97,10 @@ var nVisits = aParts[5];
 
 </script>
  
-</body> 
+<?php include("includes/sf-contact-inputs.php"); ?>
+
+</body>
+ 
 
 
 </html> 

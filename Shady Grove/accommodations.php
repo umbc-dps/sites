@@ -95,7 +95,7 @@ html::after {
     <!-- Start Content -->   
       <div class="content">
       <div class="accordionheader">
-            <h4><a id="accommodations" href="#accommodations"></a>Accommodations<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="accommodations" href="#accommodations"></a>Register for Accommodations<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody">
@@ -154,8 +154,20 @@ html::after {
   <p>Shady Grove students should contact the UMBC-Shady Grove on-site representative with any questions or concerns: <strong>Dr. Ashley Waters  (301-738-6175 or <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a>).</strong></p>
   </div>
 
+
+	<div class="accordionheader">
+            <h4><a id="accommodations" href="#accommodations"></a>Requesting Accommodations Each Semester<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody">
+        <p><br>
+          A Semester Accommodation Request must be completed for each semester a student is enrolled and seeking accommodations. The Semester Accommodation Request can be completed and submitted to SDS through Accommodate below.<br>
+          <p align="center"><a href="https://umbc-accommodate.symplicity.com/" target="_blank"> <img src="images/accommodations.png" width="208" height="256" alt=""/> </a></p>
+          </div>
+
+
       <div class="accordionheader">
-            <h4><a id="proctoring" href="#proctoring"></a>Test Proctoring<i class="fa fa-angle-down"></i></h4>
+            <h4><a id="proctoring" href="#proctoring"></a>Requesting Extended Time for Tests<i class="fa fa-angle-down"></i></h4>
           </div>
 
           <div class="accordionbody"> 

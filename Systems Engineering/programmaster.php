@@ -1,10 +1,4 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <html>
@@ -36,7 +30,11 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
+
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -99,7 +97,7 @@ $lang = 'en';
    <li><a href="courses.php#ENEE670">ENEE  670:  Systems Engineering Project</a></li>
    <li><a href="courses.php#ENEE672">ENEE 672:&nbsp; Decision  and Risk Analysis</a><u> </u></li>
  </ul>
- <p>The core courses are 3 credit hours each. Students who choose to take ENEE 672 as part of our  certificate program in Systems Engineering and are applying for a Masters in  Systems Engineering are required to take ENEE 662 to meet the requirements for  the Master's degree. </p>
+ <p>The core courses are 3 credit hours each. Students who choose to take ENEE 672 as part of our  certificate program in Systems Engineering and are applying for a Master's of Systems Engineering are required to take ENEE 662 to meet the requirements for  the Master's degree. </p>
  <p>(*)  ENEE 662 has a perquisite of either passing ENEE 669 or testing out of the  class. See the instructor for details. </p>
  <ul>
    <li><a href="courses.php#ENEE669">ENEE 669: Mathematics  and MATLAB Fundamentals for Engineers</a></li>
@@ -132,7 +130,7 @@ $lang = 'en';
  
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END CONTENT -->
 
 
@@ -152,26 +150,18 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "se";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -181,5 +171,9 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

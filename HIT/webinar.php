@@ -1,12 +1,4 @@
 
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en_US"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en_US"> <![endif]-->
@@ -76,7 +68,10 @@ $lang = 'en';
 
 <link type="text/css" rel="stylesheet" href="https://global.gotowebinar.com/themes/css/148f200e7a9ebeff7a9507d7a28ab2af">
                 <!-- end legacy stuff -->
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body id="registration">
 
@@ -1491,6 +1486,9 @@ twttr.conversion.trackPid('l4pxk');
 
 <script  src="https://attendee.gotowebinar.com/scripts/page/addThisEvent.js?Apr 29, 2015 1:14:33 PM" ></script>
 
+
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 

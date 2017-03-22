@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,10 +30,7 @@ $lang = 'en';
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
-
-<style>
-#four{display:none}
-</style>
+<link href='http://umbc.edu/dps/css/sf-contact-us.css' rel='stylesheet'>
 </head>
 
 <body>
@@ -88,29 +77,22 @@ $lang = 'en';
         <p>Thank you for your interest in the UMBC Instructional Systems Development programs. If you'd like additional information or have a question, please complete the following form and click submit.</p>
 
 
-	<form action="process.php" method="post" id="dpsform" onsubmit="submitted=true; ga('send', 'event', 'inquiry', 'submit', 'contact_us');">
-
-		<div id="form">
-         
-		</div>
+<div id="form">    
+        
+<?php
+//Set stream options
+$context = stream_context_create(array('http' => array('ignore_errors' => true)));
+if(!isset($_GET['tfa_next'])) {
+$qs = ' ';
+if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
+echo file_get_contents('https://umbc.secure.force.com/form?formID=217734'.$qs);
+} else {
+echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
+}
+?>
         
         <table id="contact2">
-          <tr>
-           <td colspan="2" align="center">
-           <div class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
-           <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=<?php echo $lang; ?>">
-           </script>
-           <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha" required>
-           </td>
-          </tr>
-
-          <tr>
-            <td align="center" colspan="2">
-            	<input type="submit" name="submit" value="Submit" style="width:100px; height:auto">
-            </td>
-          </tr>
-
-
+          
           <tr>
             <td colspan="2" style="border-bottom: 2px #E9AB13 solid;"><strong>For more information on the program, please contact:</strong>
             </td>
@@ -131,9 +113,9 @@ $lang = 'en';
             </td>
           </tr>
         </table>
-      </form>
+</div>
       
-    <div id="contents" style="display:none"></div>
+    
     
     </div>
     <!-- SIDEBAR -->
@@ -148,26 +130,18 @@ $lang = 'en';
   </div>
   <!-- container -->
 
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -175,5 +149,24 @@ $(document).ready(function () {
 });
 </script>
 
+<?php include("includes/sf-contact-inputs.php"); ?>
+
+
+<script>
+$(window).load(function() {
+	$("#tfa_11").attr("value", vars['first']);
+	$("#tfa_12").attr("value", vars['last']);
+	$("#tfa_20").attr("value", vars['email']);
+});
+</script>
+
+
+<script>
+$('#tfa_0').submit(function() {
+  ga('send', 'event', 'inquiry', 'submit', 'contact_us');
+});
+</script>
+
 </body>
+
 </html>

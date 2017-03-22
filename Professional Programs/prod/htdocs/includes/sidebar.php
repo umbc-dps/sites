@@ -83,34 +83,36 @@ Watch our past virtual information sessions:</p>
      </aside>
       <br>
 
-      <aside class="five columns add-bottom contact">
-      <h3 class="home-heading">Contact Us</h3>
-	<p>
-     	<form action="process.php" method="post" id="dpsform">
- 		<div id="sidebar-contact"></div>
+<aside class="five columns add-bottom contact" id="four">   
+<h3 class="home-heading">Contact Us</h3>
+<p>
+<div id="form">    
         
-        <table id="contact2">
-          <tr>
-           <td colspan="2" align="center">
-           <div class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
-           <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=<?php echo $lang; ?>">
-           </script>
-           <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha" required>
-           </td>
-          </tr>
+<?php
+//Set stream options
+$context = stream_context_create(array('http' => array('ignore_errors' => true)));
+if(!isset($_GET['tfa_next'])) {
+$qs = ' ';
+if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
+echo file_get_contents('https://umbc.secure.force.com/form?formID=217740'.$qs);
+} else {
+echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
+}
+?>
+</div>
+</p>
 
-          <tr>
-            <td colspan="2">
-            	<input type="submit" name="submit" value="Submit" style="height:auto">
-            </td>
-          </tr>
-        </table>
-      </form>
+<script>
+$('#tfa_0').submit(function() {
+  ga('send', 'event', 'inquiry', 'submit', 'contact_us');
+});
+</script>
+ 
+ 
  
   <div id="contents" style="display:none"></div>
-    </p>   
-     
-     </aside>
+
+</aside>
      
        <aside class="five columns add-bottom alumni-video">
         <h3 class="home-heading">Featured Video</h3>

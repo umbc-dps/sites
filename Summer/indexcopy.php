@@ -96,7 +96,7 @@
 	</a>
 	<div class="carousel-caption wordwrap">
 		<h3>Featured Faculty: Erin L. Berry</h3>
-		<small>Meet the instructor of MCS 222, Professor Erin Berry, and learn how she gets students excited to take their learning outside of the classroom.</small>
+		<small>Discover how Prof. Berry inspires students and propels their learning experience beyond the classroom.</small>
 		<p><a href="http://gritgoing.umbc.edu/?p=1343" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
@@ -112,7 +112,7 @@
 	</a>
 	<div class="carousel-caption wordwrap">
 		<h3>Featured Course: Gender and Inequality in America <br>(GWST 310)</h3>
-		<small>Examine the ways in which gender, race, and class shape individual experiences in American society. (Arts & Humanities GEP) </small>
+		<small>Examine how gender, race, and class shape individual experiences in American society. (Arts & Humanities GEP) </small>
 		<p><a href="http://gritgoing.umbc.edu/?p=1272" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
@@ -128,7 +128,7 @@
 	</a>
 	<div class="carousel-caption wordwrap">
 		<h3>Special Programs</h3>
-		<small>Learn by experience this summer by enrolling in courses that provide hands-on learning opportunities or by participating in a study abroad program.</small>
+		<small>Go beyond the traditional classroom and broaden your perspective – make your summer count!</small>
 		<p><a href="http://www.umbc.edu/summer/specialprograms/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
@@ -144,7 +144,7 @@
 	</a>
 	<div class="carousel-caption wordwrap">
 		<h3>Featured Course: Coen Brothers: Genre &amp; Irony <br>(JDST 390)</h3>
-		<small>The Dude abides by this course that analyzes films by brothers Ethan and Joel Coen.</small>
+		<small>The Dude abides! Analyze the iconic Coen Brothers’ films, and their take on irony and post-ironic culture.</small>
 		<p><a href="http://gritgoing.umbc.edu/?p=1316" target="_blank" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">

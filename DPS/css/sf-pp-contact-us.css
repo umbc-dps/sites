@@ -1,0 +1,40 @@
+/*Hide Extra Fields */
+#tfa_24-D, #tfa_25-D, #tfa_26-D, #tfa_375-D, #tfa_807-D, #tfa_808-D, #tfa_809-D, #tfa_816-D, #tfa_817-D, #tfa_356-D, #tfa_84-D, #tfa_417, #tfa_766-D {display:none}
+
+
+/* Hide Form Indicators */
+#tfa_0-T, .supportInfo, div.lengthIndicator{
+	display:none!important;
+}
+
+/* Add Transparency & Remove Padding */
+form#tfa_0, form#tfa_0 .section, form#tfa_0 label{background-color:transparent!important;}
+form#tfa_0 .section, form#tfa_0 div, form#tfa_0 .actions{
+	margin:0px!important;
+	padding:0px!important;
+	width:100%!important;
+}
+
+/* Correct Height & Width of Contact Form Fields*/
+form#tfa_0 input, form#tfa_0 select, form#tfa_0{height:20px}
+
+
+/* Fix Submit Button*/
+form#tfa_0 input.primaryAction{
+	font-weight:bold;
+	margin-top:20px!important;
+	text-align:center!important;
+	height:30px;
+	margin-top:10px!important;
+	margin-left:0px!important;
+	width:100%!important;
+	max-width:270px!important;
+}
+.wFormContainer{min-height:400px!important; overflow:hidden}
+
+@media screen and (max-width:640px) {
+
+form#tfa_0 #tfa_381-D .inputWrapper{width:100%!important}
+#tfa_381-D textarea{max-width:300px!important}
+
+}

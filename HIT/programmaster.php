@@ -1,16 +1,8 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
 
-<title>Master's in Professional Studies | Health Information Technology at UMBC</title>
+<title>Master's of Professional Studies | Health Information Technology at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="UMBC's in-person Health Information Technology program is designed to prepare professionals  to fill a range of opportunities within the health care profession. " />
 
@@ -19,7 +11,7 @@ $lang = 'en';
 <meta name="twitter:site" content="@UMBC_DPS">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Master's in Professional Studies | Health Information Technology at UMBC" />
+<meta property="og:title" content="Master's of Professional Studies | Health Information Technology at UMBC" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/hit/programmaster" />
 <meta property="og:image" content="http://www.umbc.edu/hit/images/bk.jpg" />
@@ -38,7 +30,10 @@ $lang = 'en';
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 
 <body>
@@ -77,9 +72,9 @@ $lang = 'en';
   
 <!-- START Content --> 
 
- <h3>Master's in Professional Studies: Health Information Technology</h3>
- <p>The ten-course master's degree combines courses in Health Information Technology strategy, policy, and management with more technical, hands-on Health Information Technology courses that allow students to develop a formal educational program that best meets their individual career development needs. </p>
- <h4>Program Requirements:</h4>
+ <h3>Master's of Professional Studies: Health Information Technology</h3>
+ <p>The ten-course Health IT degree combines courses in Health Information Technology strategy, policy, and management with more technical, hands-on Health Information Technology courses that allow students to develop a formal educational program that best meets their individual career development needs. </p>
+ <h4>Healthcare IT Degree Requirements:</h4>
  <p> Students must complete 10 courses (30 credits) as follows: 6 required (18 credits), 4 electives (12 credits). </p>
  <ul>
    <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your MPS program.</li>
@@ -111,7 +106,7 @@ $lang = 'en';
 </ul>
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
 
 
@@ -131,26 +126,16 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "hit";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -159,6 +144,9 @@ $(document).ready(function () {
 </script>
 
 
+
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

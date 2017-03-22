@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!doctype html>
 <html>
 <head>
@@ -81,8 +73,12 @@ select#program option.not-pro, select#program option.usg{display:none}
 .five iframe{transform:scale(0.85);-webkit-transform:scale(0.85);transform-origin:0 0;-webkit-transform-origin:0 0;}
 .five label{font-weight:bold}
 .five td input[type=submit]{margin-left:15%}
+
 </style>
+
+<link href='http://umbc.edu/dps/css/sf-pp-contact-us.css' rel='stylesheet'>
 </head>
+
 <body>
 <div id="skip-content"><a href="#main-content">Skip to Main Content</a></div>
 <div id="container-header-background">
@@ -195,17 +191,14 @@ BEGIN MAIN
   </footer>
 </div></div>
 <!-- container --> 
-<script>
-	var programname = "pro";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<!-- Because of subdirectory, Professional Programs cannot reference DPS -->
-<script>$( "#form" ).load( "includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "includes/contact-form.php .mini-form" );</script>
-<script>$( "#contents" ).load( "includes/program-info.php" );</script>
+
+
+<script>$( "#contents" ).load( "includes/sf-program-info.php" );</script>
 
 
 <?php include("includes/tracking.php"); ?> 
@@ -214,8 +207,7 @@ BEGIN MAIN
 <script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script>
 
-<script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <script> 
@@ -234,6 +226,6 @@ $(document).ready(function () {
 </script>
 
 
-
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
 </html>

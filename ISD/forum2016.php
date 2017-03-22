@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,7 +44,10 @@ $lang = 'en';
 	height: 100%;
 }
 </style>
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
   <div id="skip-content">
@@ -122,7 +117,7 @@ $lang = 'en';
 <p>After this research-based presentation, Dr. Thalheimer will share work from his recently published book, Performance-Focused Smile Sheets: A Radical Rethinking of a Dangerous Art Form—the book Dr. Karl Kapp called, “Quite simply, the BEST book on smile sheet creation and utilization, Period!” If you thought smile sheets would always be inadequate, join us in seeing how they can be radically improved to help you and your organization get much more meaningful feedback.</p>
 
 
-<div id="contents" style="display:none"></div>
+
 
 <!-- END Content -->
 
@@ -146,26 +141,18 @@ $lang = 'en';
   </div>
   <!-- container -->
   
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -189,5 +176,9 @@ $("#entry_2054798228").attr("value", vars['email']);
 $("#entry_2109974497").attr("value", vars['first']);
 $("#entry_722192688").attr("value", vars['last']);
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

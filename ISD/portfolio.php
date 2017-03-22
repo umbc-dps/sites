@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,7 +35,10 @@ $lang = 'en';
 <style>
 ol.numbered li{list-style-type:decimal!important}
 </style>
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -85,6 +80,8 @@ ol.numbered li{list-style-type:decimal!important}
  <p> The purpose of this requirement is to provide students an opportunity to demonstrate what they have learned in their coursework and the program. It also provides students, employers, clients, colleagues, etc. with tangible evidence of our graduates&rsquo; knowledge, skill, abilities and competencies. Portfolios can be a wonderful career tool that may assist graduates in getting jobs, promotions, new clients, and other professional opportunities.</p>
  <p> Students have the opportunity in nearly every class to create basic artifacts. With some polishing and improvements, these artifacts may be used to satisfy the portfolio requirement.</p>
  <p>In order to graduate each ISD Master’s student must provide a professional portfolio of course-related work samples that reflects their accomplishments throughout their tenure in the program. Portfolios must be approved by the portfolio committee for the student to graduate.</p>
+ 
+ <h4>What is a Career Portfolio?</h4>
  <p>The portfolio will contain a <strong><u>minimum of 8</u></strong> and <strong><u>maximum of 10</u></strong> work samples.</p>
 
  <ul>
@@ -270,7 +267,7 @@ ol.numbered li{list-style-type:decimal!important}
   <h4>Note to Students</h4>
   These  requirements are subject to change.  Since  this is a new requirement and process for students, the ISD program may need to  flexible with the administration of the requirements.</p>
 
-<div id="contents" style="display:none"></div>
+
 
 <!-- END Content -->
 
@@ -294,26 +291,18 @@ ol.numbered li{list-style-type:decimal!important}
 <!-- container --> 
 
 
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -324,5 +313,9 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

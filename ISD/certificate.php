@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +31,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
 
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -74,9 +69,9 @@ $lang = 'en';
 
   <div class="eleven columns">
   
-<!-- START Content --> 
- <h3>Admissions: Graduate Certificate</h3>
- <h4>Application Dates</h4>
+<!-- START Content -->
+<h3>Admissions: Instructional Systems Development &nbsp;Certificate</h3>
+<h4>Application Dates</h4>
  <p>The application deadline for fall is <strong>July 1</strong>.  </p>
  <p>The application deadline for spring is<strong> December 1</strong>.</p>
  <p>The application deadline for summer is <strong>April 1.</strong></p>
@@ -90,9 +85,7 @@ $lang = 'en';
 
 
     <h4>Current UMBC Enrolled Students</h4>
-      <p>If you are enrolled in a different UMBC MA or PhD. program you may add any Certificate Program onto your current program. Please consult the Advisor in your current program to learn how these courses will fit in with your program. You may contact Renee Eisenhuth to learn more at <a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a>.</p>
-
-
+    <p>If you are enrolled in a different UMBC MA or PhD. program you may add an Instructional Systems Design Certificate Program onto your current program. Please consult the Advisor in your current program to learn how these courses will fit in with your program. You may contact Renee Eisenhuth to learn more atÂ <a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a>.</p>
     <h4>Certificate Courses and Advance Standing in the ISD Master’s Degree Program</h4>
       <p>Certificate courses can be applied to the ISD Training Systems Master’s degree. Many students who graduate from the Master’s program often start by taking courses in the certificate program. After a student completes one of the certificate programs, they have already completed 4 of the 12 courses for the Master’s degree.</p>
 
@@ -107,15 +100,15 @@ $lang = 'en';
    <li>Complete a paper application</li>
    <ul>                      
     <li><a href="http://gradschool.umbc.edu/files/2015/10/certificate_application_form.pdf" target="_blank">Certificate application</a> (PDF) </li></ul></ul>
- <p>Your certificate application should include the following   documents:<em> (Incomplete applications will not be reviewed.)</em></p>
+ <p>Your Instructional Systems Design certificate application should include the following   documents:<em> (Incomplete applications will not be reviewed.)</em></p>
  <ul>
    
    <li><a href="http://gradschool.umbc.edu/files/2015/10/certificate_application_form.pdf#page=1 ">Completed application for admission and residency forms</a> (or online application and residency forms)</li>
-   <li>Unofficial or official transcripts from undergraduate institution (copies issued to student OK)</li>
+   <li>Unofficial or official transcripts from undergraduate and graduate (if applicable) institutions (copies issued to student OK)</li>
    <LI>Non-refundable application fee ($50 online, $70 paper) </LI>
  </ul>
  <h4>Mailing Instructions </h4>
- <p><strong>All application documents should be mailed to:</strong> <br>
+ <p><strong>All Instructional System Design certification documents can be mailed to:</strong> <br>
    Renee Eisenhuth, Program Coordinator<br>
    ISD - Training Systems Graduate Program<br>
    1450 S. Rolling Road<br>
@@ -125,7 +118,7 @@ University of Maryland, Baltimore County<br>
 Graduate School, ISD  Graduate Program<br>
 1000 Hilltop Circle<br>
 Baltimore, MD 21250</p>
-<div id="contents" style="display:none"></div>
+
 
 <!-- END Content -->
 
@@ -148,26 +141,18 @@ Baltimore, MD 21250</p>
 <!-- container --> 
 
 
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -179,5 +164,9 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

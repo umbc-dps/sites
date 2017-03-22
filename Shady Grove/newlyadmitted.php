@@ -117,7 +117,7 @@ html::after {
           </div>
 
           <div class="accordionbody">
-<p>Submit your $225 enrollment intent deposit through your <a href="http://my.umbc.edu/" target="_blank">myUMBC</a> account. This deposit reserves your space in the incoming class and is applied toward both tuition and orientation.</p>
+<p>Submit your enrollment intent deposit through your <a href="http://my.umbc.edu" target="_blank">myUMBC account</a>. This deposit reserves your space in the incoming class and is applied toward both tuition and orientation.</p>
 </div>
 
 <div class="accordionheader">

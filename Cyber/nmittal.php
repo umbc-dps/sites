@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,9 +26,7 @@ $lang = 'en';
 
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-
-
+  <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"><link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 <body>
   <div id="skip-content">
@@ -79,7 +69,7 @@ $lang = 'en';
 
        <p>&ldquo;I chose to attend the Cybersecurity program  at UMBC because of the diversity in classes the program offered,&rdquo; Mittal said.  &ldquo;This program allows you to gain leadership skills, as well as the technical  skills you need to succeed in the cybersecurity world.&rdquo; </p>
        
-       <p>For Mittal, the  most valuable components of her experience earning her <a href="http://www.umbc.edu/cyber/">Master's in Professional Studies (MPS) in Cybersecurity</a> at UMBC were the professors and their  ability to meet student interests and address emerging topics in the field.</p>
+       <p>For Mittal, the  most valuable components of her experience earning her <a href="http://www.umbc.edu/cyber/">Master's of Professional Studies (MPS) in Cybersecurity</a> at UMBC were the professors and their  ability to meet student interests and address emerging topics in the field.</p>
        
        <p>&ldquo;They  offered a wide variety of experience both in the public and private sector,  which helped tie cybersecurity back to how it applies to work and what you do on  a daily basis.&rdquo;</p>
 
@@ -96,7 +86,7 @@ $lang = 'en';
  <div align="center">  
    <iframe width="420" height="315" src="//www.youtube.com/embed/YZwinKyIX-s" frameborder="0" allowfullscreen></iframe>
  </div>    
-<div id="contents" style="display:none"> </div>
+
 
 </div>
 <!-- END Content -->
@@ -117,27 +107,16 @@ $lang = 'en';
 </div>
 <!-- container --> 
 
-
-<script>
-	var programname = "cyber";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -146,6 +125,8 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

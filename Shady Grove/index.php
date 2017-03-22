@@ -113,7 +113,7 @@
 </div>
 <div class="content-details right">
 <a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd">&raquo;</a>
-<div class="title">Visit with our Program Directors!</div>
+<div class="title">Visit with our Program Directors!</div> <br>
 <div class="tagline">Meet our Program Directors and current students to learn about our undergraduate programs in History, Political Science, Psychology & Social Work and how a UMBC degree may best fit YOU! </div>
 <a class="web-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">Apply Today!</a>
 </div>
@@ -123,14 +123,13 @@
 
 
 <div class="panel panel-2">
-<a href="https://www.shadygrove.umd.edu/admissions-aid/visit-usg/graduate-open-house" target="_blank">
+<a href="http://www.umbc.edu/shadygrove/visit/" target="_blank">
 <div class="image mobile-left"><img src="images_homepage/io.jpg" alt="Three"></div>
 <div class="content-details right">
-<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/admissions-aid/visit-usg/graduate-open-house" target="_blank">&raquo;</a>
-<div class="title">Attend the USG Graduate Open House!</div>
-<div class="tagline">Stop by USG's Graduate Student Open House on Thursday, March 2 at 6 PM to hear details about all of UMBC's programs at Shady Grove!
-</div>
-<a class="web-seemore" href="https://www.shadygrove.umd.edu/admissions-aid/visit-usg/graduate-open-house" target="_blank">Join Us! &raquo;</a>
+<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/visit/" target="_blank">&raquo;</a>
+<div class="title">Join us for an Information Session!</div> <br>
+<div class="tagline">Come meet our Cybersecurity and GIS Program Directors on Thursday, April 6 at 6:00pm to learn how you can apply for Fall 2017!</div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/visit/" target="_blank">RSVP Today! &raquo;</a>
 </div>
 </a>
 </div>
@@ -139,23 +138,29 @@
 
 
 <div class="panel panel-3">
-<a href="http://umbc.edu/go/schedule/" target="_blank">
-<div class="image mobile-center">
-<img src="images_homepage/7.jpg" alt="Two">
+<a href="http://www.umbc.edu/shadygrove/advising" target="_blank">
+<div class="image mobile-left">
+<img src="images_homepage/10.jpg" alt="Three">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://umbc.edu/go/schedule/" target="_blank">&raquo;</a>
-<div class="title">Summer 2017 Registration</div>
-<div class="tagline">Summer 2017 Registration Begins: 3/6, take advantage of the opportunity to continue progression towards your Master's or Certificate program.</div>
-<a class="web-seemore" href="http://umbc.edu/go/schedule/" target="_blank">Register Now</a>
+<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/advising" target="_blank">&raquo;</a>
+<div class="title">Prepare for your advising appointment</div> <br>
+<div class="tagline">Review your degree audit and make note of any questions/concerns you have, then schedule an appointment with your advisor.</div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/advising" target="_blank">Contact your advisor</a>
 </div>
 </a>
 </div>
 
+
+
+
+
+
+
 <!-- Hide Carousels --
-<div class="panel panel-4">
+<div class="panel panel-5">
 <a href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/katie_morris.jpg" alt="4"></div>
+<div class="image mobile-left"><img src="images_homepage/katie_morris.jpg" alt="5"></div>
 <div class="content-details left">
 <a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">&raquo;</a>
 <div class="title">Visit with our Program Directors!</div>
@@ -186,7 +191,7 @@
 
 <li class="item-2"><img src="images_homepage/io-small.jpg" alt="3"></li>
 
-<li class="item-3"><img src="images_homepage/7_tmb.jpg" alt="2"></li>
+<li class="item-3"><img src="images_homepage/10_tmb.jpg" alt="2"></li>
 <!-- Hide Preview Images --
 <li class="item-4"><img src="images_homepage/katie_morris_tmb.jpg" alt="4"></li>
 

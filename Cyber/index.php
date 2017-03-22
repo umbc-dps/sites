@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,6 +29,7 @@ $lang = 'en';
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
   
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 
 <body>
@@ -98,15 +91,15 @@ $lang = 'en';
 
 <li id="slide2">
 
-<a href="http://gritinaction.umbc.edu/senator-cardin/" target="_blank"><img src="images/CardinCyb.jpg" alt="Senator Ben Cardin Visits UMBC."/></a>
+<a href="http://umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_april17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" target="_blank"><img src="images/cybertalks2.jpg" alt="Cyber Talk"/></a>
 
 <div class="carousel-caption wordwrap">
-<h3>Senator Ben Cardin Visits UMBC.</h3>
-<small>On November 28, Senator Ben Cardin visited UMBC and discussed current issues in global cybersecurity with students.</small>
+<h3>Cyber Talk</h3>
+<small>Join UMBC's Cybersecurity Program at Shady Grove for an engaging and informative discussion on digital forensic techniques with Detective Sergeant John Conroy. You don't want to miss this!</small>
 
-<p><a href="http://gritinaction.umbc.edu/senator-cardin/" role="button" class="web-seemore" target="_blank">Read about his visit!</a></p></div>
+<p><a href="http://umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_april17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" role="button" class="web-seemore" target="_blank">RSVP Here</a></p></div>
 
-<p id="captionthree"><a href="http://gritinaction.umbc.edu/senator-cardin/" target="_blank">Senator Ben Cardin Visits UMBC</a></p>
+<p id="captionthree"><a href="http://umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_april17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" target="_blank">Cyber Talk</a></p>
 
 </li>
 
@@ -162,10 +155,8 @@ $lang = 'en';
 <!-- START Content -->
 
 <h3>UMBC Cybersecurity Graduate Programs</h3>
-
-      <p>UMBC's graduate cybersecurity programs prepare computer science, information systems, and other experienced professionals to fill management, analytical, investigative, and/or technical leadership roles in the cybersecurity and cyber operations fields. UMBC's Cybersecurity Master’s and Graduate Certificate programs are offered in-person in Catonsville (UMBC campus) and in Rockville (UMBC at the Universities at Shady Grove).</p>
-
-      <h3>Why Cybersecurity?</h3>
+<p>UMBC's cybersecurity Master's programs prepare computer science, information systems, and other experienced professionals to fill management, analytical, investigative, and/or technical leadership roles in the cybersecurity and cyber operations fields. UMBC's Cybersecurity Master's and Graduate Certificate programs are offered in-person in Catonsville (UMBC campus) and in Rockville (UMBC at the Universities at Shady Grove).</p>
+<h3>Why Cybersecurity?</h3>
 
       <p class="optional">Cybersecurity has emerged as a critical domain of global competition, with significant implications in economic, political and military realms. The Internet and its related networked technologies integrate into nearly every aspect of society, business, and government, presenting opportunities for adversaries to disrupt modern society. As a result, nations and organizations continuously develop new operational doctrines, advanced cyberwarfare capabilities, and criminal tactics that threaten our information resources. 
       </p>
@@ -183,7 +174,7 @@ $lang = 'en';
         <li>UMBC (and UMCP) provide research leadership at the National  Cybersecurity Center of Excellence's Federally Funded Research and Development Center  (FFRDC) in Rockville, MD.</li>
         <li>Students can take advantage of ongoing professional development,  networking, and career opportunities through UMBC's Career Services Center and  our academic departments.</li>
       </ul>    
-<div id="contents" style="display:none"> </div>
+
 
 </div>
 <!-- END Content -->
@@ -223,26 +214,18 @@ $lang = 'en';
 
 <!-- END container -->
 
-<script>
-	var programname = "cyber";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $( function() {
@@ -324,6 +307,8 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

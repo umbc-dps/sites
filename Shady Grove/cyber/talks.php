@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -84,7 +76,10 @@ aside .btn:hover{
 	background-color:#3C7B46!important;
 }
 </style>
+
+
 </head>
+
 
 
 <body>
@@ -139,7 +134,7 @@ Building III (Camille Kendall Academic Center) Room 4230<br>
  <p>John Conroy has been a Montgomery County Police Officer since 2002, where he currently holds the rank of Detective Sergeant. His current assignment is the supervisor of the Electronic and Technical Surveillance Unit. Sergeant Conroy has previously been assigned as a Patrol Supervisor in the 4th District and, prior to promotion to Sergeant, held Detective assignments in the Computer Crimes Unit, the Major Crimes Division/Robbery Section, and the Criminal Investigations Division/Silver Spring Investigative Section. Sergeant Conroy has conducted over 600 computer and cell phone forensic examinations and holds several certifications in digital forensics and cyber investigations from the Department of Defense Cyber Investigations Training Academy (DCITA) and the International Association of Computer Investigative Specialists (IACIS).</p>
 
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
 
@@ -158,26 +153,16 @@ Building III (Camille Kendall Academic Center) Room 4230<br>
 </div>
 <!-- container --> 
 
-<script>
-	var programname = "cyber-sg";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <?php include("includes/tracking.php"); ?>
@@ -224,6 +209,6 @@ ga(function(tracker) {
 </script>
 
 
-
 </body>
+
 </html>

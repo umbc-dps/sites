@@ -1,10 +1,4 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <html>
@@ -47,7 +41,10 @@ $lang = 'en';
 .accordionbody img { padding: 0px 10px 5px 0px; width: 200px }
 .accordionbody ul{ margin-left:25px; }
 </style>
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -100,7 +97,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionheader">
-  <h4><a name="3" id="3"></a> Can  all of the four Engineering Management certificate courses be applied to a  Masters in degree?<i class="fa fa-angle-down"></i></h4>
+  <h4><a name="3" id="3"></a> Can  all of the four Engineering Management certificate courses be applied to a Master's degree?<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -176,7 +173,7 @@ $lang = 'en';
 
     
 
-<div id="contents" style="display:none"></div>
+
 <!-- END CONTENT -->
 
 </div>
@@ -196,26 +193,18 @@ $lang = 'en';
 </div>
 <!-- container --> 
 
-<script>
-	var programname = "engm";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -241,6 +230,9 @@ $( "#accordion" ).accordion({
 });
 </script>  
 
+
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

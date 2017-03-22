@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,6 +28,7 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 <body>
   <div id="skip-content">
@@ -74,10 +67,7 @@ $lang = 'en';
 <!-- START Content --> 
 
  <h3>Post-Baccalaureate Certificates in Cybersecurity</h3>
- 
- <p>These four-course post-baccalaureate certificates can be completed in a year. Cybersecurity post-baccalaureate certificates are available to students with a variety of undergraduate or work backgrounds. Students may choose to take a certificate by itself, or they may take a certificate and then later complete the master's. If a student is accepted into the M.P.S.: Cybersecurity, all four certificate courses count toward that degree.</p>
-
-
+ <p>These four-course post-baccalaureate certificates in Cybersecurity can be completed in a year. Cybersecurity certificates are available to students with a variety of undergraduate or work backgrounds. Students may choose to take a certificate by itself, or they may take a certificate and then later complete the master's. If a student is accepted into the M.P.S.: Cybersecurity, all four certificate courses count toward that degree.</p>
  <h4>Post-Baccalaureate Certificate in Professional Studies: Cybersecurity Strategy &amp; Policy (12 credits)</h4>
  
    <p>The Post-Baccalaureate Certificate in Professional Studies: Cybersecurity Strategy &amp; Policy provides students the essential domain knowledge required to serve in decision-making roles throughout the cybersecurity industry.  Students will learn how to analyze cybersecurity risks, develop appropriate protection &amp; response options, and assess operational requirements for government, military, critical infrastructure, and commercial missions.  Upon completing the certificate, students will possess advanced knowledge of the strategy, policy, and analytic aspects of cybersecurity, enabling them to fill critical roles in operational cybersecurity missions supporting both industrial and governmental entities. </p>
@@ -126,7 +116,7 @@ This academic program is a participant in the U.S. Department of Education Gainf
      <li><a href="courses.php#CYBR658" target="_blank">CYBR 658: Risk Analysis and Compliance</a></li>
      <li>One Additional Cybersecurity Elective </li>
    </ul>    
-<div id="contents" style="display:none"> </div>
+
 
 </div>
 <!-- END Content -->
@@ -148,26 +138,18 @@ This academic program is a participant in the U.S. Department of Education Gainf
 <!-- container --> 
 
 
-<script>
-	var programname = "cyber";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script> 
 
 
@@ -176,6 +158,8 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

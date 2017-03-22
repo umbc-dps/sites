@@ -1,0 +1,5 @@
+database_user: web.techm
+database_passwd: lDfB1OSPtkTrgluC
+database_name: web_techm_prod
+database_name: web_techm_dev
+database_host: web-db.umbc.edu

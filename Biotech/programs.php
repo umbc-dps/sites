@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -34,6 +26,7 @@ $lang = 'en';
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"><link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 <body>
   <div id="skip-content">
@@ -69,34 +62,30 @@ $lang = 'en';
 
   <div class="eleven columns">
   
-<!-- START Content --> 
- <h3>Programs</h3>
-
- <p>UMBC offers a variety of options for biotechnology professionals and individuals interested in career advancement. All courses are taught by experts in the fields of biotechnology and business with oversight from an industry-led advisory board.</p>
-
-<h4>Master's Programs</h4>
+<!-- START Content -->
+<h3>Biotechnology Graduate Programs</h3>
+<p>UMBC offers a variety of options for biotechnology professionals and individuals interested in career advancement. All courses are taught by experts in the fields of biotechnology and business with oversight from an industry-led advisory board.</p>
+ <h4>Biotechnology Master's Programs</h4>
  <UL>
-   <li><a href="programmaster.php">Master's  in Professional Studies (M.P.S.): Biotechnology</a>* (30 credits)<br>
+   <li><a href="programmaster.php">Master's of Professional Studies (M.P.S.): Biotechnology</a>* (30 credits)<br>
 <em>* <a href="programmaster2">New core & track options</a> starting Fall 2016</em></li>
  <ul>
  	<li>Regulatory Track</li>
     <li>Bioprocessing Track</li>
  </ul>
    <li><a href="http://biology.umbc.edu/grad/graduate-programs/apmb/" target="_blank">Master's of Science in Applied Molecular Biology</a> (31 credits)</li>
-   <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your MS program.</li>
+   <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your MS in biotechnology program.</li>
  </UL>
-
- 
- <h4>Certificate Programs</h4>
+ <h4>Biotechnology Certificate Programs</h4>
  <UL>
    <li><a href="programcert.php">Post-Baccalaureate Certificate in Professional Studies: Biotechnology Management</a> (12 credits)</li>
    <li><a href="programcert2.php">Post-Baccalaureate Certificate in Biochemical Regulatory Engineering</a> (12 credits)</li>
-   <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your certificate program.</li>
+   <li>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your biotech certificate program.</li>
  </UL>
  
 <!-- END Content -->
 
-  <div id="contents" style="display:none"></div>
+  
 
 </div>
   
@@ -115,26 +104,18 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "bio";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -142,5 +123,8 @@ $(document).ready(function () {
 });
 </script>
 
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

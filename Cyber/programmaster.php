@@ -1,16 +1,8 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
 
-<title>Master's in Professional Studies | Cybersecurity at UMBC</title>
+<title>Master's of Professional Studies | Cybersecurity at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="The ten-course master's degree combines courses in cybersecurity strategy, policy, and management with more technical, hands-on cybersecurity course." />
 
@@ -19,7 +11,7 @@ $lang = 'en';
 <meta name="twitter:site" content="@UMBC_DPS">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Master's in Professional Studies | Cybersecurity at UMBC" />
+<meta property="og:title" content="Master's of Professional Studies | Cybersecurity at UMBC" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/cyber/programmaster" />
 <meta property="og:image" content="http://www.umbc.edu/cyber/images/bk.jpg" />
@@ -37,6 +29,7 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
 
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 <body>
   <div id="skip-content">
@@ -74,11 +67,10 @@ $lang = 'en';
   
 <!-- START Content --> 
 
- <h3>Master's in Professional Studies: Cybersecurity </h3>
+ <h3>Master's of Professional Studies: Cybersecurity </h3>
  <p>This ten-course graduate program integrates both technical and non-technical courses in Cybersecurity to prepare Computer Science, Information Systems, and other professionals to fill management, analytical, investigative, operational, and/or technical leadership roles in the Cybersecurity profession. Students are free to select electives based on their individual interests or professional requirements in the discipline.</p>
- <h4>Program Requirements:</h4>
- <p> Students must complete 10 courses (30 credits) as follows: 6 required (18 credits), 4 electives (12 credits).</p>
-
+ <h4>Master's Degree in Cyber Security Program Requirements:</h4>
+ <p> Students in the Master's in Cyber Security program must complete 10 courses (30 credits) as follows: 6 required (18 credits), 4 electives (12 credits).</p>
  <h4>Required Core Courses (18 credits):</h4>
  <p>(some may be substituted via transfer credits or&nbsp;alternative UMBC courses)</p>
  <ul>
@@ -104,7 +96,7 @@ $lang = 'en';
   <li><a href="courses.php#CMSC691">CMSC 691: Special Topics in Computer Science</a></li>
   <li>Other relevant graduate course(s) approved by  the Cybersecurity Graduate Program Director</li>
 </ul>    
-<div id="contents" style="display:none"> </div>
+
 
 </div>
 <!-- END Content -->
@@ -127,26 +119,18 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "cyber";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -155,6 +139,8 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

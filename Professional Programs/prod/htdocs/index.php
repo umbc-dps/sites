@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -90,8 +82,10 @@ select#program option.not-pro, select#program option.usg{display:none}
 .five iframe{transform:scale(0.85);-webkit-transform:scale(0.85);transform-origin:0 0;-webkit-transform-origin:0 0;}
 .five label{font-weight:bold}
 .five td input[type=submit]{margin-left:15%}
+
 </style>
 
+<link href='http://umbc.edu/dps/css/sf-pp-contact-us.css' rel='stylesheet'>
 </head>
 
 <body>
@@ -156,7 +150,7 @@ BEGIN MAIN
 -->
 <div class="container column" id="main">
   <div  id="pp-heading">
-     <a href="http://umbc.edu/dps"><img src="images/office-logo.png" alt="Division of Professional Studies Home Page" class="scale-with-grid first-child last-child" style="margin-top:10px;"></a>
+     <a href="http://umbc.edu/professionalprograms"><img src="images/office-logo.png" alt="Division of Professional Studies Home Page" class="scale-with-grid first-child last-child" style="margin-top:10px;"></a>
 </div>
   <div class="sixteen columns">
     <div class="eleven columns alpha" style="padding-top:1em;">
@@ -225,19 +219,18 @@ BEGIN MAIN
 
 <li id="slide4">
 
-<a href="http://news.umbc.edu/umbc-is-featured-in-the-baltimore-sun-for-enhancing-the-student-experience-in-and-out-of-the-classroom/?csid=492374" target="_blank"> 
-
-<img src="images/Elliot-Lasson-UMBC-2596-e1486671626806-640x370.jpg" width="665" height="370" alt=""/></a>
-
-
-<div class="carousel-caption-right wordwrap">
-  <h3>UMBC highlighted in The Baltimore Sun</h3>
-  <small>Baltimore Sun's latest special section on education emphasizes how UMBC is enhancing the student experience in and out of the classroom.</small>  
-  
-  <p><a href="http://news.umbc.edu/umbc-is-featured-in-the-baltimore-sun-for-enhancing-the-student-experience-in-and-out-of-the-classroom/?csid=492374" class="web-seemore">Check It Out!</a></p></div>
-
-<p id="captionthree"><a href="http://news.umbc.edu/umbc-is-featured-in-the-baltimore-sun-for-enhancing-the-student-experience-in-and-out-of-the-classroom/?csid=492374" target="_blank">UMBC highlighted in The Baltimore Sun</a></p>
+<a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">
+<img src="images/md.jpg"  alt=""/>
+ </a>
  
+<div class="carousel-caption wordwrap">
+  <h3>Tina Williams Recognized by University System of Maryland</h3>
+  <small>Adjunct instructor Tina Williams has been contracted by USM to implement cybersecurity engagement and innovation activities with the NCCoE.</small>
+  
+  <p><a href="http://www.usmd.edu/newsroom/news/1699" class="web-seemore" target="_blank">Read More</a></p></div>
+
+<p id="captionthree"><a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">Tina Williams Recognized by University System of Maryland</a></p>
+
 </li>
 
 <!-- END SLIDE Four --> 
@@ -257,6 +250,7 @@ BEGIN MAIN
         <a href="http://umbc.edu/hit" target="_blank"><li>Health Information Technology</li></a>
         <a href="http://umbc.edu/shadygrove/io" target="_blank"><li>Industrial/Organizational Psychology</li></a>
         <a href="http://umbc.edu/se" target="_blank"><li>Systems Engineering</li></a>
+        <a href="http://umbc.edu/techm" target="_blank"><li>Technical Management</li></a>
       </ul>
 </div>
 
@@ -302,27 +296,16 @@ BEGIN MAIN
   </footer>
 </div></div>
 <!-- container --> 
-<script>
-	var programname = "pro";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<!-- Because of subdirectory, Professional Programs cannot reference DPS -->
-<script>$( "#form" ).load( "includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "includes/contact-form.php .mini-form" );</script>
-<script>$( "#contents" ).load( "includes/program-info.php" );</script>
-
-
+<script>$( "#contents" ).load( "includes/sf-program-info.php" );</script>
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script>
-
-<script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
 
 
 <script>
@@ -397,6 +380,6 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
-  
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
 </html>

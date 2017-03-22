@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!doctype html>
 <html>
 <head>
@@ -68,8 +60,12 @@ select#program option.not-pro, select#program option.usg{display:none}
 .five iframe{transform:scale(0.85);-webkit-transform:scale(0.85);transform-origin:0 0;-webkit-transform-origin:0 0;}
 .five label{font-weight:bold}
 .five td input[type=submit]{margin-left:15%}
+
 </style>
+
+<link href='http://umbc.edu/dps/css/sf-pp-contact-us.css' rel='stylesheet'>
 </head>
+
 <body>
 <div id="skip-content"><a href="#main-content">Skip to Main Content</a></div>
 <div id="container-header-background">
@@ -143,6 +139,7 @@ BEGIN MAIN
  <p>Thank you for your interest in UMBC's Professional Graduate Programs. </p>
    <p>
    We will address your inquiry shortly. In the meantime, please feel free to browse the respective program pages on our website and learn more about  offerings, curriculum, and experienced faculty.</p>
+   <p>Interested in learning more? Register for our upcoming <a href="http://www.umbc.edu/openhouse/?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=pp_sidebar">Program Exploration Open House</a> on Saturday, April 1 from 10:00am-12:00pm. </p>
    <p>Best Regards,<br>
  Office of Professional Programs
  </p>
@@ -171,23 +168,20 @@ BEGIN MAIN
      
     <p>&copy; <script>document.write(new Date().getFullYear())</script> UMBC Division of Professional Studies · 
       1000 Hilltop Circle, Sherman Hall East 4th Floor, Baltimore, MD 21250 · 410-455-2336 ·  Email: <a href="mailto:dps@umbc.edu">dps@umbc.edu</a><br>
-      <a href="locations.php">Locations</a> · <a href="departments.php">DPS Departmental Pages</a> · <a href="staffdirectory.php">DPS Staff Directory</a>      <br>
+      <a href="http://umbc.edu/dps/locations.php">Locations</a> · <a href="http://umbc.edu/dps/departments.php">DPS Departmental Pages</a> · <a href="http://umbc.edu/dps/staffdirectory.php">DPS Staff Directory</a>      <br>
 </p>
 
   </footer>
 </div></div>
 <!-- container --> 
-<script>
-	var programname = "pro";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<!-- Because of subdirectory, Professional Programs cannot reference DPS -->
-<script>$( "#form" ).load( "includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "includes/contact-form.php .mini-form" );</script>
-<script>$( "#contents" ).load( "includes/program-info.php" );</script>
+
+
+<script>$( "#contents" ).load( "includes/sf-program-info.php" );</script>
 
 
 <?php include("includes/tracking.php"); ?> 
@@ -196,8 +190,7 @@ BEGIN MAIN
 <script src="includes/jquery.magnific-popup.js"></script>
 <script src="includes/popup.js"></script>
 
-<script>$.getScript("http://umbc.edu/dps/js/changeprogram.js")</script>
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <script> 
@@ -216,6 +209,6 @@ $(document).ready(function () {
 </script>
 
 
-
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
 </html>

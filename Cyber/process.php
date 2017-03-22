@@ -72,6 +72,8 @@ $(document).ready(function () {
 });
 </script>
 
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body></html>";
 			 //MAIL TO STAFF
 						$to = $pc;
@@ -111,6 +113,8 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body></html>";
 			 //MAIL TO STUDENT

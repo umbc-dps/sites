@@ -113,8 +113,8 @@
 </div>
 <div class="content-details right">
 <a class="mobile-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php">&raquo;</a>
-<div class="title">April 1st is Approaching: Get Priority! </div>
-<div class="tagline">Apply and submit your official transcripts by our undergraduate priority deadline of April 1st to automatically be considered for UMBC merit scholarships!</div>
+<div class="title">March 1st is Approaching: Get Priority! </div>
+<div class="tagline">Apply and submit your official transcripts by our undergraduate priority deadline of March 1st to automatically be considered for UMBC merit scholarships!</div>
 <a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Today!</a>
 </div>
 </a>
@@ -304,7 +304,7 @@
 </p>
 
 <p>
-<a href="http://my.umbc.edu/groups/sgfaculty/events/46940" target="_blank"> Faculty Appreciation Day - April 1, 2017</a><br>
+<a href="http://my.umbc.edu/groups/sgfaculty/events/46940" target="_blank"> Faculty Appreciation Day - March 1, 2017</a><br>
 <a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Tech Talk – Feb 21, 2017</a><br>
 <a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Student Preparation – Mar 29, 2017</a><br>
 <a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Student Accountability – Apr 27, 2017</a><br>

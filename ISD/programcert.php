@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,7 +35,10 @@ $lang = 'en';
 <style>
 table#sequence td{ text-align: center !important; width: 33%}
 </style>
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -84,10 +79,8 @@ table#sequence td{ text-align: center !important; width: 33%}
 
  <h3>Post-Baccalaureate Certificates in Instructional Systems Development</h3>
   <p>These certificates are designed for professionals working in business, industry and education who are in search of new and innovative strategies to meet the training needs of their organization. Each of the <strong>12-credit </strong>certificates can be completed within a year. They also are an excellent way for career changers to break into the training field.</p>
-
- <h3 style="font-size:175%">Benefits of Certificate</h3>
-
-   <p>These certificates are ideal for working professionals and subject matter experts who are interested in enhancing their skills or gaining specialized knowledge in a particular area without pursuing a full Master's program. They are also ideal for career changers who want to get started in the field quickly.</p>
+  <h3 style="font-size:175%">Benefits of Instructional Systems Development Certificate</h3>
+  <p>These certificates are ideal for working professionals and subject matter experts who are interested in enhancing their skills or gaining specialized knowledge in a particular area without pursuing a full Master's program. They are also ideal for career changers who want to get started in the field quickly.</p>
  <ul>
  <li><strong>Flexible Learning Options:</strong> All three Certificate Programs are offered completely online.</li>
  <li><strong>Earn Credentials in One Year</strong>: It is possible to earn the ISD Certificate in just two semesters. However, the Distance Education and Instructional Technology Certificates typically take three to four semesters to complete. Courses are offered during the fall, spring &amp; summer sessions.</li>
@@ -310,12 +303,8 @@ This academic program is a participant in the U.S. Department of Education Gainf
       <br>
  <h3 style="font-size:175%">Academic Standards</h3>
     <p>Students must earn a grade of &ldquo;B&rdquo; or higher in their first six credits.  Students must maintain a 3.0 grade point average (&ldquo;B&rdquo;) to graduate.  If students do not maintain a 3.0 GPA their matriculation in the program may be discontinued.  </p>
-
-
-<p>For more details on policies and procedures visit the <a href="http://gradschool.umbc.edu/students/policies">UMBC Graduate School website</a>.</p>
-
-
-   <div id="contents" style="display:none"></div>
+    <p>For more details on policies and procedures relating to the Instructional Design certificate, visit the <a href="http://gradschool.umbc.edu/students/policies">UMBC Graduate School website</a>.</p>
+    
 
 <!-- END Content -->
 
@@ -338,26 +327,18 @@ This academic program is a participant in the U.S. Department of Education Gainf
 </div>
 <!-- container --> 
 
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -382,5 +363,9 @@ $( "#accordion" ).accordion({
 	ga('send', 'event',  'accordion', 'click', linkText);
 });
 </script>  
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

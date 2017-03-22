@@ -1,10 +1,4 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <html>
@@ -43,7 +37,10 @@ $lang = 'en';
   h4{font-weight:normal; font-size:14px}
   .subject h4{font-weight:bold; font-size:12pt}
   </style>
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
   <div id="skip-content">
@@ -76,11 +73,9 @@ $lang = 'en';
       <div class="narrowchart">
         <div id="accordion">
           <!-- START Content -->
-
-          <h3>Course Descriptions</h3>
-
-
-          <p><strong>Note:</strong> Not all courses are offered every semester, and new courses may be added at any time. Check the <a href="schedule">schedule of classes</a>, for the latest offerings. All courses are 3 credits unless otherwise noted. Please consult the <a href="http://catalog.umbc.edu/content.php?catoid=4&navoid=163" target="_blank">Graduate Catalog</a> and departmental website for each specialization for most up-to-date course descriptions.</p>		  <div class="accordionheader subject">
+          <h3>Engineering Management Course Descriptions</h3>
+          <p><strong>Note:</strong> Not all Engineering Management courses are offered every semester, and new courses may be added at any time. Check the <a href="schedule">schedule of classes</a>, for the latest offerings. All courses are 3 credits unless otherwise noted. Please consult the <a href="http://catalog.umbc.edu/content.php?catoid=4&amp;navoid=163" target="_blank">Graduate Catalog</a> and departmental website for each specialization for most up-to-date course descriptions.</p>
+          <div class="accordionheader subject">
             <h4>General</h4>
           </div>
           <div></div>
@@ -1129,7 +1124,7 @@ $lang = 'en';
 
 
           <div class="accordionbody">
- <p>This course is either an individual or group project on an approved topic in the Systems Engineering (SE) Certificate, the SE track within the Master&rsquo;s in Electrical Engineering or the SE track within the Masters in Computer Science, non-thesis option. The project serves as an integrating mechanism to allow the student to demonstrate a working level understanding by applying the knowledge gained in the coursework leading up to this capstone course. The "project" requires a sequence of tasks required to achieve an end result that requires the use of multiple EE domains, disciplines and tools. Underlying the need for the result of the project are the essential lessons learned from case studies of major programs. The project will be tailored to allow completion and submission as partial satisfaction for a Certificate in Systems Engineering.</p>
+ <p>This course is either an individual or group project on an approved topic in the Systems Engineering (SE) Certificate, the SE track within the Master&rsquo;s in Electrical Engineering or the SE track within the Master's of Computer Science, non-thesis option. The project serves as an integrating mechanism to allow the student to demonstrate a working level understanding by applying the knowledge gained in the coursework leading up to this capstone course. The "project" requires a sequence of tasks required to achieve an end result that requires the use of multiple EE domains, disciplines and tools. Underlying the need for the result of the project are the essential lessons learned from case studies of major programs. The project will be tailored to allow completion and submission as partial satisfaction for a Certificate in Systems Engineering.</p>
 </div>
 
  <div class="accordionheader">
@@ -1153,7 +1148,7 @@ $lang = 'en';
 
           <br>
           
-<div id="contents" style="display:none"></div>
+
 <!-- END CONTENT -->
 
         </div>
@@ -1169,26 +1164,18 @@ $lang = 'en';
   </div>
   <!-- container -->
 
-<script>
-	var programname = "engm";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -1213,5 +1200,8 @@ $( "#accordion" ).accordion({
   });
 
   </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
 </html>

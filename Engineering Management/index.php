@@ -1,10 +1,4 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <html>
@@ -41,7 +35,10 @@ $lang = 'en';
   <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
   <link href='http://umbc.edu/dps/css/magnific-popup.css' rel='stylesheet'>
   
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
 
@@ -184,13 +181,13 @@ $lang = 'en';
 <h3>UMBC Engineering Management Graduate Programs</h3>
 
       <p>The Engineering Management Program at UMBC offers a Master of Science in Engineering Management and a Certificate in Engineering Management. UMBC's program combines a practical business approach with an in-depth technical concentration and emphasizes how to lead people and manage complex projects. Our engineering management courses are developed and taught by industry experts and are designed to address real-world problems in the workplace.</p>
-      <p>The Engineering Management Program at UMBC is designed to help maximize technical and business skills and is ideally suited for engineers employed in technology-oriented enterprises or government programs.<br>
+      <p>The Engineering Management graduate program at UMBC is designed to help maximize technical and business skills and is ideally suited for engineers employed in technology-oriented enterprises or government programs.<br>
       </p>
       <h3>Why Engineering Management?</h3>
 
     <ul type="square">
-        <li>The       global environment demands skilled engineers who understand the essential       principles of management and business.</li>
-        <li>Combining       technical and business skills gives engineers a competitive advantage.       Engineering management professionals are trained to understand not just       how a system works technically, but also how these systems fit in and       relate to others.</li>
+      <li>The       global environment demands skilled engineers who understand the essential       principles of business engineering management.</li>
+      <li>Combining       technical and business skills gives engineers a competitive advantage.       Engineering management professionals are trained to understand not just       how a system works technically, but also how these systems fit in and       relate to others.</li>
         <li>Organizations       seek engineering experts who can understand the complexity of       technological and business-related challenges and who can create solutions       to solve them.<br>
     </li>
     </ul>
@@ -203,7 +200,7 @@ $lang = 'en';
         <li>For six years running (2009-2014), UMBC was  ranked #1 in the U.S. News and World Report's list of &quot;national  up-and-coming&quot; universities.</li>
         <li>Classes are conveniently offered in the  evening on UMBC's main campus, located just five minutes from BWI Airport, with  easy access to I-95 and the 695 Beltway.
 
-<div id="contents" style="display:none"></div>
+
 <!-- END CONTENT -->
 </li>
       </ul>
@@ -237,26 +234,18 @@ $lang = 'en';
 
 <!-- END container -->
 
-<script>
-	var programname = "engm";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -341,6 +330,9 @@ $(document).ready(function () {
 });
 </script>  
   
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
 </html>
 

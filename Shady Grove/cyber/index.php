@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html><head>
 
@@ -43,7 +35,10 @@ $lang = 'en';
 <link href="../images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="../images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
   
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body>
   <div id="skip-content">
@@ -138,17 +133,17 @@ $lang = 'en';
 
 <li id="slide2">
 
-<a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">
-<img src="images/md.jpg"  alt=""/>
+<a href="http://umbc.edu/shadygrove/cyber/talks" target="_blank">
+<img src="images/cybertalks.jpg"  alt=""/>
  </a>
  
-<div class="carousel-caption-right wordwrap">
-  <h3>Tina Williams Recognized by University System of Maryland</h3>
-  <small>Adjunct instructor Tina Williams has been contracted by USM to implement cybersecurity engagement and innovation activities with the National Cybersecurity Center of Excellence.</small>
+<div class="carousel-caption wordwrap">
+  <h3>Cyber Talk</h3>
+  <small>Join UMBC's Cybersecurity Program for an engaging and informative discussion on digital forensic techniques with Detective Sergeant John Conroy. You don't want to miss this!</small>
   
-  <p><a href="http://www.usmd.edu/newsroom/news/1699" class="web-seemore" target="_blank">Read More</a></p></div>
+  <p><a href="http://umbc.edu/shadygrove/cyber/talks" class="web-seemore" target="_blank">RSVP Here</a></p></div>
 
-<p id="captionthree"><a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">Tina Williams Recognized by University System of Maryland</a></p>
+<p id="captionthree"><a href="http://umbc.edu/shadygrove/cyber/talks" target="_blank">Cyber Talk</a></p>
 
 </li>
 
@@ -206,7 +201,7 @@ $lang = 'en';
       </ul>
     
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>  
   
@@ -244,26 +239,16 @@ $lang = 'en';
 
 <!-- END container -->
 
-<script>
-	var programname = "cyber-sg";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
+
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $( function() {
@@ -348,6 +333,9 @@ $(document).ready(function () {
 </script>
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 </body>
+
 </html>
 

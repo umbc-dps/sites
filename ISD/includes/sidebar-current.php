@@ -13,7 +13,7 @@ Saturday, April 1, 10:00AM - 12:00PM<br>
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p>Summer 2017 Master's Priority Application Deadline: March 1st; Summer 2017 Certificate Application Deadline: April 1st; Fall 2017 Master's Priority Application Deadline: June 1st; Fall 2017 Certificate Application Deadline: July 1st
+      <p><strong>Summer 2017 Master's Priority Application Deadline:</strong> March 1st <br><strong> Summer 2017 Certificate Application Deadline:</strong> April 1st<br><p><strong> Fall 2017 Master's Priority Application Deadline:</strong> June 1st<br><strong> Fall 2017 Certificate Application Deadline:</strong> July 1st<br></p>
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>
@@ -28,7 +28,7 @@ Saturday, April 1, 10:00AM - 12:00PM<br>
         <li><a href="http://www.dineoncampus.com/umbc">Dine On Main Campus</a></li>
         <li><a href="http://gradschool.umbc.edu">Graduate School</a></li>
         <li><a href="http://aok.lib.umbc.edu/services/gradStudents">Library Services</a></li>
-        <li><a href="http://sss.umbc.edu">Student Support Services</a></li>
+        <li><a href="http://my.umbc.edu/topics/advising-and-student-support">Student Support Services</a></li>
         <li><a href="http://www.umbc.edu/uhs">University Health Services</a></li>
         <li><a href="http://www.umbc.edu/veterans">Veterans/Military Information</a></li>
       </ul>

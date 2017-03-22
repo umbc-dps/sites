@@ -1,11 +1,5 @@
 
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en_US"> <![endif]-->
@@ -76,7 +70,11 @@ $lang = 'en';
 
 <link type="text/css" rel="stylesheet" href="https://global.gotowebinar.com/themes/css/bd0d61f0fdc3774ef4f25613cc8602ff">
                 <!-- end legacy stuff -->
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
+
 </head>
+
 
 <body id="registration">
 
@@ -1500,7 +1498,11 @@ twttr.conversion.trackPid('l4pxk');
     </script>
    
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

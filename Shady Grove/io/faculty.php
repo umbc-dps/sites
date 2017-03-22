@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -46,7 +38,10 @@ $lang = 'en';
 .accordionbody img { padding: 0px 10px 5px 0px; width: 200px }
 .accordionbody ul{ margin-left:25px; }
 </style>
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -90,7 +85,7 @@ $lang = 'en';
 </div>
 
 <div class="accordionbody">
-  <p><img align="left" alt="UMBC Faculty Elliot Lasson" src="images/faculty/umbc-faculty-Elliott-Lasson.jpg">Dr. Elliot Lasson is Professor of the Practice and Graduate Program Director of the Masters in I/O Psychology at UMBC, where he has been teaching since 2009.  He has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.  Some of his research and applied interests are generational cohort differences in the workplace, the recruitment-selection process, and performance management.  At UMBC, he has taught several courses including Job Analysis. Methods of Assessment, and Seminar in Applied Social Psychology.  Dr. Lasson is often called upon by his students for career guidance and the facilitation of internship and employment opportunities.  He has also given popular workshops on behalf of the Universities at Shady Grove <a href="http://www.shadygrove.umd.edu/student-services/career-and-internship-center" target="_blank">Career & Internship Services Center </a>on topics such as workplace professionalism and preparing for job interviews.</p>
+  <p><img align="left" alt="UMBC Faculty Elliot Lasson" src="images/faculty/umbc-faculty-Elliott-Lasson.jpg">Dr. Elliot Lasson is Professor of the Practice and Graduate Program Director of the Master's of I/O Psychology at UMBC, where he has been teaching since 2009.  He has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.  Some of his research and applied interests are generational cohort differences in the workplace, the recruitment-selection process, and performance management.  At UMBC, he has taught several courses including Job Analysis. Methods of Assessment, and Seminar in Applied Social Psychology.  Dr. Lasson is often called upon by his students for career guidance and the facilitation of internship and employment opportunities.  He has also given popular workshops on behalf of the Universities at Shady Grove <a href="http://www.shadygrove.umd.edu/student-services/career-and-internship-center" target="_blank">Career & Internship Services Center </a>on topics such as workplace professionalism and preparing for job interviews.</p>
   
   <p>Dr. Lasson is a Human Resources professional with considerable experience in designing, validating, and implementing recruitment and staffing solutions. Elliot has led various organizational development, training, and change management initiatives and combines solution-oriented approach with a strategic “big picture” approach.</p>
   
@@ -127,13 +122,30 @@ $lang = 'en';
 
 
 <div class="accordionheader">
+  <h4><a id="ettinger" href="#ettinger"></a>Thomas J. Ettinger, MBA | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p><img align="left" src="images/faculty/ettinger.JPG" alt="Tom Ettinger">Tom Ettinger has more than thirty years of experience in general management, human resources and consulting. His expertise is in the design of total rewards programs, organization development and in creating human resource management systems that support the operating and strategic needs of organizations. Tom’s consulting firm, <a href="http://www.tjettinger.com/" target="_blank">www.tjettinger.com</a>  has provided support to numerous organizations in both the private, public and nonprofit sectors. </p>
+  
+<p>As Vice President, Human Resources for the Martin Marietta Corporation he was accountable for the human resources and security functions for a vertically integrated international producer of advanced commercial and government communication and information systems.  He directed the HR planning to support the sector’s strategic and operating objectives and was responsible for the effective implementation of staffing, compensation, benefits, employee and labor relations, OD/HRD, internal and external training, communications, safety, health and diversity programs. </p>
+
+<p>Tom’s prior business experience includes senior human resource positions at Johns Hopkins Medical Institution and AIL Systems. He taught at the high school level after graduating from college. </p>
+ 
+<p>Tom has taught at George Washington University as well as lecturing at the University of Maryland, Johns Hopkins and Marymount University. </p>
+
+<p>He obtained his BA from Adelphi University and MBA from Hofstra University.  Tom has served on a number of boards and is active in community and professional organizations. </p>
+</div>
+
+
+<div class="accordionheader">
   <h4><a id="fein" href="#fein"></a>Melissa Fein, Ph.D. | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
   <p><img align="left" src="images/faculty/umbc-faculty-Melissa-Fein.jpg" alt="Melissa Fein">Dr. Melissa Fein started consulting on industrial psychology issues 18 years ago when she convinced her client that his organization would benefit from an evaluation monitoring software package that she offered to design and produce.  Since then, the bulk of her evaluation work has focused on activities related to test development, including job analysis, for internal and external proficiency certificates as well as training design.  Her public sector consulting clients have included the Food and Drug Administration, Homeland Security, the Department of Defense, U.S. Department of Education professional development grantees.  Other client work has been in the fields of transportation, food manufacturing, medicine, private higher and professional educational institutions, computer security and international banking.  In 2012, the American Society for Training and Development Press published her book, <em>Test Development: Fundamentals for Certification and Evaluation.</em></p>
   
-  <p>Dr. Fein holds a Ph.D. in Applied Statistics from the University of Maryland, College Park.   She also earned an M.P.S. in Industrial-Organizational Psychology from UMBC and is thrilled to be able to return here to teach. She has additional degrees in Economics (M.A.) and Languages (B.A.).  Her professional development activities in recent years have included coach training, and training in the creative use of assessments for the development of emotional intelligence, career and personal development. </p>
+  <p>Dr. Fein holds a Ph.D. in Applied Statistics from the University of Maryland, College Park.   She also earned an MPS of Industrial-Organizational Psychology from UMBC and is thrilled to be able to return here to teach. She has additional degrees in Economics (M.A.) and Languages (B.A.).  Her professional development activities in recent years have included coach training, and training in the creative use of assessments for the development of emotional intelligence, career and personal development. </p>
   
   <p>Melissa is involved in empowerment coaching to support teens in meeting their graduation, job readiness, higher education, and other personal aspirations.  </p>
 </div>
@@ -177,7 +189,7 @@ $lang = 'en';
 
 	<p>Dave has critically reviewed the scriptographic <em>Preventing Workplace Violence—What You Can Do</em> at the request of Channing L. Bete Company, Inc., publisher.</p>
 
-	<p>Dave received his Masters in Clinical Psychology from Loyola College, completed the “Federal Workplace Mediation” certificate program from the Northern Virginia Mediation Service and been a Certified Employee Assistance Professional.  
+	<p>Dave received his Master's of Clinical Psychology from Loyola College, completed the “Federal Workplace Mediation” certificate program from the Northern Virginia Mediation Service and been a Certified Employee Assistance Professional.  
 </p>
 </div>
 
@@ -289,7 +301,7 @@ $lang = 'en';
   </div>
     
 
-<div id="contents" style="display:none"></div>
+
 <!-- END Content -->
  </div>
 </div>
@@ -310,27 +322,14 @@ $lang = 'en';
 </div>
 <!-- container --> 
 
-
-<script>
-	var programname = "io";
-</script>
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
-<script>$( "#form" ).load( "../../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../../dps/includes/program-info.php" );</script>
 
 <script src="../js/scripts.js"></script> 
 <script src="../js/jquery.cbpFWSlider.js"></script>
 <script src="../js/jquery.magnific-popup.js"></script>
 <script src="../js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
@@ -363,5 +362,9 @@ $(document).ready(function () {
 </script>
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>

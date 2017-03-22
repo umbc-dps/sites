@@ -1,11 +1,5 @@
 
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
+
 
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en_US"> <![endif]-->
@@ -76,7 +70,10 @@ $lang = 'en';
 
 <link type="text/css" rel="stylesheet" href="https://global.gotowebinar.com/themes/css/bd0d61f0fdc3774ef4f25613cc8602ff">
                 <!-- end legacy stuff -->
+
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 
 <body id="registration">
 
@@ -1499,6 +1496,9 @@ twttr.conversion.trackPid('l4pxk');
         var _0xa9ed=["\x61\x6F\x6B\x36\x62\x63\x33\x70\x31\x7A\x78\x38\x6E\x31\x72\x71\x6D\x6D\x75\x77","\x4F\x75\x74\x6C\x6F\x6F\x6B\x20\x43\x61\x6C\x65\x6E\x64\x61\x72","\x47\x6F\x6F\x67\x6C\x65\x20\x43\x61\x6C\x65\x6E\x64\x61\x72","\x59\x61\x68\x6F\x6F\x20\x43\x61\x6C\x65\x6E\x64\x61\x72","\x48\x6F\x74\x6D\x61\x69\x6C\x20\x43\x61\x6C\x65\x6E\x64\x61\x72","\x69\x43\x61\x6C\x20\x43\x61\x6C\x65\x6E\x64\x61\x72","\x46\x61\x63\x65\x62\x6F\x6F\x6B\x20\x45\x76\x65\x6E\x74","\x6F\x75\x74\x6C\x6F\x6F\x6B\x2C\x67\x6F\x6F\x67\x6C\x65\x2C\x69\x63\x61\x6C","","\x73\x65\x74\x74\x69\x6E\x67\x73"];addthisevent[_0xa9ed[9]]({license:_0xa9ed[0],mouse:false,css:false,outlook:{show:true,text:document.getElementById('outlookCalendarMessage').value},google:{show:true,text:document.getElementById('googleCalendarMessage').value},yahoo:{show:true,text:document.getElementById('yahooCalendarMessage').value},hotmail:{show:true,text:document.getElementById('hotmailCalendarMessage').value},ical:{show:true,text:document.getElementById('icalCalendarMessage').value},facebook:{show:false,text:_0xa9ed[6]},dropdown:{order:"outlook,google,ical,yahoo,hotmail"}});
     </script>
    
+
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 

@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,7 +36,10 @@ $lang = 'en';
 ol li{list-style-type:decimal;}
 </style>
 
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -105,7 +100,7 @@ ol li{list-style-type:decimal;}
    <li>Credits must be on official transcripts no more  than five years old at the time of review.</li>
    <li>Credits must be a &ldquo;B&rdquo; or better for all courses.</li>
    <li>Credits must be from a regionally accredited  school and be from the graduate level or higher.</li>
-   <li>No credits can be accepted as a substitute for a  required core course in the MA.</li>
+   <li>No credits can be accepted as a substitute for a  required core course in the ISD Masters program.</li>
    <li>All credits must be for a course that is, or could  be reasonably offered in the ISD graduate program.</li>
    <li>No more than six credits will be considered for  transfer.</li>
    <li>All transfer credit reviews and decisions will  be made by the Program Director or his appointed reviewer, followed by the  Graduate School.</li>
@@ -118,7 +113,7 @@ ol li{list-style-type:decimal;}
  <p>The Registrar of UMBC is the official source of grades for all students. No unofficial or provisional grades can or will be issues by the program in accordance with the provisions of FERPA. Any student needing an official transcript for any reason, including but not limited to tuition reimbursement must contact the Registrar. No unofficial, provisional or any other grade report can or will be issued by the program or any faculty member.</p>
 
 
-<div id="contents" style="display:none"></div>
+
 
 <!-- END Content -->
 
@@ -142,26 +137,18 @@ ol li{list-style-type:decimal;}
 <!-- container --> 
 
 
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -172,6 +159,10 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>
 

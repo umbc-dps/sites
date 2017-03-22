@@ -109,10 +109,10 @@ Please follow the following steps to order your regalia and have it delivered to
 
 <h4>Step 1 - Ordering</h4>
 <ul>
-<li>Online ordering of regalia opens on April 1 through <a href="https://herffjones.com/umbc" target="_blank"> Herff Jones</a>.</li>
-<li>Order by April 10, 2017 to avoid a late fee.</li>
-<li>On April 11, a $25 expedited shipping fee will be applied.</li>
-<li>April 14th is the last day to order online.</li>
+<li>Online ordering of regalia opens on March 1 through <a href="https://herffjones.com/umbc" target="_blank"> Herff Jones</a>.</li>
+<li>Order by March 10, 2017 to avoid a late fee.</li>
+<li>On March 11, a $25 expedited shipping fee will be applied.</li>
+<li>March 14th is the last day to order online.</li>
 </h5>
 <br>
 

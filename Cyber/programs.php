@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,6 +28,7 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
 
+<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 <body>
   <div id="skip-content">
@@ -71,34 +64,30 @@ $lang = 'en';
 
   <div class="eleven columns">
   
-<!-- START Content --> 
- <h3>Programs</h3>
- <p>UMBC again is ranked #1 in <EM>U.S. News and World</EM> <EM>Report</EM>&rsquo;s list of &ldquo;national up-and-coming&rdquo; universities. UMBC provides comprehensive programs and value at a public institution price. We offer   bachelor's, master's and doctoral degrees in a variety of fields relevant to   cybersecurity.</p>
- 
-<h4>Graduate Programs</h4>
-
+<!-- START Content -->
+<h3>Cyber Security Master's Programs</h3>
+<p>UMBC again is ranked #1 in <EM>U.S. News and World</EM> <EM>Report</EM>&rsquo;s list of &ldquo;national up-and-coming&rdquo; universities. UMBC provides comprehensive programs and value at a public institution price. We offer   bachelor's, master's and doctoral degrees in a variety of fields relevant to   cybersecurity.</p>
+<h4>Cyber Security Graduate Programs</h4>
 <ul>     
-   <LI><A href="programmaster.php">Master's in Professional Studies: Cybersecurity</A>
+   <LI><A href="programmaster.php">Master's of Professional Studies: Cybersecurity</A>
      (30 credits)
    </LI>
    <LI><a href="programbsmps.php">Accelerated BS/MPS Program Option</a></LI>
    <LI>Download the <a href="documents/planningform.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your MPS program. </LI>
   
  </UL>
- 
- <h4>Post-Baccalaureate Certificate Programs</h4>
-  <UL>
+<h4>Post-Baccalaureate Cyber Security Certificate Programs</h4>
+<UL>
    <LI><A href="programcert.php">Post-Baccalaureate Certificate in Professional Studies: Cybersecurity Strategy and   Policy</A> (12 credits)</LI>
       <LI><A href="programcert.php">Post-Baccalaureate Certificate in Professional Studies: Cybersecurity Operations</A> (12 credits)</LI>
 </UL> 
 
 
- <h4>Doctoral Studies</h4> 
-<p> Doctoral studies are  offered through the <a href="http://www.csee.umbc.edu" target="_blank">Department of Computer Science and Electrical Engineering</a> and the <a href="http://informationsystems.umbc.edu/" target="_blank">Department of Information Systems</a>. Please contact   the department directly for more information.</p>
-
+ <h4>Doctoral Studies</h4>
+ <p> Doctoral studies are  offered through the <a href="http://www.csee.umbc.edu" target="_blank">Department of Computer Science and Electrical Engineering</a> and the <a href="http://informationsystems.umbc.edu/" target="_blank">Department of Information Systems</a>. Please contact   the department directly for more information about our Doctoral Cybersecurity program.</p>
  <h4>Training Centers</h4>
- <p>In addition, UMBC offers non-credit cybersecurity industry certification and   training courses through the <A href="http://www.umbctraining.com" target="_blank">UMBC Training Centers</A></p>    
-<div id="contents" style="display:none"> </div>
+ <p>In addition, UMBC offers non-credit cyber security programs--including industry certification and   training courses--through the <a href="http://www.umbctraining.com" target="_blank">UMBC Training Centers</a></p>
+ 
 
 </div>
 <!-- END Content -->
@@ -120,26 +109,18 @@ $lang = 'en';
 <!-- container --> 
 
 
-<script>
-	var programname = "cyber";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 
 
@@ -148,6 +129,8 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>
 </html>

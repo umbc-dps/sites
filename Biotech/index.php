@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,6 +27,7 @@ $lang = 'en';
   <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
   <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+  <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
 
 <body>
@@ -169,12 +162,8 @@ $lang = 'en';
     </div>
     <!-- START Content -->
     <h3>UMBC Biotechnology Graduate Programs</h3>
-
-
-    <p>The Master&rsquo;s in Professional Studies in Biotechnology prepares science professionals to fill management and leadership roles in biotechnology-related companies or agencies.</p>
-    <p>
-    UMBC&rsquo;s Biotechnology curriculum is intended to address changes in the needs of the biotechology industry through experiential learning, by providing advanced instruction in the life sciences, in addition to coursework in regulatory affairs, leadership, management, and financial management in a life science-oriented business.</p>
-
+    <p>The Master’s of Professional Studies in Biotechnology prepares science professionals to fill management and leadership roles in Baltimore biotech-related companies or agencies.</p>
+    <p> UMBC's Master's in Biotechnology curriculum is intended to address changes in the needs of the biotechology industry through experiential learning. By providing advanced instruction in the life sciences, in addition to coursework in regulatory affairs, students earn their Master's in Biotechnology while gaining skills in leadership, biotech management, and financial management in a life science-oriented business.</p>
     <h3>Why Biotechnology?</h3>
 
 
@@ -197,13 +186,8 @@ $lang = 'en';
 
 
     <h3>Why UMBC?</h3>
-
-
-    <p>UMBC's Biotechnology Graduate Program and its strong academic programs in the life sciences are led by a distinguished faculty of nearly fifty members spanning the departments of:</p>
-
-
-    <ul>
-      <li>Biological Sciences</li>
+<ul>
+    <li>Biological Sciences</li>
 
 
       <li>Chemistry and Biochemistry</li>
@@ -211,12 +195,10 @@ $lang = 'en';
 
       <li>Chemical, Biochemical and Environmental Engineering</li>
     </ul>
-
-
-    <p>This established academic and research expertise in the biosciences provides a foundation for programs in biotechnology management and biochemical regulatory engineering.</p>
+    <p>This established academic and research expertise in the biosciences provides a foundation for programs in biotechnology management and biochemical regulatory engineering. Opportunities for biotechnology jobs in Maryland continue to grow, making it a great time to pursue a professional degree.</p>
     <!-- END Content -->
 
-  <div id="contents" style="display:none"></div>
+  
   </div>
   <!-- SIDEBAR -->
   <?php include("includes/sidebar.php"); ?><!-- END SIDEBAR -->
@@ -241,16 +223,12 @@ $lang = 'en';
   </footer>
   <!-- END footer -->
   <!-- END container -->
-<script>
-	var programname = "bio";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
@@ -343,6 +321,9 @@ $(document).ready(function () {
 	ytTracker.init();
 });
 </script>
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 
 </body>
 </html>

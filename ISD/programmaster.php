@@ -1,11 +1,3 @@
-<?php 
-//CAPTCHA VARIABLES
-require_once __DIR__ . '/autoload.php';
-$siteKey = '6Le-7RUTAAAAANxK657OX9zUXVW1Ynb4ysHRap3f';
-$secret = '6Le-7RUTAAAAAPGWiej1hA4QQeoDYtbOQI5rOKVH';
-$lang = 'en';
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -40,7 +32,10 @@ $lang = 'en';
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
 
+
+    <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
+
 <body>
   <div id="skip-content">
     <a href="#main-content">Skip to Main Content</a>
@@ -78,8 +73,7 @@ $lang = 'en';
 <!-- START Content --> 
 
  <h3>Master of Arts in Instructional Systems Development</h3>
- <p>The Master of Arts requires a minimum of 36 credits hours. Students must complete seven required core courses (totaling 21 credits), five elective courses (totaling 15 credits) and take a final comprehensive examination (students admitted prior to fall 2012) or complete a professional portfolio (students admitted fall 2012 and on).</p>
- 
+ <p>The Master of Arts in Instructional Systems Design requires a minimum of 36 credits hours. Students must complete seven required core courses (totaling 21 credits), five elective courses (totaling 15 credits) and complete a professional portfolio (students admitted fall 2012 and on). (Students admitted prior to fall 2012 will take a final comprehensive examination).</p>
  <h4>Benefits of Program</h4>
  <ul>
    <li>Combines research and practical design experience</li>
@@ -120,16 +114,13 @@ EDUC 602: Instructional Systems Development I * (3)</li>
          <li>EDUC 643: Principles of Distance Education (3)</li>
          <li>EDUC 647: Corporate Distance Training (3)</li>
          <li>EDUC 648: Consulting for Training &amp; Performance (3)</li>
-         <li>EDUC 649: Best Practices in Training &amp; Performance (3)</li>
          <li>EDUC 681: Survey of Instructional Technology Applications (3)</li>
          <li>EDUC 682: Instructional Technology Design and Development (3)</li>
          <li>EDUC 683: Multi-media Project Management (3)</li>
          <li>EDUC 689: Connecting ISD and Human Performance Improvement (3)</li>
-         <li>EDUC 689: ISD for Informal Learning (3)</li>
          <li>EDUC 689: Managing Your Career (3)</li>
          <li>EDUC 689: Managing &amp; Training Performance (3)</li>
          <li>EDUC 689: Portfolio Development &amp; Talent Management	(3)</li>
-         <li>EDUC 689: Project Management (3)</li>
          <li>EDUC 690: Individual Projects (must have program director's approval) (1-3)</li>
        </ul>
 
@@ -139,7 +130,7 @@ EDUC 602: Instructional Systems Development I * (3)</li>
        
        
 <h4>Portfolio</h4>
-<p>All M.A. students, admitted fall 2012 and on are required to submit a professional portfolio of course-related work samples that reflects their accomplishments throughout their tenure in the program. <a href="portfolio">UMBC ISD Portfolio Requirements</a></p>
+<p>All M.A. students in the Instructional Systems Design degree program admitted fall 2012 and later are required to submit a professional portfolio of course-related work samples that reflects their accomplishments throughout their tenure in the program. <a href="portfolio">UMBC ISD Portfolio Requirements and Portfolio Checklist</a></p>
 <h4>Internship and Final Project Seminar</h4>
 <p>Students are required to complete an internship course and final project seminar course.  Since most students are working adults the internship provides flexible options to complete this requirement. </p>
 
@@ -150,7 +141,7 @@ EDUC 602: Instructional Systems Development I * (3)</li>
 
 <p>For more details on policies and procedures visit the <a href="http://gradschool.umbc.edu/students/policies">UMBC Graduate School website</a>.</p>
 
-<div id="contents" style="display:none"></div>
+
 
 <!-- END Content -->
 
@@ -174,26 +165,18 @@ EDUC 602: Instructional Systems Development I * (3)</li>
 <!-- container --> 
 
 
-<script>
-	var programname = "isd";
-</script>
+
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
-<script>$( "#form" ).load( "../dps/includes/contact-form.php" );</script>
-<script>$( "#sidebar-contact" ).load( "../dps/includes/contact-form.php .sidebar-form" );</script>
-<script>$( "#contents" ).load( "../dps/includes/program-info.php" );</script>
+
 
 <script src="http://umbc.edu/dps/js/scripts.js"></script> 
 <script src="http://umbc.edu/dps/js/jquery.cbpFWSlider.js"></script>
 <script src="js/jquery.magnific-popup.js"></script>
 <script src="js/popup.js"></script>
-<script>$.getScript("http://umbc.edu/dps/js/email.js")</script>
-<!--Remove Comment for Programs without Program Guides--
-<script>$('#programguide').val(''); $('#planningform').val('');</script>
--->
-<script>$.getScript("http://umbc.edu/dps/js/sendtogoogle.js")</script>
+
 
 <script>
 $(document).ready(function () {
@@ -204,5 +187,9 @@ $(document).ready(function () {
 
 
 
+
+<?php include("includes/sf-contact-inputs.php"); ?>
+
 </body>
+
 </html>
