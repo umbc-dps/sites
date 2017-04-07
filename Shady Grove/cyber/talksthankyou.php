@@ -67,6 +67,9 @@ form#tfa_0 input.primaryAction{
 	display:block;
 	height:30px;
 }
+.wFormContainer{
+	height:425px!important;
+}
 div.actions{
 	display:inline-block;
 	text-align:center!important;
@@ -118,8 +121,11 @@ aside .btn:hover{
   <div class="ten columns" style="min-height:750px">
   
 <!-- START Content --> 
+
+
+
 <p><em>Presented by the <a href="http://umbc.edu/shadygrove/cyber">UMBC at Shady Grove Cybersecurity Program</a></em></p>
- 
+ <h3>Thank You!</h3>
 <h5> 
 <strong>WHEN:</strong> Thursday, April 27, 6:00 - 8:00 pm<br>
 <strong>WHERE:</strong> The Universities at Shady Grove<br>

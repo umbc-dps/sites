@@ -107,15 +107,17 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">
+<a href="http://www.umbc.edu/shadygrove/r2r.php" target="_blank">
 <div class="image mobile-left">
-	<img src="images_homepage/diane.jpg" alt="One">
+
+<img src="images/umbc-usg-outside-campus.png" width="1000" height="500" alt=""/>
+	
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd">&raquo;</a>
-<div class="title">Visit with our Program Directors!</div> <br>
-<div class="tagline">Meet our Program Directors and current students to learn about our undergraduate programs in History, Political Science, Psychology & Social Work and how a UMBC degree may best fit YOU! </div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">Apply Today!</a>
+<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/r2r.php">&raquo;</a>
+<div class="title">UMBC-USG Open House</div> <br>
+<div class="tagline">USG's Undergraduate Open House is on Saturday, April 22, 9:00am-12:00pm! Meet UMBC Program Directors, receive help with your Common Application, and learn about the transfer process!</div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/r2r.php" target="_blank">RSVP Today!</a>
 </div>
 </a>
 </div>
@@ -123,13 +125,41 @@
 
 
 <div class="panel panel-2">
-<a href="http://www.umbc.edu/shadygrove/visit/" target="_blank">
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">
 <div class="image mobile-left"><img src="images_homepage/io.jpg" alt="Three"></div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/visit/" target="_blank">&raquo;</a>
-<div class="title">Join us for an Information Session!</div> <br>
-<div class="tagline">Come meet our Cybersecurity and GIS Program Directors on Thursday, April 6 at 6:00pm to learn how you can apply for Fall 2017!</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/visit/" target="_blank">RSVP Today! &raquo;</a>
+<a class="mobile-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">&raquo;</a>
+<div class="title">Apply Now for our Graduate Programs</div> <br>
+<div class="tagline">Want to become a UMBC Retriever? We are accepting Fall 2017 applications for Cybersecurity and GIS!</div>
+<a class="web-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Today! &raquo;</a>
+</div>
+</a>
+</div>
+
+
+
+<div class="panel panel-3">
+<a href="http://umbc.edu/shadygrove/bigevent" target="_blank">
+<div class="image mobile-left"><img src="images_homepage/tbelogo.jpg" alt="Three"></div>
+<div class="content-details right">
+<a class="mobile-seemore" href="http://umbc.edu/shadygrove/bigevent" target="_blank">&raquo;</a>
+<div class="title">Mark Your Calendars: The Big Event</div>
+<div class="tagline">Be part of UMBC's Big Event - A Day of Service benefitting local organizations working with abuse victims, children and the elderly. Make a difference in our Shady Grove community right here on campus! 
+</div>
+<a class="web-seemore" href="http://umbc.edu/shadygrove/bigevent" target="_blank">RSVP &raquo;</a>
+</div>
+</a>
+</div>
+
+
+<div class="panel panel-4">
+<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
+<div class="image mobile-left"><img src="images_homepage/10.jpg" alt="4"></div>
+<div class="content-details right">
+<a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">&raquo;</a>
+<div class="title">Advanced Registration Begins this Week!</div>
+<div class="tagline">The Fall 2017 advanced registration period is here! Check the link for your earliest registration date. Remember, the secret to having a perfect schedule is early planning!</div>
+<a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">When can you register? &raquo;</a>
 </div>
 </a>
 </div>
@@ -137,6 +167,11 @@
 
 
 
+
+
+
+
+<!-- Hide Carousels --
 <div class="panel panel-3">
 <a href="http://www.umbc.edu/shadygrove/advising" target="_blank">
 <div class="image mobile-left">
@@ -151,13 +186,20 @@
 </a>
 </div>
 
+<div class="panel panel-4">
+<a href="http://www.umbc.edu/shadygrove/advising" target="_blank">
+<div class="image mobile-left">
+<img src="images_homepage/10.jpg" alt="Three">
+</div>
+<div class="content-details right">
+<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/advising" target="_blank">&raquo;</a>
+<div class="title">Prepare for your advising appointment</div> <br>
+<div class="tagline">Review your degree audit and make note of any questions/concerns you have, then schedule an appointment with your advisor.</div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/advising" target="_blank">Contact your advisor</a>
+</div>
+</a>
+</div>
 
-
-
-
-
-
-<!-- Hide Carousels --
 <div class="panel panel-5">
 <a href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">
 <div class="image mobile-left"><img src="images_homepage/katie_morris.jpg" alt="5"></div>
@@ -191,8 +233,14 @@
 
 <li class="item-2"><img src="images_homepage/io-small.jpg" alt="3"></li>
 
-<li class="item-3"><img src="images_homepage/10_tmb.jpg" alt="2"></li>
+<li class="item-3"><img src="images_homepage/tbelogo_tmb.jpg" alt="3"></li>
+
+<li class="item-4"><img src="images_homepage/10_tmb.jpg" alt="4"></li>
+
 <!-- Hide Preview Images --
+<li class="item-3"><img src="images_homepage/10_tmb.jpg" alt="2"></li>
+
+
 <li class="item-4"><img src="images_homepage/katie_morris_tmb.jpg" alt="4"></li>
 
 
@@ -352,15 +400,15 @@
 
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
-<li><a href="visit/infosession" target="_blank">Tuesday, February 21, 11:00 a.m.</a></li>
+<li><a href="visit/infosession" target="_blank">Saturday, April 22, 12:30pm</a></li>
 </ul>
 
 <p class="date">Visit with Undergraduate Program Directors</p>
 <ul>
-<li><a href="visit/pd-politicalscience" target="_blank">Political Science - Wednesday, February 8, 12:00 p.m.</a></li>
-<li><a href="visit/pd-socialwork" target="_blank">Social Work - Tuesday, February 14, 12:00 p.m.</a></li>
-<li><a href="visit/pd-psychology" target="_blank"> Psychology - Wednesday, February 22, 5:30 p.m.</a></li>
-<li><a href="visit/pd-history" target="_blank"> History - Thursday, February 23, 5:00 p.m.</a></li>
+<li><a href="visit/pd-politicalscience" target="_blank">Political Science - Wednesday, April 5, 12:00 p.m.</a></li>
+<li><a href="visit/pd-socialwork" target="_blank">Social Work - Friday, April 28, 12:00 p.m.</a></li>
+<li><a href="visit/pd-psychology" target="_blank"> Psychology - Thursday, April 13, 12:30pm</a></li>
+<li><a href="visit/pd-history" target="_blank">History - Wednesday, April 12, 12:00pm</a></li>
 </ul>
 
 <!--

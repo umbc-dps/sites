@@ -9,7 +9,7 @@
       <div id="umbc-logo"><a href="http://umbc.edu" title="UMBC: An Honors University in Maryland"><span>UMBC: An Honors University in Maryland</span></a></div>
       <nav role="navigation" id="umbc-nav" >
         <ul id="umbc-nav-items">
-<li id="umbc-nav-umbc50"><a href="">UMBC50</a></li>
+<li id="umbc-nav-umbc50"><a href="http://umbc.edu">UMBC50</a></li>
 <li id="umbc-nav-azindex"><a href="http://umbc.edu/siteindex">A-Z Index</a></li>
 <li id="umbc-nav-myumbc"><a href="http://my.umbc.edu">myUMBC</a></li>
 <li id="umbc-nav-events"><a href="http://my.umbc.edu/events">Events</a></li>

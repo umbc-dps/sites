@@ -138,34 +138,36 @@
 
 
 
-
 <div class="panel panel-3">
-<a href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/parking.jpg" alt="Three"></div>
+<a href="http://umbc.edu/shadygrove/bigevent" target="_blank">
+<div class="image mobile-left"><img src="images_homepage/tbelogo.jpg" alt="Three"></div>
 <div class="content-details right">
-<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">&raquo;</a>
-<div class="title">Spring Parking Permits</div>
-<div class="tagline">If you don't have an annual parking permit, it is time to get your Spring permit to ensure you are covered to park on campus. 
+<a class="mobile-seemore" href="http://umbc.edu/shadygrove/bigevent" target="_blank">&raquo;</a>
+<div class="title">Mark Your Calendars: The Big Event</div>
+<div class="tagline">Be part of UMBC's Big Event - A Day of Service benefitting local organizations working with abuse victims, children and the elderly. Make a difference in our Shady Grove community right here on campus! 
 </div>
-<a class="web-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">Parking Website &raquo;</a>
+<a class="web-seemore" href="http://umbc.edu/shadygrove/bigevent" target="_blank">RSVP &raquo;</a>
 </div>
 </a>
 </div>
 
 
 <div class="panel panel-4">
-<a href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/katie_morris.jpg" alt="4"></div>
+<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
+<div class="image mobile-left"><img src="images_homepage/10.jpg" alt="4"></div>
 <div class="content-details left">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">&raquo;</a>
-<div class="title">Visit with our Program Directors!</div>
-<div class="tagline">Meet our Program Directors and current students to learn about our undergraduate programs in History, Political Science, Psychology & Social Work and how a UMBC degree may best fit YOU!</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/infosession/pd" target="_blank">RSVP Today! &raquo;</a>
+<a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">&raquo;</a>
+<div class="title">Advanced Registration Begins this Week!</div>
+<div class="tagline">The Fall 2017 advanced registration period is here! Check the link for your earliest registration date. Remember, the secret to having a perfect schedule is early planning!</div>
+<a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">When can you register? &raquo;</a>
 </div>
 </a>
-</div>  
+</div>
+  
 
 <!-- Hide Carousels --
+
+  
   <div class="panel panel-6">
 <div class="image mobile-left"><img src="images_homepage/6.jpg" alt="6"></div>
 <div class="content-details right">
@@ -186,10 +188,14 @@
 
 <li class="item-2"><img src="images_homepage/3_tmb.jpg" alt="2"></li>
 
+<li class="item-3"><img src="images_homepage/tbelogo_tmb.jpg" alt="3"></li>
+
+<li class="item-4"><img src="images_homepage/10_tmb.jpg" alt="4"></li>
+
+<!-- Hide Preview Images --
 <li class="item-3"><img src="images_homepage/parking-small.jpg" alt="3"></li>
 <li class="item-4"><img src="images_homepage/katie_morris_tmb.jpg" alt="4"></li>
 
-<!-- Hide Preview Images --
 <li class="item-6"><img src="images_homepage/6_tmb.jpg" alt="6"></li>
 --> 
 </ul></div>

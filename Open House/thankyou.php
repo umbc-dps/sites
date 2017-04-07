@@ -141,7 +141,7 @@ BEGIN MAIN
     <h3><a href="index"><img src="images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
     
     <h5 style="font-weight:bold">Date:</h5>
-<h6>Saturday, April 1, 10:00AM - 12:00PM</h5>
+<h6>Wednesday, June 21, 6:00PM - 7:30PM</h5>
 <br>
 
 <h5 style="font-weight:bold">Location:</h5>
@@ -152,8 +152,8 @@ BEGIN MAIN
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">04/01/2017 10:00 AM</span>
-    <span class="end">04/01/2017 12:00 PM</span>
+    <span class="start">06/21/2017 6:00 PM</span>
+    <span class="end">06/21/2017 7:30 PM</span>
     <span class="timezone">America/New_York</span>
     <span class="title">UMBC Professional Programs Open House</span>
     <span class="description">Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</span>
@@ -166,7 +166,7 @@ BEGIN MAIN
 </center>
  
  <h3 style="font-weight:bold">Thank you!</h3>
- <p>Thank you for registering for the UMBC Professional Programs Open House. Your submission is confirmed and we look forward to seeing you at the event. A reminder email with more details on directions and the session will be sent to you two weeks prior to the Open House. To learn more about our programs in the meantime, visit: <a href="http://professionalprograms.umbc.edu">umbc.edu/professionalprograms</a>.</p>
+ <p>Thank you for registering for the UMBC Professional Programs Open House. Your submission is confirmed and we look forward to seeing you at the event. A reminder email with more details on directions and the session will be sent to you prior to the Open House. To learn more about our programs in the meantime, visit: <a href="http://professionalprograms.umbc.edu">umbc.edu/professionalprograms</a>.</p>
  
  <p>
  <center>
@@ -251,6 +251,8 @@ twq('init','nwcd3');
 twq('track','PageView');
 </script>
 <!-- End Twitter universal website tag code -->
+
+
 
 
 </body>

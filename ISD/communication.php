@@ -90,34 +90,64 @@
 !------------------------->
 
 
-<!------- Accordion 2 ------
+<!------- Accordion 2 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    3/23/2017 - Fall 2017 Advising And Registration Instructions
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong><u><span id="m_-8476620209658189905:22x.262">Pre</span>-Advising Instructions</u></strong><strong>:</strong></p>
+    <p><strong>Courses by Semester:</strong> Look for tentative long range schedule options, <a href="http://www.umbc.edu/isd/schedule#sequence" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.umbc.edu/isd/schedule%23sequence&source=gmail&ust=1490381488908000&usg=AFQjCNFVQHP9rsQLrscW-5UBX2OSe1tipQ">http://www.<span id="m_-8476620209658189905:22x.263">umbc</span>.<span id="m_-8476620209658189905:22x.264">edu</span>/<span id="m_-8476620209658189905:22x.265">isd</span>/schedule#sequence</a></p>
+    <p><strong>Course Descriptions and Prerequisites:</strong> <a href="http://www.umbc.edu/isd/courses" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.umbc.edu/isd/courses&source=gmail&ust=1490381488908000&usg=AFQjCNHC4bskd-nXUjOIAHjd0OShFyEfyA">http://www.<span id="m_-8476620209658189905:22x.266">umbc</span>.<span id="m_-8476620209658189905:22x.267">edu</span>/<span id="m_-8476620209658189905:22x.268">isd</span>/courses</a></p>
+    <p><strong>Advising Form and Process: </strong><a href="http://www.umbc.edu/isd/advising" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.umbc.edu/isd/advising&source=gmail&ust=1490381488908000&usg=AFQjCNF_0l-Ha-01cAw_CdaVQDvWTwaJuQ">http://www.<span id="m_-8476620209658189905:22x.269">umbc</span>.<span id="m_-8476620209658189905:22x.270">edu</span>/<span id="m_-8476620209658189905:22x.271">isd</span>/advising</a> Be sure your form is completely and correctly filled out. Blank and incomplete forms have been sent in the past, delaying advising. </p>
+    <p><strong>Applying for Graduation, Comprehensive Exam Dates and Portfolio Information: </strong><a href="http://www.umbc.edu/isd/graduation" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.umbc.edu/isd/graduation&source=gmail&ust=1490381488908000&usg=AFQjCNEBV0f7BZiM_BGCmpaPg9BdpsVStQ">http://www.<span id="m_-8476620209658189905:22x.272">umbc</span>.<span id="m_-8476620209658189905:22x.273">edu</span>/<span id="m_-8476620209658189905:22x.274">isd</span>/graduation</a> Fall online graduation applications open July 1st </p>
+    <p><strong>Holds: </strong>Make sure you do not have any holds on your account. A hold will prevent you from registering. <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=https://wiki.umbc.edu/pages/viewpage.action?pageId%3D31198450&source=gmail&ust=1490381488908000&usg=AFQjCNHFsTG9xkRq-HUGtZdzmvZfJHVagQ">https://wiki.<span id="m_-8476620209658189905:22x.275">umbc</span>.<span id="m_-8476620209658189905:22x.276">edu</span>/pages/<span id="m_-8476620209658189905:22x.277">viewpage</span>.action?<span id="m_-8476620209658189905:22x.278">pageId</span>=31198450</a><u> </u></p>
+    <p><strong>E-Billing Schedule:</strong> <a href="http://sbs.umbc.edu/billing/e-billing-schedule/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://sbs.umbc.edu/billing/e-billing-schedule/&source=gmail&ust=1490381488908000&usg=AFQjCNFF8Fbj2vjQWkAHGPjWLbodEhyGUw">http://<span id="m_-8476620209658189905:22x.279">sbs</span>.<span id="m_-8476620209658189905:22x.280">umbc</span>.<span id="m_-8476620209658189905:22x.281">edu</span>/billing/e-billing-schedule/</a>    </p>
+    <p><strong>Fall 2017 Academic Calendar</strong>: <a href="http://registrar.umbc.edu/files/2017/02/Fall-2017-Academic-Calendar_Final_posted02.08.pdf" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://registrar.umbc.edu/files/2017/02/Fall-2017-Academic-Calendar_Final_posted02.08.pdf&source=gmail&ust=1490381488909000&usg=AFQjCNFvoA75COssA7wxWw7IN4g5DI2CvA">http://registrar.<span id="m_-8476620209658189905:22x.282">umbc</span>.<span id="m_-8476620209658189905:22x.283">edu</span>/files/2017/02/Fall-2017-Academic-Calendar_Final_posted02.08.<span id="m_-8476620209658189905:22x.284">pdf</span></a></p>
+    <p><strong>Fall 2017 Drop/Withdrawal Schedule</strong>: <a href="http://sbs.umbc.edu/drop-and-withdrawal/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://sbs.umbc.edu/drop-and-withdrawal/&source=gmail&ust=1490381488909000&usg=AFQjCNGWZdK4Dm72_5DQcsvO7RJooCO5Fw">http://<span id="m_-8476620209658189905:22x.285">sbs</span>.<span id="m_-8476620209658189905:22x.286">umbc</span>.<span id="m_-8476620209658189905:22x.287">edu</span>/drop-and-withdrawal/</a> (Fall 2017 is not posted as of 3.23.17)    </p>
+    <p><strong><u>Fall 2017 Registration Instructions </u></strong></p>
+    <p><strong>Review the Fall 2017 Schedule Prior to Sending Authorization Requests</strong>. <a href="http://www.umbc.edu/isd/schedule" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.umbc.edu/isd/schedule&source=gmail&ust=1490381488909000&usg=AFQjCNG12rCUUOD1cO3Zf2qO0uiiZr23jw">http://www.<span id="m_-8476620209658189905:22x.288">umbc</span>.<span id="m_-8476620209658189905:22x.289">edu</span>/<span id="m_-8476620209658189905:22x.290">isd</span>/schedule</a> (Multiple semesters may be listed, make sure you are viewing the correct semester). </p>
+    <p>(Registration is a three-step process) </p>
+    <ol start="1" type="1">
+      <li><strong>Advising:</strong> All students must contact Dr. <span id="m_-8476620209658189905:22x.291">Hodell</span>, <a href="mailto:hodell@umbc.edu" target="_blank"><span id="m_-8476620209658189905:22x.292">hodell</span>@<span id="m_-8476620209658189905:22x.293">umbc</span>.<span id="m_-8476620209658189905:22x.294">edu</span></a>, to receive academic advising, every semester. Advising request forms must be sent by email. Please allow Dr. <span id="m_-8476620209658189905:22x.295">Hodell</span> 7 - 10 days to review and approve your course selections. Be sure to send your finalized form only. (See link above for advising form and instructions).<strong> </strong></li>
+      <li><strong>Authorization:</strong> After Dr. <span id="m_-8476620209658189905:22x.296">Hodell</span> approves your course selection, your authorization will be entered into the registration system.<strong> </strong></li>
+      <li><strong>Online Registration:</strong> After students are authorized, they may register online via <span id="m_-8476620209658189905:22x.297">myUMBC</span> according to the dates below. Authorization does not guarantee a seat in a course. Students must register online and are advised to do so as soon as possible. Instructions for how to register online may be found here: <a href="http://registrar.umbc.edu/services/registration/Information-About-Registration/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://registrar.umbc.edu/services/registration/Information-About-Registration/&source=gmail&ust=1490381488909000&usg=AFQjCNHKcZzJ2xY3Fj8DmCqo9oSycSQlOQ">http://registrar.<span id="m_-8476620209658189905:22x.298">umbc</span>.<span id="m_-8476620209658189905:22x.299">edu</span>/services/registration/Information-About-Registration/</a><strong> </strong></li>
+    </ol>
+    <p><strong>Registration Schedule: </strong></p>
+    <p><strong>April 3, 2017: </strong>Registration begins for Current Masters and Certificate Students. </p>
+    <p><strong>June 1, 2017: </strong>Registration begins for New Masters and Certificate Students.<strong> </strong></p>
+    <p><strong>August 23, 2017: </strong>Registration begins for Non-Degree Students    </p>
+    <p><strong>Wait List:</strong> <span id="m_-8476620209658189905:22x.300">ISD</span> courses automatically have the Student Administration (SA) System hold any wait lists. The <span id="m_-8476620209658189905:22x.301">ISD</span> department cannot prioritize the wait list, nor can we override the wait list. <a href="https://wiki.umbc.edu/display/sa/Student+FAQ-+Waitlists" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=https://wiki.umbc.edu/display/sa/Student%2BFAQ-%2BWaitlists&source=gmail&ust=1490381488909000&usg=AFQjCNFF4NQflLi6gCUG5fRPT3-lEMdN0A">https://wiki.<span id="m_-8476620209658189905:22x.302">umbc</span>.<span id="m_-8476620209658189905:22x.303">edu</span>/display/<span id="m_-8476620209658189905:22x.304">sa</span>/Student+FAQ-+<span id="m_-8476620209658189905:22x.305">Waitlists</span></a>.    </p>
+    <p><strong>Authorization Information and Notes:</strong></p>
+    <p>If you have not sent your summer requests to date, you may now send your summer and fall at the same time on one form.    </p>
+    <p>The <span id="m_-8476620209658189905:22x.306">ISD</span> Department will enter authorizations for students who request them and are approved. This will result in some courses having more authorizations issued than available seats in a course. We will also continue to give authorization to courses that are full.    </p>
+    <p>Students interested in EDUC 792T and EDUC 794 should contact Dr. Williams directly at <a href="mailto:gregw@umbc.edu" target="_blank"><span id="m_-8476620209658189905:22x.307">gregw</span>@<span id="m_-8476620209658189905:22x.308">umbc</span>.<span id="m_-8476620209658189905:22x.309">edu</span></a> prior to requesting authorization to discuss their internship or final project. You must include in your email to Dr. <span id="m_-8476620209658189905:22x.310">Hodell</span> that you have spoken to Dr. Williams before Dr. <span id="m_-8476620209658189905:22x.311">Hodell</span> will approve.<br>
+    </p>
+    <p>Textbooks are currently only posted for summer courses.</p>
 </div>
-!------------------------->
 
 
-<!------- Accordion 3 ------
+
+<!------- Accordion 3 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
-    
-    <i class="fa fa-angle-down"></i>
-    </h4>
+    3/17/2017 - Summer Registration Reminders</h4>
 </div>
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>Summer online registration is in full swing. Do not miss getting in a course you want because you requested authorization and/or registered online too late.</strong> View the February 21, 2017, registration instruction email here, <a href="http://www.umbc.edu/isd/communication" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://www.umbc.edu/isd/communication&source=gmail&ust=1490384775911000&usg=AFQjCNEF4YRwYZwyzb8OKlu1qPy1H6WZxw">http://www.<span id="m_98332598530399682:4nw.1">umbc</span>.<span id="m_98332598530399682:4nw.2">edu</span>/<span id="m_98332598530399682:4nw.3">isd</span>/communication</a>.    </p>
+    <p><strong>Top Reasons You Are Not Able to Register Online for Summer Courses: </strong></p>
+    <p>·        Holds: You have a hold on your account: <a href="https://wiki.umbc.edu/pages/viewpage.action?pageId=31198450" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=https://wiki.umbc.edu/pages/viewpage.action?pageId%3D31198450&source=gmail&ust=1490384775911000&usg=AFQjCNHgJ02sjr0bSQD732WHynUCJV6J_g">https://wiki.<span id="m_98332598530399682:4nw.4">umbc</span>.<span id="m_98332598530399682:4nw.5">edu</span>/pages/<span id="m_98332598530399682:4nw.6">viewpage</span>.action?<span id="m_98332598530399682:4nw.7">pageId</span>=31198450</a></p>
+    <p>·        Selection: Authorization is section and semester specific. Make sure you are selecting the correct semester and section for your authorization. </p>
+    <p>·        Plan of Study: You are not in the required plan of study. Some courses are reserved for students in that certificate or Master&rsquo;s plan of study only (until closer to the semester start date.) If you do not have that plan on your student record, you may be blocked from online registration. </p>
+    <p>·        Authorization: Your authorization has not been entered to date. Please give enough time, after Dr. Hodell&rsquo;s approval for everything to be entered. </p>
+    <p>·        Advising: You did not complete the advising process. An advising form must be sent every semester for course approval.</p>
 </div>
-!------------------------->
+
 
 
 <!------- Accordion 4 ------>

@@ -2,14 +2,18 @@
       <h3 style="color:#fff;">Upcoming Event</h3>
       <p style="text-align:center">
 		<strong>Program Exploration Open House</strong><br>
-Saturday, April 1, 10:00AM - 12:00PM<br>
-<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=hit_sidebar" class="btn">Save Your Spot!</a>
+Wednesday, June 21, 6:00PM - 7:30PM<br>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=hit_sidebar" class="btn">Save Your Spot!</a>
+
+<!--
 <hr style="margin-bottom:0px">
 		<p style="text-align:center">
 		<strong>Lunch & Learn</strong><br>
 Wednesday, March 8, 12:00PM - 1:00PM<br>
 <a href="http://umbc.edu/hit/infosession" class="btn">RSVP NOW!</a>
 	</p>
+    
+    -->
     </aside>
 
 

@@ -3,7 +3,7 @@
 <head>
 <meta name="google-site-verification" content="iNv2dm65X5VqSZjqdgzOM8zkHZU8bwycQ0ihWPQU3QA" />
   
-<META http-equiv="REFRESH" content="1;URL=http://www.umbc.edu/openhouse?utm_source=umbc.edu/rsvp&utm_medium=offline&utm_campaign=spring2017&utm_content=redirect">
+<META http-equiv="REFRESH" content="1;URL=http://www.umbc.edu/openhouse?utm_source=umbc.edu/rsvp&utm_medium=offline&utm_campaign=summer2017&utm_content=redirect">
 
 <?php include("includes/tracking.php"); ?>
     

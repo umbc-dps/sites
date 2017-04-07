@@ -76,6 +76,36 @@
 #notaccordion .button:hover {background:#E8AB22;}
 #notaccordion .gold{  background:#E8AB22;  color:#000; border:1px solid #ffc20e; }
 #notaccordion .gold:hover{background:#414042; color:#fff;}
+
+#notaccordion .na-body #notaccordion .na-header{
+	font-weight:normal!important;
+}
+
+.header-title span.v-center {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+.header-title a{
+	color: #FFF!important;
+	display:block;
+	background-color:rgba(0,0,0,.5);
+	text-decoration:none!important;
+}
+
+.header-title{
+	background-image:url('../images/market2_xlg.jpg');
+	background-size:cover;
+	font-size:300%;
+	font-weight: bold;
+	background-color:  #000;
+	height: 250px;
+	line-height:250px;
+	text-align:center;
+	background-color:#FFF;
+}
+
 </style>
 
 </head>
@@ -96,26 +126,35 @@
   <!-- END gold toolbar --> 
  </div>
 </div>
+
 <!-- BEGIN MAIN -->
 <div class="container column" id="main">
   <div  id="winter-heading">
     <a href="http://www.umbc.edu/summer/specialprograms">
-    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FFBD21">
-    <img src="../images/specialprograms-health.png" style="width:100%">
+    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FEBA22">
+    <img src="../images/summer-specialprograms-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
-
 <div class="sixteen columns" style="padding-top:1em;">
+<div align="right"><strong><a href="http://umbc.edu/summer/specialprograms">&lt; Back to All Special Programs</a></strong></div>
+<h4><strong><em>Learn how to make a difference - make this summer count!</em></strong></h4>
 
 <!-- Start Content --> 
+  <div class="header-title" style="margin:0px; width:100%">
+      <a href="#">
+        <span class="v-center">
+            Health & Social Inequalities
+        </span>
+      </a>
+  </div>
 
-<img src="../images/market2_xlg.jpg" style="width:100%">
-<h2>Health & Social Inequalities</h2>
-<p>It is increasingly clear that social, psychological, economic, and institutional inequalities act as powerful predictors of both health outcomes and quality of life. Health & Social Inequalities courses identify how important social factors influence individual health behaviors, health conditions, longevity and mortality, and provide a framework for thinking about health “outside the traditional box” of a medical model. </p>
+<br>
+<p>Social dimensions of health address the conditions in which people are born, live, work and age beyond the biological and genetic level.  It is increasingly clear that social, psychological, economic, and institutional inequalities act as powerful predictors of both health outcomes and quality of life. Health & Social Inequalities courses identify how important social factors influence individual health behaviors, health conditions, longevity and mortality, and provide a framework for thinking about health “outside the traditional box” of a medical model.</p>
 
 
+<h4><strong>Courses by Subject</strong></h4>
 <div id="notaccordion">
 	<h3 class="na-header"><a href="#AGNG" id="AGNG"></a>Aging (AGNG)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
@@ -176,10 +215,23 @@
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1021">Register</a></center>
 				</div>
 			</div>
-            
-
-            
 		</div>
+
+
+
+	<h3 class="na-header"><a href="#LLC" id="LLC"></a>Language Literacy & Culture (LLC)<i class="fa fa-angle-down"></i></h3>
+		<div class="na-body">
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#LLC606" id="LLC606"></a>LLC 606: Social Inequality and Social Policy<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                <p>This course examines poverty and inequality in modern society. The focus is on describing the extent of poverty and inequality, examining theories that attempt to explain these phenomena and discussing the policies that have been employed to mitigate them. The course also considers racial and gender inequality. </p>
+					<p class="na-details">6W1 – Tues/Thur 6-9:10 pm<br>Nicole Cousin-Gossett</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1200">Register</a></center>
+				</div>
+			</div>
+		</div>
+
+
 
 
 	<h3 class="na-header"><a href="#PSYC" id="PSYC"></a>Psychology (PSYC)<i class="fa fa-angle-down"></i></h3>
@@ -293,7 +345,7 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
 			</div>
             
            <div id="notaccordion">
-				<h3 class="na-header"><a href="#SOCY497" id="SOCY497"></a>SOCY 497 / SOCY 698: Health and Human Rights<i class="fa fa-angle-down"></i></h3>
+				<h3 class="na-header"><a href="#SOCY497" id="SOCY497"></a>SOCY 497: Health and Human Rights<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>In the last couple of decades health professionals around the world have promoted human rights-based approaches to guide health system analysis and health policy. In this course, students will learn components of health and human rights programs and understand principles of and links between health and human rights. Students will evaluate health policies and programs from a human rights perspective. Examples of human rights approaches to health will be given in both developed and developing countries. In addition, students will examine the benefits of health and human rights programs as well as the problems and conflicts associated with such programs.</p>
 					<p class="na-details">6W2 – HYBRID Mon 6-9:10 pm<br>Ilsa Lottes</p>
@@ -302,11 +354,20 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
 			</div>
             
            <div id="notaccordion">
-				<h3 class="na-header"><a href="#SOCY606" id="SOCY606"></a>SOCY 606 / LLC 606: Social Inequality and Social Policy<i class="fa fa-angle-down"></i></h3>
+				<h3 class="na-header"><a href="#SOCY606" id="SOCY606"></a>SOCY 606: Social Inequality and Social Policy<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>This course examines poverty and inequality in modern society. The focus is on describing the extent of poverty and inequality, examining theories that attempt to explain these phenomena and discussing the policies that have been employed to mitigate them. The course also considers racial and gender inequality. </p>
 					<p class="na-details">6W1 – Tues/Thur 6-9:10 pm<br>Nicole Cousin-Gossett</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1006">Register</a></center>
+				</div>
+			</div>
+            
+           <div id="notaccordion">
+				<h3 class="na-header"><a href="#SOCY698" id="SOCY698"></a>SOCY 698: Health and Human Rights<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>In the last couple of decades health professionals around the world have promoted human rights-based approaches to guide health system analysis and health policy. In this course, students will learn components of health and human rights programs and understand principles of and links between health and human rights. Students will evaluate health policies and programs from a human rights perspective. Examples of human rights approaches to health will be given in both developed and developing countries. In addition, students will examine the benefits of health and human rights programs as well as the problems and conflicts associated with such programs.</p>
+					<p class="na-details">6W2 – HYBRID Mon 6-9:10 pm<br>Ilsa Lottes</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2641">Register</a></center>
 				</div>
 			</div>
              

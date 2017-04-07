@@ -119,7 +119,7 @@ only screen and (max-width: 1023px),
      
      <br>
 
-<h4 style="text-align:center">The Universities at Shady Grove (USG) Open House is taking place<br> <strong>Saturday, October 29th</strong> from <strong>8:30am-12:00pm.</strong></h4>
+<h4 style="text-align:center">The Universities at Shady Grove (USG) Open House is taking place<br> <strong>Saturday, April 22nd</strong> from <strong>8:30am-12:00pm.</strong></h4>
 
 <br>
 
@@ -131,12 +131,11 @@ only screen and (max-width: 1023px),
 
 <ul>
   <li>Visit with our Program Directors! At the USG Open House, you will have an opportunity to meet and discuss your next steps in the transfer process with our <strong>History, Political Science, Psychology,</strong> and <strong>Social Work Program Directors</strong>.  </li>
-  <li>Interested in applying to one of UMBC-Shady Grove's undergraduate programs for Spring 2017? Meet with Chelsea Moyer,  Assistant Director of Undergraduate Recruitment and Retention, from <strong>10:30am-11:30am (Building III, Room 3211) </strong>to receive assistance in beginning your Common Application!</li>
-  <li>Additionally, if you would like in-depth, step-by-step information regarding the transfer process, application, and admission process as well as financial aid and scholarship opportunities, UMBC-Shady Grove will be hosting an <strong>Undergraduate Information Session</strong> on October 29th following the Open House from <strong>12:30pm-1:30pm</strong> in the <strong>Camille Kendall Academic Center (Building III), Room 3156</strong>.</li> 
+  <li>If you would like in-depth, step-by-step information regarding the transfer process, application, and admission process as well as financial aid and scholarship opportunities, UMBC-Shady Grove will be hosting an <strong>Undergraduate Information Session</strong> on April 22nd following the Open House from <strong>12:30pm-1:30pm</strong> in the <strong>Camille Kendall Academic Center (Building III), Room 3156</strong>.</li> 
 </ul> 
 
 <p style="text-align:center">
-<a href="https://shadygrove.askadmissions.net/Portal/EI/Registration?gid=623577be02fcccb9f145b5a16c1a01b3c9aea7&__utma=251398980.201769580.1471963298.1476384250.1476384257.60&__utmb=251398980.2.10.1476384257&__utmc=251398980&__utmx=-&__utmz=251398980.1476384257.60.11.utmcsr=carousel%7Cutmccn=open%20house%20fall%202016%7Cutmcmd=carousel%20undergrad%20oh&__utmv=251398980.anonymous%20user%7C1=User%20roles=anonymous%20user=1&__utmk=249306948" class="button" target="_blank" style="font-size:150%">RSVP For the General USG Open House</a>
+<a href="https://shadygrove.umd.edu/admissions-aid/visit-usg/undergraduate-open-house" class="button" target="_blank" style="font-size:150%">RSVP For the General USG Open House</a>
 </p>
 
 <p style="text-align:center"> 

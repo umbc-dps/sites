@@ -67,7 +67,11 @@
 	padding:5px; 
 	line-height:14pt
 	}
-	
+
+#notaccordion .na-body #notaccordion .na-header{
+	font-weight:normal!important;
+}
+
 #notaccordion .na-body .na-header, #notaccordion .na-body .na-body{margin-left:25px;}
 #notaccordion .na-details{font-weight:bold}
 #notaccordion .na-body ul li {list-style:square}
@@ -76,6 +80,46 @@
 #notaccordion .button:hover {background:#E8AB22;}
 #notaccordion .gold{  background:#E8AB22;  color:#000; border:1px solid #ffc20e; }
 #notaccordion .gold:hover{background:#414042; color:#fff;}
+
+.header-title span.v-center {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+.header-title a{
+	color: #FFF!important;
+	display:block;
+	background-color:rgba(0,0,0,.5);
+	text-decoration:none!important;
+}
+
+.header-title{
+	background-image:url(../images/baltimore_xlg.jpg);
+	background-size:cover;
+	font-size:300%;
+	font-weight: bold;
+	background-color:  #000;
+	height: 250px;
+	line-height:250px;
+	text-align:center;
+	background-color:#FFF;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 50%; // (450 ÷ 500 = 0.9 = 90%)
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60%;
+}
+
 </style>
 
 </head>
@@ -96,26 +140,34 @@
   <!-- END gold toolbar --> 
  </div>
 </div>
+
 <!-- BEGIN MAIN -->
 <div class="container column" id="main">
   <div  id="winter-heading">
     <a href="http://www.umbc.edu/summer/specialprograms">
-    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FFBD21">
-    <img src="../images/specialprograms-baltimore.png" style="width:100%">
+    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FEBA22">
+    <img src="../images/summer-specialprograms-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
-
 <div class="sixteen columns" style="padding-top:1em;">
+<div align="right"><strong><a href="http://umbc.edu/summer/specialprograms">&lt; Back to All Special Programs</a></strong></div>
+<h4><strong><em>Learn how to make a difference - make this summer count!</em></strong></h4>
 
 <!-- Start Content --> 
+  <div class="header-title" style="margin:0px; width:100%">
+      <a href="#">
+        <span class="v-center">
+            Discover Baltimore
+        </span>
+      </a>
+  </div>
 
-<img src="../images/baltimore_xlg.jpg" style="width:100%">
-<h2>Discover Baltimore</h2>
-<p>Enroll in courses designed specifically to deepen your knowledge of the history, art, politics, and culture of the city. Take those credits out of the classroom and make the city your home this summer!</p>
+<br>
+<p>Baltimore, our "neighbor to the north," offers wide-ranging opportunities as a living classroom where you can discover many facets of this historic and complex city. Enroll in courses designed specifically to deepen your knowledge of the history, art, politics, and culture of the city. Take those credits out of the classroom and make the city your home this summer!</p>
 
-
+<h4><strong>Courses by Subject</strong></h4>
 <div id="notaccordion">
 	<h3 class="na-header"><a href="#ANTH" id="ANTH"></a>Anthropology (ANTH)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
@@ -149,19 +201,30 @@
 			</div>
 		</div>  
 
-	<h3 class="na-header"><a href="#GWST-AMST" id="GWST-AMST"></a>Gender & Women's Studies (GWST)/American Studies (AMST)<i class="fa fa-angle-down"></i></h3>
+	<h3 class="na-header"><a href="#AMST" id="AMST"></a>American Studies (AMST)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
 			<div id="notaccordion">
-				<h3 class="na-header"><a href="#AMST310" id="AMST310"></a>GWST 310/AMST 310: Gender and Inequality<i class="fa fa-angle-down"></i></h3>
+				<h3 class="na-header"><a href="#AMST310" id="AMST310"></a>AMST 310: Gender and Inequality<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>Explore core concepts in gender studies and histories of inequality through a series of case studies rooted in issues facing Baltimore City: housing and city development; labor, immigration, and incarceration; and LGBT neighborhood cities. You’ll learn about these current issues through applied experiences in the city while examining the ways in which gender roles and gender relations are constructed and experienced in American society. Special attention is paid to the ways in which gender-based experiences are divided by other social relations, particularly those of class, race and age. Recommended preparation: One lower-level social sciences or humanities course focused on American society or culture.</p>
 					<p class="na-details">6W1 – HYBRID Mon 1-4:10 pm<br>Lion Brothers Bldg<br>GEP - AH<br>Kate Drabinski</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2652">Register</a></center>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1894">Register</a></center>
 				</div>
 			</div>
 		</div>  
 
 
+	<h3 class="na-header"><a href="#GWST" id="GWST"></a>Gender & Women's Studies (GWST)<i class="fa fa-angle-down"></i></h3>
+		<div class="na-body">
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#GWST310" id="AMST310"></a>GWST 310: Gender and Inequality<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>Explore core concepts in gender studies and histories of inequality through a series of case studies rooted in issues facing Baltimore City: housing and city development; labor, immigration, and incarceration; and LGBT neighborhood cities. You’ll learn about these current issues through applied experiences in the city while examining the ways in which gender roles and gender relations are constructed and experienced in American society. Special attention is paid to the ways in which gender-based experiences are divided by other social relations, particularly those of class, race and age. Recommended preparation: One lower-level social sciences or humanities course focused on American society or culture.</p>
+					<p class="na-details">6W1 – HYBRID Mon 1-4:10 pm<br>Lion Brothers Bldg<br>GEP - AH<br>Kate Drabinski</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1158">Register</a></center>
+				</div>
+			</div>
+		</div>  
 
 	<h3 class="na-header"><a href="#HIST" id="HIST"></a>History (HIST)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
@@ -191,24 +254,17 @@
 
 <hr>
 
-<h3>Lion Brothers Building</h3>
-<p>Some summer classes will regularly meet downtown in The Lion’s Brothers Building (UMBC’s new city classroom near Hollins Market) where you can actively learn and discover first-hand what makes Baltimore such a unique and special city.  </p>
+<h3><strong>Lion Brothers Building</strong></h3>
+<p>Some  classes will regularly meet downtown in The Lion&rsquo;s Brothers Building (UMBC&rsquo;s  new city classroom <a href="http://www.lionbrothersbaltimore.com/neighborhood/" target="_blank">near Hollins Market</a>) where you can actively learn and discover  first-hand what makes Baltimore such a unique and special city. The  Lion Brothers Building is located at <strong>875 Hollins Street</strong> at the corner of Hollins and Poppleton; across the street from the James  McHenry Elementary School and Recreation Center. The building is also close to  Café Gourmet, Zella&rsquo;s Pizzeria, Cup&rsquo;s Coffee House, and a branch of Harbor  Bank.</p>
 
-<div id="accordion">
-    <div class="accordionheader"><a href="#location" id="location"></a><h4>Location<i class="fa fa-angle-down"></i></h4></div>
-    <div class="accordionbody">The Lion Brothers Building is located at 875 Hollins Street at the corner of Hollins and Poppleton; across the street from the James McHenry Elementary School and Recreation Center. The building is just two blocks from Martin Luther King Jr. Boulevard (MLK), which provides easy access to I-295, I-95, and I-83. </div>
-    
-    <div class="accordionheader"><a href="#tranportation" id="tranportation"></a><h4>Transportation/Parking<i class="fa fa-angle-down"></i></h4></div>
-    <div class="accordionbody"><strong>By public transportation:</strong> The Lion Brothers Building is accessible from campus by <a href="http://www.umbc.edu/transit/routes/downtown.php" target="_blank">UMBC’s Downtown Shuttle</a>, local bus lines, as well as the <a href="http://www.charmcitycirculator.com/route/orange" target="_blank">Charm City Circulator</a>. <br><br>
-<strong>By car:</strong> There is street parking (free and metered) along the residential roads around the Lion Brothers Building. Students may also park on the UMBC campus (with valid parking permit) and ride the Downtown Shuttle. </div>
-
-
-	<div class="accordionheader"><a href="#amenities" id="amenities"></a><h4>Amenities<i class="fa fa-angle-down"></i></h4></div>
-    <div class="accordionbody">The Lion Brothers Building is <a href="http://www.lionbrothersbaltimore.com/neighborhood/" target="_blank">located close to the Hollins Market</a>, Café Gourmet, Zella’s Pizzeria, Cup’s Coffee House, and a branch of Harbor Bank. </div>
-
-</div>
+<h4>Transportation</h4>
+<p>Just two blocks from Martin Luther King Jr. Boulevard (MLK), with easy access to I-295, I-95, and I-83, the Lion Brothers Building is accessible from campus by <a href="http://www.umbc.edu/transit/routes/downtown.php" target="_blank">UMBC’s Downtown Shuttle</a>, local bus lines, as well as the <a href="http://www.charmcitycirculator.com/route/orange" target="_blank">Charm City Circulator</a>.   There is also street parking (free and metered) along the residential roads around the Lion Brothers Building. Students may also park on the UMBC campus (with valid parking permit) and ride the Downtown Shuttle.</p>
 <br>
 
+ <div class="google-maps">     
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3088.0288247667327!2d-76.63377318430003!3d39.287596831453435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c80357a6ca26cf%3A0xc79e91d3bd614c59!2s875+Hollins+St%2C+Baltimore%2C+MD+21201!5e0!3m2!1sen!2sus!4v1490209487689" width="600" height="250" frameborder="0" style="border:0"></iframe>
+      </div>
+      
 </div>  
  
  

@@ -26,18 +26,65 @@
 <script src="../js/modernizr.custom.js"></script>
 
 <style>
-#mobile-site-menu-expander {display:none}
-form#ss-form {padding-left: 15%;}
-input#ss-submit {width: 85%;}
-div#ss-item{text-align:center}
-form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
-.ss-form-entry input, .ss-form-entry select { width: 85%; margin-bottom: 15px; }
-.ss-q-title{font-weight: bold}
-.ss-required-asterisk{text-align:right; font-style:italic; padding-right: 15%}
-.io, .gis{display:none}
-</style>
-</script>
 
+.io, .gis{display:none}
+
+@media only screen and (max-width: 799px)  {
+.container .eleven.columns{min-height:500px}
+/*#tfa_84-D, #tfa_418-D, #tfa_420-D{display:none}*/
+}
+@media only screen and (min-width: 800px) and (max-width: 1023px)  {
+.container .eleven.columns{min-height:500px}
+}
+
+.wFormContainer{height:500px}
+#form .wFormContainer{height:250px}
+#talks-form p strong{color:#FFF!important}
+#tfa_0-T, .supportInfo, div.lengthIndicator, #tfa_447-D{
+	display:none!important;
+}
+form#tfa_0, form#tfa_0 .section, form#tfa_0 label{background-color:transparent!important;}
+form#tfa_0 label, form#tfa_0 .section, form#tfa_0 input, form#tfa_0 div{
+	margin:0px!important;
+	padding:0px!important;
+}
+form#tfa_0 div{
+	width:100%;
+}
+form#tfa_0 input{
+	width:95%!important;
+	height:25px;
+}
+form#tfa_0 select{
+	width:95%!important;
+	height:25px;
+}
+form#tfa_0 textarea{
+	width:95%!important;
+	height:75px;
+}
+form#tfa_0{
+	margin-left:5%;
+}
+form#tfa_0 label{
+	font-weight: bold;
+	padding-top:10px!important;
+}
+form#tfa_0 input.primaryAction{
+	font-weight:bold;
+	margin-top:20px!important;
+	text-align:center!important;
+	display:block;
+	height:30px;
+	margin-right:500px!important;
+}
+.actions{
+	display:inline-block;
+	text-align:center!important;
+	margin-right:500px!important;
+}
+#four, .hide{display:none}
+</style>
 
 <link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
@@ -77,12 +124,13 @@ form#ss-form input, form#ss-form select{ font-size: 16pt; color: #000;}
   
 <!-- START Content --> 
 
-<?php include("../io/includes/rsvp.php"); ?> 
+<?php include("../includes/grad-infosession.php"); ?> 
+
 
 
 
 <!-- END Content -->
- </div></div></div>
+</div>
 
 <!-- SIDEBAR -->
  <?php include("includes/sidebar.php"); ?>
@@ -130,9 +178,37 @@ var vars = [], hash;
             vars[hash[0]] = hash[1];
         }
 }
-$("#entry_4").attr("value", vars['email']);
-$("#entry_2").attr("value", vars['first']);
-$("#entry_3").attr("value", vars['last']);
+var currentLocation = window.location.href.split('?')[0];
+$("#tfa_20").attr("value", vars['email']);
+$("#tfa_11").attr("value", vars['first']);
+$("#tfa_12").attr("value", vars['last']);
+$("#tfa_432").attr("value", vars['utm_campaign']);
+$("#tfa_428").attr("value", vars['utm_source']);
+$("#tfa_430").attr("value", vars['utm_medium']);
+$("#tfa_434").attr("value", vars['utm_content']);
+$("#tfa_436").attr("value", vars['utm_term']);
+$("#tfa_439").attr("value", currentLocation);
+</script>
+ 
+
+
+<script>
+$('#tfa_0').submit(function() {
+  ga('send', 'event', 'lead', 'submit', 'infosession');
+  fbq('track', 'CompleteRegistration');
+});
+ga(function(tracker) {
+  var clientId = tracker.get('clientId');
+  $("#tfa_437").attr("value", clientId)
+});
+</script>
+
+<script>
+/* Set Program */
+$('select#tfa_447').find('option').each(function(){
+         if($(this).text() == 'Cybersecurity')
+            this.selected = true;
+    });
 </script>
 
 <?php include("includes/sf-contact-inputs.php"); ?>

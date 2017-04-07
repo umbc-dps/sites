@@ -76,6 +76,36 @@
 #notaccordion .button:hover {background:#E8AB22;}
 #notaccordion .gold{  background:#E8AB22;  color:#000; border:1px solid #ffc20e; }
 #notaccordion .gold:hover{background:#414042; color:#fff;}
+
+#notaccordion .na-body #notaccordion .na-header{
+	font-weight:normal!important;
+}
+
+.header-title span.v-center {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+.header-title a{
+	color: #FFF!important;
+	display:block;
+	background-color:rgba(0,0,0,.5);
+	text-decoration:none!important;
+}
+
+.header-title{
+	background-image:url('../images/protest_xlg.jpg');
+	background-size:cover;
+	font-size:300%;
+	font-weight: bold;
+	background-color:  #000;
+	height: 250px;
+	line-height:250px;
+	text-align:center;
+	background-color:#FFF;
+}
+
 </style>
 
 </head>
@@ -96,28 +126,38 @@
   <!-- END gold toolbar --> 
  </div>
 </div>
+
 <!-- BEGIN MAIN -->
 <div class="container column" id="main">
   <div  id="winter-heading">
     <a href="http://www.umbc.edu/summer/specialprograms">
-    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FFBD21">
-    <img src="../images/specialprograms-csj.png" style="width:100%">
+    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FEBA22">
+    <img src="../images/summer-specialprograms-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
 
-
 <div class="sixteen columns" style="padding-top:1em;">
 
-<!-- Start Content --> 
+<div align="right"><strong><a href="http://umbc.edu/summer/specialprograms">&lt; Back to All Special Programs</a></strong></div>
 
-<img src="../images/csj-no-text.png" style="width:100%">
-<h2>Culture & Social Justice</h2>
-<p>This summer, explore a variety of timely courses that focus on the theme of culture and social justice. They offer a view of social issues and practices from various perspectives, including the intersectional analysis of race, class, and gender. </p>
+<h4><strong><em>Learn how to make a difference - make this summer count!</em></strong></h4>
 
+    <!-- Start Content --> 
+  <div class="header-title" style="margin:0px; width:100%">
+      <a href="#">
+        <span class="v-center">
+            Culture & Social Justice
+        </span>
+      </a>
+  </div>
 
+<br>
+<p>Courses in <em>Culture  &amp; Social Justice</em> help us to understand and analyze structural inequalities  while challenging us to envision and actively pursue a more just and better  future.  This summer, explore a variety  of timely courses that focus on the theme of culture and social justice. They  offer a view of social issues and practices from various perspectives,  including the intersectional analysis of race, class, and gender.</p>
+
+<h4><strong>Courses by Subject</strong></h4>
 <div id="notaccordion">
-	<h3 class="na-header"><a href="#AFST" id="AFST"></a>Africana Studies (AFST)<i class="fa fa-angle-down"></i></h3>
+  <h3 class="na-header"><a href="#AFST" id="AFST"></a>Africana Studies (AFST)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
 			<div id="notaccordion">
 				<h3 class="na-header"><a href="#AFST216" id="AFST216"></a>AFST 100: 
@@ -133,7 +173,7 @@ Introduction to the Black Experience<i class="fa fa-angle-down"></i></h3>
 			</div>
             
           <div id="notaccordion">
-				<h3 class="na-header"><a href="#AFST213" id="AFST213"></a>AFST 213/MLL 210: AFRICA: Culture and Development<i class="fa fa-angle-down"></i></h3>
+				<h3 class="na-header"><a href="#AFST213" id="AFST213"></a>AFST 213: AFRICA: Culture and Development<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                     <p>A general introduction to Africa’s culture and development using an interdisciplinary approach. It surveys African peoples and their cultures, languages, societies, and development. AFAST 213/MLL 210 emphasizes the interrelationship between Africa’s diverse geographical features, sociocultural practices and norms, languages, and its development. It presents an opportunity to examine the various forms of cultural and creative practices in contemporary Africa and how they have influenced socioeconomic and political transformation and development of the continent. Issues related to African environment, family and marriage, social organization, language, religion, political economy, as well as gender relations and how they have been shaped by internal and external forces/factors are discussed.</p>
                     <p><em>Note: In-class instruction: Mon/Wed/Fri week 1, 3; Monday in week 4. Online instruction: Mon/Wed/Fri week 2 and Wed/Fri in week 4.</em></p>
@@ -143,7 +183,7 @@ Introduction to the Black Experience<i class="fa fa-angle-down"></i></h3>
 			</div>
             
            <div id="notaccordion">
-				<h3 class="na-header"><a href="#AFST245" id="AFST245"></a>AFST 245 / MUSC 215
+				<h3 class="na-header"><a href="#AFST245" id="AFST245"></a>AFST 245:
 Introduction to Black Music<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                     <p>AFST 245 surveys the traditional music of Africans and delineates elements utilized in Black music of the western hemisphere. The course outlines the musical heterogeneity of Africans and allows students to gain greater understanding of African music and culture, its impact on the development of Black music in the Americas, and its influence on international trends in music. In this way, the humanist impulse at the center of African people's musical propensity will be revealed, and students' awareness will broaden and deepen in regards to the many genres, contexts, functions, and meanings of traditional African music.</p>
@@ -151,10 +191,21 @@ Introduction to Black Music<i class="fa fa-angle-down"></i></h3>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1567">Register</a></center>
 				</div>
 		  </div>
+          
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#AFST347" id="AFST347"></a>AFST 347: 
+Gender, Race, and Media<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>This course critically examines how ideologies of gender, race, class, ethnicity and sexuality are produced and disseminated in a range of media genres and forms such as film, television, music, advertising, news, visual and performing arts, the Internet, radio, and print media. As consumers and producers of media, students will learn to assess how media articulates, creates, and enforces identities and power. Students will practice tools of critical reading and thinking, such as textual analysis, visual discourse analysis, and the basics of media literacy. Recommended Preparation: GWST 100 and (200 or 210).</p>
+					<p class="na-details">6W1 – HYBRID Tues 1–4:10 pm<br>
+				  GEP - AH and C<br>Kathryn Kein </p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2646">Register</a></center>
+				</div>
+			</div>
 
 
            <div id="notaccordion">
-				<h3 class="na-header"><a href="#AFST370" id="AFST370"></a>AFST 370 / GWST 370:
+				<h3 class="na-header"><a href="#AFST370" id="AFST370"></a>AFST 370:
 Black Women in Cross-Cultural Perspective
 <i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
@@ -169,6 +220,28 @@ Black Women in Cross-Cultural Perspective
 
 	<h3 class="na-header"><a href="#AMST" id="AMST"></a>American Studies (AMST)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
+        
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#AMST210" id="AMST210"></a>AMST 210: Intro to Critical Sexuality Studies
+<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>An introduction to the field of critical sexuality studies. Using an interdisciplinary approach, the course conducts a critical inquiry into the historical precedents and theoretical frameworks necessary to understand the role of sexuality in shaping personal, social, economic, and political life. It focuses on patterns of subordination and exclusion based on individuals’ sexual practices and identities, explains the origins and persistence of those patterns, and considers ways of challenging them. Throughout the course, special attention will be given to intersections of sexuality with gender, race, ethnicity, religion, class, and disability.</p>
+					<p class="na-details">6W1 – HYBRID Wed 1–4:10 pm<br>GEP - C<br>GEP - SS<br>Kate Drabinsky</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2370">Register</a></center>
+				</div>
+			</div>
+            
+            
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#AMST310" id="AMST310"></a>AMST 310: Gender and Inequality<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>Explore core concepts in gender studies and histories of inequality through a series of case studies rooted in issues facing Baltimore City: housing and city development; labor, immigration, and incarceration; and LGBT neighborhood cities. You’ll learn about these current issues through applied experiences in the city while examining the ways in which gender roles and gender relations are constructed and experienced in American society. Special attention is paid to the ways in which gender-based experiences are divided by other social relations, particularly those of class, race and age. Recommended preparation: One lower-level social sciences or humanities course focused on American society or culture.</p>
+					<p class="na-details">6W1 – HYBRID Mon 1-4:10 pm<br>Lion Brothers Bldg<br>GEP - AH<br>Kate Drabinski</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1894">Register</a></center>
+				</div>
+			</div>
+            
+        
 			<div id="notaccordion">
 				<h3 class="na-header"><a href="#AMST352" id="AMST352"></a>AMST 352: American Culture in a Global Perspective: War and Terrorism in American Popular Culture<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
@@ -204,17 +277,17 @@ Black Women in Cross-Cultural Perspective
 	<h3 class="na-header"><a href="#GWST" id="GWST"></a>Gender & Women's Studies (GWST)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
 			<div id="notaccordion">
-				<h3 class="na-header"><a href="#GWST210" id="GWST210"></a>GWST 210 / AMST 210: Intro to Critical Sexuality Studies
+				<h3 class="na-header"><a href="#GWST210" id="GWST210"></a>GWST 210: Intro to Critical Sexuality Studies
 <i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>An introduction to the field of critical sexuality studies. Using an interdisciplinary approach, the course conducts a critical inquiry into the historical precedents and theoretical frameworks necessary to understand the role of sexuality in shaping personal, social, economic, and political life. It focuses on patterns of subordination and exclusion based on individuals’ sexual practices and identities, explains the origins and persistence of those patterns, and considers ways of challenging them. Throughout the course, special attention will be given to intersections of sexuality with gender, race, ethnicity, religion, class, and disability.</p>
 					<p class="na-details">6W1 – HYBRID Wed 1–4:10 pm<br>GEP - C<br>GEP - SS<br>Kate Drabinsky</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1042">Register</a></center>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2369">Register</a></center>
 				</div>
 			</div>
             
 			<div id="notaccordion">
-				<h3 class="na-header"><a href="#GWST310" id="GWST310"></a>GWST 310 / AMST 310: Gender and Inequality<i class="fa fa-angle-down"></i></h3>
+				<h3 class="na-header"><a href="#GWST310" id="GWST310"></a>GWST 310: Gender and Inequality<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>Explore core concepts in gender studies and histories of inequality through a series of case studies rooted in issues facing Baltimore City: housing and city development; labor, immigration, and incarceration; and LGBT neighborhood cities. You’ll learn about these current issues through applied experiences in the city while examining the ways in which gender roles and gender relations are constructed and experienced in American society. Special attention is paid to the ways in which gender-based experiences are divided by other social relations, particularly those of class, race and age. Recommended preparation: One lower-level social sciences or humanities course focused on American society or culture.</p>
 					<p class="na-details">6W1 – HYBRID Mon 1-4:10 pm<br>Lion Brothers Bldg<br>GEP - AH<br>Kate Drabinski</p>
@@ -224,7 +297,7 @@ Black Women in Cross-Cultural Perspective
             
             
 			<div id="notaccordion">
-				<h3 class="na-header"><a href="#GWST322" id="GWST322"></a>GWST 322 / AFST 347 / MLL 322: 
+				<h3 class="na-header"><a href="#GWST322" id="GWST322"></a>GWST 322: 
 Gender, Race, and Media<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>This course critically examines how ideologies of gender, race, class, ethnicity and sexuality are produced and disseminated in a range of media genres and forms such as film, television, music, advertising, news, visual and performing arts, the Internet, radio, and print media. As consumers and producers of media, students will learn to assess how media articulates, creates, and enforces identities and power. Students will practice tools of critical reading and thinking, such as textual analysis, visual discourse analysis, and the basics of media literacy. Recommended Preparation: GWST 100 and (200 or 210).</p>
@@ -233,8 +306,38 @@ Gender, Race, and Media<i class="fa fa-angle-down"></i></h3>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2624">Register</a></center>
 				</div>
 			</div>
+          
+           <div id="notaccordion">
+				<h3 class="na-header"><a href="#GWST370" id="GWST370"></a>GWST 370:
+Black Women in Cross-Cultural Perspective
+<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                    <p>AFST 245 surveys the traditional music of Africans and delineates elements utilized in Black music of the western hemisphere. The course outlines the musical heterogeneity of Africans and allows students to gain greater understanding of African music and culture, its impact on the development of Black music in the Americas, and its influence on international trends in music. In this way, the humanist impulse at the center of African people's musical propensity will be revealed, and students' awareness will broaden and deepen in regards to the many genres, contexts, functions, and meanings of traditional African music.</p>
+                    <P><em>Note: The first two weeks will be online; the last two weeks will meet in person.</em></P>
+                    <p class="na-details">4W2 – HYBRID Tues/Thur/Fri 9–12:10 pm<br>GEP - C<br>Tammy Sanders Henderson</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2350">Register</a></center>
+				</div>
+		  </div>  
+          
             
 		</div>
+
+
+	<h3 class="na-header"><a href="#HAPP" id="HAPP"></a>Health Administration and Policy Program (HAPP)<i class="fa fa-angle-down"></i></h3>
+		<div class="na-body">
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#HAPP358" id="HAPP358"></a>
+                	HAPP 358: Bioethics<i class="fa fa-angle-down"></i>
+                </h3>
+				<div class="na-body">
+               	  <p>A survey of the ethical constraints on the practice of medicine, on biomedical research using human and non-human animals, and on the delivery of health care. Specific topics will include doctor-patient confidentiality; autonomy, competence and medical decision-making; ethical issues at the beginning and end of human life; and controversial biomedical technologies such as cloning and stem cell research. This course is repeatable for credit.</p>
+					<p class="na-details">6W1 – HYBRID Thur 1–4:10 pm<br>
+					  GEP - AH<br>
+				    Elizabeth Picciuto</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1042">Register</a></center>
+				</div>
+			</div>
+        </div>
 
 
 	<h3 class="na-header"><a href="#HIST" id="HIST"></a>History (HIST)<i class="fa fa-angle-down"></i></h3>
@@ -244,7 +347,7 @@ Gender, Race, and Media<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>This course uses film to explore myth and reality in the "Age of Revolution" during the late 18th to early 19th centuries. Students will compare depictions of independence and nation building in films on the American, French, Haitian, and Latin America Revolutions. Movies about these different founding moments will be used to examine how film can convey historical accuracy, perpetuate "creation story" mythology, and impose modern political ideals onto the past. Although the course will be taught completely online, it will rely heavily on student discussion and interaction through Blackboard. </p>
 					<p class="na-details">4W1 – ONLINE <br>Robert Bouton </p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2625">Register</a></center>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2682">Register</a></center>
 				</div>
 			</div>
             
@@ -269,6 +372,72 @@ From Samurai to "Salariman": Japanese History through Film and Literature<i clas
 		</div>
 
 
+
+        
+
+	<h3 class="na-header"><a href="#LLC" id="LLC"></a>Language Literacy & Culture (LLC)<i class="fa fa-angle-down"></i></h3>
+		<div class="na-body">
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#LLC606" id="LLC606"></a>
+                	LLC 606: Bioethics<i class="fa fa-angle-down"></i>
+                </h3>
+				<div class="na-body">
+               	  <p>This course examines poverty and inequality in modern society. The focus is on describing the extent of poverty and inequality, examining theories that attempt to explain these phenomena and discussing the policies that have been employed to mitigate them. In addition to class inequality, the course also considers racial and gender inequality.</p>
+					<p class="na-details">6W1 – Tues/Thur 6–9:10 pm <br>
+				    Nicole Cousin-Gossett</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1042">Register</a></center>
+				</div>
+			</div>
+        </div>
+
+
+	<h3 class="na-header"><a href="#MLL" id="MLL"></a>Modern Languages and Linguistics (MLL)<i class="fa fa-angle-down"></i></h3>
+		<div class="na-body">
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#MLL210" id="MLL210"></a>
+                	MLL 210: AFRICA: Culture and Development<i class="fa fa-angle-down"></i>
+                </h3>
+				<div class="na-body">
+               	  <p>This course examines poverty and inequality in modern society. The focus is on describing the extent of poverty and inequality, examining theories that attempt to explain these phenomena and discussing the policies that have been employed to mitigate them. In addition to class inequality, the course also considers racial and gender inequality.</p>
+					<P><em>Note: The course will meet in person on Wednesdays, May 31, June 7, July 12, July 19, Aug 2 and Aug 16. The online sessions will be held on June 14, 21, 28, July 26 and Aug 9.</em></P>
+                    <p class="na-details">12W1 – HYBRID Wed 6-9:10 pm<br>
+                      GEP - AH<br>
+                      Karen Sutton</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2036">Register</a></center>
+				</div>
+			</div>
+            
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#MLL322" id="MLL322"></a>MLL 322: 
+Gender, Race, and Media<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>This course critically examines how ideologies of gender, race, class, ethnicity and sexuality are produced and disseminated in a range of media genres and forms such as film, television, music, advertising, news, visual and performing arts, the Internet, radio, and print media. As consumers and producers of media, students will learn to assess how media articulates, creates, and enforces identities and power. Students will practice tools of critical reading and thinking, such as textual analysis, visual discourse analysis, and the basics of media literacy. Recommended Preparation: GWST 100 and (200 or 210).</p>
+					<p class="na-details">6W1 – HYBRID Tues 1–4:10 pm<br>
+				  GEP - AH and C<br>Kathryn Kein </p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2647">Register</a></center>
+				</div>
+			</div>  
+            
+            
+        </div>
+
+
+
+	<h3 class="na-header"><a href="#MUSC" id="MUSC"></a>Music (MUSC)<i class="fa fa-angle-down"></i></h3>
+		<div class="na-body">
+           <div id="notaccordion">
+				<h3 class="na-header"><a href="#MUSC215" id="MUSC215"></a>MUSC 215:
+Introduction to Black Music<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                    <p>AFST 245 surveys the traditional music of Africans and delineates elements utilized in Black music of the western hemisphere. The course outlines the musical heterogeneity of Africans and allows students to gain greater understanding of African music and culture, its impact on the development of Black music in the Americas, and its influence on international trends in music. In this way, the humanist impulse at the center of African people's musical propensity will be revealed, and students' awareness will broaden and deepen in regards to the many genres, contexts, functions, and meanings of traditional African music.</p>
+                  <p class="na-details">6W2 – Tues/Thur 1–4:10 pm<br>GEP – AH <br>Kwame Ansah-Brew</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1570">Register</a></center>
+				</div>
+		  </div>
+     </div>
+
+
+
 	<h3 class="na-header"><a href="#PHIL" id="PHIL"></a>Philosophy (PHIL)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
 			<div id="notaccordion">
@@ -285,21 +454,21 @@ From Samurai to "Salariman": Japanese History through Film and Literature<i clas
 				<div class="na-body">
                 	<p>An introduction to philosophical theories of morality, which address such questions as: What ought we do? How ought we to live? Is there any right answer to such questions? If there are any right answers, upon what are they based, and how do we come to know them? What makes it the case that we should or should not lie, kill other people or eat animals? Various theoretical positions are covered and may include moral skepticism or relativism, Aristotelianism or virtue ethics, utilitarianism, Kantianism and other forms of non-consequentialism. Readings may include both historical and contemporary sources. Critical and charitable reading, argument analysis and writing are emphasized.</p>
 					<p class="na-details">4W2 –Mon/Wed/Fri 1–4:10 pm<br>GEP - AH<br>James Thomas</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1173">Register</a></center>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1071">Register</a></center>
 				</div>
 			</div>
             
 			<div id="notaccordion">
-				<h3 class="na-header"><a href="#PHIL358" id="PHIL358"></a>PHIL 358 / HAPP 358: Bioethics<i class="fa fa-angle-down"></i></h3>
+				<h3 class="na-header"><a href="#PHIL358" id="PHIL358"></a>PHIL 358: Bioethics<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>A survey of the ethical constraints on the practice of medicine, on biomedical research using human and non-human animals, and on the delivery of health care. Specific topics will include doctor-patient confidentiality; autonomy, competence and medical decision-making; ethical issues at the beginning and end of human life; and controversial biomedical technologies such as cloning and stem cell research. </p>
 					<p class="na-details">6W1 – HYBRID Thur 1–4:10 pm<br>GEP - AH<br>Elizabeth Picciuto</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1173">Register</a></center>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1477">Register</a></center>
 				</div>
 			</div>
              
 		</div>
-        
+
         
         <h3 class="na-header"><a href="#POLI" id="POLI"></a>Political Science (POLI)<i class="fa fa-angle-down"></i></h3>
 		<div class="na-body">
@@ -363,7 +532,7 @@ Diversity & Pluralism: An Interdisciplinary Perspective
             
 
            <div id="notaccordion">
-				<h3 class="na-header"><a href="#SOCY606" id="SOCY606"></a>SOCY 606 / LLC 606: 
+				<h3 class="na-header"><a href="#SOCY606" id="SOCY606"></a>SOCY 606: 
 Social Inequality and Social Policy<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
                 	<p>This course examines poverty and inequality in modern society. The focus is on describing the extent of poverty and inequality, examining theories that attempt to explain these phenomena and discussing the policies that have been employed to mitigate them. The course also considers racial and gender inequality.</p>

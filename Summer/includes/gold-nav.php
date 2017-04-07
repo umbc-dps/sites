@@ -11,7 +11,7 @@
       	<li><a href="http://umbc.edu/summer/coursesprerequisites">Courses with Prerequisites</a></li>
         <li><a href="http://umbc.edu/summer/all-courses#evening">Evening Courses</a></li>
       	<li><a href="http://umbc.edu/summer/courses">View Schedule of Classes</a></li>
-        
+        <li><a href="http://umbc.edu/summer/documents/catalog.pdf" target="_blank">Download Catalog</a></li>
       </ul>
     </li>
     <li><a href="#">Register/Apply</a>

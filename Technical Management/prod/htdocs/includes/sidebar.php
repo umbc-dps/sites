@@ -5,8 +5,8 @@
 
 
       <p style="text-align:center">
-<strong>Program Exploration Open House</strong><br> Saturday, April 1, 10:00AM - 12:00PM
-        <a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=techm_sidebar">Save Your Spot</a>
+<strong>Program Exploration Open House</strong><br> Wednesday, June 21, 6:00PM - 7:30PM
+        <a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=techm_sidebar">Save Your Spot</a>
       </p>
 </aside>
 

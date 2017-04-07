@@ -79,7 +79,7 @@
         <tr>
           <th>&nbsp;</th>
 
-          <th>Maryland Resident</th>
+          <th>Maryland Resident**</th>
 
           <th>Non-Maryland Resident</th>
         </tr>
@@ -87,7 +87,7 @@
 
         <tr>
           <td>Tuition<br>
-          <span class="extra">MD resident: $603 per credit<br>
+          <span class="extra">MD resident: $603 per credit**<br>
           Non-resident: $997 per credit</span></td>
 
           <td>$1,809</td>
@@ -160,7 +160,9 @@
 
 
         <tr>
-          <td colspan="3">*Additional costs for application and matriculation fees. See below.</td>
+          <td colspan="3">*Additional costs for application and matriculation fees. See below.<br>
+
+          **Maryland tuition rates applicable to DC, Virginia, Pennsylvania & Delaware starting Fall 2017</td>
         </tr>
       </table>
 

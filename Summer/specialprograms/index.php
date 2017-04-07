@@ -91,6 +91,13 @@
 	font-size:300%;
 	font-weight: bold;
 }
+
+.register{
+	background-image:url('../images/lg_bg.jpg');
+	background-size:cover;
+	font-size:300%;
+	font-weight: bold;
+}
 </style>
 </head>
 
@@ -113,8 +120,8 @@
 <!-- BEGIN MAIN -->
 <div class="container column" id="main">  <div  id="winter-heading">
     <a href="index">
-    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FFBD21">
-    <img src="../images/specialprograms-header.png" style="width:100%">
+    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FEBB22">
+    <img src="../images/summer-specialprograms-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
@@ -127,6 +134,9 @@
 	<div class="content">
 		<div class="narrowchart">
       
+     <!-- <h4><strong><em>Learn how to make a difference - make this summer count!</em></strong></h4> -->
+     <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom.  Explore concepts of civic engineering, pursue services learning or undergraduate research, and broaden your perspective this summer.</p>
+     <p>Most courses fulfill UMBC’s <a href="http://umbc.edu/summer/all-courses.php#gep">general education requirements</a>, and summer scholarships 	are available for qualified students.</p>
      
      <!-- Start Content --> 
      
@@ -136,8 +146,8 @@
 
 
   <!-- Link to open the modal -->
-  <div class="eight columns baltimore" style="margin:0px 3px 0px 0px">
-  	<a href="baltimore" target="_blank">
+  <div class="eight columns baltimore" style="margin:0px 3px 1.5px 0px">
+  	<a href="baltimore">
       <span class="v-center">
         Discover Baltimore
       </span>
@@ -147,21 +157,21 @@
 
   <!-- Link to open the modal -->
   <div class="eight columns csj" style="margin:0px">
-  	<a href="csj" target="_blank">
+  	<a href="csj">
       <span class="v-center">
       	Culture & Social Justice
       </span>
     </a>
   </div>
   
-  <br clear="all"><br>
+  <br clear="all">
   
   
  
 
   <!-- Link to open the modal -->
-  <div class="eight columns health" style="margin:0px 3px 0px 0px">
-  	<a href="health" target="_blank">
+  <div class="eight columns health" style="margin:1.5px 3px 0px 0px">
+  	<a href="health">
       <span class="v-center">
       	Health & Social Inequalities
       </span>
@@ -170,8 +180,8 @@
 
 
   <!-- Link to open the modal -->
-  <div class="eight columns studyabroad" style="margin:0px">
-      <a href="studyabroad" target="_blank">
+  <div class="eight columns studyabroad" style="margin:1.5px 0px 0px 0px">
+      <a href="studyabroad">
         <span class="v-center">
             Study Abroad
         </span>
@@ -179,14 +189,14 @@
   </div>
 
 
-<br clear="all"><br>
-
-
-   <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom.</p> 
-   
-   <p>Most courses fulfill UMBC’s <a href="http://umbc.edu/summer/all-courses.php#gep">general education requirements</a>, and summer scholarships are available for qualified students.</p>
-
+<br clear="all">
 <br>
+<aside class="five" style="text-align:center">
+<a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classSearch" class="button gold" target="_blank">Register Here</a>
+</aside>
+
+<br clear="all"><br> 
+
      <!-- END Content -->
      
 	</div></div>

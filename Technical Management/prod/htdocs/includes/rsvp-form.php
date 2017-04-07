@@ -10,10 +10,7 @@
 #google-form h1{display:none}
 
 </style>
-
-<link href='http://umbc.edu/dps/css/sf-request-info.css' rel='stylesheet'>
 </head>
-
 <body>
 <div class="ss-top-of-page"><div class="ss-form-heading">
 <h1 class="ss-form-title" dir="ltr">UMBC Professional Programs Open House Registration</h1>
@@ -122,14 +119,5 @@
 <button type="reset" value="Reset" class="jfk-button jfk-button-action">Clear</button>
 </td>
 </tr></tbody></table></div></ol></form></div>
-
-
-<script>
-$(document).ready(function () {
-	ytTracker.init();
-});
-</script>
-
-<?php include("includes/sf-contact-inputs.php"); ?>
 
 </body>

@@ -5,7 +5,7 @@
 
 
       <p style="text-align:center"><strong>UMBC GIS Info Session</strong><br>
-      Thursday, April 6, 6-7:30 pm<br>
+      Wednesday, June 15, 6-7:30 pm<br>
         <a class="btn" href="http://www.umbc.edu/shadygrove/gis/infosession" target="_blank">RSVP Now</a>
       </p>
     </aside>

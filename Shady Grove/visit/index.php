@@ -129,7 +129,6 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-	Friday, March 24, 1:00pm<br>
 	Saturday, April 22, 12:30pm<br>
 	Thursday, May 18, 3:00pm<br>
     Thursday, June 15, 12:00pm<br>
@@ -151,7 +150,6 @@ For a campus map, directions and parking information, please click <a href="htt
 		Wednesday, April 12, 12:00pm</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-        Wednesday, March 29, 12:00pm<br>
         Wednesday, April 5, 12:00pm<br>
         Wednesday, April 12, 12:00pm<br>
         Wednesday, April 19, 12:00pm<br>
@@ -165,7 +163,6 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<p>
         <strong>Social Work:</strong><br>
-		Tuesday, March 28, 5:30pm<br>
 		Friday, April 28, 12:00pm
     </p>
   
@@ -251,7 +248,7 @@ Tuesday, April 6, 2017, 6-7:30 PM</p>
     
     <div class="accordionbody"> 
 <p>
-	Thursday, February 23, 2017, 6-7:30 PM
+	Thursday, April 27, 6:00 - 8:00 pm
     
     <p><a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=sg_visit_us" target="_blank" class="button btn-sm">
 	   Event RSVP</a></p>

@@ -105,6 +105,14 @@ html::after {
 <hr>
 
 <div class="accordionheader">
+            <h4><a id="history" href="#history"></a>Cybersecurity Association<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+          <div class="accordionbody">
+  <p>The purpose of the UMBC Graduate <strong>Cybersecurity Association</strong> at USG is to promote the study of cybersecurity and to raise cybersecurity awareness and knowledge in the community through panel discussions, conferences, and cyber competitions.</p>
+  </div>
+
+<div class="accordionheader">
             <h4><a id="history" href="#history"></a>History Student Association<i class="fa fa-angle-down"></i></h4>
           </div>
 

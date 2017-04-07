@@ -142,7 +142,7 @@ aside p, aside dl {
 
 
 <h4 style="font-weight:bold">Date:</h4>
-<h5>Saturday, April 1, 10:00AM - 12:00PM</h5>
+<h5>Wednesday, June 21, 6:00PM - 7:30PM</h5>
 <br>
 
 <h4 style="font-weight:bold">Location:</h4>

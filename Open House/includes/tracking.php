@@ -95,3 +95,14 @@ src="https://www.facebook.com/tr?id=474030342731967&ev=PageView&noscript=1"
 <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l5nzw&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 </noscript>
 <!-- End Twitter single-event website tag code -->
+
+<!-- LinkedIn Tracking -->
+<script type="text/javascript">
+_linkedin_data_partner_id = "42954";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>

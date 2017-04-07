@@ -76,12 +76,12 @@
 
 
         <div class="accordionbody">        
- <h5>Required Core Courses (15 credits) Choose 5:</h5>
+ <h5>Required Core Courses (15 credit hours), 2 Required, Choose 3:</h5>
 
  <ul>
-   <li><a href="courses#PSYC670" target="_blank">PSYC 670: Industrial/Organizational Psychology</a></li>
-   <li><a href="courses#PSYC671" target="_blank">PSYC 671: Seminar in Social Psychology</a></li>
-   <li><a href="courses#PSYC672" target="_blank">PSYC 672: Introduction to Data Analytic Procedures</a> <em>(required)</em></li>
+   <li><a href="courses#PSYC670" target="_blank">PSYC 670: Industrial/Organizational Psychology*</a>  <em>(required)</em></li>
+   <li><a href="courses#PSYC671" target="_blank">PSYC 671: Seminar in Applied Social Psychology</a></li>
+   <li><a href="courses#PSYC672" target="_blank">PSYC 672: Introduction to Data Analytic Procedures*</a> <em>(required)</em></li>
    <li><a href="courses#legal-ethical-and-professional-issues-in-io-pscyhology" target="_blank">PSYC 673: Legal, Ethical and Professional Issues</a></li>
    <li><a href="courses#PSYC674" target="_blank">PSYC 674: Methods of Assessment</a></li>
    <li><a href="courses#professional-human-resources-practice" target="_blank">PSYC 677: Professional Human Resource Practices</a></li>
@@ -90,34 +90,35 @@
  
  <h5>Elective I/O Psychology Courses  (12 credits) Choose 4:</h5>
  <ul>
-   <li><a href="courses#group-decision-making" target="_blank">Group Decision Making</a></li>
-   <li><a href="courses#human-performance-technologies" target="_blank">Human Performance Technologies</a></li>
-   <li><a href="courses#survey-design-and-development" target="_blank">Survey Design and Development</a></li>
-   <li><a href="courses#program-evaluation" target="_blank">Program Evaluation</a></li>
-   <li><a href="courses#strategic-planning" target="_blank">Strategic Planning</a></li>
-   <li><a href="courses#organizational-behavior-management" target="_blank">Organizational Behavior Management</a></li>
-   <li><a href="courses#human-factors" target="_blank">Human Factors</a></li>
+   <li><a href="courses#total-rewards" target="_blank">PSYC 601: Total Rewards</a></li>
+   <li><a href="courses#organizational-behavior-management" target="_blank">PSYC 669: Organizational Behavior Management</a> </li>
+   <li><a href="courses#human-factors" target="_blank">PSYC 676: Human Factors</a></li>
+   <li><a href="courses#group-decision-making" target="_blank">PSYC 678: Group Decision Making</a></li>
+   <li><a href="courses#survey-design-and-development" target="_blank">PSYC 679: Survey Design and Development</a></li>
+   <li><a href="courses#human-performance-technologies" target="_blank">PSYC 681: Human Performance Technologies</a></li>
+   <li><a href="courses#change-management" target="_blank">PSYC 682: Change Management</a></li>
+   <li><a href="courses#advanced-statistics" target="_blank">PSYC 683: Advanced Statistics</a></li>
+   <li><a href="courses#program-evaluation" target="_blank">PSYC 684: Program Evaluation for I/O Psychology</a></li>
+   <li><a href="courses#strategic-planning" target="_blank">PSYC 689: Strategic Planning</a></li>
    <li><a href="courses#ISD1" target="_blank">EDUC 602: Instructional Systems Design</a></li>
    <li><a href="courses#principles-in-training-and-development" target="_blank">EDUC 671: Principles in Training and Development</a></li>
-   <li><a href="courses#strategic-planning" target="_blank">Strategic Planning</a></li>
-   <li><a href="courses#total-rewards" target="_blank">Total Rewards</a></li>
-  <li>Other relevant graduate course(s) approved by  the I/O Psychology Graduate Program Director</li>
+   <li>Other relevant graduate course(s) approved by  the I/O Psychology Graduate Program Director</li>
 </ul>
 
-<h5>Capstone Course</h5>
+<h5>Practicum in I/O Psychology (3 credit hours), Required</h5>
 <ul>
-<li><a href="courses#capstone" target="_blank">Capstone Experience</a></li>
+<li><a href="courses#capstone" target="_blank">PSYC 698: Capstone Experience</a></li>
 </ul>
 </div>
 
 
         <div class="accordionheader" style="background-color:#E0C586">
-          <h4><a href="#core" id="core"></a>Required Core Courses (15 credit hours), Choose 5:</h4>
+          <h4><a href="#core" id="core"></a>Required Core Courses (15 credit hours), 2 Required, Choose 3:</h4>
         </div>
         <div></div>
 
 <div class="accordionheader">
-  <h4><a href="#PSYC670" id="PSYC670"></a>PSYC 670: Industrial/Organizational Psychology<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#PSYC670" id="PSYC670"></a>PSYC 670: Industrial/Organizational Psychology<i class="fa fa-angle-down"></i>* <em>(required)</em></h4>
 </div>
 
 <div class="accordionbody">
@@ -127,7 +128,7 @@
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#PSYC671" id="PSYC671"></a>PSYC 671: Seminar in Social Psychology<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#PSYC671" id="PSYC671"></a>PSYC 671: Seminar in Applied Social Psychology<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -137,7 +138,7 @@
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#PSYC672" id="PSYC672"></a>PSYC 672: Introduction to Data Analytic Procedures in I/O Psychology<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#PSYC672" id="PSYC672"></a>PSYC 672: Introduction to Data Analytic Procedures in I/O Psychology<i class="fa fa-angle-down"></i>* <em>(required)</em></h4>
 </div>
 
 <div class="accordionbody">
@@ -147,33 +148,33 @@
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#PSYC674" id="PSYC674"></a>PSYC 674: Methods of Assessment in I/O Psychology<i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p> This course provides an I/O-oriented introduction to intellectual and personality assessment of individuals working in organizations. In addition, it gives an introduction/overview of basic measurement theory; essentials of test evaluation including reliability, validity and utility; methodology of test and survey construction, development, and analysis; and the utilization and interpretation of test scores. </p>
-
-<p><strong>Prerequisite:</strong>  Introduction to IO Psychology course or equivalent, Introduction to Data Analytic Procedures in IO Psychology course and/or consent of instructor. </p>
-  </div>
-
-<div class="accordionheader">
-  <h4><a href="#professional-human-resources-practice" id="professional-human-resources-practice"></a>PSYC 677: Professional Human Resources Practice<i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p>This course gives an overview of personnel selection from an I/O prospective in terms of theory, practice, and research. Topics include needs analysis, personnel selection and placement, interviewing (research and techniques), and performance appraisal, training and development. In addition, validity and utility of predictors of job performance will be addressed as will Equal Employment Opportunity (EEO) laws and their implications in terms of personnel selection, retention, training, and management. </p>
-
-<p><strong>Prerequisite:</strong>  Consent of instructor. </p>
-  </div>
-
-<div class="accordionheader">
   <h4><a href="#legal-ethical-and-professional-issues-in-io-pscyhology" id="legal-ethical-and-professional-issues-in-io-pscyhology"></a>PSYC 673: Legal, Ethical and Professional Issues in I/O Psychology<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
   <p> This course addresses ethical issues involved in the practice or application of psychology in promoting employee and organizational physical and mental health and well-being. In addition, students will discuss legal issues, such as EEO, affirmative action, ADA as well as issues relating individuals of different ages and cultures, health status, organizations and local, national, and international communities; the legal system; and policy-making. Also highlighted are issues of ethnic and cultural sensitivity, and sexual harassment. </p>
 
-<p><strong>Prerequisite:</strong>  Consent of instructor. </p>
+<p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in I/O Psychology course.</p>
+  </div>
+
+<div class="accordionheader">
+  <h4><a href="#PSYC674" id="PSYC674"></a>PSYC 674: Methods of Assessment in I/O Psychology<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p> This course provides an I/O-oriented introduction to intellectual and personality assessment of individuals working in organizations. In addition, it gives an introduction/overview of basic measurement theory; essentials of test evaluation including reliability, validity and utility; methodology of test and survey construction, development, and analysis; and the utilization and interpretation of test scores. </p>
+
+<p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in I/O Psychology course.</p>
+  </div>
+
+<div class="accordionheader">
+  <h4><a href="#professional-human-resources-practice" id="professional-human-resources-practice"></a>PSYC 677: Professional Human Resources Practices<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p>This course gives an overview of personnel selection from an I/O prospective in terms of theory, practice, and research. Topics include needs analysis, personnel selection and placement, interviewing (research and techniques), and performance appraisal, training and development. In addition, validity and utility of predictors of job performance will be addressed as will Equal Employment Opportunity (EEO) laws and their implications in terms of personnel selection, retention, training, and management. </p>
+
+<p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in I/O Psychology course.</p>
   </div>
 
 
@@ -183,28 +184,36 @@
 <div></div>
 
 <div class="accordionheader">
-  <h4><a href="#program-evaluation" id="program-evaluation"></a>Program Evaluation<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#total-rewards" id="strategic-planning"></a>PSYC 601: Total Rewards<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  </strong>This course introduces the student to the literature, theories  and approaches to evaluating organizational programs, policies and procedures.  Students will acquire a broad perspective on types of program evaluation,  including formative and summative evaluation, process evaluation, monitoring of  outputs and outcomes, impact assessment, and cost analysis. Students gain  practical experience through exercises and assignments involving the design and  development of a program evaluation plan. Topics such as experimental,  quasi-experimental, and non-experimental study designs are introduced in the  context of a variety of settings, including schools, welfare agencies, mental  health organizations, criminal justice settings, environmental programs,  nonprofit organizations, and corporations.  </div>
+  <p>The course provides and overview of contemporary organization’s total rewards programs. We will cover and discuss compensation, benefits and other reward and recognition programs in the context of an organization’s business strategy. We will review and discuss the roles and challenges of managing a total rewards program in today’s organizations.</p>
+
+  </div>
 
 <div class="accordionheader">
-  <h4><a href="#human-performace-technology" id="human-performance-technology"></a>Human Performance Technology<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#organizational-behavior-management" id="organizational-behavior-management"></a>PSYC 669: Organizational Behavior Management<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-    This course introduces the student to the literature, tools, and  techniques of performance technology. The performance technologist analyzes and  solves human productivity and efficiency problems in the workplace. Students  will examine major theories, models, methods and techniques of analyzing and  solving individual and organizational performance problems that call for  solutions and interventions that go beyond training. Students learn and apply  performance analysis and improvement strategies such as feedback and incentive  systems, professional development plans, and workplace and job design. This  highly participatory seminar is a natural complement to graduate courses in  instructional design and instructional technology.      </div>
+  <p> The purpose of this class is to expose students to a behavior-analytic conceptualization of organizational behavior and the underlying research on applied interventions in a variety of organizational settings. The readings and class discussions will provide students with a strong foundation in organizational psychology from a behavioral orientation. Among the topics covered in the class are performance assessment, performance measurement, intervention techniques (for example: training, prompts. incentive systems, feedback, including 360-degree feedback, self-monitoring, goal setting, and leadership), follow-up, and maintenance of interventions. Students will also develop a research proposal for an OBM-type intervention in an applied setting. </p>
+
+<p><strong>Prerequisite:</strong>  Consent of instructor. </p>
+  </div>
 
 <div class="accordionheader">
-  <h4><a href="#survey-design-and-development" id="survey-design-and-development"></a>Survey Design and Development<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#human-factors" id="human-factors"></a>PSYC 676: Human Factors<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-   This course provides an overview of surveys used for purposes such as needs analysis, market research, program evaluation, assessing employee attitudes or opinions and strategic planning. The course includes instruction and practical application on how to : translate client and stakeholder concerns into  questions answerable through surveys; develop survey objectives; develop survey research questions; make decisions on survey design; develop survey questions; develop a sampling strategy; pilot test and evaluate a survey; identify and report the precision of survey-based estimates; analyze and interpret survey data; and report findings to clients and stakeholders. </div>
+  <p> This course provides background in the areas of Human Factors and Human-Computer Interaction as they relate to the design and use of information systems in the workplace. In addition, this course addresses the importance and interdisciplinary nature of information systems, computer science, psychology, and sociology as they relate to the design of usable systems. Quantitative and qualitative methods for analyzing usability will be discussed and conducted, including task analyses, usability tests, and expert reviews, as well as ongoing assessments of installed products by interviews and surveys. Students learn about the design lifecycle and guidelines that are involved in developing professional-level, high quality user interfaces. Students also learn to address the needs of disabled users in terms of accommodation and accessibility. </p>
+
+<p><strong>Prerequisite:</strong>  Consent of instructor. </p>
+    </div>
 
 <div class="accordionheader">
-  <h4><a href="#group-decision-making" id="group-decision-making"></a>Group Decision Making<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#group-decision-making" id="group-decision-making"></a>PSYC 678: Group Decision Making<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -214,7 +223,26 @@
     </div>
 
 <div class="accordionheader">
-  <h4><a href="#organizational-change" id="organizational-change"></a>Organizational Change<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#survey-design-and-development" id="survey-design-and-development"></a>PSYC 679: Survey Design and Development<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+   This course provides an overview of surveys used for purposes such as needs analysis, market research, program evaluation, assessing employee attitudes or opinions and strategic planning. The course includes instruction and practical application on how to : translate client and stakeholder concerns into  questions answerable through surveys; develop survey objectives; develop survey research questions; make decisions on survey design; develop survey questions; develop a sampling strategy; pilot test and evaluate a survey; identify and report the precision of survey-based estimates; analyze and interpret survey data; and report findings to clients and stakeholders. </div>
+
+<div class="accordionheader">
+  <h4><a href="#human-performace-technology" id="human-performance-technology"></a>PSYC 681: Human Performance Technology<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+    <p>This course introduces the student to the literature, tools, and  techniques of performance technology. The performance technologist analyzes and  solves human productivity and efficiency problems in the workplace. Students  will examine major theories, models, methods and techniques of analyzing and  solving individual and organizational performance problems that call for  solutions and interventions that go beyond training. Students learn and apply  performance analysis and improvement strategies such as feedback and incentive  systems, professional development plans, and workplace and job design. This  highly participatory seminar is a natural complement to graduate courses in  instructional design and instructional technology.</p>
+    
+    <p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in I/O Psychology course.</p>
+    
+    </div>
+
+
+<div class="accordionheader">
+  <h4><a href="#organizational-change" id="organizational-change"></a>PSYC 682: Change Management<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -225,27 +253,29 @@
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#organizational-behavior-management" id="organizational-behavior-management"></a>Organizational Behavior Management<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#advanced-statistics" id="advanced-statistics"></a>PSYC 683: Advanced Statistics<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
-  <p> The purpose of this class is to expose students to a behavior-analytic conceptualization of organizational behavior and the underlying research on applied interventions in a variety of organizational settings. The readings and class discussions will provide students with a strong foundation in organizational psychology from a behavioral orientation. Among the topics covered in the class are performance assessment, performance measurement, intervention techniques (for example: training, prompts. incentive systems, feedback, including 360-degree feedback, self-monitoring, goal setting, and leadership), follow-up, and maintenance of interventions. Students will also develop a research proposal for an OBM-type intervention in an applied setting. </p>
+  <p> This course is designed to provide knowledge base of higher-level statistics in research and practice.  The course assumes that the learner has a solid knowledge base of the theory behind and SPSS application of basic inferential statistics. The procedures covered will provide the student with a portfolio of references and examples to guide them through future analytic questions in the applied setting. </p>
 
-<p><strong>Prerequisite:</strong>  Consent of instructor. </p>
+<p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in IO Psychology course. </p>
   </div>
 
 <div class="accordionheader">
-  <h4><a href="#human-factors" id="human-factors"></a>Human Factors<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#program-evaluation" id="program-evaluation"></a>PSYC 684: Program Evaluation<i class="fa fa-angle-down"></i> for I/O Psychology</h4>
 </div>
 
 <div class="accordionbody">
-  <p> This course provides background in the areas of Human Factors and Human-Computer Interaction as they relate to the design and use of information systems in the workplace. In addition, this course addresses the importance and interdisciplinary nature of information systems, computer science, psychology, and sociology as they relate to the design of usable systems. Quantitative and qualitative methods for analyzing usability will be discussed and conducted, including task analyses, usability tests, and expert reviews, as well as ongoing assessments of installed products by interviews and surveys. Students learn about the design lifecycle and guidelines that are involved in developing professional-level, high quality user interfaces. Students also learn to address the needs of disabled users in terms of accommodation and accessibility. </p>
+ <p>This course introduces the student to the literature, theories  and approaches to evaluating organizational programs, policies and procedures.  Students will acquire a broad perspective on types of program evaluation,  including formative and summative evaluation, process evaluation, monitoring of  outputs and outcomes, impact assessment, and cost analysis. Students gain  practical experience through exercises and assignments involving the design and  development of a program evaluation plan. Topics such as experimental,  quasi-experimental, and non-experimental study designs are introduced in the  context of a variety of settings, including schools, welfare agencies, mental  health organizations, criminal justice settings, environmental programs,  nonprofit organizations, and corporations.</p>
+ 
+ <p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in I/O Psychology course.</p>
+ 
+   </div>
 
-<p><strong>Prerequisite:</strong>  Consent of instructor. </p>
-    </div>
 
 <div class="accordionheader">
-  <h4><a href="#job-analysis" id="job-analysis"></a>Job Analysis<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#job-analysis" id="job-analysis"></a>PSYC 687: Job Analysis<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">
@@ -260,8 +290,19 @@ and collaboratively.  In addition, the JA information will be applied to
 the development of performance management and employee selection system. </p>
   </div>
 
+  
+  <div class="accordionheader">
+  <h4><a href="#strategic-planning" id="strategic-planning"></a>PSYC 689: Strategic Planning<i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p>This course introduces students to the theories, tools, and processes for strategic planning. The course is highly applied and will provide students the opportunity to plan, conduct, and finalize a strategic plan for an actual organization. This will include preparing interview/focus group protocols, researching industry trends, reviewing historical documents, and conducting interviews/focus groups with an actual client and their leadership team. The final project for this class will be a presentation of the strategic plan to the organization’s leadership.</p>
+
+  </div>
+
+
 <div class="accordionheader">
-  <h4><a href="#ISD1" id="ISD1"></a>Instructional Systems Development I <br>
+  <h4><a href="#ISD1" id="ISD1"></a>EDUC 602: Instructional Systems Development I <br>
     <span style="font-weight: normal; font-size: 85%">Online (Fall, Spring &amp; Summer) and On-Campus in Catonsville (Fall &amp; Spring)</span><i class="fa fa-angle-down"></i></h4>
 </div>
 
@@ -272,7 +313,7 @@ the development of performance management and employee selection system. </p>
  </div>
 
 <div class="accordionheader">
-  <h4><a href="#principles-in-training-and-development" id="principles-in-training-and-development"></a>Principles in Training and Development<br>
+  <h4><a href="#principles-in-training-and-development" id="principles-in-training-and-development"></a>EDUC 671: Principles in Training and Development<br>
 <span style="font-weight: normal; font-size: 85%">Online (Fall &amp; Spring) and On-Campus in Catonsville (Summer only)</span><i class="fa fa-angle-down"></i></h4>
 </div>
 
@@ -283,43 +324,13 @@ the development of performance management and employee selection system. </p>
 </div>
 
 
-<div class="accordionheader">
-  <h4><a href="#advanced-statistics" id="advanced-statistics"></a>Advanced Statistics<i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p> This course is designed to provide knowledge base of higher-level statistics in research and practice.  The course assumes that the learner has a solid knowledge base of the theory behind and SPSS application of basic inferential statistics. The procedures covered will provide the student with a portfolio of references and examples to guide them through future analytic questions in the applied setting. </p>
-
-<p><strong>Prerequisite:</strong> Completion of PSYC 672 Introduction to Data Analytic Procedures in IO Psychology course. </p>
-  </div>
-  
-  <div class="accordionheader">
-  <h4><a href="#strategic-planning" id="strategic-planning"></a>Strategic Planning<i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p>This course introduces students to the theories, tools, and processes for strategic planning. The course is highly applied and will provide students the opportunity to plan, conduct, and finalize a strategic plan for an actual organization. This will include preparing interview/focus group protocols, researching industry trends, reviewing historical documents, and conducting interviews/focus groups with an actual client and their leadership team. The final project for this class will be a presentation of the strategic plan to the organization’s leadership.</p>
-
-  </div>
-
-
-<div class="accordionheader">
-  <h4><a href="#total-rewards" id="strategic-planning"></a>Total Rewards<i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p>The course provides and overview of contemporary organization’s total rewards programs. We will cover and discuss compensation, benefits and other reward and recognition programs in the context of an organization’s business strategy. We will review and discuss the roles and challenges of managing a total rewards program in today’s organizations.</p>
-
-  </div>
-
-
 <div class="accordionheader" style="background-color:#E0C586">
-  <h4>Capstone Course (3 credit hours)</h4>
+  <h4>Practicum in I/O Psychology (3 credit hours), Required</h4>
 </div>
 <div></div>
 
 <div class="accordionheader">
-  <h4><a href="#practicum" id="practicum"></a>Practicum in I/O Psychology<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#practicum" id="practicum"></a>Capstone Experience<i class="fa fa-angle-down"></i></h4>
 </div>
 
 <div class="accordionbody">

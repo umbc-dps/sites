@@ -75,36 +75,20 @@
     <ul>
     
 
-<!-- SLIDE FOUR -->
-<li id="slide4">
-
-<a href="http://umbc.edu/hit/infosession" target="_blank"><img alt="img02" src="images/7.jpg"></a>
-
-<div class="carousel-caption wordwrap">
-<h3>Health Information Technology Lunch & Learn</h3>
-<small>Are you a junior or senior considering a graduate program upon bachelor completion? Join us for an informational lunch about the benefits of applying to the Accelerated Bachelor's/Master's program.</small>
-
-<p><a href="http://umbc.edu/hit/infosession" target="_blank" class="web-seemore">RSVP now!</a></p></div>
-
-<p id="captionthree"><a href="http://umbc.edu/hit/infosession" target="_blank">Health Information Technology Lunch & Learn</a></p>
-
-</li>
-<!-- END SLIDE FOUR -->
-
 
 <!-- Slide One -->              
 
 <li id="slide1">
 
-<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=hit_carousel" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=hit_carousel" target="_blank"><img src="http://www.umbc.edu/biotech/images/10.jpg" alt="Program Exploration Open House"/></a>
 
 <div class="carousel-caption wordwrap">
 <h3>Program Exploration Open House</h3>
-<small>Join us on Saturday, April 1 to learn how UMBC's professional programs can advance your career.</small>
+<small>Join us on Wednesday, June 21 to learn how UMBC's professional programs can advance your career.</small>
 
-<p><a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=hit_carousel" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
+<p><a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=hit_carousel" role="button" class="web-seemore" target="_blank">Save Your Spot!</a></p></div>
 
-<p id="captionthree"><a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=hit_carousel" target="_blank">Program Exploration Open House</a></p>
+<p id="captionthree"><a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=hit_carousel" target="_blank">Program Exploration Open House</a></p>
 
 </li>
 

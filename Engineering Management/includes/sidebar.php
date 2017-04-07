@@ -2,15 +2,17 @@
 
      <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
+      <!--
       <br>
       <p style="font-style:italic; text-align:center; margin-top:-15px;">
       <strong>Drop in and chat with the Program Director on 3/9!</strong><br />
 <a href="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLSczKm2H8H4ocY82gz3jF5Q_qsPyHFnTPX8Y8XC8I8v_hJy6DQ/viewform" target="_blank" onMouseDown="ga('send', 'event', 'lead', 'click', 'dropin-session');" class="btn">Sign Up</a></p> 
 <hr>
-      <p style="text-align:center; margin-top:-20px">
+-->
+      <p style="text-align:center; /*margin-top:-20px*/">
 		<strong>Program Exploration Open House</strong><br>
-Saturday, April 1, 10:00AM - 12:00PM<br>
-<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=engm_sidebar" class="btn">Save Your Spot!</a>
+Wednesday, June 21, 6:00PM - 7:30PM<br>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=engm_sidebar" class="btn">Save Your Spot!</a>
 	</p>
 
     </aside>

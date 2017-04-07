@@ -107,10 +107,43 @@ html::after {
             </div>
             <p id="captionthree"><a href="visit/pd-socialwork" target="_blank">Meet Katie Morris, LCSW-C, Program Director</a></p>
           </li>
+          
+          <li id="slide2">
+          
+          
+          
+          <img src="images/alonso-students.jpg" alt="" target="_blank">
+          </a>
+            <div class="carousel-caption wordwrap left">
+              <h3>Exciting Social Work Event!</h3>
+             Join Dr. Jani as she presents on: Provision of Services to Unaccompanied Migrant Youth: 
+Consideration of Context and Help-Seeking Behavior. On Friday, 4/14 in III-4206. 12:00-1:00 PM
 
-         <!-- END Slide One -->
+            </div>
+            <p id="captionthree"><a " target="_blank">Exciting Social Work Event!</a></p>
+          </li>
+          
+          
+           <li id="slide3">
+          <a href="mailto:swsa-usg@umbc.edu">
+          
+          <img src="images/social-work.jpg" alt="img03"></a>
+          
+            <div class="carousel-caption wordwrap">
+              <h3>Grab a Book!</h3>
+              Dean Tice will be coming down for a book swap. Bring a book that you have enjoyed or found inspirational and swap with a peer! Friday, 4/21 in III-4206. 12:00-1:00 PM. 
+				
+            </div>
+            <p id="captionthree"><a href="mailto:swsa-usg@umbc.edu">Grab a Book!</a></p>
+          </li>
+          
+          
+          
+          
+          
 
-          <!-- Slide Two --
+
+         <!-- Slide Two --
           <li id="slide2">
           <a href="http://bit.ly/2mwsmT1" target="_blank">
           

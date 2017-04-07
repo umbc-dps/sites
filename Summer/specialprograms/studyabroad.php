@@ -67,6 +67,10 @@
 	padding:5px; 
 	line-height:14pt
 	}
+
+#notaccordion .na-body #notaccordion .na-header{
+	font-weight:normal!important;
+}
 	
 #notaccordion .na-body .na-header, #notaccordion .na-body .na-body{margin-left:25px;}
 #notaccordion .na-details{font-weight:bold}
@@ -76,6 +80,44 @@
 #notaccordion .button:hover {background:#E8AB22;}
 #notaccordion .gold{  background:#E8AB22;  color:#000; border:1px solid #ffc20e; }
 #notaccordion .gold:hover{background:#414042; color:#fff;}
+
+.header-title span.v-center {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+.header-title a{
+	color: #FFF!important;
+	display:block;
+	background-color:rgba(0,0,0,.5);
+	text-decoration:none!important;
+}
+
+.header-title{
+	background-size:cover;
+	font-size:300%;
+	font-weight: bold;
+	background-color:  #000;
+	height: 450px;
+	line-height:450px;
+	text-align:center;
+	background-color:#FFF;
+}
+.header-title small{
+	display:block;
+	font-size:12pt;
+	font-weight:normal;
+}
+.costarica{
+	background-image:url('../images/costarica_xlg.png');
+}
+.italy{
+	background-image:url('../images/italy2_xlg.jpg');
+}
+.colombia{
+	background-image:url('../images/spain2_xlg.jpg');
+}
 </style>
 
 </head>
@@ -100,8 +142,8 @@
 <div class="container column" id="main">
   <div  id="winter-heading">
     <a href="http://www.umbc.edu/summer/specialprograms">
-    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FFBD21">
-    <img src="../images/specialprograms-studyabroad.png" style="width:100%">
+    <h1 class="remove-bottom" id="summer-heading" style="background-color:#FEBA22">
+    <img src="../images/summer-specialprograms-heading.png" style="width:100%">
     </h1>
     </a>
   </div>
@@ -111,79 +153,49 @@
 
 <!-- Start Content --> 
 
+<div align="right"><strong><a href="http://umbc.edu/summer/specialprograms">&lt; Back to All Special Programs</a></strong></div>
 
 <h2>Faculty Led Study Abroad</h2>
-<p>Every summer, UMBC offers short term study abroad programs taught by UMBC faculty. Earn valuable credits while gaining substantive understanding of other cultures and perspectives. Summer faculty-led study abroad programs are <strong>tuition free</strong>. </p>
-<p>Students from all majors are encouraged to apply.</p>
 
+<p>Every summer, UMBC offers short term study abroad programs taught by UMBC faculty. Earn valuable credits while gaining substantive understanding of other cultures and perspectives. Summer faculty-led study abroad programs are <strong>tuition free</strong>. Students from all majors are encouraged to apply.</p>
 
-		<div id="cbp-fwslider" class="cbp-fwslider">
+<p><strong><em>The  deadline to apply for 2017 summer faculty-led study abroad programs has now  passed. For program updates regarding future summer/winter study abroad programs, check the <a href="http://studyabroad.umbc.edu/">Study Abroad website</a> or contact <a href="mailto:sao@umbc.edu">sao@umbc.edu</a>.</em></strong></p>
+  
 
+  <div class="header-title costarica" style="margin:0px; width:100%">
+      <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=28880">
+        <span class="v-center">
+            Climate Change in Costa Rica:<br>
+			Monteverde and San Jose, Costa Rica
+            <small>(May 29 - June 14)</small>
+        </span>
+      </a>
+  </div>
 
-<ul>
-<!-- Slide One -->
-<li id="slide1">  
-	<a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=28880" target="_blank">
-    	<img src="../images/costarica_xlg.png" alt="Climate Change in Costa Rica:  Monteverde and San Jose, Costa Rica">
-    </a>
-	<div class="carousel-caption wordwrap">
-		<h3>Climate Change in Costa Rica:  Monteverde and San Jose, Costa Rica</h3>
-		<small>(May 29 - June 14)</small><br>
-        <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=28880" role="button" class="web-seemore" target="_blank">Learn More</a></p>
-	</div>
-	<p id="captiontwo">
-        <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=28880" target="_blank">
-        Climate Change in Costa Rica:  Monteverde and San Jose, Costa Rica
-        </a>
-	</p>
-</li>
-</ul>
+	<br>
 
-<hr>
+  <div class="header-title italy" style="margin:0px; width:100%">
+      <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=24937">
+        <span class="v-center">
+           Italian Politics: Siena, Italy
+            <small>(May 28 – June 17)</small>
+        </span>
+      </a>
+  </div>
 
+	<br>
 
-<ul>
-<!-- Slide One -->
-<li id="slide1">  
-	<a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=24937" target="_blank">
-    	<img src="../images/italy2_xlg.jpg" alt="Italian Politics:  Siena, Italy">
-    </a>
-	<div class="carousel-caption wordwrap">
-		<h3>Italian Politics:  Siena, Italy </h3>
-		<small>(May 28 – June 17)</small><br>
-        <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=24937" role="button" class="web-seemore" target="_blank">Learn More</a></p>
-	</div>
-	<p id="captiontwo">
-        <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=24937" target="_blank">
-        Italian Politics:  Siena, Italy
-        </a>
-	</p>
-</li>
-</ul>
+  <div class="header-title colombia" style="margin:0px; width:100%">
+      <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=24938">
+        <span class="v-center">
+           Spanish Language in Colombia:<br>
+           Barranquilla, Colombia
+            <small>(June 5 – July 3)</small>
+        </span>
+      </a>
+  </div>
 
-<hr>
-
-<ul>
-<!-- Slide Two -->
-<li id="slide1">  
-	<a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=24938" target="_blank">
-    	<img src="../images/spain2_xlg.jpg" alt="Spanish Language in Columbia:  Barranquilla, Columbia">
-    </a>
-	<div class="carousel-caption wordwrap">
-		<h3>Spanish Language in Columbia:  Barranquilla, Columbia </h3>
-		<small>(June 5 – July 3)</small><br>
-        <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=24938" role="button" class="web-seemore" target="_blank">Learn More</a></p>
-	</div>
-	<p id="captiontwo">
-        <a href="https://goabroad.umbc.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=24938" target="_blank">
-        Spanish Language in Columbia:  Barranquilla, Columbia
-        </a>
-	</p>
-</li>
-</ul>
-
-
- 
+<br>
  
      <!-- END Content -->
      

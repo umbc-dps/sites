@@ -83,6 +83,19 @@ background-attachment:fixed;
 
           <!-- Slide One -->
           <li id="slide1">
+            <img src="images/students1.jpg" alt="img03">
+                <div class="carousel-caption wordwrap">
+                  <h3>Internship Open House!</h3>
+                  Meet representatives from governmental and non-governmental departments and agencies who are accepting interns throughout the year! Come when you can, leave when you must! April 6th, 4-6PM in III-4230.
+    <p><a role="button" class="web-seemore">You're invited!</a></p>
+                </div>
+                <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Political Science Internship Open House!</a></p>
+            
+          </li>
+         <!-- END Slide One -->
+          
+          <!-- Slide Two -->
+          <li id="slide2">
             <a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03"></a>
                 <div class="carousel-caption wordwrap">
                   <h3>Check out Wednesday Wipeout!</h3>
@@ -92,10 +105,10 @@ background-attachment:fixed;
                 <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Check out Wednesday Wipeout!</a></p>
             
           </li>
-         <!-- END Slide One -->
+         <!-- END Slide Two -->
        
-          <!-- Slide Two -->
-          <li id="slide2">
+          <!-- Slide Three -->
+          <li id="slide3">
             <a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video"><img src="images/polisci-video.png" alt="img03" target="_blank"></a>
                 <div class="carousel-caption wordwrap">
                   <h3>Political science is more than politics!</h3>
@@ -104,10 +117,10 @@ background-attachment:fixed;
                 </div>
                 <p id="captionthree"><a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video">Video: Poli Sci More Than Politics</a></p>
           </li>
-        <!-- END Slide Two -->
+        <!-- END Slide Three -->
          
-         <!-- Slide Three --
-          <li id="slide3">
+         <!-- Slide Four --
+          <li id="slide4">
           <a href="http://undergraduate.umbc.edu/apply/shady-grove.php">
           <img src="images/campus.png" alt="img03" target="_blank">
           </a>
@@ -118,7 +131,7 @@ background-attachment:fixed;
             </div>
             <p id="captionthree"><a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Event at Shady Grove</a></p>
           </li>
-		-- END Slide Three -->         
+		-- END Slide Four -->         
          
          </ul>
          </div>

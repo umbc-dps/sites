@@ -72,18 +72,16 @@
 <ul>
 <!-- Slide One -->
 <li id="slide1">  
-	<a href="courses">
-    	<img src="images/6.jpg" alt="Registration begins March 6.">
-    </a>
-	<div class="carousel-caption wordwrap">
-		<h3>Summer Session 2017</h3>
-		<small>Registration Now Opened!</small><br>
-        <a href="courses" role="button" class="web-seemore" target="_blank">View Courses</a></p>
+	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">
+    	<img src="images/featured/erinberry.png" alt="Featured Faculty: Erin L. Berry">
+	</a>
+	<div class="carousel-caption-right wordwrap">
+		<h3>Featured Faculty: Erin L. Berry</h3>
+		<small>Discover how Prof. Berry inspires students and propels their learning experience beyond the classroom.</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1343" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-        <a href="courses" target="_blank">
-        View Courses
-        </a>
+    	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">Featured Faculty: Erin L. Berry</a>
 	</p>
 </li>
 <!-- END Slide One --> 
@@ -92,16 +90,17 @@
 <!-- Slide Two -->
 <li id="slide2">
 	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
-    	<img src="images/featured/gwst310.jpg" alt="Featured Course: Gender and Inequality in America">
+    	<img src="images/featured/musc336.jpg" alt="Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact">
 	</a>
 	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: Gender and Inequality in America <br>(GWST 310)</h3>
-		<small>Examine how gender, race, and class shape individual experiences in American society. (Arts & Humanities GEP) </small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1272" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+		<h3>Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact <br>(MUSC 336)</h3>
+		<small>Explore how the Beatles influenced music, culture, and politics over the span of their career. </small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1352" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">Featured Course: Gender and Inequality in America</a>
+    	<a href="http://gritgoing.umbc.edu/?p=1352" target="_blank">Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact</a>
 	</p>
+
 </li>
 <!-- END Slide Two -->
 
@@ -123,16 +122,17 @@
 
 <!-- Slide Four -->
 <li id="slide4">
-	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">
-    	<img src="images/featured/jdst390.jpg" alt="Featured Course: Coen Brothers: Genre &amp; Irony">
-	</a>
+	<a href="http://gritgoing.umbc.edu/featured-course-international-relations-2/" target="_blank">
+    	<img src="images/featured/poli280.jpg" alt="Featured Course: International Relations">
+    </a>
 	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: Coen Brothers: Genre &amp; Irony <br>(JDST 390)</h3>
-		<small>The Dude abides! Analyze the iconic Coen Brothers’ films, and their take on irony and post-ironic culture.</small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1316" target="_blank" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+		<h3>Featured Course: International Relations <br> (POLI 280)</h3>
+		<small>Discover the intricacies of global politics and earn Social Sciences GEP!</small><br>
+        <a href="http://gritgoing.umbc.edu/featured-course-international-relations-2/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">Featured Course: Coen Brothers: Genre &amp; Irony</a>
+        <a href="http://gritgoing.umbc.edu/featured-course-international-relations-2/" target="_blank">
+        Featured Course: International Relations</a>
 	</p>
 </li>
 <!-- END Slide Four -->          

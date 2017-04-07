@@ -94,7 +94,7 @@
 <!-- SLIDE TWO --> 
 <li id="slide1">
       
-<a href="http://www.umbc.edu/shadygrove/io/advisoryboard"  target="_blank"><img alt="img02" src="images/2.jpg"target="_blank"></a>
+<a href="http://www.umbc.edu/shadygrove/io/advisoryboard"  target="_blank"><img alt="img02" src="images/advisory.jpg"target="_blank"></a>
 
 <div class="carousel-caption wordwrap">
 <h3>I/O Psychology's Advisory Board</h3>
@@ -116,12 +116,12 @@
 </a>
 
 <div class="carousel-caption wordwrap">
-<h3>Meet Our New Graduate Program Director</h3>
+<h3>Meet Our Graduate Program Director</h3>
 <small>He has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.</small>
 
 <p><a href="http://www.umbc.edu/shadygrove/io/faculty.php" class="web-seemore">Meet Dr. Lasson</a></p></div>
 
-<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/faculty.php">Meet Our New Graduate Program Director</a></p>
+<p id="captiontwo"><a href="http://www.umbc.edu/shadygrove/io/faculty.php">Meet Our Graduate Program Director</a></p>
 
 </li>
 <!-- END SLIDE THREE -->
@@ -129,14 +129,17 @@
 <!-- SLIDE FOUR -->
 <li id="slide3">
 
-<a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A"><img src="images/IO-Carousel1.jpg" alt="Meet Our Alumni: Aubrey Moore"/></a>
-<div class="carousel-caption-right wordwrap">
-<h3>Meet Our Alumni: Aubrey Moore</h3>
-<small>Aubrey Moore discusses the advantage of the Applied IO Psychology Program at UMBC</small>
+<a href="https://www.youtube.com/watch?v=_ii_3nHv64Q" class="video">
+	<img alt="img02" src="images/IOMentor.jpg"target="_blank">
+</a>
 
-<p><a href="https://www.youtube.com/watch?v=wQ0dsz1Vh1A"class="web-seemore video">Watch Now</a></p></div>
+<div class="carousel-caption wordwrap">
+<h3>Mentorship Program Creates an Impact</h3>
+<small>UMBC's I/O Psychology Graduate Program's mentorship program connects students with industry influencers.</small>
 
-</li>
+<p><a href="https://www.youtube.com/watch?v=_ii_3nHv64Q" class="web-seemore video">Watch the impact unfold.</a></p></div>
+
+<p id="captiontwo"><a href="https://www.youtube.com/watch?v=_ii_3nHv64Q" class="video">Mentorship Program Creates an Impact</a></p>
 
 </li>
 <!-- END SLIDE FOUR -->

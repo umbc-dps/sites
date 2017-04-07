@@ -6,7 +6,7 @@
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="This Master's program provides practicing engineers with technical expertise in technical management." />
+<meta name="description" content="UMBC's Technical Management program provides managers with the skills needed to lead technical teams." />
 
 <?php include("includes/tracking.php"); ?>
 
@@ -19,7 +19,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.umbc.edu/dpsstage3/index/" />
 <meta property="og:image" content="http://www.umbc.edu/biotech/images/bk.jpg" />
-<meta property="og:description" content="This Master's program provides practicing engineers with technical expertise in technical management." />
+<meta property="og:description" content="UMBC's Technical Management program provides managers with the skills needed to lead technical teams." />
 
   <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>  <link href='css/magnific-popup.css' rel='stylesheet'>

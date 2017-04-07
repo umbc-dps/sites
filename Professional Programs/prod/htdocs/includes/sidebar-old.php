@@ -6,12 +6,12 @@
 
 <center>
 <p><strong>UMBC Professional Programs Open House</strong><br>
-Saturday, April 1, 10:00-12:00PM<br>
-<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=professionalprograms.umbc.edu&utm_medium=referral&utm_content=pp_sidebar">RSVP Now</a>
+Wednesday, June 21, 6:00-7:30PM<br>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=professionalprograms.umbc.edu&utm_medium=referral&utm_content=pp_sidebar">RSVP Now</a>
 
 <hr style="margin-bottom:10px">
 <strong>UMBC Shady Grove Cybersecurity Info Session</strong><br>
-Thursday, April 6, 6:00-7:30PM<br>
+Wednesday, June 15, 6:00-7:30PM<br>
 <a href="http://www.umbc.edu/shadygrove/cyber/infosession">RSVP Now</a>
 </p>
 </center>

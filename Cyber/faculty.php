@@ -186,6 +186,22 @@
 </div>
 
 <div class="accordionheader">
+  <h4><a href="#hennick" id="hennick"></a>Michael Hennick, CISSP, CASP, CEH, CHFI, PMP | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
+</div>
+
+<div class="accordionbody">
+  <p><img align="left" src="images/faculty/umbc-faculty-Michael-Hennick.gif" width="200" height="250" alt=""/>M.P.S., Cybersecurity, University of Maryland, Baltimore County (UMBC)<br>
+  B.S., Information Systems Management, University of Maryland, Baltimore County (UMBC)</p>
+
+  <p>Michael Hennick is currently CISO and Senior Network Security Architect for Solipsys Corporation, a wholly owned subsidiary of the Raytheon Company, where he is responsible for overseeing cyber operations for the company, including secure network architecture and design, incident response and forensics, vulnerability management, and proactive threat assessment & penetration testing. </p>
+
+  <p>With over 20 years of experience in the IT industry, Michael has held roles and gained first hand experience in positions ranging from software development, technical support, system, database, and network administration, network design and architecture, penetration testing, and incident response.  In addition to teaching cybersecurity at UMBC, he also teaches network security classes for Howard Community College (HCC) and consults with small businesses to assist in their cybersecurity needs.</p>
+
+  <p>He maintains numerous industry certifications including CISSP, CASP, CEH, CHFI, as well as multiple GIAC certifications, and vendor specific certifications.  He is also a member of the Baltimore chapters of FBI’s Infragard, NCMS, and the Information Systems Security Association (ISSA)</p>
+</div>
+
+
+<div class="accordionheader">
   <h4><a href="#kinney" id="kinney"></a>Albert Kinney | Adjunct Instructor <i class="fa fa-angle-down"></i></h4>
 </div>
 

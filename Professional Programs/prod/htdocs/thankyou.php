@@ -139,7 +139,7 @@ BEGIN MAIN
  <p>Thank you for your interest in UMBC's Professional Graduate Programs. </p>
    <p>
    We will address your inquiry shortly. In the meantime, please feel free to browse the respective program pages on our website and learn more about  offerings, curriculum, and experienced faculty.</p>
-   <p>Interested in learning more? Register for our upcoming <a href="http://www.umbc.edu/openhouse/?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=pp_sidebar">Program Exploration Open House</a> on Saturday, April 1 from 10:00am-12:00pm. </p>
+   <p>Interested in learning more? Register for our upcoming <a href="http://www.umbc.edu/openhouse/?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=pp_sidebar">Program Exploration Open House</a> on Wednesday, June 21 from 10:00am-12:00pm. </p>
    <p>Best Regards,<br>
  Office of Professional Programs
  </p>
@@ -155,23 +155,7 @@ BEGIN MAIN
 
 
 
-  <footer id="site-footer" class="clearfix" style="font-size:8pt">
-  
-                <center>
-     <a href="http://twitter.com/umbc_dps"><img src="images/twitter.png" alt="twitter" width="25" height="25"></a> 
-     
-     <a href="http://facebook.com/UMBCProfessionalGradPrograms"><img src="images/facebook.png"  width="25" height="25" alt="facebook"></a> 
-     
-     <a href="https://www.youtube.com/channel/UCLVsMMEHLDtrRaDaZrkiSNA"><img src="images/youtube.png" alt="YouTube"  width="25" height="25"></a> 
-     
-     <a href="http://my.umbc.edu/groups/dps"><img src="images/myUMBC.png" alt="myUMBC" height="25"></a></center> 
-     
-    <p>&copy; <script>document.write(new Date().getFullYear())</script> UMBC Division of Professional Studies · 
-      1000 Hilltop Circle, Sherman Hall East 4th Floor, Baltimore, MD 21250 · 410-455-2336 ·  Email: <a href="mailto:dps@umbc.edu">dps@umbc.edu</a><br>
-      <a href="http://umbc.edu/dps/locations.php">Locations</a> · <a href="http://umbc.edu/dps/departments.php">DPS Departmental Pages</a> · <a href="http://umbc.edu/dps/staffdirectory.php">DPS Staff Directory</a>      <br>
-</p>
-
-  </footer>
+<?php include("includes/footer.php"); ?>
 </div></div>
 <!-- container --> 
 

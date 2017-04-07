@@ -10,7 +10,7 @@
       <hr style="margin-bottom:0px">
       <p style="text-align:center"><strong>Cyber Talks: Cyber Investigations </strong>    
       <br>
-      Saturday, April 27, 6:00-8:00PM <br>
+      Thursday, April 27, 6:00-8:00PM <br>
       <a href="http://umbc.edu/shadygrove/cyber/talks" class="btn">RSVP</a>
       </p>
 

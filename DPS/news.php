@@ -2,8 +2,23 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Division of Professional Studies at UMBC</title>
+<title>Submit Your News! | UMBC Professional Programs</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Has something noteworthy happened that you'd like to share with us? Please use the form below to tell your story & we'll reach out to you to discuss the best outlet to share it." />
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" value="summary">
+<meta name="twitter:site" content="@UMBC_DPS">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Submit Your News! | UMBC Professional Programs" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.umbc.edu/dps/news" />
+<meta property="og:image" content="http://www.umbc.edu/dps/images/noteworthy.jpg" />
+<meta property="og:description" content="Has something noteworthy happened that you'd like to share with us? Please use the form below to tell your story & we'll reach out to you to discuss the best outlet to share it." />
+
+
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,500,700,900' rel='stylesheet' type='text/css'>
 <link href="includes/styles.css" rel="stylesheet">
 <script src="includes/modernizr.custom.js"></script>
@@ -156,24 +171,7 @@ BEGIN MAIN
 <hr>
 
 
-  <footer id="site-footer" class="clearfix" style="font-size:8pt">
-  
-                <center>
-     <a href="http://twitter.com/umbc_dps"><img src="images/twitter.png" alt="twitter" width="25" height="25"></a> 
-     
-     <a href="http://facebook.com/UMBCProfessionalGradPrograms"><img src="images/facebook.png"  width="25" height="25" alt="facebook"></a> 
-     
-     <a href="https://www.youtube.com/channel/UCLVsMMEHLDtrRaDaZrkiSNA"><img src="images/youtube.png" alt="YouTube"  width="25" height="25"></a> 
-     
-     <a href="http://my.umbc.edu/groups/dps"><img src="images/myUMBC.png" alt="myUMBC" height="25"></a></center> 
-     
-    <p>&copy; <script>document.write(new Date().getFullYear())</script> UMBC Division of Professional Studies · 
-      1000 Hilltop Circle, Sherman Hall East 4th Floor, Baltimore, MD 21250 · 410-455-2336 ·  Email: <a href="mailto:dps@umbc.edu">dps@umbc.edu</a><br>
-      <a href="locations.php">Locations</a> · <a href="departments.php">DPS Departmental Pages</a> · <a href="staffdirectory.php">DPS Staff Directory</a>      <br>
-</p>
-      
-
-  </footer>
+<?php include("includes/footer.php"); ?>
 </div></div>
 <!-- container --> 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>

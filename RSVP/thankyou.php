@@ -141,7 +141,7 @@ BEGIN MAIN
     <h3><a href="index"><img src="images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
     
     <h5 style="font-weight:bold">Date:</h5>
-<h6>Saturday, April 1, 10:00AM - 12:00PM</h5>
+<h6>Wednesday, June 21, 6:00PM - 7:30PM</h5>
 <br>
 
 <h5 style="font-weight:bold">Location:</h5>

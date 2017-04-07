@@ -323,7 +323,7 @@ BEGIN MAIN
   <p>&copy; <script>document.write(new Date().getFullYear())</script> UMBC Division of Professional Studies<br>
     1000 Hilltop Circle, Sherman Hall East 4th Floor, Baltimore, MD 21250 |
     410-455-2336  |  Email: <a href="mailto:dps@umbc.edu">dps@umbc.edu</a><br>
-    <a href="locations">Locations</a> | <a href="departments">DPS Departmental Pages</a> | <a href="staffdirectory">DPS Staff Directory</a><br>
+    <a href="locations">Locations</a> | <a href="departments">DPS Departmental Pages</a> | <a href="staffdirectory">DPS Staff Directory</a> | <a href="news">Submit Your News!</a><br>
     UMBC is an Equal Opportunity and Affirmative Action Institution</p>
 </footer>
 
