@@ -106,6 +106,20 @@
 	background-color:#FFF;
 }
 
+.google-maps {
+    position: relative;
+    padding-bottom: 50%; // (450 ÷ 500 = 0.9 = 90%)
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60%;
+}
+
 </style>
 
 </head>
@@ -344,15 +358,7 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
 				</div>
 			</div>
             
-           <div id="notaccordion">
-				<h3 class="na-header"><a href="#SOCY497" id="SOCY497"></a>SOCY 497: Health and Human Rights<i class="fa fa-angle-down"></i></h3>
-				<div class="na-body">
-                	<p>In the last couple of decades health professionals around the world have promoted human rights-based approaches to guide health system analysis and health policy. In this course, students will learn components of health and human rights programs and understand principles of and links between health and human rights. Students will evaluate health policies and programs from a human rights perspective. Examples of human rights approaches to health will be given in both developed and developing countries. In addition, students will examine the benefits of health and human rights programs as well as the problems and conflicts associated with such programs.</p>
-					<p class="na-details">6W2 – HYBRID Mon 6-9:10 pm<br>Ilsa Lottes</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2640">Register</a></center>
-				</div>
-			</div>
-            
+
            <div id="notaccordion">
 				<h3 class="na-header"><a href="#SOCY606" id="SOCY606"></a>SOCY 606: Social Inequality and Social Policy<i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
@@ -376,7 +382,18 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
         
 </div> 
 
+<hr>
+
+<h3><strong>Lion Brothers Building</strong></h3>
+<p>Some  classes will regularly meet downtown in The Lion Brothers Building (UMBC&rsquo;s  new city classroom <a href="http://www.lionbrothersbaltimore.com/neighborhood/" target="_blank">near Hollins Market</a>) where you can actively learn and discover  first-hand what makes Baltimore such a unique and special city. The  Lion Brothers Building is located at <strong>875 Hollins Street</strong> at the corner of Hollins and Poppleton; across the street from the James  McHenry Elementary School and Recreation Center. The building is also close to  Café Gourmet, Zella&rsquo;s Pizzeria, Cup&rsquo;s Coffee House, and a branch of Harbor  Bank.</p>
+
+<h4>Transportation</h4>
+<p>Just two blocks from Martin Luther King Jr. Boulevard (MLK), with easy access to I-295, I-95, and I-83, the Lion Brothers Building is accessible from campus by <a href="http://www.umbc.edu/transit/routes/downtown.php" target="_blank">UMBC’s Downtown Shuttle</a>, local bus lines, as well as the <a href="http://www.charmcitycirculator.com/route/orange" target="_blank">Charm City Circulator</a>.   There is also street parking (free and metered) along the residential roads around the Lion Brothers Building. Students may also park on the UMBC campus (with valid parking permit) and ride the Downtown Shuttle.</p>
 <br>
+
+ <div class="google-maps">     
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3088.0491535848732!2d-76.63140161244198!3d39.28713579663772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c80357a6ca26cf%3A0xc79e91d3bd614c59!2s875+Hollins+St%2C+Baltimore%2C+MD+21201!5e0!3m2!1sen!2sus!4v1491400632688" width="600" height="250" frameborder="0" style="border:0"></iframe>
+      </div>
 
 </div>  
  

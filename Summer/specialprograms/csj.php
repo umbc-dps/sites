@@ -209,7 +209,7 @@ Gender, Race, and Media<i class="fa fa-angle-down"></i></h3>
 Black Women in Cross-Cultural Perspective
 <i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
-                    <p>AFST 245 surveys the traditional music of Africans and delineates elements utilized in Black music of the western hemisphere. The course outlines the musical heterogeneity of Africans and allows students to gain greater understanding of African music and culture, its impact on the development of Black music in the Americas, and its influence on international trends in music. In this way, the humanist impulse at the center of African people's musical propensity will be revealed, and students' awareness will broaden and deepen in regards to the many genres, contexts, functions, and meanings of traditional African music.</p>
+                    <p>A comparative examination of racialized gendered violence.  Specifically, we will examine how violence personally and systemically impacts Black women’s lives. The use of the term “Black” is meant to be inclusive of a global Blackness, not just American concepts.  To this point, Black women suffer violence at unprecedented rates in comparison to their white counterparts.  The instances of violence are varied and are physical and psychological. We will explore the multiple ways that Black women encounter/suffer violence through the criminal justice system, educationally, economically, and culturally. We will also explore the varied representations of Black women as the perpetrators of violence and analyze the notion of whether or not women can achieve empowerment by use of violence.</p>
                     <P><em>Note: The first two weeks will be online; the last two weeks will meet in person.</em></P>
                     <p class="na-details">4W2 – HYBRID Tues/Thur/Fri 9–12:10 pm<br>GEP - C<br>Tammy Sanders Henderson</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2336">Register</a></center>
@@ -238,6 +238,18 @@ Black Women in Cross-Cultural Perspective
                 	<p>Explore core concepts in gender studies and histories of inequality through a series of case studies rooted in issues facing Baltimore City: housing and city development; labor, immigration, and incarceration; and LGBT neighborhood cities. You’ll learn about these current issues through applied experiences in the city while examining the ways in which gender roles and gender relations are constructed and experienced in American society. Special attention is paid to the ways in which gender-based experiences are divided by other social relations, particularly those of class, race and age. Recommended preparation: One lower-level social sciences or humanities course focused on American society or culture.</p>
 					<p class="na-details">6W1 – HYBRID Mon 1-4:10 pm<br>Lion Brothers Bldg<br>GEP - AH<br>Kate Drabinski</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1894">Register</a></center>
+				</div>
+			</div>
+            
+            
+			<div id="notaccordion">
+				<h3 class="na-header"><a href="#AMST325" id="AMST325"></a>AMST 325:  Studies in Popular Culture<i class="fa fa-angle-down"></i></h3>
+				<div class="na-body">
+                	<p>
+The interplay of the popular arts and American society, using American studies interdisciplinary methodologies. Emphasis will be placed on the modern era from the 1890s to the present, with greatest weight placed upon mass and popular culture of the last quarter of this century. Recommended Preparation: One lower-level social sciences or humanities course focused on American society or culture. 
+</p>
+					<p class="na-details">6W1 – SHADY GROVE/HYBRID Tues 1–4:10 pm<br>GEP - AH<br>GEP - AH<br>Dabrina Taylor</p>
+                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2156">Register</a></center>
 				</div>
 			</div>
             
@@ -312,7 +324,7 @@ Gender, Race, and Media<i class="fa fa-angle-down"></i></h3>
 Black Women in Cross-Cultural Perspective
 <i class="fa fa-angle-down"></i></h3>
 				<div class="na-body">
-                    <p>AFST 245 surveys the traditional music of Africans and delineates elements utilized in Black music of the western hemisphere. The course outlines the musical heterogeneity of Africans and allows students to gain greater understanding of African music and culture, its impact on the development of Black music in the Americas, and its influence on international trends in music. In this way, the humanist impulse at the center of African people's musical propensity will be revealed, and students' awareness will broaden and deepen in regards to the many genres, contexts, functions, and meanings of traditional African music.</p>
+                    <p>A comparative examination of racialized gendered violence.  Specifically, we will examine how violence personally and systemically impacts Black women’s lives. The use of the term “Black” is meant to be inclusive of a global Blackness, not just American concepts.  To this point, Black women suffer violence at unprecedented rates in comparison to their white counterparts.  The instances of violence are varied and are physical and psychological. We will explore the multiple ways that Black women encounter/suffer violence through the criminal justice system, educationally, economically, and culturally. We will also explore the varied representations of Black women as the perpetrators of violence and analyze the notion of whether or not women can achieve empowerment by use of violence.</p>
                     <P><em>Note: The first two weeks will be online; the last two weeks will meet in person.</em></P>
                     <p class="na-details">4W2 – HYBRID Tues/Thur/Fri 9–12:10 pm<br>GEP - C<br>Tammy Sanders Henderson</p>
                     <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2350">Register</a></center>
@@ -379,7 +391,7 @@ From Samurai to "Salariman": Japanese History through Film and Literature<i clas
 		<div class="na-body">
 			<div id="notaccordion">
 				<h3 class="na-header"><a href="#LLC606" id="LLC606"></a>
-                	LLC 606: Bioethics<i class="fa fa-angle-down"></i>
+                	LLC 606: Social Inequality and Social Policy<i class="fa fa-angle-down"></i>
                 </h3>
 				<div class="na-body">
                	  <p>This course examines poverty and inequality in modern society. The focus is on describing the extent of poverty and inequality, examining theories that attempt to explain these phenomena and discussing the policies that have been employed to mitigate them. In addition to class inequality, the course also considers racial and gender inequality.</p>
@@ -398,7 +410,7 @@ From Samurai to "Salariman": Japanese History through Film and Literature<i clas
                 	MLL 210: AFRICA: Culture and Development<i class="fa fa-angle-down"></i>
                 </h3>
 				<div class="na-body">
-               	  <p>This course examines poverty and inequality in modern society. The focus is on describing the extent of poverty and inequality, examining theories that attempt to explain these phenomena and discussing the policies that have been employed to mitigate them. In addition to class inequality, the course also considers racial and gender inequality.</p>
+               	  <p>A general introduction to Africa&rsquo;s culture and development using an interdisciplinary approach. It surveys African peoples and their cultures, languages, societies, and development. AFST 213/MLL 210 emphasizes the interrelationship between Africa&rsquo;s diverse geographical features, sociocultural practices and norms, languages, and its development. It presents an opportunity to examine the various forms of cultural and creative practices in contemporary Africa and how they have influenced socioeconomic and political transformation and development of the continent. Issues related to African environment, family and marriage, social organization, language, religion, political economy, as well as gender relations and how they have been shaped by internal and external forces/factors are discussed.</p>
 					<P><em>Note: The course will meet in person on Wednesdays, May 31, June 7, July 12, July 19, Aug 2 and Aug 16. The online sessions will be held on June 14, 21, 28, July 26 and Aug 9.</em></P>
                     <p class="na-details">12W1 – HYBRID Wed 6-9:10 pm<br>
                       GEP - AH<br>

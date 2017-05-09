@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="index.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357192480937355" remote="131357192480000000" Dst="2" />
-<file name="orientation.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196475966258" remote="131357196470000000" Dst="2" />
+<file name="orientation.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131370176689445764" remote="131370176690000000" Dst="2" />
 <file name="thankyou.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196427151377" remote="131357196460000000" Dst="2" />
 <file name="departments.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196417680430" remote="131357196480000000" Dst="2" />
 <file name="locations.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196483547016" remote="131357196480000000" Dst="2" />
 <file name="staffdirectory.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357197299488602" remote="131357197300000000" Dst="2" />
-<file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131267333154010955" remote="131267333150000000" Dst="1" />
+<file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131267333154010955" remote="131267297150000000" Dst="2" />
 <file name="dpsorders.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131012345850000000" remote="131012345850000000" Dst="2" />
 <file name="meetingrequest.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196421680830" remote="131357196480000000" Dst="2" />
 <file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131267321847050372" remote="131267321850000000" Dst="1" />
@@ -19,4 +19,5 @@
 <file name="facilities.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196418290491" remote="131357196480000000" Dst="2" />
 <file name="news.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357207271925746" remote="131357207270000000" Dst="2" />
 <file name="confirm.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196417110373" remote="131357196490000000" Dst="2" />
+<file name="orientationdraft.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131370176637680588" remote="131370176640000000" Dst="2" />
 </dwsync>

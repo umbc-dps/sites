@@ -107,17 +107,17 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://www.umbc.edu/shadygrove/r2r.php" target="_blank">
+<a href="http://www.umbc.edu/shadygrove/openhouse" target="_blank">
 <div class="image mobile-left">
 
 <img src="images/umbc-usg-outside-campus.png" width="1000" height="500" alt=""/>
 	
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/r2r.php">&raquo;</a>
+<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/openhouse">&raquo;</a>
 <div class="title">UMBC-USG Open House</div> <br>
-<div class="tagline">USG's Undergraduate Open House is on Saturday, April 22, 9:00am-12:00pm! Meet UMBC Program Directors, receive help with your Common Application, and learn about the transfer process!</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/r2r.php" target="_blank">RSVP Today!</a>
+<div class="tagline">USG's Undergraduate Open House is on Saturday, April 22, 8:30am-12:00pm! Meet UMBC Program Directors and learn about the transfer process!</div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/openhouse" target="_blank">RSVP Today!</a>
 </div>
 </a>
 </div>

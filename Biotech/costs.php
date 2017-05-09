@@ -162,7 +162,8 @@
         <tr>
           <td colspan="3">*Additional costs for application and matriculation fees. See below.<br>
 
-          **Maryland tuition rates applicable to DC, Virginia, Pennsylvania & Delaware starting Fall 2017</td>
+          <span style="font-size:9pt">** <a href="http://regional.umbc.edu" target="_blank">Regional tuition rate</a> applicable to DC, Delaware & select counties in Virginia & Pennsylvania starting Fall 2017</span>
+          </td>
         </tr>
       </table>
 

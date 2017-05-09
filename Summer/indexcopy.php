@@ -72,56 +72,38 @@
 <ul>
 <!-- Slide One -->
 <li id="slide1">  
-	<a href="courses">
-    	<img src="images/featured/poli280.jpg" alt="Featured Course: International Relations">
-    </a>
-	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: International Relations <br> (POLI 280)</h3>
-		<small>Discover the intricacies of global politics and earn Social Sciences GEP!</small><br>
-        <a href="courses" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-	</div>
-	<p id="captiontwo">
-        <a href="courses" target="_blank">
-        Featured Course: International Relations</a>
-	</p>
-</li>
-<!-- END Slide One --> 
-          
-
-<!-- Slide Two -->
-<li id="slide2">
-	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">
-    	<img src="images/featured/erinberry.png" alt="Featured Faculty: Erin L. Berry">
+	<a href="http://gritgoing.umbc.edu/featured-faculty-dr-s-peter-resta/" target="_blank">
+    	<img src="images/featured/resta.jpg" alt="Featured Faculty: Dr. S. Peter Resta">
 	</a>
 	<div class="carousel-caption-right wordwrap">
-		<h3>Featured Faculty: Erin L. Berry</h3>
-		<small>Discover how Prof. Berry inspires students and propels their learning experience beyond the classroom.</small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1343" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+		<h3>Featured Faculty: Dr. S. Peter Resta</h3>
+		<small>Find out how Dr. Resta uses his passion for social phenomena to develop critical thinking skills in his students.</small>
+		<p><a href="http://gritgoing.umbc.edu/featured-faculty-dr-s-peter-resta/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">Featured Faculty: Erin L. Berry</a>
+    	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">Featured Faculty: Dr. S. Peter Resta</a>
+	</p>
+</li> 
+          
+<!-- Slide Two -->
+<li id="slide2">
+	<a href="http://gritgoing.umbc.edu/featured-course-public-communication/" target="_blank">
+    	<img src="images/featured/spch100.jpg" alt="Featured Course: Public Communication">
+	</a>
+	<div class="carousel-caption-right wordwrap" style="width:300px">
+		<h3>Featured Course:
+         Public Communication <br>(SPCH 100)</h3>
+		<small>Learn the process of speech-giving in this six-week course.</small>
+		<p><a href="http://gritgoing.umbc.edu/featured-course-public-communication/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	</div>
+	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/featured-course-public-communication/" target="_blank">Featured Course: Public Communication</a>
 	</p>
 </li>
 <!-- END Slide Two -->
 
 <!-- Slide Three -->
 <li id="slide3">
-	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
-    	<img src="images/featured/musc336.jpg" alt="Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact">
-	</a>
-	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact <br>(MUSC 336)</h3>
-		<small>Explore how the Beatles influenced music, culture, and politics over the span of their career. </small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1352" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-	</div>
-	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1352" target="_blank">Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact</a>
-	</p>
-</li>
-<!-- END Slide Three -->
-
-<!-- Slide Four --
-<li id="slide4">
 	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">
     	<img src="images/featured/baltimore.png" alt="Special Programs">
 	</a>
@@ -132,6 +114,22 @@
 	</div>
 	<p id="captiontwo">
     	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">Special Programs</a>
+	</p>
+</li>
+<!-- END Slide Three -->
+
+<!-- Slide Four -->
+<li id="slide4">
+	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
+    	<img src="images/featured/musc336.jpg" alt="Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact">
+	</a>
+	<div class="carousel-caption wordwrap">
+		<h3>Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact <br>(MUSC 336)</h3>
+		<small>Explore how the Beatles influenced music, culture, and politics over the span of their career. </small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1352" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	</div>
+	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/?p=1352" target="_blank">Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact</a>
 	</p>
 </li>
 <!-- END Slide Four -->
@@ -150,7 +148,7 @@
     	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">Featured Course: Coen Brothers: Genre &amp; Irony</a>
 	</p>
 </li>
--- END Slide Five -->
+<-- END Slide Five -->
       
 </ul>
 <div id="dotcontainer"></div>

@@ -5,11 +5,11 @@
       <!--
       <br>
       <p style="font-style:italic; text-align:center; margin-top:-15px;">
-      <strong>Drop in and chat with the Program Director on 3/9!</strong><br />
-<a href="https://docs.google.com/a/umbc.edu/forms/d/e/1FAIpQLSczKm2H8H4ocY82gz3jF5Q_qsPyHFnTPX8Y8XC8I8v_hJy6DQ/viewform" target="_blank" onMouseDown="ga('send', 'event', 'lead', 'click', 'dropin-session');" class="btn">Sign Up</a></p> 
+      <strong>Drop in and chat with the Program Director on 5/1!</strong><br />
+<a href="infosession" target="_blank" class="btn">Sign Up</a></p> 
 <hr>
 -->
-      <p style="text-align:center; /*margin-top:-20px*/">
+      <p>
 		<strong>Program Exploration Open House</strong><br>
 Wednesday, June 21, 6:00PM - 7:30PM<br>
 <a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=engm_sidebar" class="btn">Save Your Spot!</a>
@@ -95,13 +95,7 @@ Graduate Certificate: Engineering Management
 <?php
 //Set stream options
 $context = stream_context_create(array('http' => array('ignore_errors' => true)));
-if(!isset($_GET['tfa_next'])) {
-$qs = ' ';
-if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
-echo file_get_contents('https://umbc.secure.force.com/form?formID=217734'.$qs);
-} else {
-echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
-}
+echo file_get_contents('https://umbc.tfaforms.net/rest/forms/view/217734'.$qs);
 ?>
 </div>
 

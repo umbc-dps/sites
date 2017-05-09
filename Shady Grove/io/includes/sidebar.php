@@ -16,9 +16,9 @@
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p style="text-align:center"><strong>Fall 2017 Application</strong><br> 
-		Deadline: April 1<br>
-        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
+      <p style="text-align:center"><strong>Fall 2018 Application</strong><br> 
+		Fall 2018 applications will open later this Fall.<br>
+        <!-- <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a> -->
       </p>
 	</aside>
 
@@ -92,13 +92,7 @@
 <?php
 //Set stream options
 $context = stream_context_create(array('http' => array('ignore_errors' => true)));
-if(!isset($_GET['tfa_next'])) {
-$qs = ' ';
-if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
-echo file_get_contents('https://umbc.secure.force.com/form?formID=217734'.$qs);
-} else {
-echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
-}
+echo file_get_contents('https://umbc.tfaforms.net/rest/forms/view/217734'.$qs);
 ?>
 </div>
 

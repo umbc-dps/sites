@@ -83,19 +83,6 @@ background-attachment:fixed;
 
           <!-- Slide One -->
           <li id="slide1">
-            <img src="images/students1.jpg" alt="img03">
-                <div class="carousel-caption wordwrap">
-                  <h3>Internship Open House!</h3>
-                  Meet representatives from governmental and non-governmental departments and agencies who are accepting interns throughout the year! Come when you can, leave when you must! April 6th, 4-6PM in III-4230.
-    <p><a role="button" class="web-seemore">You're invited!</a></p>
-                </div>
-                <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Political Science Internship Open House!</a></p>
-            
-          </li>
-         <!-- END Slide One -->
-          
-          <!-- Slide Two -->
-          <li id="slide2">
             <a href="visit/pd-politicalscience"><img src="images/sunil-students.jpg" alt="img03"></a>
                 <div class="carousel-caption wordwrap">
                   <h3>Check out Wednesday Wipeout!</h3>
@@ -105,9 +92,21 @@ background-attachment:fixed;
                 <p id="captionthree"><a href="visit/pd-politicalscience" target="_blank">Check out Wednesday Wipeout!</a></p>
             
           </li>
+         <!-- END Slide One -->
+          
+          <!-- Slide Two -->
+          <li id="slide2">
+            <a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video"><img src="images/polisci-video.png" alt="img03" target="_blank"></a>
+                <div class="carousel-caption wordwrap">
+                  <h3>Political science is more than politics!</h3>
+                  Take a look at how our political science students and alumni are applying their coursework and degrees to a variety of real world issues.
+    <p><a href="https://www.youtube.com/watch?v=EOh07F8guP8" role="button" class="web-seemore video" target="_blank">View Video</a></p>
+                </div>
+                <p id="captionthree"><a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video">Video: Poli Sci More Than Politics</a></p>
+          </li>
          <!-- END Slide Two -->
        
-          <!-- Slide Three -->
+          <!-- Slide Three --
           <li id="slide3">
             <a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video"><img src="images/polisci-video.png" alt="img03" target="_blank"></a>
                 <div class="carousel-caption wordwrap">
@@ -117,7 +116,7 @@ background-attachment:fixed;
                 </div>
                 <p id="captionthree"><a href="https://www.youtube.com/watch?v=EOh07F8guP8" class="video">Video: Poli Sci More Than Politics</a></p>
           </li>
-        <!-- END Slide Three -->
+        -- END Slide Three -->
          
          <!-- Slide Four --
           <li id="slide4">

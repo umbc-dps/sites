@@ -71,7 +71,7 @@
 <!-- START Content -->
  <h3>Thank You!</h3>
     <h5 style="font-weight:bold">Date:</h5>
-<h6>Wednesday, June 15, 6:00PM - 7:30PM</h5>
+<h6>Thursday, June 15, 6:00PM - 7:30PM</h5>
 <br>
 
 <h5 style="font-weight:bold">Location:</h5>

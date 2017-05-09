@@ -70,35 +70,6 @@
   <div class="eleven columns">
   
 <!-- START Content -->
-<h3>Summer 2017 Schedule of Classes</h3>
-<p align="left"><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session I - 12 weeks (May 30, 2017 - August 18, 2017)<br>
-<strong>
-Advanced Registration Begins: </strong>March 6, 2017</strong><br>
-<strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
-  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-
-
-<table id="schedule">
-  <tr>
-    <td width="15%">COURSE/CLASS<br>NUMBER</td>
-    <td width="20%">COURSE TITLE </td>
-    <td width="15%">DAY</td>
-    <td width="20%">TIME</td>
-    <td width="15%">FORMAT</td>
-    <td width="15%">ROOM</td>
-  </tr>
-  <tr>
-    <td valign="bottom">HIT  760   (2571)</td>
-    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2571" target="_blank">Health  Informatics Capstone</a></td>
-    <td valign="bottom">Thursday</td>
-    <td valign="bottom">4:30 - 7:40 PM</td>
-    <td valign="bottom">Hybrid</td>
-    <td>TBD</td>
-    </tr>
-</table>
-
-<hr>
-
 <h3>Fall 2017 Schedule of Classes</h3>
 <p align="left"><strong>Semester Dates:</strong> August 30, 2017 - December 12, 2017<strong><br>
 Advanced Registration Begins: </strong>April 3, 2017 (for students currently enrolled in spring 2017)<strong><br>
@@ -118,8 +89,8 @@ Registration For Newly Admitted Graduate Students:</strong> June 1, 2017<br>
   <tr>
     <td valign="bottom">HIT  658   (6365)</td>
     <td valign="bottom">Health  Informatics I</td>
-    <td valign="bottom">Wednesday</td>
-    <td valign="bottom">6:00 - 8:45 PM</td>
+    <td valign="bottom">Thursday</td>
+    <td valign="bottom">7:10 - 9:40 PM</td>
     <td valign="bottom">In Person</td>
     <td>TBD</td>
     </tr>
@@ -129,7 +100,7 @@ Registration For Newly Admitted Graduate Students:</strong> June 1, 2017<br>
     <td valign="bottom">Monday</td>
     <td valign="bottom">4:30  - 7:00 PM</td>
     <td valign="bottom">In Person</td>
-    <td>TBD</td>
+    <td>ITE 233</td>
     </tr>
   <tr>
     <td valign="bottom">HIT  674   (7871)</td>
@@ -137,7 +108,7 @@ Registration For Newly Admitted Graduate Students:</strong> June 1, 2017<br>
     <td valign="bottom">Tuesday</td>
     <td valign="bottom">7:10 - 9:40 PM</td>
     <td valign="bottom">In Person</td>
-    <td>TBD</td>
+    <td>ITE 237</td>
     </tr>
   <tr>
     <td valign="bottom">HIT  723   (6739)</td>
@@ -145,15 +116,23 @@ Registration For Newly Admitted Graduate Students:</strong> June 1, 2017<br>
     <td valign="bottom">Thursday</td>
     <td valign="bottom">4:30 - 7:00 PM</td>
     <td valign="bottom">Hybrid</td>
-    <td>TBD</td>
+    <td>ITE 229</td>
     </tr>
   <tr>
-    <td valign="bottom">HIT  750   </td>
+    <td valign="bottom">HIT  750 (8001)   </td>
     <td valign="bottom">Data Analytics</td>
-    <td valign="bottom">Monday</td>
+    <td valign="bottom">Tuesday</td>
     <td valign="bottom">4:30 - 7:00 PM</td>
     <td valign="bottom">In Person</td>
-    <td>TBD</td>
+    <td>ENGR 021A</td>
+  </tr>
+  <tr>
+    <td valign="bottom">HIT 751</td>
+    <td valign="bottom">Healthcare Databases</td>
+    <td valign="bottom">Wednesday</td>
+    <td valign="bottom">6:00 - 8:45 PM</td>
+    <td valign="bottom">&nbsp;</td>
+    <td>PS U638</td>
   </tr>
   <tr>
     <td valign="bottom">HIT  759   (6741)</td>
@@ -161,9 +140,49 @@ Registration For Newly Admitted Graduate Students:</strong> June 1, 2017<br>
     <td valign="bottom">Wednesday</td>
     <td valign="bottom">6:00 - 8:45 PM</td>
     <td valign="bottom">Hybrid</td>
-    <td>TBD</td>
+    <td>ITE 239</td>
   </tr>
   </table>
+
+
+<hr>
+
+
+<h3>Summer 2017 Schedule of Classes</h3>
+<p align="left"><strong>Semester Dates:</strong> Session I - 6 weeks (May 30, 2017 - July 7, 2017), Session I - 12 weeks (May 30, 2017 - August 18, 2017)<br>
+<strong>
+Advanced Registration Begins: </strong>March 6, 2017</strong><br>
+<strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+
+<table id="schedule">
+  <tr>
+    <td width="15%">COURSE/CLASS<br>NUMBER</td>
+    <td width="20%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="15%">FORMAT</td>
+    <td width="15%">ROOM</td>
+  </tr>
+  <tr>
+    <td valign="bottom">HIT 663 (2863)</td>
+    <td valign="bottom"><a href= "https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2863" target="_blank">Health IT Policy &amp; Administration</a></td>
+    <td valign="bottom">Thursday</td>
+    <td valign="bottom">4:30 - 7:40 PM</td>
+    <td valign="bottom">Online</td>
+    <td>Web</td>
+  </tr>
+  <tr>
+    <td valign="bottom">HIT  760   (2571)</td>
+    <td valign="bottom"><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2571" target="_blank">Health  Informatics Capstone</a></td>
+    <td valign="bottom">Thursday</td>
+    <td valign="bottom">4:30 - 7:40 PM</td>
+    <td valign="bottom">Hybrid</td>
+    <td>ITE 233</td>
+    </tr>
+</table>
+
 
 <p>&nbsp;</p>
 

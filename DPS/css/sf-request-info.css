@@ -29,4 +29,7 @@ form#tfa_0 input.primaryAction{
 	width:100%!important;
 	max-width:270px!important;
 }
-.wFormContainer{min-height:200px!important; overflow:hidden}
+.wFormContainer{min-height:400px!important; overflow:hidden}
+
+fieldset.captcha{border:0px!important; margin:0px!important}
+fieldset.captcha legend, div.captchaHelp{display:none!important}

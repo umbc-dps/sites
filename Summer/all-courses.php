@@ -423,7 +423,7 @@ $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
 	var courseSubject = $(this).closest('td').siblings(':nth-child(1)').text();
 	var courseNumber = $(this).closest('td').siblings(':nth-child(2)').text();
 	var courseFull = courseSubject + courseNumber;
-	var courseSyllabusURL = 'http://umbc.edu/summer/documents/' + courseFull + '.pdf';
+	var courseSyllabusURL = 'documents/' + courseFull + '.pdf';
 	var regexCourseFull = new RegExp(courseFull);
 	$(this).attr("href", courseSyllabusURL);
 	$(this).text("Download");

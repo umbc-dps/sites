@@ -76,7 +76,7 @@ form#tfa_0 input.primaryAction{
 	text-align:center!important;
 	display:block;
 	height:30px;
-	margin-right:500px!important;
+	min-width:95%!important;
 }
 .actions{
 	display:inline-block;

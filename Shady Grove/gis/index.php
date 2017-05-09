@@ -81,7 +81,7 @@
 
 <div class="carousel-caption-right wordwrap">
 <h3>UMBC GIS Info Session</h3>
-<small>Visit us on Wednesday, June 15, to learn about our Cybersecurity Master's degree offered in Rockville, MD.</small>
+<small>Visit us on Thursday, June 15, to learn about our Cybersecurity Master's degree offered in Rockville, MD.</small>
 
 <p><a href="infosession" target="_blank" class="web-seemore">RSVP Now</a></p></div>
 

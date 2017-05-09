@@ -9,11 +9,6 @@
       <a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_sidebar" class="btn">Save Your Spot!</a>
       </p>
       <hr style="margin-bottom:0px">
-      <p style="text-align:center"><strong>Cyber Talks at Shady Grove</strong>    
-      <br>
-      Thursday, April 27, 6:00-8:00PM <br>
-      <a href="http://umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_april17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_sidebar" class="btn">RSVP</a>
-      </p>
 </aside>
 
     

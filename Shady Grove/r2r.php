@@ -163,7 +163,7 @@ i, .ui-state-active i{float:left!important; margin-right:15px}
 
     <hr style="height:4px;border:none;color:#333;background-color:#333;" />
 
-  <h3>Admission Requirements</h3>
+  <h3>R2R Admission Requirements</h3>
   <ul>
     <li>Completed Application (Fall deadline: June 15; Spring deadline: November 15)</li>
     <li>Minimum 2.0 MC GPA with an indicated interest in one of UMBC’s four undergraduate programs offered at USG: <a href="history" target="_blank">History</a>, <a href="politicalscience" target="_blank">Political Science</a>, <a href="psychology" target="_blank">Psychology</a>, and/or <a href="socialwork" target="_blank">Social Work</a></li>

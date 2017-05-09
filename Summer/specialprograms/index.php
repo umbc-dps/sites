@@ -135,8 +135,8 @@
 		<div class="narrowchart">
       
      <!-- <h4><strong><em>Learn how to make a difference - make this summer count!</em></strong></h4> -->
-     <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom.  Explore concepts of civic engineering, pursue services learning or undergraduate research, and broaden your perspective this summer.</p>
-     <p>Most courses fulfill UMBC’s <a href="http://umbc.edu/summer/all-courses.php#gep">general education requirements</a>, and summer scholarships 	are available for qualified students.</p>
+     <p>Special Programs feature current UMBC courses in the arts, humanities and social sciences that take you beyond the traditional classroom. Explore concepts of <a href="../faq.php" target="_blank">civic engagement</a>, pursue <a href="../faq.php" target="_blank">service learning</a>, and participate in <a href="../events.php" target="_blank">special events</a> as you broaden your perspective this summer.</p>
+     <p>Most courses fulfill UMBC’s <a href="../all-courses.php#gep" target="_blank">general education requirements</a>, and Special Programs <a href="../scholarships.php" target="_blank">summer scholarships</a> are available for qualified students.</p>
      
      <!-- Start Content --> 
      

@@ -68,58 +68,6 @@ table#sequence td:first-child { text-align:left }
 <!-- END Page Header --><div class="eleven columns">
   
 <!-- START Content -->
-
-<h3>Summer 2017 Schedule of Classes</h3>
-
-<p><strong>Semester Dates:</strong>  Session I - 6 weeks (May 30, 2017 - Juy 7, 2017), Session I - 12 weeks ( May 30, 2017 - August 18, 2017)<br>
-  <strong>Advanced Registration Begins:</strong> March 6, 2017<br>
-  <strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
-  <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-
-
-<table id="schedule">
-  <tr>
-    <td width="20%">COURSE/CLASS NUMBER</td>
-    <td width="20%">COURSE TITLE </td>
-    <td width="10%">DAY</td>
-    <td width="20%">TIME</td>
-    <td width="10%">FORMAT</td>
-    <td width="10%">ROOM</td>
-  </tr>
-   <tr>
-     <td>ENMG 650 (1181)  </td>
-     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1181" target="_blank">Project Management</a></td>
-     <td>Tuesday</td>
-     <td>6:00 - 9:10 PM</td>
-     <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 652 (1041)  </td>
-     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1041" target="_blank">Mgmt., Leadership and Communication</a></td>
-     <td>Monday</td>
-     <td>4:30 - 7:40 PM</td>
-     <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 652 (2508)  </td>
-     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2508" target="_blank">Mgmt., Leadership and Communication</a></td>
-     <td>Tuesday</td>
-     <td>4:30 - 7:40 PM</td>
-     <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
-   <tr>
-     <td>ENMG 658 (1473)  </td>
-     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1473" target="_blank">Financial Management</a></td>
-     <td>Wednesday</td>
-     <td>4:30 - 7:40 PM</td>
-     <td>Hybrid</td>
-     <td>TBD</td>
-   </tr>
-</table>
-<hr>
 <h3>Fall 2017 Schedule of Classes</h3>
 
 <p><strong>Semester Dates:</strong>  August 30, 2017 – December 12, 2017<br>
@@ -214,8 +162,61 @@ table#sequence td:first-child { text-align:left }
      <td>TBD</td>
      </tr>
    </table>
-<br>
+   <br>
+   
 <hr>
+<h3>Summer 2017 Schedule of Classes</h3>
+
+<p><strong>Semester Dates:</strong>  Session I - 6 weeks (May 30, 2017 - Juy 7, 2017), Session I - 12 weeks ( May 30, 2017 - August 18, 2017)<br>
+  <strong>Advanced Registration Begins:</strong> March 6, 2017<br>
+  <strong>Last Day to Add/Drop a Class:</strong> June 2, 2017<br>
+  <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+
+<table id="schedule">
+  <tr>
+    <td width="20%">COURSE/CLASS NUMBER</td>
+    <td width="20%">COURSE TITLE </td>
+    <td width="10%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="10%">FORMAT</td>
+    <td width="10%">ROOM</td>
+  </tr>
+   <tr>
+     <td>ENMG 650 (1181)  </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1181" target="_blank">Project Management</a></td>
+     <td>Tuesday</td>
+     <td>6:00 - 9:10 PM</td>
+     <td>Hybrid</td>
+     <td>TBD</td>
+   </tr>
+   <tr>
+     <td>ENMG 652 (1041)  </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1041" target="_blank">Mgmt., Leadership and Communication</a></td>
+     <td>Monday</td>
+     <td>4:30 - 7:40 PM</td>
+     <td>Hybrid</td>
+     <td>TBD</td>
+   </tr>
+   <tr>
+     <td>ENMG 652 (2508)  </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2508" target="_blank">Mgmt., Leadership and Communication</a></td>
+     <td>Tuesday</td>
+     <td>7:00 - 10:20 PM</td>
+     <td>Hybrid</td>
+     <td>TBD</td>
+   </tr>
+   <tr>
+     <td>ENMG 658 (1473)  </td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1473" target="_blank">Financial Management</a></td>
+     <td>Wednesday</td>
+     <td>4:30 - 7:40 PM</td>
+     <td>Hybrid</td>
+     <td>TBD</td>
+   </tr>
+</table>
+<hr>
+
 
 <h3>Sequence of Engineering Management Courses</h3>
 <table id="sequence">

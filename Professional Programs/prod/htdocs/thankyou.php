@@ -139,7 +139,7 @@ BEGIN MAIN
  <p>Thank you for your interest in UMBC's Professional Graduate Programs. </p>
    <p>
    We will address your inquiry shortly. In the meantime, please feel free to browse the respective program pages on our website and learn more about  offerings, curriculum, and experienced faculty.</p>
-   <p>Interested in learning more? Register for our upcoming <a href="http://www.umbc.edu/openhouse/?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=pp_sidebar">Program Exploration Open House</a> on Wednesday, June 21 from 10:00am-12:00pm. </p>
+   <p>Interested in learning more? Register for our upcoming <a href="http://www.umbc.edu/openhouse/?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=pp_sidebar">Program Exploration Open House</a> on Wednesday, June 21 from 6:00-7:30pm. </p>
    <p>Best Regards,<br>
  Office of Professional Programs
  </p>

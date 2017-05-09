@@ -151,14 +151,14 @@
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6412" target="_blank">Methods of    Assessment in I/O Psychology</a></td>
     <td>Th</td>
     <td>06:00 PM - 09:00 PM</td>
-    <td>Ed Rudow</td>
+    <td>Edward Rudow</td>
   </tr>
   <tr>
     <td>PSYC 677.1 (7338)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7338" target="_blank">Professional    HR Practices</a></td>
     <td>W</td>
     <td>07:00 PM - 10:00 PM</td>
-    <td>Ed    Rudow</td>
+    <td>Edward    Rudow</td>
   </tr>
   <tr>
     <td>PSYC 677.2 (7339)</td>
@@ -170,6 +170,136 @@
   </table>
 
 
+<br>
+<br>
+
+<h3>Fall 2017 Schedule of Classes </h3>
+<p align="left"><strong>Semester Dates:</strong>&nbsp;August 30, 2017 – December 12, 2017<br>
+	<strong>Advanced Registration Begins: </strong>April 3, 2017 (for students currently  enrolled in spring 2017)<br>
+  <strong>Registration For Newly Admitted Graduate Students:</strong>&nbsp;June 1,  2017<br>
+  <strong>Last Day to Add/Drop a Class: </strong>September 13, 2017<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+<p>There may be more courses announced in the near future.  This list is not final.</p>
+
+<table id="schedule">
+  <tr>
+    <td width="20%">COURSE/CLASS<br>
+      NUMBER</td>
+    <td width="25%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="20%">PROFESSOR</td>
+  </tr>
+  <tr>
+    <td>PSYC 601.4 (7350)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7350" target="_blank">Total Rewards</a></td>
+    <td>W</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>Tom Ettinger</td>
+  </tr>
+  <tr>
+    <td>PSYC 670.1 (2283)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/2283" target="_blank">I/O Psychology</a></td>
+    <td>M</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>Edward Rudow</td>
+  </tr>
+  <tr>
+    <td>PSYC 670.2 (6072)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/2283" target="_blank">I/O Psychology</a></td>
+    <td>Tu</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>Lesley Perkins</td>
+  </tr>
+  <tr>
+    <td>PSYC 671.1 (8039)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8039" target="_blank">Seminar in Applied Social Psychology</a></td>
+    <td>Tu</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>Elliot D. Lasson</td>
+  </tr>
+  <tr>
+    <td>PSYC 671.2 (8040)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8040" target="_blank">Seminar in Applied Social Psychology</a></td>
+    <td>Th</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>Elliot D. Lasson</td>
+  </tr>
+  <tr>
+  	<td>PSYC 672.1 (4856)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/4856" target="_blank">Introduction to Data Anlaytic Procedures in I/O Psychology</a></td>
+    <td>W</td>
+    <td>7:00 PM - 10:00 PM</td>
+    <td>David Wallace</td>
+  </tr>
+  <tr>
+  	<td>PSYC 672.2 (5412)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/5412" target="_blank">Introduction to Data Anlaytic Procedures in I/O Psychology</a></td>
+    <td>S</td>
+    <td>10:00 AM - 1:00 PM</td>
+    <td>Kayo Sady</td>
+  </tr>
+  <tr>
+  	<td>PSYC 672.3 (7518)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7518" target="_blank">Introduction to Data Anlaytic Procedures in I/O Psychology</a></td>
+    <td>M</td>
+    <td>7:00 PM - 10:00 PM</td>
+    <td>Shari Metzger</td>
+  </tr>
+  <tr>
+    <td>PSYC 673.1 (5940)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/5940">Legal, Ethical, and Professional Issues in I/O Psychology</a></td>
+    <td>Tu</td>
+    <td>7:00 PM - 10:00 PM</td>
+    <td>Richard Tonowski</td>
+  </tr>
+  <tr>
+    <td>PSYC 673.2 (8041)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8041">Legal, Ethical, and Professional Issues in I/O Psychology</a></td>
+    <td>W</td>
+    <td>7:00 PM - 10:00 PM</td>
+    <td>Sharron Dean</td>
+  </tr>
+  <tr>
+    <td>PSYC 678.1 (7415)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7415" target="_blank">Group Decision Making</a></td>
+    <td>M</td>
+    <td>7:00 PM - 10:00 PM</td>
+    <td>Theodore Rosen</td>
+  </tr>
+  <tr>
+    <td>PSYC 679.1 (8037)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8037" target="_blank">Survey Design and Development</a></td>
+    <td>Th</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>John Milatzo</td>
+  </tr>
+  <tr>
+    <td>PSYC 689.1 (8038)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8038" target="_blank">Strategic Planning</a></td>
+    <td>Th</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>Ethan Sanders</td>
+  </tr>
+  <tr>
+    <td>PSYC 698.1 (8035)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8035" target="_blank">Capstone Experience</a></td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>Ethan Sanders</td>
+  </tr>
+  <tr>
+    <td>PSYC 698.2 (8036)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8036" target="_blank">Capstone Experience</a></td>
+    <td>TBA</td>
+    <td>TBA</td>
+    <td>John Milatzo</td>
+  </tr>
+  </table>
+
+
+<br>
+<br>
 
 
 <!-- END Content -->

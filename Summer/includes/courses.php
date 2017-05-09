@@ -1178,76 +1178,52 @@
 <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
   <tr>
-  <td class="subject">BIOL</td>
-  <td class="classNumber">303L</td>
-  <td class="course-title">Cell Biology Lab</td>
-  <td class="number"><a href="" class="course-link">2530</a></td>
- <td>6 Weeks</td>
- <td>Session 1</td>
- <td></td>
- <td></td>
- <td>Main Campus</td>
- <td>In Person</td>
- <td>F</td>
- <td>9:00 AM</td>
- <td>12:00 PM</td>
- <td>Morning</td>
- <td>Rivera Guzman, Javier</td>
- <td>BIOL 303L</td>
- <td>You must complete BIOL300L and BIOL302 and BIOL303 with a C or better. BIOL303 can be taken concurrently.</td>
- <td>Has Prerequisite</td>
- <td></td>
- <td>STEM</td>
- <td>*BIOL</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
+    <td class="subject">BIOL</td>
+    <td class="classNumber">303L</td>
+    <td class="course-title">Cell Biology Lab</td>
+    <td class="number"><a href="" class="course-link">2530</a></td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>F</td>
+    <td>9:00 AM</td>
+    <td>12:00 PM</td>
+    <td>Morning</td>
+    <td>Rivera Guzman, Javier</td>
+    <td>BIOL 303L</td>
+    <td>You must complete BIOL300L and BIOL302 and BIOL303 with a C or better. BIOL303 can be taken concurrently.</td>
+    <td>Has Prerequisite</td>
+    <td></td>
+    <td>STEM</td>
+    <td>*BIOL</td>
+  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
   <tr>
-  <td class="subject">BIOL</td>
-  <td class="classNumber">305L</td>
-  <td class="course-title">Physiology Laboratory</td>
-  <td class="number"><a href="" class="course-link">2338</a></td>
- <td>6 Weeks</td>
- <td>Session 1</td>
- <td></td>
- <td></td>
- <td>Main Campus</td>
- <td>Hybrid</td>
- <td>TuTh</td>
- <td>1:00 PM</td>
- <td>4:00 PM</td>
- <td>Afternoon</td>
- <td>Daniel, Jewel A.</td>
- <td>BIOL 305L</td>
- <td>You must complete BIOL 305 or BIOL 307 and  BIOL 300L all with a grade of C or better. BIOL 305 or BIOL 307 can be taken concurrently.</td>
- <td>Has Prerequisite</td>
- <td></td>
- <td>STEM</td>
- <td>*BIOL</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
-  </tr>
-  <tr>
-  <td class="subject">BIOL</td>
-  <td class="classNumber">307</td>
-  <td class="course-title">Human Physiology</td>
-  <td class="number"><a href="" class="course-link">2453</a></td>
- <td>6 Weeks</td>
- <td>Session 1</td>
- <td></td>
- <td></td>
- <td>Main Campus</td>
- <td>In Person</td>
- <td>TuWTh</td>
- <td>10:00 AM</td>
- <td>12:10 PM</td>
- <td>Morning</td>
- <td>Daniel, Jewel A.</td>
- <td>BIOL 307</td>
- <td>You must have completed BIOL 303 with a grade of 'C' or better.</td>
- <td>Has Prerequisite</td>
- <td></td>
- <td>STEM</td>
- <td>*BIOL</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
+    <td class="subject">BIOL</td>
+    <td class="classNumber">307</td>
+    <td class="course-title">Human Physiology</td>
+    <td class="number"><a href="" class="course-link">2453</a></td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>TuWTh</td>
+    <td>10:00 AM</td>
+    <td>12:10 PM</td>
+    <td>Morning</td>
+    <td>Daniel, Jewel A.</td>
+    <td>BIOL 307</td>
+    <td>You must have completed BIOL 303 with a grade of 'C' or better.</td>
+    <td>Has Prerequisite</td>
+    <td></td>
+    <td>STEM</td>
+    <td>*BIOL</td>
+  <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
   <tr>
   <td class="subject">BIOL</td>
@@ -8592,30 +8568,6 @@
     <td>SOCY 397</td>
     <td></td>
     <td>No Prerequisite</td>
-    <td></td>
-    <td></td>
-    <td>*SOCY</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
-  </tr>
-  <tr>
-     <td class="subject">SOCY</td>
-     <td class="classNumber">497</td>
-     <td class="course-title">Selected Topics In Sociology : Health and Human Rights</td>
-    <td class="number"><a href="" class="course-link">2640</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
-    <td></td>
-    <td></td>
-    <td>Main    Campus</td>
-    <td>Hybrid</td>
-    <td>M</td>
-    <td>6:00 PM</td>
-    <td>9:10    PM</td>
-    <td>Evening</td>
-    <td>Lottes,    Ilsa L</td>
-    <td>SOCY 497</td>
-    <td>You must    complete ANTH 211 or SOCY 101 and, in addition, 9 credits in Sociology or    Anthropology.  Each course must have a    minimum grade of C.</td>
-    <td>Has Prerequisite</td>
     <td></td>
     <td></td>
     <td>*SOCY</td>

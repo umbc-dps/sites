@@ -78,14 +78,14 @@
 <!-- START Content -->
 <h3>Thank You!</h3>
  
+
 <p>
- <strong>Date:</strong> Thursday, October 29, 2015 <br>
- <strong>Time:</strong> 6:30 p.m. - 7:30 p.m. <br>
- <strong>Location:</strong> <a href="http://about.umbc.edu/visitors-guide/directions/" target="_blank">UMBC, Sherman Hall East, Classroom 464</a></p>
-   
- <p>Thank you for registering for the UMBC's Engineering Management Information Session.</p>
+ <strong>Date & Time:</strong> Monday, May 1, 2017 at 7:00pm<br>
+ <strong>Location:</strong> <a href="http://about.umbc.edu/visitors-guide/directions/" target="_blank">UMBC ITE building, Room 218</a></p>
  
- <p>Your submission is confirmed and we look forward to seeing you at the event. A reminder email with more details on directions and the session will be sent to you two weeks prior to the Info Session.</p>
+ <p>Thank you for registering for the UMBC Engineering Management & Systems Engineering Drop-In Session.</p>
+ 
+ <p>Your submission is confirmed and we look forward to seeing you at the event. A reminder email will be sent to you prior to the Info Session.</p>
  
  <p><strong>Additional questions? </strong><br>
 Contact <a href="mailto:kedmonds@umbc.edu">Kim Edmonds</a></p>
@@ -94,36 +94,18 @@ Contact <a href="mailto:kedmonds@umbc.edu">Kim Edmonds</a></p>
 <center>
 <div title="Add to Calendar" class="addthisevent" onmousedown="ga('send', 'event', 'share', 'click', 'add-to-calendar');">
     Add to Calendar
-    <span class="start">10/29/2015 6:30 PM</span>
-    <span class="end">10/29/2015 7:30 PM</span>
+    <span class="start">5/1/2017 7:00 PM</span>
+    <span class="end">5/1/2017 9:00 PM</span>
     <span class="timezone">America/New_York</span>
-    <span class="title">UMBC Health IT Info Session</span>
-    <span class="description">Attendees will learn more about UMBC, the Engineering Management field, as well as program curriculum and format. Participants will also have the opportunity to submit questions.</span>
-    <span class="location">Sherman Hall, Halethorpe, MD 21227</span>
+    <span class="title">UMBC Engineering Management & Systems Engineering Drop-In Session</span>
+    <span class="description">Drop in and chat with the Program Director, Dr. Thomas Moore!</span>
+    <span class="location">ITE Building, Halethorpe, MD 21227</span>
     <span class="organizer">UMBC Professional Programs</span>
     <span class="organizer_email">kedmonds@umbc.edu</span>
     <span class="all_day_event">false</span>
     <span class="date_format">MM/DD/YYYY</span>
 </div>
 </center>
-
-<p>
-
-<center>
-<h4>Tell Your Friends &amp; Colleagues: 
-<a href="https://twitter.com/intent/tweet?text=I%27m%20Attending%20UMBC%27s%20Graduate%20Engineering%20Management%20Info%20Session!%20http%3A%2F%2Fumbc.edu%2Fengm/infosession%20(via%20%40UMBC_DPS)" onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
- return false;" onmousedown="ga('send', 'event', 'share', 'click', 'twitter');"><img src="images/twitter.png" width="20"></a>
- 
- <a href="https://www.facebook.com/sharer/sharer.php?u=http://umbc.edu/engm/infosession" onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
- return false;" onmousedown="ga('send', 'event', 'share', 'click', 'facebook');"><img src="images/facebook.png" width="20"></a>
-
- <a href="https://plus.google.com/share?url=http://umbc.edu/engm/infosession" onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
- return false;" onmousedown="ga('send', 'event', 'share', 'click', 'google-plus');"><img src="images/googleplus.png" width="20"></a>
- 
- <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://umbc.edu/engm/infosession&title=UMBC%20Engineering%20Management%20Info%20Session%20&summary=Join%20us%20on%20Thursday%2C%20October%2029%2C%202015%20for%20an%20information%20session%20on%20the%20UMBC%20Engineering%20Management%20Master%27s%20Program." onClick="window.open(this.href,'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=500');
- return false;" onMouseDown="ga('send', 'event', 'share', 'click', 'linkedin');"><img src="images/linkedin.png" width="20"></a></h4>
-</center>
-</p>
 
 
 <!-- END CONTENT -->
