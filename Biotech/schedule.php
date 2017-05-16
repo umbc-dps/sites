@@ -141,52 +141,44 @@
    <td width="10%">Classroom</td>
   </tr>
   <tr>
+    <td>BTEC 656 (2864)</td>
+    <td><a href= "https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2864" target="_blank">Experimental Design</a></td>
+    <td>Tues/Thur</td>
+    <td>6:00 - 9:10 PM</td>
+    <td>In Person</td>
+    <td>BS 461</td>
+  </tr>
+  <tr>
     <td>BTEC 665 (1040)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1040" target="_blank">Mgmt, Leadership and Communication</a></td>
     <td>Monday</td>
-    <td>7:10 - 10:20 PM</td>
+    <td>4:30 - 7:40 PM</td>
     <td>Hybrid</td>
-    <td>TBD</td>
-    </tr>
+    <td>ITE 233</td>
+  </tr>
   <tr>
-    <td><p><center>BTEC 655 (2509)</center></p></td>
+    <td>BTEC 665 (2509)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2509" target="_blank">Mgmt, Leadership and Communication</a></td>
     <td>Tuesday</td>
-    <td>4:30 - 7:40 PM</td>
+    <td>7:10 - 10:20 PM</td>
     <td>Hybrid</td>
-    <td>TBD</td>
+    <td>ITE 237</td>
     </tr>
    <tr>
-    <td><p><center>BTEC 656 (2864)</center></p></td>
-    <td><a href= "https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2864" target="_blank">Experimental Design</a></td>
-    <td>Tues/Thur</td>
-    <td>6:00 - 9:10 PM; 6 wk Session I</td>
-    <td>In Person</td>
-    <td>BS 461</td>
-    </tr>
-   <tr>
-     <td>BTEC 670 (2856)</td>
-     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2856" target="_blank">Legal &amp; Ethical Issues</a></td>
-     <td>Monday</td>
-     <td>6:00 - 9:10 PM</td>
-     <td>Hybrid</td>
-     <td>&nbsp;</td>
+     <td>BTEC 680 (1470)</td>
+     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1470" target="_blank">Financial Management</a></td>
+     <td>Wednesday</td>
+     <td>4:30 - 7:40 PM</td>
+     <td>In Person</td>
+     <td>ITE 233</td>
    </tr>
-   <tr>
-    <td>BTEC 680 (1470)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1470" target="_blank">Financial Management</a></td>
-    <td>Wednesday</td>
-    <td>4:30 - 7:40 PM</td>
-    <td>In Person</td>
-    <td>TBD</td>
-    </tr>
   <tr>
     <td>BTEC 685 (2022) </td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2022" target="_blank">Project Management</a></td>
     <td>Tuesday</td>
     <td>6:00  - 9:15 PM</td>
     <td>Hybrid</td>
-    <td>TBD</td>
+    <td>ITE 233</td>
     </tr>
   </table>
   <p></p>

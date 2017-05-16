@@ -70,8 +70,81 @@
   <div class="eleven columns">
   
 <!-- START Content -->
+<h3>Fall 2017 Schedule of Classes </h3>
+<p align="left"><strong>Semester Dates:</strong>&nbsp;August 30, 2017 – December 12, 2017<br>
+	<strong>Advanced Registration Begins: </strong>April 3, 2017 (for students currently  enrolled in spring 2017)<br>
+  <strong>Registration For Newly Admitted Graduate Students:</strong>&nbsp;June 1,  2017<br>
+  <strong>Last Day to Add/Drop a Class: </strong>September 13, 2017<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+<p>There may be more courses announced in the near future.  This list is not final.</p>
 
-
+<table id="schedule">
+  <tr>
+    <td width="20%">COURSE/CLASS<br>
+      NUMBER</td>
+    <td width="25%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="20%">PROFESSOR</td>
+  </tr>
+  <tr>
+    <td>GES 670.1 (4899)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/4899" target="_blank">Advanced Seminar in GIS</a></td>
+    <td>W</td>
+    <td>5:30 PM - 8:10 PM</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td>GES 671.1 (4893)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/4893" target="_blank">Spatial Database and Systems Design</a></td>
+    <td>M</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Erwin Villiger</td>
+  </tr>
+  <tr>
+    <td>GES 678.1 (5983)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/5983" target="_blank">Project Management of the Enterprise GIS</a></td>
+    <td>Tu</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Luis Bermudez</td>
+  </tr>
+  <tr>
+    <td>GES 679.1 (6361)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/6361" target="_blank">Professional Seminar in Geospatial Technologies </a></td>
+    <td>W</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>John Schlee</td>
+  </tr>
+  <tr>
+    <td>GES 679.2 (8029)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8029" target="_blank">Professional Seminar in Geospatial Technologies </a></td>
+    <td>Tu</td>
+    <td>6:15 PM - 8:00 PM</td>
+    <td>Lee Decola</td>
+  </tr>
+  <tr>
+  	<td>GES 770.1 (7308)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7308" target="_blank">Special Topics: Python Development for GIS</a></td>
+    <td>W</td>
+    <td>6:15 PM - 8:00 PM</td>
+    <td>Alex Din</td>
+  </tr>
+  <tr>
+    <td>GES 773.1 (8030)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8030">GIS Modeling Techniques</a></td>
+    <td>M</td>
+    <td>6:15 AM - 9:00 PM</td>
+    <td>Xiuzhu Yang</td>
+  </tr>
+  <tr>
+    <td>GES 776.1 (8031)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8031" target="_blank">Data Sources, Tasking and Acquisition</a></td>
+    <td>Th</td>
+    <td>6:15 PM - 9:00 PM</td>
+    <td>Ronald Wilson/Luis Bermudez/Josh Lieberman</td>
+  </tr>
+  </table>
+<hr>
 
 <h3>Spring 2017 Schedule of Classes </h3>
 
@@ -142,6 +215,9 @@
   </tr>
   </table>
 
+
+<br>
+<br>
 
 
 <!-- END Content -->

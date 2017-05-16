@@ -97,15 +97,15 @@ html::after {
 
           <!-- Slide One -->
           <li id="slide1">
-                      <a href="visit/pd-history" target="_blank">
+                      <a href="https://shadygrove.umd.edu/faculty-and-staff/kendall-service-awards/2017-kendall-awards" target="_blank">
             	<img src="images/andrew-nolan.png" alt="img03">
             </a>
                         <div class="carousel-caption-right wordwrap">
-                          <h3>Meet Dr. Nolan, Program Director</h3>
-                          Visit with Dr. Nolan to learn about our history program as well as internship and career opportunities in the history field.  Meet current history students, too!
-            <p><a href="visit/pd-history" class="web-seemore" target="_blank">RSVP Today!</a></p>
+                          <h3>Congratulations Dr. Nolan!</h3>
+                          Winner of the USG Kendall Service Award for Program Director of the Year, this award recognizes faculty who have performed exceptionally in supporting student success at USG.
+                          <p><a href="https://shadygrove.umd.edu/faculty-and-staff/kendall-service-awards/2017-kendall-awards" class="web-seemore" target="_blank">2017 Award Winners</a></p>
                         </div>
-                        <p id="captionone"><a href="visit/pd-history" target="_blank">Meet Dr. Nolan, Program Director</a></p>
+                        <p id="captionone"><a href="https://shadygrove.umd.edu/faculty-and-staff/kendall-service-awards/2017-kendall-awards" target="_blank">Meet Dr. Nolan, Program Director</a></p>
           </li>
          <!-- END Slide One -->
         

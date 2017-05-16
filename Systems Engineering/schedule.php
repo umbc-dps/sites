@@ -212,7 +212,7 @@ table#sequence td:first-child { text-align:left }
   <td> </td>
    </TR>
    <TR>
-  <TD>ENEE 672 - Decision and Risk Analysis </TD>
+  <TD>ENEE 672 - Decision and Risk Analysis (core)</TD>
   <td>X</td>
   <td> </td>
   <td> </td>

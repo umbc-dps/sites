@@ -44,7 +44,7 @@
       </ul>
     </li>
     <li>
-      <a href="programs">How to Apply</a>
+      <a href="masters">How to Apply</a>
 
       <ul class="sub-menu">
        <li>

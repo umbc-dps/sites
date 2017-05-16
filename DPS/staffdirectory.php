@@ -144,33 +144,27 @@ BEGIN MAIN
       <td bgcolor="">&nbsp;</td>
     </tr>
     <tr>
-      <td width="35%" valign="top"><p><strong>Barker, Joyce</strong><br>
-        <strong>Title</strong>: Office Supervisor III <br>
-        <strong>Unit</strong>: ELI<br>
-        <strong>Location</strong>: UC 207<br>
-        <strong>Phone</strong>: 52827<br>
-        <strong>E-Mail</strong>: <a href="mailto:jbarker@umbc.edu">jbarker@umbc.edu</a><br>
-      </p></td>
-      <td width="31%" valign="top"><p><strong>Barrow, Michelle</strong><br>
-          <strong>Title:</strong>  Coordinator<br>
+      <td width="35%" valign="top"><p><strong>Barrow, Michelle</strong><br>
+          <strong>Title:</strong> Coordinator<br>
           <strong>Unit:</strong> Marketing<br>
           <strong>Location:</strong> Sherman Hall 478<br>
-        Phone: <br>
-        <strong>E-Mail:</strong> <a href="mailto:mbarrow1@umbc.edu">mbarrow1@umbc.edu</a></p></td>
-      <td width="34%" valign="top"><p><strong>Bateman, Carol</strong><br>
+Phone<strong>:</strong> 52986<br>
+<strong>E-Mail:</strong> <a href="mailto:mbarrow1@umbc.edu">mbarrow1@umbc.edu</a><br>
+      </p></td>
+      <td width="31%" valign="top"><p><strong>Bateman, Carol</strong><br>
           <strong>Title</strong>: <br>
           <strong>Unit</strong>: <br>
           <strong>Location</strong>: Sherman Hall 445<br>
           <strong>Phone</strong>: 58607<br>
           <strong>E-Mail</strong>: <a href="mailto:cbateman1@umbc.edu">cbateman1@umbc.edu</a></p></td>
-    </tr>
-    <tr>
-      <td bgcolor="#CCCCCC"><p><strong>Cardona, Dennise</strong><br>
+      <td width="34%" valign="top"><p><strong>Cardona, Dennise</strong><br>
           <strong>Title</strong>: Digital Content Specialist<br>
           <strong>Unit</strong>: Marketing<br>
           <strong>Location</strong>: Sherman Hall 480<br>
           <strong>Phone</strong>: 55602 <br>
           <strong>E-Mail</strong>: <a href="mailto:dcardona@umbc.edu">dcardona@umbc.edu</a></p></td>
+    </tr>
+    <tr>
       <td bgcolor="#CCCCCC"><p><strong>Clements,&nbsp;Nancy</strong><br>
           <strong>Title</strong>: Academic Program Specialist <br>
           <strong>Unit</strong>: Professional Programs <br>
@@ -183,19 +177,19 @@ BEGIN MAIN
           <strong>Location</strong>: Sherman Hall 449<br>
           <strong>Phone</strong>: 53899<br>
           <strong>E-Mail</strong>: <a href="mailto:ecolli1@umbc.edu">scrosby@umbc.edu</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p><strong>Edmonds, Kim </strong><br>
+      <td bgcolor="#CCCCCC"><p><strong>Edmonds, Kim </strong><br>
           <strong>Title</strong>: Program Coordinator <br>
           <strong>Unit</strong>: Professional Programs<br>
           <strong>Location</strong>: Sherman Hall 448<br>
           <strong>Phone</strong>: 53445<br>
           <strong>E-Mail</strong>: <a href="mailto:kedmonds@umbc.edu">kedmonds@umbc.edu</a></p></td>
+    </tr>
+    <tr>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+    </tr>
+    <tr>
       <td valign="top"><p><strong>Edwards, Edyta</strong><br>
           <strong>Title</strong>: Academic Program Specialist<br>
           <strong>Unit</strong>: Summer, Winter and Special Programs<br>
@@ -208,31 +202,27 @@ BEGIN MAIN
           <strong>Location</strong>: South Campus<br>
           <strong>Phone</strong>: 35446<br>
           <strong>E-Mail</strong>: <a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a></p></td>
-    </tr>
-    <tr>
-      <td bgcolor=""><p>&nbsp;</p></td>
-      <td bgcolor=""><p>&nbsp;</p></td>
-      <td bgcolor=""><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td bgcolor="CCCCCC"><p><strong>Ellis, Makeba</strong><br>
+      <td valign="top"><p><strong>Ellis, Makeba</strong><br>
           <strong>Title</strong>: Executive Administrative Assistant<br>
           <strong>Unit</strong>: DPS<br>
           <strong>Location</strong>: Sherman Hall 459 <br>
           <strong>Phone</strong>: 55604<br>
           <strong>E-Mail</strong>: <a href="mailto:makebaellis@umbc.edu">makebaellis@umbc.edu</a></p></td>
-      <td bgcolor="CCCCCC"><p><strong>England, Yuliya</strong><br>
-          <strong>Title</strong>: Assistant Director, Academic Programs<br>
-          <strong>Unit</strong>: ELI<br>
-          <strong>Location</strong>: UC 207<br>
-          <strong>Phone</strong>: 55725<br>
-          <strong>E-Mail</strong>: <a href="mailto:yengland@umbc.edu">yengland@umbc.edu</a></p></td>
+    </tr>
+    <tr>
+      <td bgcolor=""><p>&nbsp;</p></td>
+      <td bgcolor=""><p>&nbsp;</p></td>
+      <td bgcolor=""><p>&nbsp;</p></td>
+    </tr>
+    <tr>
       <td bgcolor="CCCCCC"><p><strong>Foutz, Sarita </strong><br>
           <strong>Title</strong>: Program Coordinator <br>
           <strong>Unit</strong>: ELI<br>
           <strong>Location</strong>: UC 207<br>
           <strong>Phone</strong>: 52697 <br>
           <strong>E-Mail</strong>: <a href="mailto:sarita1@umbc.edu">sarita1@umbc.edu</a></p></td>
+      <td bgcolor="CCCCCC"><p>&nbsp;</p></td>
+      <td bgcolor="CCCCCC"><p>&nbsp;</p></td>
     </tr>
     
     <tr>
@@ -287,31 +277,25 @@ BEGIN MAIN
         <strong>Location</strong>: Sherman Hall 472<br>
         <strong>Phone</strong>: 54731<br>
         <strong>E-Mail</strong>: <a href="mailto:jglove1@umbc.edu">jglove1@umbc.edu</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Haerian, Krystl</strong><br>
-          <strong>Title</strong>: Health IT GPD<br>
-          <strong>Unit</strong>: Health IT<br>
-          <strong>Location</strong>: ITE 404<br>
-          <strong>Phone</strong>: 56716<br>
-          <strong>E-Mail</strong>: <a href="mailto:Krystl.Haerian@umbc.edu">Krystl.Haerian@umbc.edu</a></p></td>
       <td bgcolor="#CCCCCC"><p><strong>Harris, Steven</strong><br>
           <strong>Title</strong>: IT Manager<br>
           <strong>Unit</strong>: IT<br>
           <strong>Location</strong>: Sherman Hall 474<br>
           <strong>Phone</strong>: 52719 <br>
           <strong>E-Mail</strong>: <a href="mailto:stevenh1@umbc.edu">stevenh1@umbc.edu</a></p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-      <td valign="top"><p>&nbsp;</p></td>
-    </tr>
-    <tr>
-      <td valign="top"><p><strong>Hasegawa, Kazumi </strong><br>
+      <td bgcolor="#CCCCCC"><p><strong>Hasegawa, Kazumi </strong><br>
           <strong>Title</strong>: Director, International Marketing<br>
           <strong>Unit</strong>: ELI <br>
           <strong>Location</strong>: UC 207<br>
           <strong>Phone</strong>: 53640<br>
           <strong>E-Mail</strong>: <a href="mailto:hasegawa@umbc.edu">hasegawa@umbc.edu</a></p></td>
+    </tr>
+    <tr>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+      <td valign="top"><p>&nbsp;</p></td>
+    </tr>
+    <tr>
       <td valign="top"><p><strong>Jones, Allison </strong><br>
           <strong>Title</strong>: Director of Progam Development<br>
           <strong>Unit</strong>:  DPS<br>
@@ -324,6 +308,12 @@ BEGIN MAIN
           <strong>Location</strong>: Sherman Hall 454<br>
           <strong>Phone</strong>: 54868 <br>
           <strong>E-Mail</strong>: <a href="mailto:ejones@umbc.edu">ejones@umbc.edu</a></p></td>
+      <td valign="top"><p><strong>Jones, Rickeysha</strong><br>
+          <strong>Title:</strong> Program Coordinator (Graduate)<br>
+          <strong>Unit:</strong> Shady Grove Programs<br>
+          <strong>Location:</strong> Shady Grove<br>
+          <strong>Phone:</strong> 301-738-6285<br>
+          <strong>E-Mail:</strong> <a href="mailto:rcjones@umbc.edu">rcjones@umbc.edu</a></p></td>
     </tr>
     <tr>
       <td valign="top"><p>&nbsp;</p></td>
@@ -332,18 +322,13 @@ BEGIN MAIN
     </tr>
     <tr>
       <td bgcolor="#CCCCCC">
-      <p><strong>Jones, Rickeysha</strong><br>
-        <strong>Title:</strong> Program Coordinator (Graduate)<br>
-        <strong>Unit:</strong> Shady Grove Programs<br>
-        <strong>Location:</strong><br>
-        <strong>Phone:</strong> 301-738-6285<br>
-        <strong>E-Mail:</strong> <a href="mailto:rcjones@umbc.edu">rcjones@umbc.edu</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Knott, Theresa</strong><br>
-          <strong>Title</strong>: Accountant I<br>
-          <strong>Unit</strong>: Finance and Administration<br>
-          <strong>Location</strong>: Sherman Hall 486<br>
-          <strong>Phone</strong>: 51360<br>
-          <strong>E-Mail</strong>: <a href="mailto:knott@umbc.edu">knott@umbc.edu</a></p></td>
+      <p><strong>Knott, Theresa</strong><br>
+        <strong>Title</strong>: Accountant I<br>
+        <strong>Unit</strong>: Finance and Administration<br>
+        <strong>Location</strong>: Sherman Hall 486<br>
+        <strong>Phone</strong>: 51360<br>
+        <strong>E-Mail</strong>: <a href="mailto:knott@umbc.edu">knott@umbc.edu</a></p></td>
+      <td bgcolor="#CCCCCC"><p>&nbsp;</p></td>
       <td bgcolor="#CCCCCC"><p>&nbsp;</p></td>
     </tr>
     <tr>
@@ -506,17 +491,11 @@ Interim Executive Director, The Shriver Center<br>
       <td valign="top"><p>&nbsp;</p></td>
     </tr>
     <tr>
-          <td valign="top"><p><strong>Sutton, Samantha</strong><br>
-              <strong>Title</strong>: Accounting Associate<br>
+          <td valign="top"><p><strong>Thornton, Dunia</strong><br>
+              <strong>Title</strong>: Payroll Accounting Associate<br>
               <strong>Unit</strong>: Finance and Administration<br>
-              <strong>Location</strong>: ACIV B 483<br>
-              <strong>Phone</strong>: 52297<br>
-          <strong>E-Mail</strong>: <a href="mailto:sutton@umbc.edu">sutton@umbc.edu</a></p></td>
-      <td valign="top"><p><strong>Thornton, Dunia</strong><br>
-          <strong>Title</strong>: Payroll Accounting Associate<br>
-          <strong>Unit</strong>: Finance and Administration<br>
-          <strong>Location</strong>: Sherman Hall 484<br>
-          <strong>Phone</strong>: 56730<br>
+              <strong>Location</strong>: Sherman Hall 484<br>
+              <strong>Phone</strong>: 56730<br>
           <strong>E-Mail</strong>: <a href="mailto:dkambo1@umbc.edu">dkambo1@umbc.edu</a></p></td>
       <td valign="top"><p><strong>Waters, Ashley</strong><br>
           <strong>Title</strong>: Associate Director<br>
@@ -524,6 +503,12 @@ Interim Executive Director, The Shriver Center<br>
           <strong>Location</strong>: Shady Grove  Rm.4159<br>
           <strong>Phone</strong>: 301-738-6175<br>
           <strong>E-Mail</strong>: <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a></p></td>
+      <td valign="top"><p><strong>Weese, Vanessa</strong><br>
+          <strong>Title</strong>: Program Manager<br>
+          <strong>Unit</strong>: ELI<br>
+          <strong>Location</strong>: UC 206<br>
+          <strong>Phone</strong>: 53662 <br>
+          <strong>E-Mail</strong>: <a href="mailto:vweese1@umbc.edu">vweese1@umbc.edu</a></p></td>
 
     </tr>
     <tr>
@@ -532,24 +517,19 @@ Interim Executive Director, The Shriver Center<br>
       <td valign="top"><p>&nbsp;</p></td>
     </tr>
     <tr>
-      <td bgcolor="#CCCCCC"><p><strong>Weese, Vanessa</strong><br>
-          <strong>Title</strong>: Program Manager<br>
-          <strong>Unit</strong>: ELI<br>
-          <strong>Location</strong>: UC 206<br>
-          <strong>Phone</strong>: 53662 <br>
-          <strong>E-Mail</strong>: <a href="mailto:vweese1@umbc.edu">vweese1@umbc.edu</a></p></td>
       <td bgcolor="#CCCCCC"><p><strong>Williams, Greg </strong><br>
           <strong>Title</strong>: Director and Clinical Professor<br>
           <strong>Unit</strong>: ISD<br>
           <strong>Location</strong>: South Campus<br>
           <strong>Phone</strong>: 35447<br>
           <strong>E-Mail</strong>: <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a></p></td>
-      <td bgcolor="#CCCCCC"><p><strong>Williams, Rita </strong><br>
-          <strong>Title</strong>: Program Coordinator<br>
-          <strong>Unit</strong>: K-12<br>
-          <strong>Location</strong>: ACIV-A 209<br>
-          <strong>Phone</strong>: 56579<br>
-          <strong>E-Mail</strong>: <a href="mailto:ritaw@umbc.edu">ritaw@umbc.edu</a></p></td>      
+      <td bgcolor="#CCCCCC"><p><strong>Young, Deidre </strong><br>
+          <strong>Title</strong>: Financial Transaction   Supervisor <br>
+          <strong>Unit</strong>: Finance and Administration <br>
+          <strong>Location</strong>: Sherman Hall 485 <br>
+          <strong>Phone</strong>: 55566<br>
+          <strong>E-Mail</strong>: <a href="mailto:deyoung@umbc.edu">deyoung@umbc.edu</a></p></td>
+      <td bgcolor="#CCCCCC"><p>&nbsp;</p></td>      
       </tr>
     <tr>
       <td valign="top"><p>&nbsp;</p></td>
@@ -557,12 +537,7 @@ Interim Executive Director, The Shriver Center<br>
       <td valign="top"><p>&nbsp;</p></td>
     </tr>
     <tr>
-      <td><strong>Young, Deidre </strong><br>
-        <strong>Title</strong>: Financial Transaction   Supervisor <br>
-        <strong>Unit</strong>: Finance and Administration <br>
-        <strong>Location</strong>: Sherman Hall 485 <br>
-        <strong>Phone</strong>: 55566<br>
-        <strong>E-Mail</strong>: <a href="mailto:deyoung@umbc.edu">deyoung@umbc.edu</a></td>
+      <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>

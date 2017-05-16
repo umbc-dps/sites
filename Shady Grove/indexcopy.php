@@ -352,7 +352,7 @@
 
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
-<li><a href="visit/infosession" target="_blank">Tuesday, February 21, 11:00 a.m.</a></li>
+<li><a href="visit/infosession" target="_blank">Thursday, May 18, 3:00 p.m.</a></li>
 </ul>
 
 <p class="date">Visit with Undergraduate Program Directors</p>

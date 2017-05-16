@@ -179,17 +179,16 @@ BEGIN MAIN
 
 <li id="slide2">
 
-<a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" target="_blank">
-<img src="images/DianeParr.jpg" width="640" height="370" alt=""/></a>
+<a href="http://techm.umbc.edu/" target="_blank">
+<img src="images/techmgmt.png" alt="Technical Management Program"/></a>
 
 <div class="carousel-caption-right wordwrap">
-<h3>Congressman Welcomes Diana Parr to DC</h3>
-<small>Diana Parr, adjunct instructor for the Cybersecurity Graduate Program was selected to join Congressman Ted W. Lieu's legislative team in Capitol Hill.</small>
+<h3>New Program</h3>
+<small>Technical Management is a new program that provides foundational knowledge in leadership, communications, ethics, and project management.</small>
 
-<p><a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" role="button" class="web-seemore" target="_blank">Find Out More</a></p></div>
+<p><a href="http://techm.umbc.edu/" role="button" class="web-seemore" target="_blank">Find Out More</a></p></div>
 
-<p id="captionthree"><a href="https://lieu.house.gov/media-center/press-releases/congressman-lieu-welcomes-senior-brookings-fellow-diana-parr-dc-team" target="_blank">Congressman Lieu Welcomes Diana Parr to DC Team</h3>
-</a></p>
+<p id="captionthree"><a href="http://techm.umbc.edu/" target="_blank">Technical Management Program</a></p>
 
 </li>
 

@@ -71,36 +71,33 @@
 
 <ul>
 <!-- Slide One -->
-<li id="slide1">  
-	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">
-    	<img src="images/featured/erinberry.png" alt="Featured Faculty: Erin L. Berry">
-	</a>
-	<div class="carousel-caption-right wordwrap">
-		<h3>Featured Faculty: Erin L. Berry</h3>
-		<small>Discover how Prof. Berry inspires students and propels their learning experience beyond the classroom.</small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1343" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<li id="slide1">
+	<a href="http://gritgoing.umbc.edu/?p=1437" target="_blank"><img src="images/featured/lbb.png" alt="Discover Baltimore">
+    </a>
+  <div class="carousel-caption wordwrap" style="width:250px">
+    <h3>Discover Baltimore!</h3>
+		<small>Just minutes from the main campus, experience Baltimore's unique history, art, and culture up close and personal at the historic Lion Brothers Building (UMBC's new city classroom).</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1437" role="button" class="web-seemore" target="_blank">Read more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">Featured Faculty: Erin L. Berry</a>
+    	<a href="http://gritgoing.umbc.edu/?p=1437" target="_blank">Discover Baltimore</a>
 	</p>
 </li>
-<!-- END Slide One --> 
+<!-- END Slide One -->
           
-
 <!-- Slide Two -->
 <li id="slide2">
-	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
-    	<img src="images/featured/musc336.jpg" alt="Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact">
+	<a href="http://gritgoing.umbc.edu/?p=1413" target="_blank">
+    	<img src="images/featured/anth311.jpg" alt="Featured Course: Urban Anthropology">
 	</a>
-	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact <br>(MUSC 336)</h3>
-		<small>Explore how the Beatles influenced music, culture, and politics over the span of their career. </small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1352" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	<div class="carousel-caption-right wordwrap">
+		<h3>Featured Course: Urban Anthropology<br> (ANTH 311)</h3>
+		<small>Explore various aspects of Baltimore's urban life including social justice, community health, public art, and housing opportunities.<br> (Social Sciences GEP)</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1413" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1352" target="_blank">Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact</a>
+    	<a href="http://gritgoing.umbc.edu/?p=1413" target="_blank">Featured Course: Urban Anthropology</a>
 	</p>
-
 </li>
 <!-- END Slide Two -->
 
@@ -122,17 +119,16 @@
 
 <!-- Slide Four -->
 <li id="slide4">
-	<a href="http://gritgoing.umbc.edu/featured-course-international-relations-2/" target="_blank">
-    	<img src="images/featured/poli280.jpg" alt="Featured Course: International Relations">
-    </a>
-	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: International Relations <br> (POLI 280)</h3>
-		<small>Discover the intricacies of global politics and earn Social Sciences GEP!</small><br>
-        <a href="http://gritgoing.umbc.edu/featured-course-international-relations-2/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	<a href="http://gritgoing.umbc.edu/?p=1420" target="_blank">
+    	<img src="images/featured/crossland.jpg" alt="Featured Course: Public Communication">
+	</a>
+	<div class="carousel-caption-right wordwrap">
+		<h3>Featured Faculty: Dr. James Crossland</h3>
+		<small>From the Basics (MUSC 100) to the Beatles (MUSC 336) expand your musical horizons and earn AH GEP with Dr. Crossland this summer.</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1420" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-        <a href="http://gritgoing.umbc.edu/featured-course-international-relations-2/" target="_blank">
-        Featured Course: International Relations</a>
+    	<a href="http://gritgoing.umbc.edu/?p=1420" target="_blank">Featured Faculty: Dr. James Crossland</a>
 	</p>
 </li>
 <!-- END Slide Four -->          
@@ -156,9 +152,11 @@
 <div style="display:inline; float:left;"> 
 	<dl class="eleven columns alpha">
 		<br>
-        <h2><strong>Registration Now Opened!</strong></h2>
+        <h2><strong>Summer 2017 registration is now open.</strong></h2>
+        <h3>Session I begins on May 30. Register now for best course selection.</h3>
+        <p>Visiting students - you must apply for summer admission before you can register. The last day for visiting students to apply for admission to Session I is May 24. The last day to apply for admission to Session II is July 5. <a href="http://www.umbc.edu/summer/visitingstudents" target="_blank">Apply Now</a> </p>
         <em><h4>Graduate on time (or early)!</h4></em>
-        <p>Visiting students from other colleges and universities must first <a href="visitingstudents">apply to UMBC</a> and be admitted before you can register.</p>
+        <br>
 
 
         <h5><strong>Summer Session Dates</strong></h5>

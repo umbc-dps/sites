@@ -8,11 +8,7 @@
       </p>
 
       <hr style="margin-bottom:0px">
-      <p style="text-align:center"><strong>Cyber Talks: Cyber Investigations </strong>    
-      <br>
-      Thursday, April 27, 6:00-8:00PM <br>
-      <a href="http://umbc.edu/shadygrove/cyber/talks" class="btn">RSVP</a>
-      </p>
+      
 
 
     </aside>
@@ -59,16 +55,16 @@
         12 - Certificate</dd>
 
 
-        <dt>Tuition  (MD Resident)</dt>
+        <dt>Tuition (MD/<a href="http://regional.umbc.edu" target="_blank">Regional</a> Resident)</dt>
 
 
-        <dd>$603 per credit</dd>
+        <dd>$621 per credit</dd>
 
 
         <dt>Tuition  (Non-MD Resident)</dt>
 
 
-        <dd>$997 per credit</dd>
+        <dd>$1,047 per credit</dd>
 
 
         <dt>Start Date</dt>

@@ -10,7 +10,7 @@
 	<thead>
 		<tr>
 			<th><span style="font-weight: bold">Fees</span></th>
-			<th>Maryland Resident</th>
+			<th>Maryland Resident**</th>
 			<th>Non-MD Resident</th>
 		</tr>
 	</thead>

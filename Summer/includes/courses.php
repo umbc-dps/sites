@@ -4572,8 +4572,8 @@
  <td></td>
  <td></td>
  <td>Off Campus </td>
- <td>Hybrid</td>
- <td>Tu</td>
+ <td>In Person</td>
+ <td>TuTh</td>
  <td>6:00 PM</td>
  <td>9:10 PM</td>
  <td>Evening</td>

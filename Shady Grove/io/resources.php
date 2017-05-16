@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>Resources | Industrial/Organizational Psychology | UMBC at Shady Grove</title>
+<title>I/O Psychology Resources | Industrial/Organizational Psychology | UMBC at Shady Grove</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="The Master’s in Professional Studies in I/O Psychology prepares experienced professionals to fill management and leadership roles." />
 
@@ -71,31 +71,21 @@
   <div class="eleven columns">
   
 <!-- START Content --> 
-
- <h3>Student Resources</h3>
-
-  <h4>Career Services</h4>
-  <p>  
+<h3><em>Student Resources:</em></h3><br>
+<h4>Professional Associations</h4>
+<p>This I/O psychology program partners with multiple I/O Psychology industry based organizations to maximize the networking and experience for students in the program. Please review our I/O Psychology Resources <a href="professionalresources.php" target="_blank">here</a>.</p>
+<h4>Campus Resources</h4>   
   <ul>
   <li><strong>UMBC Works - Jobs and Internships<br>
   </strong>Contact UMBC-Shady Grove Associate Director Ashley Waters at <a href="mailto:awaters@umbc.edu">awaters@umbc.edu</a> to schedule an appointment. </li>
-  <li><strong>USG Career Services</strong><br>
-  The Career &amp; Internship Services Center (CISC) offers career advising to USG students as they prepare for an internship or job search. Working in partnership with each home institution, the CISC provides an additional layer of support to students on the Universities at Shady Grove campus. </li>
+  <li><strong><a href="../studentresources.php" target="_blank">USG Career Services</a></strong><br>
+  The Universities at Shady Grove’s (USG) Student and Academic Services (SAS) consists of five centers that work together to support graduate students with the academic and career tools and services they need to succeed during their time at USG.</li>
   <li><strong><a href="http://www.usajobs.gov/" target="_blank">USAjobs.gov</a><br>
-  </strong>The Federal Government&rsquo;s official job list.</li>
- </ul> 
-</p>
+  </strong>The Federal Government&rsquo;s official job list. 
 
-
-<h4>Professional Associations</h4>
-<p>The following list of groups is provided as a service to Society for Industrial and Organizational Psychology (SIOP) members who may be interested in finding local or interest area groups. There is no direct affiliation between SIOP and any of these groups. Depending on your professional interests, you can get more information about those fields and even job/internship information from each organization. <a href="http://siop.org/IOGroups.aspx" target="_new">http://siop.org/IOGroups.aspx</a>
- </p> 
-
-
-
-
-<!-- END Content -->
- </div>
+<!-- END Content --></li>
+  </ul>
+</div>
   <!-- SIDEBAR -->
  <?php include("includes/sidebar.php"); ?>
 <!-- END SIDEBAR -->

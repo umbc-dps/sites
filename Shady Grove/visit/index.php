@@ -129,7 +129,6 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-	Saturday, April 22, 12:30pm<br>
 	Thursday, May 18, 3:00pm<br>
     Thursday, June 15, 12:00pm<br>
     Saturday, July 22, 12:30pm<br>
@@ -150,18 +149,17 @@ For a campus map, directions and parking information, please click <a href="htt
 		Check back soon for new opportunities.</p>      
 	<p>
     	<strong>Political Science:</strong><br>
-        Wednesday, April 19, 12:00pm<br>
-		Wednesday, April 26, 12:00pm
+		Check back soon for new opportunities.
    </p>  
 	
     <p>
         <strong>Psychology:</strong><br>
-		Thursday, April 13, 12:30pm<br>
+		Check back soon for new opportunities.<br>
     </p>
     
 	<p>
         <strong>Social Work:</strong><br>
-		Friday, April 28, 12:00pm
+		Check back soon for new opportunities.
     </p>
   
   <a href="pd" target="_blank" class="button btn-sm"> 
@@ -246,10 +244,13 @@ Thursday, June 15, 2017, 6-7:30 PM</p>
     
     <div class="accordionbody"> 
 <p>
-	Thursday, April 27, 6:00 - 8:00 pm
+	Check back soon for new opportunities.
     
+    <!--
     <p><a href="http://www.umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=sg_visit_us" target="_blank" class="button btn-sm">
 	   Event RSVP</a></p>
+       
+       -->
     
     
 </p>

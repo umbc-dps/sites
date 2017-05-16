@@ -13,8 +13,8 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p><strong>Summer 2017 Master's Priority Application Deadline:</strong> March 1st<br><strong> Summer 2017 Certificate Application Deadline:</strong> April 1st<br></p>
-      	<p><strong>Fall 2017 Master's Priority Application Deadline:</strong> June 1st<br><strong> Fall 2017 Certificate Application Deadline:</strong> July 1st<br> </p>
+      <p><strong>Summer 2017  Application Deadline:</strong> April 1st<br></p>
+      	<p><strong>Fall 2017 Application Deadline:</strong> August 1st<br> </p>
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>      </p>
   </aside>
 
@@ -50,9 +50,9 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
 
 
         <dt>Tuition (MD Resident)</dt>
-        <dd>$603 per credit</dd>
+        <dd>$621 per credit</dd>
         <dt>Tuition (Non-MD Resident)</dt>
-        <dd>$997 per credit</dd>
+        <dd>$1047 per credit</dd>
 
 
         <dt>Start Date</dt>

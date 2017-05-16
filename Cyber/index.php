@@ -87,7 +87,7 @@
 <!-- END SLIDE ONE -->
 
 
-<!-- SLIDE TWO -->
+<!-- SLIDE TWO --
 
 <li id="slide2">
 

@@ -58,10 +58,10 @@ Deadline: August 1st<br>
         <dt>Credit Hours</dt>
         <dd>30 - Master’s<br />
           12 - Certificate </dd>
-        <dt>Tuition &amp; Fees (MD Resident)</dt>
-        <dd>$733 per credit</dd>
+        <dt>Tuition &amp; Fees <span style="font-size:8.5pt">(MD/<a href="http://regional.umbc.edu" target="_blank">Regional</a> Resident)</span></dt>
+        <dd>$753 per credit</dd>
         <dt>Tuition &amp; Fees (Non-MD Resident)</dt>
-        <dd>$1127 per credit</dd>
+        <dd>$1,179 per credit</dd>
 
 
         <dt>Start Date</dt>

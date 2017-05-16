@@ -211,6 +211,42 @@ echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],fals
 	var programname = "pro";
 </script>
 
+<script>
+var vars = [], hash;
+    var q = document.URL.split('?')[1];
+    if(q != undefined){
+        q = q.split('&');
+        for(var i = 0; i < q.length; i++){
+            hash = q[i].split('=');
+            vars.push(hash[1]);
+            vars[hash[0]] = hash[1];
+        }
+}
+var currentLocation = window.location.href.split('?')[0];
+$("#tfa_20").attr("value", vars['email']);
+$("#tfa_11").attr("value", vars['first']);
+$("#tfa_12").attr("value", vars['last']);
+$("#tfa_432").attr("value", vars['utm_campaign']);
+$("#tfa_428").attr("value", vars['utm_source']);
+$("#tfa_430").attr("value", vars['utm_medium']);
+$("#tfa_434").attr("value", vars['utm_content']);
+$("#tfa_436").attr("value", vars['utm_term']);
+$("#tfa_445").attr("value", currentLocation);
+</script>
+ 
+
+
+<script>
+$('#tfa_0').submit(function() {
+  ga('send', 'event', 'lead', 'submit', 'orientation');
+  fbq('track', 'CompleteRegistration');
+});
+ga(function(tracker) {
+  var clientId = tracker.get('clientId');
+  $("#tfa_437").attr("value", clientId)
+});
+</script>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 

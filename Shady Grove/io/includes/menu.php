@@ -55,8 +55,9 @@
 
     <li><a href="#">Student Resources</a>    
       <ul>
-        <li><a href="http://www.umbc.edu/shadygrove/studentresources" target="_blank">Student Resources</a>    </li>
-        <li><a href="resources">I/O Psych Resources</a></li>
+        <li><a href="http://www.umbc.edu/shadygrove/studentresources" target="_blank">UMBC Resources</a></li>
+        <li><a href="resources" target="_blank">I/O Psych Resources</a></li>
+        <li><a href="https://www.shadygrove.umd.edu/student-services" target="_blank">USG Academic Resources</a></li>
       </ul>
     </li>
     <li>

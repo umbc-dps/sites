@@ -72,9 +72,9 @@
 <!-- START Content --> 
  <h3>Admissions: Master's Degree </h3>
  <h4>Application Dates</h4>
- <p>For best consideration, the priority deadline for Fall is <strong>June 1</strong>.  </p>
- <p>For best consideration, the priority deadline for Spring is <strong>November 1</strong>.</p>
- <p>For best consideration, the priority deadline for Summer is <strong>March 1</strong>.</p>
+ <p>The application deadline for Fall is <strong>August  1st</strong>.  </p>
+ <p>The application  deadline for Spring is <strong>December  1st</strong>.</p>
+ <p>The application deadline for Summer is <strong>April 1st</strong>.</p>
    <p>Non-Degree application deadlines are one week prior to the start of the semester.</p>
  <h4>Admissions Requirements:</h4>
   <UL>
@@ -91,7 +91,7 @@
   
   
   <h4>Application Process:</h4>
- <p>Students who miss the <strong>Master&rsquo;s</strong> application deadline may still take courses as a Certificate or non-degree student and apply for formal admission the following semester. Students who miss the <strong>Certificate</strong> application deadline may still take courses as a non-degree student and apply for formal admission the following semester.</p>
+ <p>Applications for the Master's program are accepted for a fall, spring, or summer start.</p>
 
 
  <ul>
@@ -107,14 +107,10 @@
    <li>Graduate School Statement of Goals (included in online or paper application)</li>
    <li>Official transcripts from all post-secondary institution(s)</li>
    <LI>Non-refundable application fee ($50 online, $70 paper) </LI>
- </ul>
+   </ul>
+ <p>Students who miss the application deadline may still take courses as a non-degree student and apply for formal admission the following semester. </p>
  <h4>Mailing Instructions </h4>
  <p><strong>All application documents should be mailed to:</strong> <br>
-   Renee Eisenhuth, Program Coordinator<br>
-   ISD - Training Systems Graduate Program<br>
-   1450 S. Rolling Road<br>
-   Halethorpe, MD 21227</p>
- <p>Or To<strong>:</strong> <br>
    University of Maryland, Baltimore County<br>
 Graduate School, ISD Graduate Program<br>
 1000 Hilltop Circle<br>

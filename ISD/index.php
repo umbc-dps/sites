@@ -97,18 +97,18 @@
 
 
 <!-- SLIDE TWO -->    
-      <li id="slide2">
-        <a href="http://isdnow.umbc.edu/?p=893"><img alt="img01" src="images/Ashley-Bunn.jpg"></a>
+     <li id="slide2">
+        <a href="http://www.baltimoresun.com/news/maryland/howard/92982770-132.html"><img alt="img01" src="images/ISD-Firefighter.jpg"></a>
 
-        <div class="carousel-caption wordwrap">
-          <h3>Education in Action</h3>
-          <small>ISD Alumna, Ashley Bunn, shares her latest career success as Senior Manager of Curriculum Development with an international pizza franchise.</small>
+        <div class="carousel-caption-right wordwrap">
+          <h3>ISD Alum is Training Others to Save Lives</h3>
+          <small>ISD Alum, John Jerome, HCDFRS Deputy Chief, leads fire study pilot program. </small>
 
-          <p><a href="http://isdnow.umbc.edu/?p=893" class="btn">Check Out Her Story</a></p>
+          <p><a href="http://www.baltimoresun.com/news/maryland/howard/92982770-132.html" class="btn">Check Out His Story</a></p>
         </div>
 
         <p id="captionone">
-          <a href="http://isdnow.umbc.edu/?p=893">Education in Action</a>
+          <a href="http://www.baltimoresun.com/news/maryland/howard/92982770-132.html">ISD Alum is Training Others to Save Lives</a>
         </p>
       </li>
 <!-- END SLIDE TWO -->

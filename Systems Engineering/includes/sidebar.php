@@ -2,14 +2,9 @@
 
      <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
-      
-      <br>
-      <p style="font-style:italic; text-align:center; margin-top:-15px;">
-      <strong>Drop in and chat with the Program Director on 5/1!</strong><br />
-<a href="infosession" target="_blank" class="btn">Sign Up</a></p> 
-            <hr>
-            
-            <p style="text-align:center; margin-top:-20px">
+
+
+            <p style="text-align:center;">
 		<strong>Program Exploration Open House</strong><br>
 Wednesday, June 21, 6:00PM - 7:30PM<br>
 <a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=se_sidebar" class="btn">Save Your Spot!</a>
@@ -71,9 +66,9 @@ Graduate Certificate: Systems Engineering
 
 
         <dt>Tuition &amp; Fees (MD Resident)</dt>
-        <dd>$733 per credit</dd>
+        <dd>$753 per credit</dd>
         <dt>Tuition &amp; Fees (Non-MD Resident)</dt>
-        <dd>$1127 per credit</dd>
+        <dd>$1,179 per credit</dd>
 
 
         <dt>Start Date</dt>

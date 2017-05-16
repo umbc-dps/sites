@@ -118,19 +118,21 @@
 
 <li id="slide2">
 
-<a href="http://gritinaction.umbc.edu/blogs/" target="_blank"><img src="images/blog.jpg" alt="Our 5 Favorite Career Blogs"/></a>
+<a href="https://www.youtube.com/watch?v=Qd19cywnibc" class="video"><img alt="img01" src="images/aayush.jpg"></a>
 
-<div class="carousel-caption wordwrap">
-<h3>Our 5 Favorite Career Blogs</h3>
-<small>We put together a list of some of our favorite blogs.</small>
+<div class="carousel-caption-right wordwrap">
+<h3>My Journey as an International Student</h3>
+<small>UMBC Alumnus, Aayush Sharma, shares his exciting journey from India to UMBC.</small>
 
-<p><a href="http://gritinaction.umbc.edu/blogs/" role="button" class="web-seemore" target="_blank">Check out the list!</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=Qd19cywnibc" class="web-seemore video">Watch Now</a></p>
+</div>
 
-<p id="captionthree"><a href="http://gritinaction.umbc.edu/blogs/" target="_blank">Our 5 Favorite Career Blogs</a></p>
+<p id="captionone">
+<a href="https://www.youtube.com/watch?v=Qd19cywnibc" class="video">My Journey as an International Student</a></p>
 
 </li>
 
-<!-- END SLIDE TWO -->
+<!-- END SLIDE TWO --> 
 
 <!-- SLIDE THREE --> 
 

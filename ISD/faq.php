@@ -239,9 +239,9 @@ h4{font-weight:normal !important; font-size:10pt}
 
           <div class="accordionbody">
             <p>Applications are accepted for the fall, spring and summer   semesters.<BR>
-   <STRONG>FALL APPLICATION DEADLINE:</STRONG> June   1<BR>
-   <STRONG>SPRING APPLICATION DEADLINE:</STRONG> November 1<BR>
-   <STRONG>SUMMER   APPLICATION DEADLINE:</STRONG> March 1 <BR>
+   <STRONG>FALL APPLICATION DEADLINE:</STRONG> August   1st<BR>
+   <STRONG>SPRING APPLICATION DEADLINE:</STRONG> December 1st<BR>
+   <STRONG>SUMMER   APPLICATION DEADLINE:</STRONG> April 1st <BR>
    <BR>
    Applications   that are received at least 8 weeks prior to the start of the semester receive   priority. Applications received in this timeframe normally are processed in time   for the start of the semester, but there are no guarantees.</p>
 </div>
@@ -287,7 +287,7 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 <br>
 
 
-<strong>FALL APPLICATION DEADLINE:</STRONG> July 1st <BR>
+<strong>FALL APPLICATION DEADLINE:</STRONG> August 1st <BR>
    <STRONG>SPRING APPLICATION DEADLINE:</STRONG> December 1st <BR>
    <STRONG>SUMMER APPLICATION DEADLINE: </STRONG>April 1st </p>
 </div>
@@ -305,8 +305,8 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 
 
           <div class="accordionbody">
-            <p>No.&nbsp;Online students are   only required to pay the tuition and technology fees.</p>
- <p>When applying for admissions to an online program, you must select one of the online option codes (EDIO, CISDO, CIELO, CDEO) in order for your fees to be waived.</p>
+            <p>No.&nbsp;Students taking online courses are   only required to pay the tuition and technology fees.</p>
+ <p>When applying for admissions to an online program, you must select one of the online option codes (EDIO, CISDO, CITO).</p>
 </div>
 
 
@@ -529,7 +529,7 @@ Students applying for the   Post-Baccalaureate certificate must submit the follo
 
 
 
-<div class="accordionbody"><a href="" id=""></a>The Associate Director is Dr. Chuck Hodell; he is the   advisor for all ISD-TS students. He can be reached at <a title="mailto:gregw@umbc.edu" href="mailto:gregw@umbc.edu">hodell@umbc.edu</a>. <a href="advising">Click Here</a> for the advising page with the Academic Planning Form.</p>
+<div class="accordionbody"><a href="" id=""></a>The Associate Director is Dr. Chuck Hodell; he is the   academic advisor for all ISD-TS students. He can be reached at <a title="mailto:gregw@umbc.edu" href="mailto:gregw@umbc.edu">hodell@umbc.edu</a>. <a href="advising">Click Here</a> for the advising page with the Academic Planning Form.</p>
 </div>
 
 
@@ -574,7 +574,7 @@ The Master's program has 7 required courses and 5   electives courses.&nbsp;A va
 
 
 <div class="accordionbody">
-  <p><a href="" id=""></a>Yes, a maximum   of 6 credits (2 courses) may be transferred into UMBC from other schools.&nbsp;Tansfer courses may only be considered for an ISD elective.&nbsp;The course must be at the graduate level, must have been   taken less than five years ago, and may not have been used to earn another   degree. Additional criteria and the process to transfer credits can be found on   the <a href="http://catalog.umbc.edu/content.php?catoid=14&navoid=720#transfer-credit-" target="_blank">Graduate School website</a>. </p>
+  <p><a href="" id=""></a>Yes, a maximum   of 6 credits (2 courses) may be transferred into UMBC from other schools, for the Masters program.&nbsp;Tansfer courses may only be considered for an ISD elective.&nbsp;The course must be at the graduate level, must have been   taken less than five years ago, and may not have been used to earn another   degree. Additional criteria and the process to transfer credits can be found on   the <a href="http://catalog.umbc.edu/content.php?catoid=14&navoid=720#transfer-credit-" target="_blank">Graduate School website</a>. </p>
   <p>All   12 hours (4 courses) taken for an ISD certificate must be taken at UMBC. These ISD UMBC graduate certificates courses may be   applied towards the Master's degree.</p>
   </p>
 </div>
@@ -593,7 +593,7 @@ The Master's program has 7 required courses and 5   electives courses.&nbsp;A va
 
 
 <div class="accordionbody">
-            <p><a href="" id=""></a>Faculty members usually make their course syllabus   available to students on the first day of class. You may also contact Renee Eisenhuth, Program Coordinator at<a href="mailto:reisen@umbc.edu"> reisen@umbc.edu.</a></p></div>
+            <p><a href="" id=""></a>Faculty members usually make their course syllabus   available to students on the first day of class. You may also contact Renee Eisenhuth, Program Coordinator at<a href="mailto:reisen@umbc.edu"> reisen@umbc.edu</a> for past syllabi.</p></div>
             
             
 <div class="accordionheader"><h4>I see that the Master's program has a required internship.&nbsp; How   does that work?<i class="fa fa-angle-down"></i></h4>

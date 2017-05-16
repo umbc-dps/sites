@@ -134,7 +134,7 @@ ISBN: 978-1118648131<br></td>
     <td><p align="center">EDUC 681 section 01: Survey of    Instructional Technology Applications (#1064)</p></td>
     <td><p align="center">Kellerman, P.</p></td>
     <td><p><strong>Required:</strong><br>
-      Software: <strong><u>Adobe Captivate 9</u></strong><br>
+      Software:<u><strong>Adobe Captivate 2017</strong></u><br>
       <br>
       Siegel, K. (2015). <em>Adobe Captivate 9: The    Essentials Workbook</em>. IconLogic, Inc.<br>
       ISBN: 978-1932733846</p></td>

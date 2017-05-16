@@ -107,17 +107,15 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://www.umbc.edu/shadygrove/openhouse" target="_blank">
-<div class="image mobile-left">
+<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
+<div class="image mobile-right">
+<img src="images_homepage/student_group.png" width="1090" height="331" alt="Four"/></div>
 
-<img src="images/umbc-usg-outside-campus.png" width="1000" height="500" alt=""/>
-	
-</div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/openhouse">&raquo;</a>
-<div class="title">UMBC-USG Open House</div> <br>
-<div class="tagline">USG's Undergraduate Open House is on Saturday, April 22, 8:30am-12:00pm! Meet UMBC Program Directors and learn about the transfer process!</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/openhouse" target="_blank">RSVP Today!</a>
+<a class="mobile-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">&raquo;</a>
+<div class="title">Apply for Fall!</div><br>
+<div class="tagline">There's still time! Be sure to submit your Common Application to UMBC by our final deadline of June 1. Contact Chelsea Moyer at csmoyer@umbc.edu with any questions.</div>
+<a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Submit Now!</a>
 </div>
 </a>
 </div>
@@ -125,13 +123,13 @@
 
 
 <div class="panel panel-2">
-<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/io.jpg" alt="Three"></div>
+<a href="http://www.umbc.edu/shadygrove/visit/" target="_blank">
+<div class="image mobile-left"><img src="images/USG_campus16-2482.jpg" width="1000" height="500" alt="Three"/></div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">&raquo;</a>
-<div class="title">Apply Now for our Graduate Programs</div> <br>
-<div class="tagline">Want to become a UMBC Retriever? We are accepting Fall 2017 applications for Cybersecurity and GIS!</div>
-<a class="web-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Today! &raquo;</a>
+<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/visit/" target="_blank">&raquo;</a>
+<div class="title">Join us for a Graduate Program Information Session!</div> <br>
+<div class="tagline">Join us for an information session on Thursday, June 15 to learn how you can apply for the Cybersecurity and GIS  graduate programs and get started this Fall 2017!</div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/visit/" target="_blank">RSVP Today! &raquo;</a>
 </div>
 </a>
 </div>
@@ -139,39 +137,41 @@
 
 
 <div class="panel panel-3">
-<a href="http://umbc.edu/shadygrove/bigevent" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/tbelogo.jpg" alt="Three"></div>
-<div class="content-details right">
-<a class="mobile-seemore" href="http://umbc.edu/shadygrove/bigevent" target="_blank">&raquo;</a>
-<div class="title">Mark Your Calendars: The Big Event</div>
-<div class="tagline">Be part of UMBC's Big Event - A Day of Service benefitting local organizations working with abuse victims, children and the elderly. Make a difference in our Shady Grove community right here on campus! 
-</div>
-<a class="web-seemore" href="http://umbc.edu/shadygrove/bigevent" target="_blank">RSVP &raquo;</a>
-</div>
-</a>
-</div>
+<a href="http://umbc.edu/go/schedule/" target="_blank">
+<div class="image mobile-left">
+<img src="images/usg-registernow.jpg" width="1020" height="600" alt="Three"/></div>
 
-
-<div class="panel panel-4">
-<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/10.jpg" alt="4"></div>
-<div class="content-details right">
-<a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">&raquo;</a>
-<div class="title">Advanced Registration Begins this Week!</div>
-<div class="tagline">The Fall 2017 advanced registration period is here! Check the link for your earliest registration date. Remember, the secret to having a perfect schedule is early planning!</div>
-<a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">When can you register? &raquo;</a>
+<div class="content-details left">
+<a class="mobile-seemore" href="http://umbc.edu/go/schedule/" target="_blank">&raquo;</a>
+<div class="title">Register Now, Pay Later</div><br>
+<div class="tagline">Did you know you can register now for Fall 2017 and your bill won't come due until August? Pick the classes you want today! 
+</div>
+<a class="web-seemore" href="http://umbc.edu/go/schedule/" target="_blank">Register Here! &raquo;</a>
 </div>
 </a>
 </div>
-
-
-
-
 
 
 
 
 <!-- Hide Carousels --
+<div class="panel panel-1">
+<a href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">
+<div class="image mobile-left">
+
+
+<img src="images/umbc-usg-mascot.jpg" width="1100" height="600" alt=""/>
+</div>
+<div class="content-details left">
+<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/visit/infosession">&raquo;</a>
+<div class="title">Check out an Undergraduate Info Session!</div> <br>
+<div class="tagline">Attend one of our monthly Information Sessions to learn about the transfer process to UMBC-Shady Grove and take a tour of campus!</div>
+<a class="web-seemore" href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">Don't Miss Out!</a>
+</div>
+</a>
+</div>
+
+
 <div class="panel panel-3">
 <a href="http://www.umbc.edu/shadygrove/advising" target="_blank">
 <div class="image mobile-left">
@@ -229,15 +229,19 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/diane_tmb.jpg" alt="1"></li>
+<li class="item-1"><img src="images_homepage/student_group_sm.png" width="128" height="35" alt="Four"/></li>
 
-<li class="item-2"><img src="images_homepage/io-small.jpg" alt="3"></li>
 
-<li class="item-3"><img src="images_homepage/tbelogo_tmb.jpg" alt="3"></li>
+<li class="item-2"><img src="images/USG_campus16-2482.jpg" width="128" height="35" alt="Three"/></li>
 
-<li class="item-4"><img src="images_homepage/10_tmb.jpg" alt="4"></li>
+
+<li class="item-3"><img src="images/usg-registernow.jpg" width="128" height="35" alt="3"></li>
+
 
 <!-- Hide Preview Images --
+<li class="item-1"><img src="images/umbc-usg-mascot.jpg" width="128" height="35" alt="1"></li>
+
+
 <li class="item-3"><img src="images_homepage/10_tmb.jpg" alt="2"></li>
 
 
@@ -400,7 +404,7 @@
 
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
-<li><a href="visit/infosession" target="_blank">Saturday, April 22, 12:30pm</a></li>
+<li><a href="visit/infosession" target="_blank">Thursday, May 18, 3:00 p.m.</a></li>
 </ul>
 
 <p class="date">Visit with Undergraduate Program Directors</p>

@@ -11,7 +11,7 @@ Wednesday, June 21, 6:00-7:30PM<br>
 
 <hr style="margin-bottom:10px">
 <strong>UMBC Shady Grove Cybersecurity Info Session</strong><br>
-Wednesday, June 15, 6:00-7:30PM<br>
+Thursday, June 15, 6:00-7:30PM<br>
 <a href="http://www.umbc.edu/shadygrove/cyber/infosession">RSVP Now</a>
 </p>
 </center>

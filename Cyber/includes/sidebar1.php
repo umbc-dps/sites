@@ -65,13 +65,13 @@ Deadline: August 1st<br> <a class="btn" href="http://gradschool.umbc.edu/admissi
         <dt>Tuition &amp; Fees (MD Resident)</dt>
 
 
-        <dd>$733 per credit</dd>
+        <dd>$753 per credit</dd>
 
 
         <dt>Tuition &amp; Fees (Non-MD Resident)</dt>
 
 
-        <dd>$1127 per credit</dd>
+        <dd>$1,179 per credit</dd>
 
 
         <dt>Start Date</dt>
@@ -91,7 +91,13 @@ Deadline: August 1st<br> <a class="btn" href="http://gradschool.umbc.edu/admissi
 <?php
 //Set stream options
 $context = stream_context_create(array('http' => array('ignore_errors' => true)));
-echo file_get_contents('https://umbc.tfaforms.net/rest/forms/view/217734'.$qs);
+if(!isset($_GET['tfa_next'])) {
+$qs = ' ';
+if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
+echo file_get_contents('https://umbc.secure.force.com/form?formID=217734'.$qs);
+} else {
+echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
+}
 ?>
 </div>
 

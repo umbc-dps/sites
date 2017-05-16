@@ -78,8 +78,7 @@
    
 <center>
  <h5>2016 Recipient: Shelby Byrd</h5>
-<br>
-
+ <p><img src="images/shelby.jpg" width="257" height="159" alt=""/></p>
  <h5>2015 Recipient: Merrie Winfrey</h5>
 <br>
  

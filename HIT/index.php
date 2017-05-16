@@ -115,14 +115,14 @@
 
 <li id="slide3">
 
-<a href="https://www.youtube.com/watch?v=IOoV3DWIp-A" class="video"><img src="images/faculty/umbc-faculty-Jeff-Ostrow.jpg" alt="Course Insights with Jeff Ostrow"/></a>
-<div class="carousel-caption-right wordwrap">
-<h3>Course Insights with Jeff Ostrow</h3>
-<small>Health IT Graduate Faculty, Jeff Ostrow, discusses the highlights of his course: Educational Technologies in Healthcare.</small>
+<a href="https://www.youtube.com/watch?v=1VNvNTyY0dA" class="video"><img src="images/seghen.jpg" alt="A Program With Real-World Influence"/></a>
+<div class="carousel-caption wordwrap">
+<h3>A Program With Real-World Influence</h3>
+<small>Health IT Alumna, Seghen  Haile, discusses why she choose UMBC.</small>
 
-<p><a href="https://www.youtube.com/watch?v=IOoV3DWIp-A" class="web-seemore video">Watch Now</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=1VNvNTyY0dA" class="web-seemore video">Watch Now</a></p></div>
 
-<p id="captionthree"><a href="https://www.youtube.com/watch?v=IOoV3DWIp-A" class="video">Course Insights with Jeff Ostrow</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=1VNvNTyY0dA" class="video">A Program With Real-World Influence</a></p>
 
 </li>
 

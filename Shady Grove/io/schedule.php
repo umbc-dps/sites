@@ -71,108 +71,6 @@
   <div class="eleven columns">
   
 <!-- START Content -->
-
-<h3>Spring 2017 Schedule of Classes </h3>
-
-<p align="left"><strong>Semester Dates:</strong>&nbsp;January 30, 2017 – May 16, 2017<br>
-  <strong>Advanced Registration Begins: </strong>October 31, 2016&nbsp;(for students currently  enrolled in fall 2016)&nbsp;<br>
-  <strong>Registration For Newly Admitted Graduate Students:</strong>&nbsp;December 19,  2016<br>
-  <strong>Last Day to Add/Drop a Class: </strong>February 10, 2017<br>
-  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-
-<p>There may be more courses announced in the near future.  This list is not final.</p>
-
-<table id="schedule">
-  <tr>
-    <td width="20%">COURSE/CLASS<br>NUMBER</td>
-    <td width="25%">COURSE TITLE </td>
-    <td width="15%">DAY</td>
-    <td width="20%">TIME</td>
-    <td width="20%">PROFESSOR</td>
-  </tr>
-  <tr>
-    <td>PSYC    601.1 (5404)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5404" target="_blank">Capstone    Experience</a></td>
-    <td>N/A</td>
-    <td>N/A</td>
-    <td>Ethan Sanders</td>
-  </tr>
-  <tr>
-    <td>PSYC 601.2 (5405)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5405" target="_blank">Capstone Experience</a></td>
-    <td>N/A</td>
-    <td>N/A</td>
-    <td>Elliot Lasson</td>
-  </tr>
-  <tr>
-    <td>PSYC 601.3 (5406)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5406" target="_blank">Program Evaluation</a></td>
-    <td>Th</td>
-    <td>06:00 PM - 09:00 PM</td>
-    <td>John Milatzo</td>
-  </tr>
-  <tr>
-    <td>PSYC 601.4 (6744)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6744" target="_blank">Human Performance    Technology</a></td>
-    <td>Sa</td>
-    <td>09:00 AM - 12:00 PM</td>
-    <td>David Rudd</td>
-  </tr>
-  <tr>
-    <td>PSYC 601.5 (6324)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6324" target="_blank">Advanced Statistics    for I/O</a></td>
-    <td>Tu</td>
-    <td>07:00 PM - 10:00 PM</td>
-    <td>Kayo Sady</td>
-  </tr>
-  <tr>
-    <td>PSYC 601.6 (6411)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6411" target="_blank">Adv. Seminar:    Strategic Planning</a></td>
-    <td>Sa</td>
-    <td>09:00 AM - 12:00 PM</td>
-    <td>David Poland</td>
-  </tr>
-  <tr>
-    <td>PSYC 669.1 (5407)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5407" target="_blank">Organizational    Behavior Management</a></td>
-    <td>M</td>
-    <td>07:00 PM - 10:00 PM</td>
-    <td>Theodore Rosen</td>
-  </tr>
-  <tr>
-    <td>PSYC 674.1 (6330)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6330" target="_blank">Methods of    Assessment in I/O Psychology</a></td>
-    <td>Th</td>
-    <td>06:00 PM - 09:00 PM</td>
-    <td>Elliot Lasson</td>
-  </tr>
-  <tr>
-    <td>PSYC 674.2 (6412)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6412" target="_blank">Methods of    Assessment in I/O Psychology</a></td>
-    <td>Th</td>
-    <td>06:00 PM - 09:00 PM</td>
-    <td>Edward Rudow</td>
-  </tr>
-  <tr>
-    <td>PSYC 677.1 (7338)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7338" target="_blank">Professional    HR Practices</a></td>
-    <td>W</td>
-    <td>07:00 PM - 10:00 PM</td>
-    <td>Edward    Rudow</td>
-  </tr>
-  <tr>
-    <td>PSYC 677.2 (7339)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7339" target="_blank">Professional HR    Practices</a></td>
-    <td>W</td>
-    <td>07:00 PM - 10:00 PM</td>
-    <td>Sharron Dean</td>
-  </tr>
-  </table>
-
-
-<br>
-<br>
-
 <h3>Fall 2017 Schedule of Classes </h3>
 <p align="left"><strong>Semester Dates:</strong>&nbsp;August 30, 2017 – December 12, 2017<br>
 	<strong>Advanced Registration Begins: </strong>April 3, 2017 (for students currently  enrolled in spring 2017)<br>
@@ -294,6 +192,107 @@
     <td>TBA</td>
     <td>TBA</td>
     <td>John Milatzo</td>
+  </tr>
+  </table>
+
+
+<hr>
+
+
+<h3>Spring 2017 Schedule of Classes </h3>
+
+<p align="left"><strong>Semester Dates:</strong>&nbsp;January 30, 2017 – May 16, 2017<br>
+  <strong>Advanced Registration Begins: </strong>October 31, 2016&nbsp;(for students currently  enrolled in fall 2016)&nbsp;<br>
+  <strong>Registration For Newly Admitted Graduate Students:</strong>&nbsp;December 19,  2016<br>
+  <strong>Last Day to Add/Drop a Class: </strong>February 10, 2017<br>
+  <strong>View <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
+
+<p>There may be more courses announced in the near future.  This list is not final.</p>
+
+<table id="schedule">
+  <tr>
+    <td width="20%">COURSE/CLASS<br>NUMBER</td>
+    <td width="25%">COURSE TITLE </td>
+    <td width="15%">DAY</td>
+    <td width="20%">TIME</td>
+    <td width="20%">PROFESSOR</td>
+  </tr>
+  <tr>
+    <td>PSYC    601.1 (5404)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5404" target="_blank">Capstone    Experience</a></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Ethan Sanders</td>
+  </tr>
+  <tr>
+    <td>PSYC 601.2 (5405)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5405" target="_blank">Capstone Experience</a></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Elliot Lasson</td>
+  </tr>
+  <tr>
+    <td>PSYC 601.3 (5406)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5406" target="_blank">Program Evaluation</a></td>
+    <td>Th</td>
+    <td>06:00 PM - 09:00 PM</td>
+    <td>John Milatzo</td>
+  </tr>
+  <tr>
+    <td>PSYC 601.4 (6744)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6744" target="_blank">Human Performance    Technology</a></td>
+    <td>Sa</td>
+    <td>09:00 AM - 12:00 PM</td>
+    <td>David Rudd</td>
+  </tr>
+  <tr>
+    <td>PSYC 601.5 (6324)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6324" target="_blank">Advanced Statistics    for I/O</a></td>
+    <td>Tu</td>
+    <td>07:00 PM - 10:00 PM</td>
+    <td>Kayo Sady</td>
+  </tr>
+  <tr>
+    <td>PSYC 601.6 (6411)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6411" target="_blank">Adv. Seminar:    Strategic Planning</a></td>
+    <td>Sa</td>
+    <td>09:00 AM - 12:00 PM</td>
+    <td>David Poland</td>
+  </tr>
+  <tr>
+    <td>PSYC 669.1 (5407)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/5407" target="_blank">Organizational    Behavior Management</a></td>
+    <td>M</td>
+    <td>07:00 PM - 10:00 PM</td>
+    <td>Theodore Rosen</td>
+  </tr>
+  <tr>
+    <td>PSYC 674.1 (6330)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6330" target="_blank">Methods of    Assessment in I/O Psychology</a></td>
+    <td>Th</td>
+    <td>06:00 PM - 09:00 PM</td>
+    <td>Elliot Lasson</td>
+  </tr>
+  <tr>
+    <td>PSYC 674.2 (6412)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/6412" target="_blank">Methods of    Assessment in I/O Psychology</a></td>
+    <td>Th</td>
+    <td>06:00 PM - 09:00 PM</td>
+    <td>Edward Rudow</td>
+  </tr>
+  <tr>
+    <td>PSYC 677.1 (7338)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7338" target="_blank">Professional    HR Practices</a></td>
+    <td>W</td>
+    <td>07:00 PM - 10:00 PM</td>
+    <td>Edward    Rudow</td>
+  </tr>
+  <tr>
+    <td>PSYC 677.2 (7339)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2172/7339" target="_blank">Professional HR    Practices</a></td>
+    <td>W</td>
+    <td>07:00 PM - 10:00 PM</td>
+    <td>Sharron Dean</td>
   </tr>
   </table>
 

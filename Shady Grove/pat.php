@@ -100,113 +100,84 @@ html::after {
     <!-- Start Content -->   
       <div class="content">
   <p>As current  UMBC-Shady Grove students, members of the UMBC Peer Advisory Team (PAT) serve  as a critical point of contact in the successful and seamless transition of  students transferring to UMBC-Shady Grove from other institutions. PAT members  undergo extensive leadership development and work closely with UMBC-Shady Grove  administrative staff, faculty, and current students to reach out, serve,  and create meaningful connections with prospective students through a variety of  formal and informal recruitment and retention events. We are proud to be UMBC!</p>
-<p style="text-align:center"><img src="images/PAT/group.jpg" alt="UMBC Shady Grove Peer Advisors" style="width:75%;" /></p>
+<p style="text-align:center">
+
+ 
+<img src="images/PAT Team Picture (1).jpg" width="520" height="573" alt="" style="width:100%;" />
+
+</p>
 <h4>Meet the UMBC  Peer Advisory Team members below.</h4>
  
 
 
 
 <div class="accordionheader">
-            <h4><a href="#cocker" id="cocker"></a>Beth Cocker, Psychology<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a href="#augustine" id="augustine"></a>Mary Ann Augustine: Psychology<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/beth-cocker.JPG" align="left" class="pat-team">
+          
+<img src="images/PAT/Mary Ann Augustine.jpg" width="200" height="275" align="left" class="pat-team">
     
 <p>
     <strong>An interesting personal fact…</strong><br>
-    An interesting fact about myself is that I was born and raised in the United Kingdom (unfortunately, no, I do not still have a British accent). I moved to the United States in 2007, and just this past December I became a U.S. Citizen!
+    An interesting fact about me is that I lived in Costa Rica with my family for four years and enjoyed the international experience. Prior to the move, I home-schooled my three children who were accepted into MIT, Berklee College of Music in Boston, and USC.
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I chose UMBC-Shady Grove for a few reasons. First off, after going to Montgomery College I realized that I really enjoyed a small classroom setting versus big lecture halls. UMBC-Shady Grove offers a UMBC education, but with the small classroom size that you can find at smaller universities and community colleges. I also wanted to be able to work and attend school at the same time.  Since UMBC-Shady Grove is convenient, it makes it easier for me to also work at the same time. Finally, I chose UMBC-Shady Grove because I really liked the diversity of the psychology program and how broad the areas of study are.
+    I chose UMBC-Shady Grove for several reasons: 1. The location is perfect for a short commute; 2. It is affordable especially if I have to pay out-of- pocket; and 3. the class sizes are small and intimate so you can really connect with your professors and other students easily.
 </p>
 
 <p>
     <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    Since starting here in Fall 2015, I have joined Tau Sigma (the honor society), the Psychology Student Association (PSA) and most recently, the Peer Advisory Team. Both Tau Sigma and the PSA have given me opportunities to connect with my peers outside of the classroom and also give back to the community. Through Tau Sigma and PSA, I have been able to raise money for a local breast cancer charity; For Three Sisters, and also donate food items to the Montgomery County Coalition for the Homeless.
+    I have been fortunate to serve on the Peer Advisory team (PAT). I intend to get more involved by joining the Psychology Student Association and the Tau Sigma Honor Society.
 </p>
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    Following graduation, I plan to attend the University of Maryland, College Park and complete their Master's program in Special Education. I would then like to work as a Special Education teacher in a high school setting, whilst also working toward my Doctor of Education in Special Education.
+    Following graduation, my plans are to become a certified nutritionist and registered dietician so that I may continue to help others on their path to a healthier lifestyle. I intend to earn my MS in Nutrition.
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    If you think you are interested in UMBC-Shady Grove, take the time to come down and visit Tim Cox, Assistant Director of Advising and Student Success, at least one semester before you plan on transferring. Tim really helped me in planning out my last semester at Montgomery College to ensure that I had the right credits and classes before transferring to UMBC-Shady Grove. I also highly recommend attending a session where you are able to meet the Program Directors; it is really useful and will help provide insight into the program that you plan on applying to. And you will also get a chance to speak with current students about their experiences to see if UMBC-Shady Grove is a good fit for you!
+    My advice for prospective students is to get involved in your school community. It is the best way to be connected and be informed. Take advantage of resources that can help you succeed and achieve your goals. Get help when you need it and do not be afraid to ask questions. Know that it is never too late to return to college at any age; it is a great way to stay current.
 </p>
 
 </div>
 
 
 <div class="accordionheader">
-            <h4><a id="cgutierrez" href="#cgutierrez"></a>Carolina Gutierrez, Psychology<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="cene" href="#cene"></a>Kathleen Cene: Psychology</h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/carolina-gutierrez.JPG" align="left" class="pat-team">
+          
+<img src="images/PAT/Kathleen Cene.jpg" width="200" height="275" align="left" class="pat-team">
     
 <p>
     <strong>An interesting personal fact…</strong><br>
-    I dance Flamenco! I am also a Yogui (it has helped me keep my balance).
+    I LOVE raw salmon... but I hate cooked salmon! 
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I chose UMBC-Shady Grove because it gives me the opportunity to stay close to my job and family without having to commute to main campus. I can manage my time better.
+    I choose UMBC-Shady Grove because I wanted to save money. Living on campus at a four- year college is super expensive compared to commuting to USG. 
 </p>
 
 <p>
     <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    I have participated in the Psychology Student Association (PSA).
+    I have a flexible internship working as a social media specialist for The Women Empowerment Project and I am a part of UMBC’s Peer Advisory Team.
 </p>
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    My plans are to continue with the Industrial/Organizational Master’s in Professional Studies Program at UMBC-Shady Grove.  This will enable me to be able to continue working, since the schedule of the graduate program is flexible.
+    I plan on attending graduate school. After I get my master’s degree, I plan on working as a school guidance counselor. 
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    My advice to prospective students is to take advantage of the community-oriented environment here at UMBC-Shady Grove where they can easily take part in opportunities to help them find their career path and reach their educational goals. To me, UMBC-Shady Grove has become my second home. I feel I can count on all my professors, students, staff, and advisors at any time.
-</p>
-
-</div>
-
-
-
-<div class="accordionheader">
-            <h4><a id="gutierrez"></a>Gloria Gutierrez, Psychology<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-          <div class="accordionbody">
-<img src="images/PAT/gloria-gutierrez.JPG" align="left" class="pat-team">
-    
-<p>
-    <strong>An interesting personal fact…</strong><br>
-    One interesting fact about me (that I feel so fortunate about) is that I share the same birthday with my amazing mother!
-</p>
-
-<p>
-    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I chose UMBC-Shady Grove for a variety of reasons. For me, The Universities at Shady Grove (USG) more or less fell into my lap when I needed it most.  When I heard about USG, I was convinced that it was the perfect place for me. Financially, USG was much more affordable than main campus and, for someone like me who is paying for everything out of pocket, this was a huge plus! In addition, the USG campus is so close to home so it allowed me to continue to live at home and maintain my job. More importantly, I fell in love with the community. I never truly felt that sense of "school pride" until I arrived at USG. Everyone I have met (even before being an official student at USG) was incredibly warm, welcoming, and eager to make my experience in this community the best it could be.
-</p>
-
-<p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    One of my main objectives when I decided to attend USG was to get as involved as possible. This past fall was my first semester at USG and I immediately became a part of the Psychology Student Association (PSA), Student Ambassadors, Student Event Board (SEB), and Tau Sigma Honors Society. I am now fortunate enough to add the Peer Advisory Team (PAT) to my list of activities! 
-</p>
-
-<p>
-    <strong>What are your plans following graduation?</strong><br>
-    Following graduation, my plan is to attend medical school (fingers crossed) and continue my education in hopes of becoming a pediatrician. I absolutely adore children, the medical field, and helping others! 
-</p>
-
-<p>
-    <strong>What is your advice for prospective students?</strong><br>
-    My best advice to a prospective student would be to get informed and get involved! All of us know what it's like to be a new student and how overwhelming it can be. Often times that fear prevents us from asking questions and getting involved. So, from personal experience, I can say that asking questions and really becoming familiar with the many resources on campus makes everything incredibly easier! Join a club, talk to your peers, get familiar with the faculty -- just don't be afraid to become a part of the USG community.
+    Do not be afraid of asking for help! I will admit that the first semester was not easy for me. I had to get used to many changes like different professors, not living on campus, and being away from my friends. The transition was so hard to the point where I had a hard time keeping up with my assignments. I decided to talk to my professor. I was so scared at first because I thought she was going to tell me to suck it up and deal with it, but she did the opposite -- she gave me a few tips and referred me to a time management counselor.  I am so grateful that I talked to her because if I didn’t I probably would have failed the first semester.
 </p>
 
 </div>
@@ -214,40 +185,36 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="kamei" href="#kamei"></a>Nyenpu "Faith" Kamei, Psychology and Social Work<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="corsiatto" href="#corsiatto"></a>Kaylin Corsiatto: Psychology<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/nyenpu-kamei.jpg" align="left" class="pat-team">
+<img src="images/PAT/Kaylin Corsiatto.jpg" width= "200" height="280" align="left" class="pat-team">
+ 
     
 <p>
     <strong>An interesting personal fact…</strong><br>
-    One interesting fact about me is that I love “do it yourself” projects. From knitting to baking and even just simple cleaning, I find it relaxing to recreate and/or clean up a space.
+    One interesting fact about myself is that I have two horses.
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-     I always knew I wanted to attend UMBC, my only decision was whether I would attend the main campus or the Shady Grove campus. I decided to attend the Shady Grove campus as I knew I would be able to obtain leadership roles and create a strong interpersonal relationship with faculty and peer. On a more personal note, coming to UMBC-Shady Grove allowed me to stay closer to home and keep my current job and relationship with friends.
-</p>
-
-<p>
-    <strong>What do you like best about UMBC-Shady Grove?</strong><br>
-     UMBC-Shady Grove is a small campus which provides students an opportunity to be recognized for their accomplishments. Students can easily obtain leadership roles among their peers.  In less than two semesters I was able to start my own club. I am now a president of my own club.
+    I chose UMBC-Shady Grove for a variety of reasons. UMBC has a well-respected reputation as an honors university in Maryland. The tuition is very affordable and the professors are excellent. Also, UMBC is a research university and as someone who is interested in research and graduate school, this was very important to me. I loved the convenient location of the Universities at Shady Grove (USG) and the overall feel of the school. USG fosters such an inclusive community of students. What really stood out to me when visiting USG was that although it is a commuter school, there is still an active student life. I visited other satellite campuses, but they were missing this component. When I learned about all that UMBC-Shady Grove had to offer, I knew it was the right school for me. 
 </p>
 
 <p>
     <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    I am a Student Ambassador here at The Universities at Shady Grove (USG) and I also work with the USG Career and Internships Services Center. I am a part of Tau Sigma, the Psychology Student Association, the Social Work Student Association and the USG Student Event Board. I also recently started a knitting and crochet club here at USG.
+    At UMBC-Shady Grove I have been involved in the Psychology Student Association, Tau Sigma Honor Society, The Big Event planning committee, and of course the Peer Advisory Team. There are countless student associations and activities to become involved in at UMBC-Shady Grove. These are great opportunities to meet people, make connections, and develop new skill sets.
 </p>
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    I am a psychology and social work major and I plan on joining the Peace Corps after graduation. I would like to further my education after spending time giving back to the world.
+    Following graduation, I plan to attend graduate school. My goal is to be accepted into a clinical or counseling psychology PhD program. I currently have many interests, but ultimately I want to own my own practice and advocate for others. 
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    Get involved as much as you can. This campus is full of opportunity but good things belong to those who work for it. It’s important to keep on top of things and always create opportunities for yourself.
+    My advice for prospective students is when visiting different universities, do not be afraid to ask a lot of questions. From what clubs are available to how a specific class will transfer, the more information, the better! When you are considering attending a university, you should be able to imagine yourself there and the best way to do that is to gather information. At UMBC-Shady Grove there are students and faculty to help answer your questions and make your transition as seamless as possible. 
 </p>
 
 </div>
@@ -255,39 +222,34 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="kareem" href="#kareem"></a>Haminat Kareem, Political Science<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="danna" href="#danna"></a>Maia Danna: History & Political Science<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/haminat-kareem.JPG" align="left" class="pat-team">
-    
+<img src="images/PAT/Maia Danna.jpg" width="200" height="275" align="left" class="pat-team">
+   
 <p>
     <strong>An interesting personal fact…</strong><br>
-    I am the daughter of a former diplomat.  My father was the second-secretary to the Ambassador of Nigeria to the United States.
+    I absolutely love to cook and bake! I am have been vegetarian for years for many reasons and it has made me more creative in the kitchen. I find that developing my culinary skills promotes a healthy and wholesome diet. I love to share the experience with friends and family. 
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    Initially, the most attractive feature of the Universities at Shady Grove (USG) was its location and proximity to the Washington Metropolitan area. After attending a USG Open House where I met with various program directors, I learned some more information about the campus community and I decided on the Political Science program at UMBC. The Program Director, Dr. Sunil Dasgupta, was very engaging and presented a reading challenge that was designed to help me read and think critically. This was before I even applied! I was so taken by this challenge that I sought more information about UMBC-Shady Grove. </p>
-
-<p>
-    I found that in addition to its location, there are many other benefits.  Class sizes are small, so discourse is possible and students can work closely with their instructors—there is an opportunity to develop close and good relations with faculty members, relations that serve students and the community well beyond the years spent at UMBC-Shady Grove. The facilities and resources available to students are fantastic. The main hub of the campus, the Camille Kendall Academic Center, is equipped with such great technology as to facilitate the learning process for many different kinds of learners and the building itself was built with sustainability in mind. In addition, students can take advantage of the USG campus community by taking classes from other programs offered by the other universities at Shady Grove. Financial aid and scholarship opportunities are numerous and there are some wonderful opportunities specifically for prospective students.  The availability of all of these resources and the potential for an amazing learning experience ultimately led me to choose UMBC-Shady Grove!
-
+     I chose UMBC after attending a Wednesday Wipe-Out Session held by program directors Dr. Dasgupta and Dr. Nolan. I chose UMBC over other state universities because of my engaging experience. The class sizes are small, placing a lot of emphasis on the needs and interests of the students.  I chose to take classes at the Shady Grove campus since it’s really close to where I live. Although the campus is small, the campus hosts so many events and student organizations that there’s always something fun to do. This also creates a welcoming environment to make friends!
 </p>
-
 <p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    Since becoming a student at UMBC-Shady Grove, I have joined Tau Sigma, the Transfer Honor Society that recognizes high-achieving transfer students who have excelled in their time at UMBC-Shady Grove. I also joined the International Students Club, the Political Science Students Organisation (PSSO) and the Muslim Students Association. Through these organisations, I have gotten an opportunity to engage with the community, participating in events that unite the student body and benefit the community. Students are encouraged to join organizations as well create organizations they feel are beneficial to the campus community.
+  <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
+    In my first semester at USG, I attended Student Event Board meetings to plan events such as Oktoberfest. This semester I look forward to being a part of the Political Science Student Organization and the History Student Association! I also make a point to attend Wednesday Wipe Out sessions whenever I can.  
 </p>
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    After graduation, I am tentatively planning to return to my country of origin, Nigeria, to engage in civil service for a year.
+    After graduating from UMBC-Shady Grove with a degree in History and Political Science, I would like to set some time aside to travel. Academically, I would like to continue on to attend law school.
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    Learn about the resources available to students, and take advantage of them. Do not hesitate to ask questions, the faculty and staff are there to help you reach your goals. 
+    Take advantage of the resources at your disposal! I mean this in terms of social life, networking, mental health, academics, fitness… you name it! This institution and all its faculty and staff are dedicated to making your experience as rewarding and enriching as possible. All you have to do is take interest.
 </p>
 
 </div>
@@ -295,51 +257,154 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="kahn" href="#kahn"></a>Liana Kahn, Social Work<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="erazo" href="#erazo"></a>Valeria Erazo: Psychology<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/liana-kahn.jpg" align="left" class="pat-team">
-    
+<img src="images/PAT/Valeria Erazo.jpg" width="200" height"275" align="left" class="pat-team">
+
 <p>
     <strong>An interesting personal fact…</strong><br>
-    I plan to open a wellness center through which I can provide therapy, personal training, and nutritional guidance to clients.
+    One interesting fact about me is that shortly after moving to the United States from Ecuador, I enrolled in the French Immersion program at my elementary school, which allowed me to learn English and French at the same time.
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I was studying for an associate degree in Mental Health at Montgomery College. The head of the social work program at UMBC-Shady Grove, Ms. Katie Morris, LCSW-C, came to Montgomery College to talk to our class. I immediately felt that UMBC-Shady Grove was right for me. I was impressed that UMBC is an honors university. In addition, its affordability as a state school and its location close to my home were an important consideration in my decision.
-</p>
-
-<p>
-    <strong>What do you like best about UMBC-Shady Grove? </strong><br>
-    I love that UMBC-Shady Grove has reasonable class sizes, excellent teachers, and students who are committed to their studies. My advisor’s door is always open! Across the board, staff in the Office of Student Services, library, and bookstore has been attentive, helpful, and kind. The library is modern and full of light, making it a great place to study.
-</p>
-
+    I chose UMBC- Shady Grove for a few reasons. For one, I was immediately drawn by the fact that this campus allowed me to earn my bachelors degree while keeping my job and still living at home. I also appreciated the fact that UMBC-Shady Grove provides quality education in a small class size environment. The smaller campus also helped make the transition from Montgomery College to UMBC much easier.</p>
 <p>
     <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    In addition to being a member of the UMBC Peer Advisory Team (PAT), I have attended Social Work Student Association meetings and have volunteered with them at different organizations. I am also a member of the Social Work National Phi Alpha Honor Society. 
+    During my time at Montgomery College, I was not very involved in extracurricular activities. I knew I was missing out on great opportunities which made me set the goal to be more involved at UMBC-Shady Grove. Now, I am a part of the Peer Advisory Team (PAT)! I plan to become more involved during my next few semesters at USG!
 </p>
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    I plan to continue my studies for a Master’s in Social Work (MSW). I would like to become a Licensed Clinical Social Worker (LCSW-C) and to eventually establish a private practice. My classes at UMBC-Shady Grove continue to open my eyes to the wide variety of career paths in the field of social work. I have a particular interest in working with battered women. 
+    My ultimate goal is to get my Master’s Degree in Human Resources. Following graduation, I plan to take a year off school to gain professional experience and then I plan to apply to the Graduate Program in Industrial Organization Psychology offered here at UMBC-Shady Grove.
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    UMBC-Shady Grove wants all students to succeed! Your teachers and advisers will really be supportive in your academic journey. Don’t be shy in asking for help and take full advantage of all the resources available to you. 
+    My advice for prospective students is to work hard and get involved. Through hard work and perseverance you will succeed! By getting involved in extracurricular activities you will have the opportunity to make new friends, grow as a person by becoming the best version of yourself. USG is filled with amazing people who are there for you. Ask for help if you ever need it. The amount of support and resources available at UMBC-Shady Grove is incredible and you should take advantage!  
+</p>
+
+</div>
+
+
+
+<div class="accordionheader">
+            <h4><a id="garcia" href="#garcia"></a>Emely Garcia: Social Work<i class="fa fa-angle-down"></i></h4>
+        </div>
+
+          <div class="accordionbody">
+<img src="images/PAT/Emely Garcia.jpg" width="200" height="280" align="left" class="pat-team">
+ 
+<p>
+    <strong>An interesting personal fact…</strong><br>
+    I am obsessed with elephants and one day I hope to own lots of land and have elephants be as free to roam as they please! 
+</p>
+
+<p>
+    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
+    I choose UMBC-Shady Grove because it was close to home yet a good university. All my life I have been very family oriented, so finding a school close to home was a priority. It was not until attending a USG Open House that my mother dragged me to that I realized UMBC-Shady Grove could be an option. After two years at Montgomery College, I began to question what I wanted to do with my life. During work, I had a mini meltdown and right before my meltdown truly grew, I received a call from UMBC-Shady Grove asking to confirm my attendance to a student-only open house for their social work program. I vented to this person as if I had known them my whole life; they assured me it was going to be okay and to take it one-step at a time. Then they recommended I speak with Chelsea Moyer, who helped me find out that UMBC-Shady Grove was where I needed to be. Not only is this university close to home but the vibes everyone gives are of a family. Had it not been for these two ladies, I may have still been wondering what I wanted to with my life. UMBC-Shady Grove may be small in numbers, but it is big in heart..
+</p>
+<p>
+  <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
+    During my first semester at UMBC-Shady Grove I was told that extracurricular activities and internships were very good! I went to a lot of meetings and found that one program I wanted to apply for was the “Peer Advisory Team.” They did so much for me my first semester I wanted to do the same for others. I was lucky enough to get chosen to join this semester. Being a social work major requires a year in an internship during your second year.  I look forward to doing this because it will give me an actual feel for what my career will be like. I plan to continue to search for extracurricular activities while I remain at UMBC-Shady Grove. 
+</p>
+
+<p>
+    <strong>What are your plans following graduation?</strong><br>
+    After graduation, I plan to pursue my Master of Social Work. I hope to be able to qualify for advanced placement, which allows me to get my Master’s degree in one year instead of two to save time and money! Far into the future I think I’ll possibly want to open my own private practice.  
+</p>
+
+<p>
+    <strong>What is your advice for prospective students?</strong><br>
+    My advice to prospective students is to come and visit! If there is any part of you that thinks UMBC-Shady Grove might be the school for you, come to one of our many open houses! Also, when you come to UMBC-Shady Grove, always ask questions! Do not think that asking too many questions is annoying or you may be a hassle -- you are not! I used to think asking as little as possible made you look smart but half the time I didn’t know what I was doing! Do not be afraid to ask questions; it makes you look smart!
 </p>
 
 </div>
 
 <div class="accordionheader">
-            <h4><a id="mccormack" href="#mccormack"></a>Claire McCormack, History and Political Science<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="guzzey" href="#guzzey"></a>Kathryn Guzzey: Social Work<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/claire-mccormack.jpg" align="left" class="pat-team">
+<img src="images/PAT/2017-05-01_11-17-53.png" width="200" height="275" align="left" class="pat-team">
+
+
+<p>
+  
+<p>
+    <strong>An interesting personal fact…</strong><br>
+    I have an awesome sock collection! One of my favorite pair of socks has sloths, hanging on branches, wearing hats on them.  
+</p>
+
+<p>
+    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
+    I chose to attend UMBC-Shady Grove after graduating from Montgomery College because of the convenient campus, the quality education, the diverse population, and the helpful resources available.  
+</p>
+
+
+<p>
+    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
+    Last year I served as a Social Work Writing Fellow in the Center for Academic Success (CAS).  This year I am a member of the Peer Advisory Team (PAT), and next semester I will be starting my Social Work field placement as an intern. 
+</p>
+
+<p>
+    <strong>What are your plans following graduation?</strong><br>
+    After I graduate, I hope to travel when I can while continuing my education in a Master of Social Work program. 
+</p>
+
+<p>
+    <strong>What is your advice for prospective students?</strong><br>
+    I encourage students to take chances during their time at USG. This campus is an excellent environment to try new things, get involved, and learn and grow. I also encourage students to take advantage of the numerous resources available on campus such as the Center for Academic Success (CAS) for writing help and the Rec Center for fun! 
+</p>
+
+</div>
+
+
+<div class="accordionheader">
+            <h4><a id="kaarid" href="#kaarid"></a>Carmen Kaarid: Social Work<i class="fa fa-angle-down"></i></h4>
+        </div>
+
+          <div class="accordionbody">
+<img src="images/PAT/Carmen Kaarid.jpg" width="200" height="275" align="left" class="pat-team">
     
+<p>
+    <strong>An interesting personal fact…</strong><br>
+    I was a competitive Irish dancer for 10 years! 
+</p>
+
+<p>
+    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
+    I chose to attend UMBC at the Universities at Shady Grove because of the amazing environment here. I went to a big school where I was just another number. But here you really feel like you're part of a family. The UMBC team here is amazing! They really work with you to make sure that you have all the tools you need to succeed. I also loved the fact that I could get an amazing education and still live at home and save money! In addition, the small class sizes really allow you to develop a great relationship with your professors and your fellow students. There are so many reasons why I chose UMBC at Shady Grove, I could go on and on! I love it here!
+</p>
+
+<p>
+    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
+    I joined the Universities at Shady Grove Student Ambassador Program in my first semester here. I really love it! It allows me to interact with students in all the nine universities here. Moreover, I get to go around to different community colleges and high schools in the area and tell them why I love USG. This semester I joined the UMBC Peer Advisory Team and I love it, too! This is also my first semester being a Writing Fellow. I get to help first semester social work students with some of their assignments. There are so many opportunities here and so many wonderful things to do! 
+</p>
+
+<p>
+    <strong>What are your plans following graduation?</strong><br>
+    After I graduate from UMBC I planning to attend the University of Maryland, Baltimore to earn my Master of Social Work. After that, I would love to get involved in social policy and maybe one day even run for public office 
+</p>
+
+<p>
+    <strong>What is your advice for prospective students?</strong><br>
+    The best advice I can give to a prospective student is to take advantage of all the opportunities here at UMBC-Shady Grove. There is so much going on all the time and there is really something for everyone. My advice is to try new things and really broaden your horizon. Because we are a small school, there are so many amazing opportunities available. Get ready for the best two years of your life!  
+</p>
+
+</div>
+
+
+
+<div class="accordionheader">
+            <h4><a id="mccormack" href="#mccormack"></a>Claire McCormack: History & Political Science<i class="fa fa-angle-down"></i></h4>
+        </div>
+
+          <div class="accordionbody">
+<img src="images/PAT/Claire McCormack (2).jpg" width="200" height="275" align="left" class="pat-team">    
+
 <p>
     <strong>An interesting personal fact…</strong><br>
     I am committed to having at least one of hour “me” time each day. I believe it is absolutely critical to center and relax your mind, and have some moments away from the stress of everyday life. Whether it be working out, cooking, or catching up on my favorite TV show- I make time for it! 
@@ -347,13 +412,12 @@ html::after {
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    It was very important to me to transfer to a school with small class sizes, quality education standards, and professors who were readily available to their students. I also wanted to stay close to home in order to continue working at my current job and build professional connections within the DC community. Financially, UMBC- Shady Grove was much more “do-able” than other institutions that offer my fields of study. Finally, I needed a vibrant, diverse community to plant my roots in. UMBC-Shady Grove exceeded all of the criteria I had, and when I visited, I realized it was the perfect fit. 
+    It was very important to me to transfer to a school with small class sizes, quality education standards, and professors who were readily available to their students. I also wanted to stay close to home in order to continue working at my current job and build professional connections within the DC community. Financially, UMBC- Shady Grove was much more “do-able” than other institutions that offer my fields of study. Finally, I needed a vibrant, diverse community to plant my roots in. UMBC-Shady Grove exceeded all of the criteria I had, and when I visited, I realized it was the perfect fit.  
 </p>
-
 
 <p>
     <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    UMBC- Shady Grove has a plethora of extracurricular activities and internship connections. Beyond being a member of the Peer Advisory Team (PAT), I am involved with the Political Science Student Organization (PSSO), where I serve as Co-President. I am also a member of the weekly political and current events discussion group, affectionately known as “Wednesday Wipeout”. From time to time, I enjoy partaking in Shady Grove-wide social justice and service events. Work wise, I intern for the United States Food and Drug Administration part-time during the school year and full-time in the summer months. 
+    UMBC- Shady Grove has a plethora of extracurricular activities and internship connections. Beyond being a member of the Peer Advisory Team (PAT), I am involved with the Political Science Student Organization (PSSO), where I serve as Co-President. I am also a member of the weekly political and current events discussion group, affectionately known as “Wednesday Wipeout”. From time to time, I enjoy partaking in Shady Grove-wide social justice and service events. Work wise, I intern for the United States Food and Drug Administration part-time during the school year and full-time in the summer months.
 </p>
 
 <p>
@@ -369,36 +433,32 @@ html::after {
 </div>
 
 
+
 <div class="accordionheader">
-            <h4><a id="membreno" href="#membreno"></a>Adriana Membreno, Social Work<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="ngo" href="#ngo"></a>Cindy Ngo: Social Work<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/adriana-membreno.JPG" align="left" class="pat-team">
-    
+<img src="images/PAT/Cindy Ngo (1).jpg" width="200" height="275" align="left" class="pat-team"> 
 <p>
     <strong>An interesting personal fact…</strong><br>
-    An interesting fact about me is that I love the outdoors. I have gone camping many times throughout my life, and I would like to try camping in places like Canada or other places around the world. 
+    I love creative writing! I used to take classes in high school and college so that I could learn to improve my short stories and poems. I once posted a story online that got over 106,000 likes. 
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I chose to attend UMBC-Shady Grove because Katie Morris, Social Work Program Director, came to my community college to talk about the social work program and I was instantly interested. I learned that the classes are small and made me feel comfortable to think that I will have an advantage of asking a professor for more instruction and connect with other students. The tuition is a more comfortable price than other institutions that I had come across and the Universities at Shady Grove (USG) has lots of scholarship opportunities. Lastly, some of my fellow classmates from my community college were planning to come to UMBC-Shady grove and I thought that we could all support each other in our academic journey to reach our goals of becoming social workers. 
-</p>
-
+    I had always wanted to go to UMBC but the commute was an issue. I did not know if I could do it every day. I like online classes but they were are impersonal and I want to meet new people. The UMBC-Shady Grove campus is closer to home and has smaller class sizes, which is perfect. I prefer an environment where I can personally get to know my classmates and professors.</p>
 <p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    I have the privilege of being a part of the Peer Advisory Team (PAT) and I am also a part of the Bilingual Writing Program (BWP).  Many students who attend USG are bilingual and this program is intended to help students who face writing challenges and to provide them with tools to write an effective paper.  Most of my courses are writing intensive and it is helpful to have more resources such as mentors to help throughout the semester. 
-</p>
-
+  <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
+    So far, at UMBC-Shady Grove, I have been involved in a few community events and the Student Event Board. I have attended a few Social Work Student Association meetings and hope to be more involved in their activities in my future semesters.</p>
 <p>
-    <strong>What are your plans following graduation?</strong><br>
-    My plan after graduation is going to graduate school to earn a Master’s Degree in Social Work. I am not sure exactly where I would like to work yet, but I feel I will have an idea when I start my internship in the fall semester.  Currently I feel like I would like to work with children and adolescents, but I am open to the idea of working with other populations. 
+  <strong>What are your plans following graduation?</strong><br>
+    After graduation, I hope to get a job that I enjoy. Once I am comfortable with my work setting, I plan to return to school to earn my Master of Social Work. 
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    It is exciting to move forward with your education and to get closer to your goals. Try to be organized as much as possible when you have your homework for classes. Use an agenda if you can to stay on track with all your assignments.  There are many resources provided for students to succeed in class. Get acquainted with other students and form study groups. If you need help with your writing, the Center for Academic Success (CAS) helps students with their papers and the Priddy Library will provide the tools you need. Sometimes it may get overwhelming, but you will have support from the faculty/staff. There is a Center for Counseling and Consultation (CCC) to help students if they are feeling overwhelmed or if they have other personal concerns. Lastly, always stay focused but don’t forget to relax and try doing some of the fun events on campus. 
+    Take your time. Everyone is always rushing to go to college for something that they might not even enjoy. UMBC is a great university with so many programs at main campus and the Shady Grove campus. Figure out where you belong first. If you decide that UMBC is for you, we will be so glad to have you. When you get here, please take advantage of everything this community has to offer! You not only have UMBC’s resources but USG’s as well. You are going to do great. 
 </p>
 
 </div>
@@ -406,34 +466,35 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="morales" href="#morales"></a>Lorena Morales, Social Work<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="salcedo" href="#salcedo"></a>Wanda Salcedo: Psychology<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/lorena-morales.JPG" align="left" class="pat-team">    
-<p>
-    <strong>An interesting personal fact…</strong><br>
-    A fun fact about me is that I was born in Colombia. I came to the United States when I was three and a half years old. Since I have been in the United States, I have always made my Colombian culture a huge part of my life. A couple years ago I joined a Colombian dance group that participates in various performances around D.C, Maryland, and Virginia. 
+          <img src="images/PAT/2017-05-01_11-21-24.png" width="200" height="250" align="left" class="pat-team">
+         
+            <p>
+              <strong>An interesting personal fact…</strong><br>
+    One interesting fact about me is that I taught myself how to drive a manual (stick shift) car via YouTube videos.  Once I learned the basic idea of how to switch gears on a manual, I went out and tried to apply what I learned. You could say it was a bumpy ride in the beginning, but now I am a pro! 
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I chose UMBC-Shady Grove because it is only 15 minutes away from my home. Being so close to campus allowed me to stay at the job I already had and allowed me to stay home and save money. I was also able to stay close to my family and friends I had grown up with.  I also liked that UMBC-Shady Grove offers small classroom sizes allowing students to build relationships with professors which makes it easier for a student to ask for and receive help. 
+    I chose UMBC-Shady Grove because I love the fact that UMBC-Shady Grove offers small classroom settings. At my previous university I had experienced large lecture halls and often felt that I could not get immediate and direct feedback from faculty and staff. Also, being that I am a working student, I wanted to find a university that was not too far from home and offered flexibility without a huge price tag. UMBC-Shady Grove is wonderful for commuter students with busy schedules and offers many opportunities to receive financial aid. 
 </p>
 
 <p>
     <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    During my first semester at UMBC-Shady Grove, I learned about different clubs and programs offered at USG. I applied to be a part of the UMBC Peer Advisory Team (PAT) during the end of the semester and I am now a member. I really enjoy being a part of PAT because it not only gives me the chance to get to know new people but it allows me to grow as a person.
+    Since starting at UMBC in Spring 2016, I have had the privilege of being a member of Tau Sigma (Honor Society), the Psychology Student Association (PSA) and now the Peer Advisory Team (PAT). Through Tau Sigma and PSA, I have been able to find opportunities to help my community by attending charity events and donating to local shelters. Additionally, I have volunteered in numerous events held on the USG campus such as the Hunger Banquet, Poverty Simulation, and the Community, Civility, and Connection (CCC) Culture of Care event.  
 </p>
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    After I graduate from UMBC, I plan to continue my education and work towards a Master’s in Social Work (MSW). After I receive my master’s, I hope to work somewhere that allows me to work with and advocate for immigrants in this country.
+    After graduation, I plan to go to graduate school at UMD for my Masters in Education and eventually plan to earn my Doctorate in Counseling 
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    My advice to prospective students is to push through and ask for help. Often times, school can get stressful and you may feel like you want to quit or stop trying. At UMBC-Shady Grove there are so many resources and people willing to help, so it is important for students to look for that help. Another piece of advice I would give to prospective students is to become involved with the school as there are so many activities and programs you can be a part of. Becoming involved will help you gain new relationships and new experiences that will make your experience at UMBC-Shady Grove one-of-a-kind. 
+    My advice would be first, NEVER underestimate yourself and your abilities! Second, get involved! UMBC-Shady Grove offers so many opportunities to become active both in and out of the classroom. I couldn’t have imagined that I would be able to participate in so many activities with the busy schedule I have, but faculty, staff, and peers make it so easy to get involved while keeping it stress free. Finally, use the facilities that are offered on campus such as the Center for Academic Success (CAS) and make connections with faculty and staff because they are truly invested in helping each student succeed.   
 </p>
 
 </div>
@@ -441,176 +502,88 @@ html::after {
 
 
 <div class="accordionheader">
-            <h4><a id="noy" href="#noy"></a>Ashley Noy, Psychology<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="schulze" href="#schulze"></a>Mark Schulze: Social Work <i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/ashley-noy.JPG" align="left" class="pat-team">
-    
+<img src="images/PAT/Mark Schulze.jpg" width="200" height="275" align="left" class="pat-team">
+ 
 <p>
     <strong>An interesting personal fact…</strong><br>
-    One interesting fact about me is that I really like to get to know people and make friends, which is kind of ironic because when you first meet me I can be very shy. I think that is why I chose psychology as my major because it gives me the opportunity to meet new people and connect with them on a different level.  
+    I am really into music. I enjoy all types of music as well as playing the guitar and piano. The piano was forced onto me when I was younger by my mother who was a music major, and for the guitar, I blame AC/DC.
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    One of the main reasons why I choose UMBC-Shady Grove was because of how economic the tuition and fees are compared to main campus (which we all think about as in-coming students). Also, it is beneficial because I am able to commute which allows me to stay home and save money on housing along with having a part-time job (and who doesn’t want a little bit of money in their pockets)! </p>
-
-<p>
-Another reason I chose UMBC-Shady Grove is because of the campus and its environment. UMBC-Shady Grove is a very small campus.  All of the buildings are very close together and when the weather is nice you always see students sitting outside, having lunch or just being social which makes you want to join in on all the fun!  As for the students, they are the best! Everyone is so social and willing to help you with anything that it makes the semester enjoyable and fly by. There are so many opportunities and clubs to be a part of that I wouldn’t want to go anywhere else. I’m proud to be part of UMBC-Shady Grove!
-
+    When I started taking classes at Montgomery College, I decided to change the career and educational path I was on, and started taking classes in preparation for a degree in social work. One of my advisors first told me about the Social Work Program offered at UMBC-Shady Grove. I looked into the college, heard feedback from current UMBC students, and went to visit and attend an information session held on campus. It felt like a great fit and opportunity from the first time I heard about it, and looking back, I know I made the right decision.
 </p>
 
 <p>
     <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    Due to the fact that this is only my second semester at UMBC-Shady Grove, I have not yet been able to become involved in an internship. But as of the summer of 2016, I do plan on making that change. Finding an internship is not as difficult as new, incoming students may think. About once a month emails are sent out about internships and there is no doubt that you can find help at the Center for Academic Success (CAS).</p> 
-
-<p>
-As for extracurricular activities, I would have to say joining the Peer Advisory Team (PAT). It has really helped me become more involved with the UMBC-Shady Grove community. There is no better feeling than being involved and helping other students that are in the same shoes as you were in previously. Trust me, take it from a Montgomery College Alumni who only went to school, home, and work for two years straight -- GETTING INVOLVED FEELS GREAT! 
-
+    Currently, this is my second full-time semester at UMBC, so as of now, no internships. However, each fall for upper-class students, part of what the social work major offers is a “field placement” experience. Through the field placement, students are selected to go to various sites to get real life practice in the field under the supervision of a license social worker before they graduate. The Peer Advisory Team had been my first extracurricular activity that I have taken part of since I have been at UMBC-Shady Grove. There are many different groups available to enlist in however, and they are a great way to meet new people while becoming more involved with the school.
 </p>
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    Following graduation, I hope to be accepted into the Psychology Program at the University of Maryland, and begin working on my Master's of Clinical Psychology. I also hope to become more involved in homeless shelters and help the children feel a little push of positivity to get through their day. I see myself working with kids once I receive my Master’s degree.
+    Right after graduation, I am going to need some breathing room, which will most likely involve some type of vacation. After that is over, it will be back to the books, as I plan to continue and pursue a Master’s Degree in Social Work. 
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    My number one advice to any prospective student is to work hard and find balance. UMBC-Shady Grove is not an easy university; students here work hard and earn their grade through excellent note taking, study groups and at times, sleepless nights.  But, at the end of the day, if you want to get somewhere in life and truly succeed,  then it is 100% worth it!  With that being said, finding balance is also important. Enjoy your time at UMBC-Shady Grove, make new friends that you can grab lunch with after class and vent to each other about how stressful the semester might be.   Always remember that no matter how stressful the semester may be, the semester only lasts 15 weeks and after those fifteen weeks, you are able to enjoy your break and you are one step closer towards reaching your goal of earning a bachelor’s degree! 
-</p>
-
-</div>
-
-
-
-<div class="accordionheader">
-            <h4><a id="reyes" href="#reyes"></a>Cindy Reyes, Social Work<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-          <div class="accordionbody">
-<img src="images/PAT/cindy-reyes.JPG" align="left" class="pat-team">
-    
-<p>
-    <strong>An interesting personal fact…</strong><br>
-    I am the oldest and youngest child at the same time. 
-</p>
-
-<p>
-    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I choose UMBC-Shady Grove because I really loved UMBC’s social work program and loved how I did not necessarily have to leave my home to be able to attend UMBC. 
-</p>
-
-<p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    Since I started UMBC-Shady Grove, I joined the Peer Advisory Team (PAT) and attended a few Social Work Student Association (SWSA) meetings during my spare time. 
-</p>
-
-<p>
-    <strong>What are your plans following graduation?</strong><br>
-    My plans after graduation are to go back packing through Central and South America before coming back home and getting a job in juvenile corrections. After working for a year, I plan on attending graduate school to earn my Master’s in Social Work (MSW). 
-</p>
-
-<p>
-    <strong>What is your advice for prospective students?</strong><br>
-    The best advice for new students is to come to UMBC-Shady Grove with an open mind and eager to get involved in your major and in the community. Just because Universities at Shady Grove (USG) is not a typical university does not mean that you don’t deserve to make your time here anything less then amazing! 
-</p>
-
-</div>
-
-
-
-<div class="accordionheader">
-            <h4><a id="runnings" href="#runnings"></a>Alexandra "Alex" Runnings, History<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-          <div class="accordionbody">
-<img src="images/PAT/alexandra-runnings.jpg" align="left" class="pat-team">
-    
-<p>
-    <strong>An interesting personal fact…</strong><br>
-    One fact about me that might be considered interesting is I have been learning how to brew beer.
-</p>
-
-<p>
-    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    I found that UMBC- Shady Grove was the best choice for me because not only do the small class sizes allow me to work more closely with my professors, but also because the schools resource whether it be help writing paper in the CAS center or help doing research in the library allows me to achieve the level of quality work that I know I’m capable of despite my learning difficulties. Another big reason I choose to attend UMBC- Shady Grove is due to the fact that the small student population doesn’t stop students from being active both on this campus and on main campus if they choose to be. So I get the academic advantages of a small school but the spirit of a big one!
-</p>
-
-<p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    While I am just now starting to become active in extracurricular activities such as the Peer Advisory Team (PAT) and the Political Science Student Association, there are tons of clubs I have yet to explore and my professors have been helping me find an internship that fits my future goals.
-</p>
-
-<p>
-    <strong>What are your plans following graduation?</strong><br>
-    While my new experiences over the last semester and a half have shifted my goals after graduation slightly, I know that I want to go on to eventually earn my graduate and doctoral degrees and pursue an academic career in archiving and writing. Directly after graduation, I plan to take some time off from school to travel and focus on my writing. 
-</p>
-
-<p>
-    <strong>What is your advice for prospective students?</strong><br>
-    The best advice I can give to prospective students is to truly follow your passion when it comes to choosing where to go next and what to do. School is a lot of work if you want to be successful and unless you truly love what you’re learning, it’s only going to be harder. Thanks to the experiences I have had on this campus, and with the support and inspiration of faculty who truly loves to teach and learn, I have grown so much as not only as a student and an academic, but also as a person.  While you are the one who is going to have to do the work to get the grades you want, I cannot put into words how truly special it is to have faculty and staff that want you to succeed and work to help you achieve your goals.  No matter where you decide to go to college, make sure you find what you love to do and people who both support you and challenge you to be better!
+    My advice for prospective students would be to get involved in something around campus, whether that be a club or student association. For me, getting involved in the Peer Advisory Team made me feel I was doing more than just showing up for classes day after day; now I have a role to play in bettering the transitional experience of incoming and prospective students, which can be tough. Another thing I would mention is do not be afraid to ask questions or seek out extra help or information when needed. The staff at UMBC-Shady Grove are here for us, the students. They put in a lot of extra effort in each stage of the collegial process to ensure student success.
 </p>
 
 </div>
 
 <div class="accordionheader">
-            <h4><a id="sandoval" href="#sandoval"></a>Camilla  Sandoval, History<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="thomas-davidson" href="#thomas-Davidson"></a>Denise Thomas-Davidson: Social Work<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/camilla-azucena-sandoval.jpg" align="left" class="pat-team">
+<img src="images/PAT/Denise Thomas-Davidson.jpg" width="200" height="275" align="left" class="pat-team">
+
+
 <p> <strong>An interesting personal fact…</strong><br>
-I am a lifelong Red Sox fan! </p>
+I have five grandchildren and I am accomplishing my bachelor degree in Social Work. </p>
 <p> <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-  I chose UMBC-Shady Grove because of the location and the small class sizes. With its location in Rockville, Maryland, UMBC-Shady Grove allows me to have a manageable commute and stay close to home. Additionally, the small class sizes that you get at UMBC-Shady Grove are great in that they give you the opportunity to make relationships with students and professors. </p>
+  With an associate degree in mental health, I transferred my credits to the UMBC-Shady Grove Social Work Program. The distance to reach the Universities of Shady Grove is more convenient for me and the smaller classroom sizes make it easier to get individual attention from professors. The Universities of Shady Grove also offers several academic success services that helps an individual to reach their academic goals.  </p>
 <p> <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-  Through one of my history professors, I was able to obtain an internship at the Universities at Shady Grove (USG) Priddy Library. Through this internship, I am able to gain experience by working with librarians on conducting research for exhibits as well as setting exhibits to be displayed throughout the semester. </p>
+  At UMBC- Shady Grove, I am a member of the Peer Advisory Team. I am also a member of the Social Work Student Association.</p>
 <p> <strong>What are your plans following graduation?</strong><br>
-  Following graduation, I plan to look for jobs where I can use the knowledge and skills that my history degree will provide me.  I also plan to spend time seriously considering graduate school. </p>
+  My plans after graduating is to obtain my MSW. I also plan to work with the United States military assisting military families.. </p>
 <p> <strong>What is your advice for prospective students?</strong><br>
-  My advice to prospective students is to never underestimate yourself and to not be afraid of getting out of your comfort zone. </p>
+  My advice for prospective students is to keep your focus on school, have a plan as to where you see yourself as a future professional, and bear in mind that a college degree is one of the greatest accomplishments an individual can achieve to take a committed stand in society.  </p>
   
 </div>
 
 <div class="accordionheader">
-            <h4><a id="sasu" href="#sasu"></a>Samuel Sasu, Political Science<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <h4><a id="valenzuela" href="#valenzuela"></a>Rodrigo Valenzuela: History<i class="fa fa-angle-down"></i></h4>
+        </div>
 
           <div class="accordionbody">
-<img src="images/PAT/samuel-sasu.JPG" align="left" class="pat-team">
-    
+<img src="images/PAT/Rodrigo Valenzuela.jpg" width="200" height="275" align="left" class="pat-team">
+ 
 <p>
     <strong>An interesting personal fact…</strong><br>
-    One interesting fact about me is that I really love different cultures because it really interests me.
+    An interesting fact about myself is that not many people know that I am a triplet; meaning I have an identical twin and a fraternal twin that looks almost like me.  I like to sometimes mess around with people and switch places every now and then with my twin brother.  Sometimes people will come up to me thinking I am my twin and I just go along without saying that I’m not my twin brother.  
 </p>
 
 <p>
     <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    Being a transfer student from Montgomery College, I chose this campus because it’s closer to home for me and it’s a size that allows me to meet new people as well as see familiar faces on a daily basis. UMBC-Shady Grove was my first choice as a transfer student because the facility is well-maintained, the commute for me is only 30 minutes to and from class, and I did not find the need to stress over room and board for the last two years of my undergraduate program. Also, the professors on this campus are excellent when it comes down to lecturing and making sure you understand the material with ease. Although the lectures are easy to follow, the professors on this campus really challenge your mental state of mind to think differently about topics you would normally be general about. This helped develop my critical thinking and research skills because professors formulate challenging questions in such a way that I cannot answer them in one or two words. The professors here really make sure I gain the true substance of what they were trying to teach by encouraging me to read and do effective research on the topics I do not understand. </p>
-
+    I chose UMBC-Shady Grove not only because how close it is to get to the campus, but also because of the great environment and atmosphere that surrounds the campus.  Aside from the great things that some of my friends who attend USG share, one open house that I attended a couple years ago while I was still at Montgomery College showed me everything I that I wanted in a university -- a great atmosphere where students interact with everyone regardless of what institution they attend and a place where I can feel comfortable. One of the Program Directors that came to one of my classes while I was attending Montgomery College sealed the deal for me after he spoke to prospective students about joining the History program of which I am now a part.</p>
 <p>
-UMBC-Shady Grove also has a great amount of clubs that are accepting to students who are outside of their required major. For instance, our Political Science Program here usually hosts “Wednesday Wipeout.”  It’s a discussion-based group during which we bring up current news happening within our country and around the world. The great thing about this program is that both Dr. Dasgupta, Political Science Program Director, and Dr. Nolan, History Program Director, encourage other non-political science students to come and join the group because it’s such a learning and enriching opportunity to learn about politics. 
-</p>
-
-<p>
-With such a small campus size, UMBC-Shady Grove acts like more of a second home for me because everyone is very friendly in the way they approach each other and we all strive and push one another to succeed. That’s the one thing I love the most about UMBC-Shady Grove – it’s not your typical college campus.  There is an equal balance of fun and work, and every student on campus has a strong determination to succeed. UMBC-Shady grove promotes a warm and welcoming setting to everyone who steps foot through their doors and I felt that vibe once I began my junior year here as a student of UMBC. 
-
-</p>
-
-<p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    Aside from being a member of the Peer Advisory Team (PAT), I am currently an intern for the Maryland General Assembly (MGA) in Annapolis Maryland for Delegate Aruna Miller. This internship opportunity has been an amazing experience so far because I’m gaining a lot of experience with public policy and gaining close perspective to what it could be like to become a Delegate for Montgomery County. 
+  <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
+    UMBC-Shady Grove offers a whole range of extracurricular activities and internships. One of many extracurricular activities that I was able to join was the History Student Association (HSA), where we mainly discuss any potential history topics ranging from a variety of subjects that have either occurred in the past, to the present.  Students form many groups or clubs that are open to all students -- this is the best way, in my opinion, to allow students to connect with others around them.  
 </p>
 
 <p>
     <strong>What are your plans following graduation?</strong><br>
-    Once I graduate, I have plans to start a career working within the field of public policy, regardless if it is on a national or local level. Other possible careers I am pursuing after graduation include becoming a Diplomat for the United States. This is a dream because I have always loved different cultures and I always have considered traveling to different parts of the world if the opportunity presents itself.  I also plan to attend graduate school and obtain a graduate degree in one of the following fields of public policy, international relations, and or information systems. 
+    Following my graduation from UMBC, I intend to go to graduate school and earn a master’s degree in history or in teaching so that I can eventually become a teacher and hopefully one day become a history professor myself.
 </p>
 
 <p>
     <strong>What is your advice for prospective students?</strong><br>
-    The advice I would provide to a prospective student attending UMBC-Shady Grove is to work to improve your reading and writing skills because most classes require a good amount of it. It’s not something overbearing at all, but these two set of skills play a major role in how well you understand the material and how well you do in classes over all. 
+    Some advice that I would give would be to take some time and get to know your professors; they are all a great help and go out of their way to help make sure you are doing well in your classes.  Also, become involved as much as possible on campus in clubs and other activities/events that go on at school.  We have a great Office of Student Services that works with students in getting involved with extracurricular activities and USG’s Center for Internship and Career Services helps to get students ready for potential jobs, along with resume reviews etc.  
 </p>
 
 </div>
@@ -619,84 +592,10 @@ With such a small campus size, UMBC-Shady Grove acts like more of a second home 
 
 
 
-<div class="accordionheader">
-            <h4><a id="turek" href="#turek"></a>Ben Turek, Political Science<i class="fa fa-angle-down"></i></h4>
-          </div>
 
-          <div class="accordionbody">
-<img src="images/PAT/ben-turek.jpg" align="left" class="pat-team">
-    
-<p>
-    <strong>An interesting personal fact…</strong><br>
-    While finishing my degree at UMBC-Shady Grove, I also hold a retail job.  In between school and work, I found time to go to my first MagFest event this year at National Harbor.  MagFest (Music and Gaming Fest) is a convention where people of many interests gather, including but not limited to music, gaming, comics, and fictional genres. Another interesting fact is that I affiliate with the Log Cabin Republicans.
-</p>
+ 
 
-<p>
-    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    UMBC-Shady Grove offers students hoping to earn their bachelor’s degree the ability to transfer smoothly from community colleges and other institutions. I choose UMBC-Shady Grove because UMBC offers a great program in my field of study, political science, which will help propel me into my chosen career path. The small classes, engaging staff, and resources offer a great learning environment.
-</p>
-
-<p>
-    <strong>What do you like best about UMBC-Shady Grove?</strong><br>
-    There are a lot of unique traits about UMBC-Shady Grove. My learning experience is supported by the modern classrooms and faculty who are experienced in their field. Being equipped with modern study aids and insightful instructors is certainly my favorite aspect of UMBC-Shady Grove.
-</p>
-
-<p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    Outside of classes, I am a member of the UMBC Peer Advisory Team (PAT). In addition, I attend the UMBC-Shady Grove Wednesday Wipeout sessions, a weekly meeting consisting of political science and other UMBC-Shady Grove students who discuss a wide range of current event topics.  I also keep in tune with other campus events.
-</p>
-
-<p>
-    <strong>What are your plans following graduation?</strong><br>
-    Once I graduate, I have a few plans for potential career starters. I hope to work for the Library of Congress, in a local Congressional office, or obtain an internship in Annapolis, MD. Being so near to DC, I recognize that this is truly an ideal area for all things political.  Running for public office may be in my future, however, just being in close proximity to political events enables  me to feel involved, connected, and engaged in the system.
-</p>
-
-<p>
-    <strong>What is your advice for prospective students?</strong><br>
-    The best advice I can give to future students is to take as many non-major or general education classes you need before transferring to UMBC-Shady Grove. Once at UMBC-Shady Grove, I have found that it’s best to really hone in on and concentrate on your major-specific courses. Also, I recommend that students master the three major types of citation when writing papers: MLA, APA, and Chicago style.
-</p>
-
-</div>
-
-
-
-<div class="accordionheader">
-            <h4><a id="white" href="#white"></a>Christina White, Psychology<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-          <div class="accordionbody">
-<img src="images/PAT/christina-white.JPG" align="left" class="pat-team">
-    
-<p>
-    <strong>An interesting personal fact…</strong><br>
-    I like to paint in my spare time, and one of my art pieces was published in a children’s book.
-</p>
-
-<p>
-    <strong>Why did you choose UMBC-Shady Grove?</strong><br>
-    After graduating from Montgomery College-Rockville with an Associates degree, I made the decision to apply to UMBC-Shady Grove for several reasons.  UMBC-Shady Grove provides me with quality education, and the convenience of a campus which is close to home.  Students at the Shady Grove campus get all of the same academic resources as students on the main campus, with the added bonus of having eight other Universities contributing to the campus. The smaller class sizes at Shady Grove also allow a more intimate environment in which it is easy to make connections with both peers and faculty.  Another factor which made UMBC-Shady Grove an attractive option is that everyone on campus is a transfer student, which means that everyone else would have a similar educational background to me.
-</p>
-
-<p>
-    <strong>What internships and/or extracurricular activities have you been involved with at UMBC-Shady Grove?</strong><br>
-    Currently, I am a Peer Advisory Team (PAT) student representative, and serve as the treasurer on the Psychology Student Association Executive Board.  This semester I am planning to join the Tau Sigma National Honor Society, and am also searching for a summer internship.
-</p>
-
-<p>
-    <strong>What are your plans following graduation?</strong><br>
-    After graduation, I hope to secure a stable job in the field of psychology.  Ultimately my goal is to attend graduate school, but I plan to spend a few years getting professional experience beforehand.
-</p>
-
-<p>
-    <strong>What is your advice for prospective students?</strong><br>
-    My main piece of advice to prospective students is to attend a UMBC-Shady Grove open house, and to get as much information as possible about the program to which you wish to apply.  UMBC-Shady Grove offers its students an endless amount of resources and opportunities, so the best thing to do is to take advantage of them!  Get involved as much as possible, make the most of your education, and don’t forget to have some fun along the way!
-</p>
-
-</div>
-<br>
-<br>
-
-</div>
+      </div>
 </div>
 </div>
 

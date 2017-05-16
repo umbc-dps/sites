@@ -88,6 +88,48 @@ html::after {
 .videoWrapper2 iframe {height: 275%}
 .videoWrapper2 {margin-bottom: 275%}
 }
+}
+#tfa_0-T, .supportInfo, div.lengthIndicator{
+	display:none!important;
+}
+form#tfa_0, form#tfa_0 .section, form#tfa_0 label{background-color:transparent!important;}
+form#tfa_0 label, form#tfa_0 .section, form#tfa_0 input, form#tfa_0 div{
+	margin:0px!important;
+	padding:0px!important;
+}
+form#tfa_0 div{
+	width:100%;
+}
+form#tfa_0 input{
+	width:95%!important;
+	height:25px;
+}
+form#tfa_0 select{
+	width:95%!important;
+	height:25px;
+}
+form#tfa_0 textarea{
+	width:95%!important;
+	height:75px;
+}
+form#tfa_0{
+	margin-left:5%;
+}
+form#tfa_0 label{
+	font-weight: bold;
+	padding-top:10px!important;
+}
+form#tfa_0 input.primaryAction{
+	font-weight:bold;
+	margin-top:20px!important;
+	text-align:center!important;
+	display:block;
+	height:30px;
+}
+div.actions{
+	display:inline-block;
+	text-align:center!important;
+}
 </style>
 
 
@@ -120,9 +162,17 @@ html::after {
     
     <!-- Start Content -->   
       <div class="content">
-		<div class="videoWrapper2">
-			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd93JkhwvPmrLRyX-6bBAG-0rJEq9P7EnhVruPnjBL11s04KA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-        </div>
+<?php
+//Set stream options
+$context = stream_context_create(array('http' => array('ignore_errors' => true)));
+if(!isset($_GET['tfa_next'])) {
+$qs = ' ';
+if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']));
+echo file_get_contents('https://umbc.secure.force.com/form?formID=217752'.$qs);
+} else {
+echo file_get_contents('http://app.formassembly.com/rest'.$_GET['tfa_next'],false,$context);
+}
+?> 
 		<br>
 	  </div>
 	</div>
@@ -169,6 +219,44 @@ $('h4').click(function() {
 	ga('send', 'event',  'accordion', 'click', linkText);
 });
 </script> 
+
+
+<script>
+var vars = [], hash;
+    var q = document.URL.split('?')[1];
+    if(q != undefined){
+        q = q.split('&');
+        for(var i = 0; i < q.length; i++){
+            hash = q[i].split('=');
+            vars.push(hash[1]);
+            vars[hash[0]] = hash[1];
+        }
+}
+var currentLocation = window.location.href.split('?')[0];
+$("#tfa_20").attr("value", vars['email']);
+$("#tfa_11").attr("value", vars['first']);
+$("#tfa_12").attr("value", vars['last']);
+$("#tfa_432").attr("value", vars['utm_campaign']);
+$("#tfa_428").attr("value", vars['utm_source']);
+$("#tfa_430").attr("value", vars['utm_medium']);
+$("#tfa_434").attr("value", vars['utm_content']);
+$("#tfa_436").attr("value", vars['utm_term']);
+$("#tfa_445").attr("value", currentLocation);
+</script>
+ 
+
+
+<script>
+$('#tfa_0').submit(function() {
+  ga('send', 'event', 'lead', 'submit', 'orientation');
+  fbq('track', 'CompleteRegistration');
+});
+ga(function(tracker) {
+  var clientId = tracker.get('clientId');
+  $("#tfa_437").attr("value", clientId)
+});
+</script>
+
  
 
 <?php include("includes/tracking.php"); ?>

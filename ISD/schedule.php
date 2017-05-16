@@ -78,7 +78,9 @@
   
   <h4>Course Locations</h4>
   <p>In-person courses will be located at the <a href="directions">South Campus location</a>.</p>
-    <h3>Schedule of Classes Fall 2017</h3>
+    <h2>Schedule of Classes</h2>
+    <br> 
+    <h3>Fall 2017</h3>
   <p><strong>Current Student Registration Begins: </strong>April 3, 2017<br>
   	<strong> New Master/Certificate Student Registration Begins: </strong>June 1, 2017					<br><strong> Non-Degree Student Registration Begins: </strong>August 23, 2017					<br><strong>Semester Begins: </strong>August 30,2017<br>
     <strong> Last Day of Schedule Adjustment Period: </strong> September 13, 2017<br>
@@ -139,6 +141,12 @@
      <td>Kellerman, P.</td>
     </tr>
    <tr>
+     <td>EDUC 681 – 02 (7525)</td>
+     <td>Survey of Instructional Technology Applications</td>
+     <td>Synchronous Online - Tuesdays 7:10-9:40PM</td>
+     <td>Young, P.</td>
+   </tr>
+   <tr>
      <td>EDUC 682 – 01 (2109)</td>
      <td>Instructional Technology Design and Development</td>
      <td>Synchronous Online - Wednesdays 7:10-9:40PM</td>
@@ -182,8 +190,7 @@
      </tr>
  </table>
  <hr>
- <br>
-  <h3>Schedule of Classes Summer 2017</h3>
+  <h3>Summer 2017</h3>
   <p><strong>Registration Begins: </strong>March 6, 2017<br>
   	<strong> Non-Degree Student Registration Begins: </strong>May 23, 2017					<br><strong>12 Week Session Dates: </strong>May 30-August 18,2017<br>
     <strong> Last Day of 12 Week Schedule Adjustment Period: </strong> June 2, 2017<br>
@@ -258,119 +265,7 @@
      </tr>
  </table>
  <hr>
- <br> 
-<h3>Schedule of Classes Spring 2017</h3>
-  <p><strong>Semester Begins: </strong>January 30, 2017<br>
-  <strong>Last Day of the Semester:</strong> May 16, 2017<br>
-  <strong>View</strong> <a href="http://registrar.umbc.edu/files/2016/10/SP_17-Term-Session-and-Table-Dates_updated_10.10_FINAL-FOR-POSTING.pdf">Full Academic Calendar</a></p>
-  
-<table id="schedule">
-  <TR>
-    <TD width="64">Course   &amp;  
-      Class Number</TD>
-    <TD width="64">Course Title</TD>
-    <TD width="64">Day/Time</TD>
-    <TD width="64">Instructor</TD>
-    <TD width="10%">Room</TD>
-</TR>
-  <tr>
-    <td>EDUC 602 – 04 (2823)</td>
-    <td>Instructional Systems    Development I</td>
-    <td>Online Asynchronous<</td>
-    <td>Hodell, C.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>EDUC 603 – 01 (2008)</td>
-    <td>Instructional Systems    Development II</td>
-    <td>Online Asynchronous</td>
-    <td>Campos, J.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>EDUC 605 – 01 (2010)</td>
-    <td>The Adult Learner</td>
-    <td>Online Asynchronous</td>
-    <td>Hodell, C.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>EDUC 643 – 01 (2014)</td>
-    <td>Principles of Distance    Education</td>
-    <td>Online Asynchronous</td>
-    <td>Berge, Z.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>EDUC 648 – 01 (2016)</td>
-    <td>Consulting</td>
-    <td>Online Asynchronous with some    synchronous online sessions</td>
-    <td>Buelow, J.</td>
-    <td>n/a</td>
-  </tr>
-   <tr>
-     <td>EDUC 671 – 01 (2027)</td>
-     <td>Principles of Training and    Development</td>
-     <td>Online Asynchronous</td>
-     <td>Berge, Z.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>EDUC 681 – 01 (2030)</td>
-    <td>Survey of Instructional    Technology Applications</td>
-    <td>Synchronous Online – Mondays    7:10 – 9:40 p.m.</td>
-    <td>Kellerman, P.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>EDUC 681 – 02 (8194)</td>
-    <td>Survey of Instructional    Technology Applications</td>
-    <td>Synchronous Online – Wednesdays    7:10 – 9:40 p.m</td>
-    <td>Young, P.</td>
-    <td>n/a</td>
-  </tr>
-   <tr>
-     <td>EDUC 682 – 01 (4561)</td>
-     <td>Instructional Technology Design    and Development</td>
-     <td>Synchronous Online – Wednesdays    7:10 – 9:40 p.m.</td>
-     <td>Berthau, C.</td>
-     <td>n/a</td>
-   </tr>
-   <tr>
-     <td>EDUC 683 – 01 (2031)</td>
-     <td>Multi-Media Project Management</td>
-     <td>First Two Thursdays will be Synchronous Online 7:10 – 9:40 p.m.; remaining course will be online asynchronous</td>
-     <td>Ahmad, R.</td>
-    <td>n/a</td>
-  </tr>
-   <tr>
-     <td>EDUC 771 – 01 (2036)</td>
-     <td>Research Designs in Education</td>
-     <td>Online Asynchronous<</td>
-     <td>Curran, K.</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>EDUC 792T – 01 (2039)</td>
-    <td>ISD Internship-Training</td>
-    <td>Online Asynchronous</td>
-    <td>Williams, G.</td>
-    <td>n/a</td>
-  </tr>
-   <tr>
-     <td>EDUC 794 – 02 (2042)</td>
-     <td>ISD Project Seminar</td>
-     <td>Online Asynchronous</td>
-     <td>Williams, G.</td>
-     <td>n/a</td>
-   </tr>
-   </table>
-<br>
-<p>&nbsp;</p>
-<hr>
-<br>
-<p>&nbsp;</p>
-<hr>
+
   
 <a id="sequence"></a><h3>Sequence of ISD Courses</h3>
 <p>This schedule is a guide only and is subject to change. While we make every effort to run all classes listed on this chart in the time frames stated, there are some rare instances when we need to reschedule or cancel classes.</p>

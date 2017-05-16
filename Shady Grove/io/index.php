@@ -117,7 +117,7 @@
 
 <div class="carousel-caption wordwrap">
 <h3>Meet Our Graduate Program Director</h3>
-<small>He has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.</small>
+<small>Elliot D. Lasson, Ph.D., SPHR, SHRM-SCP has over two decades of overall experience in teaching and mentoring aspiring I/O and HR professionals.</small>
 
 <p><a href="http://www.umbc.edu/shadygrove/io/faculty.php" class="web-seemore">Meet Dr. Lasson</a></p></div>
 
@@ -144,7 +144,7 @@
 </li>
 <!-- END SLIDE FOUR -->
 
-<!-- SLIDE FIVE -->
+<!-- SLIDE FIVE --
 <li id="slide4">
 
 <a href="http://gradschool.umbc.edu/admissions/apply/"  target="_blank">
@@ -174,12 +174,12 @@
 <h3>UMBC I/O Psychology Graduate Programs</h3>
 
       <p>The Industrial/Organizational Psychology program at UMBC-Shady Grove in Rockville, MD offers a Master of Professional Studies in I/O Psychology. UMBC&rsquo;s program is a unique, highly applied program, providing graduate training focused on developing skills that are relevant in today's job market, exploring and integrating important topics including organizational behavioral management, human factors, and professional human resources practice, and helping students develop a professional portfolio while building strong relationships with faculty practitioners and industry professionals.</p>
-      <p>Upon completion of the Master's in Industrial Organizational Psychology&nbsp;program, students gain advanced knowledge in Statistical Methods and Data Analysis, Ethical, Legal and Professional Contexts, Measurements of Individual Differences, Criterion Development, Job and Task Analysis, Employee Selection, Placement and Classification, Performance Appraisal and Feedback, Work Motivation, and Organizational Behavior.</p>
+      <p>Upon completion of the Master's in Industrial Organizational Psychology&nbsp;program, students gain advanced knowledge in Human Resources, Talent Acquisition, Talent Management, Organizational Behavior and Development, and Training and Development.</p>
       <h3>Why Industrial/Organizational Psychology?</h3>
 
       <ul>
         <li>According to the United States Department of Labor Bureau of Labor Statistics, I/O Psychologist positions are expected to increase by 26% from 2008 to 2018. </li>
-        <li>There are many diverse career paths available for those with an I/O Psychology degree, including working in the private sector, governmental, education, or consulting. Industrial/Organizational psychologists contribute to an organization's success by improving the performance, satisfaction, safety, health and well-being of its employees with many career opportunities opening up with the completion of a Master’s degree. </li>
+        <li>There are many diverse career paths available for those with an I/O Psychology degree, including working in the private sector, governmental, education, or consulting. Industrial/Organizational professionals contribute to an organization's success by improving the performance, satisfaction, safety, health and well-being of its employees with many career opportunities opening up with the completion of a Master’s degree.</li>
       </ul>
 
 
@@ -187,8 +187,8 @@
 
       <ul>
         <li>UMBC's Industrial/Organization Psychology Master's Programs are led by a distinguished faculty of practitioners in the field.</li>
-        <li>Program includes an Advisory board comprised of representatives from business, industry and government who provide valuable input on program and curriculum development. </li>
-        <li>Classes are offered at UMBC-Shady Grove in Rockville, MD, which is conveniently located near Baltimore, Washington D.C. and Northern Virginia. Classes are offered in a flexible format, designed for busy working professionals, with in-person classes offered in the early evening.</li>
+        <li>Program includes an Advisory Board comprised of representatives from business, industry and government who provide valuable input on program and curriculum development. A new mentoring program is in place where students receive career guidance from the Advisory Board Members. </li>
+        <li>Classes are offered at UMBC-Shady Grove in Rockville, MD, which is conveniently located near Baltimore, Washington D.C. and Northern Virginia. Classes are offered in a flexible format, designed for working professionals, with in-person classes offered in early evenings as well as some Saturday courses. In addition there are offerings in compressed summer semesters and also select online courses. </li>
       </ul>
     
 

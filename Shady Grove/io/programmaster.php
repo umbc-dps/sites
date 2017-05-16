@@ -80,39 +80,38 @@
  <h4>Program Requirements:</h4>
  <p> Students must complete a total of 30 credits as follows: 5 core courses (15 credits), 4 electives (12 credits), 1 capstone project (3 credits). </p>
 
- <h4>Required Core Courses (18 credits) Choose 5:</h4>
+ <h5>Required Core Courses (15 credits), 2 Required, Choose 3:</h5>
 
  <ul>
-   <li><a href="courses#PSYC670" target="_blank">PSYC 670: Industrial/Organizational Psychology</a></li>
+   <li><a href="courses#PSYC670" target="_blank">PSYC 670: Industrial/Organizational Psychology</a> <em>(required)</em></li>
    <li><a href="courses#PSYC671" target="_blank">PSYC 671: Seminar in Social Psychology</a></li>
    <li><a href="courses#PSYC672" target="_blank">PSYC 672: Introduction to Data Analytic Procedures</a> <em>(required)</em></li>
    <li><a href="courses#legal-ethical-and-professional-issues-in-io-pscyhology" target="_blank">PSYC 673: Legal, Ethical and Professional Issues</a></li>
    <li><a href="courses#PSYC674" target="_blank">PSYC 674: Methods of Assessment</a></li>
-   <li><a href="courses#professional-human-resources-practice" target="_blank">PSYC 601: Professional Human Resource Practices</a></li>
+   <li><a href="courses#professional-human-resources-practice" target="_blank">PSYC 677: Professional Human Resource Practices</a></li>
 
  </ul>
  
  <h5>Elective I/O Psychology Courses  (12 credits) Choose 4:</h5>
  <ul>
-   <li><a href="courses#group-decision-making" target="_blank">Group Decision Making</a></li>
-   <li><a href="courses#human-performance-technologies" target="_blank">Human Performance Technologies</a></li>
-   <li><a href="courses#survey-design-and-development" target="_blank">Survey Design and Development</a></li>
-   <li><a href="courses#program-evaluation" target="_blank">Program Evaluation</a></li>
-   <li><a href="courses#strategic-planning" target="_blank">Strategic Planning</a></li>
-   <li><a href="courses#organizational-behavior-management" target="_blank">Organizational Behavior Management</a></li>
-   <li><a href="courses#human-factors" target="_blank">Human Factors</a></li>
+   <li><a href="courses#total-rewards" target="_blank">PSYC 601: Total Rewards</a></li>
+   <li><a href="courses#organizational-behavior-management" target="_blank">PSYC 669: Organizational Behavior Management</a> </li>
+   <li><a href="courses#human-factors" target="_blank">PSYC 676: Human Factors</a></li>
+   <li><a href="courses#group-decision-making" target="_blank">PSYC 678: Group Decision Making</a></li>
+   <li><a href="courses#survey-design-and-development" target="_blank">PSYC 679: Survey Design and Development</a></li>
+   <li><a href="courses#human-performance-technologies" target="_blank">PSYC 681: Human Performance Technologies</a></li>
+   <li><a href="courses#change-management" target="_blank">PSYC 682: Change Management</a></li>
+   <li><a href="courses#advanced-statistics" target="_blank">PSYC 683: Advanced Statistics</a></li>
+   <li><a href="courses#program-evaluation" target="_blank">PSYC 684: Program Evaluation for I/O Psychology</a></li>
+   <li><a href="courses#strategic-planning" target="_blank">PSYC 689: Strategic Planning</a></li>
    <li><a href="courses#ISD1" target="_blank">EDUC 602: Instructional Systems Design</a></li>
    <li><a href="courses#principles-in-training-and-development" target="_blank">EDUC 671: Principles in Training and Development</a></li>
-   <li><a href="courses#advanced-statistics" target="_blank">Advanced Statistics</a></li>
-  <li>Other relevant graduate course(s) approved by  the I/O Psychology Graduate Program Director</li>
 </ul>
 
-<h5>Capstone Course</h5>
+<h5>Practicum in I/O Psychology (3 credit hours), Required</h5>
 <ul>
-<li><a href="courses#capstone" target="_blank">Capstone Experience</a></li>
+<li><a href="courses#capstone" target="_blank">PSYC 698: Capstone Experience</a></li>
 </ul>
-
-
 
 <!-- END Content -->
  </div>

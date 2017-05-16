@@ -61,7 +61,7 @@
         12 - Certificate</dd>
 
 
-        <dt>Tuition &amp; Fees (MD Resident)</dt>
+        <dt>Tuition &amp; Fees <span style="font-size:8.5pt">(MD/<a href="http://regional.umbc.edu" target="_blank">Regional</a> Resident)</span></dt>
 
 
         <dd>$711 per credit</dd>

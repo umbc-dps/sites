@@ -3,8 +3,8 @@
       <h3 style="color:#fff;">Upcoming Event</h3>
       <p style="text-align:center">
 		<strong>Program Exploration Open House</strong><br>
-Wednesday, June 21, 6:00PM - 7:30PM<br>
-<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=isd_sidebar" class="btn">Save Your Spot!</a>
+Saturday, April 1, 10:00AM - 12:00PM<br>
+<a href="http://umbc.edu/openhouse?utm_campaign=openhouse_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=isd_sidebar" class="btn">Save Your Spot!</a>
 	</p>
     </aside>
 
@@ -13,7 +13,8 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p><strong>Summer 2017 Master's Priority Application Deadline:</strong> March 1st <br><strong> Summer 2017 Certificate Application Deadline:</strong> April 1st<br><p><strong> Fall 2017 Master's Priority Application Deadline:</strong> June 1st<br><strong> Fall 2017 Certificate Application Deadline:</strong> July 1st<br></p>
+      <p><strong>Summer 2017 Application Deadline:</strong> April 1st <br>
+      <p><strong> Fall 2017 Application Deadline:</strong> August 1st<br></p>
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>

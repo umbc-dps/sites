@@ -74,31 +74,31 @@
  
  <p>The  post-baccalaureate certificate in Systems Engineering is designed to allow the student to  rapidly acquire the fundamental skills in Systems Engineering. The certificate program can be completed in  three semesters (approximately 10 months of classes) and has a simplified <a href="certificate.php">admissions  process</a>. Credits from the certificate program can be transferred to several  Masters of Science programs: MS of Systems Engineering, MS of Electrical Engineering, MS of Computer Science, or MS of Engineering Management. </p>
  
- <p>This certificate requires five (5)  courses. </p>
- <h5>The following four (4) foundation  courses: </h5>
+ <p>Beginning in Fall 2017, the Systems Engineering certificate requires four (4) courses. </p> <p> Four (4) required courses (12 credits). </p>
+ <h5>OPTION A: </h5>
  <ul>
-   <li>ENEE 660: Systems Engineering Principles </li>
+   <li>ENEE 660: Systems Engineering Principles  </li>
    <li>ENEE 661: System Architecture and Design</li>
    <li>ENEE 663: System Implementation, Integration, and Test</li>
-   <li>ENEE 670: Systems Engineering Project</li>
+   <li>ENEE 662: System Modeling, Simulation, and Analysis (*) (**)</li>
  </ul> 
  
- <h5>And one (1) of the courses below </h5>
+ <h5>OPTION B: </h5>
  <ul>
-   <li>ENEE 662: System Modeling, Simulation, and Analysis</u> (*) (**)</li>
+   <li>ENEE 660: Systems Engineering Principles</li>
+   <li>ENEE 661: System Architecture and Design</li>
+   <li>ENEE 663: System Implementation, Integration, and Test</li>
    <li>ENEE 672: Decision and Risk Analysis</li>
  </ul>
- <p>(*)  ENEE 662 and ENEE 670 have a prerequisite of either passing ENEE 669 or testing  out of the class. See the instructor for details. ENEE  669 is a one credit course.</p>
+ <p>(*) ENEE 662 has a prerequisite of either passing ENEE 669 or testing out of the class. See the instructor for details. ENEE 669 is a one credit course.</p>
  <ul>
    <li><a href="courses.php#ENEE669">ENEE 669: Mathematics  and MATLAB Fundamentals for Engineers</a></li>
- </ul>
- <p>(**) Students enrolled in the Masters  program for Electrical Engineering or Computer Science must take ENEE 662.</p>
+ </ul><p>(**) Students enrolled in the Masters program for Electrical Engineering or Computer Science must take ENEE 662.</p>
+ 
  
   <h4>Gainful Employment</h4>
 <p>
-This academic program is a participant in the U.S. Department of Education Gainful Employment program.
-</p>
-<ul><li><a href="http://ged.financialaid.umbc.edu/sys/Gedt.html" target="_blank">Gainful Employment Information</a></li></ul>
+This academic program is a participant in the U.S. Department of Education Gainful Employment program. For more information, go to <a href="http://ged.financialaid.umbc.edu/sys/Gedt.html" target="_blank">http://ged.financialaid.umbc.edu/sys/Gedt.html</a>.</p>
 
 
 

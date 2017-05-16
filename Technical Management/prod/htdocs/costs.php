@@ -73,7 +73,7 @@
       <h3>Program Costs</h3>
 
 
-      <h4>Tuition and Fees for 2016 - 2017 Academic Year</h4>
+      <h4>Tuition and Fees for 2017 - 2018 Academic Year</h4>
 
 
       <p>Breakdown of tuition and fees for a student taking one (three-credit) course:</p>
@@ -83,7 +83,7 @@
         <tr>
           <th>&nbsp;</th>
 
-          <th>Maryland Resident</th>
+          <th>Maryland Resident**</th>
 
           <th>Non-Maryland Resident</th>
         </tr>
@@ -91,17 +91,17 @@
 
         <tr>
           <td>Tuition<br>
-          <span class="extra">MD resident: $603 per credit<br>
-          Non-resident: $997 per credit</span></td>
+          <span class="extra">MD resident: $621 per credit<br>
+          Non-resident: $1,047 per credit</span></td>
 
-          <td>$1,809</td>
+          <td>$1,863</td>
 
-          <td>$2,991</td>
+          <td>$3,141</td>
         </tr>
 
 
         <tr>
-          <td>Athletics Fee <span class="extra">($27 per credit)</span></td>
+          <td>Athletics Fee <span class="extra">($28 per credit)</span></td>
 
           <td>$84</td>
 
@@ -110,11 +110,11 @@
 
 
         <tr>
-          <td>University Commons Fee <span class="extra">($27 per credit)</span></td>
+          <td>University Commons Fee <span class="extra">($28 per credit)</span></td>
 
-          <td>$81</td>
+          <td>$84</td>
 
-          <td>$81</td>
+          <td>$84</td>
         </tr>
 
 
@@ -128,7 +128,7 @@
 
 
         <tr>
-          <td>Auxiliary Facilities Fee <span class="extra">($22 per credit)</span></td>
+          <td>Auxiliary Facilities Fee <span class="extra">($23 per credit)</span></td>
 
           <td>$69</td>
 
@@ -137,7 +137,7 @@
 
 
         <tr>
-          <td>Graduate Program Fee <span class="extra">($14 per credit)</span></td>
+          <td>Graduate Program Fee <span class="extra">($16 per credit)</span></td>
 
           <td>$48</td>
 
@@ -146,20 +146,20 @@
 
 
         <tr>
-          <td>Technology Fee <span class="extra">($14 per credit)</span></td>
+          <td>Technology Fee <span class="extra">($15 per credit)</span></td>
 
-          <td>$42</td>
+          <td>$45</td>
 
-          <td>$42</td>
+          <td>$45</td>
         </tr>
 
 
         <tr>
           <td>TOTAL:</td>
 
-          <td>$2,199</td>
+          <td>$2,259</td>
 
-          <td>$3,381</td>
+          <td>$3,537</td>
         </tr>
 
 

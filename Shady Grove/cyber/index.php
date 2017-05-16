@@ -129,7 +129,7 @@
 </li>
 -- END SLIDE TWO --> 
 
-<!-- SLIDE Two -->
+<!-- SLIDE Two --
 
 <li id="slide2">
 

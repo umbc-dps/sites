@@ -171,7 +171,7 @@ BEGIN MAIN
 
 <div class="carousel-caption wordwrap" style="width: 38%; left:0px; height:65%; margin-top:20px; padding-top:25px;">
 <h3 style="margin-bottom:-15px;">Announcing New Regional Graduate Tuition Rate</h3>
-<small>Starting Fall 2017, those in DC, Virigina, Delaware & Pennsylvania may qualify to pay a lower tuition rate.</small>
+<small>Starting Fall 2017, those in DC, Virginia, Delaware & Pennsylvania may qualify to pay a lower tuition rate.</small>
 
 </div>
 

@@ -13,8 +13,7 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p>Fall 2017 Master's Application Deadline: June 1st; Summer 2017 Master's Application Deadline: March 1st; Fall 2017 Certificate Application Deadline: July 1st; Summer 2017 Certificate Application Deadline: April 1st
-        <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
+      <p><strong>Fall 2017 Application Deadline</strong>: August 1st <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>
 

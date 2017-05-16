@@ -73,7 +73,7 @@
  <h3>Admissions: International</h3>
  <p>The following additional program admissions requirements (beyond those required by the graduate school) apply to all students that do not hold a bachelors degree or higher from a regionally accredited United States college or university:</p>
  <h4>Application Dates</h4>
- <p>The application deadline for Fall 2017 is <strong>January 1</strong>.  <br>
+ <p>The application deadline for Fall  is <strong>January 1st</strong>.  <br>
    Fall 2017 semester begins: August 30, 2017 <br>
    <strong>* </strong>International Applicants are admitted <u>only</u> Fall Semesters. </p>
  <h4>Admissions Requirements:</h4>
@@ -106,11 +106,6 @@
  </ul>
  <h4>Mailing Instructions </h4>
  <p><strong>All application documents should be mailed to:</strong> <br>
-   Renee Eisenhuth, Program Coordinator<br>
-   ISD - Training Systems Graduate Program<br>
-   1450 Rolling Road<br>
-   Halethorpe, MD 21227</p>
- <p>Or To:<br>
    University of Maryland, Baltimore County<br>
 Graduate School, ISD Graduate Program<br>
 1000 Hilltop Circle<br>

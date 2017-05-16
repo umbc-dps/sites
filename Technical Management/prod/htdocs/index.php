@@ -68,7 +68,17 @@
       <ul>
 
 
-<!-- SLIDE ONE -->              
+<!-- SLIDE ONE -->             
+
+<li id="slide2">
+
+<img src="images/techmprogramcarousel.png" alt="New Technical Management Program"/>
+
+</li>
+
+<!-- END SLIDE ONE -->
+
+<!-- SLIDE TWO -->              
 
 <li id="slide1">
 
@@ -84,7 +94,7 @@
 
 </li>
 
-<!-- END SLIDE ONE -->   
+<!-- END SLIDE TWO -->   
 
 </ul>
 

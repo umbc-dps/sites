@@ -75,7 +75,7 @@
       <h3>Program Costs</h3>
 
 
-      <h4>Tuition and Fees for 2016 - 2017 Academic Year</h4>
+      <h4>Tuition and Fees for 2017 - 2018 Academic Year</h4>
 
 
       <p>Breakdown of tuition and fees for a student taking one (three-credit) course:</p>
@@ -83,28 +83,26 @@
 
       <table id="costs">
         <tr>
-          <td>&nbsp;</td>
-          <td>Maryland    Resident</td>
-          <td>Non-Maryland    Resident</td>
+          <td>&nbsp;</td>          <td style="font-weight:bold">Maryland Resident**</td>
+          <td style="font-weight:bold">Non-Maryland Resident</td>
         </tr>
-        <tr>
-          <td>Tuition<br>
-            MD resident: $603 per credit<br>
-            Non-Maryland resident: $997 per credit</td>
-          <td>$1,821 </td>
-          <td>$2,991 </td>
+        <tr>          <td>Tuition<br>
+          <span class="extra">MD resident: $621 per credit<br>
+          Non-resident: $1,047 per credit</span></td>
+          <td>$1,863</td>
+          <td>$3,141</td>
         </tr>
         <tr>
           <td>Mandatory    Fees:</td>
           <td>Part-Time <br>
             Student:</td>
           <td>Full-Time <br>
-            Student</td>
+            Student:</td>
         </tr>
         <tr>
           <td>Auxiliary    Facilities Fee*</td>
-          <td>$20.40 per credit    hour</td>
-          <td>$183 per semester</td>
+          <td>$20.80 per credit    hour</td>
+          <td>$186.50 per semester</td>
         </tr>
         <tr>
           <td>Facilities    Flat fee*</td>
@@ -113,8 +111,8 @@
         </tr>
         <tr>
           <td>Technology Fee</td>
-          <td>$14 per credit</td>
-          <td>$14 per credit</td>
+          <td>$15 per credit</td>
+          <td>$15 per credit</td>
         </tr>
 
 

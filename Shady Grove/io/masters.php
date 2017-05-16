@@ -74,15 +74,20 @@
 <!-- START Content -->
 <h3>Admissions: Master's in I/O Psychology </h3>
 <h4>Application Dates</h4>
- <p>The application deadline for Fall 2017 is <strong>April 1</strong>.</p>
+ <p>The application deadline for Fall 2018 is <strong>March 1</strong>.</p>
  <h4>Admissions Requirements:</h4>
- <p>Admissions decisions for I/O Psychology programs are based on a match of the applicant's interests, work experience, academic background, scholarship and personal goals. Minimum admission requirements are listed below.</p>
+ <p>Admissions decisions for I/O Psychology programs are based on a holistic review of the applicant's interests, work experience, academic background, and personal goals. Minimum admission requirements are listed below.</p>
  <ul>
-   <li>GRE scores are not required for admission</li>
-   <li>B.A. or B.S. in Psychology or a bachelor&rsquo;s degree in a related field with required prerequisite coursework, which included an introductory psychology course and a research methods or statistics course.</li>                
-   <li>Applicants should have a minimum undergraduate GPA of 3.0 on a 4.0 scale (Students with a GPA less than 3.0  may be admitted to the MPS program provisionally)</li>                                                          
-   <li>International applicants should refer to the <a href="international.php">International Admission Page</a> for special admission information. </li>                 
+   <li>A Grade Point Average of 3.0 or above with:</li>
+   	<ul>
+    	<li>A B.A. or B.S. in Psychology or related field from an accredited institution or foreign equivalent <strong>OR</strong>;</li>
+        <li>A B.A. of B.S. in another discipline from an accredited institution or foreign equivalent with coursework to include Introduction to (or General) Psychology and Research Methods or Statistics</li>
+    </ul>
+    <li>Practical work experience</li>
+    <li>A focused Goal Statement demonstrating a basic understanding of the field of I/O and career aspirations with some application of I/O or HR</li>
+   <li>GRE scores are not required for admission</li>                       
    </ul>
+   <p>*For those applicants who have not yet taken these prerequisite courses, a competitive application would include a plan to take these classes at an accredited institution (in-person or online) prior to starting the program be addressed in the Goal Statement.</p>
  <h4>Application Process:</h4>
  <p>Applications are only considered for the Fall semester. To apply, complete a Degree-Seeking UMBC Graduate School   Application and use program name: Industrial &amp; Organizational Psychology (MPS)</p>
 
@@ -99,13 +104,23 @@
    </ol>
  <p>Your application should include the following   documents:  <em>(Incomplete applications will not be reviewed.)</em></p>
  <ul>
-   <li>Completed application including residency form (residency form determines in-state tuition eligibility)</li>                
-   <li>Statement of academic goals</li>                
+   <li>Completed application including residency form</li>                               
    <li><a href="documents/experienceform.doc">Experience Form</a></li>
-   <li>Two Recommendation letters</li>                          
-   <li>Official transcript(s) from each college &amp; university attended</li>                
+   <li>Official transcript(s) from each college &amp; university attended</li>
    <li>Non-refundable application fee ($50 online) </li>
+   <li>Two Recommendation letters</li>
+   	<ul>
+    	<li>We recommend at least one from an academic professor or advisor. If that is not possible or practical, applicants may submit letters from other sources. Additional letters beyond two may also be submitted.</li>
+    </ul>                                 
+  <li>Goal Statement to include (as applicable):</li>
+   	<ul>
+    <li>Your personal and academic background including any coursework relevant to Psychology in general or I/O specifically</li>
+    <li>Why you are interested in a career in I/O Psychology or Human Resources including any career goals</li>
+    <li>How I/O Psychology ties into any of your work experience to date</li>
+    <li>Any research experience you have had</li>
+    </ul>
  </ul>
+ <p>To assist in applicants in identifying interests and career goals within the field of I/O Psychology prior to writing their goal statement, the department recommends visiting the website of the Society for Industrial and Organizational Psychology at <a href="http://www.siop.org/" target="_blank">www.siop.org</a> or Personnel Testing Council of Metropolitan Washington (<a href="http://www.ptcmw.org/" target="_blank">www.ptcmw.org</a>).</p>
  <h4>Mailing Instructions </h4>
  <p><strong>All application documents should be mailed to:</strong> <br>
 UMBC Graduate School, MPS: I/O Psychology <br>

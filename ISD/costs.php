@@ -74,7 +74,7 @@
       <h3>Program Costs</h3>
 
 
-      <h4>Tuition and Fees for the Spring 2017 Academic Term</h4>
+      <h4>Tuition and Fees for the Fall 2017 Academic Term</h4>
 
 
       <p>Here is a breakdown of typical costs for a student taking one (three-credit) <strong>in-person</strong> course:</p>
@@ -92,13 +92,13 @@
 
         <tr>
           <td><p>Tuition<br>
-            <span class="extra">MD resident: $603 per credit<br>
-          Non-resident: $997 per credit</span></p>
+            <span class="extra">MD resident: $621 per credit<br>
+          Non-resident: $1047 per credit</span></p>
           <p>Summer 2017 Tuition and  Fees <a href="http://sbs.umbc.edu/summer-2017-graduate/">Click Here</a>.</p></td>
 
-          <td>$1,809</td>
+          <td>$1,863</td>
 
-          <td>$2,991</td>
+          <td>$3,141</td>
         </tr>
 
 
@@ -112,11 +112,11 @@
 
 
         <tr>
-          <td>University Commons Fee <span class="extra">($27 per credit)</span></td>
+          <td>University Commons Fee <span class="extra">($28 per credit)</span></td>
 
-          <td>$81</td>
+          <td>$84</td>
 
-          <td>$81</td>
+          <td>$84</td>
         </tr>
 
 
@@ -148,20 +148,20 @@
 
 
         <tr>
-          <td>Technology Fee <span class="extra">($14 per credit)</span></td>
+          <td>Technology Fee <span class="extra">($15 per credit)</span></td>
 
-          <td>$42</td>
+          <td>$45</td>
 
-          <td>$42</td>
+          <td>$45</td>
         </tr>
 
 
         <tr>
           <td>TOTAL:</td>
 
-          <td>$2,199</td>
+          <td>$2,259</td>
 
-          <td>$3,381</td>
+          <td>$3,537</td>
         </tr>
 
 
@@ -175,7 +175,7 @@
         <tr>
           <th>Online</th>
 
-          <th>Maryland Resident</th>
+          <th>Maryland Resident**</th>
 
           <th>Non-Maryland Resident</th>
         </tr>
@@ -183,30 +183,30 @@
 
         <tr>
           <td>Tuition<br>
-          <span class="extra">MD resident: $603 per credit<br>
-          Non-resident: $997 per credit</span></td>
+          <span class="extra">MD resident: $621 per credit<br>
+          Non-resident: $1047 per credit</span></td>
 
-          <td>$1,809</td>
+          <td>$1,863</td>
 
-          <td>$2,991</td>
+          <td>$3,141</td>
         </tr>
 
 
         <tr>
-          <td>Technology Fee <span class="extra">($14 per credit)</span></td>
+          <td>Technology Fee <span class="extra">($15 per credit)</span></td>
 
-          <td>$42</td>
+          <td>$45</td>
 
-          <td>$42</td>
+          <td>$45</td>
         </tr>
 
 
         <tr>
           <td>TOTAL:</td>
 
-          <td>$1,851</td>
+          <td>$1,908</td>
 
-          <td>$3,033</td>
+          <td>$3,186</td>
         </tr>
 
 

@@ -72,9 +72,9 @@
 <!-- START Content -->
 <h3>Admissions: Instructional Systems Development &nbsp;Certificate</h3>
 <h4>Application Dates</h4>
- <p>The application deadline for fall is <strong>July 1</strong>.  </p>
- <p>The application deadline for spring is<strong> December 1</strong>.</p>
- <p>The application deadline for summer is <strong>April 1.</strong></p>
+ <p>The application deadline for fall is <strong>August 1st</strong>.  </p>
+ <p>The application deadline for spring is<strong> December 1st</strong>.</p>
+ <p>The application deadline for summer is <strong>April 1st.</strong></p>
    <p>Non-Degree application deadlines are one week prior to the start of the semester.</p>
  <h4>Admissions Requirements:</h4>
   <UL>
@@ -100,21 +100,17 @@
    <li>Complete a paper application</li>
    <ul>                      
     <li><a href="http://gradschool.umbc.edu/files/2015/10/certificate_application_form.pdf" target="_blank">Certificate application</a> (PDF) </li></ul></ul>
- <p>Your Instructional Systems Design certificate application should include the following   documents:<em> (Incomplete applications will not be reviewed.)</em></p>
+ <p>Your certificate application should include the following   documents:<em> (Incomplete applications will not be reviewed.)</em></p>
  <ul>
    
    <li><a href="http://gradschool.umbc.edu/files/2015/10/certificate_application_form.pdf#page=1 ">Completed application for admission and residency forms</a> (or online application and residency forms)</li>
    <li>Unofficial or official transcripts from undergraduate and graduate (if applicable) institutions (copies issued to student OK)</li>
    <LI>Non-refundable application fee ($50 online, $70 paper) </LI>
- </ul>
+   </ul>
+ <p>Students who miss the application deadline may still take courses as a non-degree student and apply for formal admission the following semester.</p>
  <h4>Mailing Instructions </h4>
- <p><strong>All Instructional System Design certification documents can be mailed to:</strong> <br>
-   Renee Eisenhuth, Program Coordinator<br>
-   ISD - Training Systems Graduate Program<br>
-   1450 S. Rolling Road<br>
-   Halethorpe, MD 21227</p>
- <p><strong>Or to:</strong> <br>
-University of Maryland, Baltimore County<br>
+ <p><strong>All application documents can be mailed to:</strong> <br>
+ University of Maryland, Baltimore County<br>
 Graduate School, ISD  Graduate Program<br>
 1000 Hilltop Circle<br>
 Baltimore, MD 21250</p>
