@@ -122,15 +122,18 @@
 
 <li id="slide3">
 
-<a href="http://gritinaction.umbc.edu/blogs/" target="_blank"><img src="images/blog.jpg" alt="Our 5 Favorite Career Blogs"/></a>
+<a href="http://regional.umbc.edu" target="_blank">
+<img src="http://umbc.edu/cyber/images/grad.png" alt="UMBC Regional Tuition Rate"/>
+</a>
 
-<div class="carousel-caption wordwrap">
-<h3>Our 5 Favorite Career Blogs</h3>
-<small>We put together a list of some of our favorite blogs.</small>
+<div class="carousel-caption-right wordwrap">
+<h3>New Regional Graduate Tuition Rate</h3>
+<small>Starting Fall 2017, those in DC, Virginia, Delaware & Pennsylvania may qualify to pay a lower tuition rate.</small>
 
-<p><a href="http://gritinaction.umbc.edu/blogs/" role="button" class="web-seemore" target="_blank">Check out the list!</a></p></div>
+<p><a href="http://regional.umbc.edu" role="button" class="web-seemore" target="_blank">Learn More</a></p></div>
 
-<p id="captionthree"><a href="http://gritinaction.umbc.edu/blogs/" target="_blank">Our 5 Favorite Career Blogs</a></p>
+
+<p id="captionthree"><a href="http://regional.umbc.edu" target="_blank">Announcing New Regional Tuition Rate</a></p>
 
 </li>
 

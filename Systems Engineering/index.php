@@ -109,9 +109,31 @@
 <!-- END SLIDE ONE -->
 
 
-<!-- SLIDE Two --> 
+<!-- SLIDE TWO --> 
 
 <li id="slide2">
+
+<a href="http://regional.umbc.edu" target="_blank">
+<img src="http://umbc.edu/cyber/images/grad.png" alt="UMBC Regional Tuition Rate"/>
+</a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>New Regional Graduate Tuition Rate</h3>
+<small>Starting Fall 2017, those in DC, Virginia, Delaware & Pennsylvania may qualify to pay a lower tuition rate.</small>
+
+<p><a href="http://regional.umbc.edu" role="button" class="web-seemore" target="_blank">Learn More</a></p></div>
+
+
+<p id="captionthree"><a href="http://regional.umbc.edu" target="_blank">Announcing New Regional Tuition Rate</a></p>
+
+</li>
+
+<!-- END SLIDE TWO -->
+
+
+<!-- SLIDE THREE --> 
+
+<li id="slide3">
 
 <a href="faculty.php#ray"><img src="images/ray.jpg" alt="Meet Our Faculty: Dr. Jeffrey Ray"/></a>
 
@@ -125,12 +147,12 @@
 
 </li>
 
-<!-- END SLIDE Two --> 
+<!-- END SLIDE THREE --> 
 
       
-<!-- Slide THREE -->    
+<!-- Slide FOUR -->    
 
-<li id="slide3">
+<li id="slide4">
 
 <a href="https://www.youtube.com/watch?v=NG68F7Ej1T4"><img src="images/SE-carousel1.jpg" alt="UMBC Professional Graduate Programs in Engineering"/></a>
 <div class="carousel-caption-right wordwrap">
@@ -143,7 +165,10 @@
 
 </li>
 
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE FOUR --> 
+
+
+
 
 
 </ul>

@@ -93,7 +93,28 @@
 
 
 <!-- SLIDE TWO --> 
+
 <li id="slide2">
+
+<a href="http://regional.umbc.edu" target="_blank">
+<img src="http://umbc.edu/cyber/images/grad.png" alt="UMBC Regional Tuition Rate"/>
+</a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>New Regional Graduate Tuition Rate</h3>
+<small>Starting Fall 2017, those in DC, Virginia, Delaware & Pennsylvania may qualify to pay a lower tuition rate.</small>
+
+<p><a href="http://regional.umbc.edu" role="button" class="web-seemore" target="_blank">Learn More</a></p></div>
+
+
+<p id="captionthree"><a href="http://regional.umbc.edu" target="_blank">Announcing New Regional Tuition Rate</a></p>
+
+</li>
+<!-- END SLIDE TWO -->
+
+
+<!-- SLIDE THREE --> 
+<li id="slide3">
       
 <a href="http://woolpert.com/resource/woolpert-geospatial-scientist-named-asprs-fellow-earns-outstanding-service-award/" target="_blank"><img alt="img02" src="images/abdullah.png"></a>
 
@@ -106,9 +127,9 @@
 <p id="captiontwo"><a href="http://woolpert.com/resource/woolpert-geospatial-scientist-named-asprs-fellow-earns-outstanding-service-award/" target="_blank">Distinguished Faculty: Dr. Qassim Abdullah</a></p>
 
 </li>
-<!-- END SLIDE TWO -->  
+<!-- END SLIDE THREE -->  
 
-<!-- Slide THREE -->    
+<!-- Slide THREE --  
 
 <li id="slide3">
 

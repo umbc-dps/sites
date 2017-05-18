@@ -87,20 +87,19 @@
           
 <!-- Slide Two -->
 <li id="slide2">
-	<a href="http://gritgoing.umbc.edu/?p=1413" target="_blank">
-    	<img src="images/featured/anth311.jpg" alt="Featured Course: Urban Anthropology">
+	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">
+    	<img src="images/featured/HIST411.png" alt="Featured Course: Public History Methods">
 	</a>
-	<div class="carousel-caption-right wordwrap">
-		<h3>Featured Course: Urban Anthropology<br> (ANTH 311)</h3>
-		<small>Explore various aspects of Baltimore's urban life including social justice, community health, public art, and housing opportunities.<br> (Social Sciences GEP)</small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1413" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	<div class="carousel-caption wordwrap">
+		<h3>Featured Course: Public History Methods<br> (HIST 411)</h3>
+		<small>Create compelling stories about historic sites in Baltimore, then see your work featured on the Explore Baltimore Heritage website.</small>
+		<p><a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1413" target="_blank">Featured Course: Urban Anthropology</a>
+    	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">Featured Course: Public History Methods</a>
 	</p>
 </li>
 <!-- END Slide Two -->
-
 <!-- Slide Three -->
 <li id="slide3">
 	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">
@@ -118,22 +117,38 @@
 <!-- END Slide Three -->
 
 <!-- Slide Four -->
-<li id="slide4">
-	<a href="http://gritgoing.umbc.edu/?p=1420" target="_blank">
-    	<img src="images/featured/crossland.jpg" alt="Featured Course: Public Communication">
+<li id="slide2">
+	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/" target="_blank">
+    	<img src="images/featured/ART216.png" alt="Featured Course: Public Communication">
 	</a>
-	<div class="carousel-caption-right wordwrap">
-		<h3>Featured Faculty: Dr. James Crossland</h3>
-		<small>From the Basics (MUSC 100) to the Beatles (MUSC 336) expand your musical horizons and earn AH GEP with Dr. Crossland this summer.</small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1420" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	<div class="carousel-caption wordwrap">
+		<h3>Featured Course: Studies in Visual Culture (ART 216)</h3>
+		<small>This summer, visit Baltimore’s renowned museums and go on your own historic journey.</small>
+		<p><a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/#" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1420" target="_blank">Featured Faculty: Dr. James Crossland</a>
+    	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/#" target="_blank">Featured Course: Studies in Visual Culture</a>
 	</p>
 </li>
-<!-- END Slide Four -->          
-</ul>
+<!-- END Slide Four -->
 
+<!-- Slide Five --
+<li id="slide5">
+	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">
+    	<img src="images/featured/jdst390.jpg" alt="Featured Course: Coen Brothers: Genre &amp; Irony">
+	</a>
+	<div class="carousel-caption wordwrap">
+		<h3>Featured Course: Coen Brothers: Genre &amp; Irony <br>(JDST 390)</h3>
+		<small>The Dude abides! Analyze the iconic Coen Brothers’ films, and their take on irony and post-ironic culture.</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1316" target="_blank" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	</div>
+	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">Featured Course: Coen Brothers: Genre &amp; Irony</a>
+	</p>
+</li>
+<-- END Slide Five -->
+      
+</ul>
 <div id="dotcontainer"></div>
 </div>
       
@@ -152,11 +167,9 @@
 <div style="display:inline; float:left;"> 
 	<dl class="eleven columns alpha">
 		<br>
-        <h2><strong>Summer 2017 registration is now open.</strong></h2>
-        <h3>Session I begins on May 30. Register now for best course selection.</h3>
-        <p>Visiting students - you must apply for summer admission before you can register. The last day for visiting students to apply for admission to Session I is May 24. The last day to apply for admission to Session II is July 5. <a href="http://www.umbc.edu/summer/visitingstudents" target="_blank">Apply Now</a> </p>
+        <h2><strong>Registration Begins March 6</strong></h2>
         <em><h4>Graduate on time (or early)!</h4></em>
-        <br>
+        <p>Visiting students from other colleges and universities must first <a href="visitingstudents">apply to UMBC</a> and be admitted before you can register.</p>
 
 
         <h5><strong>Summer Session Dates</strong></h5>

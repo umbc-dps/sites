@@ -291,6 +291,9 @@ html::after {
       <h3>Faculty Events</h3>
     <p>Learn improved teaching techniques, embrace new classroom management systems and more through our many collaborative faculty events!  Mark your calendars and register today for the following events:</p>
     
+    <p style="font-weight:bold">Check back for new events.</p>
+    
+    <!--
 <h5>Faculty Meet &amp; Greet</h5>
     <p><strong>Thursday, January 12, 2017 • 6 p.m. – 7:30 p.m.<br>
 Camille Kendall Academic Center, III-3156</strong><br>
@@ -317,6 +320,7 @@ Camille Kendall Academic Center, III-4124</strong><br>
     <p><strong>Apr 27, 2017</strong><br>
 <a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">RSVP Coming Soon!</a><br>
 </p>
+-->
       </div> 
     </div>
     </div>

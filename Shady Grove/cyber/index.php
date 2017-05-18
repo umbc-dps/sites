@@ -96,8 +96,30 @@
 <!-- END SLIDE ONE -->
    
 
-<!-- SLIDE TWO -->
+
+
+
+<!-- SLIDE TWO --> 
+
 <li id="slide2">
+
+<a href="http://regional.umbc.edu" target="_blank">
+<img src="http://umbc.edu/cyber/images/grad.png" alt="UMBC Regional Tuition Rate"/>
+</a>
+
+<div class="carousel-caption-right wordwrap">
+<h3>New Regional Graduate Tuition Rate</h3>
+<small>Starting Fall 2017, those in DC, Virginia, Delaware & Pennsylvania may qualify to pay a lower tuition rate.</small>
+
+<p><a href="http://regional.umbc.edu" role="button" class="web-seemore" target="_blank">Learn More</a></p></div>
+
+
+<p id="captionthree"><a href="http://regional.umbc.edu" target="_blank">Announcing New Regional Tuition Rate</a></p>
+
+</li>
+
+<!-- SLIDE THREE -->
+<li id="slide3">
       
 <a href="programcert#new"><img alt="img02" src="images/umbc_cyber5.png"></a>
 
@@ -110,24 +132,9 @@
 <p id="captiontwo"><a href="programcert#new">New Cybersecurity Operations Certificate</a></p>
 
 </li>
+<!-- END SLIDE THREE -->
+
 <!-- END SLIDE TWO -->
-
-
-<!-- SLIDE TWO --
-<li id="slide2">
-
-<a href="infosession" target="_blank"><img alt="img04" src="images/umbc_cyber3.png"></a>
-
-<div class="carousel-caption wordwrap">
-<h3>In-Person Info Session</h3>
-<small>Find out more about our Cybersecurity program on March 30.</small>
-
-<p><a href="infosession" class="web-seemore">RSVP Now</a></p></div>
-
-<p id="captionthree"><a href="infosession">3/30 Info Session</a></p>
- 
-</li>
--- END SLIDE TWO --> 
 
 <!-- SLIDE Two --
 

@@ -361,11 +361,14 @@
 	<a href="faculty">All Faculty Events</a>
 </p>
 
+<!--
 <p>
 <a href="http://my.umbc.edu/groups/sgfaculty/events/46940" target="_blank"> Faculty Appreciation Day - March 1, 2017</a><br>
 <a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Tech Talk – Feb 21, 2017</a><br>
 <a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Student Preparation – Mar 29, 2017</a><br>
 <a href="http://my.umbc.edu/groups/sgfaculty/posts/65157" target="_blank">Chew Chat Connect Series: Student Accountability – Apr 27, 2017</a><br>
+</p>
+-->
 </div>
 
 <div class="column3">
@@ -407,6 +410,7 @@
 <li><a href="visit/infosession" target="_blank">Thursday, May 18, 3:00 p.m.</a></li>
 </ul>
 
+<!--
 <p class="date">Visit with Undergraduate Program Directors</p>
 <ul>
 <li><a href="visit/pd-politicalscience" target="_blank">Political Science - Wednesday, April 5, 12:00 p.m.</a></li>
@@ -415,7 +419,7 @@
 <li><a href="visit/pd-history" target="_blank">History - Wednesday, April 12, 12:00pm</a></li>
 </ul>
 
-<!--
+
 <p class="date">Graduate Information Sessions</p>
 <ul>
 <li><a href="cyber/infosession" target="_blank">Cybersecurity Program Director Visit: October 25, 6 p.m.</a></li>

@@ -71,37 +71,35 @@
 
 <ul>
 <!-- Slide One -->
-<li id="slide1">  
-	<a href="http://gritgoing.umbc.edu/featured-faculty-dr-s-peter-resta/" target="_blank">
-    	<img src="images/featured/resta.jpg" alt="Featured Faculty: Dr. S. Peter Resta">
-	</a>
-	<div class="carousel-caption-right wordwrap">
-		<h3>Featured Faculty: Dr. S. Peter Resta</h3>
-		<small>Find out how Dr. Resta uses his passion for social phenomena to develop critical thinking skills in his students.</small>
-		<p><a href="http://gritgoing.umbc.edu/featured-faculty-dr-s-peter-resta/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+<li id="slide1">
+	<a href="http://gritgoing.umbc.edu/?p=1437" target="_blank"><img src="images/featured/lbb.png" alt="Discover Baltimore">
+    </a>
+  <div class="carousel-caption wordwrap" style="width:250px">
+    <h3>Discover Baltimore!</h3>
+		<small>Just minutes from the main campus, experience Baltimore's unique history, art, and culture up close and personal at the historic Lion Brothers Building (UMBC's new city classroom).</small>
+		<p><a href="http://gritgoing.umbc.edu/?p=1437" role="button" class="web-seemore" target="_blank">Read more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1343" target="_blank">Featured Faculty: Dr. S. Peter Resta</a>
+    	<a href="http://gritgoing.umbc.edu/?p=1437" target="_blank">Discover Baltimore</a>
 	</p>
-</li> 
+</li>
+<!-- END Slide One -->
           
 <!-- Slide Two -->
 <li id="slide2">
-	<a href="http://gritgoing.umbc.edu/featured-course-public-communication/" target="_blank">
-    	<img src="images/featured/spch100.jpg" alt="Featured Course: Public Communication">
+	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">
+    	<img src="images/featured/HIST411.png" alt="Featured Course: Public History Methods">
 	</a>
-	<div class="carousel-caption-right wordwrap" style="width:300px">
-		<h3>Featured Course:
-         Public Communication <br>(SPCH 100)</h3>
-		<small>Learn the process of speech-giving in this six-week course.</small>
-		<p><a href="http://gritgoing.umbc.edu/featured-course-public-communication/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+	<div class="carousel-caption wordwrap">
+		<h3>Featured Course: Public History Methods<br> (HIST 411)</h3>
+		<small>Create compelling stories about historic sites in Baltimore, then see your work featured on the Explore Baltimore Heritage website.</small>
+		<p><a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/featured-course-public-communication/" target="_blank">Featured Course: Public Communication</a>
+    	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">Featured Course: Public History Methods</a>
 	</p>
 </li>
 <!-- END Slide Two -->
-
 <!-- Slide Three -->
 <li id="slide3">
 	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">
@@ -119,17 +117,17 @@
 <!-- END Slide Three -->
 
 <!-- Slide Four -->
-<li id="slide4">
-	<a href="http://gritgoing.umbc.edu/?p=1272" target="_blank">
-    	<img src="images/featured/musc336.jpg" alt="Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact">
+<li id="slide2">
+	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/" target="_blank">
+    	<img src="images/featured/ART216.png" alt="Featured Course: Public Communication">
 	</a>
 	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact <br>(MUSC 336)</h3>
-		<small>Explore how the Beatles influenced music, culture, and politics over the span of their career. </small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1352" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+		<h3>Featured Course: Studies in Visual Culture (ART 216)</h3>
+		<small>This summer, visit Baltimore’s renowned museums and go on your own historic journey.</small>
+		<p><a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/#" role="button" class="web-seemore" target="_blank">Learn more</a></p>
 	</div>
 	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1352" target="_blank">Featured Course: The Beatles: Career, Music, Culture, Innovation, Impact</a>
+    	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/#" target="_blank">Featured Course: Studies in Visual Culture</a>
 	</p>
 </li>
 <!-- END Slide Four -->

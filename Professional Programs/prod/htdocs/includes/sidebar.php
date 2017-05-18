@@ -13,6 +13,11 @@ Wednesday, June 21, 6:00-7:30PM<br>
 <strong>UMBC Shady Grove Cybersecurity Info Session</strong><br>
 Thursday, June 15, 6:00-7:30PM<br>
 <a href="http://www.umbc.edu/shadygrove/cyber/infosession">RSVP Now</a>
+
+<hr style="margin-bottom:10px">
+<strong>UMBC Shady Grove GIS  Info Session</strong><br>
+Thursday, June 15, 6:00-7:30PM<br>
+<a href="http://www.umbc.edu/shadygrove/gis/infosession">RSVP Now</a>
 </p>
 </center>
 
@@ -34,13 +39,19 @@ Thursday, June 15, 6:00-7:30PM<br>
 <li>
 <a href="https://www.youtube.com/watch?v=DcLtcXd_86k" class="video">Chinese Cyber Power Webinar</a>
 </li>
-
-<li>
-<a href="https://www.youtube.com/watch?v=ecx3c_h-IgU"  class="video">Cybersecurity Virtual Info Session</a>
-</li>
   
   
 <li><a href="https://www.youtube.com/watch?v=1a8KUqejD3U"  class="video">Getting a Job in Biotechnology Webinar</a>
+</li>
+
+
+<li><a href="https://www.youtube.com/watch?v=MeKNbJCejoM" class="video">DIY Remote Sensing Webinar</a><br />
+</li>
+
+<!--
+
+<li>
+<a href="https://www.youtube.com/watch?v=ecx3c_h-IgU"  class="video">Cybersecurity Virtual Info Session</a>
 </li>
 
 <li><a href="https://www.youtube.com/watch?v=ZMQH20Gj9ZU" class="video">Biotechnology Virtual Info Session</a><br />
@@ -49,14 +60,12 @@ Thursday, June 15, 6:00-7:30PM<br>
 <li><a href="https://www.youtube.com/watch?v=Iya3IKmLKio" class="video">Health IT Virtual Info Session</a><br />
 </li>
 
-<li><a href="https://www.youtube.com/watch?v=MeKNbJCejoM" class="video">DIY Remote Sensing Webinar</a><br />
-</li>
-
 <li><a href="https://www.youtube.com/watch?v=UBgR7ZKXDTg" class="video">GIS Virtual Info Session</a><br />
 </li>
 
 <li><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="video">I/O Virtual Info Session</a><br />
 </li>
+-->
 </ul>
 
 </p> 

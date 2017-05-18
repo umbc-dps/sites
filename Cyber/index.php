@@ -87,19 +87,22 @@
 <!-- END SLIDE ONE -->
 
 
-<!-- SLIDE TWO --
+<!-- SLIDE TWO -->
 
 <li id="slide2">
 
-<a href="http://umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_april17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" target="_blank"><img src="images/cybertalks2.jpg" alt="Cyber Talk"/></a>
+<a href="http://regional.umbc.edu" target="_blank">
+<img src="images/grad.png" alt="UMBC Regional Tuition Rate"/>
+</a>
 
-<div class="carousel-caption wordwrap">
-<h3>Cyber Talk</h3>
-<small>Join UMBC's Cybersecurity Program at Shady Grove for an engaging and informative discussion on digital forensic techniques with Detective Sergeant John Conroy. You don't want to miss this!</small>
+<div class="carousel-caption-right wordwrap">
+<h3>New Regional Graduate Tuition Rate</h3>
+<small>Starting Fall 2017, those in DC, Virginia, Delaware & Pennsylvania may qualify to pay a lower tuition rate.</small>
 
-<p><a href="http://umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_april17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" role="button" class="web-seemore" target="_blank">RSVP Here</a></p></div>
+<p><a href="http://regional.umbc.edu" role="button" class="web-seemore" target="_blank">Learn More</a></p></div>
 
-<p id="captionthree"><a href="http://umbc.edu/shadygrove/cyber/talks?utm_campaign=cybertalks_april17&utm_source=umbc.edu&utm_medium=referral&utm_content=cyber_carousel" target="_blank">Cyber Talk</a></p>
+
+<p id="captionthree"><a href="http://regional.umbc.edu" target="_blank">Announcing New Regional Tuition Rate</a></p>
 
 </li>
 
