@@ -225,19 +225,28 @@
 </div>
 !------------------------->
 
-<!------- Accordion 11 ------
+<!------- Accordion 11 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
-    12/31 - Title
+    6/13/2017 - Summer Graduation and Google Group
     
     <i class="fa fa-angle-down"></i>
     </h4>
 </div>
 <div class="accordionbody">
-    <p>Test test test test test.</p>
+    <p><strong>Summer 2017  Graduation/Diploma applications are due June 15, 2017.</strong>&nbsp;If you are finishing your plan of study in August, you must  complete the online application for Graduation by the 15th. Additional information and links may be found  here,&nbsp;<a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>.<br>
+      <strong>Summer Academic  Dates</strong>:&nbsp;<a href="http://umbc.edu/summer/importantdates">http://umbc.edu/summer/importantdates</a> <br>
+      <strong>Fall 2017  Registration</strong>: Fall 2017 registration instructions  were sent March 23, 2017. Find a copy here,&nbsp;<a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a>.<br>
+      <strong>Tuition,  Billing, Payment Plan, and Drop/Withdrawal fee information</strong>&nbsp;is available on the Student Business Service&rsquo;s website:&nbsp;<a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a> <br>
+      <strong>Enrollment  Application Deadline</strong>: If you are a non-degree who  wants to apply for a certificate or Masters, or if you are a certificate  student that wants to apply for the Master&rsquo;s degree the fall 2017 application  deadline is August 1st. (<a href="http://www.umbc.edu/isd/masters">http://www.umbc.edu/isd/masters</a>).<br>
+      <strong>New Google Group</strong>: While the old ISD Current Student listserve will be  discontinued on June 20th, everyone was  moved to a new ISD Current Student google group. We will be using this new  group the same way we use the current list, for email distribution. Only the  list owners (Dr. Williams and myself) can view subscribed users' email  addresses and post.<br>
+      You may view  emails sent to the group here,&nbsp;<a href="https://groups.google.com/a/umbc.edu/d/forum/isdcurrentstudents-group">https://groups.google.com/a/umbc.edu/d/forum/isdcurrentstudents-group</a>&nbsp;and change your settings.<br>
+      This will be our  primary means of communication with current students. I will remove students  after they have graduated (or discontinued their plan of study). If you  accidentally remove yourself from the group you will have to contact us to  place you back on. (We will not get notifications when individuals remove  themselves). As a current student, you are responsible for any information that  is sent to the group.<br>
+      Please contact  me with any questions.<br>
+      (This email will  be resent tomorrow to the old ISD current student list serve to ensure everyone  was transferred properly)</p>
 </div>
-!------------------------->
+
 
 
 

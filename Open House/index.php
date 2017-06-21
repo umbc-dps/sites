@@ -4,7 +4,7 @@
 
 <title>Open House | Office of Professional Programs at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Join us for our upcoming Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is right for you." />
+<meta name="description" content="Join us for our upcoming Program Exploration Sessions where you can meet faculty and staff, sample our curriculum, and find out why UMBC is right for you." />
 
 <meta name="google-site-verification" content="iNv2dm65X5VqSZjqdgzOM8zkHZU8bwycQ0ihWPQU3QA" />
 
@@ -17,7 +17,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://umbc.edu/openhouse/" />
 <meta property="og:image" content="http://umbc.edu/openhouse/images/OpenHouseFB.png" />
-<meta property="og:description" content="Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is a fit for you." />
+<meta property="og:description" content="Join us for our Program Exploration Sessions, where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is a fit for you." />
 
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
@@ -135,27 +135,36 @@ aside p, aside dl {
 <!-- START Content -->
 <h3><a href="index"><img src="images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
 
-<h4 style="font-weight:bold">Why UMBC?</h4>
-<h6>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</h6>
-<br>
+<h4 style="font-weight:bold" align=center>Professional Programs Open House</h4>
 
-<h6>Learn about UMBC Graduate Programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology and Systems Engineering.</h6>
-<br>
+<h5 style="font-weight:bold">When:</h5>
+<p>Wednesday, June 21, 6:00PM - 7:30PM</p>
 
 
-<h4 style="font-weight:bold">Date:</h4>
-<h5>Tuesday, April 26, 5:30-8:00PM</h5>
-<br>
-
-<h4 style="font-weight:bold">Location:</h4>
-<h5>UMBC South Campus (bwtech@UMBC South)<br>
-<a href="https://www.google.com/maps?ll=39.233375,-76.712571&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=12299930801171240985">1450 South Rolling Road in Halethorpe, MD 21227</a></h5>
-<br>
+<h5 style="font-weight:bold">Where:</h5>
+		  <hp>UMBC South Campus (bwtech@UMBC South)<br>
+<a href="https://www.google.com/maps?ll=39.233375,-76.712571&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=12299930801171240985">1450 South Rolling Road in Halethorpe, MD 21227</a></h6></p>
 
 
-<h4 style="font-weight:bold">Questions?</h4>
-<h5>If you have questions, please contact: 
-<a href="mailto:dps@umbc.edu">dps@umbc.edu</a></h5><br>
+<h5 style="font-weight:bold">Why UMBC:</h5>
+
+<p>Whether you’re considering a career change or you need a respected professional credential to transition into a management role, UMBC's Professional Graduate Programs will help you achieve the career of your dreams.</p>
+
+
+<p>Join us for our upcoming Open House to explore how our professional programs can help you meet your goals, build your professional network, and equip you with the technical, leadership, and management skills that employers are looking for. You’ll have the opportunity meet with faculty and staff, gain information on financial aid and career opportunities, and find out why UMBC is the perfect place to expand your education. Register today!</p>
+
+
+<p>We offer a wide variety of part-time and full-time professional programs in an array of relevant fields, including graduate programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology, Systems Engineering, and Technical Management. Our programs are designed to meet the needs of working professionals and our flexible course offerings allow you to complete your degree on your own time.</p>
+
+
+<p>To learn more about the benefits of a professional degree from UMBC, be sure to join us for our upcoming Open House.</p>
+
+
+
+<h5 style="font-weight:bold">Questions?</h5>
+<p>If you have questions, please contact: 
+<a href="mailto: professionalprograms@umbc.edu">professionalprograms@umbc.edu</a></p>
+
 
 
 

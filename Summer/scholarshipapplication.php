@@ -5,18 +5,18 @@
 <title>Scholarship Application| Summer Session at UMBC</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="Apply for a full or partial summer scholarship." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
+<meta property="og:title" content="Scholarship Application| Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/scholarshipapplication" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
+<meta property="og:description" content="Apply for a full or partial summer scholarship." />
 
 
 <!-- CSS -->

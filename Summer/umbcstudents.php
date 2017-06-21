@@ -5,18 +5,18 @@
 <title>UMBC Students | Summer Session at UMBC</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="Are you on track to graduate in four years? Summer session is a great way for UMBC students to catch up or get ahead." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
+<meta property="og:title" content="Current UMBC Students | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/umbcstudents" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/6.jpg" />
+<meta property="og:description" content="Are you on track to graduate in four years? Summer session is a great way for UMBC students to catch up or get ahead." />
 
 
 <!-- CSS -->

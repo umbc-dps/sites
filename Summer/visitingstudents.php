@@ -2,21 +2,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Course Prerequisites | Summer Session at UMBC</title>
+<title>Visiting Students | Summer Session at UMBC</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Students must have successfully satisfied the UMBC prerequisite requirements -- or be currently enrolled in the prerequisite course(s) -- before registering in courses with prerequisite requirements." />
+<meta name="description" content="UMBC welcomes students from other colleges and universities who want to earn transferable credits during summer session." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="Course Prerequisites | Summer Session at UMBC" />
+<meta property="og:title" content="Visiting Students | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/courseprerequisites" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Students must have successfully satisfied the UMBC prerequisite requirements -- or be currently enrolled in the prerequisite course(s) -- before registering in courses with prerequisite requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/visitingstudents" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/visiting-310.jpg" />
+<meta property="og:description" content="UMBC welcomes students from other colleges and universities who want to earn transferable credits during summer session." />
 
 
 <!-- CSS -->
@@ -83,9 +83,9 @@
 </div>
 
 <div class="accordionbody">
-<p>You must apply to UMBC as a <strong>visiting student</strong> and be admitted before you can register. Your admission is for a single summer term. If you plan to take classes at UMBC for multiple consecutive terms, or if you intend to enroll in the fall or spring semesters, please apply as a <strong><a href="http://undergraduate.umbc.edu/apply/nondegree.php" target="_blank">non-degree-seeking</a> student</strong>.</p>
+<p>You must be in good academic standing at your home institution        and any prior colleges or universities to be eligible for summer        admission to UMBC. Your admission is for a single summer term. If you plan to take classes at UMBC for multiple consecutive terms, or if you intend to enroll in the fall or spring semesters, please apply as a <strong><a href="http://undergraduate.umbc.edu/apply/nondegree.php" target="_blank">non-degree-seeking</a> student</strong>.</p>
 
-<p>You must be in good academic standing at your home institution for summer admission to UMBC.  While a transcript is not required for admission, many courses have <a href="http://umbc.edu/summer/all-courses#prereq" target="_blank">prerequisite</a> requirements. If you intend to enroll in a course with prerequisites, you’ll need to provide a transcript from your home institution confirming that you meet the prerequisite requirements before you will be given <a href="coursesprerequisites.php" target="_blank">permission</a> to enroll.<strong>We recommend that you submit an unofficial copy of your transcript when you apply</strong>.</p>
+<p>While a transcript is not required for admission, many courses have <a href="http://umbc.edu/summer/all-courses#prereq" target="_blank">prerequisite</a> requirements. If you intend to enroll in a course with prerequisites, you’ll need to provide a transcript from your home institution confirming that you meet the prerequisite requirements before you will be given <a href="coursesprerequisites.php" target="_blank">permission</a> to enroll.<strong>We recommend that you submit an unofficial copy of your transcript when you apply</strong>.</p>
 
 <p>If you attend another University of Maryland System (USM) school, you must still apply as a visiting student, as USM inter-institutional enrollment is not available in summer or winter sessions.</p>
 </div>

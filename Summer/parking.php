@@ -5,18 +5,18 @@
 <title>Parking | Summer Session at UMBC</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="Summer session parking permits are available after May 1." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
+<meta property="og:title" content="Parking Permits | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/parking" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/commmuter.jpg" />
+<meta property="og:description" content="Summer session parking permits are available after May 1." />
 
 
 <!-- CSS -->

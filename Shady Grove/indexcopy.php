@@ -139,27 +139,14 @@
 
 
 <div class="panel panel-3">
-<a href="http://umbc.edu/shadygrove/bigevent" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/tbelogo.jpg" alt="Three"></div>
+<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
+<div class="image mobile-left"><img src="images_homepage/3.jpg" alt="Three"></div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://umbc.edu/shadygrove/bigevent" target="_blank">&raquo;</a>
-<div class="title">Mark Your Calendars: The Big Event</div>
-<div class="tagline">Be part of UMBC's Big Event - A Day of Service benefitting local organizations working with abuse victims, children and the elderly. Make a difference in our Shady Grove community right here on campus! 
+<a class="mobile-seemore" href="hhttp://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">&raquo;</a>
+<div class="title">Application Deadline Extended</div>
+<div class="tagline">Haven't yet applied for admission to UMBC-Shady Grove this fall? There's still time! UMBC Admissions will continue to accept and evaluate applications through the summer.
 </div>
-<a class="web-seemore" href="http://umbc.edu/shadygrove/bigevent" target="_blank">RSVP &raquo;</a>
-</div>
-</a>
-</div>
-
-
-<div class="panel panel-4">
-<a href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">
-<div class="image mobile-left"><img src="images_homepage/10.jpg" alt="4"></div>
-<div class="content-details left">
-<a class="mobile-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">&raquo;</a>
-<div class="title">Advanced Registration Begins this Week!</div>
-<div class="tagline">The Fall 2017 advanced registration period is here! Check the link for your earliest registration date. Remember, the secret to having a perfect schedule is early planning!</div>
-<a class="web-seemore" href="http://registrar.umbc.edu/academic-calendar/registration-appointments/" target="_blank">When can you register? &raquo;</a>
+<a class="web-seemore" href=" http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Apply Today &raquo;</a>
 </div>
 </a>
 </div>

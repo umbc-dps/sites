@@ -62,7 +62,7 @@ Graduate Certificate: Systems Engineering
 
 
         <dd>30 - Master’s<br />
-        15 - Certificate</dd>
+        12 - Certificate</dd>
 
 
         <dt>Tuition &amp; Fees (MD Resident)</dt>

@@ -4,7 +4,7 @@
 
 <title>Info Session | Geographic Information Systems | UMBC at Shady Grove</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="The Master’s in Professional Studies in Cybersecurity prepares experienced professionals to fill management and leadership roles." />
+<meta name="description" content="Learn more about UMBC's Master’s in Professional Studies in Geographic Information Systems at our upcoming Open House."/>
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
@@ -124,7 +124,7 @@ form#tfa_0 input.primaryAction{
   
 <!-- START Content --> 
 
-<?php include("../includes/grad-infosession.php"); ?> 
+<?php include("../includes/grad-infosessionGIS.php"); ?> 
 
 
 

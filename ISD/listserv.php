@@ -79,23 +79,13 @@
 <p>Employers that want to post jobs on our website and listserv should contact Greg Williams at <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a>.</p>  
 
 <h5>How do I subscribe?</h5>
-<p>From the e-mail account you want to use for <strong>ISDTS-L</strong>, send a message to <a href="mailto:sympa@lists.umbc.edu">sympa@lists.umbc.edu</a> with the following text: <strong>SUBSCRIBE ISDTS-L EMAIL</strong><p>
-
-  <strong>Example:</strong> SUBSCRIBE ISDTS-L jdoe@umbc.edu</p>
-
-<p><strong>NOTE:</strong> Nothing else should be in the body of your e-mail message except this command. Program alumni and other training and development professionals are encouraged to subscribe. For more information on electronic mailing lists, see <a href="https://lists.umbc.edu/sympa/help" target="_blank">Sympa Help</a>.</p>
-
+<p>If you have a Google account, you may go to <a href="https://groups.google.com/a/umbc.edu/group/isdts-l-group">https://groups.google.com/a/umbc.edu/group/isdts-l-group</a> log in and select &ldquo;Apply for Membership&rdquo;. You should then select your display name,  decide if you will  link to your google profile, and delivery preference. After your  preferences are selected click &ldquo;Apply to join this group&rdquo;.<br>
+  If you do not have a Google account send your email request  to Renee Eisenhuth at <a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a>.
 <h4>Joining the Alumni Listserv</h4>
 <p>If you are an alumni of UMBC’s ISD – Training System Master’s program, or the post-baccalaureate certificates in ISD, Instructional Technology (formerly Computer and Web-based Training) or Distance Education, sign-up for our alumni listserv. This listserv keeps alumni informed of special events, career and professional networking opportunities and professional development seminars.</p>
 
 <h5>How do I subscribe?</h5>
-<p>From the e-mail account you want to use for ISDAlumni, send a message to <a href="mailto:sympa@lists.umbc.edu">sympa@lists.umbc.edu</a> with the following text: 
-  <strong>SUBSCRIBE ISDAlumni  EMAIL</strong><p>
-
-  <strong>Example:</strong> SUBSCRIBE ISDAlumni jdoe@umbc.edu</p>
-
-<p><strong>NOTE:</strong> Nothing else should be in the body of your e-mail message except this command. For more information on electronic mailing lists, see <a href="https://lists.umbc.edu/sympa/help" target="_blank">Sympa Help</a>.</p>
-
+<p>Send an email to Renee Eisenhuth at <a href="mailto:reisen@umbc.edu">reisen@umbc.edu</a> to request to be added.
 
 <!-- END Content -->
 

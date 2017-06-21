@@ -107,7 +107,14 @@
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/2283" target="_blank">I/O Psychology</a></td>
     <td>Tu</td>
     <td>6:00 PM - 9:00 PM</td>
-    <td>Lesley Perkins</td>
+    <td>Elissa Abod</td>
+  </tr>
+  <tr>
+    <td>PSYC 670.3 (8187)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8187" target="_blank">I/O Psychology</a></td>
+    <td>W</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>Elissa Abod</td>
   </tr>
   <tr>
     <td>PSYC 671.1 (8039)</td>
@@ -157,6 +164,13 @@
     <td>W</td>
     <td>7:00 PM - 10:00 PM</td>
     <td>Sharron Dean</td>
+  </tr>
+  <tr>
+    <td>PSYC 676.1 (7353)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2168/8046">Human Factors</a></td>
+    <td>W</td>
+    <td>6:00 PM - 9:00 PM</td>
+    <td>Rana Balci-Sinha</td>
   </tr>
   <tr>
     <td>PSYC 678.1 (7415)</td>

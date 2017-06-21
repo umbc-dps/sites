@@ -87,9 +87,9 @@ function sanitizeString($var)
 			// close the table.
 			$theTable .=  "</table></body></html>";
 			 //MAIL IT
-						$to = "esagan@umbc.edu, $Email";
+						$to = "knott@umbc.edu, $Email";
 						$subject = 'DPS Orders Form Submission';
-						$headers = "From: esagan@umbc.edu" . $clientEmail . "\r\n";
+						$headers = "From: knott@umbc.edu" . $clientEmail . "\r\n";
 						// ARE WE CCing ANYONE?
 						if (isset($othermail) || $othermail != '' ) {
 						   $headers .= 'Cc: ' . $othermail . "\r\n";

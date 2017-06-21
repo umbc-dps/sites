@@ -233,24 +233,12 @@
     <td>Online Asynchronous</td>
     <td>Berge, Z.</td>
     </tr>
-  <tr>
-    <td>EDUC 671 – 01 (1053)</td>
-    <td>Principles of Training and Development</td>
-    <td>In-Person, Tuesdays 6:00-9:00PM in Room U638</td>
-    <td>Weinstein, S..</td>
-    </tr>
    <tr>
      <td>EDUC 681 – 01 (1064)</td>
      <td>Survey of Instructional Technology Applications</td>
      <td>Synchronous Online - Mondays 7:10-9:40PM</td>
      <td>Kellerman, P.</td>
-    </tr>
-  <tr>
-    <td>EDUC 689 – 03 (2216)</td>
-    <td>Advance Special Topics: Portfolio Development and Talent Management</td>
-    <td>Online Asynchronous</td>
-    <td>Williams, G.</td>
-    </tr>
+   </tr>
   <tr>
     <td>EDUC 792T – 01 (1054)</td>
     <td>ISD Internship-Training</td>

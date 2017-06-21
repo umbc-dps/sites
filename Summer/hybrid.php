@@ -5,18 +5,18 @@
 <title>Hybrid/Online Courses | Summer Session at UMBC</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="Hybrid courses blend in-person and online learning. Most hybrid courses reduce the number of in-class meetings by replacing some in-person classes with online, out-of-class, or interactive learning activities Hybrid courses require more independent learning on the part of the student than an in-person class." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
+<meta property="og:title" content="Hybrid & Online Courses | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/hybrid" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/8.jpg" />
+<meta property="og:description" content="Hybrid courses blend in-person and online learning. Most hybrid courses reduce the number of in-class meetings by replacing some in-person classes with online, out-of-class, or interactive learning activities Hybrid courses require more independent learning on the part of the student than an in-person class." />
 
 
 <!-- CSS -->
@@ -74,7 +74,7 @@
      <!-- Start Content --> 
 
 <div class="accordionheader">
-  <h4>Hybrid Courses<i class="fa fa-angle-down"></i></h4>
+  <h4>Hybrid courses<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">
@@ -87,7 +87,7 @@ View all <a href="http://umbc.edu/summer/all-courses#hybrid" target="_blank">hyb
   </div>
 
 <div class="accordionheader">
-  <h4>Online Courses<i class="fa fa-angle-down"></i></h4>
+  <h4>Online courses<i class="fa fa-angle-down"></i></h4>
 </div>
 
  <div class="accordionbody">

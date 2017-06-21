@@ -4,7 +4,7 @@
 <file name="advising.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613530712298" remote="131341615760000000" Dst="2" />
 <file name="advisoryboard.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613531422369" remote="131341615760000000" Dst="2" />
 <file name="directions.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341615778187023" remote="131341615780000000" Dst="2" />
-<file name="listserv.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613551864413" remote="131341615780000000" Dst="2" />
+<file name="listserv.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131414172420000000" remote="131414172420000000" Dst="2" />
 <file name="programs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613555644791" remote="131341615780000000" Dst="2" />
 <file name="studentawards.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131365614250000000" remote="131365614250000000" Dst="2" />
 <file name="textbooks.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131424508029482351" remote="131424508030000000" Dst="2" />
@@ -13,7 +13,7 @@
 <file name="business.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613532652492" remote="131341615760000000" Dst="2" />
 <file name="career.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613533552582" remote="131341615760000000" Dst="2" />
 <file name="certificate.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131382161270000000" remote="131382161270000000" Dst="2" />
-<file name="communication.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131401264627812492" remote="131401264720000000" Dst="2" />
+<file name="communication.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131418442890000000" remote="131418442890000000" Dst="2" />
 <file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131388071559736992" remote="131388072810000000" Dst="2" />
 <file name="costs.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131393507413664484" remote="131393507410000000" Dst="2" />
 <file name="courses.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613536962923" remote="131341615760000000" Dst="2" />
@@ -34,7 +34,7 @@
 <file name="programmaster.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613555064733" remote="131341615780000000" Dst="2" />
 <file name="resources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613556204847" remote="131341615780000000" Dst="2" />
 <file name="rsvp.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613556684895" remote="131341615780000000" Dst="2" />
-<file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131378692050000000" remote="131378692050000000" Dst="2" />
+<file name="schedule.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131400452640000000" remote="131400452640000000" Dst="2" />
 <file name="studentforms.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613558205047" remote="131341615780000000" Dst="2" />
 <file name="studentresources.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613558655092" remote="131341615780000000" Dst="2" />
 <file name="thankyou.php" server="gl.umbc.edu//afs/umbc.edu/public/www/isd/" local="131341613560035230" remote="131341615780000000" Dst="2" />

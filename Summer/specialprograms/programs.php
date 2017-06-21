@@ -24,6 +24,7 @@
 <link href="../css/font-awesome.min.css" rel="stylesheet">
 <link href="../css/styles.css" rel="stylesheet">
 <link href="../css/magnetic-popup.css" rel="stylesheet">
+<link href="../css/accordion.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/jquery.modal.css" type="text/css" media="screen" />
 
 <!-- Javascript -->
@@ -35,20 +36,7 @@
 <link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
-
-
-<style>
-.accordionheader {color:#000; margin-top:8px; text-align: left;}
-.accordionbody {background: transparent; padding-top:10px;}
-.accordionbody ul li {list-style:square}
-.accordionheader:hover{cursor:pointer}
-.accordionheader h4{font-size:24pt; font-weight:bold; padding:5px; line-height:14pt}
-</style>
-
 </head>
-
-
-
 
 <body>
 
@@ -77,45 +65,45 @@
 
 
 <div class="sixteen columns" style="padding-top:1em;">
-
   <!-- Page Title -->
-    <div align="center"><a href="http://www.umbc.edu/summer/specialprograms"><img src="../images/specialprograms.png" style="width:75%"></a></div>
+    <h2>Special Programs</h2>
   <!-- END Page Title -->    
    <div class="content">
   <div class="narrowchart">
  <div id="accordion">   
    <!-- Start Content --> 
 
- <div class="accordionheader" class="baltimore">
- <img src="../images/baltimore_xlg.jpg" style="width:98%; padding:5px">
-  <h4><a href="#baltimore" id="baltimore"></a>Discover Baltimore</h4>
+ <div class="accordionheader">
+  <h4>Discover Baltimore<i class="fa fa-angle-down"></i></h4>
 </div>
 
- <div class="accordionbody" class="baltimore">
+ <div class="accordionbody">
  
- <p>Baltimore, our “neighbor to the north,” offers wide-ranging opportunities as a living classroom where you can discover many facets of this historic and complex city. Get off campus and engage in hands-on experiential learning by exploring Baltimore’s urban neighborhoods, its rich and complex racial history, architectural heritage and vibrant street culture, museums and civically engaged contemporary art, and diverse musical and literary traditions. Some summer classes will regularly meet downtown in UMBC’s new city classroom near Hollins Market, where you can actively learn and discover first-hand what makes Baltimore such a unique and special city. </p>
+ <p align="center"><img src="../images/baltimore_lg.jpg" style="width:50%"></p>
+ 
+<p>Baltimore, our “neighbor to the north,” offers wide-ranging opportunities as a living classroom where you can discover many facets of this historic and complex city. Get off campus and engage in hands-on experiential learning by exploring Baltimore’s urban neighborhoods, its rich and complex racial history, architectural heritage and vibrant street culture, museums and civically engaged contemporary art, and diverse musical and literary traditions. Some summer classes will regularly meet downtown in UMBC’s new city classroom near Hollins Market, where you can actively learn and discover first-hand what makes Baltimore such a unique and special city. </p>
 
 
 <ul><strong>Courses:</strong><br><br>
 <li>AFST 100: Introduction to the Black  Experience</li>
 <li> AMST 310: Gender and Inequality in America</li>
 <li>ANTH 311: Urban Anthropology</li>
-<li>ART 216: Studies  in Visual Culture:  Prehistory through  the 1750s</li>
-<li>ART 392: Topics  in Art or Media I:  Soundscapes:  Baltimore</li>
+<li>ART 216: Studies  in Visual Culture:  Prehistory through  the 1750s</li>
+<li>ART 392: Topics  in Art or Media I:  Soundscapes:  Baltimore</li>
 <li>GWST 310: Gender and Inequality in America</li>
-<li>HIST 411: Service  Learning in Public History:  Explore  Baltimore Heritage</li>
+<li>HIST 411: Service  Learning in Public History:  Explore  Baltimore Heritage</li>
 <li>MUSC 333: Race and Jazz</li>
 </ul>
 </div>  
  
  
-  <div class="accordionheader" class="csj">
-  <img src="../images/DPS2016-006_logo_vF-color.png" style="width:50%">
-  <h4><a href="#csj" id="csj"></a>Culture & Social Justice</h4>
+  <div class="accordionheader">
+  <h4>Culture & Social Justice<i class="fa fa-angle-down"></i></h4>
 </div>
 
- <div class="accordionbody" class="csj">
+ <div class="accordionbody">
  
+ <p align="center"><img src="../images/DPS2016-006_logo_vF-color.png" style="width:50%"></p>
  
 <p>Social justice advocates eliminating inequalities among people by actively promoting equality, fairness and dignity for all human beings. This summer, explore a variety of timely courses that focus on the theme of <em>Culture & Social Justice</em>.
 </p>
@@ -150,74 +138,7 @@
 <li>SOCY 321: Race and Ethnic Relations  </li>
 <li>SOCY 606: Social Inequality and Social Policy</li>
 </ul>
-</div> 
-
-
-<div class="accordionheader" class="health">
-<img src="../images/fruitcart_xlg.jpg" style="width:98%; padding:5px">
-  <h4><a href="#health" id="health"></a>Health & Social Inequalities</h4>
-</div>
-
- <div class="accordionbody" class="health">
- 
- <p>Social dimensions of health address the conditions in which  people are born, grow, live, work, and age beyond the biological and genetic  level. It is increasingly clear that social, psychological, economic, and  institutional inequalities act as powerful predictors of both health outcomes  and quality of life. <em>Health &amp; Social Inequalities </em>courses identify  how important social factors influence individual health behaviors, health  conditions, longevity and mortality, and provide a framework for thinking about  health &ldquo;outside the traditional box&rdquo; of a medical model.</p>
-
-<p>These courses are recommended for students pursuing careers  in the health professions, or for anyone seeking to understand the dramatic  impact of social factors on individual and community health, wellness, and  quality of life. </p>
-
-<ul><strong>Courses:</strong><br><br>
-<li>AGNG 200: Aging People, Policy and Management</li>
-<li>ANTH 311: Urban Anthropology</li>
-<li>EHS 200: Concepts of Emergency Health Services</li>
-<li>HAPP 398: Selected Topics in Health Administration and Policy:  Health Care Marketing</li>
-<li>HAPP 405: Contemporary Issues in Long Term Care</li>
-<li>PSYC 285: Abnormal Psychology</li>
-<li>PSYC 340: Social Psychology</li>
-<li>PSYC 342: The Psychology of Aggression and Antisocial Behavior</li>
-<li>PSYC 360: Psychology of Motivation</li>
-<li>PSYC 385: Health Psychology</li>
-<li>SOCY 204: Diversity and Pluralism:  An Interdisciplinary Perspective</li>
-<li>SOCY 300: Methodology of Social Research</li>
-<li>SOCY 321: Race and Ethnic Relations</li>
-<li>SOCY 351: Medical Sociology</li>
-<li>SOCY 497: Selected Topics in Sociology:  Health and Human Rights</li>
-<li>SOCY 606: Social Inequality and Social Policy</li>
-<li>SOCY 698: Advanced Topics in Sociology:  Health and Human Rights</li>
-</ul>
-</div>  
-
-
-<div class="accordionheader" class="studyabroad">
-  <h4><a href="#studyabroad" id="studyabroad"></a>Study Abroad</h4>
-</div>
-
- <div class="accordionbody" class="studyabroad">
-
-<p>Every summer, UMBC offers short term study abroad programs taught by UMBC faculty. </p>
-
-<p>Earn valuable credits while gaining substantive understanding of other cultures and perspectives.  
-Summer faculty-led study abroad programs are tuition free. You pay only the program costs, which 
-vary by destination.  </p>
-
-<p>Students from all majors are encouraged to apply.</p>
-  
-<img src="../images/italy_xlg.jpg" style="width:98%; padding:5px">  
-<h4>Italian Politics:  Siena, Italy (May 28- June 17)</h4>
-<p>POLI 260: Comparative Politics (3 credits) <br>
-POLI 469: Special Topics in Comparative Politics: Italian Politics (3  credits) <br><br>
-
-<em>UMBC Faculty:  Dr. Carolyn Forestiere Political Science</em><br clear="all">
-<center><a href="http://studyabroad.umbc.edu/italian-politics/" class="button">Learn more</a></center>
-</p>
-
-    <p>
-    <img src="../images/barranquilla_xlg.jpg" style="width:98%; padding:5px">
-    <h4>Spanish Language in Colombia: Barranquilla, Colombia  (June 5- July 3)</h4>
-
-    <p>SPAN 201/202/301/302 (4 credits)<br>
-      MLL 300: Colombian Caribbean Culture in an Intercultural Perspective (3  credits)<br><br>
-    <em>UMBC Faculty:  Prof. Milvia Hernandez Lecturer  and Language Coordinator MLLI</em><br clear="all">
-  <center><a href="http://studyabroad.umbc.edu/spanish-language-in-colombia/" class="button gold">Learn More</a></center></p>
-</div>  
+</div>     
 
      <!-- END Content -->
      
@@ -261,30 +182,7 @@ $('h4').click(function() {
 });
 </script> 
 
-<script>
-$(document).ready(function() {
-	if (hash == '#baltimore') {
-		$('#ui-id-3').hide()
-		$('#ui-id-5').hide()
-		$('#ui-id-7').hide()
-	};
-	if (hash == '#csj') {
-		$('#ui-id-1').hide()
-		$('#ui-id-5').hide()
-		$('#ui-id-7').hide()
-	};
-	if (hash == '#health') {
-		$('#ui-id-1').hide()
-		$('#ui-id-3').hide()
-		$('#ui-id-7').hide()
-	};
-	if (hash == '#studyabroad') {
-		$('#ui-id-1').hide()
-		$('#ui-id-3').hide()
-		$('#ui-id-5').hide()
-	};
-});
-</script>
+
 
   
 </body>

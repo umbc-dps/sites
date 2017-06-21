@@ -87,51 +87,51 @@
   <tr>
     <td>CYBR    620.2 (7187)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7187" target="_blank">Introduction    to Cybersecurity</a></td>
-    <td>W</td>
-    <td>1:00 PM -    3:30 PM</td>
-    <td>Dabrina Taylor</td>
+    <td>M</td>
+    <td>6:00 PM - 8:40 PM</td>
+    <td>Mallikarjuna Rao</td>
   </tr>
   <tr>
     <td>CYBR 623.2 (7188)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7188" target="_blank">Cybersecurity Law    & Policy</a></td>
-    <td>M</td>
-    <td>6:00 PM - 8:40 PM</td>
-    <td>Mallikarjuna Rao </td>
+    <td>W</td>
+    <td>6:00 PM - 8:45 PM</td>
+    <td>Laura Casulli </td>
   </tr>
   <tr>
     <td>CYBR 624.2 (6574)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/6574" target="_blank">Cybersecurity    Project </a></td>
-    <td>W</td>
-    <td>6:00 PM - 8:45 PM</td>
-    <td>Laura Casulli</td>
-  </tr>
-  <tr>
-    <td>CYBR 650.2 (7189)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7189" target="_blank">Cybersecurity Management </a></td>
     <td>M</td>
     <td>5:00 PM - 7:40 PM</td>
     <td>Behnam Shariati</td>
   </tr>
   <tr>
-  	<td>CYBR 658.2 (6573)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/6573" target="_blank">Risk Analysis & Compliance</a></td>
+    <td>CYBR 650.2 (7189)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7189" target="_blank">Cybersecurity Management </a></td>
     <td>Th</td>
     <td>6:00 PM - 8:45 PM</td>
-    <td>Mallikarjuna Rao </td>
+    <td>Mallikarjuna Rao</td>
+  </tr>
+  <tr>
+  	<td>CYBR 658.2 (6573)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/6573" target="_blank">Risk Analysis & Compliance</a></td>
+    <td>S</td>
+    <td>9:30 AM - 12:10 PM</td>
+    <td>TBA </td>
   </tr>
   <tr>
     <td>CYBR 691.2 (7190)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7190">Special Topics in Cybersecurity (Enterprise Security)</a></td>
-    <td>S</td>
-    <td>9:30 AM - 12:10 PM</td>
-    <td>TBA</td>
+    <td>Tu</td>
+    <td>5:30 PM - 8:10 PM</td>
+    <td>Mike Stone</td>
   </tr>
   <tr>
     <td>CYBR 691.3 (7450)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7450" target="_blank">Special Topics in Cybersecurity (Mobile Security)</a></td>
-    <td>Tu</td>
+    <td>W</td>
     <td>5:30 PM - 8:10 PM</td>
-    <td>Mike Stone</td>
+    <td>TBA</td>
   </tr>
   </table>
 <br>

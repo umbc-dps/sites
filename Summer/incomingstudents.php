@@ -5,18 +5,18 @@
 <title>Incoming Students | Summer Session at UMBC</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="Summer session is a great time for incoming freshmen and transfer students to grit going at UMBC. Students admitted for fall 2017 are eligible to attend summer session 2017." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
+<meta property="og:title" content="Incoming Students | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/incomingstudents" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/students.jpg" />
+<meta property="og:description" content="Summer session is a great time for incoming freshmen and transfer students to grit going at UMBC. Students admitted for fall 2017 are eligible to attend summer session 2017." />
 
 
 <!-- CSS -->

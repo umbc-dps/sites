@@ -87,18 +87,26 @@
   <tr>
     <td>CYBR  620   (5246)</td>
     <td>Introduction to Cybersecurity</td>
+    <td>Tuesday</td>
+    <td>6:00 - 8:45 PM</td>
+    <td>In Person</td>
+    <td>3.014</td>
+    </tr>
+  <tr>
+    <td>CYBR  620   (8053)</td>
+    <td>Introduction to Cybersecurity</td>
     <td>Thursday</td>
     <td>6:00 - 8:45 PM</td>
     <td>In Person</td>
     <td>U572</td>
-    </tr>
+  </tr>
   <tr>
     <td>CYBR  621   (4912)</td>
     <td>Cyber Warfare</td>
     <td>Wednesday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>3.014</td>
+    <td>3.013</td>
   </tr>
   <tr>
     <td>CYBR 622 (8054)</td>
@@ -130,7 +138,7 @@
     <td>Wednesday</td>
     <td>6:00 - 8:45 PM</td>
     <td>In Person</td>
-    <td>3.013</td>
+    <td>U572</td>
   </tr>
   <tr>
     <td>CYBR 650   (5565)   </td>
@@ -138,7 +146,7 @@
     <td>Wednesday</td>
     <td>7:10 - 9:40 PM</td>
     <td>In Person</td>
-    <td>3.013</td>
+    <td>3.014</td>
     </tr>
   <tr>
     <td>CYBR 658   (6566) </td>

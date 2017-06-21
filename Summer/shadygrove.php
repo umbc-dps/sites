@@ -5,18 +5,18 @@
 <title>Shady Grove Courses | Summer Session at UMBC</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="The Universities at Shady Grove (USG) is a University System of Maryland regional center located in Rockville, MD. It’s a convenient way for students living in Montgomery County and surrounding areas to take UMBC classes without driving to the main campus." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
+<meta property="og:title" content="Shady Grove Courses| Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/shadygrove" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/shadygrove.jpg" />
+<meta property="og:description" content="The Universities at Shady Grove (USG) is a University System of Maryland regional center located in Rockville, MD. It’s a convenient way for students living in Montgomery County and surrounding areas to take UMBC classes without driving to the main campus." />
 
 
 <!-- CSS -->
@@ -73,8 +73,6 @@
      <!-- Start Content --> 
      
 <p>The <a href="http://www.umbc.edu/shadygrove/">Universities at Shady Grove (USG)</a> is a University System of  Maryland regional center <a href="https://www.shadygrove.umd.edu/about-usg/directions-transportation">located</a> in Rockville, MD.  It&rsquo;s a convenient way for students living in  Montgomery County and surrounding areas to take UMBC classes without driving to  the main campus.</p>
-
-<p>USG parking <a href="https://shadygrove.umd.edu/about-usg/directions-transportation/parking">permits</a> are required on <a href="https://shadygrove.umd.edu/about-usg/campus-map-tour/printable-campus-map">campus</a>.  Public transportation <a href="https://shadygrove.umd.edu/about-usg/directions-transportation/public-transportation">options</a> are also available.</p>
 
 <p>View <a href="all-courses#shady%20grove">Shady Grove courses</a> offered this summer.  UMBC <a href="all-courses#online">online courses</a> are also  open to USG students.</p>
 

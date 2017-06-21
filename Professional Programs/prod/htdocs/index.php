@@ -246,6 +246,7 @@ BEGIN MAIN
       <ul>
         <a href="http://umbc.edu/biotech" target="_blank"><li>Biotechnology</li></a>
         <a href="http://umbc.edu/cyber" target="_blank"><li>Cybersecurity</li></a>
+        <a href="http://datascience.umbc.edu" target="_blank"><li>Data Science</li></a>
         <a href="http://umbc.edu/engm" target="_blank"><li>Engineering Management</li></a>
         <a href="http://umbc.edu/shadygrove/gis" target="_blank"><li>Geographic Information Systems</li></a>
         <a href="http://umbc.edu/hit" target="_blank"><li>Health Information Technology</li></a>

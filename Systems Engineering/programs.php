@@ -84,7 +84,7 @@
 
 <h4>Certificate Program</h4>
 <ul>
-   <li><a href="certificate.php">Post-Baccalaureate Certificate in Systems Engineering</a> (15 credits)</li>
+   <li><a href="certificate.php">Post-Baccalaureate Certificate in Systems Engineering</a> (12 credits)</li>
       <LI>Download the <a href="documents/planningform-cert.pdf" target="_blank">Academic Planning Form</a> as unofficial guidance in planning your certificate program. </LI>
    </ul>
  

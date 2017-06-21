@@ -75,8 +75,90 @@ table#sequence td:first-child { text-align:left }
   <strong>Registration for Newly Admitted Students:</strong>  June 1, 2017<br>
   <strong>Last Day to Add/Drop a Class:</strong> September 13, 2017<br>
   <strong>View  <a href="http://registrar.umbc.edu/academic-calendar/">Full Academic Calendar</a></strong></p>
-
-<h4>Fall schedule coming soon.</h4>
+<table id="schedule">
+  <tr>
+    <td width="18%">COURSE/CLASS<br>
+      NUMBER</td>
+    <td width="21%">COURSE TITLE </td>
+    <td width="13%">DAY</td>
+    <td width="17%">TIME</td>
+    <td width="17%">FORMAT</td>
+    <td width="14%">ROOM</td>
+  </tr>
+  <tr>
+    <td>ENMG 650   (2795)</td>
+    <td>Project Management</td>
+    <td>Tuesday</td>
+    <td>4:30 – 7:00 PM</td>
+    <td>Hybrid</td>
+    <td>ITE 227</td>
+  </tr>
+  <tr>
+    <td>ENMG 652  (2796)</td>
+    <td>Mgmt, Leadership &amp; Communications</td>
+    <td>Thursday</td>
+    <td>4:30 – 7:00 PM</td>
+    <td>Hybrid</td>
+    <td>ITE 227</td>
+  </tr>
+  <tr>
+    <td>ENMG 656  (2711)</td>
+    <td>Engineering Law &amp; Ethics</td>
+    <td>Wednesday</td>
+    <td>6:00 – 8:45 PM</td>
+    <td>In Person</td>
+    <td>ITE 231</td>
+  </tr>
+  <tr>
+    <td>ENMG 658  (2807)</td>
+    <td>Financial Management</td>
+    <td>Monday</td>
+    <td>6:00 – 8:45 PM</td>
+    <td>In Person</td>
+    <td>ITE 227</td>
+  </tr>
+  <tr>
+    <td>ENMG 659   (6520)</td>
+    <td>Strategic Management</td>
+    <td>Tuesday</td>
+    <td>4:30 – 7:00 PM</td>
+    <td>In Person</td>
+    <td>ITE 229</td>
+  </tr>
+  <tr>
+    <td>ENMG 663  (7904)</td>
+    <td>Advanced Project Management Application</td>
+    <td>Wednesday</td>
+    <td>4:30 – 7:00 PM</td>
+    <td>Hybrid</td>
+    <td>ITE 237</td>
+  </tr>
+  <tr>
+    <td>ENMG 668  (6253)</td>
+    <td>Project &amp; System Engineering Management</td>
+    <td>Thursday</td>
+    <td>4:30 – 7:00 PM</td>
+    <td>Hybrid</td>
+    <td>ITE 231</td>
+  </tr>
+  <tr>
+    <td>ENMG 672  (6551)</td>
+    <td>Decision &amp; Risk Analysis</td>
+    <td>Wednesday</td>
+    <td>4:30 – 7:00 PM</td>
+    <td>In Person</td>
+    <td>ITE 233</td>
+  </tr>
+  <tr>
+    <td>ENMG 690   (7865)</td>
+    <td>Innovation Technology &amp; Entrepreneurship</td>
+    <td>Monday</td>
+    <td>4:30 – 7:00 PM</td>
+    <td>Hybrid</td>
+    <td>ITE 241</td>
+  </tr>
+  </table>
+<h4>&nbsp;</h4>
 
   <br>
 

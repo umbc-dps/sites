@@ -5,18 +5,18 @@
 <title>Scholarships | Summer Session at UMBC</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Winter session GEP course offerings and requirements." />
+<meta name="description" content="The Office of Summer & Winter Programs awards a limited number of full and partial scholarships to UMBC degree-seeking students who have a high GPA and are close to graduating." />
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" content="@UMBCSummer">
 
 <!-- Open Graph data -->
-<meta property="og:title" content="GEP Courses | Summer Session at UMBC" />
+<meta property="og:title" content="Scholarships | Summer Session at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/winter/gep" />
-<meta property="og:image" content="http://www.umbc.edu/winter/images/1.jpg" />
-<meta property="og:description" content="Winter session GEP course offerings and requirements." />
+<meta property="og:url" content="http://www.umbc.edu/summer/scholarships" />
+<meta property="og:image" content="http://www.umbc.edu/summer/images/umbcsummer.jpg" />
+<meta property="og:description" content="The Office of Summer & Winter Programs awards a limited number of full and partial scholarships to UMBC degree-seeking students who have a high GPA and are close to graduating." />
 
 
 <!-- CSS -->
@@ -65,7 +65,7 @@
  <div class="sixteen columns">
   <div class="eleven columns alpha" style="padding-top:1em;">
       <!-- Page Title -->
-      <h2>Scholarships</h2>
+      <h2>I. Grit Going Summer Scholarship</h2>
       <!-- END Page Title -->
       <div class="content">
         <div class="narrowchart">
@@ -85,24 +85,24 @@
                       <td>Graduate Courses</td>
                     </tr>
                     <tr>
-                      <td>4 credit course:  $1,364</td>
-                      <td>4 credit course:  $2,412</td>
+                      <td>4 credit course:  $1,388</td>
+                      <td>4 credit course:  $2,484</td>
                     </tr>
                     <tr>
-                      <td>3 credit course:  $1,023</td>
-                      <td>3 credit course:  $1,809</td>
+                      <td>3 credit course:  $1,041</td>
+                      <td>3 credit course:  $1,863</td>
                     </tr>
                     <tr>
-                      <td>2 credit course:  $682</td>
-                      <td>2 credit course:  $1,206</td>
+                      <td>2 credit course:  $694</td>
+                      <td>2 credit course:  $1,242</td>
                     </tr>
                     <tr>
-                      <td>1.5 credit course:  $512</td>
-                      <td>1.5 credit  course:     $905</td>
+                      <td>1.5 credit course:  $520.50</td>
+                      <td>1.5 credit  course:     $931.50</td>
                     </tr>
                     <tr>
-                      <td>1 credit course:  $341</td>
-                      <td>1 credit course:  $603</td>
+                      <td>1 credit course:  $347</td>
+                      <td>1 credit course:  $621</td>
                     </tr>
                   </table>
 <br>
@@ -119,24 +119,24 @@
                   <td>Graduate Courses</td>
                 </tr>
                 <tr>
-                  <td>4 credit course:  $682</td>
-                  <td>4 credit course:  $1,206</td>
+                  <td>4 credit course:  $694</td>
+                  <td>4 credit course:  $1,242</td>
                 </tr>
                 <tr>
-                  <td>3 credit course:  $512</td>
-                  <td>3 credit course:  $905</td>
+                  <td>3 credit course:  $520.50</td>
+                  <td>3 credit course:  $931.50</td>
                 </tr>
                 <tr>
-                  <td>2 credit course:  $341</td>
-                  <td>2 credit course:  $603</td>
+                  <td>2 credit course:  $347</td>
+                  <td>2 credit course:  $621</td>
                 </tr>
                 <tr>
-                  <td>1.5 credit course:  $256</td>
-                  <td>1.5 credit  course: $453</td>
+                  <td>1.5 credit course:  $260.25</td>
+                  <td>1.5 credit  course: $465.75</td>
                 </tr>
                 <tr>
-                  <td>1 credit course:  $171</td>
-                  <td>1 credit course:  $302</td>
+                  <td>1 credit course:  $173.50</td>
+                  <td>1 credit course:  $310.50</td>
                 </tr>
               </table>
               </p>
@@ -173,8 +173,34 @@ Applications that do not meet the minimum qualifications and  requirements are n
               <h4>Apply<i class="fa fa-angle-down"></i></h4>
             </div>
             <div class="accordionbody">
-              <p><a href="scholarshipapplication.php">Apply now</a> - the deadline to apply is 5:00 pm on on May 5.</p>
+              <p>The Grit Going Scholarship application deadline has passed. The scholarship review committee will meet next week, and decisions will be emailed to all who applied no later than Friday, May 12.</p>
             </div>
+
+<hr>
+<h2>II. The Special Programs Scholarship</h2>
+<p>UMBC’s Office of Summer, Winter & Special Programs will offer a limited number of summer scholarships to selected students enrolled in  <a href="specialprograms/index.php" target="_blank">UMBC’s Special Programs</a> (Discover Baltimore; Culture & Social Justice; or Health & Social Inequalities) summer courses.  The program-specific scholarship will cover the tuition cost of a three credit course, based on UMBC’s in-state undergraduate tuition rate. Students are responsible for summer session fees, and any remaining out-of-state tuition costs, if applicable.</p>
+
+<p>Students with an active interest in the courses and topics covered in UMBC’s summer Special Programs are encouraged to apply. Scholarships are not transferable, and are <strong>only</strong> available for eligible students enrolled in designated Special Programs courses in Summer Session 2017.</p>
+
+<div class="accordionheader">
+              <h4>Eligibility requirements<i class="fa fa-angle-down"></i></h4>
+            </div>
+            <div class="accordionbody">
+              <ul>
+              	<li>Current UMBC students (registered in spring 2017) or incoming new UMBC students (admitted for fall 2017) who enroll in a summer course that is part of UMBC’s Special Programs</li>
+                <li>A cumulative GPA of 2.8 or higher</li>
+                <li>Submit an online application that includes a personal statement (200 – 400 words) explaining why you want to enroll in the chosen course</li>
+                <li>Register in at least one 3-credit course offered through UMBC’s summer Special Programs by May 23 (Session I) or July 3 (Session II)</li>
+              </ul>
+            </div>
+            
+            <div class="accordionheader">
+              <h4>Application, Deadlines and notification of Awards<i class="fa fa-angle-down"></i></h4>
+            </div>
+            <div class="accordionbody">
+              <p>The Special Programs Scholarship application deadline has passed.  Scholarship recipients will be notified via email by <strong>May 24</strong>. Scholarships will only be awarded to students who are enrolled in a Special Programs course by the deadline dates above. .</p>
+            </div>
+
 <br>
 <br>
 

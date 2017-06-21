@@ -336,27 +336,23 @@ BEGIN MAIN
             <option value="Shady Grove - Social Work 1111 10439 011 MAIN 00003899">Shady Grove - Social Work 1111 10439 011 MAIN 00003899</option>
             <option value="Shady Grove - Political Science 1111 10439 011 MAIN 00003900">Shady Grove - Political Science 1111 10439 011 MAIN 00003900</option>
             <option value="Shady Grove - Psychology 1111 10439 011 MAIN 00003901">Shady Grove - Psychology 1111 10439 011 MAIN 00003901</option>
-            <option value="Shady Grove - Aging Services 1111 10439 011 MAIN SDYAGING">Shady Grove - Aging Services 1111 10439 011 MAIN SDYAGING</option>
+            <option value="Shady Grove - Translational Life Science 1111 10439 011 MAIN TLSTUGRD">Shady Grove - Translational Life Science 1111 10439 011 MAIN TLSTUGRD</option>
             <option value="Instructional Systems Design (ISD) 1111 10450 011">Instructional Systems Design (ISD) 1111 10450 011</option>
             <option value="DPS Finance & Administration (State Fund) 1111 10554 011">DPS Finance & Administration (State Fund) 1111 10554 011</option>
             <option value="Summer Programs - Expenses 1113 10436 012 CNV CV380120">Summer Programs - Expenses 1113 10436 012 CNV CV380120</option>
-            <option value="Summer Programs - Income  1113 10436 012 CNV CV380040">Summer Programs - Income  1113 10436 012 CNV CV380040</option>
             <option value="Winter Programs - Expenses 1113 10437 012 CNV CV382102">Winter Programs - Expenses 1113 10437 012 CNV CV382102</option>
-            <option value="Winter Programs - Income 113 10437 012 CNV CV382040">Winter Programs - Income 113 10437 012 CNV CV382040</option>
             <option value="Teacher Professional Dev - Administration 1113 10438 012 MAIN 00003643">Teacher Professional Dev - Administration 1113 10438 012 MAIN 00003643</option>
             <option value="Teacher Professional Dev - Math 1113 10438 012 MAIN 00003644">Teacher Professional Dev - Math 1113 10438 012 MAIN 00003644</option>
             <option value="Teacher Professional Dev - Science 1113 10438 012 MAIN 00003645">Teacher Professional Dev - Science 1113 10438 012 MAIN 00003645</option>
             <option value="Teacher Professional Dev - TESOL 1113 10438 012 MAIN 00003646">Teacher Professional Dev - TESOL 1113 10438 012 MAIN 00003646</option>
-            <option value="Teacher Professional Dev - History 1113 10438 012 MAIN 00003647">Teacher Professional Dev - History 1113 10438 012 MAIN 00003647</option>
-            <option value="Teacher Professional Dev - Biology 1113 10438 012 MAIN 00003648">Teacher Professional Dev - Biology 1113 10438 012 MAIN 00003648</option>
-            <option value="Teacher Professional Dev - Foreign Languages 1113 10438 012 MAIN 00003649">Teacher Professional Dev - Foreign Languages 1113 10438 012 MAIN 00003649</option>
             <option value="Teacher Professional Dev - Other Programs 1113 10438 012 MAIN 00003650">Teacher Professional Dev - Other Programs 1113 10438 012 MAIN 00003650</option>
-            <option value="Teacher Professional Dev - Chemistry 1113 10438 012 MAIN 00004381">Teacher Professional Dev - Chemistry 1113 10438 012 MAIN 00004381</option>
             <option value="Information Technology Systems (IT) 1113 10442 012 CNV CV380104">Information Technology Systems (IT) 1113 10442 012 CNV CV380104</option>
-            <option value="VP Activities 1113 10443 012 CNV CV380140">VP Activities 1113 10443 012 CNV CV380140</option>
+            <option value="DPS Vice Provost 1113 10443 012 CNV CV380140">DPS Vice Provost 1113 10443 012 CNV CV380140</option>
+            <option value="DPS Vice Provost/ SUCCESS Program 1113 10443 012 MAIN SUCC1113">DPS Vice Provost/ SUCCESS Program 1113 10443 012 MAIN SUCC111</option>
             <option value="ELI Special Programs 1113 10451 012 CNV CV380146">ELI Special Programs 1113 10451 012 CNV CV380146</option>
+            <option value="ELI Summer Enrichment 1113 10451 031 MAIN SUMENRCH">ELI Summer Enrichment 1113 10451 031 MAIN SUMENRCH</option>
             <option value="ELI Intensive English Program 1113 10452 012 CNV CV380148">ELI Intensive English Program 1113 10452 012 CNV CV380148</option>
-            <option value="Marketing 1113 10457 012 CNV CV380149">Marketing 1113 10457 012 CNV CV3801499</option>
+            <option value="DPS Marketing 1113 10457 012 CNV CV380149">DPS Marketing 1113 10457 012 CNV CV380149</option>
             <option value="Finance and Administration 1113 10506 012 CV380103">Finance and Administration 1113 10506 012 CV380103</option>
             <option value="Professional Programs - GA 1113 10589 012 MAIN 00001217">Professional Programs - GA 1113 10589 012 MAIN 00001217</option>
             <option value="Professional Programs - SE 1113 10589 012 MAIN 00001041">Professional Programs - SE 1113 10589 012 MAIN 00001041</option>
@@ -364,6 +360,8 @@ BEGIN MAIN
             <option value="Professional Programs - Music 1113 10589 012 MAIN 00001208">Professional Programs - Music 1113 10589 012 MAIN 00001208</option>
             <option value="Professional Programs - Biotechnology 1113 10589 012 MAIN 00002911">Professional Programs - Biotechnology 1113 10589 012 MAIN 00002911</option>
             <option value="Professional Programs - Cybersecurity 1113 10589 012 MAIN 00006542">Professional Programs - Cybersecurity 1113 10589 012 MAIN 00006542</option>
+            <option value="Professional Programs - IPDM 1113 10589 012 MAIN IPDMPROG">Professional Programs - IPDM 1113 10589 012 MAIN IPDMPROG</option>
+            <option value="Professional Programs - Data Science 1113 10589 012 MAIN MPSDATAS">Professional Programs - Data Science 1113 10589 012 MAIN MPSDATAS</option>
             <option value="Professional Programs - HIT 1113 10589 012 MAIN HIT3PROG">Professional Programs - HIT 1113 10589 012 MAIN HIT3PROG</option>
 
           </select>

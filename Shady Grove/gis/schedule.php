@@ -90,58 +90,59 @@
   <tr>
     <td>GES 670.1 (4899)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/4899" target="_blank">Advanced Seminar in GIS</a></td>
-    <td>W</td>
-    <td>5:30 PM - 8:10 PM</td>
-    <td>TBA</td>
-  </tr>
-  <tr>
-    <td>GES 671.1 (4893)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/4893" target="_blank">Spatial Database and Systems Design</a></td>
     <td>M</td>
     <td>6:15 PM - 9:00 PM</td>
     <td>Erwin Villiger</td>
   </tr>
   <tr>
-    <td>GES 678.1 (5983)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/5983" target="_blank">Project Management of the Enterprise GIS</a></td>
+    <td>GES 671.1 (4893)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/4893" target="_blank">Spatial Database and Systems Design</a></td>
     <td>Tu</td>
     <td>6:15 PM - 9:00 PM</td>
     <td>Luis Bermudez</td>
   </tr>
   <tr>
-    <td>GES 679.1 (6361)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/6361" target="_blank">Professional Seminar in Geospatial Technologies </a></td>
+    <td>GES 678.1 (5983)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/5983" target="_blank">Project Management of the Enterprise GIS</a></td>
     <td>W</td>
     <td>6:15 PM - 9:00 PM</td>
     <td>John Schlee</td>
   </tr>
   <tr>
-    <td>GES 679.2 (8029)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8029" target="_blank">Professional Seminar in Geospatial Technologies </a></td>
+    <td>GES 679.1 (6361)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/6361" target="_blank">Professional Seminar in Geospatial Technologies </a></td>
     <td>Tu</td>
-    <td>6:15 PM - 8:00 PM</td>
+    <td>6:15 PM - 9:00 PM</td>
     <td>Lee Decola</td>
   </tr>
   <tr>
-  	<td>GES 770.1 (7308)</td>
-    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7308" target="_blank">Special Topics: Python Development for GIS</a></td>
+    <td>GES 679.2 (8029)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8029" target="_blank">Professional Seminar in Geospatial Technologies </a></td>
     <td>W</td>
     <td>6:15 PM - 8:00 PM</td>
     <td>Alex Din</td>
   </tr>
   <tr>
+  	<td>GES 770.1 (7308)</td>
+    <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/7308" target="_blank">Special Topics: Python Development for GIS</a></td>
+    <td>M</td>
+    <td>6:15 PM - 8:00 PM</td>
+    <td>Xiuzhu Yang</td>
+  </tr>
+  <tr>
     <td>GES 773.1 (8030)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8030">GIS Modeling Techniques</a></td>
-    <td>M</td>
+    <td>Th</td>
     <td>6:15 AM - 9:00 PM</td>
-    <td>Xiuzhu Yang</td>
+    <td>Ronald Wilson/Luis Bermudez/Josh Lieberman</td>
   </tr>
   <tr>
     <td>GES 776.1 (8031)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8031" target="_blank">Data Sources, Tasking and Acquisition</a></td>
-    <td>Th</td>
-    <td>6:15 PM - 9:00 PM</td>
-    <td>Ronald Wilson/Luis Bermudez/Josh Lieberman</td>
+    <td>S</td>
+    <td>9:00 AM - 12:00 PM</td>
+    <td>Qassim Abdullah/<br>
+      Nora May</td>
   </tr>
   </table>
 <hr>

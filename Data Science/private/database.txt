@@ -1,0 +1,5 @@
+user:      web.datascience
+password:  k8Jq63nmr4f+SEeB
+server:    virthostdb1-v1.core.umbc.edu
+databases: web_datascience_prod
+           web_datascience_dev

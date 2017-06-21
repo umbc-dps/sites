@@ -100,23 +100,22 @@
 
 <!-- END SLIDE ONE -->  
 
-
-<!-- SLIDE TWO -->
+<!-- Slide TWO -->    
 
 <li id="slide2">
-<a href="programmaster"><img alt="img03" src="images/4.jpg"></a>
 
-<div class="carousel-caption-right wordwrap">
-<h3>New Biotechnology Curriculum</h3>
-<small>Featuring new core courses and tracks</small>
+<a href="https://www.youtube.com/watch?v=sV7JzBmfPFc" class="video"><img src="images/Biotech-lab.jpg" alt="Developing Skills that Advance Innovation"/></a>
+<div class="carousel-caption wordwrap">
+<h3>Developing Skills that Advance Innovation</h3>
+<small>Find out what skills are needed to advance innovation into the marketplace.</small>
 
-<p><a class="web-seemore" href="programmaster">Learn More</a></p></div>
+<p><a href="https://www.youtube.com/watch?v=sV7JzBmfPFc"class="web-seemore video">Watch Now</a></p></div>
 
-<p id="captionthree"><a href="programmaster">New Biotechnology Curriculum</a></p>
+<p id="captionthree"><a href="https://www.youtube.com/watch?v=sV7JzBmfPFc">Developing Skills that Advance Innovation</a></p>
 
 </li>
-               
-<!-- END SLIDE TWO -->
+
+<!-- END SLIDE TWO --> 
 
 <!-- SLIDE THREE --> 
 
@@ -139,22 +138,23 @@
 
 <!-- END SLIDE THREE -->
 
-<!-- Slide FOUR -->    
+<!-- SLIDE FOUR -->
 
 <li id="slide4">
+<a href="programmaster"><img alt="img03" src="images/4.jpg"></a>
 
-<a href="https://www.youtube.com/watch?v=VBlEecFnaWk" class="video"><img src="images/Lachan.jpg" alt="UMBC Class of 2016 Profile: Lachan Rajbhandari"/></a>
 <div class="carousel-caption-right wordwrap">
-<h3>UMBC Class of 2016 Profile: Lachan Rajbhandari</h3>
-<small>Biotechnology MPS graduate Lachan Rajbhandari talks with us about what makes UMBC so special.</small>
+<h3>New Biotechnology Curriculum</h3>
+<small>Featuring new core courses and tracks</small>
 
-<p><a href="https://www.youtube.com/watch?v=VBlEecFnaWk"class="web-seemore video">Watch Now</a></p></div>
+<p><a class="web-seemore" href="programmaster">Learn More</a></p></div>
 
-<p id="captionthree"><a href="https://www.youtube.com/watch?v=VBlEecFnaWk">UMBC Class of 2016 Profile: Lachan Rajbhandari</a></p>
+<p id="captionthree"><a href="programmaster">New Biotechnology Curriculum</a></p>
 
 </li>
+               
+<!-- END SLIDE FOUR -->
 
-<!-- END SLIDE FOUR --> 
                
 
 </ul>

@@ -73,7 +73,7 @@
       
      <!-- Start Content --> 
 
-<p>Admission decisions are sent to the e-mail address provided on your application.</p>
+<p>Admission decisions are sent to the email address provided on your application.</p>
 
   <div class="accordionheader">
     <h4>Apply online<i class="fa fa-angle-down"></i></h4>

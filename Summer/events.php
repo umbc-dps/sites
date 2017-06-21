@@ -74,6 +74,23 @@
 <p>There's more to summer at UMBC than what happens in the classroom!  While you’re taking summer classes, take advantage of the cultural, fitness and fun activities that UMBC offers.</p>
 
 <div class="accordionheader">
+  <h4>Special Program Events<i class="fa fa-angle-down"></i></h4>
+</div>
+
+ <div class="accordionbody">
+ 
+<p>To enrich your Summer Session experience, we offer faculty-led special events and activities that will take you beyond the classroom and help you immerse yourself in Baltimore’s unique history, art, politics, neighborhoods and culture. These events are specifically planned for students enrolled in <a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">UMBC’s Special Programs courses</a>.</p>
+<ul>
+  <li>    <strong>Thursday, June 15: <em><a href="http://my.umbc.edu/groups/summerspecialprograms/events/50442" target="_blank" moz-do-not-send="true">Get to Know West Baltimore</a> with            Eli Pousson &amp; Kate Drabinski </em></strong>    </li>
+  <li><strong>Monday, June 26: <em><a href="http://my.umbc.edu/groups/summerspecialprograms/events/50442" target="_blank" moz-do-not-send="true">Tour              Baltimore&rsquo;s Food Markets</a> with Kate Drabinski</em></strong></li>
+
+  
+    <li><strong>Friday, July 14: <em>Behind the Scenes at Camden Yards with Kate  Drabinski.</em></strong> <br>
+      Camden Yards is best known to today&rsquo;s Baltimoreans as the home  of the Baltimore Oriole&rsquo;s, but it has a colorful history that long predates our  home team. Before hitting the game join Kate Drabinski for a tour of Camden  Yards and the surrounding neighborhoods. Topics will include the role of the  B&amp;O Railroad in building Baltimore, the Pratt Street Riots and Baltimore&rsquo;s  role in the Civil War, and the Great Railroad Strike of 1877, a signature  moment in the growth of the country&rsquo;s labor movement. We will meet on the  campus shuttle at 5:00pm, or at Pratt &amp; Penn at 5:30 and will be at the  gates and ready for the first pitch against the Chicago Cubs at 7:05pm. Tickets  will be available through the Student Events Board (SEB). Check back for more  details.</li>
+</ul>
+</div>
+
+<div class="accordionheader">
   <h4>Student events<i class="fa fa-angle-down"></i></h4>
 </div>
 

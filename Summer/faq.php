@@ -225,6 +225,24 @@
  	<p><a href="http://osl.umbc.edu/orgs/" target="_blank">Student organizations</a> are created and run by current UMBC students and offer a <a href="http://osl.umbc.edu/orgs/list/" target="_blank">wide array</a> of opportunities to get involved in your campus and local communities. Joining a student organization will broaden your perspectives, open opportunities, and deepen your connection and passion with interests and issues important to you.</p>
  </div>
  
+ <div class="accordionheader">
+  <h4>What summer service learning opportunities are available?<i class="fa fa-angle-down"></i></h4>
+ </div>
+
+ <div class="accordionbody">
+ 	<p>You can learn to make a difference! Summer is a great time to make a meaningful contribution in your community through service learning. UMBC’s Shriver Center coordinates summer service learning placements in a variety of areas, including education, the environment, food and housing access, healthcare and mental health.
+Develop leadership skills, build self-confidence, and help create a better future. 
+Change begins with you!</p>
+ </div>
+ 
+ <div class="accordionheader">
+  <h4>How can I participate in civic engagement?<i class="fa fa-angle-down"></i></h4>
+ </div>
+
+ <div class="accordionbody">
+ 	<p><a href="http://osl.umbc.edu/civic" target="_blank">Make a meaningful difference</a> by helping to solve problems, build communities, and empower others. UMBC is a national leader in preparing students to make a difference on campus and beyond. Learn how to imagine and organize social change projects, build powerful networks, bridge differences in your community and beyond.</p>
+ </div>
+ 
      <!-- END Content -->
      
 	</div></div></div>

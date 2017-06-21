@@ -63,13 +63,13 @@ Deadline: August 1st<br> <a class="btn" href="http://gradschool.umbc.edu/admissi
         <dt>Tuition &amp; Fees (MD Resident)</dt>
 
 
-        <dd>$753 per credit</dd>
+        <dd>$733 per credit</dd>
 
 
         <dt>Tuition &amp; Fees (Non-MD Resident)</dt>
 
 
-        <dd>$1,179 per credit</dd>
+        <dd>$1127 per credit</dd>
 
 
         <dt>Start Date</dt>

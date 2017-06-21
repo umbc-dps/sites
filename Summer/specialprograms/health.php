@@ -192,7 +192,8 @@
                 	<p>ANTH 311 explores community engaged anthropology and ethnographic fieldwork with a focus on social and environmental justice in Baltimore City. Learn first-hand about the role of urban public art and gardens, housing opportunities through Habitat for Humanities, community health center Marian House, the urban environmental agency Biohabitats, and a community food bank and garden in East Baltimore. </p>
                     <p>This course provides a broad perspective of human life in an urban context through cross-cultural comparisons of topics such as social justice, environment, language, race and ethnicity, economics, gender, politics, ritual, art, and religion. Learn about the history of anthropological research in urban centers and current issues in the anthropology of cities. Examine various anthropological approaches to understanding human behavior, and gain insights to other cultures as well as our own. Discussions include topics of health, urban social subgroups, communities, education, environment, art and media. </p>
 					<p class="na-details">4W1 – Tues/Thurs/Fri 9-12:10 pm<br>Lion Bldg<br>GEP - SS<br>Jana Rehak</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2643">Register</a></center>
+					<p>PREREQUISITE WAIVER: This course is open to all majors. Prior SOCY or ANTH course prerequisite requirements will be waived for this class. For a waiver please contact Amy Barnes at <a href="mailto:amyb@umbc.edu">amyb@umbc.edu</a>. </p>
+					<center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2643">Register</a></center>
 				</div>
 			</div>
 		</div>  
@@ -223,14 +224,32 @@
             
 			<div id="notaccordion">
 				<h3 class="na-header"><a href="#HAPP405" id="HAPP405"></a>HAPP 405: Contemporary Issues in Long Term Care<i class="fa fa-angle-down"></i></h3>
-				<div class="na-body">
+			  <div class="na-body">
                 	<p>This course surveys a very important service and policy component of the health care system. A brief history of the evolution of long-term care provides the foundation to analyze issues such as social, economic and political environments, as well as credentialing, insurance and reimbursement. Various management functions will be examined, including financing, regulation, staffing and education. Case studies will introduce the student to community profile, demographics and housing alternatives.</p>
 					<p class="na-details">6W1 – Tues/Thur 6-9:10 pm<br>Paul Coakley</p>
-                    <center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1021">Register</a></center>
-				</div>
+                    <center class="register">
+                      <p><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/1021">Register</a>                    </p>
+                  </center>
+			  </div>
 			</div>
+  <div id="notaccordion">
+				<h3 class="na-header"><a href="#HAPP405" id="HAPP405"></a>HAPP 420: Epidemiology<i class="fa fa-angle-down"></i></h3>
+			  <div class="na-body">
+                	<p>This course studies health and disease in populations and compares groups within populations, including age, sex, race, and ethnic groups. The course examines the sources of data and the methods used by public health researchers. It also studies methods used in public health programs to measure and control diseases and to evaluate programs.</p>
+					<p class="na-details">6W1 - Tues/Thur 1–4:10 pm<br>Jamie Trevitt</p>
+					<p>PREREQUISITE WAIVER: This course is open to all majors. Prior HAPP or SOCY course prerequisite requirements will be waived for this class. SOCY 301 recommended. For a waiver please contact Prof. Jamie Trevitt at <a href="mailto:trevitt@umbc.edu">trevitt@umbc.edu</a>. </p>
+					<center class="register">
+                      <p><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2636">Register</a>                    </p>
+                  </center>
+				</div>
+			</div>          
+            
+            
+            
+            
 		</div>
-
+        
+        
 
 
 	<h3 class="na-header"><a href="#LLC" id="LLC"></a>Language Literacy & Culture (LLC)<i class="fa fa-angle-down"></i></h3>
@@ -385,7 +404,7 @@ Diversity and Pluralism: An Interdisciplinary Perspective<i class="fa fa-angle-d
 <hr>
 
 <h3><strong>Lion Brothers Building</strong></h3>
-<p>Some  classes will regularly meet downtown in The Lion Brothers Building (UMBC&rsquo;s  new city classroom <a href="http://www.lionbrothersbaltimore.com/neighborhood/" target="_blank">near Hollins Market</a>) where you can actively learn and discover  first-hand what makes Baltimore such a unique and special city. The  Lion Brothers Building is located at <strong>875 Hollins Street</strong> at the corner of Hollins and Poppleton; across the street from the James  McHenry Elementary School and Recreation Center. The building is also close to  Café Gourmet, Zella&rsquo;s Pizzeria, Cup&rsquo;s Coffee House, and a branch of Harbor  Bank.</p>
+<p>Some  classes will regularly meet downtown in The Lion Brothers Building (UMBC&rsquo;s  new city classroom <a href="http://www.lionbrothersbaltimore.com/neighborhood/" target="_blank">near Hollins Market</a>) where you can actively learn and discover  first-hand what makes Baltimore such a unique and special city. The  Lion Brothers Building is located at <strong>875 Poppleton Street and Hollins</strong>; across the street from the James  McHenry Elementary School and Recreation Center. The building is also close to  Café Gourmet, Zella&rsquo;s Pizzeria, Cup&rsquo;s Coffee House, and a branch of Harbor  Bank.</p>
 
 <h4>Transportation</h4>
 <p>Just two blocks from Martin Luther King Jr. Boulevard (MLK), with easy access to I-295, I-95, and I-83, the Lion Brothers Building is accessible from campus by <a href="http://www.umbc.edu/transit/routes/downtown.php" target="_blank">UMBC’s Downtown Shuttle</a>, local bus lines, as well as the <a href="http://www.charmcitycirculator.com/route/orange" target="_blank">Charm City Circulator</a>.   There is also street parking (free and metered) along the residential roads around the Lion Brothers Building. Students may also park on the UMBC campus (with valid parking permit) and ride the Downtown Shuttle.</p>

@@ -87,6 +87,8 @@
   <p> <a href="https://applyweb.collegenet.com/account/new/create?origin=https%3A%2F%2Fwww.applyweb.com%2Fshibboleth%2Fgatekeeper%3Fdest%3Dhttps%253A%252F%252Fwww.applyweb.com%252Fumbc%252F" target="_blank">Create</a> your CollegeNET account and keep a record of your CollegeNET user name and password. Once you create your CollegeNET account, choose the <a href="https://www.applyweb.com/umbc/index.ftl" target="_blank">Visiting Student</a> option to log in to CollegeNET and complete the visiting student application.</p>
   
   <p>If you save and end your session before you submit your application, you will need your CollegeNET user name and password to reopen the online application.</p>
+  <p><strong>Please note:  If you pay your application fee by check, there          will be a verification period of six business days between the          time you submit your electronic check payment and the time UMBC          receives your form.</strong><strong><br>
+  </strong></p>
 </div>
 
 
@@ -99,6 +101,8 @@
 <p>When you successfully complete and submit your application, you’ll get an immediate confirmation email from <strong>CollegeNET</strong>, which will then forward your application to UMBC within 24 hours.</p>
 
 <p>When UMBC receives your application from CollegeNET, you will get an email from UMBC’s Office of Summer and Winter Programs confirming that your application has been received.</p>
+<p><strong>Please note:  If you pay your application fee by check, there          will be a verification period of six business days between the          time you submit your electronic check payment and the time UMBC          receives your form.</strong><strong><br>
+</strong></p>
 </div>
 
 <div class="accordionheader">
@@ -108,6 +112,8 @@
 <div class="accordionbody">
 
 <p>It typically takes 3 - 5 business days for UMBC to process visiting student applications and reach an admission decision.  Admission decisions are initially sent to applicants by email. UMBC will also send a follow up admissions decision letter to an applicant’s current mailing address.  The admissions email and letter will include a UMBC campus ID number, which you will use to create a <em>my</em>UMBC account and <a href="https://csprd-web.ps.umbc.edu/psp/csprd/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_LIST.GBL?PORTALPARAM_PTCNAV=HC_SSR_SSENRL_LIST&EOPP.SCNode=HRMS&EOPP.SCPortal=EMPLOYEE&EOPP.SCName=HCCC_ENROLLMENT&EOPP.SCLabel=Enrollment&EOPP.SCPTfname=HCCC_ENROLLMENT&FolderPath=PORTAL_ROOT_OBJECT.CO_EMPLOYEE_SELF_SERVICE.HCCC_ENROLLMENT.HC_SSR_SSENRL_LIST&IsFolder=false" target="_blank">register</a> for classes.</p>
+<p><strong>Please note:  If you pay your application fee by check, there          will be a verification period of six business days between the          time you submit your electronic check payment and the time UMBC          receives your form.</strong><strong><br>
+</strong></p>
 </div>
         
      <!-- END Content -->
