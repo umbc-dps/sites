@@ -102,11 +102,12 @@
 <strong>Dates &amp; Times: </strong>
 <a href="#" class="category">Morning</a> 
 <a href="#" class="category">Afternoon</a> 
-<a href="#" class="category">Evening</a> 
-<!-- Remove for the sessions to go away -->
+<a href="#" class="category last">Evening</a> 
+<!-- Remove for the sessions to go away 
 <a href="#" class="category">Session 1</a> 
 <a href="#" class="category">Session 2</a> 
 <a href="#" class="category last">12 Week Course</a>
+-->
 <br>
 </span>
 
@@ -154,10 +155,10 @@
 
 <a href="#" class="time details">Show Times</a> 
 <a href="#" class="time no-time details" style="display:none">Hide Times</a> |
-
+<!--
 <a href="#" class="sessions details">Show Sessions</a> 
 <a href="#" class="sessions no-sessions details" style="display:none">Hide Sessions</a> |
-
+-->
 <a href="#" class="prereq details">Show Prerequisites</a> 
 <a href="#" class="prereq no-prereq details" style="display:none">Hide Prerequisites</a> |
 
@@ -319,23 +320,23 @@ $( '.no-days' ).live( 'click', function() {
 $('a.category').not('a.last').after( ' | ' );
 $('a.category-stem').not('a.last').after( ' | ' );
 
-/*Hide Session 1 Class
+/*Hide Session 1 Class*/
 var session1 = 'Session 1';
 $("#table tr td:contains('" + session1  + "')").each(function() {
     if ($(this).text() == session1) {
         $(this).parent().remove();
     }  
 });
-*/
 
-/*Hide 12 Week Classes
-var twelveWeek = '12 Week';
+
+/*Hide 12 Week Classes*/
+var twelveWeek = '12 Weeks';
 $("#table tr td:contains('" + twelveWeek  + "')").each(function() {
     if ($(this).text() == twelveWeek) {
         $(this).parent().remove();
     }  
 });
-*/
+
 
 
 /* Creates Hash Functionality */

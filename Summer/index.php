@@ -85,7 +85,7 @@
 </li>
 <!-- END Slide One -->
           
-<!-- Slide Two -->
+<!-- Slide Two --
 <li id="slide2">
 	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">
     	<img src="images/featured/HIST411.png" alt="Featured Course: Public History Methods">
@@ -99,9 +99,10 @@
     	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">Featured Course: Public History Methods</a>
 	</p>
 </li>
-<!-- END Slide Two -->
+-- END Slide Two -->
+
 <!-- Slide Three -->
-<li id="slide3">
+<li id="slide2">
 	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">
     	<img src="images/featured/baltimore.png" alt="Special Programs">
 	</a>
@@ -116,8 +117,8 @@
 </li>
 <!-- END Slide Three -->
 
-<!-- Slide Four -->
-<li id="slide2">
+<!-- Slide Four --
+<li id="slide3">
 	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/" target="_blank">
     	<img src="images/featured/ART216.png" alt="Featured Course: Public Communication">
 	</a>
@@ -130,7 +131,7 @@
     	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/#" target="_blank">Featured Course: Studies in Visual Culture</a>
 	</p>
 </li>
-<!-- END Slide Four -->
+-- END Slide Four -->
 
 <!-- Slide Five --
 <li id="slide5">
@@ -146,9 +147,9 @@
     	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">Featured Course: Coen Brothers: Genre &amp; Irony</a>
 	</p>
 </li>
-<-- END Slide Five -->
-      
+<-- END Slide Five -->         
 </ul>
+
 <div id="dotcontainer"></div>
 </div>
       
@@ -167,9 +168,9 @@
 <div style="display:inline; float:left;"> 
 	<dl class="eleven columns alpha">
 		<br>
-        <h2><strong>Registration Begins March 6</strong></h2>
-        <em><h4>Graduate on time (or early)!</h4></em>
-        <p>Visiting students from other colleges and universities must first <a href="visitingstudents">apply to UMBC</a> and be admitted before you can register.</p>
+        <h3><strong>Session II begins July 10.</strong></h3>
+        <p>Current UMBC students can <a href="courses" target="_blank">register now for classes</a>. Incoming new fall students are also <a href="incomingstudents">able to enroll</a>. </p>
+        <p>Visiting students from other institutions must first <a href="visitingstudents">apply for summer admission</a> by no later than July 5.</p>
 
 
         <h5><strong>Summer Session Dates</strong></h5>
@@ -232,10 +233,8 @@ $( function() {
         mouseenter: function() { isPaused = true; },
         mouseleave: function() { isPaused = false; }
                         });
-
     setInterval(function() {
         if (isPaused) return; // do nothing when paused
-
         if(jQuery('.cbp-fwnext').css('display') != 'none')
             jQuery('.cbp-fwnext').click();
         else

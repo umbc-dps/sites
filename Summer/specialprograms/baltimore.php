@@ -227,18 +227,6 @@
 			</div>
 		</div>  
 
-	<h3 class="na-header"><a href="#HIST" id="HIST"></a>History (HIST)<i class="fa fa-angle-down"></i></h3>
-		<div class="na-body">
-			<div id="notaccordion">
-				<h3 class="na-header"><a href="#HIST411" id="HIST411"></a>HIST 411: Public History Methods: Explore Baltimore Heritage<i class="fa fa-angle-down"></i></h3>
-				<div class="na-body">
-                	<p>Baltimore is filled with historic places that tell the compelling stories of families, neighborhoods and communities.  Delve into historic Baltimore and choose a site that is of interest to you from a list of hundreds of historic places located in neighborhoods across the city.  Once you’ve selected an area of focus, you’ll put your research, writing, and visual design skills to work to create short stories about the site for local residents, students, visitors and educators to discover using the “Explore Baltimore Heritage” website and app. This service learning opportunity is supported by <a href="https://baltimoreheritage.org/" target="_blank">Baltimore Heritage</a>, a nonprofit advocate for historic preservation and heritage education, and a variety of neighborhood-based partner organizations.</p>
-					<p class="na-details">6W1 – Tues/Thurs 6-9:10 pm<br>Lion Brothers Bldg<br>Eli Pousson</p>
-					<p>PRE-REQ WAIVER: This course is open to all majors. Prior History course prerequisite requirements will be waived for this class. For a pre-requisite waiver please contact Carla Ison at<a href="mailto:ison@umbc.edu"> ison@umbc.edu</a>. </p>
-					<center class="register"><a class="button gold" href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2176/2625">Register</a></center>
-				</div>
-			</div>
-		</div>
 
 
 	<h3 class="na-header"><a href="#MUSC" id="MUSC"></a>Music (MUSC)<i class="fa fa-angle-down"></i></h3>

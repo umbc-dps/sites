@@ -174,8 +174,8 @@ BEGIN MAIN
 <strong>Cybersecurity</strong> - Room 233<br>
 <strong>Biotechnology</strong> - Room 237<br>
 <strong>Health Information Technology</strong> - Room 239<br>
-<strong>Engineering Management/Systems Engineering</strong> - Room 241
-</p>
+<strong>Engineering Management/Systems Engineering/Technical Management</strong> - Room 231<br>
+<strong>Data Science</strong> - Room 241<br></p>
 <?php
 //Set stream options
 $context = stream_context_create(array('http' => array('ignore_errors' => true)));

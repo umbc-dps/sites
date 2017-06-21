@@ -92,16 +92,16 @@
  
  <h4>Elective Health Information Technology Courses (12 credits), choose four such as:</h4>
 <ul>
-  <li>Health IT Implementation</li>
-  <li>Health Information Exchange and Interoperability</li>
-  <li>Health Information Privacy &amp; Security</li>
-  <li>Public Health Informatics</li>
-  <li>Patient Safety &amp; HIT</li>
-  <li>Human Centered Computing in HIT</li>
-  <li>Personalized Medicine</li>
-  <li>Health Informatics Text Processing</li>
-  <li>Exploration of Clinician Information Needs</li>
-  <li><a href="courses.php#674">HIT 674: Process  &amp; Quality Improvement with HIT</a></li>
+  <li><a href="courses.php#HIT764">HIT 764: Health Information Privacy & Security</a></li>
+  <li><a href="courses.php#HIT723">HIT 723: Public Health Informatics</a></li>
+  <li><a href="courses.php#HIT640">HIT 640: Health Informatics Text Processing</a></li>
+  <li><a href="courses.php#HIT722">HIT 722: Exploration of Clinician Information Needs</a></li>
+  <li><a href="courses.php#HIT674">HIT 674: Process  &amp; Quality Improvement with HIT</a></li>
+  <li><a href="courses.php#HIT724">HIT 724: Educational Technologies in Healthcare</a></li>
+  <li><a href="courses.php#HIT751">HIT 751: Healthcare Databases</a></li>
+  <li><a href="courses.php#IS610">IS 610: Database Program Development</a></li>
+  <li><a href="courses.php#ENGM652">ENGM 652: Management, Leadership, and Communication</a></li>
+  <li><a href="courses.php#SOCY618">SOCY 618: SAS for the Social Sciences</a></li>
   <li>Other Graduate courses approved by Health IT Graduate Program Director</li>
 </ul>
 

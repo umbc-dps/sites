@@ -162,7 +162,7 @@ html::after {
     <li>College Algebra or  Statistics</li>
     <li>2 Science courses (at  least one must have a lab component)</li>
     <li>2 Physical Education  courses (consult advisor about exceptions)</li>
-    <li>World Language  201-Level (consult advisor about exceptions)</li>
+    <li>World Language Intermediate-Level (consult advisor about exceptions)</li>
   </ul>
   <p><strong>Questions  about the History Program? Please  contact Dr. Andrew Nolan, Program Director, at <a href="mailto:nolan@umbc.edu">nolan@umbc.edu</a> or 301-738-6182. Watch the short video below to meet Dr. Nolan.</strong></p>
   

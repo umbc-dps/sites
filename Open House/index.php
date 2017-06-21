@@ -4,7 +4,7 @@
 
 <title>Open House | Office of Professional Programs at UMBC</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is a fit for you." />
+<meta name="description" content="Join us for our upcoming Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and sample the curriculum to find out Why UMBC is right for you." />
 
 <meta name="google-site-verification" content="iNv2dm65X5VqSZjqdgzOM8zkHZU8bwycQ0ihWPQU3QA" />
 
@@ -136,15 +136,15 @@ aside p, aside dl {
 <h3><a href="index"><img src="images/header.png" alt="Program Exploration Night" style="width:100%"></a></h3>
 
 <h4 style="font-weight:bold">Why UMBC?</h4>
-<h6>Participate in Program Exploration Sessions where you'll hear from program directors & faculty to learn more about our programs.</h6>
+<h6>Participate in Program Exploration Sessions where you'll hear from program directors, faculty, alumni, and "sample" the curriculum to find out "Why UMBC" is a fit for you.</h6>
 <br>
 
-<h6>Learn about UMBC Graduate Programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology, Systems Engineering, Technical Management.</h6>
+<h6>Learn about UMBC Graduate Programs in Biotechnology, Cybersecurity, Engineering Management, Instructional Systems Development, Health Information Technology and Systems Engineering.</h6>
 <br>
 
 
 <h4 style="font-weight:bold">Date:</h4>
-<h5>Wednesday, June 21, 6:00PM - 7:30PM</h5>
+<h5>Tuesday, April 26, 5:30-8:00PM</h5>
 <br>
 
 <h4 style="font-weight:bold">Location:</h4>
@@ -156,7 +156,6 @@ aside p, aside dl {
 <h4 style="font-weight:bold">Questions?</h4>
 <h5>If you have questions, please contact: 
 <a href="mailto:dps@umbc.edu">dps@umbc.edu</a></h5><br>
-<br>
 
 
 

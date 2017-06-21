@@ -167,7 +167,7 @@
 
 <br>
 
-<p>A comprehensive list of organizations published by SIOP can be found at <a href="www.siop.org/IOGroups.aspx" target="_blank">www.siop.org/IOGroups.aspx</a>.</p>
+<p>A comprehensive list of organizations published by SIOP can be found at <a href="http://www.siop.org/IOGroups.aspx" target="_blank">siop.org/IOGroups.aspx</a>.</p>
 
 <!-- END Content -->
  </div>

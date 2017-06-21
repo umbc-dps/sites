@@ -107,22 +107,6 @@
 <!-- description SHOULD BE USED FOR PHOTO CREDIT-->
 
 <div class="panel panel-1">
-<a href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">
-<div class="image mobile-right">
-<img src="images_homepage/student_group.png" width="1090" height="331" alt="Four"/></div>
-
-<div class="content-details right">
-<a class="mobile-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">&raquo;</a>
-<div class="title">Apply for Fall!</div><br>
-<div class="tagline">There's still time! Be sure to submit your Common Application to UMBC by our final deadline of June 1. Contact Chelsea Moyer at csmoyer@umbc.edu with any questions.</div>
-<a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Submit Now!</a>
-</div>
-</a>
-</div>
-
-
-
-<div class="panel panel-2">
 <a href="http://www.umbc.edu/shadygrove/visit/" target="_blank">
 <div class="image mobile-left"><img src="images/USG_campus16-2482.jpg" width="1000" height="500" alt="Three"/></div>
 <div class="content-details right">
@@ -136,17 +120,34 @@
 
 
 
-<div class="panel panel-3">
-<a href="http://umbc.edu/go/schedule/" target="_blank">
+<div class="panel panel-2">
+<a href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">
 <div class="image mobile-left">
-<img src="images/usg-registernow.jpg" width="1020" height="600" alt="Three"/></div>
+<img src="images_homepage/parking2.jpg" width="1020" height="600" alt="Three"/></div>
 
-<div class="content-details left">
-<a class="mobile-seemore" href="http://umbc.edu/go/schedule/" target="_blank">&raquo;</a>
-<div class="title">Register Now, Pay Later</div><br>
-<div class="tagline">Did you know you can register now for Fall 2017 and your bill won't come due until August? Pick the classes you want today! 
+<div class="content-details right">
+<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">&raquo;</a>
+<div class="title">Need Summer Parking?</div><br>
+<div class="tagline">Parking permits will be required for summer session. Please review your parking options here at USG. 
 </div>
-<a class="web-seemore" href="http://umbc.edu/go/schedule/" target="_blank">Register Here! &raquo;</a>
+<a class="web-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">Parking Website &raquo;</a>
+</div>
+</a>
+</div>
+
+
+<!-- Hide Carousels --
+<div class="panel panel-3">
+<a href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">
+<div class="image mobile-left">
+<img src="images_homepage/parking2.jpg" width="1020" height="600" alt="Three"/></div>
+
+<div class="content-details right">
+<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">&raquo;</a>
+<div class="title">Need Summer Parking?</div><br>
+<div class="tagline">Parking permits will be required for summer session. Please review your parking options here at USG. 
+</div>
+<a class="web-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">Parking Website &raquo;</a>
 </div>
 </a>
 </div>
@@ -154,7 +155,7 @@
 
 
 
-<!-- Hide Carousels --
+
 <div class="panel panel-1">
 <a href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">
 <div class="image mobile-left">
@@ -229,16 +230,16 @@
 <!-- WINDOW THUMBNAIL IS 128 x 35px -->
 
 <div class="playlist"><ul>
-<li class="item-1"><img src="images_homepage/student_group_sm.png" width="128" height="35" alt="Four"/></li>
+<li class="item-1"><img src="images/USG_campus16-2482.jpg" width="128" height="35" alt="Three"/></li>
 
 
-<li class="item-2"><img src="images/USG_campus16-2482.jpg" width="128" height="35" alt="Three"/></li>
-
-
-<li class="item-3"><img src="images/usg-registernow.jpg" width="128" height="35" alt="3"></li>
-
+<li class="item-2"><img src="images_homepage/parking2.jpg" width="128" height="35" alt="3"></li>
 
 <!-- Hide Preview Images --
+<li class="item-3"><img src="images_homepage/parking2.jpg" width="128" height="35" alt="3"></li>
+
+
+
 <li class="item-1"><img src="images/umbc-usg-mascot.jpg" width="128" height="35" alt="1"></li>
 
 
@@ -407,10 +408,13 @@
 
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
-<li><a href="visit/infosession" target="_blank">Thursday, May 18, 3:00 p.m.</a></li>
+<li><a href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">Thursday, June 15, 12:00PM</a></li>
 </ul>
-
-<!--
+<p class="date">Graduate Information Sessions</p>
+<ul>
+<li><a href="http://www.umbc.edu/shadygrove/visit/#grad" target="_blank">Thursday, June 15, 2017, 6-7:30 PM</a></li>
+</ul>
+  <!--
 <p class="date">Visit with Undergraduate Program Directors</p>
 <ul>
 <li><a href="visit/pd-politicalscience" target="_blank">Political Science - Wednesday, April 5, 12:00 p.m.</a></li>
@@ -425,9 +429,9 @@
 <li><a href="cyber/infosession" target="_blank">Cybersecurity Program Director Visit: October 25, 6 p.m.</a></li>
 </ul>
 --->
-<!-- INCLUDE FOR EVENTS -->
-
-<p class="last-child"><a href="visit" class="moreevent first-child last-child"><strong>More events &gt;&gt;&gt;</strong></a></p>
+  <!-- INCLUDE FOR EVENTS -->
+  
+  <p class="last-child"><a href="visit" class="moreevent first-child last-child"><strong>More events &gt;&gt;&gt;</strong></a></p>
 </div>
 
 <div class="news first-child"> 

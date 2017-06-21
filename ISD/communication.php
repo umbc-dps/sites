@@ -89,6 +89,7 @@
 </div>
 !------------------------->
 
+
 <!------- Accordion 2 ------
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
@@ -103,7 +104,168 @@
 </div>
 !------------------------->
 
-<!------- Accordion 3 ------>
+
+<!------- Accordion 3 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+
+
+<!------- Accordion 4 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+<!------- Accordion 5 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+
+<!------- Accordion 6 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+
+<!------- Accordion 7 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+
+
+<!------- Accordion 8 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+
+<!------- Accordion 9 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+
+<!------- Accordion 10 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+<!------- Accordion 11 ------
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    12/31 - Title
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p>Test test test test test.</p>
+</div>
+!------------------------->
+
+
+
+<!------- Accordion 12 ------>
+<div class="accordionheader">
+	<h4><a href="#12-31" id="12-31"></a>
+    
+    5/23/2017 - Summer Begins in 1 Week
+    
+    <i class="fa fa-angle-down"></i>
+    </h4>
+</div>
+<div class="accordionbody">
+    <p><strong>Spring 2017 Grades:</strong> Are not due until May 31st (<a href="http://registrar.umbc.edu/academic-calendar/grading-schedule/">http://registrar.umbc.edu/academic-calendar/grading-schedule/</a>).  Official grades may be viewed through your myUMBC account.</p>
+    <p><strong>Summer 2017 Begins in 1 Week!!!</strong><br>
+      If you want to take a  summer course be sure to obtain authorization and register through your myUMBC  account. The summer session begins on May 30, 2017, and if you wait to register  until that day, you will be charged a late registration fee.<br>
+      Non-Degree student  registration for summer 2017 begins today.</p>
+    <p><strong>Summer Blackboard:</strong> Most blackboard sections of summer course will  not be opened until the first day of the summer session (May 30th).</p>
+    <p><strong>Summer 2017 Graduation/Diploma Applications</strong>: The online diploma  application is open until June 15, 2017, for summer graduation/diploma  applications. If you are completing your plan of study in August 2017, you must  complete the online application and then the supplemental application. More  information and links may be found here, <a href="http://www.umbc.edu/isd/graduation">http://www.umbc.edu/isd/graduation</a>. </p>
+    <p><strong>Quick Links:</strong><br>
+      <strong>Summer Academic Calendar: </strong><a href="http://umbc.edu/summer/importantdates">http://umbc.edu/summer/importantdates</a> <br>
+      <strong>Summer Financial Calendar: </strong><a href="http://umbc.edu/summer/financialdates">http://umbc.edu/summer/financialdates</a><strong> </strong><br>
+      <strong>Summer Billing Information: </strong><a href="http://umbc.edu/summer/billing">http://umbc.edu/summer/billing</a><strong> </strong><br>
+      <strong>Summer Textbooks:</strong> <a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a> <strong></strong></p>
+</div>
+<!------- End Accordion 12 ------>
+
+<!------- Accordion 13 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -128,9 +290,9 @@
     <p><strong>Summer 2017 Textbooks:</strong> <a href="http://umbc.edu/isd/textbooks" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://umbc.edu/isd/textbooks&source=gmail&ust=1494006282558000&usg=AFQjCNHo9VK5Lq3Xyo1lox6dcnp2yxebtQ">http://<span id="m_7972448115006137841:5fi.199">umbc</span>.<span id="m_7972448115006137841:5fi.200">edu</span>/<span id="m_7972448115006137841:5fi.201">isd</span>/textbooks</a>    </p>
     <p><strong>Student Billing and Payments:</strong> Student Business Services (<span id="m_7972448115006137841:5fi.202">SBS</span>) office handles all billing and payments. Additional information may be found on their website, <a href="http://sbs.umbc.edu/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://sbs.umbc.edu/&source=gmail&ust=1494006282558000&usg=AFQjCNEvXsKHfvSAVB4DY0bGv_JRf9U3JQ">http://<span id="m_7972448115006137841:5fi.203">sbs</span>.<span id="m_7972448115006137841:5fi.204">umbc</span>.<span id="m_7972448115006137841:5fi.205">edu</span>/</a>.</p>
 </div>
+<!------- End Accordion 13 ------>
 
-
-<!------- Accordion 4 ------>
+<!------- Accordion 14 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -157,9 +319,9 @@
     <p><strong>Fall Enrollment Applications:</strong> If you are a current certificate  student interested in applying for the Master&rsquo;s program, please contact me. The  priority deadline is June 1st.</p>
     <p><strong>Remind:</strong> Do you want deadline reminders sent to your phone? Starting  in 2014 the ISD program started using Remind (formally Remind 101) as a way to  send text message reminders to students. A student must sign themselves up  (<a href="http://www.umbc.edu/isd/welcome">http://www.umbc.edu/isd/welcome</a>). Messages you may receive are when the last day to  register/withdraw, when the online graduation application opens, or if a new  section of a course is added.</p>
 </div>
+<!------- End Accordion 14 ------>
 
-
-<!------- Accordion 5 ------>
+<!------- Accordion 15 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -198,10 +360,10 @@
     </p>
     <p>Textbooks are currently only posted for summer courses.</p>
 </div>
+<!------- End Accordion 15 ------>
 
 
-
-<!------- Accordion 6 ------>
+<!------- Accordion 16 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -216,10 +378,10 @@
     <p>·        Authorization: Your authorization has not been entered to date. Please give enough time, after Dr. Hodell&rsquo;s approval for everything to be entered. </p>
     <p>·        Advising: You did not complete the advising process. An advising form must be sent every semester for course approval.</p>
 </div>
+<!------- End Accordion 16 ------>
 
 
-
-<!------- Accordion 7 ------>
+<!------- Accordion 17 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -252,10 +414,10 @@
     <p>Students interested  in EDUC 792T and EDUC 794 should contact Dr. Williams directly at <a href="mailto:gregw@umbc.edu">gregw@umbc.edu</a> prior to requesting authorization to discuss their internship or  final project. You must include in your email to Dr. Hodell that you have  spoken to Dr. Williams before Dr. Hodell will approve. </p>
     <p><strong>Note on fall authorizations: Fall  2017 authorization requests will not be accepted until after the schedule is  posted (around March 27th). Do not request a fall course until that  time.</strong></p>
 </div>
+<!------- End Accordion 17 ------>
 
 
-
-<!------- Accordion 8 ------>
+<!------- Accordion 18 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -271,11 +433,11 @@
     <p>Contact your instructor immediately if you encounter difficulties within your course.    </p>
     <p>Our program is committed to your success. Please let us know if you have any questions.</p>
 </div>
+<!------- End Accordion 18 ------>
 
 
 
-
-<!------- Start Accordion 9 ------>
+<!------- Start Accordion 19 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -297,11 +459,11 @@
     <p>If you encounter difficulties within your course you  should contact your instructor immediately. Do not wait until it is too late.</p>
     <p>If you missed an ISD current student email check our  website: <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a></p>
 </div>
-<!------- End Accordion 9 ------>
+<!------- End Accordion 19 ------>
 
 
 
-<!------- Start Accordion 10 ------>
+<!------- Start Accordion 20 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -330,11 +492,11 @@
       <strong>Student Business Services (Billing): </strong><a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a><strong> </strong><br>
       <strong>Spring 2017 Financial Date: </strong><a href="http://sbs.umbc.edu/spring-2017-dropwithdrawal/">http://sbs.umbc.edu/spring-2017-dropwithdrawal/</a></p>
 </div>
-<!------- End Accordion 10 ------>
+<!------- End Accordion 20 ------>
 
 
 
-<!------- Start Accordion 11 ------>
+<!------- Start Accordion 21 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -354,11 +516,11 @@
       <strong>Spring 2017 ISD Textbooks:</strong>&nbsp;<a href="http://umbc.edu/isd/textbooks">http://umbc.edu/isd/textbooks</a><br>
       <strong>Student Communication Page:</strong> <a href="http://www.umbc.edu/isd/communication">http://www.umbc.edu/isd/communication</a> (for past ISD Current Student Emails)</p>
 Have a safe and happy winter break.</div>
-<!------- End Accordion 11 ------>
+<!------- End Accordion 21 ------>
 
 
 
-<!------- Start Accordion 12 ------>
+<!------- Start Accordion 22 ------>
 <div class="accordionheader">
 	<h4><a href="#12-31" id="12-31"></a>
     
@@ -382,7 +544,7 @@ Have a safe and happy winter break.</div>
     <p><strong>Student Business Services Office</strong> handles all e-billing and  payments, in addition to the payment plan (you have until December 19th  to enroll in the 4 installment payment plan). Visit their website to review  their information: <a href="http://sbs.umbc.edu/">http://sbs.umbc.edu/</a>.</p>
     <p><strong>New Student Welcome Page</strong> has helpful information for new students, <a href="http://umbc.edu/isd/welcome">http://umbc.edu/isd/welcome</a>. Be sure to  complete the Academic Tutorial for spring 2017 when it becomes available.</p>
 </div>
-<!------- End Accordion 12 ------>
+<!------- End Accordion 22 ------>
 
 
 

@@ -68,7 +68,7 @@
           <img src="images/10.jpg" alt="UMBC Winter Dining" target="_blank">
             <div class="carousel-caption wordwrap">
               <h3>Winter Session 2018</h3>
-              <small>January 2 - 26, 2018. Registration Opens October 22, 2017.</small>
+              <small>January 2 - 26, 2018.</small>
              
             </div>
             <p id="captiontwo"><a href="#">Winter Session 2018: Jan 2 - 26</a></p>
@@ -107,12 +107,11 @@
         <br>
         <h3><strong>Winter Session 2018</strong></h3>
         <h4>January 2 - 26</h4>
-        <p>Winter 2018 schedule of classes will go live <strong>September 17, 2017</strong>.</p>
+        <p>Winter 2018 schedule of classes will go live <strong>September 18, 2017</strong>.</p>
         
-        <p>Registration begins <strong>October 22, 2017</strong>.</p>
+        <p>Registration opens <strong>October 23, 2017</strong>.</p>
         
         <p>Visiting students from other colleges and universities must first apply and be admitted to UMBC before registering for winter courses.  The visiting student winter 2018 application will go live <strong>October 2, 2017</strong>.</p>
-
       </dl>
     </div>
       

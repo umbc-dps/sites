@@ -6440,8 +6440,8 @@
      <td class="classNumber">133</td>
      <td class="course-title">Walking/Jogging</td>
     <td class="number"><a href="" class="course-link">2040</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6464,8 +6464,8 @@
      <td class="classNumber">137</td>
      <td class="course-title">Tennis</td>
     <td class="number"><a href="" class="course-link">1100</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6488,8 +6488,8 @@
      <td class="classNumber">137</td>
      <td class="course-title">Tennis</td>
     <td class="number"><a href="" class="course-link">1101</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6512,8 +6512,8 @@
      <td class="classNumber">154</td>
      <td class="course-title">Bowling</td>
     <td class="number"><a href="" class="course-link">2024</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6536,8 +6536,8 @@
      <td class="classNumber">154</td>
      <td class="course-title">Bowling</td>
     <td class="number"><a href="" class="course-link">2025</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6560,8 +6560,8 @@
      <td class="classNumber">154</td>
      <td class="course-title">Bowling</td>
     <td class="number"><a href="" class="course-link">2319</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6584,8 +6584,8 @@
      <td class="classNumber">155</td>
      <td class="course-title">Yoga</td>
     <td class="number"><a href="" class="course-link">1103</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6608,8 +6608,8 @@
      <td class="classNumber">155</td>
      <td class="course-title">Yoga</td>
     <td class="number"><a href="" class="course-link">1179</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6632,8 +6632,8 @@
      <td class="classNumber">155</td>
      <td class="course-title">Yoga</td>
     <td class="number"><a href="" class="course-link">1888</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6656,8 +6656,8 @@
      <td class="classNumber">156</td>
      <td class="course-title">Billiards/Table Tennis</td>
     <td class="number"><a href="" class="course-link">1104</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6680,8 +6680,8 @@
      <td class="classNumber">156</td>
      <td class="course-title">Billiards/Table Tennis</td>
     <td class="number"><a href="" class="course-link">1106</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6704,8 +6704,8 @@
      <td class="classNumber">156</td>
      <td class="course-title">Billiards/Table Tennis</td>
     <td class="number"><a href="" class="course-link">1105</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6728,8 +6728,8 @@
      <td class="classNumber">156</td>
      <td class="course-title">Billiards/Table Tennis</td>
     <td class="number"><a href="" class="course-link">1107</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6752,8 +6752,8 @@
      <td class="classNumber">156</td>
      <td class="course-title">Billiards/Table Tennis</td>
     <td class="number"><a href="" class="course-link">1108</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6776,8 +6776,8 @@
      <td class="classNumber">190</td>
      <td class="course-title">CPR, AED &amp; First Aid Cer</td>
     <td class="number"><a href="" class="course-link">1109</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6800,8 +6800,8 @@
      <td class="classNumber">190</td>
      <td class="course-title">CPR, AED &amp; First Aid Cer</td>
     <td class="number"><a href="" class="course-link">2320</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6824,8 +6824,8 @@
      <td class="classNumber">191</td>
      <td class="course-title">T'ai Chi Chih (®)</td>
     <td class="number"><a href="" class="course-link">1489</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6848,8 +6848,8 @@
      <td class="classNumber">191</td>
      <td class="course-title">T'ai Chi Chih (®)</td>
     <td class="number"><a href="" class="course-link">1490</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -6872,8 +6872,8 @@
      <td class="classNumber">100</td>
      <td class="course-title">Intro To Philosophy</td>
     <td class="number"><a href="" class="course-link">1070</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -6896,8 +6896,8 @@
      <td class="classNumber">146</td>
      <td class="course-title">Critical Thinking</td>
     <td class="number"><a href="" class="course-link">2500</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -6920,8 +6920,8 @@
      <td class="classNumber">150</td>
      <td class="course-title">Contemporary Moral Iss</td>
     <td class="number"><a href="" class="course-link">1173</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -6944,8 +6944,8 @@
      <td class="classNumber">152</td>
      <td class="course-title">Intro To Moral Theory</td>
     <td class="number"><a href="" class="course-link">1071</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -6968,8 +6968,8 @@
      <td class="classNumber">248</td>
      <td class="course-title">Intro Scientif Reasoning</td>
     <td class="number"><a href="" class="course-link">1174</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -6992,8 +6992,8 @@
      <td class="classNumber">251</td>
      <td class="course-title">Ethical Issues in Sci &amp; Engnrg</td>
     <td class="number"><a href="" class="course-link">1072</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7016,8 +7016,8 @@
      <td class="classNumber">346</td>
      <td class="course-title">Deductive Systems</td>
     <td class="number"><a href="" class="course-link">1469</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7040,8 +7040,8 @@
      <td class="classNumber">358</td>
      <td class="course-title">Bioethics</td>
     <td class="number"><a href="" class="course-link">1477</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7064,8 +7064,8 @@
      <td class="classNumber">105</td>
      <td class="course-title">Ideas In Astronomy</td>
     <td class="number"><a href="" class="course-link">2609</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Science    (S)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7088,8 +7088,8 @@
      <td class="classNumber">111</td>
      <td class="course-title">Basic Physics I</td>
     <td class="number"><a href="" class="course-link">1056</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Science    (S) with LAB</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7112,8 +7112,8 @@
      <td class="classNumber">112</td>
      <td class="course-title">Basic Physics II</td>
     <td class="number"><a href="" class="course-link">1059</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Science    (S) with LAB</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7136,8 +7136,8 @@
      <td class="classNumber">112</td>
      <td class="course-title">Basic Physics II</td>
     <td class="number"><a href="" class="course-link">2316</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Science    (S) with LAB</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7160,8 +7160,8 @@
      <td class="classNumber">121</td>
      <td class="course-title">Introductory Physics I</td>
     <td class="number"><a href="" class="course-link">1423</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Science    (S)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7184,8 +7184,8 @@
      <td class="classNumber">122</td>
      <td class="course-title">Introductory Physics II</td>
     <td class="number"><a href="" class="course-link">1055</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Science    (S)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7208,8 +7208,8 @@
      <td class="classNumber">122L</td>
      <td class="course-title">Introductory Physics Lab</td>
     <td class="number"><a href="" class="course-link">2170</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>LAB</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7232,7 +7232,7 @@
      <td class="classNumber">650</td>
      <td class="course-title">Special Topics</td>
     <td class="number"><a href="" class="course-link">2001</a></td>
-    <td>12    Weeks</td>
+    <td>12 Weeks</td>
     <td>12    Week Course</td>
     <td></td>
     <td></td>
@@ -7256,8 +7256,8 @@
      <td class="classNumber">100</td>
      <td class="course-title">Amer Govt &amp; Politics</td>
     <td class="number"><a href="" class="course-link">2460</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7280,8 +7280,8 @@
      <td class="classNumber">200</td>
      <td class="course-title">Intro To Poli Sci</td>
     <td class="number"><a href="" class="course-link">2607</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Off    Campus </td>
@@ -7304,8 +7304,8 @@
      <td class="classNumber">230</td>
      <td class="course-title">Intro Constitutional Law</td>
     <td class="number"><a href="" class="course-link">1875</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -7328,8 +7328,8 @@
      <td class="classNumber">260</td>
      <td class="course-title">Comparative Politics</td>
     <td class="number"><a href="" class="course-link">2664</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -7352,8 +7352,8 @@
      <td class="classNumber">270</td>
      <td class="course-title">Culture and Politics</td>
     <td class="number"><a href="" class="course-link">1893</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td>Culture    (C)</td>
     <td>Social Science (SS)</td>
     <td>Off    Campus </td>
@@ -7376,8 +7376,8 @@
      <td class="classNumber">280</td>
      <td class="course-title">International Relations</td>
     <td class="number"><a href="" class="course-link">2606</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7400,8 +7400,8 @@
      <td class="classNumber">371</td>
      <td class="course-title">Comp Asian Politics</td>
     <td class="number"><a href="" class="course-link">2618</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -7424,8 +7424,8 @@
      <td class="classNumber">390</td>
      <td class="course-title">American Foreign Policy</td>
     <td class="number"><a href="" class="course-link">2459</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7448,8 +7448,8 @@
      <td class="classNumber">409</td>
      <td class="course-title">Selected Topics Poli Sci : Legal Advocacy 2: Moot Court</td>
     <td class="number"><a href="" class="course-link">2619</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7472,8 +7472,8 @@
      <td class="classNumber">437</td>
      <td class="course-title">International Human Rights Law</td>
     <td class="number"><a href="" class="course-link">2617</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -7496,8 +7496,8 @@
      <td class="classNumber">469</td>
      <td class="course-title">Topics In Comp Politics : European Public Opinion</td>
     <td class="number"><a href="" class="course-link">2505</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -7520,8 +7520,8 @@
      <td class="classNumber">469</td>
      <td class="course-title">Topics In Comp Politics : Italian Politics</td>
     <td class="number"><a href="" class="course-link">2680</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -7544,8 +7544,8 @@
      <td class="classNumber">100</td>
      <td class="course-title">Intro To Psychology</td>
     <td class="number"><a href="" class="course-link">1572</a></td>
-    <td>8    Weeks</td>
-    <td>Session    1</td>
+    <td>8 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7568,8 +7568,8 @@
      <td class="classNumber">200</td>
      <td class="course-title">Child Developmental Psyc</td>
     <td class="number"><a href="" class="course-link">2628</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Off    Campus </td>
@@ -7592,8 +7592,8 @@
      <td class="classNumber">210</td>
      <td class="course-title">Psychology Of Learning</td>
     <td class="number"><a href="" class="course-link">2627</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7616,8 +7616,8 @@
      <td class="classNumber">211</td>
      <td class="course-title">Science, Profession of Psych</td>
     <td class="number"><a href="" class="course-link">2342</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7640,8 +7640,8 @@
      <td class="classNumber">211</td>
      <td class="course-title">Science, Profession of Psych</td>
     <td class="number"><a href="" class="course-link">2462</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7664,8 +7664,8 @@
      <td class="classNumber">230</td>
      <td class="course-title">Psychology And Culture</td>
     <td class="number"><a href="" class="course-link">2208</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Culture    (C)</td>
     <td>Social Science (SS)</td>
     <td>Main    Campus</td>
@@ -7688,8 +7688,8 @@
      <td class="classNumber">285</td>
      <td class="course-title">Abnormal Psychology</td>
     <td class="number"><a href="" class="course-link">2327</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7712,8 +7712,8 @@
      <td class="classNumber">311</td>
      <td class="course-title">Research Methods in Psych I</td>
     <td class="number"><a href="" class="course-link">2464</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7736,8 +7736,8 @@
      <td class="classNumber">311</td>
      <td class="course-title">Research Methods in Psych I</td>
     <td class="number"><a href="" class="course-link">2465</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7760,8 +7760,8 @@
      <td class="classNumber">317</td>
      <td class="course-title">Cognitive Psychology</td>
     <td class="number"><a href="" class="course-link">2630</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Shady    Grove</td>
@@ -7784,8 +7784,8 @@
      <td class="classNumber">317</td>
      <td class="course-title">Cognitive Psychology</td>
     <td class="number"><a href="" class="course-link">2631</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7808,8 +7808,8 @@
      <td class="classNumber">330</td>
      <td class="course-title">Child Devel And Culture</td>
     <td class="number"><a href="" class="course-link">2633</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -7832,8 +7832,8 @@
      <td class="classNumber">335</td>
      <td class="course-title">Physiological Psychology</td>
     <td class="number"><a href="" class="course-link">2466</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -7856,8 +7856,8 @@
      <td class="classNumber">340</td>
      <td class="course-title">Social Psychology</td>
     <td class="number"><a href="" class="course-link">2467</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7880,8 +7880,8 @@
      <td class="classNumber">342</td>
      <td class="course-title">Psych Of Aggression</td>
     <td class="number"><a href="" class="course-link">2468</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7904,8 +7904,8 @@
      <td class="classNumber">345</td>
      <td class="course-title">Intro Clinical Psych</td>
     <td class="number"><a href="" class="course-link">2632</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -7928,8 +7928,8 @@
      <td class="classNumber">346</td>
      <td class="course-title">Industrial Psychology</td>
     <td class="number"><a href="" class="course-link">1480</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Shady    Grove</td>
@@ -7952,8 +7952,8 @@
      <td class="classNumber">360</td>
      <td class="course-title">Psychology Of Motivation</td>
     <td class="number"><a href="" class="course-link">2201</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Shady    Grove</td>
@@ -7976,8 +7976,8 @@
      <td class="classNumber">370</td>
      <td class="course-title">Sensation And Perception</td>
     <td class="number"><a href="" class="course-link">2634</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8000,8 +8000,8 @@
      <td class="classNumber">375</td>
      <td class="course-title">Neuroanatomy</td>
     <td class="number"><a href="" class="course-link">1015</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8024,8 +8024,8 @@
      <td class="classNumber">385</td>
      <td class="course-title">Health Psychology</td>
     <td class="number"><a href="" class="course-link">2657</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8048,8 +8048,8 @@
      <td class="classNumber">390</td>
      <td class="course-title">Neuropsychopharmacology</td>
     <td class="number"><a href="" class="course-link">2659</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Shady    Grove</td>
@@ -8072,8 +8072,8 @@
      <td class="classNumber">407</td>
      <td class="course-title">Adv Child Psychology</td>
     <td class="number"><a href="" class="course-link">2473</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Writing    Intensive (WI)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8097,8 +8097,8 @@
      <td class="classNumber">409</td>
      <td class="course-title">Development And Educatn</td>
     <td class="number"><a href="" class="course-link">2470</a></td>
-    <td>8    Weeks</td>
-    <td>Session    1</td>
+    <td>8 Weeks</td>
+    <td>Session 1</td>
     <td>Writing    Intensive (WI)</td>
     <td></td>
     <td>Shady    Grove</td>
@@ -8122,8 +8122,8 @@
      <td class="classNumber">601</td>
      <td class="course-title">Special Topics In Psych : Job Analysis</td>
     <td class="number"><a href="" class="course-link">2212</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Shady    Grove</td>
@@ -8146,8 +8146,8 @@
      <td class="classNumber">601</td>
      <td class="course-title">Special Topics In Psych : Adv Sem in Change Mngmnt.</td>
     <td class="number"><a href="" class="course-link">2213</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Shady    Grove</td>
@@ -8170,8 +8170,8 @@
      <td class="classNumber">210</td>
      <td class="course-title">Classical Mythology</td>
     <td class="number"><a href="" class="course-link">2196</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Arts    and Humanities (AH)</td>
     <td>Culture    (C)</td>
     <td>Main    Campus</td>
@@ -8194,8 +8194,8 @@
      <td class="classNumber">210</td>
      <td class="course-title">Classical Mythology</td>
     <td class="number"><a href="" class="course-link">1146</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Arts    and Humanities (AH)</td>
     <td>Culture    (C)</td>
     <td>Main    Campus</td>
@@ -8218,8 +8218,8 @@
      <td class="classNumber">201</td>
      <td class="course-title">Basic Russian III</td>
     <td class="number"><a href="" class="course-link">2677</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>201    Language (L)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8242,8 +8242,8 @@
      <td class="classNumber">100</td>
      <td class="course-title">Water; Interdis Study</td>
     <td class="number"><a href="" class="course-link">1049</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Science    (S) with LAB</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8266,8 +8266,8 @@
      <td class="classNumber">100</td>
      <td class="course-title">Water; Interdis Study</td>
     <td class="number"><a href="" class="course-link">2564</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Science    (S) with LAB</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8290,8 +8290,8 @@
      <td class="classNumber">100</td>
      <td class="course-title">Water; Interdis Study</td>
     <td class="number"><a href="" class="course-link">2376</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td>Science    (S) with LAB</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8314,8 +8314,8 @@
      <td class="classNumber">100</td>
      <td class="course-title">Water; Interdis Study</td>
     <td class="number"><a href="" class="course-link">2377</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td>Science    (S) with LAB</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8338,8 +8338,8 @@
      <td class="classNumber">101</td>
      <td class="course-title">Basic Concepts In Socy</td>
     <td class="number"><a href="" class="course-link">2003</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Off    Campus </td>
@@ -8362,8 +8362,8 @@
      <td class="classNumber">201</td>
      <td class="course-title">Social Prob:Amer Society</td>
     <td class="number"><a href="" class="course-link">1066</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Off    Campus </td>
@@ -8386,8 +8386,8 @@
      <td class="classNumber">204</td>
      <td class="course-title">Diversity &amp; Pluralism</td>
     <td class="number"><a href="" class="course-link">2637</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Culture    (C)</td>
     <td>Social Science (SS)</td>
     <td>Main    Campus</td>
@@ -8410,8 +8410,8 @@
      <td class="classNumber">300</td>
      <td class="course-title">Methodology:Social Rsrch</td>
     <td class="number"><a href="" class="course-link">2638</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8434,8 +8434,8 @@
      <td class="classNumber">321</td>
      <td class="course-title">Race &amp; Ethnic Relations</td>
     <td class="number"><a href="" class="course-link">2014</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8458,8 +8458,8 @@
      <td class="classNumber">351</td>
      <td class="course-title">Medical Sociology</td>
     <td class="number"><a href="" class="course-link">2498</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -8482,8 +8482,8 @@
      <td class="classNumber">353</td>
      <td class="course-title">Marriage And The Family</td>
     <td class="number"><a href="" class="course-link">1005</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Off    Campus </td>
@@ -8506,8 +8506,8 @@
      <td class="classNumber">355</td>
      <td class="course-title">The Sociology Of Women</td>
     <td class="number"><a href="" class="course-link">1022</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Social Science (SS)</td>
     <td></td>
     <td>Off    Campus </td>
@@ -8530,8 +8530,8 @@
      <td class="classNumber">371</td>
      <td class="course-title">Criminology And Penology</td>
     <td class="number"><a href="" class="course-link">1465</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -8554,8 +8554,8 @@
      <td class="classNumber">397</td>
      <td class="course-title">Selected Topics In SOCY : Sociology of the Death Penalty</td>
     <td class="number"><a href="" class="course-link">2180</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Off    Campus </td>
@@ -8578,8 +8578,8 @@
      <td class="classNumber">606</td>
      <td class="course-title">Soc Inequality/Soc Polcy</td>
     <td class="number"><a href="" class="course-link">1006</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8602,8 +8602,8 @@
      <td class="classNumber">698</td>
      <td class="course-title">Adv Sel Top In Sociology : Health and Human Rights</td>
     <td class="number"><a href="" class="course-link">2641</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8626,8 +8626,8 @@
      <td class="classNumber">369</td>
      <td class="course-title">Culture and Aging in Soc Work</td>
     <td class="number"><a href="" class="course-link">2511</a></td>
-    <td>4    Weeks</td>
-    <td>Session    1</td>
+    <td>4 Weeks</td>
+    <td>Session 1</td>
     <td>Culture    (C)</td>
     <td>Social Science (SS)</td>
     <td>Main    Campus</td>
@@ -8650,8 +8650,8 @@
      <td class="classNumber">374</td>
      <td class="course-title">SOWK w/ Immigrants &amp; Refugees</td>
     <td class="number"><a href="" class="course-link">2152</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td>Culture    (C)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8674,8 +8674,8 @@
      <td class="classNumber">386</td>
      <td class="course-title">Social Work Practice c/ Famili</td>
     <td class="number"><a href="" class="course-link">2144</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Shady    Grove</td>
@@ -8698,8 +8698,8 @@
      <td class="classNumber">101</td>
      <td class="course-title">Elementary Spanish I</td>
     <td class="number"><a href="" class="course-link">1008</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8722,8 +8722,8 @@
      <td class="classNumber">101</td>
      <td class="course-title">Elementary Spanish I</td>
     <td class="number"><a href="" class="course-link">2005</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8746,8 +8746,8 @@
      <td class="classNumber">102</td>
      <td class="course-title">Elementary Spanish II</td>
     <td class="number"><a href="" class="course-link">1009</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8770,8 +8770,8 @@
      <td class="classNumber">102</td>
      <td class="course-title">Elementary Spanish II</td>
     <td class="number"><a href="" class="course-link">1012</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8794,8 +8794,8 @@
      <td class="classNumber">102</td>
      <td class="course-title">Elementary Spanish II</td>
     <td class="number"><a href="" class="course-link">1999</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8818,8 +8818,8 @@
      <td class="classNumber">103</td>
      <td class="course-title">Int Rev Elem Spanish</td>
     <td class="number"><a href="" class="course-link">1573</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8842,8 +8842,8 @@
      <td class="classNumber">201</td>
      <td class="course-title">Intermediate Spanish I</td>
     <td class="number"><a href="" class="course-link">1010</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>201    Language (L)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8866,8 +8866,8 @@
      <td class="classNumber">201</td>
      <td class="course-title">Intermediate Spanish I</td>
     <td class="number"><a href="" class="course-link">1013</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>201    Language (L)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8890,8 +8890,8 @@
      <td class="classNumber">201</td>
      <td class="course-title">Intermediate Spanish I</td>
     <td class="number"><a href="" class="course-link">1011</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>201    Language (L)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8914,8 +8914,8 @@
      <td class="classNumber">201</td>
      <td class="course-title">Intermediate Spanish I</td>
     <td class="number"><a href="" class="course-link">1014</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>201    Language (L)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -8938,8 +8938,8 @@
      <td class="classNumber">319</td>
      <td class="course-title">Spanish Translation</td>
     <td class="number"><a href="" class="course-link">2004</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8962,8 +8962,8 @@
      <td class="classNumber">100</td>
      <td class="course-title">Public Communication</td>
     <td class="number"><a href="" class="course-link">2655</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -8986,8 +8986,8 @@
      <td class="classNumber">121</td>
      <td class="course-title">Intro Statistics:Soc Sci</td>
     <td class="number"><a href="" class="course-link">1152</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Math    (M)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -9010,8 +9010,8 @@
      <td class="classNumber">121</td>
      <td class="course-title">Intro Statistics:Soc Sci</td>
     <td class="number"><a href="" class="course-link">1902</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Math    (M)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -9034,8 +9034,8 @@
      <td class="classNumber">350</td>
      <td class="course-title">Stat W/App In Biol Sci</td>
     <td class="number"><a href="" class="course-link">1138</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Math    (M)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -9055,35 +9055,11 @@
   </tr>
   <tr>
      <td class="subject">STAT</td>
-     <td class="classNumber">350</td>
-     <td class="course-title">Stat W/App In Biol Sci</td>
-    <td class="number"><a href="" class="course-link">1889</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
-    <td>Math    (M)</td>
-    <td></td>
-    <td>Main    Campus</td>
-    <td>In Person</td>
-    <td>MTuTh</td>
-    <td>6:00 PM</td>
-    <td>8:05    PM</td>
-    <td>Evening</td>
-    <td>Feng,    Zhou</td>
-    <td>STAT 350</td>
-    <td>You must have    completed one of the following with a grade of 'C' or better MATH 150 or    MATH151 or  MATH152 or MATH155 or    MATH225 or MATH251 or have placed into MATH 151 through the LRC Math exam.</td>
-    <td>Has Prerequisite</td>
-    <td></td>
-    <td>STEM</td>
-    <td>*STAT</td>
-<td class="syllabus"><a href="" class="syllabus-link"></a></td>
-  </tr>
-  <tr>
-     <td class="subject">STAT</td>
      <td class="classNumber">351</td>
      <td class="course-title">Applied Stat/Bus &amp; Econ</td>
     <td class="number"><a href="" class="course-link">1140</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Math    (M)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -9106,8 +9082,8 @@
      <td class="classNumber">351</td>
      <td class="course-title">Applied Stat/Bus &amp; Econ</td>
     <td class="number"><a href="" class="course-link">1574</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td>Math    (M)</td>
     <td></td>
     <td>Main    Campus</td>
@@ -9130,8 +9106,8 @@
      <td class="classNumber">355</td>
      <td class="course-title">Prob &amp; Stat for Sci and Eng</td>
     <td class="number"><a href="" class="course-link">1142</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -9154,8 +9130,8 @@
      <td class="classNumber">355</td>
      <td class="course-title">Prob &amp; Stat for Sci and Eng</td>
     <td class="number"><a href="" class="course-link">2017</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -9178,8 +9154,8 @@
      <td class="classNumber">432</td>
      <td class="course-title">Stat Comp Packages: SAS and R</td>
     <td class="number"><a href="" class="course-link">1127</a></td>
-    <td>4    Weeks</td>
-    <td>Session    2</td>
+    <td>4 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -9197,13 +9173,14 @@
     <td>*STAT</td>
 <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
-  <tr>
+ 
+   <tr>
      <td class="subject">STAT</td>
      <td class="classNumber">451</td>
      <td class="course-title">Intro Probability Theory</td>
     <td class="number"><a href="" class="course-link">1352</a></td>
-    <td>6    Weeks</td>
-    <td>Session    2</td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
     <td></td>
     <td></td>
     <td>Main    Campus</td>
@@ -9221,13 +9198,39 @@
     <td>*STAT</td>
 <td class="syllabus"><a href="" class="syllabus-link"></a></td>
   </tr>
+  
+  <tr>
+     <td class="subject">STAT</td>
+     <td class="classNumber">454</td>
+     <td class="course-title">Applied Statistics</td>
+    <td class="number"><a href="" class="course-link">2497</a></td>
+    <td>6 Weeks</td>
+    <td>Session 2</td>
+    <td></td>
+    <td></td>
+    <td>Main Campus</td>
+    <td>In Person</td>
+    <td>MWTh</td>
+    <td>6:00 PM</td>
+    <td>8:05 PM</td>
+    <td>Evening</td>
+    <td>Wang, Yan</td>
+    <td>STAT 454</td>
+    <td>You must have completed STAT 350 or STAT 351 or STAT 355 or STAT 453 with a grade of C or better.</td>
+    <td>Has Prerequisite</td>
+    <td></td>
+    <td>STEM</td>
+    <td>*STAT</td>
+<td class="syllabus"><a href="" class="syllabus-link"></a></td>
+  </tr>
+  
   <tr>
      <td class="subject">THTR</td>
      <td class="classNumber">110</td>
      <td class="course-title">Introduction To Acting</td>
     <td class="number"><a href="" class="course-link">2660</a></td>
-    <td>6    Weeks</td>
-    <td>Session    1</td>
+    <td>6 Weeks</td>
+    <td>Session 1</td>
     <td>Arts    and Humanities (AH)</td>
     <td></td>
     <td>Main    Campus</td>

@@ -166,7 +166,7 @@ background-attachment:fixed;
     <li>College Algebra or  Statistics</li>
     <li>2 Science courses (at  least one must have a lab component)</li>
     <li>2 Physical Education  courses (consult advisor about exceptions)</li>
-    <li>World Language  201-Level (consult advisor about exceptions)</li>
+    <li>World Language Intermediate-Level (consult advisor about exceptions)</li>
   </ul>
   <p><strong>Questions about the Political  Science Program? Please contact Dr. Sunil  Dasgupta, Program Director, at <a href="mailto:sunildasgupta@umbc.edu">sunildasgupta@umbc.edu</a> or 301-738-6313. Watch the short video below to meet Dr. Dasgupta.</strong></p>
 

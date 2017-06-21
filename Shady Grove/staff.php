@@ -108,7 +108,7 @@ td p{width:100%}
             <img src="images/faculty/RickeyshaJones.jpg" align="left" style="padding-right: 15px"/>
             <p><strong>Program Coordinator (Graduate)</strong><br>
               <a href="mailto:rcjones@umbc.edu">rcjones@umbc.edu</a> | 301-738-6285<br>
-              <strong>Office:</strong> III-4121</p>
+              <strong>Office:</strong> III-4155</p>
             <p>Rickeysha is your primary resource for:<br>
             <ul style="margin-left:210px">
               <li>Graduate Student Services</li>
@@ -125,7 +125,7 @@ td p{width:100%}
             <p>
             	<strong> Assistant Director of Undergraduate Recruitment and Retention</strong><br>
                 <a href="mailto:csmoyer@umbc.edu"> csmoyer@umbc.edu</a> | 301-738-6184<br>
-				<strong>Office:</strong> III-4157</strong>
+				<strong>Office:</strong> III-4121
             </p>
             <p>Chelsea is your primary resource for:<br>
             <ul style="margin-left:210px">

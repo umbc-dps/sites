@@ -133,7 +133,7 @@ html::after {
           </div>
 
           <div class="accordionbody">
-  <p>The Psychology Student Association (PSA) at USG is a student organization which includes both Psychology majors as well as students with interests in the psychological field. Throughout the semester we engage in various service and social events as well as study groups and speaking engagements. In the past, we have worked with the Boys &amp; Girls Club of America, For 3 Sisters as well as various community and charity events. To learn more contact Ana Kapneck at <a href="mailto:akap1@umbc.edu" target="_blank">akap1@umbc.edu</a>, Pedro Branco <a href="mailto:bpedro1@umbc.edu" target="_blank">bpedro1@umbc.edu</a> or <a href="mailto:sgpsa-group@umbc.edu" target="_blank">sgpsa-group@umbc.edu</a>.</p>
+  <p>The Psychology Student Association (PSA) at USG is a student organization which includes both Psychology majors as well as students with interests in the psychological field. Throughout the semester we engage in various service and social events as well as study groups and speaking engagements. In the past, we have worked with the Boys &amp; Girls Club of America, For 3 Sisters as well as various community and charity events. To learn more contact <a href="mailto:sgpsa-group@umbc.edu" target="_blank">sgpsa-group@umbc.edu</a>.</p>
 </div>
   
    <div class="accordionheader">
@@ -149,7 +149,7 @@ html::after {
           </div>
 
           <div class="accordionbody">  
-  <p><strong><a href="http://my.umbc.edu/groups/tausigma" target="_blank">Tau Sigma</a></strong> is a National Honor Society aiming to recognize the academic achievement of students transferring to UMBC from another academic institution and to encourage and promote the students' involvement at UMBC. To join, a student must transfer with a 3.5 GPA or in top 20% of incoming class  and with at least 30 credits and be a full-time student while maintaining a 3.3 GPA at UMBC. Members must attend 2 general meetings and participate in 2 events per semester prior to an informal interview and induction. Why join? Students will gain recognition for academic achievement and leadership experience. Get support through the transition to UMBC so you can continue to succeed! To learn more, contact Beth Cocker at <a href="mailto:ecocker1@umbc.edu">ecocker1@umbc.edu</a>.</p>
+  <p><strong><a href="http://my.umbc.edu/groups/tausigma" target="_blank">Tau Sigma</a></strong> is a National Honor Society aiming to recognize the academic achievement of students transferring to UMBC from another academic institution and to encourage and promote the students' involvement at UMBC. To join, a student must transfer with a 3.5 GPA or in top 20% of incoming class  and with at least 30 credits and be a full-time student while maintaining a 3.3 GPA at UMBC. Members must attend 2 general meetings and participate in 2 events per semester prior to an informal interview and induction. Why join? Students will gain recognition for academic achievement and leadership experience. Get support through the transition to UMBC so you can continue to succeed! </p>
   </div>
 
    <div class="accordionheader">

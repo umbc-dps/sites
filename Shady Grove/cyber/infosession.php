@@ -211,6 +211,14 @@ $('select#tfa_447').find('option').each(function(){
     });
 </script>
 
+<script>
+/* Set Initial Source to Theater ad for Theater redirect */
+$('select#tfa_421').find('option').each(function(){
+         if($(this).text() == 'Theater Ad' && vars['initial_source'] == 'Theater%20Ad')
+            this.selected = true;
+    });
+</script>
+
 <?php include("includes/sf-contact-inputs.php"); ?>
 </body>
 

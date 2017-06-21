@@ -116,8 +116,10 @@
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<select name="entry.865173428" id="entry_865173428" aria-label="Please select Visit with Undergraduate Program Director  " aria-required="true" required><option value=""></option>
-<option value="Political Science: Wednesday, April 19: 12:00pm">Political Science: Wednesday, April 19: 12:00pm</option> <option value="Political Science: Wednesday, April 26: 12:00pm">Political Science: Wednesday, April 26: 12:00pm</option> <option value="Psychology: Thursday, April 13: 12:30pm">Psychology: Thursday, April 13: 12:30pm</option> <option value="Social Work: Friday, April 28: 12:00pm">Social Work: Friday, April 28: 12:00pm</option></select>
+<select name="entry.865173428" id="entry_865173428" aria-label="Please select Visit with Undergraduate Program Director  " aria-required="true" required>
+<option value=""></option>
+<option value="Political Science -- Tuesday, July 25: 1:00pm">Political Science -- Tuesday, July 25: 1:00pm</option> <option value="Political Science -- Wednesday, August 16: 4:00pm">Political Science -- Wednesday, August 16: 4:00pm</option> <option value="Psychology -- Tuesday, July 25: 4:00pm">Psychology -- Tuesday, July 25: 4:00pm</option> <option value="Psychology - Wednesday, August 16: 12:00pm">Psychology - Wednesday, August 16: 12:00pm</option> <option value="Social Work -- Tuesday, July 25: 12:00pm">Social Work -- Tuesday, July 25: 12:00pm</option> <option value="Social Work - Thursday, June 29: 5:00pm">Social Work - Thursday, June 29: 5:00pm</option>
+</select>
 
 <div class="required-message"></div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-select"><div class="ss-form-entry">

@@ -103,7 +103,7 @@ html::after {
 <p style="text-align:center">
 
  
-<img src="images/PAT Team Picture (1).jpg" width="520" height="573" alt="" style="width:100%;" />
+<img src="images/PAT/group.jpg" style="width:100%;" />
 
 </p>
 <h4>Meet the UMBC  Peer Advisory Team members below.</h4>

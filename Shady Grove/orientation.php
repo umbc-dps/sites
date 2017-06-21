@@ -88,7 +88,7 @@ html::after {
 .videoWrapper2 iframe {height: 275%}
 .videoWrapper2 {margin-bottom: 275%}
 }
-}
+
 #tfa_0-T, .supportInfo, div.lengthIndicator{
 	display:none!important;
 }
@@ -161,7 +161,23 @@ div.actions{
     <!-- END Page Title -->    
     
     <!-- Start Content -->   
-      <div class="content">
+      <div class="content"><br>
+
+      <h2 style="text-align:center">Graduate Orientation at Shady Grove</h2>
+ <div style="padding:0px 50px">     
+<h4 style="font-weight:bold">Dates:</h4>
+<h5><strong>I/O Psychology:</strong> Wednesday, June 7, 6 - 7:30 pm & Networking Event 7:30 - 9:30 pm</h5>
+<h5><strong>Cybersecurity:</strong> Tuesday, August 22, 6-7:30 pm</h5>
+<h5><strong>Geographic Information Systems:</strong> Tuesday, August 22, 6-7:30 pm</h5>
+<br>
+
+<h4 style="font-weight:bold">Location:</h4>
+<h5><a href="https://www.google.com/maps/place/The+Universities+at+Shady+Grove/@39.0934831,-77.202358,17z/data=!3m1!4b1!4m5!3m4!1s0x89b632b6a8fe197f:0x292768fbf6722042!8m2!3d39.0934831!4d-77.2001693">The Universities at Shady Grove, 9636 Gudelsky Drive, Rockville, MD 20850</a></h5>
+<br><br>
+
+<h4 style="font-weight:bold">Additional Questions?:</h4>
+        <h5>Contact Rickeysha Jones at <a href="mailto:rcjones@umbc.edu">rcjones@umbc.edu</a></h5>
+</div>
 <?php
 //Set stream options
 $context = stream_context_create(array('http' => array('ignore_errors' => true)));

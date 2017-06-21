@@ -22,7 +22,6 @@ form#tfa_0 label{
 }
 form#tfa_0 input.primaryAction{
 	font-weight:bold;
-	margin-top:20px!important;
 	text-align:center!important;
 	height:30px;
 }
@@ -33,11 +32,11 @@ form#tfa_0 input.primaryAction{
 	margin:0px!important; 
 	overflow:hidden!important
 	}
-fieldset.captcha{border:0px!important; margin:0px!important}
+
 fieldset.captcha legend, div.captchaHelp{display:none!important}
 
 /*Hide Fields*/
-#tfa_766-D, #tfa_331-D, #tfa_807-D, #tfa_808-D, #tfa_809-D, #tfa_816-D, #tfa_817-D{display:none}
+#tfa_766-D, #tfa_331-D, #tfa_807-D, #tfa_808-D, #tfa_809-D, #tfa_816-D, #tfa_822-D, #tfa_817-D, #tfa_822-HTML{display:none}
 
 @media screen and (max-width:640px) {
 

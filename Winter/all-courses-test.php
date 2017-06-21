@@ -177,7 +177,7 @@
 
 </p>
 
-<?php include("../summer/includes/courses.php"); ?>
+<?php include("catalog/fullcatalog.php"); ?>
 
   </div>
 <br clear="all"><br>

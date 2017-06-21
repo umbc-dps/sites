@@ -201,7 +201,7 @@ Consideration of Context and Help-Seeking Behavior. On Friday, 4/14 in III-4206.
     OR</li>
     <li>2 Science courses, (at least one must have a lab component. General or Human Biology counts as 1 of 2 courses)</li>
     <li>2 Physical Education  courses (consult advisor about exceptions)</li>
-    <li>World Language  201-Level (consult advisor about exceptions)</li>
+    <li>World Language Intermediate-Level (consult advisor about exceptions)</li>
   </ul>
    <p><strong>Questions  about the Social Work Program? Please  contact Ms. Katie Morris, LCSW-C, Program Director, at <a href="mailto:kath@umbc.edu">kath@umbc.edu</a> or 301-738-6312. Watch the short video below to meet Ms. Morris.</strong></p>
    

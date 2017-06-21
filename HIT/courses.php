@@ -111,14 +111,14 @@ As the first required course in the series, Health  Informatics I starts with in
 
           <div class="accordionbody">
             <p>This course provides a comprehensive overview on the policy and  administration of health information technology. Students will develop an  understanding of the management principles in the American healthcare delivery  system, including the roles of patients, third party insurance payers, and  healthcare professionals. The course will also include health care policy in the  US with specific examples from Medicare, Medicaid and ongoing efforts for  healthcare reform.</p>
-            </div>
+          </div>
             
            <div class="accordionheader">
            <h4><a href="#HIT664" id="HIT664"></a>HIT 664: Health IT Law and Ethics<i class="fa fa-angle-down"></i></h4>
           </div>
           <div class="accordionbody">
             <p>This course provides a  comprehensive overview of important legal principles affecting health  information technology and management, with a focus on the intersection of  these legal principles with business ethics. The student will learn how to think through and process legal problems  consistent with ethical norms, and how to analyze business risks in light of  operative legal constructs, taking into consideration ethical issues, to arrive  at a range of correct business decisions. Throughout the class the student will learn substantive legal principles  including an overview of constitutional, contract, tort, corporate and  regulatory law. Students will work in  groups during certain exercises, role play in real and hypothetical case  studies, and make a final presentation of a comprehensive legal and ethical health  IT problem. </p>
-            </div>
+          </div>
             
  
 
@@ -149,7 +149,7 @@ As the first required course in the series, Health  Informatics I starts with in
           <div></div>
           
 <div class="accordionheader">
-            <h4><a href="#HIT640" id="HIT640"></a>HIT 640 Health IT Text Processing <i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#HIT640" id="HIT640"></a>HIT 640: Health IT Text Processing <i class="fa fa-angle-down"></i></h4>
           </div>
           <div class="accordionbody">
             <p>This course provides an introduction to programming, text processing, and biomedical knowledge extraction for the health informatics professional. Students will gain the skills necessary to implement Perl based solutions to Health IT problems and bio-medical (BMI) research challenges.   This course not only teaches programming, scripting and text processing, but also provides an understanding of the broader context regarding how these programming techniques are deployed to address Health IT/BMI challenges.  This course teaches the programming interface and the techniques that can be used to write scripts and applications in Perl as well as provide an understanding how Perl is used to address BMI challenges and contribute to the core competencies associated with good BMI practice. This course also covers advanced concepts and capabilities, including object-oriented features, file and network I/O, and database interfaces. Upon completion, students will be able to use Perl techniques and commands to write scripts to perform various user and administrative tasks, and to utilize advanced features of the language.  Student will also be able to articulate an understanding of how Perl is used in real Health IT/BMI use cases.
@@ -158,7 +158,7 @@ As the first required course in the series, Health  Informatics I starts with in
 
 
 <div class="accordionheader">
-            <h4><a href="#HIT722" id="HIT722"></a>HIT 722 Exploration of Clinician Information Needs <i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#HIT722" id="HIT722"></a>HIT 722: Exploration of Clinician Information Needs <i class="fa fa-angle-down"></i></h4>
           </div>
           <div class="accordionbody">
             <p>This course offers students the opportunity to learn the domain knowledge necessary to understand information needs that arise for clinicians. Students will examine research on the topic of "clinician information needs", with particular relation to needs that occur while using clinical information systems.  We will also examine methodologies for identifying, and resolving, information needs.</p>
@@ -170,7 +170,7 @@ As the first required course in the series, Health  Informatics I starts with in
 
 
 <div class="accordionheader">
-            <h4><a href="#HIT723" id="HIT723"></a>HIT 723 Public Health Informatics <i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#HIT723" id="HIT723"></a>HIT 723: Public Health Informatics <i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -180,7 +180,7 @@ As the first required course in the series, Health  Informatics I starts with in
 
 
 <div class="accordionheader">
-            <h4><a href="#HIT724" id="HIT724"></a>HIT 724 Educational Technologies in Healthcare<i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#HIT724" id="HIT724"></a>HIT 724: Educational Technologies in Healthcare<i class="fa fa-angle-down"></i></h4>
           </div>
           <div class="accordionbody">
             <p>This course is a graduate-level course which will touch upon areas of healthcare including, but not limited to education and training, health instructional technology, and healthcare IT. The expectation is for students to become familiar, if not already, with these areas and how they intersect with the broader establishments of healthcare, education and technology. The course will introduce the fundamental aspects of educational technology theory, research and practice that span various users and contexts in the healthcare setting and includes a full range of engaging exercises for students that will contribute to their professional growth.  In addition, students will be able to communicate and educate other health IT professionals more effectively and efficiently.
@@ -189,7 +189,7 @@ As the first required course in the series, Health  Informatics I starts with in
 
 
 <div class="accordionheader">
-            <h4><a href="#HIT764" id="HIT764"></a>HIT 764 Health Information Privacy & Security <i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#HIT764" id="HIT764"></a>HIT 764: Health Information Privacy & Security <i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -202,7 +202,7 @@ As the first required course in the series, Health  Informatics I starts with in
 
 
 <div class="accordionheader">
-            <h4><a href="#HIT674" id="HIT674"></a>HIT 674 Process & Quality Improvement with Health IT <i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#HIT674" id="HIT674"></a>HIT 674: Process & Quality Improvement with Health IT <i class="fa fa-angle-down"></i></h4>
           </div>
           <div class="accordionbody">
             <p>This course provides an overview of quality measurement and process improvement as they relate specifically to the health care industry. The course will focus on the tools, techniques, and resources available to health care professionals through effective use of health IT. Students will learn how to create quality benchmarks, gather data, and analyze results. They will learn how to design specific processes that directly address analytical findings and have the potential to improve outcomes. Students will understand a variety of implementation strategies for new processes, and be able to use health IT and other tools to measure the overall effectiveness. They will also learn how to prioritize improvement efforts across complicated business and practice systems. Students will work in groups during certain exercises, explore real and hypothetical case studies, and make a final presentation of an improvement process and implementation which utilizes health IT as their course project.   
@@ -212,7 +212,7 @@ As the first required course in the series, Health  Informatics I starts with in
 
 
 <div class="accordionheader">
-            <h4><a href="#IS610" id="IS610"></a>IS 610 Database Program Development  <i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#IS610" id="IS610"></a>IS 610: Database Program Development  <i class="fa fa-angle-down"></i></h4>
           </div>
           <div class="accordionbody">
             <p>An introduction to computer databases that examines the basic functions and capabilities of database management software (DBMS). Emphasis is placed on using this software to solve information processing problems, which may include laboratory work as well as database design case studies. Topics include a discussion of data structures, host language programming; indirect and direct file organization and DBMS models, including hierarchical, network and relational. Also examined are storage devices, data administration and database administration, as well as database analysis, design and implementation. Note: May not be taken for credit in IS graduate degree programs.   
@@ -222,44 +222,31 @@ As the first required course in the series, Health  Informatics I starts with in
 
 
 <div class="accordionheader">
-            <h4><a href="#ENGM652" id="ENGM652"></a>ENMG 652 Management, Leadership and Communication  <i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#ENGM652" id="ENGM652"></a>ENMG 652: Management, Leadership and Communication  <i class="fa fa-angle-down"></i></h4>
           </div>
           <div class="accordionbody">
             <p>In this course, students learn effective management and communication skills through case study-analysis, reading, class discussion and role-playing. The course covers topics such as effective listening, setting expectations, delegation, coaching, performance, evaluations, conflict management, negotiation with senior management and managing with integrity. 
 </p>
 </div>
 
+<div class="accordionheader">
+            <h4><a href="#HIT751" id="HIT751"></a>HIT 751:  Healthcare Databases<i class="fa fa-angle-down"></i></h4>
+          </div>
+          <div class="accordionbody">
+            <p>This graduate level course provides an introduction to the theoretical and practical aspects of creating and maintaining databases within a healthcare setting. This is a beginner¿s course and no previous programming or technical experience is required. Topics include: relational databases, normalization, data integrity, database design, data querying, and data forms/reports. The class includes applied lab and project components to provide hands-on experience with creating and maintaining databases; using Access and SQLite as our database systems. This course is intended for students interested in databases within the context of healthcare informatics, health information technology, and healthcare. 
+</p>
+</div>
 
 <div class="accordionheader">
-            <h4>Health IT Implementation<i class="fa fa-angle-down"></i></h4>
+            <h4><a href="#SOCY618" id="SOCY618"></a>SOCY 618: SAS for the Social Sciences<i class="fa fa-angle-down"></i></h4>
           </div>
-
-
           <div class="accordionbody">
-            <p>This  course covers the design, implementation, and application of electronic health  record systems. Topics include design, selection, implementation, integration,  testing, evaluation, and support of electronic health record systems. The  course will also cover specific techniques for voice recognition and imaging  technology, information security and integrity, data dictionaries, modeling,  and warehousing to meet departmental needs. In this course students will learn  how to apply policies/procedures to facilitate electronic health records and  other administrative applications.<br>
-   </p>
-   </div>
-
-   
-
-            <div class="accordionheader">
-            <h4>Personalized Medicine<i class="fa fa-angle-down"></i></h4>
-          </div>
+            <p>This course introduces students to the basic principles of SAS, a widely used statistical software package. Students will learn data entry, data correction and validation, data analysis, combining data sets, rearranging data and macros. Prerequisite: Consent of instructor.
+</p>
+</div>
 
 
-          <div class="accordionbody">
-            <p>This  course will cover the transition of the traditional &ldquo;blockbuster&rdquo; style practice  of medicine to &ldquo;personalized&rdquo; medicine, a movement that is touted by many  experts as the future of medicine. The course will cover how genomic  information can be incorporated into disease treatment and their efficacy as  compared to conventional treatment, current state of the art of the practice of  personalized medicine in various diseases, challenges and opportunities, and  implications on biotechnology and pharmaceutical companies.
-   </p>
-   </div>
-   
-<div class="accordionheader">
-<h4>Quality of Life Technologies<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
-            <p>This course is an introduction to intelligent systems that  aid in increasing the quality of life for the elderly and disabled.  Quality of life technology should act to  augment life activities that a person may not be able to accomplish due to  aging, disease or other factors while preserving the activities the individual  can do.  Topics include the design,  development and evaluation of quality of life technologies (QoLT) as well as  how they fit into the global healthcare market.   The course will touch on smart home, virtual coach, power wheel chair  and personal robotic technologies.   Students will learn about both personal and clinical needs for  technology that that the elderly and disabled face and the challenges with  getting those technologies to market.  At  the end of the course, students will present an original project at a poster  session.  </p>
-   </div>
+ 
    
           <br>
           

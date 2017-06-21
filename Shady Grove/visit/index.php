@@ -65,6 +65,7 @@ html::after {
   background-attachment:fixed;
 }
 
+
 }
 
 a.button{font-size:10pt}
@@ -82,6 +83,10 @@ only screen and (max-width: 1023px),
 	}
 	.seven{padding: 0px;}
 }
+
+/*Add Program Name to PD Visits*/
+.programname{display:block!important; font-weight:bold; font-size:16pt}
+h5.poli, h5.socialwork, h5.psych, h5.history{font-size:10pt; padding-bottom:10px}
 	
 </style>
 
@@ -129,7 +134,6 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-	Thursday, May 18, 3:00pm<br>
     Thursday, June 15, 12:00pm<br>
     Saturday, July 22, 12:30pm<br>
     Wednesday, August 9, 4:30pm<br>
@@ -145,21 +149,7 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-		<strong>History:</strong><br>
-		Check back soon for new opportunities.</p>      
-	<p>
-    	<strong>Political Science:</strong><br>
-		Check back soon for new opportunities.
-   </p>  
-	
-    <p>
-        <strong>Psychology:</strong><br>
-		Check back soon for new opportunities.<br>
-    </p>
-    
-	<p>
-        <strong>Social Work:</strong><br>
-		Check back soon for new opportunities.
+<?php include("includes/dates-pd.php"); ?>
     </p>
   
   <a href="pd" target="_blank" class="button btn-sm"> 

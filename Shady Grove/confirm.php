@@ -100,8 +100,8 @@ html::after {
      
          <h4 style="font-weight:bold">Dates:</h4>
 <h5><strong>I/O Psychology:</strong> Wednesday, June 7, 6 - 7:30 pm & Networking Event 7:30 - 9:30 pm</h5>
-<h5><strong>Cybersecurity:</strong> Thursday, August 17, 6-7:30 pm</h5>
-<h5><strong>Geographic Information Systems:</strong> Thursday, August 17, 6-7:30 pm</h5>
+<h5><strong>Cybersecurity:</strong> Tuesday, August 22, 6-7:30 pm</h5>
+<h5><strong>Geographic Information Systems:</strong> Tuesday, August 22, 6-7:30 pm</h5>
 <br>
 
 <h4 style="font-weight:bold">Location:</h4>

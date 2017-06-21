@@ -120,8 +120,7 @@ html::after {
         <ul>
         	<li>Dr. Diane Alonso, <a href="mailto:dalonso@umbc.edu">dalonso@umbc.edu</a> (Program  Director)</li>
         	<li>Dr. Donald Knight, <a href="mailto:dknigh1@umbc.edu">dknigh1@umbc.edu</a></li>
-            <li>Dr. Karen Watkins-Lewis, <a href="mailto:kwatkin1@umbc.edu">kwatkin1@umbc.edu</a></li>     
-        	<li>Mr. Caleb Grabowski, <a href="mailto:cgrab1@umbc.edu">cgrab1@umbc.edu</a></li>
+            <li>Dr. Karen Watkins-Lewis, <a href="mailto:kwatkin1@umbc.edu">kwatkin1@umbc.edu</a></li>
             </ul>
         	  <h5>Social Work</h5>
         	  <ul><li>Ms. Jeanette Hoover, LCSW-C, <a href="mailto:jhoover@umbc.edu">jhoover@umbc.edu</a></li>
@@ -207,10 +206,12 @@ html::after {
       <p>UMBC requires students to complete a foreign language through the intermediate level (for Montgomery College, this is the 201-level). American Sign Language qualifies.</p>
 	  <p>Substitution options:</p>
       <ul>
+      <li><a href="documents/languagerequirements.pdf" target="_blank">Options to Fufill the Language Requirement</a></li>
       <li><a href="http://mlli.umbc.edu/l201-proficiency-and-high-school-language-levels/" target="_blank">High school equivalency</a></li>
-      <li><a href="http://mlli.umbc.edu/language-requirement/" target="_blank">International student proficiency</a></li>
+      <li><a href="http://www.umbc.edu/shadygrove/documents/Applicationfor201proficiency.pdf" target="_blank">International student proficiency</a></li>
       <li><a href="http://catalog.umbc.edu/content.php?catoid=12&navoid=605#College-Level_Examination_Program__CLEP__Examinations" target="_blank">CLEP Exam</a></li>
       <li><a href="http://mlli.umbc.edu/language-requirement/" target="_blank">NYU Exam</a></li>
+      <li><a href="https://plc.sas.upenn.edu/testing" target="_blank">Penn Exam</a></li>
       </ul>
       </div>
       
