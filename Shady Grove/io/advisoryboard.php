@@ -171,18 +171,6 @@
 
 
 <div class="accordionheader">
-  <h4><a id="leader" href="#leader"></a>Meredith Leader <i class="fa fa-angle-down"></i></h4>
-</div>
-
-<div class="accordionbody">
-  <p><img align="left" src="images/advisoryboard/leader.jpg" alt="Meredith Leader">Meredith Leader currently serves as the Director of Talent Operations for 5AM Solutions, which is a software development company located in Rockville. She handles all HR responsibilities for the company, focusing primarily on employee relations and resource management. She has worked for 5AM since September 2011. Meredith is also the 2016 Chapter President for the Montgomery County Chapter of SHRM.</p>
-
-<p>Meredith currently possesses PHR and SHRM-CP certifications. She holds a Bachelor’s degree in Biology and a Master’s degree in Cellular Biology. She lives in Poolesville, MD with her husband and 3 children. When Meredith is not working, she spends her time running and training for triathlons. Most recently, she completed the 4.4 Chesapeake Bay Swim.</p>
-<br clear="all">
-</div>
-
-
-<div class="accordionheader">
   <h4><a id="merrill" href="#merrill"></a>Wendy Merrill<i class="fa fa-angle-down"></i></h4>
 </div>
 
@@ -229,7 +217,16 @@
 <p>Follow John on <a href="https://twitter.com/YourHRIdeas" target="_blank">Twitter</a>, on <a href="www.linkedin.com/in/johnwsigmon" target="_blank">LinkedIn</a> or at <a href="http://www.johnsigmon.com" target="_blank">www.johnsigmon.com</a></p>
 </div>
     
+<div class="accordionheader">
+  <h4><a id="leader" href="#leader"></a>Joann Speer Sorra, PhD<i class="fa fa-angle-down"></i></h4>
+</div>
 
+<div class="accordionbody">
+  <p><img align="left" src="images/advisoryboard/JSorra.jpg" alt="Joann Speer Sorra">
+  Joann Speer Sorra, Ph.D., is an industrial-organizational psychologist and Associate Director in the Center for Healthcare Delivery Research and Evaluation at Westat, an employee-owned research corporation located in Rockville,Maryland. Dr. Sorra has more than 20 years of applied experience conducting organizational and health services research for federal government and commercial clients. Dr. Sorra's applied work has primarily focused on health care quality and patient safety, patient caregiver experience with health care, implementation science, program evaluation, survery methodology, and complex project management. Dr. Sorra has led the development of surverys that assess the extent to which the organizational culture in health care organizations support patient safety. Her work on patient safety culture surveys has had widespread impact-administered in hundreds of hospitals in the U.S. and internationally and translated into more than 31 languages.</p>
+  <p>Dr. Sorra is a Fellow of the Society for Industrial and Organizational Psychology and received her master's degree from Michigan State University and Ph.D. from the University of Maryland at College Park. She is on the editorial board for the Journal for Healthcare Quality and serves as an active reviewer for over a dozen health care-related journals.</p>
+<br clear="all">
+</div>
 
 <!-- END Content -->
  </div>

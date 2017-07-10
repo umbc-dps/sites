@@ -113,8 +113,8 @@
 
 <div class="content-details right">
 <a class="mobile-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">&raquo;</a>
-<div class="title">Apply for Fall!</div><br>
-<div class="tagline">There's still time! Be sure to submit your Common Application to UMBC by our final deadline of June 1. Contact Chelsea Moyer at csmoyer@umbc.edu with any questions.</div>
+<div class="title">It's Not Too Late to Apply for Fall!</div><br>
+<div class="tagline">There's still time! We're accepting applications through the summer. Contact Chelsea Moyer at csmoyer@umbc.edu with any questions.</div>
 <a class="web-seemore" href="http://undergraduate.umbc.edu/apply/shady-grove.php" target="_blank">Submit Now!</a>
 </div>
 </a>
@@ -122,55 +122,36 @@
 
 
 <div class="panel panel-2">
-<a href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">
+<a href="http://regional.umbc.edu/" target="_blank">
 <div class="image mobile-left">
-<img src="images_homepage/parking2.jpg" width="1020" height="600" alt="Three"/></div>
+<img src="images_homepage/regional.png" width="1020" height="600" alt="Three"/></div>
 
 <div class="content-details right">
-<a class="mobile-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">&raquo;</a>
-<div class="title">Need Summer Parking?</div><br>
-<div class="tagline">Parking permits will be required for summer session. Please review your parking options here at USG. 
+<a class="mobile-seemore" href="http://regional.umbc.edu/" target="_blank">&raquo;</a>
+<div class="title">New Regional Graduate Tuition Rate</div><br>
+<div class="tagline">Starting Fall 2017, those in DC, Delaware and select counties in Northern VA & Pennsylvania may qualify to pay a lower tuition rate. 
 </div>
-<a class="web-seemore" href="https://www.shadygrove.umd.edu/about-usg/directions-transportation/parking" target="_blank">Parking Website &raquo;</a>
-</div>
-</a>
-</div>
-
-
-
-
-<!-- Hide Carousels --
-<div class="panel panel-1">
-<a href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">
-<div class="image mobile-left">
-
-
-<img src="images/umbc-usg-mascot.jpg" width="1100" height="600" alt=""/>
-</div>
-<div class="content-details left">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/visit/infosession">&raquo;</a>
-<div class="title">Check out an Undergraduate Info Session!</div> <br>
-<div class="tagline">Attend one of our monthly Information Sessions to learn about the transfer process to UMBC-Shady Grove and take a tour of campus!</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">Don't Miss Out!</a>
+<a class="web-seemore" href="http://regional.umbc.edu/" target="_blank">Learn More &raquo;</a>
 </div>
 </a>
 </div>
 
 
 <div class="panel panel-3">
-<a href="http://www.umbc.edu/shadygrove/advising" target="_blank">
+<a href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">
 <div class="image mobile-left">
-<img src="images_homepage/10.jpg" alt="Three">
+<img src="images_homepage/7.jpg" alt="Three">
 </div>
 <div class="content-details right">
-<a class="mobile-seemore" href="http://www.umbc.edu/shadygrove/advising" target="_blank">&raquo;</a>
-<div class="title">Prepare for your advising appointment</div> <br>
-<div class="tagline">Review your degree audit and make note of any questions/concerns you have, then schedule an appointment with your advisor.</div>
-<a class="web-seemore" href="http://www.umbc.edu/shadygrove/advising" target="_blank">Contact your advisor</a>
+<a class="mobile-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">&raquo;</a>
+<div class="title">Fall 2017 Deadline: August 1</div> <br>
+<div class="tagline">Earn Your Masters in Your Backyard from UMBC! We are currently accepting applications for our Cybersecurity and GIS programs. Start this Fall.</div>
+<a class="web-seemore" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Today!</a>
 </div>
 </a>
 </div>
 
+<!-- Hide Carousels --
 <div class="panel panel-4">
 <a href="http://www.umbc.edu/shadygrove/advising" target="_blank">
 <div class="image mobile-left">
@@ -217,19 +198,11 @@
 <li class="item-1"><img src="images_homepage/student_group_sm.png" width="128" height="35" alt="Four"/></li>
 
 
-<li class="item-2"><img src="images/USG_campus16-2482.jpg" width="128" height="35" alt="Three"/></li>
+<li class="item-2"><img src="images_homepage/regional_sm.png" width="128" height="35" alt="Three"/></li>
 
-
-
-
+<li class="item-3"><img src="images_homepage/7_tmb.jpg" alt="2"></li>
 
 <!-- Hide Preview Images --
-<li class="item-1"><img src="images/umbc-usg-mascot.jpg" width="128" height="35" alt="1"></li>
-
-
-<li class="item-3"><img src="images_homepage/10_tmb.jpg" alt="2"></li>
-
-
 <li class="item-4"><img src="images_homepage/katie_morris_tmb.jpg" alt="4"></li>
 
 
@@ -382,7 +355,7 @@
 <h1>UMBC-Shady Grove</h1>
 
  
-<p>UMBC is one of nine institutions represented at The Universities at Shady Grove, a consortium of universities within the University System of Maryland. Close to many government agencies, contractors and major healthcare organizations, The Universities at Shady Grove is located in Rockville, MD. UMBC at Shady Grove offers four undergraduate programs and four graduate programs.</p>
+<p>UMBC is one of nine institutions represented at The Universities at Shady Grove, a consortium of universities within the University System of Maryland. Close to many government agencies, contractors and major healthcare organizations, The Universities at Shady Grove is located in Rockville, MD. UMBC at The Universities at Shady Grove offers four undergraduate programs and four graduate programs.</p>
 </div>   
 
 
@@ -392,13 +365,16 @@
 
 <p class="date">Undergraduate Information Sessions</p>
 <ul>
-<li><a href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">Thursday, June 15, 12:00PM</a></li>
+<li><a href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">Saturday, July 22, 12:30PM</a></li>
+<li><a href="http://www.umbc.edu/shadygrove/visit/infosession" target="_blank">Wednesday, August 9, 4:30pm</a></li>
 </ul>
+
+<!--
 <p class="date">Graduate Information Sessions</p>
 <ul>
 <li><a href="http://www.umbc.edu/shadygrove/visit/#grad" target="_blank">Thursday, June 15, 2017, 6-7:30 PM</a></li>
 </ul>
-  <!--
+  
 <p class="date">Visit with Undergraduate Program Directors</p>
 <ul>
 <li><a href="visit/pd-politicalscience" target="_blank">Political Science - Wednesday, April 5, 12:00 p.m.</a></li>

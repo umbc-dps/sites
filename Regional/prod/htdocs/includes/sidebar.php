@@ -1,10 +1,11 @@
 <div class="five columns omega add-bottom" style="float:right;"> 
+
+<!--
 <aside class="five columns add-bottom">
 
 <h3 class="home-heading">Upcoming Events</h3>
 
 
-<center>
 <p><strong>UMBC Professional Programs Open House</strong><br>
 Wednesday, June 21, 6:00-7:30PM <br>
 <a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=regionalumbc.edu&utm_medium=referral&utm_content=regional_sidebar">RSVP Now</a>
@@ -20,10 +21,28 @@ Thursday, June 15, 6:00-7:30PM<br>
 Thursday, June 15, 6:00-7:30PM<br>
 <a href="http://www.umbc.edu/shadygrove/gis/infosession">RSVP Now</a>
 </p>
-</center>
 
-
-
+</aside>
+-->
+<aside class="five columns add-bottom">
+<h3 class="home-heading">Upcoming Events</h3>
+<ul style="padding-left:20px; list-style:square">
+    <li>
+    <a href="https://www.youtube.com/watch?v=ecx3c_h-IgU"  class="video">Cybersecurity Virtual Info Session</a>
+    </li>
+    
+    <li><a href="https://www.youtube.com/watch?v=ZMQH20Gj9ZU" class="video">Biotechnology Virtual Info Session</a><br />
+    </li>
+    
+    <li><a href="https://www.youtube.com/watch?v=Iya3IKmLKio" class="video">Health IT Virtual Info Session</a><br />
+    </li>
+    
+    <li><a href="https://www.youtube.com/watch?v=UBgR7ZKXDTg" class="video">GIS Virtual Info Session</a><br />
+    </li>
+    
+    <li><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="video">I/O Virtual Info Session</a><br />
+    </li>
+</ul>
 </aside>
 
 

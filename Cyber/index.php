@@ -68,7 +68,7 @@
     
     
 
-<!-- SLIDE ONE --> 
+<!-- EVENT SLIDE --
 
 <li id="slide1">
 
@@ -84,12 +84,12 @@
 
 </li>
    
-<!-- END SLIDE ONE -->
+-- END EVENT ONE -->
 
 
-<!-- SLIDE TWO -->
+<!-- SLIDE ONE -->
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="http://regional.umbc.edu" target="_blank">
 <img src="images/grad.png" alt="UMBC Regional Tuition Rate"/>
@@ -106,13 +106,13 @@
 
 </li>
 
-<!---- END SLIDE TWO ----> 
+<!---- END SLIDE ONE ----> 
               
 
 
-<!-- Slide THREE -->    
+<!-- Slide TWO -->    
 
-<li id="slide3">
+<li id="slide2">
 
 <a href="http://www.usmd.edu/newsroom/news/1699" target="_blank">
 <img src="images/md.jpg"  alt=""/>
@@ -128,11 +128,11 @@
 
 </li>
 
-<!-- END SLIDE THREE -->
+<!-- END SLIDE TWO -->
 
-<!-- SLIDE FOUR --> 
+<!-- SLIDE THREE --> 
 
-<li id="slide4">
+<li id="slide3">
 
 <a href="http://news.umbc.edu/arti-deore-choudhary-heading-to-amazon-thanks-cybersecurity-faculty-for-honing-her-management-and-leadership-skills/" target="_blank"><img alt="img04" src="images/arti.jpg"></a>
 
@@ -146,7 +146,7 @@
  
 </li>
 
-<!-- END SLIDE FOUR --> 
+<!-- END SLIDE THREE --> 
       
     </ul>
 

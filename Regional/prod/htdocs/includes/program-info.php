@@ -53,7 +53,6 @@
     <td>UMBC&rsquo;s  Health IT program is designed to prepare computer science, information systems,  and healthcare professional to fulfill positions in the Healthcare field. The  ten-course master degree combines courses in healthcare strategy, policy, and  management with technically focused courses, allowing students to leverage  their experience towards a range of opportunities within the healthcare  technology profession.</td>
     <td>hit</td>
   </tr>
-  <tr>
     <tr>
     <td>engm</td>
     <td>Kim Edmonds, Graduate Program Coordinator</td>
@@ -64,7 +63,6 @@
     <td>engm</td>
   </tr>
     <tr>
-    <tr>
     <td>se</td>
     <td>Kim Edmonds, Graduate Program Coordinator</td>
     <td>kedmonds@umbc.edu</td>
@@ -73,7 +71,6 @@
     <td>UMBC&rsquo;s Systems Engineering program addresses the real world of systems engineering by  coupling the experience of the region&rsquo;s top engineers with the expertise of UMBC&rsquo;s world-class engineering faculty. Our students experience a rich  curriculum that covers all aspects of a system&rsquo;s life cycle using  state-of-the-art principles, practices, and technologies.</td>
     <td>se</td>
   </tr>
-   <tr>
     <tr>
     <td>gis</td>
     <td>Rickeysha Jones, Program Coordinator</td>
@@ -104,6 +101,24 @@
       <td>UMBC Instructional Systems Development (ISD)-Training Systems program is UMBC&rsquo;s most established graduate program that has been educating professionals in the  field of training and development for over 40 years.</td>
       <td>isd</td>
     </tr>
+        <tr>
+          <td>datascience</td>
+          <td>Sonya Crosby, Director, Office of Professional Programs</td>
+          <td>scrosby@umbc.edu</td>
+          <td>ajones9@umbc.edu</td>
+          <td></td>
+          <td>UMBC's Data Science program is built around a core set of courses wherein students will develop an in-depth understanding of the basic computing principles behind data science, to include but not limited to data ingestion, curation and cleaning and the 4Vs of data science: Volume, Variety, Velocity, Veracity, as well as the implicit 5th V -- Value.  Through applying principles of data science to the analysis of problems within specific domains expressed through the program pathways, students will gain practical, real world industry relevant experience. </td>
+          <td>datascience</td>
+        </tr>
+        <tr>
+          <td>eil</td>
+          <td>Sonya Crosby, Director, Office of Professional Programs</td>
+          <td>scrosby@umbc.edu</td>
+          <td>ajones9@umbc.edu</td>
+          <td></td>
+          <td>UMBC's Entrepreneurship, Leadership &amp; Innovation is ideal for working professional in both small and large organizations who have an interest in incorporating entrepreneurial thinking and innovative practices into their workplace or community. The program provides the opportunity for students to gain exposure to key concepts and skills in entrepreneurship, innovation, and leadership.  The program will be highly interactive with classes taught by instructors who have deep practical experience and passion in entrepreneurship. Students enrolled in the program will learn the tools and concepts to help them to move toward the realization of an entrepreneurial, intrapreneurial or socialpreneurial opportunity.</td>
+          <td>eil</td>
+        </tr>
         <tr>
       <td>esol</td>
       <td>John Nelson, TESOL Program Co-Director</td>

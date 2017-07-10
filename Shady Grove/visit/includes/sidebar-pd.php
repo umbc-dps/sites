@@ -118,7 +118,7 @@
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
 <select name="entry.865173428" id="entry_865173428" aria-label="Please select Visit with Undergraduate Program Director  " aria-required="true" required>
 <option value=""></option>
-<option value="Political Science -- Tuesday, July 25: 1:00pm">Political Science -- Tuesday, July 25: 1:00pm</option> <option value="Political Science -- Wednesday, August 16: 4:00pm">Political Science -- Wednesday, August 16: 4:00pm</option> <option value="Psychology -- Tuesday, July 25: 4:00pm">Psychology -- Tuesday, July 25: 4:00pm</option> <option value="Psychology - Wednesday, August 16: 12:00pm">Psychology - Wednesday, August 16: 12:00pm</option> <option value="Social Work -- Tuesday, July 25: 12:00pm">Social Work -- Tuesday, July 25: 12:00pm</option> <option value="Social Work - Thursday, June 29: 5:00pm">Social Work - Thursday, June 29: 5:00pm</option>
+<option value="Political Science -- Tuesday, July 25: 1:00pm">Political Science -- Tuesday, July 25: 1:00pm</option> <option value="Political Science -- Wednesday, August 16: 4:00pm">Political Science -- Wednesday, August 16: 4:00pm</option> <option value="Psychology -- Tuesday, July 25: 4:00pm">Psychology -- Tuesday, July 25: 4:00pm</option> <option value="Psychology - Wednesday, August 16: 12:00pm">Psychology - Wednesday, August 16: 12:00pm</option> <option value="Social Work -- Tuesday, July 25: 12:00pm">Social Work -- Tuesday, July 25: 12:00pm</option> 
 </select>
 
 <div class="required-message"></div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">

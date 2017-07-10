@@ -17,7 +17,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Data Science at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/dpsstage3/index/" />
+<meta property="og:url" content="http://www.umbc.edu/datascience/index/" />
 <meta property="og:image" content="http://www.umbc.edu/biotech/images/bk.jpg" />
 <meta property="og:description" content="UMBC's Data Science program provides managers with the skills needed to lead technical teams." />
 
@@ -78,7 +78,7 @@
 
 <div class="carousel-caption-right wordwrap">
 <h3>Apply for Fall 2017</h3>
-<small>Apply by August 1st to start in the Fall.</small>
+<small>Classes Begin August 30.</small>
 
 <p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 

@@ -1,4 +1,6 @@
-<div class="five columns">    <aside class="five columns add-bottom" id="two">
+<div class="five columns">
+<!--
+    <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Upcoming Event</h3>
       <p style="text-align:center">
 		<strong>Program Exploration Open House</strong><br>
@@ -6,7 +8,7 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
 <a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=biotech_sidebar" class="btn">Save Your Spot!</a>
 	</p>
     </aside>
-
+-->
     
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Past Event</h3>
@@ -22,8 +24,8 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
 
 
       <p style="text-align:center">
-Apply Now for Fall<br>
-Deadline: August 1st<br>
+<strong>Apply Now for Fall</strong><br>
+Classes Begin August 30<br>
 <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>

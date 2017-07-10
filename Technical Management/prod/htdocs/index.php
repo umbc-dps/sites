@@ -86,7 +86,7 @@
 
 <div class="carousel-caption wordwrap">
 <h3>Apply for Fall 2017</h3>
-<small>Apply by August 1st to start in the Fall.</small>
+<small>Classes Begin August 30.</small>
 
 <p><a href="http://gradschool.umbc.edu/admissions/apply/" role="button" class="web-seemore" target="_blank">Apply Now</a></p></div>
 

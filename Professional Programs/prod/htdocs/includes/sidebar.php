@@ -1,4 +1,6 @@
 <div class="five columns omega add-bottom" style="float:right;"> 
+
+<!-- Hide Upcoming Events --
 <aside class="five columns add-bottom">
 
 <h3 class="home-heading">Upcoming Event</h3>
@@ -20,10 +22,8 @@ Thursday, June 15, 6:00-7:30PM<br>
 <a href="http://www.umbc.edu/shadygrove/gis/infosession">RSVP Now</a>
 </p>
 </center>
-
-
-
 </aside>
+-->
 
 <aside class="five columns add-bottom">
 
@@ -48,7 +48,7 @@ Thursday, June 15, 6:00-7:30PM<br>
 <li><a href="https://www.youtube.com/watch?v=MeKNbJCejoM" class="video">DIY Remote Sensing Webinar</a><br />
 </li>
 
-<!--
+
 
 <li>
 <a href="https://www.youtube.com/watch?v=ecx3c_h-IgU"  class="video">Cybersecurity Virtual Info Session</a>
@@ -65,7 +65,7 @@ Thursday, June 15, 6:00-7:30PM<br>
 
 <li><a href="https://www.youtube.com/watch?v=e9cJTw-o06M" class="video">I/O Virtual Info Session</a><br />
 </li>
--->
+
 </ul>
 
 </p> 

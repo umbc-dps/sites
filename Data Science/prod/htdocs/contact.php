@@ -15,7 +15,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Data Science at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/dpsstage3/index/" />
+<meta property="og:url" content="http://www.umbc.edu/datascience/index/" />
 <meta property="og:image" content="http://www.umbc.edu/biotech/images/bk.jpg" />
 <meta property="og:description" content="UMBC's Data Science program provides managers with the skills needed to lead technical teams." />
 
@@ -102,9 +102,9 @@ Director of Program Development<br>
             </td>
 <!---
             <td align="left" valign="top">
-              <p><strong>Dr. Thomas Moore</strong><br>
-                Graduate Program Director<br>
-              <a href="mailto:mooretg@umbc.edu">mooretg@umbc.edu</a></p>
+              <p><strong>Dr. Toby Gouker</strong><br>
+Assistant Program Director<br>
+<a href="mailto:tgouker@umbc.edu">tgouker@umbc.edu</a></p>
             </td>
             
             -->

@@ -75,7 +75,7 @@
     <ul>
     
 
-<!-- Slide ONE -->    
+<!-- Slide ONE -- 
 
 <li id="slide1">
 
@@ -93,15 +93,15 @@
 
 </li>
 
-<!-- END SLIDE ONE -->
+-- END SLIDE ONE -->
    
 
 
 
 
-<!-- SLIDE TWO --> 
+<!-- SLIDE ONE --> 
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="http://regional.umbc.edu" target="_blank">
 <img src="http://umbc.edu/cyber/images/grad.png" alt="UMBC Regional Tuition Rate"/>
@@ -118,8 +118,8 @@
 
 </li>
 
-<!-- SLIDE THREE -->
-<li id="slide3">
+<!-- SLIDE TWO -->
+<li id="slide2">
       
 <a href="programcert#new"><img alt="img02" src="images/umbc_cyber5.png"></a>
 
@@ -132,7 +132,7 @@
 <p id="captiontwo"><a href="programcert#new">New Cybersecurity Operations Certificate</a></p>
 
 </li>
-<!-- END SLIDE THREE -->
+<!-- END SLIDE TWO -->
 
 <!-- END SLIDE TWO -->
 

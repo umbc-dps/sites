@@ -76,7 +76,7 @@
     
 
 
-<!-- Slide One -->              
+<!-- Slide One --             
 
 <li id="slide1">
 
@@ -92,11 +92,11 @@
 
 </li>
 
-<!-- END Slide One --> 
+-- END Slide One --> 
 
-<!-- Slide TWO -->    
+<!-- Slide ONE -->    
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="https://www.youtube.com/watch?v=7xAN9q6LtqM"><img src="images/hit-carousel1.jpg" alt="Unique Strengths of the Health IT Program"/></a>
 <div class="carousel-caption wordwrap">
@@ -109,11 +109,11 @@
 
 </li>
 
-<!-- END SLIDE TWO --> 
+<!-- END SLIDE ONE --> 
 
-<!-- Slide THREE -->    
+<!-- Slide TWO -->    
 
-<li id="slide3">
+<li id="slide2">
 
 <a href="https://www.youtube.com/watch?v=1VNvNTyY0dA" class="video"><img src="images/seghen.jpg" alt="A Program With Real-World Influence"/></a>
 <div class="carousel-caption wordwrap">
@@ -126,7 +126,7 @@
 
 </li>
 
-<!-- END SLIDE THREE -->  
+<!-- END SLIDE TWO -->  
 
       
     </ul>

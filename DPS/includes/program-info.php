@@ -54,7 +54,6 @@
     <td>hit</td>
   </tr>
   <tr>
-    <tr>
     <td>engm</td>
     <td>Kim Edmonds, Graduate Program Coordinator</td>
     <td>kedmonds@umbc.edu</td>
@@ -63,7 +62,6 @@
     <td>UMBC&rsquo;s Master of Science in Engineering Management and Certificate in Engineering  Management programs are designed for professionals interested in taking their engineering career to the next level by improving their technical, managerial  and business skills. Both programs assist professionals in maximizing their  technical and business skills which are ideally suited for engineers employed  in technology-oriented enterprises or government programs.</td>
     <td>engm</td>
   </tr>
-    <tr>
     <tr>
     <td>se</td>
     <td>Kim Edmonds, Graduate Program Coordinator</td>
@@ -74,7 +72,6 @@
     <td>se</td>
   </tr>
    <tr>
-    <tr>
     <td>gis</td>
     <td>Rickeysha Jones, Program Coordinator</td>
     <td>rcjones@umbc.edu</td>
@@ -110,6 +107,36 @@
       <td>UMBC's internationally renowned TESOL curriculum is designed to train both prospective and experienced teachers of ESL and EFL.</td>
       <td>esol</td>
     </tr>
+    
+       <tr>
+         <td>datascience</td>
+         <td>Sonya Crosby, Director, Office of Professional Programs</td>
+         <td>scrosby@umbc.edu</td>
+         <td>ajones9@umbc.edu</td>
+         <td></td>
+         <td>UMBC's Data Science program is built around a core set of courses wherein students will develop an in-depth understanding of the basic computing principles behind data science, to include but not limited to data ingestion, curation and cleaning and the 4Vs of data science: Volume, Variety, Velocity, Veracity, as well as the implicit 5th V -- Value.  Through applying principles of data science to the analysis of problems within specific domains expressed through the program pathways, students will gain practical, real world industry relevant experience. </td>
+         <td>datascience</td>
+  </tr>
+       <tr>
+         <td>eil</td>
+         <td>Sonya Crosby, Director, Office of Professional Programs</td>
+         <td>scrosby@umbc.edu</td>
+         <td>ajones9@umbc.edu</td>
+         <td></td>
+         <td>UMBC's Entrepreneurship, Leadership &amp; Innovation is ideal for working professional in both small and large organizations who have an interest in incorporating entrepreneurial thinking and innovative practices into their workplace or community. The program provides the opportunity for students to gain exposure to key concepts and skills in entrepreneurship, innovation, and leadership.  The program will be highly interactive with classes taught by instructors who have deep practical experience and passion in entrepreneurship. Students enrolled in the program will learn the tools and concepts to help them to move toward the realization of an entrepreneurial, intrapreneurial or socialpreneurial opportunity.</td>
+         <td>eil</td>
+  </tr>
+  
+             <tr>
+          <td>techm</td>
+          <td>Kim Edmonds, Graduate Program Coordinator</td>
+          <td>Kim Edmonds - 00550000006H4PO</td>
+          <td>kedmonds@umbc.edu</td>
+          <td></td>
+          <td>UMBC's Technology Management program is built around a core set of six courses that provide the foundational knowledge in leadership, communications, ethics and project management. The core courses are supplemented with technically-oriented courses in entrepreneurship, international project management, and organizational leadership. Students can also earn certificates in systems engineering, and cyber security along with the Master’s degree.</td>
+          <td>techm</td>
+        </tr>
+  
 		<tr>
       <td>eli</td>
       <td></td>

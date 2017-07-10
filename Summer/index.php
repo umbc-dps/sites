@@ -70,54 +70,45 @@
 		<div id="cbp-fwslider" class="cbp-fwslider">
 
 <ul>
+          
+
 <!-- Slide One -->
 <li id="slide1">
-	<a href="http://gritgoing.umbc.edu/?p=1437" target="_blank"><img src="images/featured/lbb.png" alt="Discover Baltimore">
+  <a href="http://gritgoing.umbc.edu/featured-course-topics-in-art-or-media-i-soundscapes-baltimore/" target="_blank">
+    <img src="http://gritgoing.umbc.edu/wp-content/uploads/2017/06/art392.jpg" alt="ART 392">
     </a>
-  <div class="carousel-caption wordwrap" style="width:250px">
-    <h3>Discover Baltimore!</h3>
-		<small>Just minutes from the main campus, experience Baltimore's unique history, art, and culture up close and personal at the historic Lion Brothers Building (UMBC's new city classroom).</small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1437" role="button" class="web-seemore" target="_blank">Read more</a></p>
-	</div>
-	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1437" target="_blank">Discover Baltimore</a>
+  <div class="carousel-caption-right wordwrap" style="width:250px">
+    <h3>Featured Course: 
+    Soundscapes: Baltimore
+    (ART 392)
+      </h3>
+    <small>Create art and capture history, through the unique sounds of Baltimore city.</small>
+    <p><a href="http://gritgoing.umbc.edu/featured-course-topics-in-art-or-media-i-soundscapes-baltimore/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+    </div>
+    	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/featured-course-topics-in-art-or-media-i-soundscapes-baltimore/" target="_blank">Featured Course: Soundscapes: Baltimore (ART 392)</a>
 	</p>
 </li>
 <!-- END Slide One -->
-          
-<!-- Slide Two --
+
+<!-- Slide Two -->
 <li id="slide2">
-	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">
-    	<img src="images/featured/HIST411.png" alt="Featured Course: Public History Methods">
-	</a>
-	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: Public History Methods<br> (HIST 411)</h3>
-		<small>Create compelling stories about historic sites in Baltimore, then see your work featured on the Explore Baltimore Heritage website.</small>
-		<p><a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-	</div>
-	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">Featured Course: Public History Methods</a>
+	<a href="http://gritgoing.umbc.edu/featured-course-topics-in-political-science-legal-advocacy-2-moot-court/" target="_blank"><img src="http://gritgoing.umbc.edu/wp-content/uploads/2017/06/poli409.png" alt="POLI 409">
+    </a>
+  <div class="carousel-caption wordwrap" style="width:250px">
+    <h3>Featured Course: </h3>
+    <h3>Legal Advocacy 2: Moot Court 
+    (POLI 409)</h3>
+    <small>Gain legal knowledge and develop valuable skills for a career in public service.</small>
+<p><a href="http://gritgoing.umbc.edu/featured-course-topics-in-political-science-legal-advocacy-2-moot-court/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+  </div>
+  	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/featured-course-topics-in-political-science-legal-advocacy-2-moot-court/" target="_blank">Featured Course: Legal Advocacy 2: Moot Court</a>
 	</p>
 </li>
--- END Slide Two -->
+<!-- END Slide Two -->
 
-<!-- Slide Three -->
-<li id="slide2">
-	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">
-    	<img src="images/featured/baltimore.png" alt="Special Programs">
-	</a>
-	<div class="carousel-caption wordwrap">
-		<h3>Special Programs</h3>
-		<small>Go beyond the traditional classroom and broaden your perspective – make your summer count!</small>
-		<p><a href="http://www.umbc.edu/summer/specialprograms/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-	</div>
-	<p id="captiontwo">
-    	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">Special Programs</a>
-	</p>
-</li>
-<!-- END Slide Three -->
-
-<!-- Slide Four --
+<!-- Slide Three --
 <li id="slide3">
 	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/" target="_blank">
     	<img src="images/featured/ART216.png" alt="Featured Course: Public Communication">
@@ -131,23 +122,26 @@
     	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/#" target="_blank">Featured Course: Studies in Visual Culture</a>
 	</p>
 </li>
--- END Slide Four -->
+-- END Slide Three -->
 
-<!-- Slide Five --
-<li id="slide5">
-	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">
-    	<img src="images/featured/jdst390.jpg" alt="Featured Course: Coen Brothers: Genre &amp; Irony">
-	</a>
-	<div class="carousel-caption wordwrap">
-		<h3>Featured Course: Coen Brothers: Genre &amp; Irony <br>(JDST 390)</h3>
-		<small>The Dude abides! Analyze the iconic Coen Brothers’ films, and their take on irony and post-ironic culture.</small>
-		<p><a href="http://gritgoing.umbc.edu/?p=1316" target="_blank" role="button" class="web-seemore" target="_blank">Learn more</a></p>
-	</div>
-	<p id="captiontwo">
-    	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">Featured Course: Coen Brothers: Genre &amp; Irony</a>
+<!-- Slide Four --
+<li id="slide4">
+  <a href="http://gritgoing.umbc.edu/featured-course-topics-in-art-or-media-i-soundscapes-baltimore/" target="_blank">
+    <img src="http://gritgoing.umbc.edu/wp-content/uploads/2017/06/art392.jpg" alt="ART 392">
+    </a>
+  <div class="carousel-caption-right wordwrap" style="width:250px">
+    <h3>Featured Course: 
+    Soundscapes: Baltimore
+    (ART 392)
+      </h3>
+    <small>Create art and capture history, through the unique sounds of Baltimore city.</small>
+    <p><a href="http://gritgoing.umbc.edu/featured-course-topics-in-art-or-media-i-soundscapes-baltimore/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+    </div>
+    	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/featured-course-topics-in-art-or-media-i-soundscapes-baltimore/" target="_blank">Featured Course: Soundscapes: Baltimore (ART 392)</a>
 	</p>
 </li>
-<-- END Slide Five -->         
+ -- END Slide Four -->      
 </ul>
 
 <div id="dotcontainer"></div>

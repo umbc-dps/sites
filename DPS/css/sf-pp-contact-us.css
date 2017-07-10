@@ -1,5 +1,5 @@
 /*Hide Extra Fields */
-#tfa_24-D, #tfa_25-D, #tfa_26-D, #tfa_375-D, #tfa_807-D, #tfa_808-D, #tfa_809-D, #tfa_816-D, #tfa_817-D, #tfa_356-D, #tfa_84-D, #tfa_417, #tfa_766-D, #tfa_824-D {display:none}
+#tfa_24-D, #tfa_25-D, #tfa_26-D, #tfa_375-D, #tfa_807-D, #tfa_808-D, #tfa_809-D, #tfa_816-D, #tfa_817-D, #tfa_356-D, #tfa_84-D, #tfa_417, #tfa_766-D, #tfa_824-D, #tfa_829-HTML{display:none}
 
 
 /* Hide Form Indicators */
@@ -30,11 +30,20 @@ form#tfa_0 input.primaryAction{
 	width:100%!important;
 	max-width:270px!important;
 }
-.wFormContainer{min-height:400px!important; overflow:hidden}
+.wFormContainer{min-height:500px!important; overflow:hidden}
 
 @media screen and (max-width:640px) {
 
 form#tfa_0 #tfa_381-D .inputWrapper{width:100%!important}
 #tfa_381-D textarea{max-width:300px!important}
 
+}
+
+/*Resize CAPTCHA*/
+fieldset.captcha{border:0px!important; margin:0px!important}
+fieldset.captcha legend, div.captchaHelp{display:none!important}
+.g-recaptcha {
+    transform:scale(0.90);
+    transform-origin:0 0;
+	height:50px;
 }

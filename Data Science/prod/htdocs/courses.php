@@ -15,7 +15,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Data Science at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/dpsstage3/index/" />
+<meta property="og:url" content="http://www.umbc.edu/datascience/index/" />
 <meta property="og:image" content="http://www.umbc.edu/biotech/images/bk.jpg" />
 <meta property="og:description" content="UMBC's Data Science program provides managers with the skills needed to lead technical teams." />
 
@@ -79,7 +79,7 @@
 <P><strong>Note:</strong> Not all courses are offered every semester, and new courses may be added at any time. Check the <a href="schedule">schedule of classes</a>, for the latest offerings. </P>
 
 <div class="accordionheader">
-  <h4><a href="#601" id="601"></a>DATA 601: Introduction to Data Science [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#DATA601" id="DATA601"></a>DATA 601: Introduction to Data Science [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -88,7 +88,7 @@
    </div>
    
 <div class="accordionheader">
-  <h4><a href="#602" id="602"></a>DATA 602: Introduction to Data Analysis and Machine Learning [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#DATA602" id="DATA602"></a>DATA 602: Introduction to Data Analysis and Machine Learning [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -98,7 +98,7 @@
    
    
 <div class="accordionheader">
-  <h4><a href="#603"  id="603"></a>DATA 603: Platforms for Big Data Processing [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#DATA603"  id="DATA603"></a>DATA 603: Platforms for Big Data Processing [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -108,7 +108,7 @@
           </div>
    
 <div class="accordionheader">
-  <h4><a href="#604" id="604"></a>DATA 604: Data Management [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#DATA604" id="DATA604"></a>DATA 604: Data Management [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -118,7 +118,7 @@
           </div>
           
           <div class="accordionheader">
-  <h4><a href="#605" id="605"></a>DATA 605: Ethical and Legal Issues in Data Science [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#DATA605" id="DATA605"></a>DATA 605: Ethical and Legal Issues in Data Science [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -126,19 +126,10 @@
             <p>This course provides a comprehensive overview of important legal and ethical issues pertaining to the full life cycle of data science. The student learns how to think through the ethics of making decisions and inferences based on data and how important cases and laws have shaped the data science field. Students will use real and hypothetical case studies across various domains to explore these issues.  <strong>Prerequisite:</strong> Enrollment in the Data Science program. Other students may be admitted with instructor permission. Corequisite:  DATA 601: Introduction to Data Science<br>
    </p>
           </div>
+         
           
           <div class="accordionheader">
-  <h4><a href="#652" id="652"></a>ENMG 652: Management, Leadership and Communication [3]<i class="fa fa-angle-down"></i></h4>
-          </div>
-
-
-          <div class="accordionbody">
-            <p>Students learn effective management and communication skills through case study-analysis, reading, class discussion and role-playing. The course covers topics such as effective listening, setting expectations, delegation, coaching, performance, evaluations, conflict management, negotiation with senior management and managing with integrity.  <br>
-   </p>
-          </div>
-          
-          <div class="accordionheader">
-  <h4><a href="#606" id="606"></a>DATA 606: Capstone in Data Science [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#DATA606" id="DATA606"></a>DATA 606: Capstone in Data Science [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -148,7 +139,17 @@
           </div>
           
           <div class="accordionheader">
-  <h4><a href="#773" id="773"></a>GES 773: GIS Modeling Techniques [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#ENMG652" id="ENMG652"></a>ENMG 652: Management, Leadership and Communication [3]<i class="fa fa-angle-down"></i></h4>
+          </div>
+
+
+          <div class="accordionbody">
+            <p>Students learn effective management and communication skills through case study-analysis, reading, class discussion and role-playing. The course covers topics such as effective listening, setting expectations, delegation, coaching, performance, evaluations, conflict management, negotiation with senior management and managing with integrity.  <br>
+   </p>
+          </div>
+          
+          <div class="accordionheader">
+  <h4><a href="#GES773" id="GES773"></a>GES 773: GIS Modeling Techniques [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -158,7 +159,7 @@
           </div>
           
           <div class="accordionheader">
-  <h4><a href="#774" id="774"></a>GES 774: Spatial Statistics [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#GES774" id="GES774"></a>GES 774: Spatial Statistics [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -168,7 +169,7 @@
           </div>
           
           <div class="accordionheader">
-  <h4><a href="#778" id="778"></a>GES 778: Advanced Visualization and Presentation [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#GES778" id="GES778"></a>GES 778: Advanced Visualization and Presentation [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -178,7 +179,7 @@
           </div>
           
           <div class="accordionheader">
-  <h4><a href="#721" id="721"></a>IS 721: Semi Structured Data Management [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#IS721" id="IS721"></a>IS 721: Semi Structured Data Management [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -188,7 +189,7 @@
           </div>
           
           <div class="accordionheader">
-  <h4><a href="#722" id="722"></a>IS 722: Systems and Information Integration [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#IS722" id="IS722"></a>IS 722: Systems and Information Integration [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 
@@ -198,7 +199,7 @@
           </div>
           
           <div class="accordionheader">
-  <h4><a href="#733" id="733"></a>IS 733: Data Warehousing and Data Mining [3]<i class="fa fa-angle-down"></i></h4>
+  <h4><a href="#IS733" id="IS733"></a>IS 733: Data Warehousing and Data Mining [3]<i class="fa fa-angle-down"></i></h4>
           </div>
 
 

@@ -18,7 +18,8 @@
 
 
       <p style="text-align:center">
-<strong>Fall 2017 Application Deadline:</strong><br> August 1
+<strong>Apply Now for Fall</strong><br>
+Classes Begin August 30
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>
@@ -36,6 +37,11 @@
 
         <dd>Catonsville </dd>
 
+        <dt>Programs Offered</dt>
+
+
+        <dd>Master’s in Professional Studies: Data Science; Graduate Certificate in Professional Studies: Data Science</dd>
+
 
         <dt>Estimated Completion Time</dt>
 
@@ -48,9 +54,9 @@
         <dt>Credit Hours</dt>
         <dd>30 - Master's </dd>
         <dt>Tuition &amp; Fees <span style="font-size:8.5pt">(MD/<a href="http://regional.umbc.edu" target="_blank">Regional</a> Resident)</span></dt>
-        <dd>$733 per credit</dd>
+        <dd>$753 per credit</dd>
         <dt>Tuition &amp; Fees (Non-MD Resident)</dt>
-        <dd>$1127 per credit</dd>
+        <dd>$1,179 per credit</dd>
 
 
         <dt>Start Date</dt>

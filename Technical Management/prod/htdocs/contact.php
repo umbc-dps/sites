@@ -102,9 +102,9 @@ Program Coordinator<br>
             </td>
 
             <td align="left" valign="top">
-              <p><strong>Dr. Thomas Moore</strong><br>
-                Graduate Program Director<br>
-              <a href="mailto:mooretg@umbc.edu">mooretg@umbc.edu</a></p>
+              <p><strong>Dr. Toby Gouker</strong><br>
+Assistant Program Director<br>
+<a href="mailto:tgouker@umbc.edu">tgouker@umbc.edu</a></p>
             </td>
           </tr>
         </table>

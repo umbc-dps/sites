@@ -157,7 +157,7 @@ BEGIN MAIN
       <div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
 
-<!-- SLIDE ONE -->
+<!-- SLIDE ONE --
 
 <li id="slide1">
 
@@ -173,11 +173,11 @@ BEGIN MAIN
 
 </li>
 
-<!---- END SLIDE ONE ---->
+---- END SLIDE ONE ---->
 
-<!-- SLIDE TWO -->
+<!-- SLIDE ONE -->
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="http://techm.umbc.edu/" target="_blank">
 <img src="images/techmgmt.png" alt="Technical Management Program"/></a>
@@ -192,13 +192,11 @@ BEGIN MAIN
 
 </li>
 
-<!---- END SLIDE TWO ----> 
+<!---- END SLIDE ONE ----> 
               
-
-              
-
-<!-- Slide Three -->        
-<li id="slide3">
+     
+<!-- Slide TWO -->        
+<li id="slide2">
 
 <a href="https://www.youtube.com/watch?v=eDLz0pDpHvU" class="video"><img src="images/president.png" alt="President Hrabowski"/></a>
 
@@ -212,12 +210,11 @@ BEGIN MAIN
 
 </li>
 
-<!-- END Slide Three -->  
+<!-- END Slide TWO -->  
 
-<!-- SLIDE Four --> 
+<!-- SLIDE THREE --> 
 
-
-<li id="slide4">
+<li id="slide3">
 
 <a href="http://regional.umbc.edu" target="_blank">
 <img src="http://regional.umbc.edu/images/graduation.jpg" alt="UMBC Regional Tuition Rate"/>
@@ -234,7 +231,7 @@ BEGIN MAIN
 
 </li>
 
-<!-- END SLIDE Four --> 
+<!-- END SLIDE THREE --> 
   
         </ul>
         <div id="dotcontainer"></div>

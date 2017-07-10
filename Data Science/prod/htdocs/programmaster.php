@@ -15,7 +15,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Data Science at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/dpsstage3/index/" />
+<meta property="og:url" content="http://www.umbc.edu/datascience/index/" />
 <meta property="og:image" content="http://www.umbc.edu/biotech/images/bk.jpg" />
 <meta property="og:description" content="UMBC's Data Science program provides managers with the skills needed to lead technical teams." />
 
@@ -66,7 +66,7 @@
   
 <!-- START Content --> 
 
- <h3>M.P.S. of Data Science</h3>
+ <h3>M.P.S. in Data Science</h3>
 
 <p>UMBC’s Master of Professional Studies (MPS) in Data Science program will prepare students from a wide range of disciplinary backgrounds for careers in data science. In the core courses, students will get a fundamental understanding of data science through classes that highlight machine learning, data analysis and data management. The core courses will also introduce students to ethical and legal implications surrounding data science. Beyond the core courses, students will take three courses in domain specific pathways developed in collaboration with academic departments across the university. Through these pathways, students will be able to utilize the skills and techniques they learned in the core courses within their own field or area of expertise.
 </p>
@@ -74,26 +74,14 @@
 
  <h4>Program Curriculum:</h4>
 
-   <h5>Data Science Core: </h5>
    <ul>
-     <li>DATA 601: Introduction to Data Science</li>
-     <li>ENMG 652: Management, Leadership and Communication
-</li>
-     <li>DATA 604: Ethical and Legal Issues in Data Science
-</li>
-     <li>DATA 606: Capstone in Data Science
-</li>
-   
-	</ul>
-    
-    <strong>Required Courses:</strong>
-   <ul>
-     <li>DATA 602: Introduction to Data Analysis and Machine Learning
-</li>
-     <li>DATA 603: Platforms for Big Data Processing 
-</li>
-     <li>DATA 604: Data Management 
-</li>
+     <li><a href="courses#DATA601" target="_blank">DATA 601: Introduction to Data Science</a></li>
+     <li><a href="courses#DATA602" target="_blank">DATA 602: Introduction to Data Analysis and Machine Learning</a></li>
+     <li><a href="courses#DATA603" target="_blank">DATA 603: Platforms for Big Data Processing</a></li>
+     <li><a href="courses#DATA604" target="_blank">DATA 604: Data Management</a></li>
+     <li><a href="courses#DATA605" target="_blank">DATA 605: Ethical and Legal Issues in Data Science</a></li>
+     <li><a href="courses#DATA606" target="_blank">DATA 606: Capstone in Data Science</a></li>
+     <li><a href="courses#ENMG652" target="_blank">ENMG 652: Management, Leadership and Communication</a></li>
 	</ul>
 
    <h5>Pathway Courses:</h5>
@@ -104,17 +92,17 @@
 
 
 <ul>
-<li>GES 773:  GIS Modeling</li>
-<li>GES 774:  Spatial Analysis</li>
-<li>GES 778:  Visualization and Presentation</li>
+    <li><a href="courses#GES773" target="_blank">GES 773:  GIS Modeling</a></li>
+    <li><a href="courses#GES774" target="_blank">GES 774:  Spatial Analysis</a></li>
+    <li><a href="courses#GES778" target="_blank">GES 778:  Visualization and Presentation</a></li>
 </ul>
 
 <strong>2. Data Science Analysis</strong> - in collaboration with the Department of Information Systems:
 
 <ul>
-<li>IS 721:  Semi-Structured Data Management</li>
-<li>IS 722:  Systems and Information Integration</li>
-<li>IS 733:  Data Warehousing and Data Mining</li>
+    <li><a href="courses#IS721" target="_blank">IS 721:  Semi-Structured Data Management</a></li>
+    <li><a href="courses#IS722" target="_blank">IS 722:  Systems and Information Integration</a></li>
+    <li><a href="courses#IS733" target="_blank">IS 733:  Data Warehousing and Data Mining</a></li>
 </ul>
 <!-- END Content -->
 

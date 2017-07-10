@@ -1,5 +1,5 @@
 <div class="five columns">
-
+<!--
      <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
 
@@ -10,7 +10,7 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
 <a href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=se_sidebar" class="btn">Save Your Spot!</a>
 	</p>
     </aside>
-    
+ -->   
     <aside class="five columns add-bottom" id="two" style="display:none">
       <h3 style="color:#fff;">Past Event</h3>
 
@@ -24,8 +24,8 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>      <p style="text-align:center">
-Apply Now for Fall<br>
-Deadline: August 1st<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
+<strong>Apply Now for Fall</strong><br>
+Classes Begin August 30<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
       </p>
 
 

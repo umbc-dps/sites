@@ -1,5 +1,6 @@
 <div class="five columns">
 
+<!--
 	<aside class="five columns add-bottom" id="three">
       <h3 style="color:#fff;">Upcoming Event</h3>
 
@@ -9,13 +10,15 @@
         <a class="btn" href="http://umbc.edu/openhouse?utm_campaign=openhouse_summer17&utm_source=umbc.edu&utm_medium=referral&utm_content=techm_sidebar">Save Your Spot</a>
       </p>
 </aside>
+-->
 
     <aside class="five columns add-bottom" id="three">
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
       <p style="text-align:center">
-<strong>Fall 2017 Application Deadline:</strong><br> August 1
+<strong>Apply Now for Fall</strong><br>
+Classes Begin August 30
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply">Apply Now</a>
       </p>
 </aside>

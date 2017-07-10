@@ -75,7 +75,7 @@
 	<a href="http://gritgoing.umbc.edu/?p=1437" target="_blank"><img src="images/featured/lbb.png" alt="Discover Baltimore">
     </a>
   <div class="carousel-caption wordwrap" style="width:250px">
-    <h3>Featured Course: Legal Advocacy 2: Moot Court (POLI 409)</h3>
+    <h3>Discover Baltimore!</h3>
 		<small>Just minutes from the main campus, experience Baltimore's unique history, art, and culture up close and personal at the historic Lion Brothers Building (UMBC's new city classroom).</small>
 		<p><a href="http://gritgoing.umbc.edu/?p=1437" role="button" class="web-seemore" target="_blank">Read more</a></p>
 	</div>
@@ -85,7 +85,7 @@
 </li>
 <!-- END Slide One -->
           
-<!-- Slide Two -->
+<!-- Slide Two --
 <li id="slide2">
 	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">
     	<img src="images/featured/HIST411.png" alt="Featured Course: Public History Methods">
@@ -99,9 +99,8 @@
     	<a href="http://gritgoing.umbc.edu/featured-course-public-history-methods-explore-baltimore-heritage" target="_blank">Featured Course: Public History Methods</a>
 	</p>
 </li>
-<!-- END Slide Two -->
-<!-- Slide Three -->
-<li id="slide3">
+-- END Slide Two -->
+<li id="slide2">
 	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">
     	<img src="images/featured/baltimore.png" alt="Special Programs">
 	</a>
@@ -114,10 +113,38 @@
     	<a href="http://www.umbc.edu/summer/specialprograms/" target="_blank">Special Programs</a>
 	</p>
 </li>
+<!-- Slide Three -->
+<li id="slide3">
+	<a href="http://gritgoing.umbc.edu/featured-course-topics-in-political-science-legal-advocacy-2-moot-court/" target="_blank"><img src="http://gritgoing.umbc.edu/wp-content/uploads/2017/06/poli409.png" alt="POLI 409">
+    </a>
+  <div class="carousel-caption wordwrap" style="width:250px">
+    <h3>Featured Course: </h3>
+    <h3>Legal Advocacy 2: Moot Court 
+    (POLI 409)</h3>
+    <small>Build and apply legal knowledge, argue a case, and build public speaking skills.</small>
+<p><a href="http://gritgoing.umbc.edu/featured-course-topics-in-political-science-legal-advocacy-2-moot-court/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+  </div>
+  	<p id="captiontwo">
+    	<a href="http://gritgoing.umbc.edu/featured-course-topics-in-political-science-legal-advocacy-2-moot-court/" target="_blank">Featured Course: Legal Advocacy 2: Moot Court</a>
+	</p>
+</li>
 <!-- END Slide Three -->
+<li id="slide4">
+  <a href="http://gritgoing.umbc.edu/featured-course-topics-in-art-or-media-i-soundscapes-baltimore/" target="_blank">
+    <img src="http://gritgoing.umbc.edu/wp-content/uploads/2017/06/art392.jpg" alt="ART 392">
+    </a>
+  <div class="carousel-caption-right wordwrap" style="width:250px">
+    <h3>Featured Course:</h3>
+    <h3>Soundscapes: Baltimore
+    (ART 392)
+      </h3>
+    <small>This summer, discover the sounds of Baltimore city and create a sound map.</small>
+    <p><a href="http://gritgoing.umbc.edu/featured-course-topics-in-art-or-media-i-soundscapes-baltimore/" role="button" class="web-seemore" target="_blank">Learn more</a></p>
+    </div>
+</li>
 
-<!-- Slide Four -->
-<li id="slide2">
+<!-- Slide Four --
+<li id="slide3">
 	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/" target="_blank">
     	<img src="images/featured/ART216.png" alt="Featured Course: Public Communication">
 	</a>
@@ -130,7 +157,7 @@
     	<a href="http://gritgoing.umbc.edu/featured-course-studies-in-visual-culture-prehistory-through-the-1750s/#" target="_blank">Featured Course: Studies in Visual Culture</a>
 	</p>
 </li>
-<!-- END Slide Four -->
+-- END Slide Four -->
 
 <!-- Slide Five --
 <li id="slide5">
@@ -146,9 +173,9 @@
     	<a href="http://gritgoing.umbc.edu/?p=1316" target="_blank">Featured Course: Coen Brothers: Genre &amp; Irony</a>
 	</p>
 </li>
-<-- END Slide Five -->
-      
+<-- END Slide Five -->         
 </ul>
+
 <div id="dotcontainer"></div>
 </div>
       
@@ -167,9 +194,9 @@
 <div style="display:inline; float:left;"> 
 	<dl class="eleven columns alpha">
 		<br>
-        <h2><strong>Registration Begins March 6</strong></h2>
-        <em><h4>Graduate on time (or early)!</h4></em>
-        <p>Visiting students from other colleges and universities must first <a href="visitingstudents">apply to UMBC</a> and be admitted before you can register.</p>
+        <h3><strong>Session II begins July 10.</strong></h3>
+        <p>Current UMBC students can <a href="courses" target="_blank">register now for classes</a>. Incoming new fall students are also <a href="incomingstudents">able to enroll</a>. </p>
+        <p>Visiting students from other institutions must first <a href="visitingstudents">apply for summer admission</a> by no later than July 5.</p>
 
 
         <h5><strong>Summer Session Dates</strong></h5>
@@ -232,10 +259,8 @@ $( function() {
         mouseenter: function() { isPaused = true; },
         mouseleave: function() { isPaused = false; }
                         });
-
     setInterval(function() {
         if (isPaused) return; // do nothing when paused
-
         if(jQuery('.cbp-fwnext').css('display') != 'none')
             jQuery('.cbp-fwnext').click();
         else

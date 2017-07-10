@@ -1,6 +1,7 @@
 
 
 <div class="five columns">
+<!--- Hide Upcoming Event Sidebar Item --
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Upcoming Event</h3>
       <p style="text-align:center"><strong>Program Exploration Open House</strong>    
@@ -10,6 +11,7 @@
       </p>
       <hr style="margin-bottom:0px">
 </aside>
+--->
 
     
     <aside class="five columns add-bottom" id="one">
@@ -26,8 +28,8 @@
 
 
       <p style="text-align:center">
-Apply Now for Fall<br>
-Deadline: August 1st<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
+<strong>Apply Now for Fall</strong><br>
+Classes Begin August 30<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply/" target="_blank">Apply Now</a>
       </p>
 </aside>
 

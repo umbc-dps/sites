@@ -15,7 +15,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Data Science at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/dpsstage3/index/" />
+<meta property="og:url" content="http://www.umbc.edu/datascience/index/" />
 <meta property="og:image" content="http://www.umbc.edu/biotech/images/bk.jpg" />
 <meta property="og:description" content="UMBC's Data Science program provides managers with the skills needed to lead technical teams." />
 
@@ -71,10 +71,10 @@
 <p>A  post-baccalaureate ertificate in Data Science could be taken by students in current technical MPS degrees like Cybersecurity and Engineering Management. The four certificate courses are:</p>
 
 <ul>
-<li>DATA 601: Introduction to Data Science</li>
-<li>DATA 602: Introduction to Data Analysis and Machine Learning</li>
-<li>DATA 603: Platforms for Big Data Processing</li>
-<li>DATA 604: Data Management</li> 
+     <li><a href="courses#DATA601" target="_blank">DATA 601: Introduction to Data Science</a></li>
+     <li><a href="courses#DATA602" target="_blank">DATA 602: Introduction to Data Analysis and Machine Learning</a></li>
+     <li><a href="courses#DATA603" target="_blank">DATA 603: Platforms for Big Data Processing</a></li>
+     <li><a href="courses#DATA604" target="_blank">DATA 604: Data Management</a></li>
 </ul>
 
 

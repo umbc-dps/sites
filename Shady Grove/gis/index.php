@@ -71,7 +71,7 @@
     <ul>
 
 
-<!-- Slide ONE -->    
+<!-- Slide ONE --    
 
 <li id="slide1">
 
@@ -89,12 +89,12 @@
 
 </li>
 
-<!-- END SLIDE ONE -->
+-- END SLIDE ONE -->
 
 
-<!-- SLIDE TWO --> 
+<!-- SLIDE ONE --> 
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="http://regional.umbc.edu" target="_blank">
 <img src="http://umbc.edu/cyber/images/grad.png" alt="UMBC Regional Tuition Rate"/>
@@ -110,11 +110,11 @@
 <p id="captionthree"><a href="http://regional.umbc.edu" target="_blank">Announcing New Regional Tuition Rate</a></p>
 
 </li>
-<!-- END SLIDE TWO -->
+<!-- END SLIDE ONE -->
 
 
-<!-- SLIDE THREE --> 
-<li id="slide3">
+<!-- SLIDE TWO --> 
+<li id="slide2">
       
 <a href="http://woolpert.com/resource/woolpert-geospatial-scientist-named-asprs-fellow-earns-outstanding-service-award/" target="_blank"><img alt="img02" src="images/abdullah.png"></a>
 
@@ -127,7 +127,7 @@
 <p id="captiontwo"><a href="http://woolpert.com/resource/woolpert-geospatial-scientist-named-asprs-fellow-earns-outstanding-service-award/" target="_blank">Distinguished Faculty: Dr. Qassim Abdullah</a></p>
 
 </li>
-<!-- END SLIDE THREE -->  
+<!-- END SLIDE TWO -->  
 
 <!-- Slide THREE --  
 
@@ -146,9 +146,9 @@
 
 <!-- END SLIDE THREE -->  
 
-<!-- Slide FOUR -->    
+<!-- Slide THREE -->    
 
-<li id="slide4">
+<li id="slide3">
 
 <a href="http://gradschool.umbc.edu/admissions/apply/"  target="_blank">
 	<img alt="img04" src="images/7gis.jpg"target="_blank">
@@ -164,7 +164,7 @@
 
 </li>
 
-<!-- END SLIDE FOUR -->
+<!-- END SLIDE THREE -->
      
     </ul>
 

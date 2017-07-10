@@ -29,6 +29,7 @@ var url1 = patharray[2];
 if (
 //changeurl == 'biotech' || 
 //changeurl == 'shadygrove/biotech' || 
+//changeurl == 'eil' ||
 changeurl == 'cyber' || 
 changeurl == 'shadygrove/cyber' || 
 changeurl == 'hit' || 
@@ -36,7 +37,9 @@ changeurl == 'engm' ||
 changeurl == 'isd' || 
 changeurl == 'se' ||
 changeurl == 'shadygrove/gis' ||
-changeurl == 'shadygrove/io'){
+changeurl == 'datascience' ||
+changeurl == 'techm'
+){
 	
 	var val9 = 'http://www.umbc.edu/'+changeurl+'/documents/programguide.pdf'
 	var val10 = 'http://www.umbc.edu/'+changeurl+'/documents/planningform.pdf'

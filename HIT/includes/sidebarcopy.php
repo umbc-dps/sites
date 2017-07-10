@@ -25,8 +25,8 @@ Wednesday, March 8, 12:00PM - 1:00PM<br>
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>      <p style="text-align:center">
-Apply Now for Fall<br>
-Deadline: August 1st<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
+<strong>Apply Now for Fall</strong><br>
+Classes Begin August 30<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
 </aside>
 

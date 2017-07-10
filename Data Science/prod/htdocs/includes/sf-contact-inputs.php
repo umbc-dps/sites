@@ -17,18 +17,18 @@ $('select#tfa_766').find('option').each(function(){
 	
 /* Set Program Coordinator */
 $('select#tfa_809').find('option').each(function(){
-         if($(this).text() == 'Kim Edmonds - 00550000006H4PO')
+         if($(this).text() == 'Sonya Crosby - 005500000063CBi')
             this.selected = true;
     });
 	
 /* Set Program Coordinator Email */
-$("#tfa_816").attr("value", 'kedmonds@umbc.edu');
+$("#tfa_816").attr("value", 'scrosby@umbc.edu');
 
 /* Set Program URL */
-$("#tfa_807").attr("value", 'techm');
+$("#tfa_807").attr("value", 'datascience');
 
 /*Set Email Body */
-$("#tfa_817").val("UMBC's Technology Management program is built around a core set of six courses that provide the foundational knowledge in leadership, communications, ethics and project management. The core courses are supplemented with technically-oriented courses in entrepreneurship, international project management, and organizational leadership. Students can also earn certificates in systems engineering, and cyber security along with the Master’s degree.");
+$("#tfa_817").val("The Data Science Master’s program at UMBC prepares students from a wide range of disciplinary backgrounds for careers in data science. In the core courses, students will gain a thorough understanding of data science through classes that highlight: Machine learning, Data analysis, Data management, Ethical and legal considerations, and more.");
 
 /* Send Google ID to Salesforce */
 ga(function(tracker) {

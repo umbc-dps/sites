@@ -31,10 +31,11 @@ form#tfa_0 input.primaryAction{
 }
 .wFormContainer{min-height:315px!important; overflow:hidden}
 
-fieldset.captcha{border:0px!important; margin:0px!important}
-fieldset.captcha legend, div.captchaHelp{display:none!important}
+
 
 /*Resize CAPTCHA*/
+fieldset.captcha{border:0px!important; margin:0px!important}
+fieldset.captcha legend, div.captchaHelp{display:none!important}
 .g-recaptcha {
     transform:scale(0.85);
     transform-origin:0 0;

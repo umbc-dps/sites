@@ -76,7 +76,7 @@
     <ul>
     
     
-<!-- Slide One -->  
+<!-- Event Slide --  
             
 <li id="slide1">
 
@@ -93,11 +93,11 @@
 </li>
 
  
-<!-- END Slide One -->  
+-- END Event Slide -->  
 
 
-<!-- SLIDE TWO -->    
-     <li id="slide2">
+<!-- SLIDE ONE -->    
+     <li id="slide1">
         <a href="http://www.baltimoresun.com/news/maryland/howard/92982770-132.html"><img alt="img01" src="images/ISD-Firefighter.jpg"></a>
 
         <div class="carousel-caption-right wordwrap">
@@ -111,11 +111,11 @@
           <a href="http://www.baltimoresun.com/news/maryland/howard/92982770-132.html">ISD Alum is Training Others to Save Lives</a>
         </p>
       </li>
-<!-- END SLIDE TWO -->
+<!-- END SLIDE ONE -->
 
 
-<!-- SLIDE THREE --> 
-      <li id="slide3">
+<!-- SLIDE TWO --> 
+      <li id="slide2">
         <a href=
 "https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" target="_blank"><img alt="img03" src="images/TD-Magazine.jpg"></a>
 
@@ -132,12 +132,12 @@
           <a href="https://www.td.org/Publications/TD-at-Work/2016/Creating-a-Career-Portfolio" target="_blank">Creating a Career Portfolio</a>
         </p>
       </li>
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE TWO --> 
 
 
-<!-- Slide FOUR -->    
+<!-- Slide THREE -->    
 
-<li id="slide4">
+<li id="slide3">
 
 <a href="https://www.youtube.com/watch?v=fTCHzxX0YW8" class="video"><img src="images/Carousel.png" alt="ISD Now Forum 2016"/></a>
 <div class="carousel-caption-right wordwrap">
@@ -150,7 +150,7 @@
 
 </li>
 
-<!-- END SLIDE FOUR --> 
+<!-- END SLIDE THREE --> 
       
     </ul>
 

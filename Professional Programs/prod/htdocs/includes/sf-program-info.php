@@ -49,6 +49,16 @@
     <td>Shady Grove</td>
     <td>shadygrove/cyber</td>
   </tr>
+  <tr>
+    <td>Data Science</td>
+    <td>Sonya Crosby</td>
+    <td>Sonya Crosby - 005500000063CBi</td>
+    <td>scrosby@umbc.edu</td>
+    <td></td>
+    <td>UMBC's Data Science program is built around a core set of courses wherein students will develop an in-depth understanding of the basic computing principles behind data science, to include but not limited to data ingestion, curation and cleaning and the 4Vs of data science: Volume, Variety, Velocity, Veracity, as well as the implicit 5th V -- Value.  Through applying principles of data science to the analysis of problems within specific domains expressed through the program pathways, students will gain practical, real world industry relevant experience. </td>
+    <td>Main Campus</td>
+    <td>datascience</td>
+  </tr>
     <tr>
     <td>Health Information Technology</td>
     <td>Lisa Gambino, Assistant Director of Professional Programs</td>
@@ -69,6 +79,16 @@
     <td>Main Campus</td>
     <td>engm</td>
   </tr>
+    <tr>
+      <td>Entrepreneurship, Innovation &amp; Leadership</td>
+      <td>Sonya Crosby, Director</td>
+      <td>Sonya Crosby - 005500000063CBi</td>
+      <td>scrosby@umbc.edu</td>
+      <td></td>
+      <td>UMBC's Entrepreneurship, Leadership &amp; Innovation is ideal for working professional in both small and large organizations who have an interest in incorporating entrepreneurial thinking and innovative practices into their workplace or community. The program provides the opportunity for students to gain exposure to key concepts and skills in entrepreneurship, innovation, and leadership.  The program will be highly interactive with classes taught by instructors who have deep practical experience and passion in entrepreneurship. Students enrolled in the program will learn the tools and concepts to help them to move toward the realization of an entrepreneurial, intrapreneurial or socialpreneurial opportunity.</td>
+      <td>Main Campus</td>
+      <td>eil</td>
+    </tr>
     <tr>
     <td>Systems Engineering</td>
     <td>Kim Edmonds, Graduate Program Coordinator</td>
@@ -105,7 +125,7 @@
           <td>Kim Edmonds - 00550000006H4PO</td>
           <td>kedmonds@umbc.edu</td>
           <td></td>
-          <td>UMBC's Technology Management program is built around a core set of six courses that provide the foundational knowledge in leadership, communications, ethics and project management. The core courses are supplemented with technically-oriented courses in entrepreneurship, international project management, and organizational leadership. Students can also earn certificates in systems engineering, and cyber security along with the Master&rsquo;s degree.</td>
+          <td>UMBC's Technology Management program is built around a core set of six courses that provide the foundational knowledge in leadership, communications, ethics and project management. The core courses are supplemented with technically-oriented courses in entrepreneurship, international project management, and organizational leadership. Students can also earn certificates in systems engineering, and cyber security along with the Master’s degree.</td>
           <td>Main Campus</td>
           <td>techm</td>
         </tr>

@@ -63,7 +63,7 @@
     <div class="cbp-fwslider" id="cbp-fwslider">
       <ul>
 
-<!-- SLIDE ONE --
+<!-- Register/Apply Slide --
 
 <li id="slide1">
 
@@ -79,10 +79,10 @@
 
 </li>
 
----- END SLIDE ONE ---->
+---- END Register/Apply Slide ---->
 
 
-<!-- SLIDE ONE -->              
+<!-- Event Slide --             
 
 <li id="slide1">
 
@@ -98,11 +98,11 @@
 
 </li>
 
-<!-- END SLIDE ONE -->  
+ END Event Slide -->  
 
-<!-- Slide TWO -->    
+<!-- Slide ONE -->    
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="https://www.youtube.com/watch?v=sV7JzBmfPFc" class="video"><img src="images/Biotech-lab.jpg" alt="Developing Skills that Advance Innovation"/></a>
 <div class="carousel-caption wordwrap">
@@ -115,11 +115,11 @@
 
 </li>
 
-<!-- END SLIDE TWO --> 
+<!-- END SLIDE ONE --> 
 
-<!-- SLIDE THREE --> 
+<!-- SLIDE TWO --> 
 
-<li id="slide3">
+<li id="slide2">
 
 <a href="http://regional.umbc.edu" target="_blank">
 <img src="http://umbc.edu/cyber/images/grad.png" alt="UMBC Regional Tuition Rate"/>
@@ -136,11 +136,11 @@
 
 </li>
 
-<!-- END SLIDE THREE -->
+<!-- END SLIDE TWO -->
 
-<!-- SLIDE FOUR -->
+<!-- SLIDE THREEE -->
 
-<li id="slide4">
+<li id="slide3">
 <a href="programmaster"><img alt="img03" src="images/4.jpg"></a>
 
 <div class="carousel-caption-right wordwrap">

@@ -96,7 +96,7 @@
 -- END SLIDE ONE -->
 
 
-<!-- SLIDE ONE --> 
+<!-- EVENT SLIDE -- 
 
 <li id="slide1">
 
@@ -112,11 +112,11 @@
 
 </li>
    
-<!-- END SLIDE ONE -->
+-- END EVENT SLIDE -->
 
-<!-- SLIDE TWO --> 
+<!-- SLIDE ONE --> 
 
-<li id="slide2">
+<li id="slide1">
 
 <a href="https://www.youtube.com/watch?v=Qd19cywnibc" class="video"><img alt="img01" src="images/aayush.jpg"></a>
 
@@ -132,11 +132,11 @@
 
 </li>
 
-<!-- END SLIDE TWO --> 
+<!-- END SLIDE ONE --> 
 
-<!-- SLIDE THREE --> 
+<!-- SLIDE TWO --> 
 
-<li id="slide3">
+<li id="slide2">
 
 <a href="https://www.youtube.com/watch?v=ICsFC-pRO78" class="video"><img alt="img01" src="images/4.png"></a>
 
@@ -152,14 +152,14 @@
 
 </li>
 
-<!-- END SLIDE THREE --> 
+<!-- END SLIDE TWO --> 
 
-<!-- SLIDE FOUR -->    
+<!-- SLIDE THREE -->    
 
-<li id="slide4">
+<li id="slide3">
 
 <a href="https://www.youtube.com/watch?v=59teMksi3VM"><img src="images/EM-carousel1.jpg" alt="Meet Our Faculty: Dr. Toby Gouker"/></a>
-<div class="carousel-caption wordwrap">
+<div class="carousel-caption-right wordwrap">
 <h3>Meet Our Faculty: Dr. Toby Gouker</h3>
 <small>Dr. Gouker dicusses the unique focus of the Engineering Management Program at UMBC</small>
 
@@ -169,7 +169,7 @@
 
 </li>
 
-<!-- END SLIDE FOUR --> 
+<!-- END SLIDE THREE --> 
       
     </ul>
 

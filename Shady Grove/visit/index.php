@@ -134,7 +134,6 @@ For a campus map, directions and parking information, please click <a href="htt
     
 	<div class="accordionbody">
 <p>
-    Thursday, June 15, 12:00pm<br>
     Saturday, July 22, 12:30pm<br>
     Wednesday, August 9, 4:30pm<br>
 	  <br>
@@ -200,9 +199,12 @@ Check back soon for new opportunities.</p>
 <p>    
 Thursday, June 15, 2017, 6-7:30 PM</p>
 
+<!--
 <p><a href="http://www.umbc.edu/shadygrove/gis/infosession?utm_campaign=infosession_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=sg_visit_us" target="_blank" class="button btn-sm">
 	    Info Session RSVP</a></p>
-
+-->
+<p>    
+Check back soon for new opportunities.</p>
 </div>
 
 	<div class="accordionheader">
@@ -213,8 +215,8 @@ Thursday, June 15, 2017, 6-7:30 PM</p>
 <p>    
 Thursday, June 15, 2017, 6-7:30 PM</p>
 
-<p><a href="http://www.umbc.edu/shadygrove/cyber/infosession?utm_campaign=infosession_spring17&utm_source=umbc.edu&utm_medium=referral&utm_content=sg_visit_us" target="_blank" class="button btn-sm">
-	    Info Session RSVP</a></p>
+<p>    
+Check back soon for new opportunities.</p>
 
 </div>
 

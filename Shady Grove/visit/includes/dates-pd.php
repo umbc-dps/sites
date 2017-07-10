@@ -6,7 +6,6 @@ Wednesday, August 16: 4:00pm
 
 <h5 class="socialwork">
 <span class="programname" style="display:none">Social Work</span>
-Thursday, June 29: 5:00pm<br>
 Tuesday, July 25: 12:00pm
 </h5>
   

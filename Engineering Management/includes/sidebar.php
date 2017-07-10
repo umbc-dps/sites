@@ -1,14 +1,13 @@
 <div class="five columns">
-
+      <!--
      <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
-      <!--
+
       <br>
       <p style="font-style:italic; text-align:center; margin-top:-15px;">
       <strong>Drop in and chat with the Program Director on 5/1!</strong><br />
 <a href="infosession" target="_blank" class="btn">Sign Up</a></p> 
 <hr>
--->
       <p>
 		<strong>Program Exploration Open House</strong><br>
 Wednesday, June 21, 6:00PM - 7:30PM<br>
@@ -16,8 +15,9 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
 	</p>
 
     </aside>
+
     
-    <aside class="five columns add-bottom" id="two" style="display:none">
+    <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Past Event</h3>
 
 
@@ -25,13 +25,13 @@ Wednesday, June 21, 6:00PM - 7:30PM<br>
         <a class="btn video" href="https://www.youtube.com/watch?v=odguhEY9UDU">Watch Video</a>
       </p>
     </aside>
-    
+-->    
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>      
       <p style="text-align:center">
-Apply Now for Fall<br>
-Deadline: August 1st<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
+<strong>Apply Now for Fall</strong><br>
+Classes Begin August 30<br> <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
 </aside>
 

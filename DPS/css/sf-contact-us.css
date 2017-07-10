@@ -38,6 +38,7 @@ fieldset.captcha legend, div.captchaHelp{display:none!important}
 /*Hide Fields*/
 #tfa_766-D, #tfa_331-D, #tfa_807-D, #tfa_808-D, #tfa_809-D, #tfa_816-D, #tfa_822-D, #tfa_817-D, #tfa_822-HTML{display:none}
 
+/* Hides Some Fields on Mobile*/
 @media screen and (max-width:640px) {
 
 #tfa_24-D, #tfa_25-D, #tfa_26-D, #tfa_375-D {display:none}

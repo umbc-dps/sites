@@ -9,7 +9,7 @@
 <file name="contact.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131267333154010955" remote="131267297150000000" Dst="2" />
 <file name="dpsorders.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131012345850000000" remote="131012345850000000" Dst="2" />
 <file name="meetingrequest.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196421680830" remote="131357196480000000" Dst="2" />
-<file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131267321847050372" remote="131267321850000000" Dst="1" />
+<file name="process.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131267321847050372" remote="131267285850000000" Dst="2" />
 <file name="autoload.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131060823200000000" remote="131060823200000000" Dst="2" />
 <file name="google-form.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="130952837390000000" remote="130952837390000000" Dst="2" />
 <file name="green.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131063441870000000" remote="131063441870000000" Dst="2" />
@@ -20,4 +20,5 @@
 <file name="news.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357207271925746" remote="131357207270000000" Dst="2" />
 <file name="confirm.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131357196417110373" remote="131357196490000000" Dst="2" />
 <file name="orientationdraft.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131370176637680588" remote="131370176640000000" Dst="2" />
+<file name="manual.php" server="gl.umbc.edu//afs/umbc.edu/public/www/dps/" local="131426217811002075" remote="131426217810000000" Dst="2" />
 </dwsync>

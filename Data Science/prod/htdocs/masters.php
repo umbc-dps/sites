@@ -14,7 +14,7 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Data Science at UMBC" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.umbc.edu/dpsstage3/index/" />
+<meta property="og:url" content="http://www.umbc.edu/datascience/index/" />
 <meta property="og:image" content="http://www.umbc.edu/biotech/images/bk.jpg" />
 <meta property="og:description" content="UMBC's Data Science program provides managers with the skills needed to lead technical teams." />
 
@@ -82,7 +82,8 @@
      <ul>
        <li>One semester of statistics</li>
        <li>Calculus I or II (depending upon track)</li>
-       <li>No formal requirement for a programming language, but candidates are encouraged to have relevant professional or academic experience with programming and software   </li>
+       <li>Candidates must have academic or professional experience equivalent to basic programming courses.</li>
+       <li>Students who do not have formal undergraduate programming courses or on-the-job training are encouraged to use MOOCs or Khan Academy. </li>
      </ul>
    </li>
    <li>International applicants should refer to the <a href="international.php">International Admission Page</a> for special admission information </li>                 

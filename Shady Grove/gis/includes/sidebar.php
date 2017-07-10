@@ -1,5 +1,6 @@
 <div class="five columns">
 
+<!--
 <aside class="five columns add-bottom" id="one">
       <h3 style="color:#fff;">Upcoming Events</h3>
 
@@ -9,13 +10,14 @@
         <a class="btn" href="http://www.umbc.edu/shadygrove/gis/infosession" target="_blank">RSVP Now</a>
       </p>
     </aside>
+-->
 
     <aside class="five columns add-bottom" id="two">
       <h3 style="color:#fff;">Application Deadline</h3>
 
 
-      <p style="text-align:center"><strong>Fall 2017 Application</strong><br> 
-		Deadline: August 1<br>
+      <p style="text-align:center"><strong>Apply Now for Fall</strong><br>
+Classes begin August 30<br>
         <a class="btn" href="http://gradschool.umbc.edu/admissions/apply" target="_blank">Apply Now</a>
       </p>
 	</aside>

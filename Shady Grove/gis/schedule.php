@@ -118,7 +118,7 @@
   <tr>
     <td>GES 679.2 (8029)</td>
     <td><a href="https://highpoint-prd.ps.umbc.edu/app/catalog/classsection/UMBC1/2178/8029" target="_blank">Professional Seminar in Geospatial Technologies </a></td>
-    <td>W</td>
+    <td>Th</td>
     <td>6:15 PM - 8:00 PM</td>
     <td>Alex Din</td>
   </tr>

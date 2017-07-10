@@ -206,7 +206,7 @@ a.web-seemore { color: #FFF !important}
 	width: 350px
 }
 #umbc-logo a {
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(http://www.umbc.edu/dps/images/sprites-new.png);
 	background-position: 0 0;
 	background-repeat: no-repeat;
 	display: block;
@@ -296,7 +296,7 @@ li#umbc-nav-maps {
 	right: 0;
 	top: 0;
 	background-color: transparent;
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(http://www.umbc.edu/dps/images/sprites-new.png);
 	background-position: 0 -93px;
 	height: 30px;
 	width: 30px;
@@ -503,7 +503,7 @@ li#umbc-nav-maps {
 	width: 229px
 }
 #umbc-footer-logo a {
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(http://www.umbc.edu/dps/images/sprites-new.png);
 	background-position: -109px -63px;
 	background-repeat: no-repeat;
 	display: block;
@@ -549,7 +549,7 @@ li#umbc-nav-maps {
 	position: relative;
 	top: -1px;
 	cursor: pointer;
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(http://www.umbc.edu/dps/images/sprites-new.png);
 	display: inline-block
 }
 #umbc-footer-facebook {
@@ -1590,7 +1590,7 @@ h6 {
 	width: 109px
 }
 #umbc-logo a {
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(http://www.umbc.edu/dps/images/sprites-new.png);
 	background-position: 0 -63px;
 	height: 30px;
 	width: 109px
@@ -1763,7 +1763,7 @@ aside p, aside dl {
 	width: 109px
 }
 #umbc-logo a {
-	background-image: url(http://www.umbc.edu/dps/images/sprites-50.png);
+	background-image: url(http://www.umbc.edu/dps/images/sprites-new.png);
 	background-position: 0 -63px;
 	height: 30px;
 	width: 109px

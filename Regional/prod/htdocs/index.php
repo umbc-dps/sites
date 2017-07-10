@@ -225,7 +225,9 @@ BEGIN MAIN
         <a href="http://www.umbc.edu/biotech/costs.php" target="_blank"><li>Biotechnology</li></a>
         <a href="http://www.umbc.edu/cyber/costs.php" target="_blank"><li>Cybersecurity</li></a>
         <a href="http://www.umbc.edu/shadygrove/cyber/costs.php" target="_blank"><li>Cybersecurity at Shady Grove</li></a>
+        <a href="http://datascience.umbc.edu/costs" target="_blank"><li>Data Science</li></a>
         <a href="http://www.umbc.edu/engm/costs.php" target="_blank"><li>Engineering Management</li></a>
+        <li>Entreprenuership, Innovation & Leadership (Starting Spring 2018)</li>
         <a href="http://www.umbc.edu/shadygrove/gis/costs.php" target="_blank"><li>Geographic Information Systems</li></a>
         <a href="http://www.umbc.edu/hit/costs.php" target="_blank"><li>Health Information Technology</li></a>
         <a href="http://www.umbc.edu/shadygrove/io/costs.php" target="_blank"><li>Industrial/Organizational Psychology</li></a>

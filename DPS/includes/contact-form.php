@@ -308,9 +308,13 @@
            <option value="Biotechnology (Shady Grove)" id="bio-sg" class="usg-grad">Biotechnology (Shady Grove)</option> 
            <option value="Cybersecurity (Main)" id="cyber" class="pp">Cybersecurity (Catonsville)</option> 
            <option value="Cybersecurity (Shady Grove)" id="cyber-sg" class="usg-grad">Cybersecurity (Shady Grove)</option> 
+           <option value="Data Science (Main)" id="datascience" class="pp">Data Science</option> 
            <option value="Health Information Technology (Main)" id="hit" class="pp">Health Information Technology</option> 
            <option value="Engineering Management (Main)" id="engm" class="pp">Engineering Management</option> 
-           <option value="Systems Engineering (Main)" id="se" class="pp">Systems Engineering</option> 
+           <option value="Entrepreneurship, Innovation &amp; Leadership (Main)" id="eil" class="pp">Entrepreneurship, Innovation &amp; Leadership</option>
+           
+           <option value="Systems Engineering (Main)" id="se" class="pp">Systems Engineering</option>
+           <option value="Technical Management (Main)" id="techm" class="pp">Technical Management</option>  
            <option value="Geographic Information Systems (Shady Grove)" id="gis" class="usg-grad">Geographic Information Systems</option> 
            <option value="Industrial & Organizational Psychology (Shady Grove)" id="io" class="usg-grad">Industrial & Organizational Psychology</option> 
            <option value="Instructional Systems Development (Main)" id="isd" class="pp">Instructional Systems Development</option> 
@@ -325,6 +329,7 @@
            <option value="Political Science (Shady Grove)" id="poli" class="usg">Political Science</option>
            <option value="Psychology (Shady Grove)" id="psych" class="usg">Psychology</option>
            <option value="Social Work (Shady Grove)" id="social-work" class="usg">Social Work</option>
+           
            </select>
 </td>
           </tr>
